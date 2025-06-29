@@ -1,0 +1,139 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1988,Gold,AUT,Austria,Hubert STROLZ,1988 Calgary,Alpine Skiing,Men's,Alpine combined
+Winter,1988,Silver,AUT,Austria,Bernhard GSTREIN,1988 Calgary,Alpine Skiing,Men's,Alpine combined
+Winter,1988,Bronze,SUI,Switzerland,Paul ACCOLA,1988 Calgary,Alpine Skiing,Men's,Alpine combined
+Winter,1988,Gold,ITA,Italy,Alberto TOMBA,1988 Calgary,Alpine Skiing,Men's,slalom
+Winter,1988,Silver,FRG,Federal Republic of Germany,Frank WÖRNDL,1988 Calgary,Alpine Skiing,Men's,slalom
+Winter,1988,Bronze,LIE,Liechtenstein,Paul FROMMELT,1988 Calgary,Alpine Skiing,Men's,slalom
+Winter,1988,Gold,ITA,Italy,Alberto TOMBA,1988 Calgary,Alpine Skiing,Men's,giant slalom
+Winter,1988,Silver,AUT,Austria,Hubert STROLZ,1988 Calgary,Alpine Skiing,Men's,giant slalom
+Winter,1988,Bronze,SUI,Switzerland,Pirmin ZURBRIGGEN,1988 Calgary,Alpine Skiing,Men's,giant slalom
+Winter,1988,Gold,FRA,France,Franck PICCARD,1988 Calgary,Alpine Skiing,Men's,super-G
+Winter,1988,Silver,AUT,Austria,Helmut MAYER,1988 Calgary,Alpine Skiing,Men's,super-G
+Winter,1988,Bronze,SWE,Sweden,Lars-Börje ERIKSSON,1988 Calgary,Alpine Skiing,Men's,super-G
+Winter,1988,Gold,SUI,Switzerland,Pirmin ZURBRIGGEN,1988 Calgary,Alpine Skiing,Men's,downhill
+Winter,1988,Silver,SUI,Switzerland,Peter MÜLLER,1988 Calgary,Alpine Skiing,Men's,downhill
+Winter,1988,Bronze,FRA,France,Franck PICCARD,1988 Calgary,Alpine Skiing,Men's,downhill
+Winter,1988,Gold,AUT,Austria,Anita WACHTER,1988 Calgary,Alpine Skiing,Women's,Alpine combined
+Winter,1988,Silver,SUI,Switzerland,Brigitte OERTLI,1988 Calgary,Alpine Skiing,Women's,Alpine combined
+Winter,1988,Bronze,SUI,Switzerland,Maria WALLISER,1988 Calgary,Alpine Skiing,Women's,Alpine combined
+Winter,1988,Gold,SUI,Switzerland,Vreni SCHNEIDER,1988 Calgary,Alpine Skiing,Women's,slalom
+Winter,1988,Silver,YUG,Yugoslavia,Mateja SVET,1988 Calgary,Alpine Skiing,Women's,slalom
+Winter,1988,Bronze,FRG,Federal Republic of Germany,Christa KINSHOFER GUETHLEIN,1988 Calgary,Alpine Skiing,Women's,slalom
+Winter,1988,Gold,SUI,Switzerland,Vreni SCHNEIDER,1988 Calgary,Alpine Skiing,Women's,giant slalom
+Winter,1988,Silver,FRG,Federal Republic of Germany,Christa KINSHOFER GUETHLEIN,1988 Calgary,Alpine Skiing,Women's,giant slalom
+Winter,1988,Bronze,SUI,Switzerland,Maria WALLISER,1988 Calgary,Alpine Skiing,Women's,giant slalom
+Winter,1988,Gold,AUT,Austria,Sigrid WOLF,1988 Calgary,Alpine Skiing,Women's,super-G
+Winter,1988,Silver,SUI,Switzerland,Michela FIGINI,1988 Calgary,Alpine Skiing,Women's,super-G
+Winter,1988,Bronze,CAN,Canada,Karen PERCY,1988 Calgary,Alpine Skiing,Women's,super-G
+Winter,1988,Gold,FRG,Federal Republic of Germany,Marina KIEHL,1988 Calgary,Alpine Skiing,Women's,downhill
+Winter,1988,Silver,SUI,Switzerland,Brigitte OERTLI,1988 Calgary,Alpine Skiing,Women's,downhill
+Winter,1988,Bronze,CAN,Canada,Karen PERCY,1988 Calgary,Alpine Skiing,Women's,downhill
+Winter,1988,Gold,GDR,German Democratic Republic,Frank-Peter ROETSCH,1988 Calgary,Biathlon,Men's,10km sprint
+Winter,1988,Silver,URS,USSR,Valery MEDVEDTSEV,1988 Calgary,Biathlon,Men's,10km sprint
+Winter,1988,Bronze,URS,USSR,Sergei TCHEPIKOV,1988 Calgary,Biathlon,Men's,10km sprint
+Winter,1988,Gold,GDR,German Democratic Republic,Frank-Peter ROETSCH,1988 Calgary,Biathlon,Men's,20km individual
+Winter,1988,Silver,URS,USSR,Valery MEDVEDTSEV,1988 Calgary,Biathlon,Men's,20km individual
+Winter,1988,Bronze,ITA,Italy,Johann PASSLER,1988 Calgary,Biathlon,Men's,20km individual
+Winter,1988,Gold,URS,USSR,"Dmitri VASSILIEV, Aleksandr POPOV, Sergei TCHEPIKOV, Valery MEDVEDTSEV",1988 Calgary,Biathlon,Men's,4x7.5km relay
+Winter,1988,Silver,FRG,Federal Republic of Germany,"Peter ANGERER, Ernst REITER, Fritz FISCHER, Stefan HÖCK",1988 Calgary,Biathlon,Men's,4x7.5km relay
+Winter,1988,Bronze,ITA,Italy,"Werner KIEM, Johann PASSLER, Gottlieb TASCHLER, Andreas ZINGERLE",1988 Calgary,Biathlon,Men's,4x7.5km relay
+Winter,1988,Gold,URS,USSR,"Yanis KIPURS, Vladimir KOSLOV",1988 Calgary,Bobsleigh,Men's,two-man
+Winter,1988,Silver,GDR,German Democratic Republic,"Wolfgang HOPPE, Bogdan MUSIOL",1988 Calgary,Bobsleigh,Men's,two-man
+Winter,1988,Bronze,GDR,German Democratic Republic,"Bernhard LEHMANN, Mario HOYER",1988 Calgary,Bobsleigh,Men's,two-man
+Winter,1988,Gold,SUI,Switzerland,"Ekkehard FASSER, Marcel FÄSSLER, Kurt MEIER, Werner STOCKER",1988 Calgary,Bobsleigh,Men's,four-man
+Winter,1988,Silver,GDR,German Democratic Republic,"Wolfgang HOPPE, Bogdan MUSIOL, Ingo VOGE, Dietmar SCHAUERHAMMER",1988 Calgary,Bobsleigh,Men's,four-man
+Winter,1988,Bronze,URS,USSR,"Yanis KIPURS, Juris TONE, Gountis OSSIS, Vladimir KOSLOV",1988 Calgary,Bobsleigh,Men's,four-man
+Winter,1988,Gold,URS,USSR,Mikhail DEVYATYAROV,1988 Calgary,Cross Country Skiing,Men's,15km
+Winter,1988,Silver,NOR,Norway,Paal Gunnar MIKKELSPLASS,1988 Calgary,Cross Country Skiing,Men's,15km
+Winter,1988,Bronze,URS,USSR,Vladimir SMIRNOV,1988 Calgary,Cross Country Skiing,Men's,15km
+Winter,1988,Gold,URS,USSR,Alexei PROKOUROROV,1988 Calgary,Cross Country Skiing,Men's,30km
+Winter,1988,Silver,URS,USSR,Vladimir SMIRNOV,1988 Calgary,Cross Country Skiing,Men's,30km
+Winter,1988,Bronze,NOR,Norway,Vegard ULVANG,1988 Calgary,Cross Country Skiing,Men's,30km
+Winter,1988,Gold,SWE,Sweden,Gunde Anders SVAN,1988 Calgary,Cross Country Skiing,Men's,50km
+Winter,1988,Silver,ITA,Italy,Maurilio DE ZOLT,1988 Calgary,Cross Country Skiing,Men's,50km
+Winter,1988,Bronze,SUI,Switzerland,Andi GRÜNENFELDER,1988 Calgary,Cross Country Skiing,Men's,50km
+Winter,1988,Gold,SWE,Sweden,"Jan OTTOSSON, Gunde Anders SVAN, Thomas WASSBERG, Torgny MOGREN",1988 Calgary,Cross Country Skiing,Men's,4x10km relay
+Winter,1988,Silver,URS,USSR,"Mikhail DEVYATYAROV, Vladimir SMIRNOV, Alexei PROKOUROROV, Vladimir SAKHNOV",1988 Calgary,Cross Country Skiing,Men's,4x10km relay
+Winter,1988,Bronze,TCH,Czechoslovakia,"Radim NYC, Pavel BENC, Vaclav KORUNKA, Ladislav SVANDA",1988 Calgary,Cross Country Skiing,Men's,4x10km relay
+Winter,1988,Gold,FIN,Finland,Marjo MATIKAINEN,1988 Calgary,Cross Country Skiing,Women's,5km
+Winter,1988,Silver,URS,USSR,Tamara TIKHONOVA,1988 Calgary,Cross Country Skiing,Women's,5km
+Winter,1988,Bronze,URS,USSR,Vida VENCIENE,1988 Calgary,Cross Country Skiing,Women's,5km
+Winter,1988,Gold,URS,USSR,Vida VENCIENE,1988 Calgary,Cross Country Skiing,Women's,10km
+Winter,1988,Silver,URS,USSR,Raisa SMETANINA,1988 Calgary,Cross Country Skiing,Women's,10km
+Winter,1988,Bronze,FIN,Finland,Marjo MATIKAINEN,1988 Calgary,Cross Country Skiing,Women's,10km
+Winter,1988,Gold,URS,USSR,Tamara TIKHONOVA,1988 Calgary,Cross Country Skiing,Women's,20km
+Winter,1988,Silver,URS,USSR,Anfisa REZTSOVA,1988 Calgary,Cross Country Skiing,Women's,20km
+Winter,1988,Bronze,URS,USSR,Raisa SMETANINA,1988 Calgary,Cross Country Skiing,Women's,20km
+Winter,1988,Gold,URS,USSR,"Svetlana NAGEIKINA, Tamara TIKHONOVA, Nina GAVRILJUK, Anfisa REZTSOVA",1988 Calgary,Cross Country Skiing,Women's,4x5km relay
+Winter,1988,Silver,NOR,Norway,"Anne JAHREN, Trude DYBENDAHL HARTZ, Marianne DAHLMO, Marit MIKKELSPLASS",1988 Calgary,Cross Country Skiing,Women's,4x5km relay
+Winter,1988,Bronze,FIN,Finland,"Pirkko MÄÄTTÄ, Marjo MATIKAINEN, Marja-Liisa KIRVESNIEMI, Jaana SAVOLAINEN",1988 Calgary,Cross Country Skiing,Women's,4x5km relay
+Winter,1988,Gold,USA,United States,Brian BOITANO,1988 Calgary,Figure skating,Men's,individual
+Winter,1988,Silver,CAN,Canada,Brian ORSER,1988 Calgary,Figure skating,Men's,individual
+Winter,1988,Bronze,URS,USSR,Viktor PETRENKO,1988 Calgary,Figure skating,Men's,individual
+Winter,1988,Gold,GDR,German Democratic Republic,Katarina WITT,1988 Calgary,Figure skating,Women's,individual
+Winter,1988,Silver,CAN,Canada,Elizabeth MANLEY,1988 Calgary,Figure skating,Women's,individual
+Winter,1988,Bronze,USA,United States,Debra THOMAS,1988 Calgary,Figure skating,Women's,individual
+Winter,1988,Gold,URS,USSR,"Yekaterina GORDEYEVA, Sergey GRINKOV",1988 Calgary,Figure skating,Mixed,pairs
+Winter,1988,Silver,URS,USSR,"Yelena VALOVA, Oleg VASILYEV",1988 Calgary,Figure skating,Mixed,pairs
+Winter,1988,Bronze,USA,United States,"Jill WATSON, Peter OPPEGARD",1988 Calgary,Figure skating,Mixed,pairs
+Winter,1988,Gold,URS,USSR,"Natalya BESTEMYANOVA, Andrey BUKIN",1988 Calgary,Figure skating,Mixed,ice dancing
+Winter,1988,Silver,URS,USSR,"Marina KLIMOVA, Sergey PONOMARENKO",1988 Calgary,Figure skating,Mixed,ice dancing
+Winter,1988,Bronze,CAN,Canada,"Tracy WILSON, Robert MCCALL",1988 Calgary,Figure skating,Mixed,ice dancing
+Winter,1988,Gold,URS,USSR,"Aleksei KASATONOV, Aleksandr KOZHERNIKOV, Igor STELNOV, Sergei JASJIN, Vladimir KRUTOV, Andrei KOMUTOV, Aleksei GOUSSAROV, Ilja BIAKIN, Valeri KAMENSKY, Sergei MYLNIKOV, Vitali SAMOYLOV, Viacheslav FETISOV, Sergei STARIKOV, Igor LARIONOV, Igor KRAVCHUK, Andrei LOMAKIN, Sergei MAKAROV, Aleksandr TCHERNICH, Anatoli SEMJONOV, Viacheslav BYKOV, Aleksandr MOGILNY, Sergei SVETLOV, Evgeny Belosheikin",1988 Calgary,Ice Hockey,Men's,ice hockey
+Winter,1988,Silver,FIN,Finland,"Erkki LEHTONEN, Timo SAARINEN, Timo SUSI, Raimo HELMINEN, Reijo MIKKOLAINEN, Teppo NUMMINEN, Kari ELORANTA, Jari TORKKI, Esa KESKINEN, Jyrki LUMME, Reijo RUOTSALAINEN, Sakari Lindfors, Arto RUOTANEN, Pekka TUOMISTO, Jiro JÄRVI, Erkki LAINE, Jarmo MYLLYS, Jukka TAMMI, Timo BLOMQVIST, Jukka VIRTANEN, Kari LAITINEN, Janne OJANEN, Kari SMIKKANEN",1988 Calgary,Ice Hockey,Men's,ice hockey
+Winter,1988,Bronze,SWE,Sweden,"Karl Haakan SÖDERGREN, Bo BERGLUND, Jonas BERGKVIST, Peter Michael HJÄLM, Thomas RUNDQVIST, Lars KARLSSON, Peter LINDMARK, Peter I ANDERSSON, Ulf SANDSTRÖM, Lars-Gunnar PETTERSSON, Thomas ERIKSSON, Anders Bergman, Thomas EKLUND, Tommy SAMUELSSON, Mikael ANDERSSON, Anders ELDEBRINK, Jens ÖHLING, Mats KIHLSTRÖM, Lars MOLIN, Mikael JOHANSSON, Peter AASLIN, Peter ERIKSSON, Lars IVARSSON",1988 Calgary,Ice Hockey,Men's,ice hockey
+Winter,1988,Gold,GDR,German Democratic Republic,Jens MUELLER,1988 Calgary,Luge,Men's,singles
+Winter,1988,Silver,FRG,Federal Republic of Germany,Georg HACKL,1988 Calgary,Luge,Men's,singles
+Winter,1988,Bronze,URS,USSR,Yury KHARCHENKO,1988 Calgary,Luge,Men's,singles
+Winter,1988,Gold,GDR,German Democratic Republic,Steffi WALTER,1988 Calgary,Luge,Women's,singles
+Winter,1988,Silver,GDR,German Democratic Republic,Ute OBERHOFFNER,1988 Calgary,Luge,Women's,singles
+Winter,1988,Bronze,GDR,German Democratic Republic,Cerstin SCHMIDT,1988 Calgary,Luge,Women's,singles
+Winter,1988,Gold,GDR,German Democratic Republic,"Jörg HOFFMANN, Jochen PIETZSCH",1988 Calgary,Luge,Mixed,doubles
+Winter,1988,Silver,GDR,German Democratic Republic,"Stefan KRAUSSE, Jan BEHRENDT",1988 Calgary,Luge,Mixed,doubles
+Winter,1988,Bronze,FRG,Federal Republic of Germany,"Thomas SCHWAB, Wolfgang STAUDINGER",1988 Calgary,Luge,Mixed,doubles
+Winter,1988,Gold,SUI,Switzerland,Hippolyt KEMPF,1988 Calgary,Nordic Combined,Men's,individual
+Winter,1988,Silver,AUT,Austria,Klaus SULZENBACHER,1988 Calgary,Nordic Combined,Men's,individual
+Winter,1988,Bronze,URS,USSR,Allar LEVANDI,1988 Calgary,Nordic Combined,Men's,individual
+Winter,1988,Gold,FRG,Federal Republic of Germany,"Thomas MÜLLER, Hans-Peter POHL, Hubert SCHWARZ",1988 Calgary,Nordic Combined,Men's,team
+Winter,1988,Silver,SUI,Switzerland,"Hippolyt KEMPF, Andreas SCHAAD, Fredy GLANZMANN",1988 Calgary,Nordic Combined,Men's,team
+Winter,1988,Bronze,AUT,Austria,"Günther CSAR, Klaus SULZENBACHER, Hansjörg ASCHENWALD",1988 Calgary,Nordic Combined,Men's,team
+Winter,1988,Gold,FIN,Finland,Matti NYKANEN,1988 Calgary,Ski Jumping,Men's,Normal Hill individual
+Winter,1988,Silver,TCH,Czechoslovakia,Pavel PLOC,1988 Calgary,Ski Jumping,Men's,Normal Hill individual
+Winter,1988,Bronze,TCH,Czechoslovakia,Jiri MALEC,1988 Calgary,Ski Jumping,Men's,Normal Hill individual
+Winter,1988,Gold,FIN,Finland,Matti NYKANEN,1988 Calgary,Ski Jumping,Men's,Large Hill individual
+Winter,1988,Silver,NOR,Norway,Erik JOHNSEN,1988 Calgary,Ski Jumping,Men's,Large Hill individual
+Winter,1988,Bronze,YUG,Yugoslavia,Matjaz DEBELAK,1988 Calgary,Ski Jumping,Men's,Large Hill individual
+Winter,1988,Gold,FIN,Finland,"Ari-Pekka NIKKOLA, Tuomo YLLIPULLI, Matti NYKANEN, Jari PUIKKONEN",1988 Calgary,Ski Jumping,Men's,Large Hill team
+Winter,1988,Silver,YUG,Yugoslavia,"Matjaz DEBELAK, Primoz ULAGA, Miran TEPES, Matjaz ZUPAN",1988 Calgary,Ski Jumping,Men's,Large Hill team
+Winter,1988,Bronze,NOR,Norway,"Ole C. EIDHAMMER, Ole Gunnar FIDJESTÖL, Jon KJÖRUM, Erik JOHNSEN",1988 Calgary,Ski Jumping,Men's,Large Hill team
+Winter,1988,Gold,GDR,German Democratic Republic,Uwe-Jens MEY,1988 Calgary,Speed skating,Men's,500m
+Winter,1988,Silver,NED,Netherlands,Jan YKEMA,1988 Calgary,Speed skating,Men's,500m
+Winter,1988,Bronze,JPN,Japan,Akira KUROIWA,1988 Calgary,Speed skating,Men's,500m
+Winter,1988,Gold,URS,USSR,Nikolay GULYAEV,1988 Calgary,Speed skating,Men's,1000m
+Winter,1988,Silver,GDR,German Democratic Republic,Uwe-Jens MEY,1988 Calgary,Speed skating,Men's,1000m
+Winter,1988,Bronze,URS,USSR,Igor ZHELEZOVSKY,1988 Calgary,Speed skating,Men's,1000m
+Winter,1988,Gold,GDR,German Democratic Republic,Andre HOFFMANN,1988 Calgary,Speed skating,Men's,1500m
+Winter,1988,Silver,USA,United States,Eric FLAIM,1988 Calgary,Speed skating,Men's,1500m
+Winter,1988,Bronze,AUT,Austria,Michael HADSCHIEFF,1988 Calgary,Speed skating,Men's,1500m
+Winter,1988,Gold,SWE,Sweden,Tomas GUSTAFSON,1988 Calgary,Speed skating,Men's,5000m
+Winter,1988,Silver,NED,Netherlands,Leo VISSER,1988 Calgary,Speed skating,Men's,5000m
+Winter,1988,Bronze,NED,Netherlands,Gerard KEMKERS,1988 Calgary,Speed skating,Men's,5000m
+Winter,1988,Gold,SWE,Sweden,Tomas GUSTAFSON,1988 Calgary,Speed skating,Men's,10000m
+Winter,1988,Silver,AUT,Austria,Michael HADSCHIEFF,1988 Calgary,Speed skating,Men's,10000m
+Winter,1988,Bronze,NED,Netherlands,Leo VISSER,1988 Calgary,Speed skating,Men's,10000m
+Winter,1988,Gold,USA,United States,Bonnie BLAIR,1988 Calgary,Speed skating,Women's,500m
+Winter,1988,Silver,GDR,German Democratic Republic,Christa LUDING,1988 Calgary,Speed skating,Women's,500m
+Winter,1988,Bronze,GDR,German Democratic Republic,Karin KANIA,1988 Calgary,Speed skating,Women's,500m
+Winter,1988,Gold,GDR,German Democratic Republic,Christa LUDING,1988 Calgary,Speed skating,Women's,1000m
+Winter,1988,Silver,GDR,German Democratic Republic,Karin KANIA,1988 Calgary,Speed skating,Women's,1000m
+Winter,1988,Bronze,USA,United States,Bonnie BLAIR,1988 Calgary,Speed skating,Women's,1000m
+Winter,1988,Gold,NED,Netherlands,Yvonne VAN GENNIP,1988 Calgary,Speed skating,Women's,1500m
+Winter,1988,Silver,GDR,German Democratic Republic,Karin KANIA,1988 Calgary,Speed skating,Women's,1500m
+Winter,1988,Bronze,GDR,German Democratic Republic,Andrea EHRIG,1988 Calgary,Speed skating,Women's,1500m
+Winter,1988,Gold,NED,Netherlands,Yvonne VAN GENNIP,1988 Calgary,Speed skating,Women's,3000m
+Winter,1988,Silver,GDR,German Democratic Republic,Andrea EHRIG,1988 Calgary,Speed skating,Women's,3000m
+Winter,1988,Bronze,GDR,German Democratic Republic,Gabi ZANGE,1988 Calgary,Speed skating,Women's,3000m
+Winter,1988,Gold,NED,Netherlands,Yvonne VAN GENNIP,1988 Calgary,Speed skating,Women's,5000m
+Winter,1988,Silver,GDR,German Democratic Republic,Andrea EHRIG,1988 Calgary,Speed skating,Women's,5000m
+Winter,1988,Bronze,GDR,German Democratic Republic,Gabi ZANGE,1988 Calgary,Speed skating,Women's,5000m

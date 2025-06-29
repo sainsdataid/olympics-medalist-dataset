@@ -1,0 +1,107 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1968,Gold,FRA,France,Jean-Claude KILLY,1968 Grenoble,Alpine Skiing,Men's,downhill
+Winter,1968,Silver,FRA,France,Guy PÉRILLAT,1968 Grenoble,Alpine Skiing,Men's,downhill
+Winter,1968,Bronze,SUI,Switzerland,Jean-Daniel DÄTWYLER,1968 Grenoble,Alpine Skiing,Men's,downhill
+Winter,1968,Gold,FRA,France,Jean-Claude KILLY,1968 Grenoble,Alpine Skiing,Men's,slalom
+Winter,1968,Silver,AUT,Austria,Herbert HUBER,1968 Grenoble,Alpine Skiing,Men's,slalom
+Winter,1968,Bronze,AUT,Austria,Alfred MATT,1968 Grenoble,Alpine Skiing,Men's,slalom
+Winter,1968,Gold,FRA,France,Jean-Claude KILLY,1968 Grenoble,Alpine Skiing,Men's,giant slalom
+Winter,1968,Silver,SUI,Switzerland,Willy FAVRE,1968 Grenoble,Alpine Skiing,Men's,giant slalom
+Winter,1968,Bronze,AUT,Austria,Heinrich MESSNER,1968 Grenoble,Alpine Skiing,Men's,giant slalom
+Winter,1968,Gold,AUT,Austria,Olga PALL,1968 Grenoble,Alpine Skiing,Women's,downhill
+Winter,1968,Silver,FRA,France,Isabelle MIR,1968 Grenoble,Alpine Skiing,Women's,downhill
+Winter,1968,Bronze,AUT,Austria,Christl HAAS,1968 Grenoble,Alpine Skiing,Women's,downhill
+Winter,1968,Gold,FRA,France,Marielle GOITSCHEL,1968 Grenoble,Alpine Skiing,Women's,slalom
+Winter,1968,Silver,CAN,Canada,Nancy GREENE,1968 Grenoble,Alpine Skiing,Women's,slalom
+Winter,1968,Bronze,FRA,France,Annie FAMOSE,1968 Grenoble,Alpine Skiing,Women's,slalom
+Winter,1968,Gold,CAN,Canada,Nancy GREENE,1968 Grenoble,Alpine Skiing,Women's,giant slalom
+Winter,1968,Silver,FRA,France,Annie FAMOSE,1968 Grenoble,Alpine Skiing,Women's,giant slalom
+Winter,1968,Bronze,SUI,Switzerland,Fernande BOCHATAY,1968 Grenoble,Alpine Skiing,Women's,giant slalom
+Winter,1968,Gold,NOR,Norway,Magnar SOLBERG,1968 Grenoble,Biathlon,Men's,20km individual
+Winter,1968,Silver,URS,USSR,Aleksandr TIKHONOV,1968 Grenoble,Biathlon,Men's,20km individual
+Winter,1968,Bronze,URS,USSR,Vladimir GUNDARTSEV,1968 Grenoble,Biathlon,Men's,20km individual
+Winter,1968,Gold,URS,USSR,"Vladimir GUNDARTSEV, Aleksandr TIKHONOV, Nikolay PUSANOV, Viktor MAMATOV",1968 Grenoble,Biathlon,Men's,4x7.5km relay
+Winter,1968,Silver,NOR,Norway,"Magnar SOLBERG, Olav JORDET, Ola WÆRHAUG, Jon ISTAD",1968 Grenoble,Biathlon,Men's,4x7.5km relay
+Winter,1968,Bronze,SWE,Sweden,"Holmfrid OLSSON, Lars-Göran ARWIDSON, Tore ERIKSSON, Olle PETRUSSON",1968 Grenoble,Biathlon,Men's,4x7.5km relay
+Winter,1968,Gold,ITA,Italy,"Eugenio MONTI, Luciano DE PAOLIS",1968 Grenoble,Bobsleigh,Men's,two-man
+Winter,1968,Silver,FRG,Federal Republic of Germany,"Horst FLOTH, Pepi BADER",1968 Grenoble,Bobsleigh,Men's,two-man
+Winter,1968,Bronze,ROU,Romania,"Ion PANTURU, Nicolae NEAGOE",1968 Grenoble,Bobsleigh,Men's,two-man
+Winter,1968,Gold,ITA,Italy,"Luciano DE PAOLIS, Roberto ZANDONELLA, Mario ARMANO, Eugenio MONTI",1968 Grenoble,Bobsleigh,Men's,four-man
+Winter,1968,Silver,AUT,Austria,"Reinhold DURNTHALER, Erwin THALER, Herbert GRUBER, Josef EDER",1968 Grenoble,Bobsleigh,Men's,four-man
+Winter,1968,Bronze,SUI,Switzerland,"Willi HOFMANN, Jean WICKI, Walter GRAF, Hans CANDRIAN",1968 Grenoble,Bobsleigh,Men's,four-man
+Winter,1968,Gold,NOR,Norway,Harald GRØNNINGEN,1968 Grenoble,Cross Country Skiing,Men's,15km
+Winter,1968,Silver,FIN,Finland,Eero MANTYRANTA,1968 Grenoble,Cross Country Skiing,Men's,15km
+Winter,1968,Bronze,SWE,Sweden,Gunnar LARSSON,1968 Grenoble,Cross Country Skiing,Men's,15km
+Winter,1968,Gold,ITA,Italy,Franco NONES,1968 Grenoble,Cross Country Skiing,Men's,30km
+Winter,1968,Silver,NOR,Norway,Odd MARTINSEN,1968 Grenoble,Cross Country Skiing,Men's,30km
+Winter,1968,Bronze,FIN,Finland,Eero MANTYRANTA,1968 Grenoble,Cross Country Skiing,Men's,30km
+Winter,1968,Gold,NOR,Norway,Ole ELLEFSÆTER,1968 Grenoble,Cross Country Skiing,Men's,50km
+Winter,1968,Silver,URS,USSR,Vyacheslav VEDENIN,1968 Grenoble,Cross Country Skiing,Men's,50km
+Winter,1968,Bronze,SUI,Switzerland,Joseph HAAS,1968 Grenoble,Cross Country Skiing,Men's,50km
+Winter,1968,Gold,NOR,Norway,"Pål TYLDUM, Ole ELLEFSÆTER, Harald GRØNNINGEN, Odd MARTINSEN",1968 Grenoble,Cross Country Skiing,Men's,4x10km relay
+Winter,1968,Silver,SWE,Sweden,"Bjarne ANDERSSON, Jan HALVARSSON, Assar RÖNNLUND, Gunnar LARSSON",1968 Grenoble,Cross Country Skiing,Men's,4x10km relay
+Winter,1968,Bronze,FIN,Finland,"Kalevi OIKARAINEN, Hannu TAIPALE, Kalevi LAURILA, Eero MANTYRANTA",1968 Grenoble,Cross Country Skiing,Men's,4x10km relay
+Winter,1968,Gold,SWE,Sweden,Toini GUSTAFSSON,1968 Grenoble,Cross Country Skiing,Women's,5km
+Winter,1968,Silver,URS,USSR,Galina KULAKOVA,1968 Grenoble,Cross Country Skiing,Women's,5km
+Winter,1968,Bronze,URS,USSR,Alevtina KOLCHINA,1968 Grenoble,Cross Country Skiing,Women's,5km
+Winter,1968,Gold,SWE,Sweden,Toini GUSTAFSSON,1968 Grenoble,Cross Country Skiing,Women's,10km
+Winter,1968,Silver,NOR,Norway,Berit MØRDRE-LAMMEDAL,1968 Grenoble,Cross Country Skiing,Women's,10km
+Winter,1968,Bronze,NOR,Norway,Inger AUFLES,1968 Grenoble,Cross Country Skiing,Women's,10km
+Winter,1968,Gold,NOR,Norway,"Berit MØRDRE-LAMMEDAL, Inger AUFLES, Babben ENGER",1968 Grenoble,Cross Country Skiing,Women's,3x5km relay
+Winter,1968,Silver,SWE,Sweden,"Britt STRANDBERG, Barbro MARTINSSON, Toini GUSTAFSSON",1968 Grenoble,Cross Country Skiing,Women's,3x5km relay
+Winter,1968,Bronze,URS,USSR,"Alevtina KOLCHINA, Galina KULAKOVA, Rita ACHKINA",1968 Grenoble,Cross Country Skiing,Women's,3x5km relay
+Winter,1968,Gold,AUT,Austria,Wolfgang SCHWARZ,1968 Grenoble,Figure skating,Men's,individual
+Winter,1968,Silver,USA,United States,Tim WOOD,1968 Grenoble,Figure skating,Men's,individual
+Winter,1968,Bronze,FRA,France,Patrick PERA,1968 Grenoble,Figure skating,Men's,individual
+Winter,1968,Gold,USA,United States,Peggy FLEMING,1968 Grenoble,Figure skating,Women's,individual
+Winter,1968,Silver,GDR,German Democratic Republic,Gabriele SEYFERT,1968 Grenoble,Figure skating,Women's,individual
+Winter,1968,Bronze,TCH,Czechoslovakia,Hana MASKOVA,1968 Grenoble,Figure skating,Women's,individual
+Winter,1968,Gold,URS,USSR,"Oleg PROTOPOPOV, Lyudmila BELOUSOVA",1968 Grenoble,Figure skating,Mixed,pairs
+Winter,1968,Silver,URS,USSR,"Tatyana ZHUK, Aleksandr GORELIK",1968 Grenoble,Figure skating,Mixed,pairs
+Winter,1968,Bronze,FRG,Federal Republic of Germany,"Margot GLOCKSHUBER, Wolfgang DANNE",1968 Grenoble,Figure skating,Mixed,pairs
+Winter,1968,Gold,URS,USSR,"Vladimir VIKULOV, Viktor POLUPANOV, Viktor BLINOV, Anatoli FIRSOV, Yuri MOISSEYEV, Viktor ZINGER, Evgeni ZIMIN, Boris MAYOROV, Viktor KOUSKINE, Igor ROMICHEVSKY, Vitali DAVIDOV, Anatoli IONOV, Oleg ZAITZEV, Evgeni MISHAKOV, Aleksandr RAGULIN, Veniamin ALEKSANDROV, Vyacheslav STARSHINOV, Viktor KONOVALENKO",1968 Grenoble,Ice Hockey,Men's,ice hockey
+Winter,1968,Silver,TCH,Czechoslovakia,"Petr HEJMA, Jiri KOCHTA, Vladimir DZURILLA, Frantisek POSPISIL, Vaclav NEDOMANSKY, Josef CERNY, Josef GOLONKA, Jan HRBATÝ, Vladimír NADRCHAL, Jan KLAPÁC, Jiri HOLIK, Jan SUCHÝ, Oldrich MACHAC, Frantisek SEVCIK, Jaroslav JIRÍK, Josef HORESOVSKY, Karel MASOPUST, Jan HAVEL",1968 Grenoble,Ice Hockey,Men's,ice hockey
+Winter,1968,Bronze,CAN,Canada,"Raymond CADIEUX, Kenneth BRODERICK, Wayne STEPHENSON, Danny O'SHEA, Barry MACKENZIE, Morris MOTT, Terrence O'MALLEY, Francis HUCK, William MCMILLAN, Gary DINEEN, Brian GLENNIE, Gerry PINDER, Herbert PINDER, Roger BOURBONNAIS, Paul CONLIN, Ted HARGREAVES, Stephen MONTEITH, Marshall JOHNSTON",1968 Grenoble,Ice Hockey,Men's,ice hockey
+Winter,1968,Gold,AUT,Austria,Manfred SCHMID,1968 Grenoble,Luge,Men's,singles
+Winter,1968,Silver,GDR,German Democratic Republic,Thomas KÖHLER,1968 Grenoble,Luge,Men's,singles
+Winter,1968,Bronze,GDR,German Democratic Republic,Klaus-Michael BONSACK,1968 Grenoble,Luge,Men's,singles
+Winter,1968,Gold,ITA,Italy,Erica LECHNER,1968 Grenoble,Luge,Women's,singles
+Winter,1968,Silver,FRG,Federal Republic of Germany,Christa SCHMUCK,1968 Grenoble,Luge,Women's,singles
+Winter,1968,Bronze,FRG,Federal Republic of Germany,Angelika DÜNHAUPT,1968 Grenoble,Luge,Women's,singles
+Winter,1968,Gold,GDR,German Democratic Republic,"Thomas KÖHLER, Klaus-Michael BONSACK",1968 Grenoble,Luge,Mixed,doubles
+Winter,1968,Silver,AUT,Austria,"Ewald WALCH, Manfred SCHMID",1968 Grenoble,Luge,Mixed,doubles
+Winter,1968,Bronze,FRG,Federal Republic of Germany,"Wolfgang WINKLER, Fritz NACHMANN",1968 Grenoble,Luge,Mixed,doubles
+Winter,1968,Gold,FRG,Federal Republic of Germany,Franz KELLER,1968 Grenoble,Nordic Combined,Men's,individual
+Winter,1968,Silver,SUI,Switzerland,Alois KÄLIN,1968 Grenoble,Nordic Combined,Men's,individual
+Winter,1968,Bronze,GDR,German Democratic Republic,Andreas KUNZ,1968 Grenoble,Nordic Combined,Men's,individual
+Winter,1968,Gold,TCH,Czechoslovakia,Jiri RASKA,1968 Grenoble,Ski Jumping,Men's,Normal Hill individual
+Winter,1968,Silver,AUT,Austria,Reinhold BACHLER,1968 Grenoble,Ski Jumping,Men's,Normal Hill individual
+Winter,1968,Bronze,AUT,Austria,Baldur PREIML,1968 Grenoble,Ski Jumping,Men's,Normal Hill individual
+Winter,1968,Gold,URS,USSR,Vladimir BELUSOV,1968 Grenoble,Ski Jumping,Men's,Large Hill individual
+Winter,1968,Silver,TCH,Czechoslovakia,Jiri RASKA,1968 Grenoble,Ski Jumping,Men's,Large Hill individual
+Winter,1968,Bronze,NOR,Norway,Lars GRINI,1968 Grenoble,Ski Jumping,Men's,Large Hill individual
+Winter,1968,Gold,FRG,Federal Republic of Germany,Erhard KELLER,1968 Grenoble,Speed skating,Men's,500m
+Winter,1968,Silver,NOR,Norway,Magne THOMASSEN,1968 Grenoble,Speed skating,Men's,500m
+Winter,1968,Silver,USA,United States,Richard MCDERMOTT,1968 Grenoble,Speed skating,Men's,500m
+Winter,1968,Gold,NED,Netherlands,Kees VERKERK,1968 Grenoble,Speed skating,Men's,1500m
+Winter,1968,Silver,NED,Netherlands,Ard SCHENK,1968 Grenoble,Speed skating,Men's,1500m
+Winter,1968,Silver,NOR,Norway,Ivar ERIKSEN,1968 Grenoble,Speed skating,Men's,1500m
+Winter,1968,Gold,NOR,Norway,Fred Anton MAIER,1968 Grenoble,Speed skating,Men's,5000m
+Winter,1968,Silver,NED,Netherlands,Kees VERKERK,1968 Grenoble,Speed skating,Men's,5000m
+Winter,1968,Bronze,NED,Netherlands,Peter NOTTET,1968 Grenoble,Speed skating,Men's,5000m
+Winter,1968,Gold,SWE,Sweden,Johnny HÖGLIN,1968 Grenoble,Speed skating,Men's,10000m
+Winter,1968,Silver,NOR,Norway,Fred Anton MAIER,1968 Grenoble,Speed skating,Men's,10000m
+Winter,1968,Bronze,SWE,Sweden,Örjan SANDLER,1968 Grenoble,Speed skating,Men's,10000m
+Winter,1968,Gold,URS,USSR,Lyudmila TITOVA,1968 Grenoble,Speed skating,Women's,500m
+Winter,1968,Silver,USA,United States,Dianne HOLUM,1968 Grenoble,Speed skating,Women's,500m
+Winter,1968,Silver,USA,United States,Jennifer FISH,1968 Grenoble,Speed skating,Women's,500m
+Winter,1968,Silver,USA,United States,Mary MEYERS,1968 Grenoble,Speed skating,Women's,500m
+Winter,1968,Gold,NED,Netherlands,Carry GEIJSSEN,1968 Grenoble,Speed skating,Women's,1000m
+Winter,1968,Silver,URS,USSR,Lyudmila TITOVA,1968 Grenoble,Speed skating,Women's,1000m
+Winter,1968,Bronze,USA,United States,Dianne HOLUM,1968 Grenoble,Speed skating,Women's,1000m
+Winter,1968,Gold,FIN,Finland,Kaija MUSTONEN,1968 Grenoble,Speed skating,Women's,1500m
+Winter,1968,Silver,NED,Netherlands,Carry GEIJSSEN,1968 Grenoble,Speed skating,Women's,1500m
+Winter,1968,Bronze,NED,Netherlands,Stien BAAS-KAISER,1968 Grenoble,Speed skating,Women's,1500m
+Winter,1968,Gold,NED,Netherlands,Ans SCHUT,1968 Grenoble,Speed skating,Women's,3000m
+Winter,1968,Silver,FIN,Finland,Kaija MUSTONEN,1968 Grenoble,Speed skating,Women's,3000m
+Winter,1968,Bronze,NED,Netherlands,Stien BAAS-KAISER,1968 Grenoble,Speed skating,Women's,3000m

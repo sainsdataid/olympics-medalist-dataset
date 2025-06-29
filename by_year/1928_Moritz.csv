@@ -1,0 +1,43 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1928,Gold,USA,United States,"Clifford Barton GRAY, Geoffrey Travers MASON, Richard PARKE, William FISKE, Nion TUCKER",1928 St. Moritz,Bobsleigh,Men's,five-man
+Winter,1928,Silver,USA,United States,"Lyman HINE, Jennison HEATON, James Jay O'BRIEN, Thomas DOE, David GRANGER",1928 St. Moritz,Bobsleigh,Men's,five-man
+Winter,1928,Bronze,GER,Germany,"Valentin KREMPL, Hans HEß, Hanns KILIAN, Hanns NÄGLE, Sebastian HUBER",1928 St. Moritz,Bobsleigh,Men's,five-man
+Winter,1928,Gold,NOR,Norway,Johan GROTTUMSBRAATEN,1928 St. Moritz,Cross Country Skiing,Men's,18km
+Winter,1928,Silver,NOR,Norway,Ole HEGGE,1928 St. Moritz,Cross Country Skiing,Men's,18km
+Winter,1928,Bronze,NOR,Norway,Reidar ÖDEGAARD,1928 St. Moritz,Cross Country Skiing,Men's,18km
+Winter,1928,Gold,SWE,Sweden,Per Erik HEDLUND,1928 St. Moritz,Cross Country Skiing,Men's,50km
+Winter,1928,Silver,SWE,Sweden,Gustav JONSSON,1928 St. Moritz,Cross Country Skiing,Men's,50km
+Winter,1928,Bronze,SWE,Sweden,Volger ANDERSSON,1928 St. Moritz,Cross Country Skiing,Men's,50km
+Winter,1928,Gold,SWE,Sweden,Gillis GRAFSTRÖM,1928 St. Moritz,Figure skating,Men's,individual
+Winter,1928,Silver,AUT,Austria,Willy BÖCKL,1928 St. Moritz,Figure skating,Men's,individual
+Winter,1928,Bronze,BEL,Belgium,Robert VAN ZEEBROECK,1928 St. Moritz,Figure skating,Men's,individual
+Winter,1928,Gold,NOR,Norway,Sonja HENIE,1928 St. Moritz,Figure skating,Women's,individual
+Winter,1928,Silver,AUT,Austria,Fritzi BURGER,1928 St. Moritz,Figure skating,Women's,individual
+Winter,1928,Bronze,USA,United States,Beatrix LOUGHRAN,1928 St. Moritz,Figure skating,Women's,individual
+Winter,1928,Gold,FRA,France,"Pierre BRUNET, Andrée JOLY",1928 St. Moritz,Figure skating,Mixed,pairs
+Winter,1928,Silver,AUT,Austria,"Otto KAISER, Lilly SCHOLZ",1928 St. Moritz,Figure skating,Mixed,pairs
+Winter,1928,Bronze,AUT,Austria,"Melitta BRUNNER, Ludwig WREDE",1928 St. Moritz,Figure skating,Mixed,pairs
+Winter,1928,Gold,CAN,Canada,"Frank FISHER, David TROTTIER, Herbert PLAXTON, Roger PLAXTON, Norbert MUELLER, Ross TAYLOR, Lou HUDSON, John PORTER, Joe SULLIVAN, Charles DELAHAY, Hugh PLAXTON, Frank SULLIVAN",1928 St. Moritz,Ice Hockey,Men's,ice hockey
+Winter,1928,Silver,SWE,Sweden,"Birger HOLMQVIST, Kurt SUCKSDORFF, Gustaf JOHANSSON, Ernst KARLBERG, Carl ABRAHAMSSON, Henry JOHANSSON, Erik LARSSON, Sigfrid ÖBERG, Bertil LINDE, Emil BERGMAN, Wilhelm PETERSÉN, Nils JOHANSSON",1928 St. Moritz,Ice Hockey,Men's,ice hockey
+Winter,1928,Bronze,SUI,Switzerland,"Charles FASEL, Robert BREITER, Arnold MARTIGNONI, Giannin ANDREOSSI, Luzius RÜEDI, Fritz KRAATZ, Heini MENG, Richard TORRIANI, Mezzi ANDREOSSI, Albert GEROMINI, Anton MOROSANI, Louis DUFOUR",1928 St. Moritz,Ice Hockey,Men's,ice hockey
+Winter,1928,Gold,NOR,Norway,Johan GROTTUMSBRAATEN,1928 St. Moritz,Nordic Combined,Men's,individual
+Winter,1928,Silver,NOR,Norway,Hans VINJARENGEN,1928 St. Moritz,Nordic Combined,Men's,individual
+Winter,1928,Bronze,NOR,Norway,John SNERSRUD,1928 St. Moritz,Nordic Combined,Men's,individual
+Winter,1928,Gold,USA,United States,Jennison HEATON,1928 St. Moritz,Skeleton,Men's,individual
+Winter,1928,Silver,USA,United States,John HEATON,1928 St. Moritz,Skeleton,Men's,individual
+Winter,1928,Bronze,GBR,Great Britain,"David, Earl of NORTHESK",1928 St. Moritz,Skeleton,Men's,individual
+Winter,1928,Gold,NOR,Norway,Alf ANDERSEN,1928 St. Moritz,Ski Jumping,Men's,Normal Hill individual
+Winter,1928,Silver,NOR,Norway,Sigmund RUUD,1928 St. Moritz,Ski Jumping,Men's,Normal Hill individual
+Winter,1928,Bronze,TCH,Czechoslovakia,Rudolf BURKERT,1928 St. Moritz,Ski Jumping,Men's,Normal Hill individual
+Winter,1928,Gold,FIN,Finland,Clas THUNBERG,1928 St. Moritz,Speed skating,Men's,500m
+Winter,1928,Gold,NOR,Norway,Bernt EVENSEN,1928 St. Moritz,Speed skating,Men's,500m
+Winter,1928,Bronze,FIN,Finland,Jaakko FRIMAN,1928 St. Moritz,Speed skating,Men's,500m
+Winter,1928,Bronze,NOR,Norway,Roald LARSEN,1928 St. Moritz,Speed skating,Men's,500m
+Winter,1928,Bronze,USA,United States,John O'NEIL FARRELL,1928 St. Moritz,Speed skating,Men's,500m
+Winter,1928,Gold,FIN,Finland,Clas THUNBERG,1928 St. Moritz,Speed skating,Men's,1500m
+Winter,1928,Silver,NOR,Norway,Bernt EVENSEN,1928 St. Moritz,Speed skating,Men's,1500m
+Winter,1928,Bronze,NOR,Norway,Ivar BALLANGRUD,1928 St. Moritz,Speed skating,Men's,1500m
+Winter,1928,Gold,NOR,Norway,Ivar BALLANGRUD,1928 St. Moritz,Speed skating,Men's,5000m
+Winter,1928,Silver,FIN,Finland,Julius SKUTNABB,1928 St. Moritz,Speed skating,Men's,5000m
+Winter,1928,Bronze,NOR,Norway,Bernt EVENSEN,1928 St. Moritz,Speed skating,Men's,5000m
+Winter,1928,,,,,1928 St. Moritz,Speed skating,Men's,10000m

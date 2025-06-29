@@ -1,0 +1,601 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1972,Gold,USA,United States,John WILLIAMS,1972 Munich,Archery,Men's,individual FITA round
+Summer,1972,Silver,SWE,Sweden,Gunnar JERVILL,1972 Munich,Archery,Men's,individual FITA round
+Summer,1972,Bronze,FIN,Finland,Kyösti Kalevi LAASONEN,1972 Munich,Archery,Men's,individual FITA round
+Summer,1972,Gold,USA,United States,Doreen WILBER,1972 Munich,Archery,Women's,individual FITA round
+Summer,1972,Silver,POL,Poland,Irena SZYDLOWSKA,1972 Munich,Archery,Women's,individual FITA round
+Summer,1972,Bronze,URS,USSR,Emma GAPCHENKO,1972 Munich,Archery,Women's,individual FITA round
+Summer,1972,Gold,URS,USSR,Valery BORZOV,1972 Munich,Athletics,Men's,100m
+Summer,1972,Silver,USA,United States,Robert TAYLOR,1972 Munich,Athletics,Men's,100m
+Summer,1972,Bronze,JAM,Jamaica,Lennox MILLER,1972 Munich,Athletics,Men's,100m
+Summer,1972,Gold,URS,USSR,Valery BORZOV,1972 Munich,Athletics,Men's,200m
+Summer,1972,Silver,USA,United States,Larry BLACK,1972 Munich,Athletics,Men's,200m
+Summer,1972,Bronze,ITA,Italy,Pietro MENNEA,1972 Munich,Athletics,Men's,200m
+Summer,1972,Gold,USA,United States,Vince MATTHEWS,1972 Munich,Athletics,Men's,400m
+Summer,1972,Silver,USA,United States,Wayne COLLETT,1972 Munich,Athletics,Men's,400m
+Summer,1972,Bronze,KEN,Kenya,Julius SANG,1972 Munich,Athletics,Men's,400m
+Summer,1972,Gold,USA,United States,David James WOTTLE,1972 Munich,Athletics,Men's,800m
+Summer,1972,Silver,URS,USSR,Yevgeni ARZHANOV,1972 Munich,Athletics,Men's,800m
+Summer,1972,Bronze,KEN,Kenya,Mike BOIT,1972 Munich,Athletics,Men's,800m
+Summer,1972,Gold,FIN,Finland,Pekka VASALA,1972 Munich,Athletics,Men's,1500m
+Summer,1972,Silver,KEN,Kenya,Kip KEINO,1972 Munich,Athletics,Men's,1500m
+Summer,1972,Bronze,NZL,New Zealand,Rodney DIXON,1972 Munich,Athletics,Men's,1500m
+Summer,1972,Gold,FIN,Finland,Lasse VIREN,1972 Munich,Athletics,Men's,5000m
+Summer,1972,Silver,TUN,Tunisia,Mohamed GAMMOUDI,1972 Munich,Athletics,Men's,5000m
+Summer,1972,Bronze,GBR,Great Britain,Ian STEWART,1972 Munich,Athletics,Men's,5000m
+Summer,1972,Gold,FIN,Finland,Lasse VIREN,1972 Munich,Athletics,Men's,10000m
+Summer,1972,Silver,BEL,Belgium,Emiel PUTTEMANS,1972 Munich,Athletics,Men's,10000m
+Summer,1972,Bronze,ETH,Ethiopia,Miruts YIFTER,1972 Munich,Athletics,Men's,10000m
+Summer,1972,Gold,USA,United States,Frank Charles SHORTER,1972 Munich,Athletics,Men's,marathon
+Summer,1972,Silver,BEL,Belgium,Karel LISMONT,1972 Munich,Athletics,Men's,marathon
+Summer,1972,Bronze,ETH,Ethiopia,Mamo WOLDE,1972 Munich,Athletics,Men's,marathon
+Summer,1972,Gold,USA,United States,Rod MILBURN,1972 Munich,Athletics,Men's,110m hurdles
+Summer,1972,Silver,FRA,France,Guy DRUT,1972 Munich,Athletics,Men's,110m hurdles
+Summer,1972,Bronze,USA,United States,Thomas HILL,1972 Munich,Athletics,Men's,110m hurdles
+Summer,1972,Gold,UGA,Uganda,John AKII-BUA,1972 Munich,Athletics,Men's,400m hurdles
+Summer,1972,Silver,USA,United States,Ralph MANN,1972 Munich,Athletics,Men's,400m hurdles
+Summer,1972,Bronze,GBR,Great Britain,David HEMERY,1972 Munich,Athletics,Men's,400m hurdles
+Summer,1972,Gold,KEN,Kenya,Kip KEINO,1972 Munich,Athletics,Men's,3000m steeplechase
+Summer,1972,Silver,KEN,Kenya,Ben JIPCHO,1972 Munich,Athletics,Men's,3000m steeplechase
+Summer,1972,Bronze,FIN,Finland,Tapio KANTANEN,1972 Munich,Athletics,Men's,3000m steeplechase
+Summer,1972,Gold,USA,United States,"Robert TAYLOR, Gerald TINKER, Eddie HART, Larry BLACK",1972 Munich,Athletics,Men's,4x100m relay
+Summer,1972,Silver,URS,USSR,"Yuris SILOVS, Aleksandr KORNELYUK, Vladimir LOVETSKY, Valery BORZOV",1972 Munich,Athletics,Men's,4x100m relay
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Jobst HIRSCHT, Gerhard WUCHERER, Karlheinz KLOTZ, Klaus EHL",1972 Munich,Athletics,Men's,4x100m relay
+Summer,1972,Gold,KEN,Kenya,"Robert OUKO, Charles ASATI, Julius SANG, Hezekiah Munyoro NYAMAU",1972 Munich,Athletics,Men's,4x400m relay
+Summer,1972,Silver,GBR,Great Britain,"David Andrew JENKINS, David HEMERY, Alan Peter PASCOE, Martin REYNOLDS",1972 Munich,Athletics,Men's,4x400m relay
+Summer,1972,Bronze,FRA,France,"Daniel Roger VELASQUES, Jacques CARETTE, Francis KERBIROU, Gilles BERTOULD",1972 Munich,Athletics,Men's,4x400m relay
+Summer,1972,Gold,GDR,German Democratic Republic,Peter FRENKEL,1972 Munich,Athletics,Men's,20km walk
+Summer,1972,Silver,URS,USSR,Vladimir GOLUBNICHY,1972 Munich,Athletics,Men's,20km walk
+Summer,1972,Bronze,GDR,German Democratic Republic,Hans REIMANN,1972 Munich,Athletics,Men's,20km walk
+Summer,1972,Gold,FRG,Federal Republic of Germany,Bernd KANNENBERG,1972 Munich,Athletics,Men's,50km walk
+Summer,1972,Silver,URS,USSR,Veniamin SOLDATENKO,1972 Munich,Athletics,Men's,50km walk
+Summer,1972,Bronze,USA,United States,Larry YOUNG,1972 Munich,Athletics,Men's,50km walk
+Summer,1972,Gold,USA,United States,Randel Luvelle WILLIAMS,1972 Munich,Athletics,Men's,long jump
+Summer,1972,Silver,FRG,Federal Republic of Germany,Hans BAUMGARTNER,1972 Munich,Athletics,Men's,long jump
+Summer,1972,Bronze,USA,United States,Arnie ROBINSON,1972 Munich,Athletics,Men's,long jump
+Summer,1972,Gold,URS,USSR,Viktor SANEYEV,1972 Munich,Athletics,Men's,triple jump
+Summer,1972,Silver,GDR,German Democratic Republic,Jörg DREHMEL,1972 Munich,Athletics,Men's,triple jump
+Summer,1972,Bronze,BRA,Brazil,Nelson PRUDENCIO,1972 Munich,Athletics,Men's,triple jump
+Summer,1972,Gold,URS,USSR,Jüri TARMAK,1972 Munich,Athletics,Men's,high jump
+Summer,1972,Silver,GDR,German Democratic Republic,Stefan JUNGE,1972 Munich,Athletics,Men's,high jump
+Summer,1972,Bronze,USA,United States,Dwight STONES,1972 Munich,Athletics,Men's,high jump
+Summer,1972,Gold,GDR,German Democratic Republic,Wolfgang NORDWIG,1972 Munich,Athletics,Men's,pole vault
+Summer,1972,Silver,USA,United States,Bob SEAGREN,1972 Munich,Athletics,Men's,pole vault
+Summer,1972,Bronze,USA,United States,Jan JOHNSON,1972 Munich,Athletics,Men's,pole vault
+Summer,1972,Gold,POL,Poland,Wladyslaw KOMAR,1972 Munich,Athletics,Men's,shot put
+Summer,1972,Silver,USA,United States,George WOODS,1972 Munich,Athletics,Men's,shot put
+Summer,1972,Bronze,GDR,German Democratic Republic,Hartmut BRIESENICK,1972 Munich,Athletics,Men's,shot put
+Summer,1972,Gold,TCH,Czechoslovakia,Ludvík DANEK,1972 Munich,Athletics,Men's,discus throw
+Summer,1972,Silver,USA,United States,L.Jay SILVESTER,1972 Munich,Athletics,Men's,discus throw
+Summer,1972,Bronze,SWE,Sweden,Björn BRUCH,1972 Munich,Athletics,Men's,discus throw
+Summer,1972,Gold,URS,USSR,Anatoli BONDARCHUK,1972 Munich,Athletics,Men's,hammer throw
+Summer,1972,Silver,GDR,German Democratic Republic,Jochen SACHSE,1972 Munich,Athletics,Men's,hammer throw
+Summer,1972,Bronze,URS,USSR,Vasili KHMELEVSKY,1972 Munich,Athletics,Men's,hammer throw
+Summer,1972,Gold,FRG,Federal Republic of Germany,Klaus WOLFERMANN,1972 Munich,Athletics,Men's,javelin throw
+Summer,1972,Silver,URS,USSR,Yanis LUSIS,1972 Munich,Athletics,Men's,javelin throw
+Summer,1972,Bronze,USA,United States,William David SCHMIDT,1972 Munich,Athletics,Men's,javelin throw
+Summer,1972,Gold,URS,USSR,Nikolay AVILOV,1972 Munich,Athletics,Men's,decathlon
+Summer,1972,Silver,URS,USSR,Leonid LITVINENKO,1972 Munich,Athletics,Men's,decathlon
+Summer,1972,Bronze,POL,Poland,Ryszard KATUS,1972 Munich,Athletics,Men's,decathlon
+Summer,1972,Gold,GDR,German Democratic Republic,Renate STECHER,1972 Munich,Athletics,Women's,100m
+Summer,1972,Silver,AUS,Australia,Raelene Ann BOYLE,1972 Munich,Athletics,Women's,100m
+Summer,1972,Bronze,CUB,Cuba,Silvia CHIVAS BARO,1972 Munich,Athletics,Women's,100m
+Summer,1972,Gold,GDR,German Democratic Republic,Renate STECHER,1972 Munich,Athletics,Women's,200m
+Summer,1972,Silver,AUS,Australia,Raelene Ann BOYLE,1972 Munich,Athletics,Women's,200m
+Summer,1972,Bronze,POL,Poland,Irena KIRSZENSTEIN,1972 Munich,Athletics,Women's,200m
+Summer,1972,Gold,GDR,German Democratic Republic,Monika ZEHRT,1972 Munich,Athletics,Women's,400m
+Summer,1972,Silver,FRG,Federal Republic of Germany,Rita JAHN,1972 Munich,Athletics,Women's,400m
+Summer,1972,Bronze,USA,United States,Kathleen HAMMOND,1972 Munich,Athletics,Women's,400m
+Summer,1972,Gold,FRG,Federal Republic of Germany,Hildegard FALCK,1972 Munich,Athletics,Women's,800m
+Summer,1972,Silver,URS,USSR,Niole SABAITE,1972 Munich,Athletics,Women's,800m
+Summer,1972,Bronze,GDR,German Democratic Republic,Gunhild HOFFMEISTER,1972 Munich,Athletics,Women's,800m
+Summer,1972,Gold,URS,USSR,Lyudmila BRAGINA,1972 Munich,Athletics,Women's,1500m
+Summer,1972,Silver,GDR,German Democratic Republic,Gunhild HOFFMEISTER,1972 Munich,Athletics,Women's,1500m
+Summer,1972,Bronze,ITA,Italy,Paola PIGNI-CACCHI,1972 Munich,Athletics,Women's,1500m
+Summer,1972,Gold,GDR,German Democratic Republic,Annelie EHRHARDT,1972 Munich,Athletics,Women's,100m hurdles
+Summer,1972,Silver,ROU,Romania,Valeria BUFANU,1972 Munich,Athletics,Women's,100m hurdles
+Summer,1972,Bronze,GDR,German Democratic Republic,Karin RICHERT-BALZER,1972 Munich,Athletics,Women's,100m hurdles
+Summer,1972,Gold,FRG,Federal Republic of Germany,"Heidemarie ROSENDAHL, Christiane KRAUSE, Annegret RICHTER-IRRGANG, Ingrid BECKER",1972 Munich,Athletics,Women's,4x100m relay
+Summer,1972,Silver,GDR,German Democratic Republic,"Bärbel STRUPPERT, Christina HEINICH, Evelyn KAUFER, Renate STECHER",1972 Munich,Athletics,Women's,4x100m relay
+Summer,1972,Bronze,CUB,Cuba,"Carmen VALDES CAPOTE, Marlene ELEJARDE, Fulgencia ROMAY MARTINEZ, Silvia CHIVAS BARO",1972 Munich,Athletics,Women's,4x100m relay
+Summer,1972,Gold,GDR,German Democratic Republic,"Helga SEIDLER, Monika ZEHRT, Rita KÜHNE, Dagmar KÄSLING",1972 Munich,Athletics,Women's,4x400m relay
+Summer,1972,Silver,USA,United States,"Mabel FERGERSON, Cheryl TOUSSAINT, Madeline MANNING-JACKSON, Kathleen HAMMOND",1972 Munich,Athletics,Women's,4x400m relay
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Inge BÖDDING-ECKHOFF, Rita JAHN, Anette RÜCKES, Hildegard FALCK",1972 Munich,Athletics,Women's,4x400m relay
+Summer,1972,Gold,FRG,Federal Republic of Germany,Heidemarie ROSENDAHL,1972 Munich,Athletics,Women's,long jump
+Summer,1972,Silver,BUL,Bulgaria,Diana YORGOVA,1972 Munich,Athletics,Women's,long jump
+Summer,1972,Bronze,TCH,Czechoslovakia,Eva SURANOVA,1972 Munich,Athletics,Women's,long jump
+Summer,1972,Gold,FRG,Federal Republic of Germany,Ulrike MEYFARTH,1972 Munich,Athletics,Women's,high jump
+Summer,1972,Silver,BUL,Bulgaria,Yordanka BLAGOEVA-DIMITROVA,1972 Munich,Athletics,Women's,high jump
+Summer,1972,Bronze,AUT,Austria,Ilona GUSENBAUER,1972 Munich,Athletics,Women's,high jump
+Summer,1972,Gold,URS,USSR,Nadezhda CHIZHOVA,1972 Munich,Athletics,Women's,shot put
+Summer,1972,Silver,GDR,German Democratic Republic,Margitta HELMBOLD-GUMMEL,1972 Munich,Athletics,Women's,shot put
+Summer,1972,Bronze,BUL,Bulgaria,Ivanka KHRISTOVA,1972 Munich,Athletics,Women's,shot put
+Summer,1972,Gold,URS,USSR,Faina MELNIK,1972 Munich,Athletics,Women's,discus throw
+Summer,1972,Silver,ROU,Romania,Argentina MENIS,1972 Munich,Athletics,Women's,discus throw
+Summer,1972,Bronze,BUL,Bulgaria,Vassilka STOEVA,1972 Munich,Athletics,Women's,discus throw
+Summer,1972,Gold,GDR,German Democratic Republic,Ruth FUCHS,1972 Munich,Athletics,Women's,javelin throw
+Summer,1972,Silver,GDR,German Democratic Republic,Jacqueline TODTEN,1972 Munich,Athletics,Women's,javelin throw
+Summer,1972,Bronze,USA,United States,Kathryn Joan SCHMIDT,1972 Munich,Athletics,Women's,javelin throw
+Summer,1972,Gold,GBR,Great Britain,Mary PETERS,1972 Munich,Athletics,Women's,pentathlon
+Summer,1972,Silver,FRG,Federal Republic of Germany,Heidemarie ROSENDAHL,1972 Munich,Athletics,Women's,pentathlon
+Summer,1972,Bronze,GDR,German Democratic Republic,Burglinde POLLAK,1972 Munich,Athletics,Women's,pentathlon
+Summer,1972,Gold,URS,USSR,"Modestas PAULAUSKAS, Alzhan ZHARMUKHAMEDOV, Ivan YEDESHKO, Anatoly POLIVODA, Gennady VOLNOV, Sergey BELOV, Ivan DVORNY, Zurab SAKANDELIDZE, Aleksandr BELOV, Sergey KOVALENKO, Aleksandr BOLOSHEV, Mikhail KORKIYA",1972 Munich,Basketball,Men's,basketball
+Summer,1972,Silver,USA,United States,"Kenneth DAVIS, Tommy BURLESON, William Edward RATLEFF, James FORBES, Paul Douglas COLLINS, Robert JONES, Thomas HENDERSON, Michael BANTOM, Thomas MCMILLEN, Kevin JOYCE, James BREWER, Dwight JONES",1972 Munich,Basketball,Men's,basketball
+Summer,1972,Bronze,CUB,Cuba,"Pedro CHAPPE GARCIA, Rafael CANIZARES POEY, Juan DOMECQ, Ruperto HERRERA TABIO, Franklin STANDARD, Tomas HERRERA MARTINEZ, Alejandro URGELLÉS, Jose Miguel ALVAREZ POZO, Oscar VARONA, Conrado PEREZ ARMENTEROS, Miguel CALDERON GOMEZ, Juan ROCA",1972 Munich,Basketball,Men's,basketball
+Summer,1972,Gold,HUN,Hungary,György GEDÓ,1972 Munich,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1972,Silver,PRK,Korea DPR,U-Gil KIM,1972 Munich,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1972,Bronze,GBR,Great Britain,Ralph EVANS,1972 Munich,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1972,Bronze,ESP,Spain,Enrique RODRIGUEZ CAL,1972 Munich,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1972,Gold,BUL,Bulgaria,Georgi KOSTADINOV,1972 Munich,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1972,Silver,UGA,Uganda,Leo RWABDOGO,1972 Munich,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1972,Bronze,CUB,Cuba,Douglas RODRIGUEZ GUARDIOLA,1972 Munich,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1972,Bronze,POL,Poland,Leszek BLAZYNSKI,1972 Munich,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1972,Gold,CUB,Cuba,Orlando MARTINEZ ROMERO,1972 Munich,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1972,Silver,MEX,Mexico,Alfonso ZAMORA,1972 Munich,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1972,Bronze,GBR,Great Britain,George TURPIN,1972 Munich,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1972,Bronze,USA,United States,Ricardo CARRERAS,1972 Munich,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1972,Gold,URS,USSR,Boris KUZNETSOV,1972 Munich,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1972,Silver,KEN,Kenya,Philip WARUINGE,1972 Munich,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1972,Bronze,COL,Colombia,Clemente ROJAS,1972 Munich,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1972,Bronze,HUN,Hungary,András BOTOS,1972 Munich,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1972,Gold,POL,Poland,Jan SZCZEPANSKI,1972 Munich,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1972,Silver,HUN,Hungary,Laszlo ORBAN,1972 Munich,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1972,Bronze,COL,Colombia,Alfonso PEREZ,1972 Munich,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1972,Bronze,KEN,Kenya,Samuel MBUGUA,1972 Munich,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1972,Gold,USA,United States,Ray SEALES,1972 Munich,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1972,Silver,BUL,Bulgaria,Angel ANGELOV,1972 Munich,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1972,Bronze,NIG,Niger,Issaka DABORG,1972 Munich,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1972,Bronze,YUG,Yugoslavia,Zvonimir VUJIN,1972 Munich,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1972,Gold,CUB,Cuba,Emilio CORREA VAILLANT,1972 Munich,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1972,Silver,HUN,Hungary,János KAJDI,1972 Munich,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1972,Bronze,KEN,Kenya,Richard (Tiger) MURUNGA,1972 Munich,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1972,Bronze,USA,United States,Jesse VALDEZ,1972 Munich,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1972,Gold,FRG,Federal Republic of Germany,Dieter KOTTYSCH,1972 Munich,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1972,Silver,POL,Poland,Wieslaw RUDKOWSKI,1972 Munich,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1972,Bronze,GDR,German Democratic Republic,Peter TIEPOLD,1972 Munich,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1972,Bronze,GBR,Great Britain,Alan MINTER,1972 Munich,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1972,Gold,URS,USSR,Vyacheslav LEMECHEV,1972 Munich,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1972,Silver,FIN,Finland,Reima VIRTANEN,1972 Munich,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1972,Bronze,GHA,Ghana,Prince AMARTEY,1972 Munich,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1972,Bronze,USA,United States,Marvin JOHNSON,1972 Munich,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1972,Gold,YUG,Yugoslavia,Mate PARLOV,1972 Munich,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1972,Silver,CUB,Cuba,Gilberto CARRILLO QUESADA,1972 Munich,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1972,Bronze,NGR,Nigeria,Isaac IKHOURIA,1972 Munich,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1972,Bronze,POL,Poland,Janusz GORTAT,1972 Munich,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1972,Gold,CUB,Cuba,Teófilo STEVENSON,1972 Munich,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1972,Silver,ROU,Romania,Ion ALEXE,1972 Munich,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Peter HUSSING,1972 Munich,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1972,Bronze,SWE,Sweden,Hasse THOMSEN,1972 Munich,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1972,Gold,GDR,German Democratic Republic,Siegbert HORN,1972 Munich,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1972,Silver,AUT,Austria,Norbert SATTLER,1972 Munich,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1972,Bronze,GDR,German Democratic Republic,Harald GIMPEL,1972 Munich,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1972,Gold,GDR,German Democratic Republic,Reinhard EIBEN,1972 Munich,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1972,Silver,FRG,Federal Republic of Germany,Reinhold KAUDER,1972 Munich,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1972,Bronze,USA,United States,Jamie MCEWAN,1972 Munich,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1972,Gold,GDR,German Democratic Republic,"Rolf-Dieter AMEND, Walter HOFMANN",1972 Munich,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1972,Silver,FRG,Federal Republic of Germany,"Wilhelm BAUES, Hans-Otto SCHUMACHER",1972 Munich,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1972,Bronze,FRA,France,"Jean-Louis OLRY, Jean-Claude OLRY",1972 Munich,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1972,Gold,GDR,German Democratic Republic,Angelika BAHMANN,1972 Munich,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1972,Silver,FRG,Federal Republic of Germany,Gisela GROTHAUS,1972 Munich,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Magdalena WUNDERLICH,1972 Munich,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1972,Gold,URS,USSR,Aleksandr SHAPARENKO,1972 Munich,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1972,Silver,SWE,Sweden,Rolf PETERSON,1972 Munich,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1972,Bronze,HUN,Hungary,Géza CSAPÓ,1972 Munich,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1972,Gold,URS,USSR,"Viktor KRATASYUK, Nikolai GORBACHEV",1972 Munich,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1972,Silver,HUN,Hungary,"József DEME, János RÁTKAI",1972 Munich,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1972,Bronze,POL,Poland,"Rafal Maciej PISZCZ, Wladyslaw SZUSZKIEWICZ",1972 Munich,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1972,Gold,URS,USSR,"Valeri DIDENKO, Yury FILATOV, Yuri STETSENKO, Vladimir MOROZOV",1972 Munich,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1972,Silver,ROU,Romania,"Atanase SCIOTNIC, Mihai ZAFIU, Aurel VERNESCU, Roman VARTOLOMEU",1972 Munich,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1972,Bronze,NOR,Norway,"Jan JOHANSEN, Steinar AMUNDSEN, Tore BERGER, Egil SÖBY",1972 Munich,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1972,Gold,ROU,Romania,Ivan PATZAICHIN,1972 Munich,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1972,Silver,HUN,Hungary,Tamás WICHMANN,1972 Munich,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Detlef LEWE,1972 Munich,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1972,Gold,URS,USSR,"Vladislavas CHESSYUNAS, Yury LOBANOV",1972 Munich,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1972,Silver,ROU,Romania,"Serghei COVALIOV, Ivan PATZAICHIN",1972 Munich,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1972,Bronze,BUL,Bulgaria,"Ivan BURTCHIN, Fedia DAMIANOV",1972 Munich,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1972,Gold,URS,USSR,Yulia RYABCHINSKAYA,1972 Munich,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1972,Silver,NED,Netherlands,Mieke JAAPIES,1972 Munich,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1972,Bronze,HUN,Hungary,Anna PFEFFER,1972 Munich,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1972,Gold,URS,USSR,"Lyudmila KHVEDOSYUK, Ekaterina KURYSHKO",1972 Munich,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1972,Silver,GDR,German Democratic Republic,"Ilse KASCHUBE, Petra GRABOWSKY",1972 Munich,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1972,Bronze,ROU,Romania,"Maria NICHIFOROV, Viorica DUMITRU",1972 Munich,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1972,Gold,NED,Netherlands,Hennie KUIPER,1972 Munich,Cycling Road,Men's,individual road race
+Summer,1972,Silver,AUS,Australia,Clyde SEFTON,1972 Munich,Cycling Road,Men's,individual road race
+Summer,1972,Gold,URS,USSR,"Valery YARDY, Valery LIKHACHEV, Gennadi KOMNATOV, Boris SHUKHOV",1972 Munich,Cycling Road,Men's,team time trial
+Summer,1972,Silver,POL,Poland,"Stanislaw SZOZDA, Edward BARCIK, Ryszard SZURKOWSKI, Lucjan LIS",1972 Munich,Cycling Road,Men's,team time trial
+Summer,1972,Gold,FRA,France,Daniel MORELON,1972 Munich,Cycling Track,Men's,sprint individual
+Summer,1972,Silver,AUS,Australia,John Michael NICHOLSON,1972 Munich,Cycling Track,Men's,sprint individual
+Summer,1972,Bronze,URS,USSR,Omar PKHAKADZE,1972 Munich,Cycling Track,Men's,sprint individual
+Summer,1972,Gold,NOR,Norway,Knut KNUDSEN,1972 Munich,Cycling Track,Men's,individual pursuit
+Summer,1972,Silver,SUI,Switzerland,Xaver KURMANN,1972 Munich,Cycling Track,Men's,individual pursuit
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Hans LUTZ,1972 Munich,Cycling Track,Men's,individual pursuit
+Summer,1972,Gold,DEN,Denmark,Niels Christian FREDBORG,1972 Munich,Cycling Track,Men's,1km time trial
+Summer,1972,Silver,AUS,Australia,Daniel CLARK,1972 Munich,Cycling Track,Men's,1km time trial
+Summer,1972,Bronze,GDR,German Democratic Republic,Jürgen SCHÜTZE,1972 Munich,Cycling Track,Men's,1km time trial
+Summer,1972,Gold,URS,USSR,"Igor TSELOVALNIKOV, Vladimir SEMENETS",1972 Munich,Cycling Track,Men's,2000m tandem
+Summer,1972,Silver,GDR,German Democratic Republic,"Hans-Jürgen GESCHKE, Werner OTTO",1972 Munich,Cycling Track,Men's,2000m tandem
+Summer,1972,Bronze,POL,Poland,"Benedykt KOCOT, Andrzej BEK",1972 Munich,Cycling Track,Men's,2000m tandem
+Summer,1972,Gold,FRG,Federal Republic of Germany,"Jürgen COLOMBO, Udo HEMPEL, Günter HARITZ, Günther SCHUMACHER",1972 Munich,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1972,Silver,GDR,German Democratic Republic,"Herbert RICHTER, Thomas HUSCHKE, Uwe UNTERWALDER, Heinz RICHTER",1972 Munich,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1972,Bronze,GBR,Great Britain,"William MOORE, Michael BENNETT, Ian HALLAM, Ronald KEEBLE",1972 Munich,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1972,Gold,URS,USSR,Vladimir VASIN,1972 Munich,Diving,Men's,3m springboard
+Summer,1972,Silver,ITA,Italy,Giorgio Franco CAGNOTTO,1972 Munich,Diving,Men's,3m springboard
+Summer,1972,Bronze,USA,United States,Craig LINCOLN,1972 Munich,Diving,Men's,3m springboard
+Summer,1972,Gold,ITA,Italy,Klaus DIBIASI,1972 Munich,Diving,Men's,10m platform
+Summer,1972,Silver,USA,United States,Richard RYDZE,1972 Munich,Diving,Men's,10m platform
+Summer,1972,Bronze,ITA,Italy,Giorgio Franco CAGNOTTO,1972 Munich,Diving,Men's,10m platform
+Summer,1972,Gold,USA,United States,Maxine Joyce KING,1972 Munich,Diving,Women's,3m springboard
+Summer,1972,Silver,SWE,Sweden,Ulrika KNAPE,1972 Munich,Diving,Women's,3m springboard
+Summer,1972,Bronze,GDR,German Democratic Republic,Marina JANICKE,1972 Munich,Diving,Women's,3m springboard
+Summer,1972,Gold,SWE,Sweden,Ulrika KNAPE,1972 Munich,Diving,Women's,10m platform
+Summer,1972,Silver,TCH,Czechoslovakia,Milena DUCHKOVÁ,1972 Munich,Diving,Women's,10m platform
+Summer,1972,Bronze,GDR,German Democratic Republic,Marina JANICKE,1972 Munich,Diving,Women's,10m platform
+Summer,1972,Gold,FRG,Federal Republic of Germany,Liselott LINSENHOFF,1972 Munich,Equestrian Dressage,Mixed,individual
+Summer,1972,Silver,URS,USSR,Yelena PETUSHKOVA,1972 Munich,Equestrian Dressage,Mixed,individual
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Josef NECKERMANN,1972 Munich,Equestrian Dressage,Mixed,individual
+Summer,1972,Gold,URS,USSR,"Ivan KIZIMOV, Yelena PETUSHKOVA, Ivan KALITA",1972 Munich,Equestrian Dressage,Mixed,team
+Summer,1972,Silver,FRG,Federal Republic of Germany,"Karin SCHLÜTER, Liselott LINSENHOFF, Josef NECKERMANN",1972 Munich,Equestrian Dressage,Mixed,team
+Summer,1972,Bronze,SWE,Sweden,"Ninna SWAAB, Ulla HAKANSSON, Maud VON ROSEN",1972 Munich,Equestrian Dressage,Mixed,team
+Summer,1972,Gold,GBR,Great Britain,Richard MEADE,1972 Munich,Equestrian Eventing,Mixed,individual
+Summer,1972,Silver,ITA,Italy,Alessandro ARGENTON,1972 Munich,Equestrian Eventing,Mixed,individual
+Summer,1972,Bronze,SWE,Sweden,Jan JÖNSSON,1972 Munich,Equestrian Eventing,Mixed,individual
+Summer,1972,Gold,GBR,Great Britain,"Richard MEADE, Mark PHILLIPS, Bridget PARKER, Mary GORDON-WATSON",1972 Munich,Equestrian Eventing,Mixed,team
+Summer,1972,Silver,USA,United States,"James WOFFORD, Kevin FREEMAN, John Michael PLUMB, Bruce DAVIDSON",1972 Munich,Equestrian Eventing,Mixed,team
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Harry KLUGMANN, Karl SCHULTZ, Ludwig GÖSSING, Horst KARSTEN",1972 Munich,Equestrian Eventing,Mixed,team
+Summer,1972,Gold,ITA,Italy,Graziano MANCINELLI,1972 Munich,Equestrian Jumping,Mixed,individual
+Summer,1972,Silver,GBR,Great Britain,Ann MOORE,1972 Munich,Equestrian Jumping,Mixed,individual
+Summer,1972,Bronze,USA,United States,Neal SHAPIRO,1972 Munich,Equestrian Jumping,Mixed,individual
+Summer,1972,Gold,FRG,Federal Republic of Germany,"Hans Günter WINKLER, Fritz LIGGES, Hartwig STEENKEN, Gerhard WILTFANG",1972 Munich,Equestrian Jumping,Mixed,team
+Summer,1972,Silver,USA,United States,"Frank CHAPOT, Kathy KUSNER, Neal SHAPIRO, Bill STEINKRAUS",1972 Munich,Equestrian Jumping,Mixed,team
+Summer,1972,Bronze,ITA,Italy,"Graziano MANCINELLI, Piero D'INZEO, Vittorio ORLANDI, Raimondo D'INZEO",1972 Munich,Equestrian Jumping,Mixed,team
+Summer,1972,Gold,HUN,Hungary,Csaba FENYVESI,1972 Munich,Fencing,Men's,épée individual
+Summer,1972,Silver,FRA,France,Jacques LA DEGAILLERIE,1972 Munich,Fencing,Men's,épée individual
+Summer,1972,Bronze,HUN,Hungary,Gyözö KULCSAR,1972 Munich,Fencing,Men's,épée individual
+Summer,1972,Gold,HUN,Hungary,"István OSZTRICS, Pál SCHMITT, Gyözö KULCSAR, Sandor ERDÖS, Csaba FENYVESI",1972 Munich,Fencing,Men's,épée team
+Summer,1972,Silver,SUI,Switzerland,"Peter LÖTSCHER, Christian KAUTER, Daniel GIGER, François SUCHANECKI, Guy EVÉQUOZ",1972 Munich,Fencing,Men's,épée team
+Summer,1972,Bronze,URS,USSR,"Sergey PARAMONOV, Viktor MODZOLEVSKY, Igor VALETOV, Grigori KRISS, Georgi ZAZHITSKY",1972 Munich,Fencing,Men's,épée team
+Summer,1972,Gold,POL,Poland,Witold WOYDA,1972 Munich,Fencing,Men's,foil individual
+Summer,1972,Silver,HUN,Hungary,Jenö KAMUTI,1972 Munich,Fencing,Men's,foil individual
+Summer,1972,Bronze,FRA,France,Christian NOËL,1972 Munich,Fencing,Men's,foil individual
+Summer,1972,Gold,POL,Poland,"Witold WOYDA, Marek DABROWSKI, Arkadiusz GODEL, Lech KOZIEJOWSKI, Jerzy KACZMAREK",1972 Munich,Fencing,Men's,foil team
+Summer,1972,Silver,URS,USSR,"Viktor PUTYATIN, Vladimir DENISOV, Leonid ROMANOV, Vasili STANKOVICH, Anatoly KOTESHEV",1972 Munich,Fencing,Men's,foil team
+Summer,1972,Bronze,FRA,France,"Jean-Claude MAGNAN, Gilles BEROLATTI, Daniel REVENU, Christian NOËL, Bernard TALVARD",1972 Munich,Fencing,Men's,foil team
+Summer,1972,Gold,URS,USSR,Viktor SIDYAK,1972 Munich,Fencing,Men's,sabre individual
+Summer,1972,Silver,HUN,Hungary,Péter MARÓT,1972 Munich,Fencing,Men's,sabre individual
+Summer,1972,Bronze,URS,USSR,Vladimir NAZLYMOV,1972 Munich,Fencing,Men's,sabre individual
+Summer,1972,Gold,ITA,Italy,"Mario Tullio MONTANO, Mario Aldo MONTANO, Michele MAFFEI, Cesare SALVADORI, Rolando RIGOLI",1972 Munich,Fencing,Men's,sabre team
+Summer,1972,Silver,URS,USSR,"Viktor SIDYAK, Eduard VINOKUROV, Mark RAKITA, Vladimir NAZLYMOV, Viktor BASHENOV",1972 Munich,Fencing,Men's,sabre team
+Summer,1972,Bronze,HUN,Hungary,"Péter BAKONYI, Tibor PÉZSA, Péter MARÓT, Tamás KOVÁCS, Pál GEREVICH",1972 Munich,Fencing,Men's,sabre team
+Summer,1972,Gold,ITA,Italy,Antonella RAGNO,1972 Munich,Fencing,Women's,foil individual
+Summer,1972,Silver,HUN,Hungary,Ildikó BÓBIS,1972 Munich,Fencing,Women's,foil individual
+Summer,1972,Bronze,URS,USSR,Galina GOROKHOVA,1972 Munich,Fencing,Women's,foil individual
+Summer,1972,Gold,URS,USSR,"Galina GOROKHOVA, Tatyana PETRENKO, Yelena NOVIKOVA, Aleksandra ZABELINA, Svetlana CHIRKOVA",1972 Munich,Fencing,Women's,foil team
+Summer,1972,Silver,HUN,Hungary,"Ildikó BÓBIS, Ildiko SCHWARCZENBERGER, Ildiko MATUSCAK-RONAY, Ildiko REJTO-UJLAKI, Mária SZOLNOKI",1972 Munich,Fencing,Women's,foil team
+Summer,1972,Bronze,ROU,Romania,"Ileana GYULAI-DRIMBA-JENEI, Ana DERSIDAN-ENE-PASCU, Ecaterina IENCIC, Olga ORBAN-SZABO",1972 Munich,Fencing,Women's,foil team
+Summer,1972,Gold,POL,Poland,"Zygmunt ANCZOK, Kazimierz DEYNA, Joachim MARX, Grzegorz LATO, Hubert KOSTKA, Jerzy KRASKA, Robert GADOCHA, Zygfryd SZOLTYSIK, Ryszard SZYMCZAK, Wlodzimierz LUBANSKI, Zbigniew GUT, Kazimierz KMIECIK, Leslaw CMIKIEWICZ, Zygmunt MASZCZYK, Marian OSTAFINSKI, Jerzy GORGON, Antoni SZYMANOWSKI",1972 Munich,Football,Men's,football
+Summer,1972,Silver,HUN,Hungary,"Ede DUNAI, Csaba VIDÁTS, Bela VARADI, Antal DUNAI, Péter VÉPI, Mihály KOZMA, Kálmán TÓTH, László BRANIKOVITS, Lajos SZUCS, József KOVÁCS, Péter JUHÁSZ, Lajos KU, István GÉCZI, Lajos KOCSIS, László BÁLINT, Adam ROTHERMEL, Miklós PÁNCSICS",1972 Munich,Football,Men's,football
+Summer,1972,Bronze,GDR,German Democratic Republic,"Frank GANZERA, Jürgen SPARWASSER, Peter DUCKE, Harald IRMSCHER, Lothar KURBJUWEIT, Reinhard HÄFNER, Konrad WEISE, Hans-Jürgen KREISCHE, Bernd BRANSCH, Joachim STREICH, Wolfgang SEGUIN, Manfred ZAPF, Eberhard VOGEL, Ralf SCHULENBERG, Jürgen POMMERENKE, Jürgen CROY, Siegmar WÄTZLICH",1972 Munich,Football,Men's,football
+Summer,1972,Bronze,URS,USSR,"Yury ISTOMIN, Vladimir ONISHCHENKO, Oganes ZANAZANYAN, Iosef SABO, Arkady ANDRIASYAN, Revaz DZODZUASHVILI, Andrey YAKUBIK, Yevgeny RUDAKOV, Yevgeni LOVCHEV, Vyacheslav SEMENOV, Vladimir PILGUY, Vladimir KAPLICHNYI, Murtaz KHURTSILAVA, Gennady YEVRYUZHIKHIN, Yuri ELISEEV, Anatoly KUKSOV, Sergey OLSHANSKY, Oleg BLOKHIN, Viktor KOLOTOV",1972 Munich,Football,Men's,football
+Summer,1972,Gold,JPN,Japan,Sawao KATO,1972 Munich,Gymnastics Artistic,Men's,individual all-round
+Summer,1972,Silver,JPN,Japan,Eizo KENMOTSU,1972 Munich,Gymnastics Artistic,Men's,individual all-round
+Summer,1972,Bronze,JPN,Japan,Akinori NAKAYAMA,1972 Munich,Gymnastics Artistic,Men's,individual all-round
+Summer,1972,Gold,JPN,Japan,"Eizo KENMOTSU, Teruichi OKAMURA, Akinori NAKAYAMA, Shigeru KASAMATSU, Sawao KATO, Mitsuo TSUKAHARA",1972 Munich,Gymnastics Artistic,Men's,team competition
+Summer,1972,Silver,URS,USSR,"Viktor KLIMENKO, Nikolay ANDRIANOV, Edvard MIKAELIAN, Aleksandr MALEYEV, Vladimir SHUKIN, Mikhail VORONIN",1972 Munich,Gymnastics Artistic,Men's,team competition
+Summer,1972,Bronze,GDR,German Democratic Republic,"Klaus KÖSTE, Jürgen PAEKE, Wolfgang THÜNE, Reinhard RYCHLY, Wolfgang KLOTZ, Matthias BREHME",1972 Munich,Gymnastics Artistic,Men's,team competition
+Summer,1972,Gold,URS,USSR,Nikolay ANDRIANOV,1972 Munich,Gymnastics Artistic,Men's,floor exercises
+Summer,1972,Silver,JPN,Japan,Akinori NAKAYAMA,1972 Munich,Gymnastics Artistic,Men's,floor exercises
+Summer,1972,Bronze,JPN,Japan,Shigeru KASAMATSU,1972 Munich,Gymnastics Artistic,Men's,floor exercises
+Summer,1972,Gold,JPN,Japan,Sawao KATO,1972 Munich,Gymnastics Artistic,Men's,parallel bars
+Summer,1972,Silver,JPN,Japan,Shigeru KASAMATSU,1972 Munich,Gymnastics Artistic,Men's,parallel bars
+Summer,1972,Bronze,JPN,Japan,Eizo KENMOTSU,1972 Munich,Gymnastics Artistic,Men's,parallel bars
+Summer,1972,Gold,GDR,German Democratic Republic,Klaus KÖSTE,1972 Munich,Gymnastics Artistic,Men's,vault
+Summer,1972,Silver,URS,USSR,Viktor KLIMENKO,1972 Munich,Gymnastics Artistic,Men's,vault
+Summer,1972,Bronze,URS,USSR,Nikolay ANDRIANOV,1972 Munich,Gymnastics Artistic,Men's,vault
+Summer,1972,Gold,JPN,Japan,Akinori NAKAYAMA,1972 Munich,Gymnastics Artistic,Men's,rings
+Summer,1972,Silver,URS,USSR,Mikhail VORONIN,1972 Munich,Gymnastics Artistic,Men's,rings
+Summer,1972,Bronze,JPN,Japan,Mitsuo TSUKAHARA,1972 Munich,Gymnastics Artistic,Men's,rings
+Summer,1972,Gold,URS,USSR,Viktor KLIMENKO,1972 Munich,Gymnastics Artistic,Men's,pommel horse
+Summer,1972,Silver,JPN,Japan,Sawao KATO,1972 Munich,Gymnastics Artistic,Men's,pommel horse
+Summer,1972,Bronze,JPN,Japan,Eizo KENMOTSU,1972 Munich,Gymnastics Artistic,Men's,pommel horse
+Summer,1972,Gold,JPN,Japan,Mitsuo TSUKAHARA,1972 Munich,Gymnastics Artistic,Men's,horizontal bar
+Summer,1972,Silver,JPN,Japan,Sawao KATO,1972 Munich,Gymnastics Artistic,Men's,horizontal bar
+Summer,1972,Bronze,JPN,Japan,Shigeru KASAMATSU,1972 Munich,Gymnastics Artistic,Men's,horizontal bar
+Summer,1972,Gold,URS,USSR,Lyudmila TURISCHEVA,1972 Munich,Gymnastics Artistic,Women's,individual all-round
+Summer,1972,Silver,GDR,German Democratic Republic,Karin JANZ,1972 Munich,Gymnastics Artistic,Women's,individual all-round
+Summer,1972,Bronze,URS,USSR,Tamara LAZAKOVICH,1972 Munich,Gymnastics Artistic,Women's,individual all-round
+Summer,1972,Gold,URS,USSR,"Lyubov BURDA, Elvira SAADI, Tamara LAZAKOVICH, Lyudmila TURISCHEVA, Antonina KOSHEL, Olga KORBUT",1972 Munich,Gymnastics Artistic,Women's,team competition
+Summer,1972,Silver,GDR,German Democratic Republic,"Erika ZUCHOLD, Christine SCHMITT, Irene ABEL, Angelika HELLMANN, Karin JANZ, Richarda SCHMEIßER",1972 Munich,Gymnastics Artistic,Women's,team competition
+Summer,1972,Bronze,HUN,Hungary,"Mónika CSÁSZÁR, Anikó KÉRY, Krisztina MEDVECZKY, Ilona BÉKÉSI, Márta KELEMEN, Zsuzsa NAGY",1972 Munich,Gymnastics Artistic,Women's,team competition
+Summer,1972,Gold,URS,USSR,Olga KORBUT,1972 Munich,Gymnastics Artistic,Women's,floor exercises
+Summer,1972,Silver,URS,USSR,Lyudmila TURISCHEVA,1972 Munich,Gymnastics Artistic,Women's,floor exercises
+Summer,1972,Bronze,URS,USSR,Tamara LAZAKOVICH,1972 Munich,Gymnastics Artistic,Women's,floor exercises
+Summer,1972,Gold,GDR,German Democratic Republic,Karin JANZ,1972 Munich,Gymnastics Artistic,Women's,uneven bars
+Summer,1972,Silver,GDR,German Democratic Republic,Erika ZUCHOLD,1972 Munich,Gymnastics Artistic,Women's,uneven bars
+Summer,1972,Silver,URS,USSR,Olga KORBUT,1972 Munich,Gymnastics Artistic,Women's,uneven bars
+Summer,1972,Gold,GDR,German Democratic Republic,Karin JANZ,1972 Munich,Gymnastics Artistic,Women's,vault
+Summer,1972,Silver,GDR,German Democratic Republic,Erika ZUCHOLD,1972 Munich,Gymnastics Artistic,Women's,vault
+Summer,1972,Bronze,URS,USSR,Lyudmila TURISCHEVA,1972 Munich,Gymnastics Artistic,Women's,vault
+Summer,1972,Gold,URS,USSR,Olga KORBUT,1972 Munich,Gymnastics Artistic,Women's,balance beam
+Summer,1972,Silver,URS,USSR,Tamara LAZAKOVICH,1972 Munich,Gymnastics Artistic,Women's,balance beam
+Summer,1972,Bronze,GDR,German Democratic Republic,Karin JANZ,1972 Munich,Gymnastics Artistic,Women's,balance beam
+Summer,1972,Gold,YUG,Yugoslavia,"Djoko LAVRNIC, Zdenko ZORKO, Milorad KARALIC, Petar FAJFRIC, Nebojsa POPOVIC, Hrvoje HORVAT, Branislav POKRAJAC, Milan LAZAREVIC, Abaz ARSLANAGIC, Zdravko MILJAK, Zoran ?IVKOVIC, Slobodan MISKOVIC, Albin VIDOVIC, Miroslav PRIBANIC",1972 Munich,Handball,Men's,handball
+Summer,1972,Silver,TCH,Czechoslovakia,"Andrej LUKOSIK, Jaroslav KONENCNY, Petr POSPISIL, Ivan SATRAPA, Frantisek KRALIK, Arnost KLIMCICK, Jaroslav SKARVAN, Ladislav BENES, Vincent LAFKO, Jiri KAVAN, Vladimir JARY, Vladimir HABR, Pavel MIKES, Jindrich KREPINDL, Zdenek SKARA, Frantisek BRUNA",1972 Munich,Handball,Men's,handball
+Summer,1972,Bronze,ROU,Romania,"Ghita LICU, Constantin TUDOSIE, Adrian COSMA, Roland GUNESCH, Dan MARIN, Cornel PENU, Radu VOINA, Cristian GATU, Valentin SAMUNGI, Alexandru DINCA, Simion SOBEL, Gheorghe GRUIA, Stefan BIRTALAN, Gavril KICSID, Werner STÖCKL",1972 Munich,Handball,Men's,handball
+Summer,1972,Gold,FRG,Federal Republic of Germany,"Horst DROSE, Werner KAESSMANN, Peter TRUMP, Peter KRAUS, Michael KRAUSE, Dieter FREISE, Eduard THELEN, Wolfgang BAUMGART, Ulrich VOS, Detlef KITTSTEIN, Ulrich KLAES, Rainer SEIFERT, Michael PETER, Wolfgang ROTT, Wolfgang STRODTER, Fritz SCHMIDT, Eckart SUHL, Carsten KELLER",1972 Munich,Hockey,Men's,hockey
+Summer,1972,Silver,PAK,Pakistan,"Anwar SAEED, Mudassar Ashgar SYED, Ahmad RIAZ, Iftikar Ahmed SYED, Mohammad Asad MALIK, Fazalur REHMAN, Rasool AKHTAR, Jahangir Ahmad BUTT, Shahnaz SHAIKH, Uz-Zaman MUNAWAR, Muhammad ZAHID, Ud Din ISLAH, Akhtarul ISLAM, Rashid III ABDUL",1972 Munich,Hockey,Men's,hockey
+Summer,1972,Bronze,IND,India,"Harmik SINGH, Ajitpal SINGH, Harcharan SINGH, Harbinder SINGH, Krishnamurthy PERUMAL, Ganesh MOLLERAPOOVAYYA, Kulwant SINGH, Virinder SINGH, Cornelius CHARLES, Michael KINDO, Billimoga Puttaswamy GOVINDA, Mukhbain SINGH, Manuel FREDERICK, Ashok KUMAR",1972 Munich,Hockey,Men's,hockey
+Summer,1972,Gold,JPN,Japan,Takao KAWAGUCHI,1972 Munich,Judo,Men's,- 63kg (lightweight)
+Summer,1972,Bronze,FRA,France,Jean-Jacques MOUNIER,1972 Munich,Judo,Men's,- 63kg (lightweight)
+Summer,1972,Bronze,PRK,Korea DPR,Yong Ik KIM,1972 Munich,Judo,Men's,- 63kg (lightweight)
+Summer,1972,Gold,JPN,Japan,Toyokazu NOMURA,1972 Munich,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1972,Silver,POL,Poland,Antoni ZAJKOWSKI,1972 Munich,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1972,Bronze,GDR,German Democratic Republic,Dietmar HÖTGER,1972 Munich,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1972,Bronze,URS,USSR,Anatoli NOVIKOV,1972 Munich,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1972,Gold,JPN,Japan,Shinobu SEKINE,1972 Munich,Judo,Men's,70 - 80kg (middleweight)
+Summer,1972,Silver,KOR,Korea Republic,Seung-Lip OH,1972 Munich,Judo,Men's,70 - 80kg (middleweight)
+Summer,1972,Bronze,FRA,France,Jean-Paul COCHE,1972 Munich,Judo,Men's,70 - 80kg (middleweight)
+Summer,1972,Bronze,GBR,Great Britain,Brian JACKS,1972 Munich,Judo,Men's,70 - 80kg (middleweight)
+Summer,1972,Gold,URS,USSR,Shota Samsonovich CHOCHISHVILI,1972 Munich,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1972,Silver,GBR,Great Britain,David STARBROOK,1972 Munich,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1972,Bronze,BRA,Brazil,Chiaki ISHII,1972 Munich,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Paul BARTH,1972 Munich,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1972,Gold,NED,Netherlands,Willem RUSKA,1972 Munich,Judo,Men's,+ 93kg (heavyweight)
+Summer,1972,Silver,FRG,Federal Republic of Germany,Klaus GLAHN,1972 Munich,Judo,Men's,+ 93kg (heavyweight)
+Summer,1972,Bronze,JPN,Japan,Motoki NISHIMURA,1972 Munich,Judo,Men's,+ 93kg (heavyweight)
+Summer,1972,Bronze,URS,USSR,Givi ONASHVILI,1972 Munich,Judo,Men's,+ 93kg (heavyweight)
+Summer,1972,Gold,NED,Netherlands,Willem RUSKA,1972 Munich,Judo,Men's,open category
+Summer,1972,Silver,URS,USSR,Vitali KUZNETSOV,1972 Munich,Judo,Men's,open category
+Summer,1972,Bronze,FRA,France,Jean-Claude BRONDANI,1972 Munich,Judo,Men's,open category
+Summer,1972,Bronze,GBR,Great Britain,Angelo PARISI,1972 Munich,Judo,Men's,open category
+Summer,1972,Gold,HUN,Hungary,Andras BALCZO,1972 Munich,Modern Pentathlon,Men's,individual competition
+Summer,1972,Silver,URS,USSR,Boris ONISHENKO,1972 Munich,Modern Pentathlon,Men's,individual competition
+Summer,1972,Bronze,URS,USSR,Pavel LEDNEV,1972 Munich,Modern Pentathlon,Men's,individual competition
+Summer,1972,Gold,URS,USSR,"Boris ONISHENKO, Vladimir SHMELEV, Pavel LEDNEV",1972 Munich,Modern Pentathlon,Men's,team competition
+Summer,1972,Silver,HUN,Hungary,"Andras BALCZO, Zsigmond VILLANYI, Pal BAKO",1972 Munich,Modern Pentathlon,Men's,team competition
+Summer,1972,Bronze,FIN,Finland,"Risto HURME, Martti Einari KETELÄ, Veikko SALMINEN",1972 Munich,Modern Pentathlon,Men's,team competition
+Summer,1972,Gold,URS,USSR,Yuri MALISHEV,1972 Munich,Rowing,Men's,single sculls (1x)
+Summer,1972,Silver,ARG,Argentina,Alberto DEMIDDI,1972 Munich,Rowing,Men's,single sculls (1x)
+Summer,1972,Bronze,GDR,German Democratic Republic,Wolfgang GÜLDENPFENNIG,1972 Munich,Rowing,Men's,single sculls (1x)
+Summer,1972,Gold,URS,USSR,"Aleksandr TIMOSHININ, Gennadi KORSHIKOV",1972 Munich,Rowing,Men's,double sculls (2x)
+Summer,1972,Silver,NOR,Norway,"Svein THÖGERSEN, Frank HANSEN",1972 Munich,Rowing,Men's,double sculls (2x)
+Summer,1972,Bronze,GDR,German Democratic Republic,"Joachim BÖHMER, Hans-Ulrich SCHMIED",1972 Munich,Rowing,Men's,double sculls (2x)
+Summer,1972,Gold,GDR,German Democratic Republic,"Wolfgang MAGER, Siegfried BRIETZKE",1972 Munich,Rowing,Men's,pair without coxswain (2-)
+Summer,1972,Silver,SUI,Switzerland,"Alfred BACHMANN, Heinrich FISCHER",1972 Munich,Rowing,Men's,pair without coxswain (2-)
+Summer,1972,Bronze,NED,Netherlands,"Ruud STOKVIS, Roelof LUYNENBURG",1972 Munich,Rowing,Men's,pair without coxswain (2-)
+Summer,1972,Gold,GDR,German Democratic Republic,"Wolfgang GUNKEL, Jörg LUCKE, Klaus-Dieter NEUBERT",1972 Munich,Rowing,Men's,pair-oared shell with coxswain
+Summer,1972,Silver,TCH,Czechoslovakia,"Oldrich SVOJANOVSKY, Pavel SVOJANOVSKY, Vladimir PETRICEK",1972 Munich,Rowing,Men's,pair-oared shell with coxswain
+Summer,1972,Bronze,ROU,Romania,"Stefan TUDOR, Petre CEAPURA, Ladislau LOVRENSCHI",1972 Munich,Rowing,Men's,pair-oared shell with coxswain
+Summer,1972,Gold,GDR,German Democratic Republic,"Dieter GRAHN, Dieter SCHUBERT, Frank RÜHLE, Frank FORBERGER",1972 Munich,Rowing,Men's,four without coxswain (4-)
+Summer,1972,Silver,NZL,New Zealand,"Dudley STOREY, Dick TONKS, Ross COLLINGE, Noel MILLS",1972 Munich,Rowing,Men's,four without coxswain (4-)
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Franz HELD, Wolfgang PLOTTKE, Joachim EHRIG, Peter FUNNEKÖTTER",1972 Munich,Rowing,Men's,four without coxswain (4-)
+Summer,1972,Gold,FRG,Federal Republic of Germany,"Uwe BENTER, Peter BERGER, Gerhard AUER, Hans-Johann FÄRBER, Alois BIERL",1972 Munich,Rowing,Men's,four-oared shell with coxswain
+Summer,1972,Silver,GDR,German Democratic Republic,"Klaus-Dieter LUDWIG, Rolf JOBST, Eckhard MARTENS, Reinhard GUST, Dietrich ZANDER",1972 Munich,Rowing,Men's,four-oared shell with coxswain
+Summer,1972,Bronze,TCH,Czechoslovakia,"Otakar MARECEK, Vladimir JANOS, Vladimir PETRICEK, Frantisek PROVAZNIK, Karel NEFFE",1972 Munich,Rowing,Men's,four-oared shell with coxswain
+Summer,1972,Gold,NZL,New Zealand,"Athol EARL, Gary ROBERTSON, Simon DICKIE, Lindsay WILSON, John HUNTER, Trevor COKER, Wybo VELDMAN, Richard JOYCE, Tony HURT",1972 Munich,Rowing,Men's,eight with coxswain (8+)
+Summer,1972,Silver,USA,United States,"Lawrence TERRY, Paul HOFFMAN, Peter RAYMOND, Eugene CLAPP, Timothy MICKELSON, William HOBBS, Cleve LIVINGSTON, Michael LIVINGSTON, Franklin HOBBS",1972 Munich,Rowing,Men's,eight with coxswain (8+)
+Summer,1972,Bronze,GDR,German Democratic Republic,"Manfred SCHMORDE, Hans-Joachim BORZYM, Heinrich MEDEROW, Jörg LANDVOIGT, Manfred SCHNEIDER, Bernd LANDVOIGT, Hartmut SCHREIBER, Dietmar SCHWARZ, Harold DIMKE",1972 Munich,Rowing,Men's,eight with coxswain (8+)
+Summer,1972,Gold,AUS,Australia,"John SHAW, John Bruce CUNEO, Thomas ANDERSON",1972 Munich,Sailing,Mixed,dragon
+Summer,1972,Silver,GDR,German Democratic Republic,"Paul BOROWSKI, Konrad WEICHERT, Karl-Heinz THUN",1972 Munich,Sailing,Mixed,dragon
+Summer,1972,Bronze,USA,United States,"Charles HORTER, Donald COHAN, John MARSHALL",1972 Munich,Sailing,Mixed,dragon
+Summer,1972,Gold,URS,USSR,"Vitali DYRDYRA, Valentin MANKIN",1972 Munich,Sailing,Mixed,tempest
+Summer,1972,Silver,GBR,Great Britain,"David HUNT, Alan WARREN",1972 Munich,Sailing,Mixed,tempest
+Summer,1972,Bronze,USA,United States,"Glen FOSTER, Peter DEAN",1972 Munich,Sailing,Mixed,tempest
+Summer,1972,Gold,FRA,France,Serge MAURY,1972 Munich,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1972,Silver,GRE,Greece,Ilias KHATZIPAVLIS,1972 Munich,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1972,Bronze,URS,USSR,Viktor POTAPOV,1972 Munich,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1972,Gold,AUS,Australia,"John ANDERSON, David FORBES",1972 Munich,Sailing,Mixed,two-person keelboat (Star)
+Summer,1972,Silver,SWE,Sweden,"Stellan WESTERDAHL, Pelle PETTERSSON",1972 Munich,Sailing,Mixed,two-person keelboat (Star)
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Karsten MEYER, Wilhelm KUHWEIDE",1972 Munich,Sailing,Mixed,two-person keelboat (Star)
+Summer,1972,Gold,GBR,Great Britain,"Rodney PATTISSON, Christopher DAVIES",1972 Munich,Sailing,Mixed,flying dutchman
+Summer,1972,Silver,FRA,France,"Marc PAJOT, Yves PAJOT",1972 Munich,Sailing,Mixed,flying dutchman
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Ullrich LIBOR, Peter NAUMANN",1972 Munich,Sailing,Mixed,flying dutchman
+Summer,1972,Gold,USA,United States,"William BENTSEN, Buddy MELGES, Bill ALLEN",1972 Munich,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1972,Silver,SWE,Sweden,"Stefan KROOK, Stig WENNERSTRÖM, Bo KNAPE",1972 Munich,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1972,Bronze,CAN,Canada,"David MILLER, John EKELS, Paul COTE",1972 Munich,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1972,Gold,POL,Poland,Józef ZAPEDZKI,1972 Munich,Shooting,Mixed,25m rapid fire pistol
+Summer,1972,Silver,TCH,Czechoslovakia,Ladislav FALTA,1972 Munich,Shooting,Mixed,25m rapid fire pistol
+Summer,1972,Bronze,URS,USSR,Viktor TORSHIN,1972 Munich,Shooting,Mixed,25m rapid fire pistol
+Summer,1972,Gold,SWE,Sweden,Ragnar SKANÅKER,1972 Munich,Shooting,Mixed,50m pistol
+Summer,1972,Silver,ROU,Romania,Dan IUGA,1972 Munich,Shooting,Mixed,50m pistol
+Summer,1972,Bronze,AUT,Austria,Rudolf DOLLINGER,1972 Munich,Shooting,Mixed,50m pistol
+Summer,1972,Gold,PRK,Korea DPR,Ho-Jun LI,1972 Munich,Shooting,Mixed,50m rifle prone
+Summer,1972,Silver,USA,United States,Victor AUER,1972 Munich,Shooting,Mixed,50m rifle prone
+Summer,1972,Bronze,ROU,Romania,Nicolae ROTARU,1972 Munich,Shooting,Mixed,50m rifle prone
+Summer,1972,Gold,USA,United States,John WRITER,1972 Munich,Shooting,Mixed,50m rifle 3 positions
+Summer,1972,Silver,USA,United States,Lanny BASSHAM,1972 Munich,Shooting,Mixed,50m rifle 3 positions
+Summer,1972,Bronze,GDR,German Democratic Republic,Werner LIPPOLDT,1972 Munich,Shooting,Mixed,50m rifle 3 positions
+Summer,1972,Gold,URS,USSR,Yakov ZHELEZNYAK,1972 Munich,Shooting,Mixed,50m running target
+Summer,1972,Silver,COL,Colombia,Helmut BELLINGRODT,1972 Munich,Shooting,Mixed,50m running target
+Summer,1972,Bronze,GBR,Great Britain,John KYNOCH,1972 Munich,Shooting,Mixed,50m running target
+Summer,1972,Gold,USA,United States,Lones WIGGER,1972 Munich,Shooting,Mixed,300m free rifle 3 positions
+Summer,1972,Silver,URS,USSR,Boris MELNIK,1972 Munich,Shooting,Mixed,300m free rifle 3 positions
+Summer,1972,Bronze,HUN,Hungary,Lajos PAPP,1972 Munich,Shooting,Mixed,300m free rifle 3 positions
+Summer,1972,Gold,ITA,Italy,Angelo SCALZONE,1972 Munich,Shooting,Mixed,Trap
+Summer,1972,Silver,FRA,France,Michel CARREGA,1972 Munich,Shooting,Mixed,Trap
+Summer,1972,Bronze,ITA,Italy,Silvano BASAGNI,1972 Munich,Shooting,Mixed,Trap
+Summer,1972,Gold,FRG,Federal Republic of Germany,Konrad WIRNHIER,1972 Munich,Shooting,Mixed,Skeet
+Summer,1972,Silver,URS,USSR,Evgeni PETROV,1972 Munich,Shooting,Mixed,Skeet
+Summer,1972,Bronze,GDR,German Democratic Republic,Michael BUCHHEIM,1972 Munich,Shooting,Mixed,Skeet
+Summer,1972,Gold,USA,United States,Mark SPITZ,1972 Munich,Swimming,Men's,100m freestyle
+Summer,1972,Silver,USA,United States,Jerry HEIDENREICH,1972 Munich,Swimming,Men's,100m freestyle
+Summer,1972,Bronze,URS,USSR,Vladimir BURE,1972 Munich,Swimming,Men's,100m freestyle
+Summer,1972,Gold,USA,United States,Mark SPITZ,1972 Munich,Swimming,Men's,200m freestyle
+Summer,1972,Silver,USA,United States,Steve GENTER,1972 Munich,Swimming,Men's,200m freestyle
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Werner LAMPE,1972 Munich,Swimming,Men's,200m freestyle
+Summer,1972,Gold,AUS,Australia,Brad COOPER,1972 Munich,Swimming,Men's,400m freestyle
+Summer,1972,Silver,USA,United States,Steve GENTER,1972 Munich,Swimming,Men's,400m freestyle
+Summer,1972,Bronze,USA,United States,Tom MCBREEN,1972 Munich,Swimming,Men's,400m freestyle
+Summer,1972,Gold,USA,United States,Michael BURTON,1972 Munich,Swimming,Men's,1500m freestyle
+Summer,1972,Silver,AUS,Australia,Graham WINDEATT,1972 Munich,Swimming,Men's,1500m freestyle
+Summer,1972,Bronze,USA,United States,Douglas Dale NORTHWAY,1972 Munich,Swimming,Men's,1500m freestyle
+Summer,1972,Gold,JPN,Japan,Nobutaka TAGUCHI,1972 Munich,Swimming,Men's,100m breaststroke
+Summer,1972,Silver,USA,United States,Thomas Edwin BRUCE,1972 Munich,Swimming,Men's,100m breaststroke
+Summer,1972,Bronze,USA,United States,John HENCKEN,1972 Munich,Swimming,Men's,100m breaststroke
+Summer,1972,Gold,USA,United States,John HENCKEN,1972 Munich,Swimming,Men's,200m breaststroke
+Summer,1972,Silver,GBR,Great Britain,David WILKIE,1972 Munich,Swimming,Men's,200m breaststroke
+Summer,1972,Bronze,JPN,Japan,Nobutaka TAGUCHI,1972 Munich,Swimming,Men's,200m breaststroke
+Summer,1972,Gold,USA,United States,Mark SPITZ,1972 Munich,Swimming,Men's,100m butterfly
+Summer,1972,Silver,CAN,Canada,Bruce ROBERTSON,1972 Munich,Swimming,Men's,100m butterfly
+Summer,1972,Bronze,USA,United States,Jerry HEIDENREICH,1972 Munich,Swimming,Men's,100m butterfly
+Summer,1972,Gold,USA,United States,Mark SPITZ,1972 Munich,Swimming,Men's,200m butterfly
+Summer,1972,Silver,USA,United States,Gary HALL,1972 Munich,Swimming,Men's,200m butterfly
+Summer,1972,Bronze,USA,United States,Robin BACKHAUS,1972 Munich,Swimming,Men's,200m butterfly
+Summer,1972,Gold,GDR,German Democratic Republic,Roland MATTHES,1972 Munich,Swimming,Men's,100m backstroke
+Summer,1972,Silver,USA,United States,Michael Eugene STAMM,1972 Munich,Swimming,Men's,100m backstroke
+Summer,1972,Bronze,USA,United States,John MURPHY,1972 Munich,Swimming,Men's,100m backstroke
+Summer,1972,Gold,GDR,German Democratic Republic,Roland MATTHES,1972 Munich,Swimming,Men's,200m backstroke
+Summer,1972,Silver,USA,United States,Michael Eugene STAMM,1972 Munich,Swimming,Men's,200m backstroke
+Summer,1972,Bronze,USA,United States,Mitchell IVEY,1972 Munich,Swimming,Men's,200m backstroke
+Summer,1972,Gold,SWE,Sweden,Gunnar LARSSON,1972 Munich,Swimming,Men's,200m individual medley
+Summer,1972,Silver,USA,United States,Alexander Timothy MCKEE,1972 Munich,Swimming,Men's,200m individual medley
+Summer,1972,Bronze,USA,United States,Steve FURNISS,1972 Munich,Swimming,Men's,200m individual medley
+Summer,1972,Gold,SWE,Sweden,Gunnar LARSSON,1972 Munich,Swimming,Men's,400m individual medley
+Summer,1972,Silver,USA,United States,Alexander Timothy MCKEE,1972 Munich,Swimming,Men's,400m individual medley
+Summer,1972,Bronze,HUN,Hungary,András HARGITAY,1972 Munich,Swimming,Men's,400m individual medley
+Summer,1972,Gold,USA,United States,"Mark SPITZ, John MURPHY, Jerry HEIDENREICH, David EDGAR",1972 Munich,Swimming,Men's,4x100m freestyle relay
+Summer,1972,Silver,URS,USSR,"Viktor MAZANOV, Viktor ABOIMOV, Igor GRIVENNIKOV, Vladimir BURE",1972 Munich,Swimming,Men's,4x100m freestyle relay
+Summer,1972,Bronze,GDR,German Democratic Republic,"Peter BRUCH, Roland MATTHES, Wilfried HARTUNG, Lutz UNGER",1972 Munich,Swimming,Men's,4x100m freestyle relay
+Summer,1972,Gold,USA,United States,"Frederick Daniel TYLER, Steve GENTER, John KINSELLA, Mark SPITZ",1972 Munich,Swimming,Men's,4x200m freestyle relay
+Summer,1972,Silver,FRG,Federal Republic of Germany,"Klaus STEINBACH, Hans-Günther VOSSELER, Hans-Joachim FASSNACHT, Werner LAMPE",1972 Munich,Swimming,Men's,4x200m freestyle relay
+Summer,1972,Bronze,URS,USSR,"Georgi KULIKOV, Vladimir BURE, Viktor MAZANOV, Igor GRIVENNIKOV",1972 Munich,Swimming,Men's,4x200m freestyle relay
+Summer,1972,Gold,USA,United States,"Thomas Edwin BRUCE, Mark SPITZ, Michael Eugene STAMM, Jerry HEIDENREICH",1972 Munich,Swimming,Men's,4x100m medley relay
+Summer,1972,Silver,GDR,German Democratic Republic,"Lutz UNGER, Hartmut FLÖCKNER, Roland MATTHES, Klaus KATZUR",1972 Munich,Swimming,Men's,4x100m medley relay
+Summer,1972,Bronze,CAN,Canada,"Bruce ROBERTSON, William MAHONY, Robert KASTING, Erik FISH",1972 Munich,Swimming,Men's,4x100m medley relay
+Summer,1972,Gold,USA,United States,Sandra NEILSON,1972 Munich,Swimming,Women's,100m freestyle
+Summer,1972,Silver,USA,United States,Shirley BABASHOFF,1972 Munich,Swimming,Women's,100m freestyle
+Summer,1972,Bronze,AUS,Australia,Shane GOULD,1972 Munich,Swimming,Women's,100m freestyle
+Summer,1972,Gold,AUS,Australia,Shane GOULD,1972 Munich,Swimming,Women's,200m freestyle
+Summer,1972,Silver,USA,United States,Shirley BABASHOFF,1972 Munich,Swimming,Women's,200m freestyle
+Summer,1972,Bronze,USA,United States,Keena ROTHHAMMER,1972 Munich,Swimming,Women's,200m freestyle
+Summer,1972,Gold,AUS,Australia,Shane GOULD,1972 Munich,Swimming,Women's,400m freestyle
+Summer,1972,Silver,ITA,Italy,Novella CALLIGARIS,1972 Munich,Swimming,Women's,400m freestyle
+Summer,1972,Bronze,GDR,German Democratic Republic,Gudrun WEGNER,1972 Munich,Swimming,Women's,400m freestyle
+Summer,1972,Gold,USA,United States,Keena ROTHHAMMER,1972 Munich,Swimming,Women's,800m freestyle
+Summer,1972,Silver,AUS,Australia,Shane GOULD,1972 Munich,Swimming,Women's,800m freestyle
+Summer,1972,Bronze,ITA,Italy,Novella CALLIGARIS,1972 Munich,Swimming,Women's,800m freestyle
+Summer,1972,Gold,USA,United States,Catherine L. CARR,1972 Munich,Swimming,Women's,100m breaststroke
+Summer,1972,Silver,URS,USSR,Galina PROZUMENSHCHIKOVA,1972 Munich,Swimming,Women's,100m breaststroke
+Summer,1972,Bronze,AUS,Australia,Beverly WHITFIELD,1972 Munich,Swimming,Women's,100m breaststroke
+Summer,1972,Gold,AUS,Australia,Beverly WHITFIELD,1972 Munich,Swimming,Women's,200m breaststroke
+Summer,1972,Silver,USA,United States,Dana SCHOENFIELD,1972 Munich,Swimming,Women's,200m breaststroke
+Summer,1972,Bronze,URS,USSR,Galina PROZUMENSHCHIKOVA,1972 Munich,Swimming,Women's,200m breaststroke
+Summer,1972,Gold,JPN,Japan,Mayumi AOKI,1972 Munich,Swimming,Women's,100m butterfly
+Summer,1972,Silver,GDR,German Democratic Republic,Roswitha BEIER,1972 Munich,Swimming,Women's,100m butterfly
+Summer,1972,Bronze,HUN,Hungary,Andrea GYARMATI,1972 Munich,Swimming,Women's,100m butterfly
+Summer,1972,Gold,USA,United States,Karen MOE,1972 Munich,Swimming,Women's,200m butterfly
+Summer,1972,Silver,USA,United States,Lynn COLELLA,1972 Munich,Swimming,Women's,200m butterfly
+Summer,1972,Bronze,USA,United States,Ellie DANIEL,1972 Munich,Swimming,Women's,200m butterfly
+Summer,1972,Gold,USA,United States,Melissa BELOTE,1972 Munich,Swimming,Women's,100m backstroke
+Summer,1972,Silver,HUN,Hungary,Andrea GYARMATI,1972 Munich,Swimming,Women's,100m backstroke
+Summer,1972,Bronze,USA,United States,Sue ATWOOD,1972 Munich,Swimming,Women's,100m backstroke
+Summer,1972,Gold,USA,United States,Melissa BELOTE,1972 Munich,Swimming,Women's,200m backstroke
+Summer,1972,Silver,USA,United States,Sue ATWOOD,1972 Munich,Swimming,Women's,200m backstroke
+Summer,1972,Bronze,CAN,Canada,Donna Marie GURR,1972 Munich,Swimming,Women's,200m backstroke
+Summer,1972,Gold,AUS,Australia,Shane GOULD,1972 Munich,Swimming,Women's,200m individual medley
+Summer,1972,Silver,GDR,German Democratic Republic,Kornelia ENDER,1972 Munich,Swimming,Women's,200m individual medley
+Summer,1972,Bronze,USA,United States,Lynn VIDALI,1972 Munich,Swimming,Women's,200m individual medley
+Summer,1972,Gold,AUS,Australia,Gail NEALL,1972 Munich,Swimming,Women's,400m individual medley
+Summer,1972,Silver,CAN,Canada,Leslie CLIFF,1972 Munich,Swimming,Women's,400m individual medley
+Summer,1972,Bronze,ITA,Italy,Novella CALLIGARIS,1972 Munich,Swimming,Women's,400m individual medley
+Summer,1972,Gold,USA,United States,"Jennifer KEMP, Shirley BABASHOFF, Sandra NEILSON, Jane BARKMAN",1972 Munich,Swimming,Women's,4x100m freestyle relay
+Summer,1972,Silver,GDR,German Democratic Republic,"Gabriele WETZKO, Kornelia ENDER, Andrea EIFE, Elke SEHMISCH",1972 Munich,Swimming,Women's,4x100m freestyle relay
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Gudrun BECKMANN, Angela STEINBACH, Heidemarie REINECK, Jutta WEBER",1972 Munich,Swimming,Women's,4x100m freestyle relay
+Summer,1972,Gold,USA,United States,"Melissa BELOTE, Sandra NEILSON, Deena DEARDURFF, Catherine L. CARR",1972 Munich,Swimming,Women's,4x100m medley relay
+Summer,1972,Silver,GDR,German Democratic Republic,"Roswitha BEIER, Renate VOGEL, Kornelia ENDER, Christine HERBST",1972 Munich,Swimming,Women's,4x100m medley relay
+Summer,1972,Bronze,FRG,Federal Republic of Germany,"Gudrun BECKMANN, Verena EBERLE, Heidemarie REINECK, Silke PIELEN",1972 Munich,Swimming,Women's,4x100m medley relay
+Summer,1972,Gold,JPN,Japan,"Jungo MORITA, Yasuhiro NOGUCHI, Kenji SHIMAOKA, Seiji OKO, Yoshihide FUKAO, Tetsuo SATO, Tetsuo NISHIMOTO, Masayuki MINAMI, Katsutoshi NEKODA, Tadayoshi YOKOTA, Kenji KIMURA, Yuzo NAKAMURA",1972 Munich,Volleyball,Men's,volleyball
+Summer,1972,Silver,GDR,German Democratic Republic,"Wolfgang MAIBOHM, Arnold SCHULZ, Siegfried SCHNEIDER, Jürgen MAUNE, Wolfgang WEBNER, Eckehard PIETZSCH, Rainer TSCHARKE, Horst PETER, Wolfgang WEISE, Wolfgang LÖWE, Horst HAGEN, Rudi SCHUMANN",1972 Munich,Volleyball,Men's,volleyball
+Summer,1972,Bronze,URS,USSR,"Vladimir PATKIN, Vladimir KONDRA, Valery KRAVCHENKO, Yuri STARUNSKY, Yefim CHULAK, Viktor BORSHCH, Aleksandr SAPRYKIN, Leonid ZAIKO, Yuri POYARKOV, Yevgeny LAPINSKY, Vyacheslav DOMANI, Vladimir PUTYATOV",1972 Munich,Volleyball,Men's,volleyball
+Summer,1972,Gold,URS,USSR,"Inna RYSKAL, Vera GALUSHKA, Tatyana SARYCHEVA, Lyudmila BOROZNA, Lyudmila BULDAKOVA, Galina LEONTYEVA, Tatyana GONOBOBLEVA, Nina SMOLEYEVA, Natalya KUDREVA, Roza SALIKHOVA, Tatyana PONYAEVA-TRETYAKOVA, Lyubov TYURINA",1972 Munich,Volleyball,Women's,volleyball
+Summer,1972,Silver,JPN,Japan,"Sumie OINUMA, Mariko OKAMOTO, Noriko YAMASHITA, Yaeko YAMAZAKI, Takako SHIRAI, Seiko SHIMAKAGE, Toyoko IWAHARA, Keiko HAMA, Michiko SHIOKAWA, Takako IIDA, Makiko FURUKAWA, Katsumi MATSUMURA",1972 Munich,Volleyball,Women's,volleyball
+Summer,1972,Bronze,PRK,Korea DPR,"Ok-jin JONG, Myong-suk KIM, He-suk HWANG, Zung-bok KIM, Ok-rim JANG, Chun-ja RYOM, Ok-sun KANG, Chun-ok RI, Yeun-ja KIM, Myong-suk PAEK, Su-dae KIM",1972 Munich,Volleyball,Women's,volleyball
+Summer,1972,Gold,URS,USSR,"Vyacheslav SOBCHENKO, Anatoly AKIMOV, Aleksandr DOLGUSHIN, Vladimir SHMUDSKY, Leonid OSIPOV, Nikolay MELNIKOV, Vadim GULYAEV, Aleksandr SHIDLOVSKY, Aleksandr DREVAL, Aleksandr KABANOV, Aleksey BARKALOV",1972 Munich,Water Polo,Men's,water polo
+Summer,1972,Silver,HUN,Hungary,"Tibor CSERVENYÁK, Tamás FARAGÓ, Dénes PÓCSIK, Endre MOLNÁR, László SÁROSI, István MAGAS, Ferenc KONRAD, Zoltán KÁSÁS, István GÖRGÉNYI, Istvan SZIVOS, András BODNÁR",1972 Munich,Water Polo,Men's,water polo
+Summer,1972,Bronze,USA,United States,"Eric LINDROTH, John PARKER, Gary SHEERER, James FERGUSON, James Walter SLATTON, Russell WEBB, Stanley COLE, Steven BARNETT, Barry WEITZENBERG, Peter ASCH, Bruce BRADLEY",1972 Munich,Water Polo,Men's,water polo
+Summer,1972,Gold,POL,Poland,Zygmunt SMALCERZ,1972 Munich,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1972,Silver,HUN,Hungary,Lajos SZUCS,1972 Munich,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1972,Bronze,HUN,Hungary,Sándor HOLCZREITER,1972 Munich,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1972,Gold,HUN,Hungary,Imre FÖLDI,1972 Munich,Weightlifting,Men's,52 - 56kg (bantamweight)
+Summer,1972,Silver,IRI,Iran,Mohammad NASSIRI-SERESHT,1972 Munich,Weightlifting,Men's,52 - 56kg (bantamweight)
+Summer,1972,Bronze,URS,USSR,Gennadi CHETIN,1972 Munich,Weightlifting,Men's,52 - 56kg (bantamweight)
+Summer,1972,Gold,BUL,Bulgaria,Norair NURIKYAN,1972 Munich,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1972,Silver,URS,USSR,Dito SHANIDZE,1972 Munich,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1972,Bronze,HUN,Hungary,János BENEDEK,1972 Munich,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1972,Gold,URS,USSR,Mukharbi KIRZHINOV,1972 Munich,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1972,Silver,BUL,Bulgaria,Mladen KUTCHEV,1972 Munich,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1972,Bronze,POL,Poland,Zbigniew KACZMAREK,1972 Munich,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1972,Gold,BUL,Bulgaria,Yordan BIKOV,1972 Munich,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1972,Silver,LBN,Lebanon,Kheir Mohamed TARABULSI,1972 Munich,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1972,Bronze,ITA,Italy,Anselmo SILVINO,1972 Munich,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1972,Gold,NOR,Norway,Leif JENSSEN,1972 Munich,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1972,Silver,POL,Poland,Norbert OZIMEK,1972 Munich,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1972,Bronze,HUN,Hungary,György HORVATH,1972 Munich,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1972,Gold,BUL,Bulgaria,Andon NIKOLOV,1972 Munich,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1972,Silver,BUL,Bulgaria,Atanas SHOPOV,1972 Munich,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1972,Bronze,SWE,Sweden,Hans BETTEMBOURG,1972 Munich,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1972,Gold,URS,USSR,Jaan TALTS,1972 Munich,Weightlifting,Men's,90 - 110kg (heavyweight)
+Summer,1972,Silver,BUL,Bulgaria,Aleksandar KRAITCHEV,1972 Munich,Weightlifting,Men's,90 - 110kg (heavyweight)
+Summer,1972,Bronze,GDR,German Democratic Republic,Stefan GRÜTZNER,1972 Munich,Weightlifting,Men's,90 - 110kg (heavyweight)
+Summer,1972,Gold,URS,USSR,Vasily ALEKSEYEV,1972 Munich,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1972,Silver,FRG,Federal Republic of Germany,Rudolf MANG,1972 Munich,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1972,Bronze,GDR,German Democratic Republic,Gerd BONK,1972 Munich,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1972,Gold,URS,USSR,Roman DMITRIEV,1972 Munich,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1972,Silver,BUL,Bulgaria,Ognian NIKOLOV,1972 Munich,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1972,Bronze,IRI,Iran,Ebrahim JAVADIPOUR,1972 Munich,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1972,Gold,JPN,Japan,Kiyomi KATO,1972 Munich,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1972,Silver,URS,USSR,Arsen ALAKHVERDIYEV,1972 Munich,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1972,Bronze,PRK,Korea DPR,Gwong-Hyong KIM,1972 Munich,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1972,Gold,JPN,Japan,Hideaki YANAGIDA,1972 Munich,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1972,Silver,USA,United States,Richard SANDERS,1972 Munich,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1972,Bronze,HUN,Hungary,László KLINGA,1972 Munich,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1972,Gold,URS,USSR,Zagalav ABDULBEKOV,1972 Munich,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1972,Silver,TUR,Turkey,Vehbi AKDAG,1972 Munich,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1972,Bronze,BUL,Bulgaria,Ivan KRASTEV,1972 Munich,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1972,Gold,USA,United States,Dan GABLE,1972 Munich,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1972,Silver,JPN,Japan,Kikuo WADA,1972 Munich,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1972,Bronze,URS,USSR,Ruslan ASHURALIYEV,1972 Munich,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1972,Gold,USA,United States,Wayne WELLS,1972 Munich,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1972,Silver,SWE,Sweden,Jan KARLSSON,1972 Munich,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1972,Bronze,FRG,Federal Republic of Germany,Adolf SEGER,1972 Munich,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1972,Gold,URS,USSR,Levan TEDIASHVILI,1972 Munich,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1972,Silver,USA,United States,John PETERSON,1972 Munich,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1972,Bronze,ROU,Romania,Vasile IORGA,1972 Munich,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1972,Gold,USA,United States,Benjamin Lee PETERSON,1972 Munich,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1972,Silver,URS,USSR,Gennadi STRAKHOV,1972 Munich,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1972,Bronze,HUN,Hungary,Károly BAJKÓ,1972 Munich,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1972,Gold,URS,USSR,Ivan YARYGIN,1972 Munich,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1972,Silver,MGL,Mongolia,Khorloo BAYANMUNK,1972 Munich,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1972,Bronze,HUN,Hungary,József CSATÁRI,1972 Munich,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1972,Gold,URS,USSR,Aleksandr MEDVED,1972 Munich,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1972,Silver,BUL,Bulgaria,Osman DURALIEV,1972 Munich,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1972,Bronze,USA,United States,Chris TAYLOR,1972 Munich,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1972,Gold,ROU,Romania,Gheorghe BERCEANU,1972 Munich,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1972,Silver,IRI,Iran,Rahim ALIABADI,1972 Munich,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1972,Bronze,BUL,Bulgaria,Stefan ANGELOV,1972 Munich,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1972,Gold,BUL,Bulgaria,Petar KIROV,1972 Munich,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1972,Silver,JPN,Japan,Koichiro HIRAYAMA,1972 Munich,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1972,Bronze,ITA,Italy,Giuseppe BOGNANNI,1972 Munich,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1972,Gold,URS,USSR,Rustem KAZAKOV,1972 Munich,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1972,Silver,FRG,Federal Republic of Germany,Hans-Jürgen VEIL,1972 Munich,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1972,Bronze,FIN,Finland,Risto BJÖRLIN,1972 Munich,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1972,Gold,BUL,Bulgaria,Georgi MARKOW,1972 Munich,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1972,Silver,GDR,German Democratic Republic,Heinz-Helmut WEHLING,1972 Munich,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1972,Bronze,POL,Poland,Kazimierz LIPIEN,1972 Munich,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1972,Gold,URS,USSR,Shamil KHISAMUTDINOV,1972 Munich,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1972,Silver,BUL,Bulgaria,Stoyan APOSTOLOV,1972 Munich,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1972,Bronze,ITA,Italy,Gian Matteo RANZI,1972 Munich,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1972,Gold,TCH,Czechoslovakia,Vitezslav MACHA,1972 Munich,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1972,Silver,GRE,Greece,Petros GALAKTOPOULOS,1972 Munich,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1972,Bronze,SWE,Sweden,Jan KARLSSON,1972 Munich,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1972,Gold,HUN,Hungary,Csaba HEGEDUS,1972 Munich,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1972,Silver,URS,USSR,Anatoli NAZARENKO,1972 Munich,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1972,Bronze,YUG,Yugoslavia,Milovan NENADIC,1972 Munich,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1972,Gold,URS,USSR,Valeri REZANTSEV,1972 Munich,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1972,Silver,YUG,Yugoslavia,Josip CORAK,1972 Munich,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1972,Bronze,POL,Poland,Czeslaw KWIECINSKI,1972 Munich,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1972,Gold,ROU,Romania,Nicolae MARTINESCU,1972 Munich,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1972,Silver,URS,USSR,Nikolai YAKOVENKO,1972 Munich,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1972,Bronze,HUN,Hungary,Ferenc KISS,1972 Munich,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1972,Gold,URS,USSR,Anatoli ROSHCHIN,1972 Munich,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1972,Silver,BUL,Bulgaria,Aleksandr TOMOV,1972 Munich,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1972,Bronze,ROU,Romania,Victor DOLIPSCHI,1972 Munich,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)

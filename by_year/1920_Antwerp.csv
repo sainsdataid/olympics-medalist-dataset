@@ -1,0 +1,440 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1920,Gold,BEL,Belgium,Edmond CLOETENS,1920 Antwerp,Archery,Men's,fixed bird target large bird
+Summer,1920,Silver,BEL,Belgium,Louis VAN DE PERCK,1920 Antwerp,Archery,Men's,fixed bird target large bird
+Summer,1920,Bronze,BEL,Belgium,Firmin FLAMAND,1920 Antwerp,Archery,Men's,fixed bird target large bird
+Summer,1920,Gold,BEL,Belgium,Edmond VAN MOER,1920 Antwerp,Archery,Men's,fixed bird target small bird
+Summer,1920,Silver,BEL,Belgium,Louis VAN DE PERCK,1920 Antwerp,Archery,Men's,fixed bird target small bird
+Summer,1920,Bronze,BEL,Belgium,Joseph HERMANS,1920 Antwerp,Archery,Men's,fixed bird target small bird
+Summer,1920,Gold,BEL,Belgium,"Louis VAN DE PERCK, Edmond VAN MOER, Auguste VAN DE VERRE, Edmond CLOETENS, Firmin FLAMAND, Joseph HERMANS",1920 Antwerp,Archery,Men's,fixed bird target large bird teams
+Summer,1920,Gold,BEL,Belgium,"Edmond VAN MOER, Joseph HERMANS, Firmin FLAMAND, Louis VAN DE PERCK, Edmond CLOETENS, Auguste VAN DE VERRE",1920 Antwerp,Archery,Men's,fixed bird target small bird teams
+Summer,1920,Gold,BEL,Belgium,Hubert VAN INNIS,1920 Antwerp,Archery,Men's,moving bird target 28m
+Summer,1920,Silver,FRA,France,Léonce Gaston QUENTIN,1920 Antwerp,Archery,Men's,moving bird target 28m
+Summer,1920,Gold,BEL,Belgium,Hubert VAN INNIS,1920 Antwerp,Archery,Men's,moving bird target 33m
+Summer,1920,Silver,FRA,France,Julien Louis BRULE,1920 Antwerp,Archery,Men's,moving bird target 33m
+Summer,1920,Gold,FRA,France,Julien Louis BRULE,1920 Antwerp,Archery,Men's,moving bird target 50m
+Summer,1920,Silver,BEL,Belgium,Hubert VAN INNIS,1920 Antwerp,Archery,Men's,moving bird target 50m
+Summer,1920,Gold,NED,Netherlands,"Adrianus Cornelis THEEUWES, Jan Joseph PACKBIERS, Johannes Jacobus VAN GASTEL, Petrus Godefridus DE BROUWER, Hendrikus VAN BUSSELL, Adrianus VAN MERRIENBOER, Theodorus B. WILLEMS, Jan-Babtiest-Jozef VAN GESTEL",1920 Antwerp,Archery,Men's,moving bird target 28m teams
+Summer,1920,Silver,BEL,Belgium,"Hubert VAN INNIS, Edmond DE KNIBBER, Jérome DE MAYER, Louis FIERENS, Louis VAN BEECK, Alphonse ALLAERT, Louis DELCON, Pierre VAN THIELT",1920 Antwerp,Archery,Men's,moving bird target 28m teams
+Summer,1920,Bronze,FRA,France,"Julien Louis BRULE, Pascal FAUVEL, Eugène RICHEZ, Léon EPIN, Léonce Gaston QUENTIN, Eugène G. GRIZOT, Artur MABELLON, Paul LEROY",1920 Antwerp,Archery,Men's,moving bird target 28m teams
+Summer,1920,Gold,BEL,Belgium,"Hubert VAN INNIS, Jérome DE MAYER, Edmond DE KNIBBER, Louis VAN BEECK, Pierre VAN THIELT, Alphonse ALLAERT, Louis DELCON, Louis FIERENS",1920 Antwerp,Archery,Men's,moving bird target 33m teams
+Summer,1920,Silver,FRA,France,"Julien Louis BRULE, Pascal FAUVEL, Eugène RICHEZ, Léon EPIN, Léonce Gaston QUENTIN, Eugène G. GRIZOT, Artur MABELLON, Paul LEROY",1920 Antwerp,Archery,Men's,moving bird target 33m teams
+Summer,1920,Gold,BEL,Belgium,"Louis DELCON, Louis FIERENS, Pierre VAN THIELT, Alphonse ALLAERT, Louis VAN BEECK, Hubert VAN INNIS, Jérome DE MAYER, Edmond DE KNIBBER",1920 Antwerp,Archery,Men's,moving bird target 50m teams
+Summer,1920,Silver,FRA,France,"Julien Louis BRULE, Pascal FAUVEL, Eugène RICHEZ, Léon EPIN, Léonce Gaston QUENTIN, Eugène G. GRIZOT, Artur MABELLON, Paul LEROY",1920 Antwerp,Archery,Men's,moving bird target 50m teams
+Summer,1920,Gold,USA,United States,Charles PADDOCK,1920 Antwerp,Athletics,Men's,100m
+Summer,1920,Silver,USA,United States,Morris KIRKSEY,1920 Antwerp,Athletics,Men's,100m
+Summer,1920,Bronze,GBR,Great Britain,Harry EDWARD,1920 Antwerp,Athletics,Men's,100m
+Summer,1920,Gold,USA,United States,Allen WOODRING,1920 Antwerp,Athletics,Men's,200m
+Summer,1920,Silver,USA,United States,Charles PADDOCK,1920 Antwerp,Athletics,Men's,200m
+Summer,1920,Bronze,GBR,Great Britain,Harry EDWARD,1920 Antwerp,Athletics,Men's,200m
+Summer,1920,Gold,RSA,South Africa,Bevil Gordon D'Urban RUDD,1920 Antwerp,Athletics,Men's,400m
+Summer,1920,Silver,GBR,Great Britain,Guy Montagu BUTLER,1920 Antwerp,Athletics,Men's,400m
+Summer,1920,Bronze,SWE,Sweden,Nils ENGDAHL,1920 Antwerp,Athletics,Men's,400m
+Summer,1920,Gold,GBR,Great Britain,Albert HILL,1920 Antwerp,Athletics,Men's,800m
+Summer,1920,Silver,USA,United States,Earl EBY,1920 Antwerp,Athletics,Men's,800m
+Summer,1920,Bronze,RSA,South Africa,Bevil Gordon D'Urban RUDD,1920 Antwerp,Athletics,Men's,800m
+Summer,1920,Gold,GBR,Great Britain,Albert HILL,1920 Antwerp,Athletics,Men's,1500m
+Summer,1920,Silver,GBR,Great Britain,Philipp John NOEL-BAKER,1920 Antwerp,Athletics,Men's,1500m
+Summer,1920,Bronze,USA,United States,Marion Lawrence SHIELDS,1920 Antwerp,Athletics,Men's,1500m
+Summer,1920,Gold,FRA,France,Joseph GUILLEMOT,1920 Antwerp,Athletics,Men's,5000m
+Summer,1920,Silver,FIN,Finland,Paavo NURMI,1920 Antwerp,Athletics,Men's,5000m
+Summer,1920,Bronze,SWE,Sweden,Erik BACKMAN,1920 Antwerp,Athletics,Men's,5000m
+Summer,1920,Gold,FIN,Finland,Paavo NURMI,1920 Antwerp,Athletics,Men's,10000m
+Summer,1920,Silver,FRA,France,Joseph GUILLEMOT,1920 Antwerp,Athletics,Men's,10000m
+Summer,1920,Bronze,GBR,Great Britain,James WILSON,1920 Antwerp,Athletics,Men's,10000m
+Summer,1920,Gold,FIN,Finland,Hannes KOLEHMAINEN,1920 Antwerp,Athletics,Men's,marathon
+Summer,1920,Silver,EST,Estonia,Jüri LOSSMANN,1920 Antwerp,Athletics,Men's,marathon
+Summer,1920,Bronze,ITA,Italy,Valerio ARRI,1920 Antwerp,Athletics,Men's,marathon
+Summer,1920,Gold,CAN,Canada,Earl THOMSON,1920 Antwerp,Athletics,Men's,110m hurdles
+Summer,1920,Silver,USA,United States,Harold BARRON,1920 Antwerp,Athletics,Men's,110m hurdles
+Summer,1920,Bronze,USA,United States,Frederick MURRAY,1920 Antwerp,Athletics,Men's,110m hurdles
+Summer,1920,Gold,USA,United States,Frank LOOMIS,1920 Antwerp,Athletics,Men's,400m hurdles
+Summer,1920,Silver,USA,United States,John Kelley NORTON,1920 Antwerp,Athletics,Men's,400m hurdles
+Summer,1920,Bronze,USA,United States,August George DESCH,1920 Antwerp,Athletics,Men's,400m hurdles
+Summer,1920,Gold,GBR,Great Britain,Percy HODGE,1920 Antwerp,Athletics,Men's,3000m steeplechase
+Summer,1920,Silver,USA,United States,Patrick FLYNN,1920 Antwerp,Athletics,Men's,3000m steeplechase
+Summer,1920,Bronze,ITA,Italy,Ernesto AMBROSINI,1920 Antwerp,Athletics,Men's,3000m steeplechase
+Summer,1920,Gold,USA,United States,"Charles PADDOCK, Loren MURCHISON, Jackson SCHOLZ, Morris KIRKSEY",1920 Antwerp,Athletics,Men's,4x100m relay
+Summer,1920,Silver,FRA,France,"René TIRARD, René MOURLON, René LORAIN, Emile ALI KAHN",1920 Antwerp,Athletics,Men's,4x100m relay
+Summer,1920,Bronze,SWE,Sweden,"Agne HOLMSTRÖM, Sven MALM, R. William E. PETERSSON, Nils SANDSTRÖM",1920 Antwerp,Athletics,Men's,4x100m relay
+Summer,1920,Gold,GBR,Great Britain,"Cecil Richmond GRIFFITHS, John Creyghton AINSWORTH-DAVIS, Robert Alexander LINDSAY, Guy Montagu BUTLER",1920 Antwerp,Athletics,Men's,4x400m relay
+Summer,1920,Silver,RSA,South Africa,"Jack OOSTERLAAK, Harry DAVEL, Bevil Gordon D'Urban RUDD, Clarence Winston OLDFIELD",1920 Antwerp,Athletics,Men's,4x400m relay
+Summer,1920,Bronze,FRA,France,"Georges ANDRE, Maurice DELVART, Gaston FERY, Jean André DEVAUX",1920 Antwerp,Athletics,Men's,4x400m relay
+Summer,1920,Gold,USA,United States,"Horace Hallock BROWN, Ivan DRESSER, Arlie Alfred SCHARDT",1920 Antwerp,Athletics,Men's,3000m team
+Summer,1920,Silver,GBR,Great Britain,"Albert HILL, Charles Edward BLEWITT, William Raymond SEAGROVE",1920 Antwerp,Athletics,Men's,3000m team
+Summer,1920,Bronze,SWE,Sweden,"Erik BACKMAN, Edvin WIDE, Sven LUNDGREN",1920 Antwerp,Athletics,Men's,3000m team
+Summer,1920,Gold,ITA,Italy,Ugo FRIGERIO,1920 Antwerp,Athletics,Men's,3000m walk
+Summer,1920,Silver,AUS,Australia,George PARKER,1920 Antwerp,Athletics,Men's,3000m walk
+Summer,1920,Bronze,USA,United States,Richard Frederick REMER,1920 Antwerp,Athletics,Men's,3000m walk
+Summer,1920,Gold,ITA,Italy,Ugo FRIGERIO,1920 Antwerp,Athletics,Men's,10000m walk
+Summer,1920,Silver,USA,United States,Joseph PEARMAN,1920 Antwerp,Athletics,Men's,10000m walk
+Summer,1920,Bronze,GBR,Great Britain,Charles GUNN,1920 Antwerp,Athletics,Men's,10000m walk
+Summer,1920,Gold,FIN,Finland,Paavo NURMI,1920 Antwerp,Athletics,Men's,cross country individual
+Summer,1920,Silver,SWE,Sweden,Erik BACKMAN,1920 Antwerp,Athletics,Men's,cross country individual
+Summer,1920,Bronze,FIN,Finland,Heikki LIIMATAINEN,1920 Antwerp,Athletics,Men's,cross country individual
+Summer,1920,Gold,FIN,Finland,"Paavo NURMI, Frederik Teudor KOSKENNIEMI, Heikki LIIMATAINEN",1920 Antwerp,Athletics,Men's,cross country team
+Summer,1920,Silver,GBR,Great Britain,"Frank HEGARTY, James WILSON, Alfred Hubert NICHOLS",1920 Antwerp,Athletics,Men's,cross country team
+Summer,1920,Bronze,SWE,Sweden,"Erik BACKMAN, Hilding EKMAN, Gustaf MATTSSON",1920 Antwerp,Athletics,Men's,cross country team
+Summer,1920,Gold,SWE,Sweden,R. William E. PETERSSON,1920 Antwerp,Athletics,Men's,long jump
+Summer,1920,Silver,USA,United States,Carl JOHNSON,1920 Antwerp,Athletics,Men's,long jump
+Summer,1920,Bronze,SWE,Sweden,Erik ABRAHAMSSON,1920 Antwerp,Athletics,Men's,long jump
+Summer,1920,Gold,FIN,Finland,Vilho Immanuel TUULOS,1920 Antwerp,Athletics,Men's,triple jump
+Summer,1920,Silver,SWE,Sweden,Folke JANSSON,1920 Antwerp,Athletics,Men's,triple jump
+Summer,1920,Bronze,SWE,Sweden,Erik ALMLÖF,1920 Antwerp,Athletics,Men's,triple jump
+Summer,1920,Gold,USA,United States,Richmond LANDON,1920 Antwerp,Athletics,Men's,high jump
+Summer,1920,Silver,USA,United States,Harold MULLER,1920 Antwerp,Athletics,Men's,high jump
+Summer,1920,Bronze,SWE,Sweden,Bo EKELUND,1920 Antwerp,Athletics,Men's,high jump
+Summer,1920,Gold,USA,United States,Frank FOSS,1920 Antwerp,Athletics,Men's,pole vault
+Summer,1920,Silver,DEN,Denmark,Henry PETERSEN,1920 Antwerp,Athletics,Men's,pole vault
+Summer,1920,Bronze,USA,United States,Edwin MYERS,1920 Antwerp,Athletics,Men's,pole vault
+Summer,1920,Gold,FIN,Finland,Frans Wilhelmi PÖRHÖLÄ,1920 Antwerp,Athletics,Men's,shot put
+Summer,1920,Silver,FIN,Finland,Elmer Konstantin NIKLANDER,1920 Antwerp,Athletics,Men's,shot put
+Summer,1920,Bronze,USA,United States,Harry LIVERSEDGE,1920 Antwerp,Athletics,Men's,shot put
+Summer,1920,Gold,FIN,Finland,Elmer Konstantin NIKLANDER,1920 Antwerp,Athletics,Men's,discus throw
+Summer,1920,Silver,FIN,Finland,Armas Rudolf TAIPALE,1920 Antwerp,Athletics,Men's,discus throw
+Summer,1920,Bronze,USA,United States,Augustus POPE,1920 Antwerp,Athletics,Men's,discus throw
+Summer,1920,Gold,USA,United States,Patrick RYAN,1920 Antwerp,Athletics,Men's,hammer throw
+Summer,1920,Silver,SWE,Sweden,Carl Johan LIND,1920 Antwerp,Athletics,Men's,hammer throw
+Summer,1920,Bronze,USA,United States,Basil BENNET,1920 Antwerp,Athletics,Men's,hammer throw
+Summer,1920,Gold,FIN,Finland,Jonni MYYRÄ,1920 Antwerp,Athletics,Men's,javelin throw
+Summer,1920,Silver,FIN,Finland,Urho Pellervo PELTONEN,1920 Antwerp,Athletics,Men's,javelin throw
+Summer,1920,Bronze,FIN,Finland,Paavo JAALE-JOHANSSON,1920 Antwerp,Athletics,Men's,javelin throw
+Summer,1920,Gold,USA,United States,Patrick MCDONALD,1920 Antwerp,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1920,Silver,USA,United States,Patrick RYAN,1920 Antwerp,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1920,Bronze,SWE,Sweden,Carl Johan LIND,1920 Antwerp,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1920,Gold,FIN,Finland,Eero Reino LEHTONEN,1920 Antwerp,Athletics,Men's,pentathlon
+Summer,1920,Silver,USA,United States,Everett Lewis BRADLEY,1920 Antwerp,Athletics,Men's,pentathlon
+Summer,1920,Bronze,FIN,Finland,Hugo Jalmari LAHTINEN,1920 Antwerp,Athletics,Men's,pentathlon
+Summer,1920,Gold,NOR,Norway,Helge Andreas LÖVLAND,1920 Antwerp,Athletics,Men's,decathlon
+Summer,1920,Silver,USA,United States,Brutus Kerr HAMILTON,1920 Antwerp,Athletics,Men's,decathlon
+Summer,1920,Bronze,SWE,Sweden,Bertil OHLSON,1920 Antwerp,Athletics,Men's,decathlon
+Summer,1920,Gold,USA,United States,Frank DI GENARO,1920 Antwerp,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1920,Silver,DEN,Denmark,Anders PETERSEN,1920 Antwerp,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1920,Bronze,GBR,Great Britain,William CUTHBERTSON,1920 Antwerp,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1920,Gold,RSA,South Africa,Clarence Leonard WALKER,1920 Antwerp,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1920,Silver,CAN,Canada,Clifford John GRAHAM,1920 Antwerp,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1920,Bronze,GBR,Great Britain,James MCKENZIE,1920 Antwerp,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1920,Gold,FRA,France,Paul FRITSCH,1920 Antwerp,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1920,Silver,FRA,France,Jean GACHET,1920 Antwerp,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1920,Bronze,ITA,Italy,Edoardo GARZENA,1920 Antwerp,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1920,Gold,USA,United States,Samuel MOSBERG,1920 Antwerp,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1920,Silver,DEN,Denmark,Gotfred JOHANSEN,1920 Antwerp,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1920,Bronze,CAN,Canada,Clarence NEWTON,1920 Antwerp,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1920,Gold,CAN,Canada,Julius Gustav Albert SCHNEIDER,1920 Antwerp,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1920,Silver,GBR,Great Britain,Alexander IRELAND,1920 Antwerp,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1920,Bronze,USA,United States,Frederick William COLBERG,1920 Antwerp,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1920,Gold,GBR,Great Britain,Harry William MALLIN,1920 Antwerp,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1920,Silver,CAN,Canada,George Arthur PRUD'HOMME,1920 Antwerp,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1920,Bronze,CAN,Canada,Montgomery Hart HERSCOVITCH,1920 Antwerp,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1920,Gold,USA,United States,Edward EAGAN,1920 Antwerp,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1920,Silver,NOR,Norway,Sverre SÖRSDAL,1920 Antwerp,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1920,Bronze,GBR,Great Britain,Harold FRANKS,1920 Antwerp,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1920,Gold,GBR,Great Britain,Ronald RAWSON,1920 Antwerp,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1920,Silver,DEN,Denmark,Sören PETEERSEN,1920 Antwerp,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1920,Bronze,FRA,France,Albert Xavier ELUERE,1920 Antwerp,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1920,Gold,SWE,Sweden,Harry STENQVIST,1920 Antwerp,Cycling Road,Men's,individual time trial
+Summer,1920,Silver,RSA,South Africa,Henry Justaves KALTENBRUN,1920 Antwerp,Cycling Road,Men's,individual time trial
+Summer,1920,Bronze,FRA,France,Fernand CANTELOUBE,1920 Antwerp,Cycling Road,Men's,individual time trial
+Summer,1920,Gold,FRA,France,"Fernand CANTELOUBE, Achille SOUCHARD, Georges DETREILLE, Marcel GOBILLOT",1920 Antwerp,Cycling Road,Men's,team time trial
+Summer,1920,Silver,SWE,Sweden,"Harry STENQVIST, Axel Wilhelm PERSSON, Ragnar MALM, Sigfrid LUNDBERG",1920 Antwerp,Cycling Road,Men's,team time trial
+Summer,1920,Bronze,BEL,Belgium,"Albert DE BUINNE, Jean JANSSENS, André VERCRUYSSE, Albert WYCKMANS",1920 Antwerp,Cycling Road,Men's,team time trial
+Summer,1920,Gold,NED,Netherlands,Mauritius PEETERS,1920 Antwerp,Cycling Track,Men's,sprint individual
+Summer,1920,Silver,GBR,Great Britain,Horace Thomas JOHNSON,1920 Antwerp,Cycling Track,Men's,sprint individual
+Summer,1920,Bronze,GBR,Great Britain,Harry Edgar RYAN,1920 Antwerp,Cycling Track,Men's,sprint individual
+Summer,1920,Gold,BEL,Belgium,Henry GEORGE,1920 Antwerp,Cycling Track,Men's,50km
+Summer,1920,Silver,GBR,Great Britain,Cyril Albert ALDEN,1920 Antwerp,Cycling Track,Men's,50km
+Summer,1920,Bronze,NED,Netherlands,Petrus Gerardus IKELAAR,1920 Antwerp,Cycling Track,Men's,50km
+Summer,1920,Gold,GBR,Great Britain,"Harry Edgar RYAN, Thomas Glasson LANCE",1920 Antwerp,Cycling Track,Men's,2000m tandem
+Summer,1920,Silver,RSA,South Africa,"James R. WALKER, William R. SMITH",1920 Antwerp,Cycling Track,Men's,2000m tandem
+Summer,1920,Bronze,NED,Netherlands,"Frans DE VRENG, Petrus Gerardus IKELAAR",1920 Antwerp,Cycling Track,Men's,2000m tandem
+Summer,1920,Gold,ITA,Italy,"Franco GIORGETTI, Arnaldo CARLI, Ruggero FERRARIO, Primo MAGNANI",1920 Antwerp,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1920,Silver,GBR,Great Britain,"Albert WHITE, William George STEWART, Horace Thomas JOHNSON, Cyril Albert ALDEN",1920 Antwerp,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1920,Bronze,RSA,South Africa,"James R. WALKER, Henry Justaves KALTENBRUN, William R. SMITH, Harry W. GOOSEN",1920 Antwerp,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1920,Gold,USA,United States,Louis KUEHN,1920 Antwerp,Diving,Men's,3m springboard
+Summer,1920,Silver,USA,United States,Clarence PINKSTON,1920 Antwerp,Diving,Men's,3m springboard
+Summer,1920,Bronze,USA,United States,Louis James BALBACH,1920 Antwerp,Diving,Men's,3m springboard
+Summer,1920,Gold,USA,United States,Clarence PINKSTON,1920 Antwerp,Diving,Men's,10m platform
+Summer,1920,Silver,SWE,Sweden,Erik ADLERZ,1920 Antwerp,Diving,Men's,10m platform
+Summer,1920,Bronze,USA,United States,Harry PRIESTE,1920 Antwerp,Diving,Men's,10m platform
+Summer,1920,Gold,SWE,Sweden,Arvid WALLMAN,1920 Antwerp,Diving,Men's,plain high diving
+Summer,1920,Silver,SWE,Sweden,Nils SKOGLUND,1920 Antwerp,Diving,Men's,plain high diving
+Summer,1920,Bronze,SWE,Sweden,John JANSSON,1920 Antwerp,Diving,Men's,plain high diving
+Summer,1920,Gold,USA,United States,Aileen RIGGIN,1920 Antwerp,Diving,Women's,3m springboard
+Summer,1920,Silver,USA,United States,Helen WAINWRIGHT,1920 Antwerp,Diving,Women's,3m springboard
+Summer,1920,Bronze,USA,United States,Thelma PAYNE,1920 Antwerp,Diving,Women's,3m springboard
+Summer,1920,Gold,DEN,Denmark,Stefani FRYLAND CLAUSEN,1920 Antwerp,Diving,Women's,10m platform
+Summer,1920,Silver,GBR,Great Britain,Beatrix Eileen ARMSTRONG,1920 Antwerp,Diving,Women's,10m platform
+Summer,1920,Bronze,SWE,Sweden,Eva OLLIVIER,1920 Antwerp,Diving,Women's,10m platform
+Summer,1920,Gold,SWE,Sweden,Janne LUNDBLAD / UNO,1920 Antwerp,Equestrian Dressage,Mixed,individual
+Summer,1920,Silver,SWE,Sweden,"SANDSTRÃEM, BERTIL / SABEL",1920 Antwerp,Equestrian Dressage,Mixed,individual
+Summer,1920,Bronze,SWE,Sweden,"VON ROSEN, HANS / RUNNING SISTER",1920 Antwerp,Equestrian Dressage,Mixed,individual
+Summer,1920,Gold,SWE,Sweden,"MÖRNER,Helmer / HORSE",1920 Antwerp,Equestrian Eventing,Mixed,individual
+Summer,1920,Silver,SWE,Sweden,"LUNDSTRÃEM, AGE / YRSA",1920 Antwerp,Equestrian Eventing,Mixed,individual
+Summer,1920,Bronze,ITA,Italy,"CAFFARATTI, ETTORE / CANICHE",1920 Antwerp,Equestrian Eventing,Mixed,individual
+Summer,1920,Gold,SWE,Sweden,"Helmer MÖRNER, Georg VON BRAUN, Age LUNDSTRÖM, Gustaf DYRSCH",1920 Antwerp,Equestrian Eventing,Mixed,team
+Summer,1920,Silver,ITA,Italy,"Ettore CAFFARATTI, Giulio CACCIANDRA, Garibaldi SPIGHI, Carlo ASINARI",1920 Antwerp,Equestrian Eventing,Mixed,team
+Summer,1920,Bronze,BEL,Belgium,"Roger MOEREMANS D'EMAUS, Jules BONVALET, Oswald G. H. LINTS, Jacques MISONNE",1920 Antwerp,Equestrian Eventing,Mixed,team
+Summer,1920,Gold,ITA,Italy,Tommaso LEQUIO DI ASSABA,1920 Antwerp,Equestrian Jumping,Mixed,individual
+Summer,1920,Silver,ITA,Italy,Alessandro VALERIO,1920 Antwerp,Equestrian Jumping,Mixed,individual
+Summer,1920,Bronze,SWE,Sweden,Carl Gustaf LEWENHAUPT,1920 Antwerp,Equestrian Jumping,Mixed,individual
+Summer,1920,Gold,SWE,Sweden,"Claës DE KÖNIG, Frank MARTIN, Hans VON ROSEN, Lars Daniel NORLING",1920 Antwerp,Equestrian Jumping,Mixed,team
+Summer,1920,Silver,BEL,Belgium,"André COUMANS, Thierry DE BRIE, Herman D'OULTROMENT, Hermann DE GAIFFIER D'HESTROY",1920 Antwerp,Equestrian Jumping,Mixed,team
+Summer,1920,Bronze,ITA,Italy,"Giulio CACCIANDRA, Garibaldi SPIGHI, Ettore CAFFARATTI, Alessandro ALVISI",1920 Antwerp,Equestrian Jumping,Mixed,team
+Summer,1920,Gold,FRA,France,Armand MASSARD,1920 Antwerp,Fencing,Men's,épée individual
+Summer,1920,Silver,FRA,France,Alexandre LIPPMANN,1920 Antwerp,Fencing,Men's,épée individual
+Summer,1920,Bronze,FRA,France,Gustave BUCHARD,1920 Antwerp,Fencing,Men's,épée individual
+Summer,1920,Gold,ITA,Italy,"Olivier ABELARDO, Dino URBANI, Andrea MARRAZZI, Tommaso CONSTANTINO, Aldo NADI, Nedo NADI, Giovanni CANOVA, Tullio BOZZA, Antonio ALLOCHIO, Paolo THAON DI REVEL",1920 Antwerp,Fencing,Men's,épée team
+Summer,1920,Silver,BEL,Belgium,"Paul ANSPACH, Ernest GEVERS, Victor BOIN, Maurice DE WEE, Fernand DE MONTIGNY, Léon TOM, Félix GOBLET D'AVIELLA, Joseph DE CRAECKER, Philippe LE HARDY DE BEAULIEU",1920 Antwerp,Fencing,Men's,épée team
+Summer,1920,Bronze,FRA,France,"Alexandre LIPPMANN, Georges CASANOVA, Gaston AMSON, Armand MASSARD, Gustave BUCHARD, Georges TROMBERT, Emile MOREAU",1920 Antwerp,Fencing,Men's,épée team
+Summer,1920,Gold,ITA,Italy,Nedo NADI,1920 Antwerp,Fencing,Men's,foil individual
+Summer,1920,Silver,FRA,France,Philippe CATTIAU,1920 Antwerp,Fencing,Men's,foil individual
+Summer,1920,Bronze,FRA,France,Roger François DUCRET,1920 Antwerp,Fencing,Men's,foil individual
+Summer,1920,Gold,ITA,Italy,"Nedo NADI, Pietro SPECIALE, Oreste PULITI, Baldo BALDI, Aldo NADI, Olivier ABELARDO, Rodolfo TERLIZZI, Tommaso CONSTANTINO",1920 Antwerp,Fencing,Men's,foil team
+Summer,1920,Silver,FRA,France,"Georges TROMBERT, Marcel PERROT, Philippe CATTIAU, Gaston AMSON, André LABATTUT, Lucien GAUDIN, Roger François DUCRET, Lionel BONY DE CASTELLANE",1920 Antwerp,Fencing,Men's,foil team
+Summer,1920,Bronze,USA,United States,"Francis Webster HONEYCUTT, Robert SEARS, Harold RAYNER, Arthur St Clair LYON, Henry Cabell BRECKINRIDGE",1920 Antwerp,Fencing,Men's,foil team
+Summer,1920,Gold,ITA,Italy,Nedo NADI,1920 Antwerp,Fencing,Men's,sabre individual
+Summer,1920,Silver,ITA,Italy,Aldo NADI,1920 Antwerp,Fencing,Men's,sabre individual
+Summer,1920,Bronze,NED,Netherlands,Adrianus Egbertus Willem DE JONG,1920 Antwerp,Fencing,Men's,sabre individual
+Summer,1920,Gold,ITA,Italy,"Aldo NADI, Francesco GARGANO, Italo SANTELLI, Frederico Secondo CESERANO, Nedo NADI, Oreste PULITI, Dino URBANI, Baldo BALDI",1920 Antwerp,Fencing,Men's,sabre team
+Summer,1920,Silver,FRA,France,"Jean André LACROIX, Marc Marie Jean PERRODON, Georges TROMBERT, Jean MARGRAFF, Henri Marie Raoul DE SAINT GERMAIN, Jean MONDIELLI",1920 Antwerp,Fencing,Men's,sabre team
+Summer,1920,Bronze,NED,Netherlands,"Jan VAN DER WIEL, Jetze DOORMAN, Louis Albert Armand Etienne DELAUNOY, Adrianus Egbertus Willem DE JONG, Willem Peter Hubert VAN BLIJENBURGH, Salomon ZELDENRUST",1920 Antwerp,Fencing,Men's,sabre team
+Summer,1920,Gold,BEL,Belgium,"Mathieu BRAGARD, Désiré BASTIN, Fernand NISOT, Jan DE BIE, Oscar VERBEECK, Emile HANSE, Louis VAN HEGE, Henri LARNOE, Robert COPPEE, Félix BALYU, Georges HEBDIN, Armand SWARTENBROEKS, Joseph MUSCH, André FIERENS",1920 Antwerp,Football,Men's,football
+Summer,1920,Silver,ESP,Spain,"Ricardo ZAMORA MARTINEZ, Mariano ARRATE, Agustin SANCHO, Francisco PAGAZAURTUNDUO, Patricio ARABOLAZA, Domingo ACEDO, José SAMITIER VILALTA, Joaquin VAZQUEZ, Ramon Moncho GIL, Pedro VALLANA JEANGUENAT, Juan ARTOLA, Ramon EQUIAZABAL, Félix SESUMAGA, Rafael MORENO, Jose BELAUTEGUIGOITIA LANDALUCE, Luis OTERO, Sabino BILBAO, Silverio IZAGUIRRE",1920 Antwerp,Football,Men's,football
+Summer,1920,Bronze,NED,Netherlands,"Richard MACNEILL, Léonard François Gérard BOSSCHART, Evert Jan BULDER, Jan Leendert VAN DORT, Herman Carel Felix Clothilde VON HEYDEN, Jacob Eise BULDER, Bernard Willem Jan VERWEIJ, Hermanus Hendricus STEEMAN, Henri Léonard Barthélémi DENIS, Johannes Daniel DE NATRIS, Bernardus GROOSJOHAN, Oscar Emile VAN RAPPARD, Adrianus Gerardus BIESHAAR, Frederik Carel KUIPERS",1920 Antwerp,Football,Men's,football
+Summer,1920,Gold,ITA,Italy,Giorgio ZAMPORI,1920 Antwerp,Gymnastics Artistic,Men's,individual all-round
+Summer,1920,Silver,FRA,France,Marcos TORRES,1920 Antwerp,Gymnastics Artistic,Men's,individual all-round
+Summer,1920,Bronze,FRA,France,Jean GOUNOT,1920 Antwerp,Gymnastics Artistic,Men's,individual all-round
+Summer,1920,Gold,ITA,Italy,"Angelo ZORZI, Luigi CAMBIASO, Carlo COSTIGLIOLO, Giuseppe PARIS, Arnaldo ANDREOLI, Luigi COSTIGLIOLO, Carlo FREGOSI, Ambrogio LEVATI, Ezio ROSELLI, Pastorini Battista BATTISTA, Giorgio ZAMPORI, Ferdinando MANDRINI, Paolo SALVI, Lorenzo MANGIANTE, Fernando BONATTI, Luigi CONTESSI, Guiseppe DOMENICHELLI, Francesco LOI, Pietro BIANCHI, Roberto FERRARI, Romualdo GHIGLIONE, Michele MASTROMARINO, Giovanni Battista TUBINO, Mangiante Giovanni MANLIO, Luigi MAIOCCO, Vittorio LUCCHETTI, Ettore BELOTTO, Antonio MAROVELLI",1920 Antwerp,Gymnastics Artistic,Men's,team competition
+Summer,1920,Silver,BEL,Belgium,"Eugenius AUWERKERKEN, Francois CLAESSENS, Frans GIBENS, Albert HAEPERS, Félicien KEMPENEERS, Hubert LAFORTUNE, Charles LANNIE, Alphonse VAN MELE, Nicolas MOERLOOS, François VERBOVEN, Julien VERDONCK, Georges VIVEX, Théophile BAUER, Auguste COOTMANS, Jean VAN GUYSSE, Dominique JACOBS, Jules LABEEU, Auguste LANDRIEU, Constant LORIOT, Ferdinand MINNAERT, Louis STOOP, Jean VERBOVEN, Joseph VERSTRAETEN, Julianus WAGEMANS",1920 Antwerp,Gymnastics Artistic,Men's,team competition
+Summer,1920,Bronze,FRA,France,"Léon DELSARTE, Louis KEMPE, Auguste HOEL, Albert HERSOYE, Georges LAGOUGE, Jules PIRARD, Paul WARTELLE, André HIGELIN, Eugène POLLET, Eugène CORDONNIER, Emile BOUCHES, Paulin Alexandre LEMAIRE, Georges BERGER, Georges DUVANT, Lucien DEMANET, Fernand FAUCONNIER, René BOULANGER, Ernest LESPINASSE, Julien WARTELLE, Georges THURNHERR, Emile MARTEL, Arthur HERMANN, Alfred BUYENNE, Paul Joseph DURIN",1920 Antwerp,Gymnastics Artistic,Men's,team competition
+Summer,1920,Gold,DEN,Denmark,"Christian JUHL, Rino Harry Charles SÖRENSEN, Petersen Christian MÖLLER, Robert Jacob JOHNSEN, Steen Lerche OLSEN, Aage Valdemar Harald FRANDSEN, Peter Andreas Marinus MARCUSSEN, Svend Meulengracht MADSEN, Lukas Frederick Christian NIELSEN, Harold JANSSON, Oluf OLSEN, Peter MÖLLER, Harry HOLM, Hugo HELSTEEN, Georg ALBERTSEN, Vilhelm LANGE, Viggo Valdemar DIBBERN, Hans Stig Trappaud RÖNNE, Knud VERMEHREN, Hans Trier HANSEN, Christian THOMAS, Fritz EISENÖE, Niels Congo Turin NIELSEN, Rudolf Svend ANDERSEN",1920 Antwerp,Gymnastics Artistic,Men's,"team, free system"
+Summer,1920,Silver,NOR,Norway,"Henrik NIELSEN, Arthur Nicolai RYDSTRÖM, Wilhelm Marius Bakke STEFFENSEN, Frithjof SAELEN, Lauritz WIGAND-LARSEN, Karl Jan AAS, Gustav BAYER, Asbjörn BODAHL, Eilert BÖHM, Haakon ENDRESON, Harald Oliver FAERSTAD, Peter HOL, Otto JOHANNESEN, Jacob OPDAHL, Björn SKJAERPE, Olav SUNDAL, Reidar TÖNSBERG, Alf Lied AANING, Jörgen Marius ANDERSEN, Jörgen BJÖRNSTAD, Trygve Carlsen BOYESEN, Ingolf DAVIDSEN, Jacob ERSTAD, Hermann Aldryk HELGESEN, John Anker JOHANSEN, Torbjörn KRISTOFFERSON",1920 Antwerp,Gymnastics Artistic,Men's,"team, free system"
+Summer,1920,Gold,SWE,Sweden,"Albert ANDERSSON, Bengt Folke BENGTSSON, Helge BÄCKANDER, Sture H. ERICSSON-EWREUS, Ake HÄGER, Helge GUSTAFSSON, Sven JONSSON, Edmund LINDMARK, Frans PERSSON, Erik SVENSEN, Gunnar SÖDERLINDH, Gösta TÖRNER, Fausto ACKE, Arvid A. ANDERSSON-HOLTMAN, C. Fabian BIÖRCK, Carl Erik CHARPENTIER, Ture HEDMAN, Konrad GRANSTRÖM, Sven O. JONSSON, Karl F. LINDAHL, Bengt MOHRBERG, Curt SJÖBERG, Klas J.G. SÄRNER, John Emil SÖRENSON",1920 Antwerp,Gymnastics Artistic,Men's,"team, Swedish system"
+Summer,1920,Silver,DEN,Denmark,"Kristian MADSEN, Georg WEST, Frede HANSEN, Rasmus RASMUSSEN, Johannes BIRK, Frederik HANSEN, Niels Erik NIELSEN, Johannes PEDERSEN, Aage JÖRGENSEN, Hans Drigstrup SÖRENSEN, Knud KIRKELÖKKE, Peter Dorf PEDERSEN, Aage WALTHER, Niels Christian NIELSEN, Arne JÖRGENSEN, Dines SNEFTRUP, Hans HOVGAARD, Kristian Aage HANSEN, Alfred E. JÖRGENSEN, Jens Stamp LAMBAEK, Hans Laurids SÖRENSEN, Hans PEDERSEN, Alfred JÖRGENSEN, Larsen Sören SÖRENSEN, Kristian LARSEN",1920 Antwerp,Gymnastics Artistic,Men's,"team, Swedish system"
+Summer,1920,Bronze,BEL,Belgium,"Emil DUBOISSON, René PINCHART, Lucien DEHOUX, Gaspar PIROTTE, Marcel HANSEN, Louis HENIN, Léon DARRIEN, Ernest DUREUIL, Omer HOFFMAN, Charles MARSCHAELCKE, Augusten PLUYS, Félix LOGIEST, Pierre THITIAR, René PAENHUYSEN, Arnold PIERRET, Léon BRONCKAERT, Joseph FIEMS, Ernest DELEU, Léopold CLABOTS, Henri VERHAVERT, Edouard TAEYMANS, Jean Baptiste CLAESSENS, Léopold SON, Paul ARETS",1920 Antwerp,Gymnastics Artistic,Men's,"team, Swedish system"
+Summer,1920,Gold,GBR,Great Britain,"John Hadfield BENNETT, Colin CAMPBELL, Eric Bertram CROCKFORD, William Faulder SMITH, Stanley Howard SHOVELLER, Arthur Francis LEIGHTON, Harold Kennedy CASSELS, Harry Eustace HASLAM, Charles Sydney ATKIN, Harold Douglas COOKE, Cyril Theodore WILKINSON, John Crawford MCBRYAN, Reginald William CRUMMACK, Charles Shotto MARCOM, George MCGRATH",1920 Antwerp,Hockey,Men's,hockey
+Summer,1920,Silver,DEN,Denmark,"Andreas RASMUSSEN, Frans FABER, Henning HOLST, Hans Adolf BJERRUM, Svend BLACH, Ejvind BLACH, Hans Christian HERLAK, Erik HUSTED, Hans Jörgen HANSEN, Thorvald EIGENBROD, Steen DUE, Paul METZ",1920 Antwerp,Hockey,Men's,hockey
+Summer,1920,Bronze,BEL,Belgium,"Charles DELELIENNE, Raoul DAUFRESNE DE LA CHEVALERIE, Fernand DE MONTIGNY, Pierre CHIBERT, Robert GEVERS, Jean VAN NEROM, André BECQUET, Paul THINCHANT, Maurice VAN DEN BEMDEN, René STRAUWEN, Adolphe GOEMAERE, Pierre VALCKE, Louis DIERCXENS, Raymond KEPPENS, Charles GUIETTE",1920 Antwerp,Hockey,Men's,hockey
+Summer,1920,Gold,SWE,Sweden,Gustaf DYRSSEN,1920 Antwerp,Modern Pentathlon,Men's,individual competition
+Summer,1920,Silver,SWE,Sweden,Erik DE LAVAL,1920 Antwerp,Modern Pentathlon,Men's,individual competition
+Summer,1920,Bronze,SWE,Sweden,Gosta RUNO,1920 Antwerp,Modern Pentathlon,Men's,individual competition
+Summer,1920,Gold,USA,United States,John Brendan KELLY,1920 Antwerp,Rowing,Men's,single sculls (1x)
+Summer,1920,Silver,GBR,Great Britain,Jack BERESFORD,1920 Antwerp,Rowing,Men's,single sculls (1x)
+Summer,1920,Bronze,NZL,New Zealand,D. Clarence HADFIELD D'ARCY,1920 Antwerp,Rowing,Men's,single sculls (1x)
+Summer,1920,Gold,USA,United States,"John Brendan KELLY, Paul Vincent COSTELLO",1920 Antwerp,Rowing,Men's,double sculls (2x)
+Summer,1920,Silver,ITA,Italy,"Erminio DONES, Pietro ANNONI",1920 Antwerp,Rowing,Men's,double sculls (2x)
+Summer,1920,Bronze,FRA,France,"Alfred PLE, Gaston GIRAN",1920 Antwerp,Rowing,Men's,double sculls (2x)
+Summer,1920,Gold,ITA,Italy,"Ercole OLGENI, Guido DE FILIP, Giovanni SCATTURIN",1920 Antwerp,Rowing,Men's,pair-oared shell with coxswain
+Summer,1920,Silver,FRA,France,"Maurice BOUTON, Gabriel POIX, Ernest BARBEROLLE",1920 Antwerp,Rowing,Men's,pair-oared shell with coxswain
+Summer,1920,Bronze,SUI,Switzerland,"Edouard CANDEVEAU, Paul PIAGET, Alfred FELBER",1920 Antwerp,Rowing,Men's,pair-oared shell with coxswain
+Summer,1920,Gold,SUI,Switzerland,"Max RUDOLF, Hans WALTER, Willy BRÜDERLIN, Paul RUDOLF, Paul STAUB",1920 Antwerp,Rowing,Men's,four-oared shell with coxswain
+Summer,1920,Silver,USA,United States,"Kenneth MYERS, Franz FEDERSCHMIDT, Sherman Rockwell CLARK, Carl Otto KLOSE, Erich FEDERSCHMIDT",1920 Antwerp,Rowing,Men's,four-oared shell with coxswain
+Summer,1920,Bronze,NOR,Norway,"Theodor KLEM, Per GULBRANDSEN, Birger VAR, Henry LARSEN, Thoralf HAGEN",1920 Antwerp,Rowing,Men's,four-oared shell with coxswain
+Summer,1920,Gold,USA,United States,"Sherman Rockwell CLARK, Virgil Victor JACOMINI, William Conrad JORDAN, Allen Ream SANDBORN, Vincent Joseph GALLAGHER, Edwin Darius GRAVES, Edward Peerman MOORE, Donald Hendric JOHNSTON, Clyde Whitlock KING",1920 Antwerp,Rowing,Men's,eight with coxswain (8+)
+Summer,1920,Silver,GBR,Great Britain,"Guy Oliver Jr. NICKALLS, Walter JAMES, Sebastian EARL, Sidney Ernest SWANN, Ewart Douglas HORSFALL, Richard Saville LUCAS, John Alan CAMPBELL, Ralph Samuel SHOVE, Robin Talbot JOHNSTONE",1920 Antwerp,Rowing,Men's,eight with coxswain (8+)
+Summer,1920,Bronze,NOR,Norway,"Tollef TOLLEFSEN, Theodor NAG, Adolf NILSEN, Thore MICHELSEN, Karl NAG, Thoralf HAGEN, Conrad OLSEN, Haakon ELLINGSEN, Arne MORTENSEN",1920 Antwerp,Rowing,Men's,eight with coxswain (8+)
+Summer,1920,Gold,USA,United States,"Daniel Brendan CARROLL, George Winthrop FISH, Charles Thomas MEHAN, John T. O'NEIL, Cornelius Erwin RIGHTER, Rudolph John SCHOLZ, James Duarte WINSTON, Robert Lyman TEMPLETON, Morris KIRKSEY, Charles Webster DOE, Joseph Garvin HUNTER, William MULDOON, John Clarence PATRICK, Colby Edward SLATER, Charles Lee TILDEN, Heaton Luse WRENN, John MULDOON",1920 Antwerp,Rugby,Men's,rugby
+Summer,1920,Silver,FRA,France,"Eugène SOULIE, Alfred ELUERE, Constant LAMAIGNIERE, André CHILO, François BORDES, Edouard BADER, Adolphe René BOUSQUET, Jacques FORESTIER, Maurice LABEYRIE, Robert LEVASSEUR, Robert THIERRY, GRENET, René CRABOS, Raoul THIERCELIN, CURTET, Raymond BERRURIER",1920 Antwerp,Rugby,Men's,rugby
+Summer,1920,Gold,NED,Netherlands,"Johannes Joseph Antonius HIN, Franciscus Fidelis Joseph HIN",1920 Antwerp,Sailing,Mixed,12 foot dinghy
+Summer,1920,Silver,NED,Netherlands,"Arnoud Eugène VAN DER BIESEN, Petrus Bernardus BEUKERS",1920 Antwerp,Sailing,Mixed,12 foot dinghy
+Summer,1920,,,,,1920 Antwerp,Sailing,Mixed,18 foot dinghy
+Summer,1920,Gold,BEL,Belgium,"Florimond CORNELLIE, Emile François CORNELLIE, Frédéric Albert Gustave BRUYNSEELS",1920 Antwerp,Sailing,Mixed,6m (rating 1907)
+Summer,1920,Silver,NOR,Norway,"Einar TORGENSEN, Leif ERICHSEN, Andreas Annan KNUDSEN",1920 Antwerp,Sailing,Mixed,6m (rating 1907)
+Summer,1920,Bronze,NOR,Norway,"Trygve PEDERSEN, Henrik AGERSBORG, Einar BERNSTEN",1920 Antwerp,Sailing,Mixed,6m (rating 1907)
+Summer,1920,Gold,NOR,Norway,"Andreas Bang BRECKE, Ingolf RÖD, Paal KAASEN",1920 Antwerp,Sailing,Mixed,6m (rating 1919)
+Summer,1920,Silver,BEL,Belgium,"Charles VAN DEN BUSSCHE, Léon HUYBRECHTS, John KLOTZ",1920 Antwerp,Sailing,Mixed,6m (rating 1919)
+Summer,1920,Gold,NED,Netherlands,"Petrus Adrianus WERNINK, Johan Robbert CARP, Bernard CARP",1920 Antwerp,Sailing,Mixed,6.5m (rating 1919)
+Summer,1920,Silver,FRA,France,"Albert WEIL, Robert MONIER, Félix PICON",1920 Antwerp,Sailing,Mixed,6.5m (rating 1919)
+Summer,1920,Gold,GBR,Great Britain,"William MADDISON, Robert COLEMAN, Cyril WRIGHT, Dorothy WRIGHT",1920 Antwerp,Sailing,Mixed,7m
+Summer,1920,Silver,NOR,Norway,"Sten ABEL, Johann FAYE, Christian DICK, Niels NIELSEN",1920 Antwerp,Sailing,Mixed,7m
+Summer,1920,Gold,NOR,Norway,"Thorleif HOLBYE, Kristoffer OLSEN, Carl August RINGVOLD, Tellef WAGLE, Alf Kristian Bruun JACOBSEN",1920 Antwerp,Sailing,Mixed,8m (rating 1907)
+Summer,1920,Gold,NOR,Norway,"Ragnar Magne VIK, Magnus KONOW, Thorleif CHRISTOFFERSEN, Reidar MARTHINIUSSEN",1920 Antwerp,Sailing,Mixed,8m (rating 1919)
+Summer,1920,Silver,NOR,Norway,"Jens SALVESEN, Finn SCHIANDER, Ralph TSCHUDI, Lauritz Thure Thrap SCHMIDT, Nils THOMAS",1920 Antwerp,Sailing,Mixed,8m (rating 1919)
+Summer,1920,Bronze,BEL,Belgium,"Willy DE L'ARBRE, Henri WEEWAUTERS, Albert GRISAR, Léopold STANDAERT, Georges HELLEBUYCK",1920 Antwerp,Sailing,Mixed,8m (rating 1919)
+Summer,1920,Gold,NOR,Norway,"Erik Johan HERSETH, Ingar NIELSEN, Petter JAMVOLD, Claus JUELL, Sigurd HOLTER, Ole SÖRENSEN, Gunnar JAMVOLD",1920 Antwerp,Sailing,Mixed,10m (rating 1907)
+Summer,1920,Gold,NOR,Norway,"Willy GILBERT, Arne SEJERSTED, Trygve SCHJÖTT, Charles Archer ARENTZ, Robert GJERTSEN, Halfdan SCHJÖTT, Otto Gabriel Grubbe FALKENBERG",1920 Antwerp,Sailing,Mixed,10m (rating 1919)
+Summer,1920,Gold,NOR,Norway,"Henrik ÖSTERVOLD, Ole Olsen ÖSTERVOLD, Halvor Olai MÖGSTER, Rasmus BIRKELAND, Lauritz CHRISTIANSEN, Jan Olsen ÖSTERVOLD, Hans Henrik Stoermann NAESS, Halvor BIRKELAND, Kristian Olsen ÖSTERVOLD",1920 Antwerp,Sailing,Mixed,12m (rating 1907)
+Summer,1920,Gold,NOR,Norway,"Olav ÖRVIG, Christen WIESE, Egill REIMERS, Thor ÖRVIG, Johan Mohr FRIELE, Arthur ALLERS, Martin BORTHEN, Kaspar Fredrik HASSEL, Erik ÖRVIG",1920 Antwerp,Sailing,Mixed,12m (rating 1919)
+Summer,1920,Gold,SWE,Sweden,"Rolf STEFFENBURG, Axel CALVERT, Gösta LUNDQVIST, Gösta BENGTSSON",1920 Antwerp,Sailing,Mixed,30m sq
+Summer,1920,Gold,SWE,Sweden,"Yngve HOLM, Georg H. TENGWALL, Tore HOLM, Axel W. RYDIN",1920 Antwerp,Sailing,Mixed,40m sq
+Summer,1920,Silver,SWE,Sweden,"Ragnar SVENSSON, Erik MELLBIN, Gustaf SVENSSON, Percy ALMSTEDT",1920 Antwerp,Sailing,Mixed,40m sq
+Summer,1920,Gold,BRA,Brazil,Guilherme PARAENSE,1920 Antwerp,Shooting,Men's,25m rapid fire pistol
+Summer,1920,Silver,USA,United States,Raymond BRACKEN,1920 Antwerp,Shooting,Men's,25m rapid fire pistol
+Summer,1920,Bronze,SUI,Switzerland,Fritz ZULAUF,1920 Antwerp,Shooting,Men's,25m rapid fire pistol
+Summer,1920,Gold,USA,United States,"Louis HARANT, Carl Telford FREDERICK, Michael KELLY, Alfred P. LANE, James Howard SNOOK",1920 Antwerp,Shooting,Men's,"30m army pistol, team"
+Summer,1920,Silver,GRE,Greece,"Ioannis THEOFILAKIS, Georgios VAPHIADIS, Alexandros THEOFILAKIS, Georgios MORAITINIS, Iason ZAPPAS",1920 Antwerp,Shooting,Men's,"30m army pistol, team"
+Summer,1920,Bronze,SUI,Switzerland,"Fritz ZULAUF, Gustave AMOUDRUZ, Domenico GIAMBONINI, Joseph JEHLE, Hans EGLI",1920 Antwerp,Shooting,Men's,"30m army pistol, team"
+Summer,1920,Gold,USA,United States,Carl Telford FREDERICK,1920 Antwerp,Shooting,Men's,50m pistol
+Summer,1920,Silver,BRA,Brazil,Afranio Antonio DA COSTA,1920 Antwerp,Shooting,Men's,50m pistol
+Summer,1920,Bronze,USA,United States,Alfred P. LANE,1920 Antwerp,Shooting,Men's,50m pistol
+Summer,1920,Gold,USA,United States,"Alfred P. LANE, James Howard SNOOK, Carl Telford FREDERICK, Raymond BRACKEN, Michael KELLY",1920 Antwerp,Shooting,Men's,"50m army pistol, team"
+Summer,1920,Silver,SWE,Sweden,"Gunnar GABRIELSSON, Anders JOHNSSON, Anders Wilhelm ANDERSSON, Casimir REUTERSKIÖLD, Sigvard HULTCRANTZ",1920 Antwerp,Shooting,Men's,"50m army pistol, team"
+Summer,1920,Bronze,BRA,Brazil,"Sebastiao WOLF, Fernando SOLEDADE, Afranio Antonio DA COSTA, Dario BARBOSA, Guilherme PARAENSE",1920 Antwerp,Shooting,Men's,"50m army pistol, team"
+Summer,1920,Gold,USA,United States,Lawrence Adam NUESSLEIN,1920 Antwerp,Shooting,Men's,"50m small bore rifle, standing, individual"
+Summer,1920,Silver,USA,United States,Arthur ROTHROCK,1920 Antwerp,Shooting,Men's,"50m small bore rifle, standing, individual"
+Summer,1920,Bronze,USA,United States,Dennis FENTON,1920 Antwerp,Shooting,Men's,"50m small bore rifle, standing, individual"
+Summer,1920,Gold,USA,United States,"Lawrence Adam NUESSLEIN, Willis LEE, Gunnery Ollie SCHRIVER, Arthur ROTHROCK, Dennis FENTON",1920 Antwerp,Shooting,Men's,"50m small bore rifle, team"
+Summer,1920,Silver,SWE,Sweden,"P. Erik F. OHLSSON, Ragnar STARE, Sigvard HULTCRANTZ, Leonard LAGERLÖF, Olle ERICSSON",1920 Antwerp,Shooting,Men's,"50m small bore rifle, team"
+Summer,1920,Bronze,NOR,Norway,"Östen ÖSTENSEN, Anton Wilhelm OLSEN, Albert HELGERUD, Olaf SLETTEN, Sigvart JOHANSEN",1920 Antwerp,Shooting,Men's,"50m small bore rifle, team"
+Summer,1920,Gold,USA,United States,Morris FISHER,1920 Antwerp,Shooting,Men's,300m free rifle 3 positions
+Summer,1920,Silver,DEN,Denmark,Niels Hansen Ditlev LARSEN,1920 Antwerp,Shooting,Men's,300m free rifle 3 positions
+Summer,1920,Bronze,NOR,Norway,Östen ÖSTENSEN,1920 Antwerp,Shooting,Men's,300m free rifle 3 positions
+Summer,1920,Gold,USA,United States,"Morris FISHER, Dennis FENTON, Willis LEE, Carl Townsend OSBURN, Lloyd Spencer SPOONER",1920 Antwerp,Shooting,Men's,"free rifle, team"
+Summer,1920,Silver,NOR,Norway,"Otto M. OLSEN, Ludvig LARSEN, Östen ÖSTENSEN, Olaf SLETTEN, Harald NATVIG",1920 Antwerp,Shooting,Men's,"free rifle, team"
+Summer,1920,Bronze,SUI,Switzerland,"Fritz KUCHEN, Arnold RÖSLI, Jacob REICH, Albert TRÖNDLE, Caspar WIDMER",1920 Antwerp,Shooting,Men's,"free rifle, team"
+Summer,1920,Gold,NOR,Norway,Otto M. OLSEN,1920 Antwerp,Shooting,Men's,"army rifle, 300m, prone"
+Summer,1920,Silver,FRA,France,Léon JOHNSON,1920 Antwerp,Shooting,Men's,"army rifle, 300m, prone"
+Summer,1920,Bronze,SUI,Switzerland,Fritz KUCHEN,1920 Antwerp,Shooting,Men's,"army rifle, 300m, prone"
+Summer,1920,Gold,USA,United States,"Lloyd Spencer SPOONER, Willis LEE, Carl Townsend OSBURN, Morris FISHER, Joseph JACKSON",1920 Antwerp,Shooting,Men's,"300m free rifle, prone, team"
+Summer,1920,Silver,FRA,France,"Léon JOHNSON, Achille PAROCHE, Georges ROES, Emile RUMEAU, André PARMENTIER",1920 Antwerp,Shooting,Men's,"300m free rifle, prone, team"
+Summer,1920,Bronze,FIN,Finland,"Vilho VAUHKONEN, Veli Heikki NIEMINEN, Voitto Waldemar KOLHO, Karl Magnus WEGELIUS, Kaarlo Kustaa LAPPALAINEN",1920 Antwerp,Shooting,Men's,"300m free rifle, prone, team"
+Summer,1920,Gold,USA,United States,Carl Townsend OSBURN,1920 Antwerp,Shooting,Men's,"army rifle, 300m, standing"
+Summer,1920,Silver,DEN,Denmark,Lars Jörgen MADSEN,1920 Antwerp,Shooting,Men's,"army rifle, 300m, standing"
+Summer,1920,Bronze,USA,United States,Lawrence Adam NUESSLEIN,1920 Antwerp,Shooting,Men's,"army rifle, 300m, standing"
+Summer,1920,Gold,DEN,Denmark,"Niels Hansen Ditlev LARSEN, Erik SAETTER-LASSEN, Lars Jörgen MADSEN, Anders Martinus PETERSEN, Anders Peter NIELSEN",1920 Antwerp,Shooting,Men's,"300m free rifle, standing, team"
+Summer,1920,Silver,USA,United States,"Carl Townsend OSBURN, Lloyd Spencer SPOONER, Thomas Cole BROWN, Lawrence Adam NUESSLEIN, Willis LEE",1920 Antwerp,Shooting,Men's,"300m free rifle, standing, team"
+Summer,1920,Bronze,SWE,Sweden,"Carl Hugo JOHANSSON, Walfried HELLMAN, Olle ERICSSON, Leonard LAGERLÖF, Mauritz ERIKSSON",1920 Antwerp,Shooting,Men's,"300m free rifle, standing, team"
+Summer,1920,Gold,SWE,Sweden,Carl Hugo JOHANSSON,1920 Antwerp,Shooting,Men's,"600m free rifle, prone"
+Summer,1920,Silver,SWE,Sweden,Mauritz ERIKSSON,1920 Antwerp,Shooting,Men's,"600m free rifle, prone"
+Summer,1920,Bronze,USA,United States,Lloyd Spencer SPOONER,1920 Antwerp,Shooting,Men's,"600m free rifle, prone"
+Summer,1920,Gold,USA,United States,"Dennis FENTON, Willis LEE, Joseph JACKSON, Gunnery Ollie SCHRIVER, Lloyd Spencer SPOONER",1920 Antwerp,Shooting,Men's,"600m free rifle, team"
+Summer,1920,Silver,RSA,South Africa,"Robert BODLEY, George Henry HARVEY, David SMITH, Ferdinand Lindley Augustus BUCHANAN, Frederick Henry MORGAN",1920 Antwerp,Shooting,Men's,"600m free rifle, team"
+Summer,1920,Bronze,SWE,Sweden,"P. Erik F. OHLSSON, Mauritz ERIKSSON, Gustaf Adolf JONSSON, Carl Hugo JOHANSSON, Erik BLOMQVIST",1920 Antwerp,Shooting,Men's,"600m free rifle, team"
+Summer,1920,Gold,USA,United States,"Willis LEE, Carl Townsend OSBURN, Joseph JACKSON, Gunnery Ollie SCHRIVER, Lloyd Spencer SPOONER",1920 Antwerp,Shooting,Men's,"300+600m free rifle, team, prone"
+Summer,1920,Silver,NOR,Norway,"Otto M. OLSEN, Olaf SLETTEN, Jacob ONSRUD, Albert HELGERUD, Östen ÖSTENSEN",1920 Antwerp,Shooting,Men's,"300+600m free rifle, team, prone"
+Summer,1920,Bronze,SUI,Switzerland,"Albert TRÖNDLE, Walter LIENHARD, Fritz KUCHEN, Arnold RÖSLI, Caspar WIDMER",1920 Antwerp,Shooting,Men's,"300+600m free rifle, team, prone"
+Summer,1920,Gold,NOR,Norway,Otto M. OLSEN,1920 Antwerp,Shooting,Men's,"100m running deer, single shots"
+Summer,1920,Silver,SWE,Sweden,Alfred SWAHN,1920 Antwerp,Shooting,Men's,"100m running deer, single shots"
+Summer,1920,Bronze,NOR,Norway,Harald NATVIG,1920 Antwerp,Shooting,Men's,"100m running deer, single shots"
+Summer,1920,Gold,NOR,Norway,"Otto M. OLSEN, Einar LIBERG, Harald NATVIG, Ole Andreas LILLOE-OLSEN, Hans NORDVIK",1920 Antwerp,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1920,Silver,FIN,Finland,"Robert TIKKANEN, Karl Magnus WEGELIUS, Yrjö KOLHO, Nestori TOIVONEN, Kaarlo Kustaa LAPPALAINEN",1920 Antwerp,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1920,Bronze,USA,United States,"Lawrence Adam NUESSLEIN, Carl Townsend OSBURN, Willis LEE, Thomas Cole BROWN, Lloyd Spencer SPOONER",1920 Antwerp,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1920,Gold,NOR,Norway,Ole Andreas LILLOE-OLSEN,1920 Antwerp,Shooting,Men's,"100m running deer, double shots"
+Summer,1920,Silver,SWE,Sweden,P. Fredric LANDELIUS,1920 Antwerp,Shooting,Men's,"100m running deer, double shots"
+Summer,1920,Bronze,NOR,Norway,Einar LIBERG,1920 Antwerp,Shooting,Men's,"100m running deer, double shots"
+Summer,1920,Gold,NOR,Norway,"Ole Andreas LILLOE-OLSEN, Hans NORDVIK, Harald NATVIG, Einar LIBERG, Thorstein Arthur JOHANSEN",1920 Antwerp,Shooting,Men's,"100m running deer, double shots, team"
+Summer,1920,Silver,SWE,Sweden,"Alfred SWAHN, P. Fredric LANDELIUS, Edward BENEDICKS, Oscar SWAHN, Bengt LAGERCRANTZ",1920 Antwerp,Shooting,Men's,"100m running deer, double shots, team"
+Summer,1920,Bronze,FIN,Finland,"Karl Magnus WEGELIUS, Vilho VAUHKONEN, Robert TIKKANEN, Nestori TOIVONEN, Yrjö KOLHO",1920 Antwerp,Shooting,Men's,"100m running deer, double shots, team"
+Summer,1920,Gold,USA,United States,"Mark ARIE, Frank WRIGHT, Horace BONSER, Frank TROEH, Frederick PLUM, Forest MCNEIR",1920 Antwerp,Shooting,Men's,"clay pigeons, team"
+Summer,1920,Silver,BEL,Belgium,"Albert BOSQUET, Emile DUPONT, Louis VAN TILT, Joseph COGELS, Henri QUERSIN, Edouard FESINGER",1920 Antwerp,Shooting,Men's,"clay pigeons, team"
+Summer,1920,Bronze,SWE,Sweden,"Erik R. G. LUNDQUIST, P. Fredric LANDELIUS, Karl G. B. RICHTER, Per KINDE, Alfred SWAHN, Erik SÖKJER-PETERSEN",1920 Antwerp,Shooting,Men's,"clay pigeons, team"
+Summer,1920,Gold,USA,United States,Mark ARIE,1920 Antwerp,Shooting,Men's,Trap
+Summer,1920,Silver,USA,United States,Frank TROEH,1920 Antwerp,Shooting,Men's,Trap
+Summer,1920,Bronze,USA,United States,Frank WRIGHT,1920 Antwerp,Shooting,Men's,Trap
+Summer,1920,Gold,USA,United States,Duke Paoa KAHANAMOKU,1920 Antwerp,Swimming,Men's,100m freestyle
+Summer,1920,Silver,USA,United States,Pua Kela KEALOHA,1920 Antwerp,Swimming,Men's,100m freestyle
+Summer,1920,Bronze,USA,United States,William HARRIS,1920 Antwerp,Swimming,Men's,100m freestyle
+Summer,1920,Gold,USA,United States,Norman ROSS,1920 Antwerp,Swimming,Men's,400m freestyle
+Summer,1920,Silver,USA,United States,Ludy LANGER,1920 Antwerp,Swimming,Men's,400m freestyle
+Summer,1920,Bronze,CAN,Canada,George VERNOT,1920 Antwerp,Swimming,Men's,400m freestyle
+Summer,1920,Gold,USA,United States,Norman ROSS,1920 Antwerp,Swimming,Men's,1500m freestyle
+Summer,1920,Silver,CAN,Canada,George VERNOT,1920 Antwerp,Swimming,Men's,1500m freestyle
+Summer,1920,Bronze,AUS,Australia,Frank E. BEAUREPAIRE,1920 Antwerp,Swimming,Men's,1500m freestyle
+Summer,1920,Gold,USA,United States,Warren Paoa KEALOHA,1920 Antwerp,Swimming,Men's,100m backstroke
+Summer,1920,Silver,USA,United States,Raymond KEGERIS,1920 Antwerp,Swimming,Men's,100m backstroke
+Summer,1920,Bronze,BEL,Belgium,Gerard BLITZ,1920 Antwerp,Swimming,Men's,100m backstroke
+Summer,1920,Gold,SWE,Sweden,Hakan MALMROT,1920 Antwerp,Swimming,Men's,200m breaststroke
+Summer,1920,Silver,SWE,Sweden,Tor HENNING,1920 Antwerp,Swimming,Men's,200m breaststroke
+Summer,1920,Bronze,FIN,Finland,Arvo Ossian AALTONEN,1920 Antwerp,Swimming,Men's,200m breaststroke
+Summer,1920,Gold,SWE,Sweden,Hakan MALMROT,1920 Antwerp,Swimming,Men's,400m breaststroke
+Summer,1920,Silver,SWE,Sweden,Tor HENNING,1920 Antwerp,Swimming,Men's,400m breaststroke
+Summer,1920,Bronze,FIN,Finland,Arvo Ossian AALTONEN,1920 Antwerp,Swimming,Men's,400m breaststroke
+Summer,1920,Gold,USA,United States,"Perry MCGILLIVRAY, Norman ROSS, Pua Kela KEALOHA, Duke Paoa KAHANAMOKU",1920 Antwerp,Swimming,Men's,4x200m freestyle relay
+Summer,1920,Silver,AUS,Australia,"Henry HAY, Ivan STEDMAN, William HERALD, Frank E. BEAUREPAIRE",1920 Antwerp,Swimming,Men's,4x200m freestyle relay
+Summer,1920,Bronze,GBR,Great Britain,"Leslie SAVAGE, Henry TAYLOR, Edward Percival PETER, Harold Edward ANNISON",1920 Antwerp,Swimming,Men's,4x200m freestyle relay
+Summer,1920,Gold,USA,United States,Ethelda BLEIBTREY,1920 Antwerp,Swimming,Women's,100m freestyle
+Summer,1920,Silver,USA,United States,Irene GUEST,1920 Antwerp,Swimming,Women's,100m freestyle
+Summer,1920,Bronze,USA,United States,Frances SCHROTH,1920 Antwerp,Swimming,Women's,100m freestyle
+Summer,1920,Gold,USA,United States,Ethelda BLEIBTREY,1920 Antwerp,Swimming,Women's,400m freestyle
+Summer,1920,Silver,USA,United States,Margaret WOODBRIDGE,1920 Antwerp,Swimming,Women's,400m freestyle
+Summer,1920,Bronze,USA,United States,Frances SCHROTH,1920 Antwerp,Swimming,Women's,400m freestyle
+Summer,1920,Gold,USA,United States,"Margaret WOODBRIDGE, Irene GUEST, Frances SCHROTH, Ethelda BLEIBTREY",1920 Antwerp,Swimming,Women's,4x100m freestyle relay
+Summer,1920,Silver,GBR,Great Britain,"Hilda JAMES, Charlotte RADCLIFFE, Constance Mabel JEANS, Grace MAC KENZIE",1920 Antwerp,Swimming,Women's,4x100m freestyle relay
+Summer,1920,Bronze,SWE,Sweden,"Aina BERG, Karin NILSSON, Emy MACHNOW, Jane GYLLING",1920 Antwerp,Swimming,Women's,4x100m freestyle relay
+Summer,1920,Gold,RSA,South Africa,Louis RAYMOND,1920 Antwerp,Tennis,Men's,singles
+Summer,1920,Silver,JPN,Japan,Ichiya KUMAGAE,1920 Antwerp,Tennis,Men's,singles
+Summer,1920,Bronze,RSA,South Africa,Charles Lyndhurst WINSLOW,1920 Antwerp,Tennis,Men's,singles
+Summer,1920,Gold,GBR,Great Britain,"Oswald Graham Noel TURNBULL, Maxwell WOOSNAM",1920 Antwerp,Tennis,Men's,doubles
+Summer,1920,Silver,JPN,Japan,"Seiichiro KASHIO, Ichiya KUMAGAE",1920 Antwerp,Tennis,Men's,doubles
+Summer,1920,Bronze,FRA,France,"Pierre ALBARRAN, Max DECUGIS",1920 Antwerp,Tennis,Men's,doubles
+Summer,1920,Gold,FRA,France,Suzanne LENGLEN,1920 Antwerp,Tennis,Women's,singles
+Summer,1920,Silver,GBR,Great Britain,Edith Dorothy HOLMAN,1920 Antwerp,Tennis,Women's,singles
+Summer,1920,Bronze,GBR,Great Britain,Kathleen MCKANE,1920 Antwerp,Tennis,Women's,singles
+Summer,1920,Gold,GBR,Great Britain,"Winifred Margaret MCNAIR, Kathleen MCKANE",1920 Antwerp,Tennis,Women's,doubles
+Summer,1920,Silver,GBR,Great Britain,"Winifred Geraldine BEAMISH, Edith Dorothy HOLMAN",1920 Antwerp,Tennis,Women's,doubles
+Summer,1920,Bronze,FRA,France,"Suzanne LENGLEN, Elisabeth D'AYEN",1920 Antwerp,Tennis,Women's,doubles
+Summer,1920,Gold,FRA,France,"Suzanne LENGLEN, Max DECUGIS",1920 Antwerp,Tennis,Mixed,mixed doubles
+Summer,1920,Silver,GBR,Great Britain,"Kathleen MCKANE, Maxwell WOOSNAM",1920 Antwerp,Tennis,Mixed,mixed doubles
+Summer,1920,Bronze,TCH,Czechoslovakia,"Milada SKRBKOVA, Ladislav ZEMLA",1920 Antwerp,Tennis,Mixed,mixed doubles
+Summer,1920,Gold,GBR,Great Britain,"Paul RADMILOVIC, Noel M. PURCELL, William PEACOCK, Charles Sydney SMITH, Charles BUGBEE, Christopher JONES, William Henry DEAN",1920 Antwerp,Water Polo,Men's,water polo
+Summer,1920,Silver,BEL,Belgium,"Gerard BLITZ, Joseph PLETINCX, Pierre NIJS, Pierre DEWIN, Albert DURANT, Maurice BLITZ, Paul GAILLY, René BAUWENS",1920 Antwerp,Water Polo,Men's,water polo
+Summer,1920,Bronze,SWE,Sweden,"Harald S.A. JULIN, Vilhelm ANDERSSON, Max GUMPEL, Erik ANDERSSON, Theodor NAUMANN, Robert T. ANDERSSON, Erik BERGQVIST, Pontus HANSSON, Nils BACKLUND",1920 Antwerp,Water Polo,Men's,water polo
+Summer,1920,Gold,BEL,Belgium,Frans DE HAES,1920 Antwerp,Weightlifting,Men's,"- 60kg, one-two hand 3 events (featherweight)"
+Summer,1920,Silver,EST,Estonia,Alfred SCHMIDT,1920 Antwerp,Weightlifting,Men's,"- 60kg, one-two hand 3 events (featherweight)"
+Summer,1920,Bronze,SUI,Switzerland,Eugène RYTHER,1920 Antwerp,Weightlifting,Men's,"- 60kg, one-two hand 3 events (featherweight)"
+Summer,1920,Gold,EST,Estonia,Alfred NEULAND,1920 Antwerp,Weightlifting,Men's,"60 - 67.5kg, one-two hand 3 events (lightweight)"
+Summer,1920,Silver,BEL,Belgium,Louis WILLIQUET,1920 Antwerp,Weightlifting,Men's,"60 - 67.5kg, one-two hand 3 events (lightweight)"
+Summer,1920,Bronze,BEL,Belgium,Georges Florimond ROOMS,1920 Antwerp,Weightlifting,Men's,"60 - 67.5kg, one-two hand 3 events (lightweight)"
+Summer,1920,Gold,FRA,France,Henri GANCE,1920 Antwerp,Weightlifting,Men's,"67.5 - 75kg, one-two hand 3 events (middleweight)"
+Summer,1920,Silver,ITA,Italy,Pietro Ubaldo BIANCHI,1920 Antwerp,Weightlifting,Men's,"67.5 - 75kg, one-two hand 3 events (middleweight)"
+Summer,1920,Bronze,SWE,Sweden,Albert PETTERSSON,1920 Antwerp,Weightlifting,Men's,"67.5 - 75kg, one-two hand 3 events (middleweight)"
+Summer,1920,Gold,FRA,France,Ernest CADINE,1920 Antwerp,Weightlifting,Men's,"75 - 82.5kg, one-two hand 3 events (light-heavyweight)"
+Summer,1920,Silver,SUI,Switzerland,Fritz HÜNENBERGER,1920 Antwerp,Weightlifting,Men's,"75 - 82.5kg, one-two hand 3 events (light-heavyweight)"
+Summer,1920,Bronze,SWE,Sweden,Erik PETTERSSON,1920 Antwerp,Weightlifting,Men's,"75 - 82.5kg, one-two hand 3 events (light-heavyweight)"
+Summer,1920,Gold,ITA,Italy,Filippo BOTTINO,1920 Antwerp,Weightlifting,Men's,"+ 82.5kg, one-two hand 3 events (heavyweight)"
+Summer,1920,Silver,LUX,Luxembourg,Joseph ALZIN,1920 Antwerp,Weightlifting,Men's,"+ 82.5kg, one-two hand 3 events (heavyweight)"
+Summer,1920,Bronze,FRA,France,Louis BERNOT,1920 Antwerp,Weightlifting,Men's,"+ 82.5kg, one-two hand 3 events (heavyweight)"
+Summer,1920,Gold,USA,United States,Charles Edwin ACKERLY,1920 Antwerp,Wrestling Freestyle,Men's,- 60kg (featherweight)
+Summer,1920,Silver,USA,United States,Samuel GERSON,1920 Antwerp,Wrestling Freestyle,Men's,- 60kg (featherweight)
+Summer,1920,Bronze,GBR,Great Britain,Philip William Samuel BERNARD,1920 Antwerp,Wrestling Freestyle,Men's,- 60kg (featherweight)
+Summer,1920,Gold,FIN,Finland,Kalle ANTTILA,1920 Antwerp,Wrestling Freestyle,Men's,60 - 67.5kg (lightweight)
+Summer,1920,Silver,SWE,Sweden,Gottfrid SVENSSON,1920 Antwerp,Wrestling Freestyle,Men's,60 - 67.5kg (lightweight)
+Summer,1920,Bronze,GBR,Great Britain,Peter W. WRIGHT,1920 Antwerp,Wrestling Freestyle,Men's,60 - 67.5kg (lightweight)
+Summer,1920,Gold,FIN,Finland,Eino Aukusti LEINO,1920 Antwerp,Wrestling Freestyle,Men's,67.5 - 75kg (middleweight)
+Summer,1920,Silver,FIN,Finland,Väinö PENTTALA,1920 Antwerp,Wrestling Freestyle,Men's,67.5 - 75kg (middleweight)
+Summer,1920,Bronze,USA,United States,Charles F. JOHNSON,1920 Antwerp,Wrestling Freestyle,Men's,67.5 - 75kg (middleweight)
+Summer,1920,Gold,SWE,Sweden,Anders LARSSON,1920 Antwerp,Wrestling Freestyle,Men's,75 - 80kg (light-heavyweight)
+Summer,1920,Silver,SUI,Switzerland,Charles COURANT,1920 Antwerp,Wrestling Freestyle,Men's,75 - 80kg (light-heavyweight)
+Summer,1920,Bronze,USA,United States,Walter S. MAURER,1920 Antwerp,Wrestling Freestyle,Men's,75 - 80kg (light-heavyweight)
+Summer,1920,Gold,SUI,Switzerland,Robert ROTH,1920 Antwerp,Wrestling Freestyle,Men's,+ 80kg (heavyweight)
+Summer,1920,Silver,USA,United States,Nathan Green PENDLETON,1920 Antwerp,Wrestling Freestyle,Men's,+ 80kg (heavyweight)
+Summer,1920,Bronze,SWE,Sweden,Ernst NILSSON,1920 Antwerp,Wrestling Freestyle,Men's,+ 80kg (heavyweight)
+Summer,1920,Bronze,USA,United States,Frederick Julius MEYER,1920 Antwerp,Wrestling Freestyle,Men's,+ 80kg (heavyweight)
+Summer,1920,Gold,FIN,Finland,Oskar David FRIMAN,1920 Antwerp,Wrestling Greco-Roman,Men's,- 60kg (featherweight)
+Summer,1920,Silver,FIN,Finland,Heikki KÄHKÖNEN,1920 Antwerp,Wrestling Greco-Roman,Men's,- 60kg (featherweight)
+Summer,1920,Bronze,SWE,Sweden,Frithiof SVENSSON,1920 Antwerp,Wrestling Greco-Roman,Men's,- 60kg (featherweight)
+Summer,1920,Gold,FIN,Finland,Eemil Ernesti VÄRE,1920 Antwerp,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1920,Silver,FIN,Finland,Taavi TAMMINEN,1920 Antwerp,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1920,Bronze,NOR,Norway,Frithjof ANDERSEN,1920 Antwerp,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1920,Gold,SWE,Sweden,Carl WESTERGREN,1920 Antwerp,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1920,Silver,FIN,Finland,Arthur LINDFORS,1920 Antwerp,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1920,Bronze,FIN,Finland,Matti PERTTILÄ,1920 Antwerp,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1920,Gold,SWE,Sweden,Claes JOHANSSON,1920 Antwerp,Wrestling Greco-Roman,Men's,75 - 82kg (light-heavyweight)
+Summer,1920,Silver,FIN,Finland,Edil ROSENQVIST,1920 Antwerp,Wrestling Greco-Roman,Men's,75 - 82kg (light-heavyweight)
+Summer,1920,Bronze,DEN,Denmark,Johannes Thorvald ERIKSEN,1920 Antwerp,Wrestling Greco-Roman,Men's,75 - 82kg (light-heavyweight)
+Summer,1920,Gold,FIN,Finland,Adolf Valentin LINDFORS,1920 Antwerp,Wrestling Greco-Roman,Men's,+ 82kg (super heavyweight)
+Summer,1920,Silver,DEN,Denmark,Poul HANSEN,1920 Antwerp,Wrestling Greco-Roman,Men's,+ 82kg (super heavyweight)
+Summer,1920,Bronze,FIN,Finland,Martti NIEMINEN,1920 Antwerp,Wrestling Greco-Roman,Men's,+ 82kg (super heavyweight)
+Summer,1920,Gold,BEL,Belgium,T. BOUCKAERT,1920 Antwerp,Equestrian Vaulting,Mixed,figure riding individual
+Summer,1920,Silver,FRA,France,FIELD,1920 Antwerp,Equestrian Vaulting,Mixed,figure riding individual
+Summer,1920,Bronze,BEL,Belgium,T. FINET,1920 Antwerp,Equestrian Vaulting,Mixed,figure riding individual
+Summer,1920,Gold,BEL,Belgium,"T. BOUCKAERT, VAN RANST, VAN CAUWENBERG, T. FINET, VAN SCHAUWBROECK",1920 Antwerp,Equestrian Vaulting,Mixed,figure riding team
+Summer,1920,Silver,FRA,France,"SALINS, FIELD, CAUCHY",1920 Antwerp,Equestrian Vaulting,Mixed,figure riding team
+Summer,1920,Bronze,SWE,Sweden,"Anders MÄRTENSSON, Carl GREEN, Oskar NILSSON",1920 Antwerp,Equestrian Vaulting,Mixed,figure riding team
+Summer,1920,Gold,GBR,Great Britain,"Teignmouth Philip MELVILLE, John WODEHOUSE, Frederick Whitfield BARRETT, Vivian Noverre LOCKETT",1920 Antwerp,Polo,Men's,polo
+Summer,1920,Silver,ESP,Spain,"Leopoldo DE LA MAZA, Alvaro DE FIGUEROA, Hernando FITZ-JAMES STUART Y FALCO, Justo DE SAN MIGUEL, José DE FIGUEROA, JACOBO Fitz-James Stuart y Falco",1920 Antwerp,Polo,Men's,polo
+Summer,1920,Bronze,USA,United States,"Arthur Ringland HARRIS, John Carter MONTGOMERY, Terry ALLEN, Nelson E. MARGETTS",1920 Antwerp,Polo,Men's,polo
+Summer,1920,Gold,GBR,Great Britain,"Frederick William HOLMES, James SHEPHERD, John SEWELL, Ernest Arthur THORNE, George CANNING, Edwin Archer MILLS, Harry Joseph STIFF, Frederick Harkness HUMPHREYS",1920 Antwerp,Tug of War,Men's,tug of war
+Summer,1920,Silver,NED,Netherlands,"Marinus Cornelis VAN REKUM, Hendrikus Alexzander JANSSEN, Johannes Hendrikus HENGEVELD, Antonius VAN LOON, Willem VAN REKUM, Willem VAN LOON, Wilhelmus Johannes BEKKERS, Sytse JANSMA",1920 Antwerp,Tug of War,Men's,tug of war
+Summer,1920,Bronze,BEL,Belgium,"Alphonse DUCATILLON, Christen Albert PIEK, Charles VAN DEN BROEK, Gustave Marie WUYTS, Georges BOURGUIGNON, Raymond Rémi MAERTENS, Henri PINTENS, François VAN HOORENBEEK",1920 Antwerp,Tug of War,Men's,tug of war
+Summer,1920,Gold,SWE,Sweden,Gillis GRAFSTRÖM,1920 Antwerp,Figure skating,Men's,individual
+Summer,1920,Silver,NOR,Norway,Andreas KROGH,1920 Antwerp,Figure skating,Men's,individual
+Summer,1920,Bronze,NOR,Norway,Martin STIXRUD,1920 Antwerp,Figure skating,Men's,individual
+Summer,1920,Gold,SWE,Sweden,Magda JULIN-MAUROY,1920 Antwerp,Figure skating,Women's,individual
+Summer,1920,Silver,SWE,Sweden,Svea NOREN,1920 Antwerp,Figure skating,Women's,individual
+Summer,1920,Bronze,USA,United States,Theresa BLANCHARD,1920 Antwerp,Figure skating,Women's,individual
+Summer,1920,Gold,FIN,Finland,"Walter JAKOBSSON, Ludowika JAKOBSSON",1920 Antwerp,Figure skating,Mixed,pairs
+Summer,1920,Silver,NOR,Norway,"Yngvar BRYN, Alexia BRYN",1920 Antwerp,Figure skating,Mixed,pairs
+Summer,1920,Bronze,GBR,Great Britain,"Basil WILLIAMS, Phyllis JOHNSON",1920 Antwerp,Figure skating,Mixed,pairs
+Summer,1920,Gold,CAN,Canada,"Wally BYRON, Christian FRIDFINNSON, Haldor HALDERSON, Allan WOODMAN, Frank FREDERICKSON, Michael GOODMAN, Konrad JOHANSSON, Robert BENSON",1920 Antwerp,Ice Hockey,Men's,ice hockey
+Summer,1920,Silver,USA,United States,"Anthony CONROY, Edward FITZGERALD, Frank Xavier GOHEEN, Lawrence MCCORMICK, Leon Parker TUCK, Raymond Lenroy BONNEY, Herbert DRURY, George Pierce GERAN, Joseph MCCORMICK, Francis Allen SYNNOTT, Cyril WEIDENBORNER",1920 Antwerp,Ice Hockey,Men's,ice hockey
+Summer,1920,Bronze,TCH,Czechoslovakia,"Adolf DUSEK, Vilém LOOS, Jan PEKA, Josef SROUBEK, Karel HARTMANN, Jan PALOUS, Karel PESEK, Otto VINDYS",1920 Antwerp,Ice Hockey,Men's,ice hockey

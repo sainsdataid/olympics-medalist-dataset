@@ -1,0 +1,379 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1924,Gold,GBR,Great Britain,Harold ABRAHAMS,1924 Paris,Athletics,Men's,100m
+Summer,1924,Silver,USA,United States,Jackson SCHOLZ,1924 Paris,Athletics,Men's,100m
+Summer,1924,Bronze,NZL,New Zealand,Arthur PORRITT,1924 Paris,Athletics,Men's,100m
+Summer,1924,Gold,USA,United States,Jackson SCHOLZ,1924 Paris,Athletics,Men's,200m
+Summer,1924,Silver,USA,United States,Charles PADDOCK,1924 Paris,Athletics,Men's,200m
+Summer,1924,Bronze,GBR,Great Britain,Eric LIDDELL,1924 Paris,Athletics,Men's,200m
+Summer,1924,Gold,GBR,Great Britain,Eric LIDDELL,1924 Paris,Athletics,Men's,400m
+Summer,1924,Silver,USA,United States,Horatio FITCH,1924 Paris,Athletics,Men's,400m
+Summer,1924,Bronze,GBR,Great Britain,Guy BUTLER,1924 Paris,Athletics,Men's,400m
+Summer,1924,Gold,GBR,Great Britain,Douglas LOWE,1924 Paris,Athletics,Men's,800m
+Summer,1924,Silver,SUI,Switzerland,Paul MARTIN,1924 Paris,Athletics,Men's,800m
+Summer,1924,Bronze,USA,United States,Schuyler ENCK,1924 Paris,Athletics,Men's,800m
+Summer,1924,Gold,FIN,Finland,Paavo NURMI,1924 Paris,Athletics,Men's,1500m
+Summer,1924,Silver,SUI,Switzerland,Willy SCHÄRER,1924 Paris,Athletics,Men's,1500m
+Summer,1924,Bronze,GBR,Great Britain,Henry STALLARD,1924 Paris,Athletics,Men's,1500m
+Summer,1924,Gold,FIN,Finland,Paavo NURMI,1924 Paris,Athletics,Men's,5000m
+Summer,1924,Silver,FIN,Finland,Ville RITOLA,1924 Paris,Athletics,Men's,5000m
+Summer,1924,Bronze,SWE,Sweden,Edvin WIDE,1924 Paris,Athletics,Men's,5000m
+Summer,1924,Gold,FIN,Finland,Ville RITOLA,1924 Paris,Athletics,Men's,10000m
+Summer,1924,Silver,SWE,Sweden,Edvin WIDE,1924 Paris,Athletics,Men's,10000m
+Summer,1924,Bronze,FIN,Finland,Eero BERG,1924 Paris,Athletics,Men's,10000m
+Summer,1924,Gold,FIN,Finland,Albin STENROOS,1924 Paris,Athletics,Men's,marathon
+Summer,1924,Silver,ITA,Italy,Romeo BERTINI,1924 Paris,Athletics,Men's,marathon
+Summer,1924,Bronze,USA,United States,Clarence DEMAR,1924 Paris,Athletics,Men's,marathon
+Summer,1924,Gold,FIN,Finland,Paavo NURMI,1924 Paris,Athletics,Men's,cross country individual
+Summer,1924,Silver,FIN,Finland,Ville RITOLA,1924 Paris,Athletics,Men's,cross country individual
+Summer,1924,Bronze,USA,United States,Richard Earl JOHNSON,1924 Paris,Athletics,Men's,cross country individual
+Summer,1924,Gold,FIN,Finland,"Eino RASTAS, Väinö Jeremias SIPILÄ, Paavo NURMI, Ville RITOLA, Eero BERG, Heikki LIIMATAINEN",1924 Paris,Athletics,Men's,cross country team
+Summer,1924,Silver,USA,United States,"Verne Hobson BOOTH, Richard Earl JOHNSON, John GRAY, James HENIGAN, August FAGER, Arthur STUDENROTH",1924 Paris,Athletics,Men's,cross country team
+Summer,1924,Bronze,FRA,France,"Robert MARCHAL, Henri LAUVAUX, L. Lucien DOLQUES, André LAUSEIG, Maurice NORLAND, Gaston HEUET",1924 Paris,Athletics,Men's,cross country team
+Summer,1924,Gold,USA,United States,Daniel KINSEY,1924 Paris,Athletics,Men's,110m hurdles
+Summer,1924,Silver,RSA,South Africa,Sidney ATKINSON,1924 Paris,Athletics,Men's,110m hurdles
+Summer,1924,Bronze,SWE,Sweden,Sten PETTERSSON,1924 Paris,Athletics,Men's,110m hurdles
+Summer,1924,Gold,USA,United States,Morgan TAYLOR,1924 Paris,Athletics,Men's,400m hurdles
+Summer,1924,Silver,FIN,Finland,Erkka WILEN,1924 Paris,Athletics,Men's,400m hurdles
+Summer,1924,Bronze,USA,United States,Ivan RILEY,1924 Paris,Athletics,Men's,400m hurdles
+Summer,1924,Gold,FIN,Finland,Ville RITOLA,1924 Paris,Athletics,Men's,3000m steeplechase
+Summer,1924,Silver,FIN,Finland,Elias KATZ,1924 Paris,Athletics,Men's,3000m steeplechase
+Summer,1924,Bronze,FRA,France,Paul BONTEMPS,1924 Paris,Athletics,Men's,3000m steeplechase
+Summer,1924,Gold,USA,United States,"Loren MURCHISON, Al LECONEY, Louis CLARKE, Frank HUSSEY",1924 Paris,Athletics,Men's,4x100m relay
+Summer,1924,Silver,GBR,Great Britain,"Harold ABRAHAMS, Walter RANGELEY, William NICHOL, Lancelot ROYLE",1924 Paris,Athletics,Men's,4x100m relay
+Summer,1924,Bronze,NED,Netherlands,"Henricus Adrianus BROOS, Jacob BOOT, Marinus VAN DEN BERGE, Jan DE VRIES",1924 Paris,Athletics,Men's,4x100m relay
+Summer,1924,Gold,USA,United States,"William STEVENSON, Oliver MACDONALD, Commodore COCHRAN, Alan HELFFRICH",1924 Paris,Athletics,Men's,4x400m relay
+Summer,1924,Silver,SWE,Sweden,"Artur SVENSSON, Gustaf WEJNARTH, Nils ENGDAHL, Erik BYLÉHN",1924 Paris,Athletics,Men's,4x400m relay
+Summer,1924,Bronze,GBR,Great Britain,"Guy BUTLER, Edward TOMS, George RENWICK, Richard RIPLEY",1924 Paris,Athletics,Men's,4x400m relay
+Summer,1924,Gold,FIN,Finland,"Eino SEPPÄLÄ, Paavo NURMI, Ville RITOLA, Frej LIEWENDHAL, Elias KATZ, S. TALJA",1924 Paris,Athletics,Men's,3000m team
+Summer,1924,Silver,GBR,Great Britain,"Bernard MACDONALD, Arthur CLARK, William SEAGROVE, George WEBBER, Walter Harold PORTER",1924 Paris,Athletics,Men's,3000m team
+Summer,1924,Bronze,USA,United States,"Leo LARRIVEE, James CONNOLLY, Willard TIBBETTS, Joseph RAY, Edward KIRBY, William COX",1924 Paris,Athletics,Men's,3000m team
+Summer,1924,Gold,ITA,Italy,Ugo FRIGERIO,1924 Paris,Athletics,Men's,10000m walk
+Summer,1924,Silver,GBR,Great Britain,Gordon GOODWIN,1924 Paris,Athletics,Men's,10000m walk
+Summer,1924,Bronze,RSA,South Africa,Cecil MCMASTER,1924 Paris,Athletics,Men's,10000m walk
+Summer,1924,Gold,USA,United States,William De Hart HUBBARD,1924 Paris,Athletics,Men's,long jump
+Summer,1924,Silver,USA,United States,Edward Orval GOURDIN,1924 Paris,Athletics,Men's,long jump
+Summer,1924,Bronze,NOR,Norway,Sverre HANSEN,1924 Paris,Athletics,Men's,long jump
+Summer,1924,Gold,AUS,Australia,Nick WINTER,1924 Paris,Athletics,Men's,triple jump
+Summer,1924,Silver,ARG,Argentina,Luis BRUNETTO,1924 Paris,Athletics,Men's,triple jump
+Summer,1924,Bronze,FIN,Finland,Ville TUULOS,1924 Paris,Athletics,Men's,triple jump
+Summer,1924,Gold,USA,United States,Harold OSBORN,1924 Paris,Athletics,Men's,high jump
+Summer,1924,Silver,USA,United States,Leroy BROWN,1924 Paris,Athletics,Men's,high jump
+Summer,1924,Bronze,FRA,France,Pierre LEWDEN,1924 Paris,Athletics,Men's,high jump
+Summer,1924,Gold,USA,United States,Lee BARNES,1924 Paris,Athletics,Men's,pole vault
+Summer,1924,Silver,USA,United States,Glenn GRAHAM,1924 Paris,Athletics,Men's,pole vault
+Summer,1924,Bronze,USA,United States,James BROOKER,1924 Paris,Athletics,Men's,pole vault
+Summer,1924,Gold,USA,United States,Bud HOUSER,1924 Paris,Athletics,Men's,shot put
+Summer,1924,Silver,USA,United States,Glenn HARTRANFT,1924 Paris,Athletics,Men's,shot put
+Summer,1924,Bronze,USA,United States,Ralph HILLS,1924 Paris,Athletics,Men's,shot put
+Summer,1924,Gold,USA,United States,Bud HOUSER,1924 Paris,Athletics,Men's,discus throw
+Summer,1924,Silver,FIN,Finland,Vilho Aleksander NIITTYMAA,1924 Paris,Athletics,Men's,discus throw
+Summer,1924,Bronze,USA,United States,Thomas LIEB,1924 Paris,Athletics,Men's,discus throw
+Summer,1924,Gold,USA,United States,Fred TOOTELL,1924 Paris,Athletics,Men's,hammer throw
+Summer,1924,Silver,USA,United States,Matt MCGRATH,1924 Paris,Athletics,Men's,hammer throw
+Summer,1924,Bronze,GBR,Great Britain,Malcolm NOKES,1924 Paris,Athletics,Men's,hammer throw
+Summer,1924,Gold,FIN,Finland,Jonni MYYRÄ,1924 Paris,Athletics,Men's,javelin throw
+Summer,1924,Silver,SWE,Sweden,Gunnar LINDSTRÖM,1924 Paris,Athletics,Men's,javelin throw
+Summer,1924,Bronze,USA,United States,Eugene OBERST,1924 Paris,Athletics,Men's,javelin throw
+Summer,1924,Gold,FIN,Finland,Eero LEHTONEN,1924 Paris,Athletics,Men's,pentathlon
+Summer,1924,Silver,HUN,Hungary,Elemér SOMFAY,1924 Paris,Athletics,Men's,pentathlon
+Summer,1924,Bronze,USA,United States,Robert Lucien LE GENDRE,1924 Paris,Athletics,Men's,pentathlon
+Summer,1924,Gold,USA,United States,Harold OSBORN,1924 Paris,Athletics,Men's,decathlon
+Summer,1924,Silver,USA,United States,Emerson NORTON,1924 Paris,Athletics,Men's,decathlon
+Summer,1924,Bronze,EST,Estonia,Alexander KLUMBERG-KOLMPERE,1924 Paris,Athletics,Men's,decathlon
+Summer,1924,Gold,USA,United States,Fidel LA BARBA,1924 Paris,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1924,Silver,GBR,Great Britain,James MCKENZIE,1924 Paris,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1924,Bronze,USA,United States,Raymond FEE,1924 Paris,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1924,Gold,RSA,South Africa,Jakob SMITH,1924 Paris,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1924,Silver,USA,United States,Salvatore TRIPOLI,1924 Paris,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1924,Bronze,FRA,France,Jean CES,1924 Paris,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1924,Gold,USA,United States,John FIELDS,1924 Paris,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1924,Silver,USA,United States,Joseph SALAS,1924 Paris,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1924,Bronze,ARG,Argentina,Pedro QUARTUCCI,1924 Paris,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1924,Gold,DEN,Denmark,Hans NIELSEN,1924 Paris,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1924,Silver,ARG,Argentina,Alfredo COPELLO,1924 Paris,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1924,Bronze,USA,United States,Frederick BOYLSTEIN,1924 Paris,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1924,Gold,BEL,Belgium,Jean DELARGE,1924 Paris,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1924,Silver,ARG,Argentina,Héctor MÉNDEZ,1924 Paris,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1924,Bronze,CAN,Canada,Douglas LEWIS,1924 Paris,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1924,Gold,NOR,Norway,Otto VON PORAT,1924 Paris,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1924,Silver,DEN,Denmark,Sören PETERSEN,1924 Paris,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1924,Bronze,ARG,Argentina,Alfredo PORZIO,1924 Paris,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1924,Gold,GBR,Great Britain,Harold MITCHELL,1924 Paris,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1924,Silver,DEN,Denmark,Thyge PETERSEN,1924 Paris,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1924,Bronze,NOR,Norway,Sverre SØRSDAL,1924 Paris,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1924,Gold,GBR,Great Britain,Harry MALLIN,1924 Paris,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1924,Silver,GBR,Great Britain,John ELLIOTT,1924 Paris,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1924,Bronze,BEL,Belgium,Joseph BEECKEN,1924 Paris,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1924,Gold,FRA,France,Armand BLANCHONNET,1924 Paris,Cycling Road,Men's,individual road race
+Summer,1924,Silver,BEL,Belgium,Henri HOEVENAERS,1924 Paris,Cycling Road,Men's,individual road race
+Summer,1924,Bronze,FRA,France,René HAMEL,1924 Paris,Cycling Road,Men's,individual road race
+Summer,1924,Gold,FRA,France,"Armand BLANCHONNET, Georges WAMBST, René HAMEL",1924 Paris,Cycling Road,Men's,team time trial
+Summer,1924,Silver,BEL,Belgium,"Alphonse PARFONDRY, Jean VAN DEN BOSCH, Henri HOEVENAERS",1924 Paris,Cycling Road,Men's,team time trial
+Summer,1924,Bronze,SWE,Sweden,"Erik BOHLIN, Ragnar MALM, Gunnar SKÖLD",1924 Paris,Cycling Road,Men's,team time trial
+Summer,1924,Gold,FRA,France,Lucien MICHARD,1924 Paris,Cycling Track,Men's,sprint individual
+Summer,1924,Silver,NED,Netherlands,Jacob MEIJER,1924 Paris,Cycling Track,Men's,sprint individual
+Summer,1924,Bronze,FRA,France,Jean CUGNOT,1924 Paris,Cycling Track,Men's,sprint individual
+Summer,1924,Gold,NED,Netherlands,Jacobus WILLEMS,1924 Paris,Cycling Track,Men's,50km
+Summer,1924,Silver,GBR,Great Britain,Cyril ALDEN,1924 Paris,Cycling Track,Men's,50km
+Summer,1924,Bronze,GBR,Great Britain,Frederick Henry WYLD,1924 Paris,Cycling Track,Men's,50km
+Summer,1924,Gold,FRA,France,"Jean CUGNOT, Lucien CHOURY",1924 Paris,Cycling Track,Men's,2000m tandem
+Summer,1924,Silver,DEN,Denmark,"Willy FALCK HANSEN, Edmund HANSEN",1924 Paris,Cycling Track,Men's,2000m tandem
+Summer,1924,Bronze,NED,Netherlands,"Maurice PEETERS, Gerard BOSCH VAN DRAKESTEIN",1924 Paris,Cycling Track,Men's,2000m tandem
+Summer,1924,Gold,ITA,Italy,"Francesco ZUCCHETTI, Aurelio MENEGAZZI, Alfredo DINALE, Angelo DE MARTINO",1924 Paris,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1924,Silver,POL,Poland,"Jan LAZARSKI, Jozef LANGE, Franciszek SZYMCZYK, Tomasz STANKIEWICZ",1924 Paris,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1924,Bronze,BEL,Belgium,"Henri HOEVENAERS, Léonard DAGHELINCKX, Jean VAN DEN BOSCH, Fernand SAIVE",1924 Paris,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1924,Gold,USA,United States,Albert WHITE,1924 Paris,Diving,Men's,3m springboard
+Summer,1924,Silver,USA,United States,Pete DESJARDINS,1924 Paris,Diving,Men's,3m springboard
+Summer,1924,Bronze,USA,United States,Clarence PINKSTON,1924 Paris,Diving,Men's,3m springboard
+Summer,1924,Gold,USA,United States,Albert WHITE,1924 Paris,Diving,Men's,10m platform
+Summer,1924,Silver,USA,United States,David FALL,1924 Paris,Diving,Men's,10m platform
+Summer,1924,Bronze,USA,United States,Clarence PINKSTON,1924 Paris,Diving,Men's,10m platform
+Summer,1924,Gold,AUS,Australia,Richmond EVE,1924 Paris,Diving,Men's,plain high diving
+Summer,1924,Silver,SWE,Sweden,John JANSSON,1924 Paris,Diving,Men's,plain high diving
+Summer,1924,Bronze,GBR,Great Britain,Harold CLARKE,1924 Paris,Diving,Men's,plain high diving
+Summer,1924,Gold,USA,United States,Elizabeth BECKER,1924 Paris,Diving,Women's,3m springboard
+Summer,1924,Silver,USA,United States,Aileen RIGGIN,1924 Paris,Diving,Women's,3m springboard
+Summer,1924,Bronze,USA,United States,Caroline FLETCHER,1924 Paris,Diving,Women's,3m springboard
+Summer,1924,Gold,USA,United States,Caroline SMITH,1924 Paris,Diving,Women's,10m platform
+Summer,1924,Silver,USA,United States,Elizabeth BECKER,1924 Paris,Diving,Women's,10m platform
+Summer,1924,Bronze,SWE,Sweden,Hjördis TÖPEL,1924 Paris,Diving,Women's,10m platform
+Summer,1924,Gold,SWE,Sweden,Ernst LINDER,1924 Paris,Equestrian Dressage,Mixed,individual
+Summer,1924,Silver,SWE,Sweden,Bertil SANDSTRÖM,1924 Paris,Equestrian Dressage,Mixed,individual
+Summer,1924,Bronze,FRA,France,Xavier LESAGE,1924 Paris,Equestrian Dressage,Mixed,individual
+Summer,1924,Gold,NED,Netherlands,Adolf VAN DER VOORT VAN ZIJP,1924 Paris,Equestrian Eventing,Mixed,individual
+Summer,1924,Silver,DEN,Denmark,Frode KIRKEBJERG,1924 Paris,Equestrian Eventing,Mixed,individual
+Summer,1924,Bronze,USA,United States,Sloan DOAK,1924 Paris,Equestrian Eventing,Mixed,individual
+Summer,1924,Gold,NED,Netherlands,"Charles PAHUD DE MORTANGES, Adolf VAN DER VOORT VAN ZIJP, Anton COLENBRANDER, Gerard DE KRUIJFF",1924 Paris,Equestrian Eventing,Mixed,team
+Summer,1924,Silver,SWE,Sweden,"Carl-Gustaf LEWENHAUPT, Gustaf HAGELIN, Claës KÖNIG, Carl Torsten SYLVAN",1924 Paris,Equestrian Eventing,Mixed,team
+Summer,1924,Bronze,ITA,Italy,"Alberto LOMBARDI, Tommaso LEQUIO DI ASSABA, Emanuele DI PRALORMO, Alessandro ALVISI",1924 Paris,Equestrian Eventing,Mixed,team
+Summer,1924,Gold,SUI,Switzerland,Alphonse GEMUSEUS,1924 Paris,Equestrian Jumping,Mixed,individual
+Summer,1924,Silver,ITA,Italy,Tommaso LEQUIO DI ASSABA,1924 Paris,Equestrian Jumping,Mixed,individual
+Summer,1924,Bronze,POL,Poland,Adam KRÓLIKIEWICZ,1924 Paris,Equestrian Jumping,Mixed,individual
+Summer,1924,Gold,SWE,Sweden,"Åke THELNING, Axel STÅHLE, Åge LUNDSTRÖM",1924 Paris,Equestrian Jumping,Mixed,team
+Summer,1924,Silver,SUI,Switzerland,"Werner STUBER, Hans BÜHLER, Alphonse GEMUSEUS",1924 Paris,Equestrian Jumping,Mixed,team
+Summer,1924,Bronze,POR,Portugal,"Hélder DE SOUZA MARTINS, Antonio BORGES D'ALMEIDA, José MOUZINHO D'ALBUQUERQUE",1924 Paris,Equestrian Jumping,Mixed,team
+Summer,1924,Gold,BEL,Belgium,Charles DELPORTE,1924 Paris,Fencing,Men's,épée individual
+Summer,1924,Silver,FRA,France,Roger DUCRET,1924 Paris,Fencing,Men's,épée individual
+Summer,1924,Bronze,SWE,Sweden,Nils HELLSTEN,1924 Paris,Fencing,Men's,épée individual
+Summer,1924,Gold,FRA,France,"André LABATUT, Georges TAINTURIER, Roger DUCRET, Lucien GAUDIN, Lionel LIOTTEL, Georges BUCHARD, Alexandre LIPPMANN",1924 Paris,Fencing,Men's,épée team
+Summer,1924,Silver,BEL,Belgium,"Léon TOM, Ernest GEVERS, Paul ANSPACH, Charles DELPORTE, Joseph DE CRAECKER, Fernand DE MONTIGNY",1924 Paris,Fencing,Men's,épée team
+Summer,1924,Bronze,ITA,Italy,"Oreste MORICCA, Giovanni CANOVA, Giulio BASLETTA, Virgilio MANTEGAZZA, Marcello BERTINETTI, Vincenzo CUCCIA",1924 Paris,Fencing,Men's,épée team
+Summer,1924,Gold,FRA,France,Roger DUCRET,1924 Paris,Fencing,Men's,foil individual
+Summer,1924,Silver,FRA,France,Philippe CATTIAU,1924 Paris,Fencing,Men's,foil individual
+Summer,1924,Bronze,BEL,Belgium,Maurice VAN DAMME,1924 Paris,Fencing,Men's,foil individual
+Summer,1924,Gold,FRA,France,"Joseph PEROTEAUX, Henri JOBIER, Jacques COUTROT, Guy DE LUGET, Philippe CATTIAU, Lucien GAUDIN, Roger DUCRET, André LABATUT",1924 Paris,Fencing,Men's,foil team
+Summer,1924,Silver,BEL,Belgium,"Désiré BEAURAIN, Albert DE ROOCKER, Marcel L. BERRE, Maurice VAN DAMME, Fernand DE MONTIGNY, Charles CRAHAY",1924 Paris,Fencing,Men's,foil team
+Summer,1924,Bronze,HUN,Hungary,"László BERTI, Sándor PÓSTA, Odön VITEZ TERSZTYANSZKY, István LICHTENECKERT, Zoltán SCHENKER",1924 Paris,Fencing,Men's,foil team
+Summer,1924,Gold,HUN,Hungary,Sándor PÓSTA,1924 Paris,Fencing,Men's,sabre individual
+Summer,1924,Silver,FRA,France,Roger DUCRET,1924 Paris,Fencing,Men's,sabre individual
+Summer,1924,Bronze,HUN,Hungary,János GARAY,1924 Paris,Fencing,Men's,sabre individual
+Summer,1924,Gold,ITA,Italy,"Bino BINI, Guido BALZARINI, Giulio SARROCCHI, Renato ANSELMI, Vincenzo CUCCIA, Oreste MORICCA, Marcello BERTINETTI, Oreste PULITI",1924 Paris,Fencing,Men's,sabre team
+Summer,1924,Silver,HUN,Hungary,"János GARAY, Odön VITEZ TERSZTYANSZKY, László BERTI, Zoltán SCHENKER, Jenö UHLYARIK, József RÁDY, Sándor PÓSTA, László SZÉCHY",1924 Paris,Fencing,Men's,sabre team
+Summer,1924,Bronze,NED,Netherlands,"Arie DE JONG, Maarten VAN DULM, Jetze DOORMAN, Hendrik SCHERPENHUIJZEN, Jan VAN DER WIEL, Henri WIJNOLDY-DANIELS",1924 Paris,Fencing,Men's,sabre team
+Summer,1924,Gold,DEN,Denmark,Ellen OSIIER,1924 Paris,Fencing,Women's,foil individual
+Summer,1924,Silver,GBR,Great Britain,Gladys DAVIS,1924 Paris,Fencing,Women's,foil individual
+Summer,1924,Bronze,DEN,Denmark,Grete HECKSCHER,1924 Paris,Fencing,Women's,foil individual
+Summer,1924,Gold,URU,Uruguay,"F. URIARTE, Alfredo GHIERRA, P. ZINGONE, Santos URDINARAN, Andrés MAZALI, Pedro PETRONE, P. CASELLA, José ANDRADE, José NAYA, Z. SALDOMBIDE, Alfredo ZIBECHI, Angel ROMANO, Pedro CEA, Pedro ARISPE, L. CHIAPPARA, Humberto TOMASINA, Antonio URDINARÁN, José NASAZZI, P. ETCHEGOYEN, P. SOMMA, Hector SCARONE, José VIDAL",1924 Paris,Football,Men's,football
+Summer,1924,Silver,SUI,Switzerland,"G. GOTTENKIENY, Aron POLLITZ, C. BOUVIER, Rudolf RAMSEYER, Hans PULVER, Max ABEGGLEN, Paul STURZENEGGER, L. RICHARD, M. KATZ, T. SCHAR, Karl EHRENBOLGER, Paul SCHMIEDLIN, Edmond KRAMER, Félix BÉDOURET, Robert PACHE, Walter DIETRICH, Paul FÄSSLER, Walter WEILER, J. HAAG, Adolphe REYMOND, August OBERHAUSER, Adolphe MENGOTTI",1924 Paris,Football,Men's,football
+Summer,1924,Bronze,SWE,Sweden,"Rudolf KOCK, Per KAUFELDT, V. LINDBERG, Sven RYDELL, Charles BROMMESSON, Axel ALFREDSSON, Albin DAHL, Sven FRIBERG, Thorsten SVENSSON, Konrad HIRSCH, Evert LUNDQUIST, Robert ZANDER, Fritjof HILLEN, G. OCLSSON, Tore KELLER, Sven LINDQVIST, Harry SUNDBERG, Gunnar HOLMBERG, Sigfrid LINDBERG, Sten MELLGREN, Gustaf CARLSON, Karl GUSTAFSSON",1924 Paris,Football,Men's,football
+Summer,1924,Gold,YUG,Yugoslavia,Leon ?TUKELJ,1924 Paris,Gymnastics Artistic,Men's,individual all-round
+Summer,1924,Silver,TCH,Czechoslovakia,Robert PRAZAK,1924 Paris,Gymnastics Artistic,Men's,individual all-round
+Summer,1924,Bronze,TCH,Czechoslovakia,Bedrich SUPCIK,1924 Paris,Gymnastics Artistic,Men's,individual all-round
+Summer,1924,Gold,ITA,Italy,"Ferdinando MANDRINI, Luigi MAIOCCO, Luigi CAMBIASO, Mario LERTORA, Vittorio LUCCHETTI, Francesco MARTINO, Giorgio ZAMPORI, Giuseppe PARIS",1924 Paris,Gymnastics Artistic,Men's,team competition
+Summer,1924,Silver,FRA,France,"Joseph HUBER, Eugène CORDONNIER, Albert SÉGUIN, François GANGLOFF, Léon DELSARTE, Jean GOUNOT, André HIGELIN, Arthur HERMANN",1924 Paris,Gymnastics Artistic,Men's,team competition
+Summer,1924,Bronze,SUI,Switzerland,"Otto PFISTER, Antoine REBETEZ, Jean GUTWENIGER, Hans GRIEDER, Carl WIDMER, August GÜTTINGER, Georges MIEZ, Josef WILHELM",1924 Paris,Gymnastics Artistic,Men's,team competition
+Summer,1924,Gold,SUI,Switzerland,August GÜTTINGER,1924 Paris,Gymnastics Artistic,Men's,parallel bars
+Summer,1924,Silver,TCH,Czechoslovakia,Robert PRAZAK,1924 Paris,Gymnastics Artistic,Men's,parallel bars
+Summer,1924,Bronze,ITA,Italy,Giorgio ZAMPORI,1924 Paris,Gymnastics Artistic,Men's,parallel bars
+Summer,1924,Gold,USA,United States,Frank KRIZ,1924 Paris,Gymnastics Artistic,Men's,vault
+Summer,1924,Silver,TCH,Czechoslovakia,Jan KOUTNÝ,1924 Paris,Gymnastics Artistic,Men's,vault
+Summer,1924,Bronze,TCH,Czechoslovakia,Bohumil MORKOVSKÝ,1924 Paris,Gymnastics Artistic,Men's,vault
+Summer,1924,Gold,ITA,Italy,Francesco MARTINO,1924 Paris,Gymnastics Artistic,Men's,rings
+Summer,1924,Silver,TCH,Czechoslovakia,Robert PRAZAK,1924 Paris,Gymnastics Artistic,Men's,rings
+Summer,1924,Bronze,TCH,Czechoslovakia,Ladislav VÁCHA,1924 Paris,Gymnastics Artistic,Men's,rings
+Summer,1924,Gold,SUI,Switzerland,Josef WILHELM,1924 Paris,Gymnastics Artistic,Men's,pommel horse
+Summer,1924,Silver,SUI,Switzerland,Jean GUTWENIGER,1924 Paris,Gymnastics Artistic,Men's,pommel horse
+Summer,1924,Bronze,SUI,Switzerland,Antoine REBETEZ,1924 Paris,Gymnastics Artistic,Men's,pommel horse
+Summer,1924,Gold,YUG,Yugoslavia,Leon ?TUKELJ,1924 Paris,Gymnastics Artistic,Men's,horizontal bar
+Summer,1924,Silver,SUI,Switzerland,Jean GUTWENIGER,1924 Paris,Gymnastics Artistic,Men's,horizontal bar
+Summer,1924,Bronze,FRA,France,André HIGELIN,1924 Paris,Gymnastics Artistic,Men's,horizontal bar
+Summer,1924,Gold,FRA,France,Albert SÉGUIN,1924 Paris,Gymnastics Artistic,Men's,Sidehorse vault
+Summer,1924,Silver,FRA,France,François GANGLOFF,1924 Paris,Gymnastics Artistic,Men's,Sidehorse vault
+Summer,1924,Silver,FRA,France,Jean GOUNOT,1924 Paris,Gymnastics Artistic,Men's,Sidehorse vault
+Summer,1924,Gold,TCH,Czechoslovakia,Bedrich SUPCIK,1924 Paris,Gymnastics Artistic,Men's,rope climbing
+Summer,1924,Silver,FRA,France,Albert SÉGUIN,1924 Paris,Gymnastics Artistic,Men's,rope climbing
+Summer,1924,Bronze,TCH,Czechoslovakia,Ladislav VÁCHA,1924 Paris,Gymnastics Artistic,Men's,rope climbing
+Summer,1924,Bronze,SUI,Switzerland,August GÜTTINGER,1924 Paris,Gymnastics Artistic,Men's,rope climbing
+Summer,1924,Gold,SWE,Sweden,Bo LINDMAN,1924 Paris,Modern Pentathlon,Men's,individual competition
+Summer,1924,Silver,SWE,Sweden,Gustaf DYRSSEN,1924 Paris,Modern Pentathlon,Men's,individual competition
+Summer,1924,Bronze,SWE,Sweden,Bertil UGGLA,1924 Paris,Modern Pentathlon,Men's,individual competition
+Summer,1924,Gold,GBR,Great Britain,Jack BERESFORD,1924 Paris,Rowing,Men's,single sculls (1x)
+Summer,1924,Silver,USA,United States,William GILMORE,1924 Paris,Rowing,Men's,single sculls (1x)
+Summer,1924,Bronze,SUI,Switzerland,Josef SCHNEIDER,1924 Paris,Rowing,Men's,single sculls (1x)
+Summer,1924,Gold,USA,United States,"Paul COSTELLO, John KELLY SR.",1924 Paris,Rowing,Men's,double sculls (2x)
+Summer,1924,Silver,FRA,France,"Marc DETTON, Jean-Pierre STOCK",1924 Paris,Rowing,Men's,double sculls (2x)
+Summer,1924,Bronze,SUI,Switzerland,"Rudolf BOSSHARD, Heinrich THOMA",1924 Paris,Rowing,Men's,double sculls (2x)
+Summer,1924,Gold,NED,Netherlands,"Wilhelm RÖSINGH, Teun BEIJNEN",1924 Paris,Rowing,Men's,pair without coxswain (2-)
+Summer,1924,Silver,FRA,France,"Georges PIOT, Maurice BOUTON",1924 Paris,Rowing,Men's,pair without coxswain (2-)
+Summer,1924,Gold,SUI,Switzerland,"Edouard CANDEVEAU, Emile LACHAPELLE, Alfred FELBER",1924 Paris,Rowing,Men's,pair-oared shell with coxswain
+Summer,1924,Silver,ITA,Italy,"Giovanni SCATTURIN, Gino SOPRACORDEVOLE, Ercole OLGENI",1924 Paris,Rowing,Men's,pair-oared shell with coxswain
+Summer,1924,Bronze,USA,United States,"Edward JENNINGS, Harold WILSON, Leon BUTLER",1924 Paris,Rowing,Men's,pair-oared shell with coxswain
+Summer,1924,Gold,GBR,Great Britain,"Terence SANDERS, Robert MORRISON, Charles ELEY, James MACNABB",1924 Paris,Rowing,Men's,four without coxswain (4-)
+Summer,1924,Silver,CAN,Canada,"George MACKAY, A. MARIACHER, Archibald BLACK, William WOOD",1924 Paris,Rowing,Men's,four without coxswain (4-)
+Summer,1924,Bronze,SUI,Switzerland,"Eugen SIGG, Hans WALTER, Emile ALBRECHT, Alfred PROBST",1924 Paris,Rowing,Men's,four without coxswain (4-)
+Summer,1924,Gold,SUI,Switzerland,"Emile ALBRECHT, Hans WALTER, Walter LOSSLI, Eugen SIGG, Alfred PROBST",1924 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1924,Silver,FRA,France,"Eugène CONSTANT, Ernest BARBEROLLE, Georges LECOINTE, Louis GRESSIER, Raymond TALLEUX",1924 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1924,Bronze,USA,United States,"Sidney JELINEK, Robert GERHARDT, Edward MITCHELL, Henry WELSFORD, John KENNEDY",1924 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1924,Gold,USA,United States,"James ROCKEFELLER, John MILLER, Laurence STODDARD, Alfred LINDLEY, Howard KINGSBURY, Leonard CARPENTER, Benjamin SPOCK, Frederick SHEFFIELD, Alfred WILSON",1924 Paris,Rowing,Men's,eight with coxswain (8+)
+Summer,1924,Silver,CAN,Canada,"William LANGFORD, Ivor CAMPBELL, Warren SNYDER, Arthur BELL, William WALLACE, Harold LITTLE, Norman TAYLOR, Robert HUNTER, John SMITH",1924 Paris,Rowing,Men's,eight with coxswain (8+)
+Summer,1924,Bronze,ITA,Italy,"Giuseppe CRIVELLI, Simeone CATTALINICH, Latino GALASSO, Carlo TONIATTI, Vittorio GLIUBICH, Pietro IVANOV, Francesco CATTALINICH, Bruno SORICH, Antonio CATTALINICH",1924 Paris,Rowing,Men's,eight with coxswain (8+)
+Summer,1924,Gold,USA,United States,"Alan VALENTINE, H. CUNNINGHAM, Colby SLATER, George DIXON, Philip CLARK, C. AUSTIN, R. BROWN, Dudley DEGROOT, Charles TILDEN, C. GRONDONA, William MULDOON, Edward GRAFF, William ROGERS, Linn FARRISH, Robert DEVEREAUX, John O'NEIL, Rudolph John SCHOLZ, J. CASHEL, Jack PATRICK, J. WINSTON, Caesar MANELLI, Charles MEHAN, Richard HYLAND, Joseph HUNTER, Alan WILLIAMS, Edward TURKINGTON, Norman SLATER, Norman CLEAVELAND, Charles Webster DOE",1924 Paris,Rugby,Men's,rugby
+Summer,1924,Silver,FRA,France,"François BORDE, Alexandre BIOUSSA, Raoul GOT, René LASSERRE, Albert DUPOUY, Jean BAYARD, E. RIBERE, René ARAOU, Jean ETCHEBERRY, Etienne PIQUIRAL, André BEHOTÉGUY, Marcel-Frédéric LUBIN-LEBRÈRE, F. ABRAHAM, Adolphe JAURÉGUY, Gilbert GÉRINTÈS, L. LEPATEY, Clément DUPONT, F. CAYROL, Étienne BONNES, Louis BEGUET, E. FRAYSSINET, M. BESSON, Aimé CASSAYET-ARMAGNAC, F. CLAUZEL, Henri GALAU, Adolphe BOUSQUET, R. PITEU, Jean VAYSSE, C. MONTADE, C. GONNET",1924 Paris,Rugby,Men's,rugby
+Summer,1924,Bronze,ROU,Romania,"C. CRATUNESCO, Gheorghe BENTIA, Mihail VARDALA, Atanasie TANASESCU, Dumitru ARMASEL, M. STROESCO, Theodor FLORIAN, N. ANASTASIADE, Paul VIDRASCU, Dumitru VOLVOREANU, Mircea SFETESCU, Ion GARLESTEANU, J. COCIOCIAHO, O. LOUKIDY, Sorin MIHAILESCU, Theodor MARIAN, H. MANO, Iosif NEMES, Nicolae MARASCU, Paul NEDELCOVICI, P. GHITZULESCO, Eugen SFETESCU, Soare STERIAN",1924 Paris,Rugby,Men's,rugby
+Summer,1924,Gold,NOR,Norway,"Anders LUNDGREN, Christopher DAHL, Eugen LUNDE",1924 Paris,Sailing,Mixed,6m
+Summer,1924,Silver,DEN,Denmark,"Knud DEGN, Vilhelm VETT, Christian NIELSEN",1924 Paris,Sailing,Mixed,6m
+Summer,1924,Bronze,NED,Netherlands,"Johannes GUÉPIN, Jan VREEDE, Johan Robbert CARP",1924 Paris,Sailing,Mixed,6m
+Summer,1924,Gold,NOR,Norway,"Ingar NIELSEN, Carl August RINGVOLD JR., Rick BOCKELIE, Harald HAGEN, Carl August RINGVOLD SR.",1924 Paris,Sailing,Mixed,8m
+Summer,1924,Silver,GBR,Great Britain,"Walter RIGGS, Ernest RONEY, Edwin JACOB, Thomas RIGGS",1924 Paris,Sailing,Mixed,8m
+Summer,1924,Bronze,FRA,France,"Pierre GANTHIER, André GUERRIER, Louis BRÉGUET, Robert GIRARDET, Georges MOLLARD",1924 Paris,Sailing,Mixed,8m
+Summer,1924,Gold,BEL,Belgium,Léon HUYBRECHTS,1924 Paris,Sailing,Mixed,olympic class monotype
+Summer,1924,Silver,NOR,Norway,Henrik ROBERT,1924 Paris,Sailing,Mixed,olympic class monotype
+Summer,1924,Bronze,FIN,Finland,Hans DITTMAR,1924 Paris,Sailing,Mixed,olympic class monotype
+Summer,1924,Gold,USA,United States,Henry BAILEY,1924 Paris,Shooting,Men's,25m rapid fire pistol
+Summer,1924,Silver,SWE,Sweden,Vilhelm CARLBERG,1924 Paris,Shooting,Men's,25m rapid fire pistol
+Summer,1924,Bronze,FIN,Finland,Lennart HANNELIUS,1924 Paris,Shooting,Men's,25m rapid fire pistol
+Summer,1924,Gold,FRA,France,Pierre COQUELIN DE LISLE,1924 Paris,Shooting,Men's,50m rifle prone
+Summer,1924,Silver,USA,United States,Marcus DINWIDDIE,1924 Paris,Shooting,Men's,50m rifle prone
+Summer,1924,Bronze,SUI,Switzerland,Josias HARTMANN,1924 Paris,Shooting,Men's,50m rifle prone
+Summer,1924,Gold,USA,United States,Morris FISHER,1924 Paris,Shooting,Men's,"600m free rifle, individual"
+Summer,1924,Silver,USA,United States,Carl OSBURN,1924 Paris,Shooting,Men's,"600m free rifle, individual"
+Summer,1924,Bronze,DEN,Denmark,Niels LARSEN,1924 Paris,Shooting,Men's,"600m free rifle, individual"
+Summer,1924,Gold,USA,United States,"Joseph CROCKETT, Walter STOKES, Sidney HINDS, Raymond COULTER, Morris FISHER",1924 Paris,Shooting,Men's,"400, 600, 800m free rifle, team"
+Summer,1924,Silver,FRA,France,"Pierre HARDY, Albert COURQUIN, André PARMENTIER, Georges ROES, Paul COLAS, Léon JOHNSON",1924 Paris,Shooting,Men's,"400, 600, 800m free rifle, team"
+Summer,1924,Bronze,HAI,Haiti,"C. DUPRE, Astrel ROLLAND, Eloi METULLUS, Ludovic VALBORGE, L. H. CLERMONT, Ludovic AUGUSTIN, Destin DESTINE",1924 Paris,Shooting,Men's,"400, 600, 800m free rifle, team"
+Summer,1924,Gold,USA,United States,John BOLES,1924 Paris,Shooting,Men's,"100m running deer, single shots"
+Summer,1924,Silver,GBR,Great Britain,Cyril MACKWORTH PRAED,1924 Paris,Shooting,Men's,"100m running deer, single shots"
+Summer,1924,Bronze,NOR,Norway,Otto OLSEN,1924 Paris,Shooting,Men's,"100m running deer, single shots"
+Summer,1924,Gold,NOR,Norway,"Oluf WESMANN-KJAER, Ole Andreas LILLOE-OLSEN, Hans NORDVIK, Einar LIBERG, Otto OLSEN, Harald NATVIG",1924 Paris,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1924,Silver,SWE,Sweden,"Karl RICHTER, Otto HULTBERG, Fredric LANDELIUS, Karl-Gustaf E. SVENSSON, Mauritz JOHANSSON, Alfred SWAHN",1924 Paris,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1924,Bronze,USA,United States,"Walter STOKES, Dennis FENTON, John BOLES, Raymond COULTER",1924 Paris,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1924,Gold,NOR,Norway,Ole Andreas LILLOE-OLSEN,1924 Paris,Shooting,Men's,"100m running deer, double shots"
+Summer,1924,Silver,GBR,Great Britain,Cyril MACKWORTH PRAED,1924 Paris,Shooting,Men's,"100m running deer, double shots"
+Summer,1924,Bronze,SWE,Sweden,Alfred SWAHN,1924 Paris,Shooting,Men's,"100m running deer, double shots"
+Summer,1924,Gold,GBR,Great Britain,"John Champion FAUNTHORPE, Philip NEAME, John J. O'LEARY, Cyril MACKWORTH PRAED, Herbert PERRY, Allen WHITTY",1924 Paris,Shooting,Men's,"100m running deer, double shots, team"
+Summer,1924,Silver,NOR,Norway,"Ole Andreas LILLOE-OLSEN, Oluf WESMANN-KJAER, Otto OLSEN, Hans NORDVIK, Einar LIBERG, Harald NATVIG",1924 Paris,Shooting,Men's,"100m running deer, double shots, team"
+Summer,1924,Bronze,SWE,Sweden,"Karl-Gustaf E. SVENSSON, Alfred SWAHN, Mauritz JOHANSSON, Edward BENEDICKS, Axel EKBLOM, Fredric LANDELIUS",1924 Paris,Shooting,Men's,"100m running deer, double shots, team"
+Summer,1924,Gold,USA,United States,"J. MOEL, Samuel SHARMAN, Frank HUGHES, William SILKWORTH, Clarence B. PLATT, Fred ETCHEN",1924 Paris,Shooting,Men's,"clay pigeons, team"
+Summer,1924,Silver,CAN,Canada,"George BEATTIE, W. BARNES, James MONTGOMERY, John BLACK, Samuel VANCE, S. R. NEWTON",1924 Paris,Shooting,Men's,"clay pigeons, team"
+Summer,1924,Bronze,FIN,Finland,"Konrad HUBER, Werner EKMAN, Georg J. W. NORDBLAD, Magnus WEGELIUS, Robert TIKKANEN, Robert HUBER",1924 Paris,Shooting,Men's,"clay pigeons, team"
+Summer,1924,Gold,HUN,Hungary,Gyula HALASY,1924 Paris,Shooting,Men's,Trap
+Summer,1924,Silver,FIN,Finland,Konrad HUBER,1924 Paris,Shooting,Men's,Trap
+Summer,1924,Bronze,USA,United States,Frank HUGHES,1924 Paris,Shooting,Men's,Trap
+Summer,1924,Gold,USA,United States,Johnny WEISSMULLER,1924 Paris,Swimming,Men's,100m freestyle
+Summer,1924,Silver,USA,United States,Duke KAHANAMOKU,1924 Paris,Swimming,Men's,100m freestyle
+Summer,1924,Bronze,USA,United States,Samuel KAHANAMOKU,1924 Paris,Swimming,Men's,100m freestyle
+Summer,1924,Gold,USA,United States,Johnny WEISSMULLER,1924 Paris,Swimming,Men's,400m freestyle
+Summer,1924,Silver,SWE,Sweden,Arne BORG,1924 Paris,Swimming,Men's,400m freestyle
+Summer,1924,Bronze,AUS,Australia,Andrew CHARLTON,1924 Paris,Swimming,Men's,400m freestyle
+Summer,1924,Gold,AUS,Australia,Andrew CHARLTON,1924 Paris,Swimming,Men's,1500m freestyle
+Summer,1924,Silver,SWE,Sweden,Arne BORG,1924 Paris,Swimming,Men's,1500m freestyle
+Summer,1924,Bronze,AUS,Australia,Frank BEAUREPAIRE,1924 Paris,Swimming,Men's,1500m freestyle
+Summer,1924,Gold,USA,United States,Robert SKELTON,1924 Paris,Swimming,Men's,200m breaststroke
+Summer,1924,Silver,BEL,Belgium,Joseph DE COMBE,1924 Paris,Swimming,Men's,200m breaststroke
+Summer,1924,Bronze,USA,United States,William KIRSCHBAUM,1924 Paris,Swimming,Men's,200m breaststroke
+Summer,1924,Gold,USA,United States,Warren Paoa KEALOHA,1924 Paris,Swimming,Men's,100m backstroke
+Summer,1924,Silver,USA,United States,Paul WYATT,1924 Paris,Swimming,Men's,100m backstroke
+Summer,1924,Bronze,HUN,Hungary,Károly BARTHA,1924 Paris,Swimming,Men's,100m backstroke
+Summer,1924,Gold,USA,United States,"Harrison Smith GLANCY, Ralph BREYER, Wallace O'CONNOR, Johnny WEISSMULLER, Lester SMITH, Richard HOWELL",1924 Paris,Swimming,Men's,4x200m freestyle relay
+Summer,1924,Silver,AUS,Australia,"Maurice CHRISTIE, Andrew CHARLTON, Frank BEAUREPAIRE, Ivan STEDMAN, Ernest HENRY",1924 Paris,Swimming,Men's,4x200m freestyle relay
+Summer,1924,Bronze,SWE,Sweden,"Orvar TROLLE, Gösta PERSSON, Thor HENNING, Arne BORG, Åke BORG, Georg WERNER",1924 Paris,Swimming,Men's,4x200m freestyle relay
+Summer,1924,Gold,USA,United States,Ethel LACKIE,1924 Paris,Swimming,Women's,100m freestyle
+Summer,1924,Silver,USA,United States,Mariechen WEHSELAU,1924 Paris,Swimming,Women's,100m freestyle
+Summer,1924,Bronze,USA,United States,Gertrude EDERLE,1924 Paris,Swimming,Women's,100m freestyle
+Summer,1924,Gold,USA,United States,Martha NORELIUS,1924 Paris,Swimming,Women's,400m freestyle
+Summer,1924,Silver,USA,United States,Helen WAINWRIGHT,1924 Paris,Swimming,Women's,400m freestyle
+Summer,1924,Bronze,USA,United States,Gertrude EDERLE,1924 Paris,Swimming,Women's,400m freestyle
+Summer,1924,Gold,GBR,Great Britain,Lucy MORTON,1924 Paris,Swimming,Women's,200m breaststroke
+Summer,1924,Silver,USA,United States,Agnes GERAGHTY,1924 Paris,Swimming,Women's,200m breaststroke
+Summer,1924,Bronze,GBR,Great Britain,Gladys CARSON,1924 Paris,Swimming,Women's,200m breaststroke
+Summer,1924,Gold,USA,United States,Sybil BAUER,1924 Paris,Swimming,Women's,100m backstroke
+Summer,1924,Silver,GBR,Great Britain,Phyllis HARDING,1924 Paris,Swimming,Women's,100m backstroke
+Summer,1924,Bronze,USA,United States,Aileen RIGGIN,1924 Paris,Swimming,Women's,100m backstroke
+Summer,1924,Gold,USA,United States,"Ethel LACKIE, Euphrasia DONNELLY, Helen WAINWRIGHT, Martha NORELIUS, Gertrude EDERLE, Mariechen WEHSELAU",1924 Paris,Swimming,Women's,4x100m freestyle relay
+Summer,1924,Silver,GBR,Great Britain,"J. E. HATCH, Florence BARKER, Irene Vera TANNER, Grace MCKENZIE, P. GANT, Constance JEANS",1924 Paris,Swimming,Women's,4x100m freestyle relay
+Summer,1924,Bronze,SWE,Sweden,"Wivan PETTERSSON, Gulli EWERLUND, Aina BERG, Jane GYLLING, Hjördis TÖPEL",1924 Paris,Swimming,Women's,4x100m freestyle relay
+Summer,1924,Gold,USA,United States,Vincent RICHARDS,1924 Paris,Tennis,Men's,singles
+Summer,1924,Silver,FRA,France,Henri COCHET,1924 Paris,Tennis,Men's,singles
+Summer,1924,Bronze,ITA,Italy,Umberto DE MORPURGO,1924 Paris,Tennis,Men's,singles
+Summer,1924,Gold,USA,United States,"Vincent RICHARDS, Francis Townsend HUNTER",1924 Paris,Tennis,Men's,doubles
+Summer,1924,Silver,FRA,France,"Henri COCHET, Jacques BRUGNON",1924 Paris,Tennis,Men's,doubles
+Summer,1924,Bronze,FRA,France,"René LACOSTE, Jean BOROTRA",1924 Paris,Tennis,Men's,doubles
+Summer,1924,Gold,USA,United States,Helen WILLS,1924 Paris,Tennis,Women's,singles
+Summer,1924,Silver,FRA,France,Julie VLASTO,1924 Paris,Tennis,Women's,singles
+Summer,1924,Bronze,GBR,Great Britain,Kitty MCKANE,1924 Paris,Tennis,Women's,singles
+Summer,1924,Gold,USA,United States,"Hazel WIGHTMAN, Helen WILLS",1924 Paris,Tennis,Women's,doubles
+Summer,1924,Silver,GBR,Great Britain,"Phyllis COVELL, Kitty MCKANE",1924 Paris,Tennis,Women's,doubles
+Summer,1924,Bronze,GBR,Great Britain,"Dorothy SHEPHERD-BARRON, Evelyn COLYER",1924 Paris,Tennis,Women's,doubles
+Summer,1924,Gold,USA,United States,"Richard WILLIAMS, Hazel WIGHTMAN",1924 Paris,Tennis,Mixed,mixed doubles
+Summer,1924,Silver,USA,United States,"Marion JESSUP, Vincent RICHARDS",1924 Paris,Tennis,Mixed,mixed doubles
+Summer,1924,Bronze,NED,Netherlands,"Hendrik TIMMER, Kea BOUMAN",1924 Paris,Tennis,Mixed,mixed doubles
+Summer,1924,Gold,FRA,France,"Jean LASQUIN, R. BERTRAND, Paul DUJARDIN, Albert MAYAUD, Henri PADOU, J. PEROL, Robert DESMETTRE, Georges RIGAL, Albert DEBORGIES, A. FASANI, Noël DELBERGHE",1924 Paris,Water Polo,Men's,water polo
+Summer,1924,Silver,BEL,Belgium,"Jules THIRY, Georges FLEURIX, Pierre DEWIN, Jean-Pierre VERMETTEN, Gérard BLITZ, Maurice BLITZ, Albert DURANT, Joseph DE COMBE, Joseph CLUDTS, Joseph PLETINCKX, Paul GAILLY",1924 Paris,Water Polo,Men's,water polo
+Summer,1924,Bronze,USA,United States,"Arthur AUSTIN, Herbert VOLLMER, John NORTON, J. HANDY, Johnny WEISSMULLER, Oliver HORN, Wallace O'CONNOR, George MITCHELL, Frederick LAUER, George SCHROTH, E. COLLETT",1924 Paris,Water Polo,Men's,water polo
+Summer,1924,Gold,ITA,Italy,Pierino GABETTI,1924 Paris,Weightlifting,Men's,"- 60kg, one-two hand 5 events (featherweight)"
+Summer,1924,Silver,AUT,Austria,Andreas STADLER,1924 Paris,Weightlifting,Men's,"- 60kg, one-two hand 5 events (featherweight)"
+Summer,1924,Bronze,SUI,Switzerland,Arthur REINMANN,1924 Paris,Weightlifting,Men's,"- 60kg, one-two hand 5 events (featherweight)"
+Summer,1924,Gold,FRA,France,Edmond DECOTTIGNIES,1924 Paris,Weightlifting,Men's,"60 - 67.5kg, one-two hand 5 events (lightweight)"
+Summer,1924,Silver,AUT,Austria,Anton ZWERINA,1924 Paris,Weightlifting,Men's,"60 - 67.5kg, one-two hand 5 events (lightweight)"
+Summer,1924,Bronze,TCH,Czechoslovakia,Bohumil DURDIS,1924 Paris,Weightlifting,Men's,"60 - 67.5kg, one-two hand 5 events (lightweight)"
+Summer,1924,Gold,ITA,Italy,Carlo GALIMBERTI,1924 Paris,Weightlifting,Men's,"67.5 - 75kg, one-two hand 5 events (middleweight)"
+Summer,1924,Silver,EST,Estonia,Alfred NEULAND,1924 Paris,Weightlifting,Men's,"67.5 - 75kg, one-two hand 5 events (middleweight)"
+Summer,1924,Bronze,EST,Estonia,Jaan KIKKAS,1924 Paris,Weightlifting,Men's,"67.5 - 75kg, one-two hand 5 events (middleweight)"
+Summer,1924,Gold,FRA,France,Charles RIGOULOT,1924 Paris,Weightlifting,Men's,"75 - 82.5kg, one-two hand 5 events (light-heavyweight)"
+Summer,1924,Silver,SUI,Switzerland,Fritz HÜNENBERGER,1924 Paris,Weightlifting,Men's,"75 - 82.5kg, one-two hand 5 events (light-heavyweight)"
+Summer,1924,Bronze,AUT,Austria,Leopold FRIEDRICH,1924 Paris,Weightlifting,Men's,"75 - 82.5kg, one-two hand 5 events (light-heavyweight)"
+Summer,1924,Gold,ITA,Italy,Giuseppe TONANI,1924 Paris,Weightlifting,Men's,"+ 82.5kg, one-two hand 5 events (heavyweight)"
+Summer,1924,Silver,AUT,Austria,Franz AIGNER,1924 Paris,Weightlifting,Men's,"+ 82.5kg, one-two hand 5 events (heavyweight)"
+Summer,1924,Bronze,EST,Estonia,Harald TAMMER,1924 Paris,Weightlifting,Men's,"+ 82.5kg, one-two hand 5 events (heavyweight)"
+Summer,1924,Gold,FIN,Finland,Kustaa PIHLAJAMÄKI,1924 Paris,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1924,Silver,FIN,Finland,Kaarlo MÄKINEN,1924 Paris,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1924,Bronze,USA,United States,Bryan HINES,1924 Paris,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1924,Gold,USA,United States,Robin REED,1924 Paris,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1924,Silver,USA,United States,Chester NEWTON,1924 Paris,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1924,Bronze,JPN,Japan,Katsutoshi NAITO,1924 Paris,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1924,Gold,USA,United States,Russell VIS,1924 Paris,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1924,Silver,FIN,Finland,Volmari WIKSTROM,1924 Paris,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1924,Bronze,FIN,Finland,Arvo HAAVISTO,1924 Paris,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1924,Gold,SUI,Switzerland,Hermann GEHRI,1924 Paris,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1924,Silver,FIN,Finland,Eino Augusti LEINO,1924 Paris,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1924,Bronze,SUI,Switzerland,Otto MÜLLER,1924 Paris,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1924,Gold,SUI,Switzerland,Fritz HAGMANN,1924 Paris,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1924,Silver,BEL,Belgium,Pierre OLLIVIER,1924 Paris,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1924,Bronze,FIN,Finland,Vilho PEKKALA,1924 Paris,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1924,Gold,USA,United States,John Franklin SPELLMAN,1924 Paris,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1924,Silver,SWE,Sweden,Rudolf SVENSSON,1924 Paris,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1924,Bronze,SUI,Switzerland,Charles COURANT,1924 Paris,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1924,Gold,USA,United States,Harry STEELE,1924 Paris,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1924,Silver,SUI,Switzerland,Henri WERNLI,1924 Paris,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1924,Bronze,GBR,Great Britain,Andrew MCDONALD,1924 Paris,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1924,Gold,EST,Estonia,Eduard PÜTSEP,1924 Paris,Wrestling Greco-Roman,Men's,- 58kg (bantamweight)
+Summer,1924,Silver,FIN,Finland,Anselm AHLFORS,1924 Paris,Wrestling Greco-Roman,Men's,- 58kg (bantamweight)
+Summer,1924,Bronze,FIN,Finland,Väinö IKONEN,1924 Paris,Wrestling Greco-Roman,Men's,- 58kg (bantamweight)
+Summer,1924,Gold,FIN,Finland,Kalle ANTTILA,1924 Paris,Wrestling Greco-Roman,Men's,58 - 62kg (featherweight)
+Summer,1924,Silver,FIN,Finland,Aleksander TOIVOLA,1924 Paris,Wrestling Greco-Roman,Men's,58 - 62kg (featherweight)
+Summer,1924,Bronze,SWE,Sweden,Eric MALMBERG,1924 Paris,Wrestling Greco-Roman,Men's,58 - 62kg (featherweight)
+Summer,1924,Gold,FIN,Finland,Oskar David FRIMAN,1924 Paris,Wrestling Greco-Roman,Men's,62 - 67.5kg (lightweight)
+Summer,1924,Silver,HUN,Hungary,Lajos KERESZTES,1924 Paris,Wrestling Greco-Roman,Men's,62 - 67.5kg (lightweight)
+Summer,1924,Bronze,FIN,Finland,Karl WESTERLUND,1924 Paris,Wrestling Greco-Roman,Men's,62 - 67.5kg (lightweight)
+Summer,1924,Gold,FIN,Finland,Edvard WESTERLUND,1924 Paris,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1924,Silver,FIN,Finland,Arthur LINDFORS,1924 Paris,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1924,Bronze,EST,Estonia,Roman STEINBERG,1924 Paris,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1924,Gold,SWE,Sweden,Carl WESTERGREN,1924 Paris,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1924,Silver,SWE,Sweden,Rudolf SVENSSON,1924 Paris,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1924,Bronze,FIN,Finland,Onni PELLINEN,1924 Paris,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1924,Gold,FRA,France,Henri DEGLANE,1924 Paris,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1924,Silver,FIN,Finland,Edil ROSENQVIST,1924 Paris,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1924,Bronze,HUN,Hungary,Rajmund BADÓ,1924 Paris,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1924,Gold,ARG,Argentina,"Guillermo NAYLOR, Arturo KENNY, Juan NELSON, Enrique PADILLA, Juan MILES, A. PENA",1924 Paris,Polo,Men's,polo
+Summer,1924,Silver,USA,United States,"Rodman WANAMAKER, G. MOORE, Frederick ROE, Elmer BOESEKE, Thomas HITCHCOCK",1924 Paris,Polo,Men's,polo
+Summer,1924,Bronze,GBR,Great Britain,"Percival WISE, Frederick BARRETT, Denis BINGHAM, Frederick GUEST, M. LANNOWE",1924 Paris,Polo,Men's,polo

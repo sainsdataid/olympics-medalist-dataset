@@ -1,0 +1,50 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1924,Gold,SUI,Switzerland,"Alfred SCHLÄPPI, Alfred NEVEU, Heinrich SCHLÄPPI, Eduard SCHERRER",1924 Chamonix,Bobsleigh,Men's,four-man
+Winter,1924,Silver,GBR,Great Britain,"Alexander RICHARDSON, Thomas ARNOLD, Ralph Howard BROOME, Rodney SOHER",1924 Chamonix,Bobsleigh,Men's,four-man
+Winter,1924,Bronze,BEL,Belgium,"Henri P. WILLEMS, Paul VAN DEN BROECK, Charles MULDER, René MORTIAUX, Victor VERSCHUEREN",1924 Chamonix,Bobsleigh,Men's,four-man
+Winter,1924,Gold,NOR,Norway,Thorleif HAUG,1924 Chamonix,Cross Country Skiing,Men's,18km
+Winter,1924,Silver,NOR,Norway,Johan GROTTUMSBRAATEN,1924 Chamonix,Cross Country Skiing,Men's,18km
+Winter,1924,Bronze,FIN,Finland,Tapani NIKU,1924 Chamonix,Cross Country Skiing,Men's,18km
+Winter,1924,Gold,NOR,Norway,Thorleif HAUG,1924 Chamonix,Cross Country Skiing,Men's,50km
+Winter,1924,Silver,NOR,Norway,Thoralf STRØMSTAD,1924 Chamonix,Cross Country Skiing,Men's,50km
+Winter,1924,Bronze,NOR,Norway,Johan GROTTUMSBRAATEN,1924 Chamonix,Cross Country Skiing,Men's,50km
+Winter,1924,Gold,GBR,Great Britain,"Robin WELSH, Willie JACKSON, R. COUSIN, V. BROWN, J. MC LEOD, T. AIKMAN, Tom MURRAY, D.-G. ASTLEY",1924 Chamonix,Curling,Men's,curling
+Winter,1924,Silver,SWE,Sweden,"Carl Axel KRONLUND, Victor WETTERSTRÖM, Karl-Erik WAHLBERG, Ture ÖDLUND, Carl Wilhelm PETERSÉN, Johan Petter ÅHLEN, Carl-Axel PETTERSSON, Erik SEVERIN",1924 Chamonix,Curling,Men's,curling
+Winter,1924,Bronze,FRA,France,"Armand BÉNÉDIC, P. CANIVET, Georges ANDRE, F. COURNOLLET, H. ALDEERT, R. PLANQUE",1924 Chamonix,Curling,Men's,curling
+Winter,1924,Gold,SWE,Sweden,Gillis GRAFSTRÖM,1924 Chamonix,Figure skating,Men's,individual
+Winter,1924,Silver,AUT,Austria,Willy BÖCKL,1924 Chamonix,Figure skating,Men's,individual
+Winter,1924,Bronze,SUI,Switzerland,Georges GAUTSCHI,1924 Chamonix,Figure skating,Men's,individual
+Winter,1924,Gold,AUT,Austria,Herma SZABO-PLANK,1924 Chamonix,Figure skating,Women's,individual
+Winter,1924,Silver,USA,United States,Beatrix LOUGHRAN,1924 Chamonix,Figure skating,Women's,individual
+Winter,1924,Bronze,GBR,Great Britain,Ethel MUCKELT,1924 Chamonix,Figure skating,Women's,individual
+Winter,1924,Gold,AUT,Austria,"Helene ENGELMANN, Alfred BERGER",1924 Chamonix,Figure skating,Mixed,pairs
+Winter,1924,Silver,FIN,Finland,"Walter JAKOBSSON, Ludowika JAKOBSSON",1924 Chamonix,Figure skating,Mixed,pairs
+Winter,1924,Bronze,FRA,France,"Andrée JOLY, Pierre BRUNET",1924 Chamonix,Figure skating,Mixed,pairs
+Winter,1924,Gold,CAN,Canada,"Jack CAMERON, Reginald SMITH, Ernie COLLETT, Harry WATSON, Cyril SLATER, Beattie RAMSAY, Albert MAC CAFFERY, Harold MCMUNN, Duncan MUNRO",1924 Chamonix,Ice Hockey,Men's,ice hockey
+Winter,1924,Silver,USA,United States,"Alphonse LACROIX, John LYONS, Frank SYNOTT, Willard RICE, Clarence ABEL, John LANGLEY, Irving SMALL, Herbert DRURY, N. GERAN, Justin MCCARTHY",1924 Chamonix,Ice Hockey,Men's,ice hockey
+Winter,1924,Bronze,GBR,Great Britain,"Ross CUTHBERT, Edward PITBLADO, B.-N. PATTON, George CLARKSON, Hamilton JUKES, George HOLMES, Colin CARRUTHERS, Eric CARRUTHERS, Blaine SEXTON, Lorne CARR-HARRIS, William ANDERSON, C.-B. BOULDEN",1924 Chamonix,Ice Hockey,Men's,ice hockey
+Winter,1924,Gold,NOR,Norway,Thorleif HAUG,1924 Chamonix,Nordic Combined,Men's,individual
+Winter,1924,Silver,NOR,Norway,Thoralf STRØMSTAD,1924 Chamonix,Nordic Combined,Men's,individual
+Winter,1924,Bronze,NOR,Norway,Johan GROTTUMSBRAATEN,1924 Chamonix,Nordic Combined,Men's,individual
+Winter,1924,Gold,NOR,Norway,Jacob Tullin THAMS,1924 Chamonix,Ski Jumping,Men's,Normal Hill individual
+Winter,1924,Silver,NOR,Norway,Narve BONNA,1924 Chamonix,Ski Jumping,Men's,Normal Hill individual
+Winter,1924,Bronze,USA,United States,Anders HAUGEN,1924 Chamonix,Ski Jumping,Men's,Normal Hill individual
+Winter,1924,Gold,FIN,Finland,Clas THUNBERG,1924 Chamonix,Speed skating,Men's,combined (4 events)
+Winter,1924,Silver,NOR,Norway,Roald LARSEN,1924 Chamonix,Speed skating,Men's,combined (4 events)
+Winter,1924,Bronze,FIN,Finland,Julius SKUTNABB,1924 Chamonix,Speed skating,Men's,combined (4 events)
+Winter,1924,Gold,USA,United States,Charles JEWTRAW,1924 Chamonix,Speed skating,Men's,500m
+Winter,1924,Silver,NOR,Norway,Oskar OLSEN,1924 Chamonix,Speed skating,Men's,500m
+Winter,1924,Bronze,FIN,Finland,Clas THUNBERG,1924 Chamonix,Speed skating,Men's,500m
+Winter,1924,Bronze,NOR,Norway,Roald LARSEN,1924 Chamonix,Speed skating,Men's,500m
+Winter,1924,Gold,FIN,Finland,Clas THUNBERG,1924 Chamonix,Speed skating,Men's,1500m
+Winter,1924,Silver,NOR,Norway,Roald LARSEN,1924 Chamonix,Speed skating,Men's,1500m
+Winter,1924,Bronze,NOR,Norway,Sigurd MOEN,1924 Chamonix,Speed skating,Men's,1500m
+Winter,1924,Gold,FIN,Finland,Clas THUNBERG,1924 Chamonix,Speed skating,Men's,5000m
+Winter,1924,Silver,FIN,Finland,Julius SKUTNABB,1924 Chamonix,Speed skating,Men's,5000m
+Winter,1924,Bronze,NOR,Norway,Roald LARSEN,1924 Chamonix,Speed skating,Men's,5000m
+Winter,1924,Gold,FIN,Finland,Julius SKUTNABB,1924 Chamonix,Speed skating,Men's,10000m
+Winter,1924,Silver,FIN,Finland,Clas THUNBERG,1924 Chamonix,Speed skating,Men's,10000m
+Winter,1924,Bronze,NOR,Norway,Roald LARSEN,1924 Chamonix,Speed skating,Men's,10000m
+Winter,1924,Gold,SUI,Switzerland,"D. VAUCHER, Ant. JULEN, Alphonse JULEN, Adolf AUFDENBLATTEN",1924 Chamonix,Military Patrol,Men's,military patrol
+Winter,1924,Silver,FIN,Finland,"H. HIRVONEN, A. ESKELINEN, Väinö Elias BREMER, Martti LAPPALAINEN",1924 Chamonix,Military Patrol,Men's,military patrol
+Winter,1924,Bronze,FRA,France,"C. MANDRILLON, Maurice MANDRILLON, G. BERTHET, André VANDELLE",1924 Chamonix,Military Patrol,Men's,military patrol

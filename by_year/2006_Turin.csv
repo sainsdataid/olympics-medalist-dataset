@@ -1,0 +1,253 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,2006,Gold,USA,United States,Ted LIGETY,2006 Turin,Alpine Skiing,Men's,Alpine combined
+Winter,2006,Silver,CRO,Croatia,Ivica KOSTELIC,2006 Turin,Alpine Skiing,Men's,Alpine combined
+Winter,2006,Bronze,AUT,Austria,Rainer SCHOENFELDER,2006 Turin,Alpine Skiing,Men's,Alpine combined
+Winter,2006,Gold,AUT,Austria,Benjamin RAICH,2006 Turin,Alpine Skiing,Men's,slalom
+Winter,2006,Silver,AUT,Austria,Reinfried HERBST,2006 Turin,Alpine Skiing,Men's,slalom
+Winter,2006,Bronze,AUT,Austria,Rainer SCHOENFELDER,2006 Turin,Alpine Skiing,Men's,slalom
+Winter,2006,Gold,AUT,Austria,Benjamin RAICH,2006 Turin,Alpine Skiing,Men's,giant slalom
+Winter,2006,Silver,FRA,France,Joel CHENAL,2006 Turin,Alpine Skiing,Men's,giant slalom
+Winter,2006,Bronze,AUT,Austria,Hermann MAIER,2006 Turin,Alpine Skiing,Men's,giant slalom
+Winter,2006,Gold,NOR,Norway,Kjetil André AAMODT,2006 Turin,Alpine Skiing,Men's,super-G
+Winter,2006,Silver,AUT,Austria,Hermann MAIER,2006 Turin,Alpine Skiing,Men's,super-G
+Winter,2006,Bronze,SUI,Switzerland,Ambrosi HOFFMANN,2006 Turin,Alpine Skiing,Men's,super-G
+Winter,2006,Gold,FRA,France,Antoine DENERIAZ,2006 Turin,Alpine Skiing,Men's,downhill
+Winter,2006,Silver,AUT,Austria,Michael WALCHHOFER,2006 Turin,Alpine Skiing,Men's,downhill
+Winter,2006,Bronze,SUI,Switzerland,Bruno KERNEN,2006 Turin,Alpine Skiing,Men's,downhill
+Winter,2006,Gold,CRO,Croatia,Janica KOSTELIC,2006 Turin,Alpine Skiing,Women's,Alpine combined
+Winter,2006,Silver,AUT,Austria,Marlies SCHILD,2006 Turin,Alpine Skiing,Women's,Alpine combined
+Winter,2006,Bronze,SWE,Sweden,Anja PAERSON,2006 Turin,Alpine Skiing,Women's,Alpine combined
+Winter,2006,Gold,SWE,Sweden,Anja PAERSON,2006 Turin,Alpine Skiing,Women's,slalom
+Winter,2006,Silver,AUT,Austria,Nicole HOSP,2006 Turin,Alpine Skiing,Women's,slalom
+Winter,2006,Bronze,AUT,Austria,Marlies SCHILD,2006 Turin,Alpine Skiing,Women's,slalom
+Winter,2006,Gold,USA,United States,Julia MANCUSO,2006 Turin,Alpine Skiing,Women's,giant slalom
+Winter,2006,Silver,FIN,Finland,Tanja POUTIAINEN,2006 Turin,Alpine Skiing,Women's,giant slalom
+Winter,2006,Bronze,SWE,Sweden,Anna OTTOSSON,2006 Turin,Alpine Skiing,Women's,giant slalom
+Winter,2006,Gold,AUT,Austria,Michaela DORFMEISTER,2006 Turin,Alpine Skiing,Women's,super-G
+Winter,2006,Silver,CRO,Croatia,Janica KOSTELIC,2006 Turin,Alpine Skiing,Women's,super-G
+Winter,2006,Bronze,AUT,Austria,Alexandra MEISSNITZER,2006 Turin,Alpine Skiing,Women's,super-G
+Winter,2006,Gold,AUT,Austria,Michaela DORFMEISTER,2006 Turin,Alpine Skiing,Women's,downhill
+Winter,2006,Silver,SUI,Switzerland,Martina SCHILD,2006 Turin,Alpine Skiing,Women's,downhill
+Winter,2006,Bronze,SWE,Sweden,Anja PAERSON,2006 Turin,Alpine Skiing,Women's,downhill
+Winter,2006,Gold,GER,Germany,Sven FISCHER,2006 Turin,Biathlon,Men's,10km sprint
+Winter,2006,Silver,NOR,Norway,Halvard HANEVOLD,2006 Turin,Biathlon,Men's,10km sprint
+Winter,2006,Bronze,NOR,Norway,Frode ANDRESEN,2006 Turin,Biathlon,Men's,10km sprint
+Winter,2006,Gold,FRA,France,Vincent DEFRASNE,2006 Turin,Biathlon,Men's,12.5km pursuit
+Winter,2006,Silver,NOR,Norway,Ole Einar BJOERNDALEN,2006 Turin,Biathlon,Men's,12.5km pursuit
+Winter,2006,Bronze,GER,Germany,Sven FISCHER,2006 Turin,Biathlon,Men's,12.5km pursuit
+Winter,2006,Gold,GER,Germany,Michael GREIS,2006 Turin,Biathlon,Men's,20km individual
+Winter,2006,Silver,NOR,Norway,Ole Einar BJOERNDALEN,2006 Turin,Biathlon,Men's,20km individual
+Winter,2006,Bronze,NOR,Norway,Halvard HANEVOLD,2006 Turin,Biathlon,Men's,20km individual
+Winter,2006,Gold,GER,Germany,Michael GREIS,2006 Turin,Biathlon,Men's,15km mass start
+Winter,2006,Silver,POL,Poland,Tomasz SIKORA,2006 Turin,Biathlon,Men's,15km mass start
+Winter,2006,Bronze,NOR,Norway,Ole Einar BJOERNDALEN,2006 Turin,Biathlon,Men's,15km mass start
+Winter,2006,Gold,GER,Germany,"Michael GREIS, Sven FISCHER, Michael ROESCH, Ricco GROß",2006 Turin,Biathlon,Men's,4x7.5km relay
+Winter,2006,Silver,RUS,Russian Federation,"Nikolay KRUGLOV, Sergei TCHEPIKOV, Ivan TCHEREZOV, Pavel ROSTOVTSEV",2006 Turin,Biathlon,Men's,4x7.5km relay
+Winter,2006,Bronze,FRA,France,"Ferreol CANNARD, Julien ROBERT, Raphaël POIRÉE, Vincent DEFRASNE",2006 Turin,Biathlon,Men's,4x7.5km relay
+Winter,2006,Gold,FRA,France,Florence BAVEREL,2006 Turin,Biathlon,Women's,7.5km sprint
+Winter,2006,Silver,SWE,Sweden,Anna Carin OLOFSSON-ZIDEK,2006 Turin,Biathlon,Women's,7.5km sprint
+Winter,2006,Bronze,UKR,Ukraine,Lilia VAYGINA-EFREMOVA,2006 Turin,Biathlon,Women's,7.5km sprint
+Winter,2006,Gold,GER,Germany,Kati WILHELM,2006 Turin,Biathlon,Women's,10km pursuit
+Winter,2006,Silver,GER,Germany,Martina BECK,2006 Turin,Biathlon,Women's,10km pursuit
+Winter,2006,Bronze,RUS,Russian Federation,Albina AKHATOVA,2006 Turin,Biathlon,Women's,10km pursuit
+Winter,2006,Gold,RUS,Russian Federation,Svetlana ISHMOURATOVA,2006 Turin,Biathlon,Women's,15km individual
+Winter,2006,Silver,GER,Germany,Martina BECK,2006 Turin,Biathlon,Women's,15km individual
+Winter,2006,Bronze,RUS,Russian Federation,Albina AKHATOVA,2006 Turin,Biathlon,Women's,15km individual
+Winter,2006,Gold,SWE,Sweden,Anna Carin OLOFSSON-ZIDEK,2006 Turin,Biathlon,Women's,12.5km mass start
+Winter,2006,Silver,GER,Germany,Kati WILHELM,2006 Turin,Biathlon,Women's,12.5km mass start
+Winter,2006,Bronze,GER,Germany,Uschi DISL,2006 Turin,Biathlon,Women's,12.5km mass start
+Winter,2006,Gold,RUS,Russian Federation,"Anna BOGALIY, Svetlana ISHMOURATOVA, Albina AKHATOVA, Olga ZAITSEVA",2006 Turin,Biathlon,Women's,4x6km relay
+Winter,2006,Silver,GER,Germany,"Katrin APEL, Kati WILHELM, Martina BECK, Andrea HENKEL",2006 Turin,Biathlon,Women's,4x6km relay
+Winter,2006,Bronze,FRA,France,"Sylvie BECAERT, Delphyne PERETTO, Sandrine BAILLY, Florence BAVEREL",2006 Turin,Biathlon,Women's,4x6km relay
+Winter,2006,Gold,GER,Germany,"Kevin KUSKE, Andre LANGE",2006 Turin,Bobsleigh,Men's,two-man
+Winter,2006,Silver,CAN,Canada,"Pierre LUEDERS, Lascelles Oneil BROWN",2006 Turin,Bobsleigh,Men's,two-man
+Winter,2006,Bronze,SUI,Switzerland,"Beat HEFTI, Martin ANNEN",2006 Turin,Bobsleigh,Men's,two-man
+Winter,2006,Gold,GER,Germany,"Rene HOPPE, Kevin KUSKE, Andre LANGE, Martin PUTZE",2006 Turin,Bobsleigh,Men's,four-man
+Winter,2006,Silver,RUS,Russian Federation,"Alexey VOEVODA, Philippe EGOROV, Alexey SELIVERSTOV, Alexander ZUBKOV",2006 Turin,Bobsleigh,Men's,four-man
+Winter,2006,Bronze,SUI,Switzerland,"Cedric GRAND, Beat HEFTI, Thomas LAMPARTER, Martin ANNEN",2006 Turin,Bobsleigh,Men's,four-man
+Winter,2006,Gold,GER,Germany,"Sandra PROKOFF, Anja SCHNEIDERHEINZE",2006 Turin,Bobsleigh,Women's,two-woman
+Winter,2006,Silver,USA,United States,"Shauna ROHBOCK, Valerie FLEMING",2006 Turin,Bobsleigh,Women's,two-woman
+Winter,2006,Bronze,ITA,Italy,"Jennifer ISACCO, Gerda WEISSENSTEINER",2006 Turin,Bobsleigh,Women's,two-woman
+Winter,2006,Gold,SWE,Sweden,Bjoern LIND,2006 Turin,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2006,Silver,FRA,France,Roddy DARRAGON,2006 Turin,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2006,Bronze,SWE,Sweden,Thobias FREDRIKSSON,2006 Turin,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2006,Gold,RUS,Russian Federation,Eugeniy DEMENTIEV,2006 Turin,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2006,Silver,NOR,Norway,Frode ESTIL,2006 Turin,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2006,Bronze,ITA,Italy,Pietro PILLER COTTRER,2006 Turin,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2006,Gold,EST,Estonia,Andrus VEERPALU,2006 Turin,Cross Country Skiing,Men's,15km
+Winter,2006,Silver,CZE,Czech Republic,Lukas BAUER,2006 Turin,Cross Country Skiing,Men's,15km
+Winter,2006,Bronze,GER,Germany,Tobias ANGERER,2006 Turin,Cross Country Skiing,Men's,15km
+Winter,2006,Gold,ITA,Italy,Giorgio DI CENTA,2006 Turin,Cross Country Skiing,Men's,50km mass start
+Winter,2006,Silver,RUS,Russian Federation,Eugeniy DEMENTIEV,2006 Turin,Cross Country Skiing,Men's,50km mass start
+Winter,2006,Bronze,AUT,Austria,Mikhail BOTVINOV,2006 Turin,Cross Country Skiing,Men's,50km mass start
+Winter,2006,Gold,SWE,Sweden,"Bjoern LIND, Thobias FREDRIKSSON",2006 Turin,Cross Country Skiing,Men's,Team Sprint
+Winter,2006,Silver,NOR,Norway,"Tor Arne HETLAND, Jens Arne SVARTEDAL",2006 Turin,Cross Country Skiing,Men's,Team Sprint
+Winter,2006,Bronze,RUS,Russian Federation,"Ivan ALYPOV, Vasily ROTCHEV",2006 Turin,Cross Country Skiing,Men's,Team Sprint
+Winter,2006,Gold,ITA,Italy,"Giorgio DI CENTA, Pietro PILLER COTTRER, Cristian ZORZI, Fulvio VALBUSA",2006 Turin,Cross Country Skiing,Men's,4x10km relay
+Winter,2006,Silver,GER,Germany,"Andreas SCHLÜTTER, Jens FILBRICH, René SOMMERFELDT, Tobias ANGERER",2006 Turin,Cross Country Skiing,Men's,4x10km relay
+Winter,2006,Bronze,SWE,Sweden,"Anders SOEDERGREN, Johan OLSSON, Mats LARSSON, Mathias FREDRIKSSON",2006 Turin,Cross Country Skiing,Men's,4x10km relay
+Winter,2006,Gold,CAN,Canada,Chandra CRAWFORD,2006 Turin,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2006,Silver,GER,Germany,Claudia NYSTAD,2006 Turin,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2006,Bronze,RUS,Russian Federation,Alena SIDKO,2006 Turin,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2006,Gold,EST,Estonia,Kristina SMIGUN,2006 Turin,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2006,Silver,CZE,Czech Republic,Katerina NEUMANNOVÁ,2006 Turin,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2006,Bronze,RUS,Russian Federation,Evgenia MEDVEDEVA-ABRUZOVA,2006 Turin,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2006,Gold,EST,Estonia,Kristina SMIGUN,2006 Turin,Cross Country Skiing,Women's,10km
+Winter,2006,Silver,NOR,Norway,Marit BJOERGEN,2006 Turin,Cross Country Skiing,Women's,10km
+Winter,2006,Bronze,NOR,Norway,Hilde G PEDERSEN,2006 Turin,Cross Country Skiing,Women's,10km
+Winter,2006,Gold,CZE,Czech Republic,Katerina NEUMANNOVÁ,2006 Turin,Cross Country Skiing,Women's,30km mass start
+Winter,2006,Silver,RUS,Russian Federation,Yuliya Anatolyevna CHEPALOVA,2006 Turin,Cross Country Skiing,Women's,30km mass start
+Winter,2006,Bronze,POL,Poland,Justyna KOWALCZYK,2006 Turin,Cross Country Skiing,Women's,30km mass start
+Winter,2006,Gold,SWE,Sweden,"Lina ANDERSSON, Anna DAHLBERG",2006 Turin,Cross Country Skiing,Women's,Team Sprint
+Winter,2006,Silver,CAN,Canada,"Beckie SCOTT, Sara RENNER",2006 Turin,Cross Country Skiing,Women's,Team Sprint
+Winter,2006,Bronze,FIN,Finland,"Virpi KUITUNEN, Aino Kaisa SAARINEN",2006 Turin,Cross Country Skiing,Women's,Team Sprint
+Winter,2006,Gold,RUS,Russian Federation,"Evgenia MEDVEDEVA-ABRUZOVA, Yuliya Anatolyevna CHEPALOVA, Larisa KURKINA, Natalia BARANOVA-MASOLKINA",2006 Turin,Cross Country Skiing,Women's,4x5km relay
+Winter,2006,Silver,GER,Germany,"Viola BAUER, Claudia NYSTAD, Evi SACHENBACHER-STEHLE, Stefanie BOEHLER",2006 Turin,Cross Country Skiing,Women's,4x5km relay
+Winter,2006,Bronze,ITA,Italy,"Antonella CONFORTOLA, Gabriella PARUZZI, Sabina VALBUSA, Arianna FOLLIS",2006 Turin,Cross Country Skiing,Women's,4x5km relay
+Winter,2006,Gold,CAN,Canada,"Mark NICHOLS, Bradley Raymond GUSHUE, Mike ADAM, Russ HOWARD, Jamie KORAB",2006 Turin,Curling,Men's,curling
+Winter,2006,Silver,FIN,Finland,"Kalle KIISKINEN, Teemu SALO, Markku UUSIPAAVALNIEMI, Wille MAKELA, Jani SULLANMAA",2006 Turin,Curling,Men's,curling
+Winter,2006,Bronze,USA,United States,"Shawn ROJESKI, Scott BAIRD, Joe POLO, John SHUSTER, Pete FENSON",2006 Turin,Curling,Men's,curling
+Winter,2006,Gold,SWE,Sweden,"Anette NORBERG, Eva LUND, Ulrika BERGMAN, Cathrine NORBERG, Anna SVAERD",2006 Turin,Curling,Women's,curling
+Winter,2006,Silver,SUI,Switzerland,"Binia FELTSCHER, Mirjam OTT, Valeria SPAELTY, Michele MOSER, Manuela KORMANN",2006 Turin,Curling,Women's,curling
+Winter,2006,Bronze,CAN,Canada,"Amy NIXON, Shannon KLEIBRINK, Christine KESHEN, Glenys BAKKER, Sandra JENKINS",2006 Turin,Curling,Women's,curling
+Winter,2006,Gold,RUS,Russian Federation,Evgeni PLUSHENKO,2006 Turin,Figure skating,Men's,individual
+Winter,2006,Silver,SUI,Switzerland,Stephane LAMBIEL,2006 Turin,Figure skating,Men's,individual
+Winter,2006,Bronze,CAN,Canada,Jeffrey BUTTLE,2006 Turin,Figure skating,Men's,individual
+Winter,2006,Gold,JPN,Japan,Shizuka ARAKAWA,2006 Turin,Figure skating,Women's,individual
+Winter,2006,Silver,USA,United States,Sasha COHEN,2006 Turin,Figure skating,Women's,individual
+Winter,2006,Bronze,RUS,Russian Federation,Irina SLUTSKAYA,2006 Turin,Figure skating,Women's,individual
+Winter,2006,Gold,RUS,Russian Federation,"Tatiana TOTMIANINA, Maxim MARININ",2006 Turin,Figure skating,Mixed,pairs
+Winter,2006,Silver,CHN,China,"Dan ZHANG, Hao ZHANG",2006 Turin,Figure skating,Mixed,pairs
+Winter,2006,Bronze,CHN,China,"Xue SHEN, Hongbo ZHAO",2006 Turin,Figure skating,Mixed,pairs
+Winter,2006,Gold,RUS,Russian Federation,"Tatyana NAVKA, Roman KOSTOMAROV",2006 Turin,Figure skating,Mixed,ice dancing
+Winter,2006,Silver,USA,United States,"Benjamin AGOSTO, Tanith BELBIN",2006 Turin,Figure skating,Mixed,ice dancing
+Winter,2006,Bronze,UKR,Ukraine,"Ruslan GONCHAROV, Elena GRUSHINA",2006 Turin,Figure skating,Mixed,ice dancing
+Winter,2006,Gold,CHN,China,Xiaopeng HAN,2006 Turin,Freestyle Skiing,Men's,aerials
+Winter,2006,Silver,BLR,Belarus,Dmitri DASHCHINSKY,2006 Turin,Freestyle Skiing,Men's,aerials
+Winter,2006,Bronze,RUS,Russian Federation,Vladimir LEBEDEV,2006 Turin,Freestyle Skiing,Men's,aerials
+Winter,2006,Gold,AUS,Australia,Dale BEGG-SMITH,2006 Turin,Freestyle Skiing,Men's,moguls
+Winter,2006,Silver,FIN,Finland,Mikko RONKAINEN,2006 Turin,Freestyle Skiing,Men's,moguls
+Winter,2006,Bronze,USA,United States,Toby DAWSON,2006 Turin,Freestyle Skiing,Men's,moguls
+Winter,2006,Gold,SUI,Switzerland,Evelyne LEU,2006 Turin,Freestyle Skiing,Women's,aerials
+Winter,2006,Silver,CHN,China,Nina LI,2006 Turin,Freestyle Skiing,Women's,aerials
+Winter,2006,Bronze,AUS,Australia,Alisa CAMPLIN,2006 Turin,Freestyle Skiing,Women's,aerials
+Winter,2006,Gold,CAN,Canada,Jennifer HEIL,2006 Turin,Freestyle Skiing,Women's,moguls
+Winter,2006,Silver,NOR,Norway,Kari TRAA,2006 Turin,Freestyle Skiing,Women's,moguls
+Winter,2006,Bronze,FRA,France,Sandra LAOURA,2006 Turin,Freestyle Skiing,Women's,moguls
+Winter,2006,Gold,SWE,Sweden,"Nicklas LIDSTRÖM, Ronnie SUNDIN, Tomas HOLMSTROM, Daniel TJARNQVIST, Daniel ALFREDSSON, Samuel PAHLSSON, Mattias ÖHLUND, Peter FORSBERG, Kenny JÖNSSON, Niclas HAVELID, Jörgen JÖNSSON, Henrik ZETTERBERG, Niklas KRONWALL, Mikael TELLQVIST, Per-Johan AXELSSON, Stefan LIV, Daniel SEDIN, Mikael SAMUELSSON, Henrik SEDIN, Mats SUNDIN, Henrik LUNDQVIST, Mika HANNULA, Fredrik MODIN, Christian BACKMAN",2006 Turin,Ice Hockey,Men's,ice hockey
+Winter,2006,Silver,FIN,Finland,"Sami SALO, Antero NIITTYMAKI, Antti LAAKSONEN, Niklas HAGMAN, Olli JOKINEN, Toni LYDMAN, Jussi JOKINEN, Petteri NUMMELIN, Teppo NUMMINEN, Saku KOIVU, Mikko KOIVU, Aki-Petteri BERG, Jarkko RUUTU, Lasse KUKKONEN, Fredrik NORRENA, Ville PELTONEN, Niklas BACKSTROM, Ville NIEMINEN, Kimmo TIMONEN, Jukka HENTUNEN, Niko KAPANEN, Teemu SELANNE, Antti-Jussi NIEMI, Jere LEHTINEN",2006 Turin,Ice Hockey,Men's,ice hockey
+Winter,2006,Bronze,CZE,Czech Republic,"Dominik HASEK, Ales KOTALIK, Milan HNILICKA, Martin RUCINSKÝ, Martin STRAKA, Jan BULIS, Tomas VOKOUN, Jaroslav ?PACEK, Pavel KUBINA, Frantisek KABERLE, Milan HEJDUK, Robert LANG, Tomas KABERLE, Dusan SALFICKY, Marek ZIDLICKY, Patrik ELIAS, Vaclav PROSPAL, Ales HEMSKY, Martin ERAT, Rostislav OLESZ, Petr CAJANEK, David VYBORNY, Jaromir JAGR, Filip KUBA, Marek MALIK",2006 Turin,Ice Hockey,Men's,ice hockey
+Winter,2006,Gold,CAN,Canada,"Jayna HEFFORD, Danielle GOYETTE, Gillian FERRARI, Katie WEATHERSTON, Carla MACLEOD, Meghan AGOSTA, Vicky SUNOHARA, Cassie CAMPBELL, Becky KELLAR, Sarah VAILLANCOURT, Charline LABONTE, Cherie PIPER, Caroline OUELLETTE, Colleen SOSTORICS, Gillian APPS, Gina KINGSBURY, Cheryl POUNDER, Jennifer BOTTERILL, Hayley WICKENHEISER",2006 Turin,Ice Hockey,Women's,ice hockey
+Winter,2006,Silver,SWE,Sweden,"Ann-Louise EDSTRAND, Erika HOLST, Jenni ASSERHOLT, Kim MARTIN HASSON, Anna VIKMAN, Joa ELFSBERG, Frida NEVALAINEN, Nanna JANSSON, Pernilla WINBERG, Emma ELIASSON, Emilie O KONOR, Therese SJOLANDER, Ylva LINDBERG, Katarina TIMGLAS, Gunilla ANDERSSON, Maria ROOTH, Cecilia ANDERSSON, Danijela RUNDQVIST, Kristina LUNDBERG, Jenny LINDQVIST",2006 Turin,Ice Hockey,Women's,ice hockey
+Winter,2006,Bronze,USA,United States,"Julie CHU, Kristin KING, Kelly STEPHENS, Katie KING, Chanda GUNN, Kim INSALACO, Angela RUGGIERO, Courtney KENNEDY, Tricia DUNN-LUOMA, Jamie HAGERMAN, Caitlin CAHOW, Molly ENGSTROM, Pam DREYER, Natalie DARWITZ, Helen RESOR, Krissy WENDELL, Kathleen KAUTH, Lyndsay WALL, Sarah PARSONS, Jenny POTTER",2006 Turin,Ice Hockey,Women's,ice hockey
+Winter,2006,Gold,ITA,Italy,Armin ZÖGGELER,2006 Turin,Luge,Men's,singles
+Winter,2006,Silver,RUS,Russian Federation,Albert DEMTSCHENKO,2006 Turin,Luge,Men's,singles
+Winter,2006,Bronze,LAT,Latvia,Martins RUBENIS,2006 Turin,Luge,Men's,singles
+Winter,2006,Gold,GER,Germany,Sylke OTTO,2006 Turin,Luge,Women's,singles
+Winter,2006,Silver,GER,Germany,Silke KRAUSHAAR,2006 Turin,Luge,Women's,singles
+Winter,2006,Bronze,GER,Germany,Tatjana HUEFNER,2006 Turin,Luge,Women's,singles
+Winter,2006,Gold,AUT,Austria,"Andreas LINGER, Wolfgang LINGER",2006 Turin,Luge,Mixed,doubles
+Winter,2006,Silver,GER,Germany,"Andre FLORSCHUETZ, Torsten WUSTLICH",2006 Turin,Luge,Mixed,doubles
+Winter,2006,Bronze,ITA,Italy,"Gerhard PLANKENSTEINER, Oswald HASELRIEDER",2006 Turin,Luge,Mixed,doubles
+Winter,2006,Gold,GER,Germany,Georg HETTICH,2006 Turin,Nordic Combined,Men's,individual
+Winter,2006,Silver,AUT,Austria,Felix GOTTWALD,2006 Turin,Nordic Combined,Men's,individual
+Winter,2006,Bronze,NOR,Norway,Magnus Hovdal MOAN,2006 Turin,Nordic Combined,Men's,individual
+Winter,2006,Gold,AUT,Austria,Felix GOTTWALD,2006 Turin,Nordic Combined,Men's,Individual sprint
+Winter,2006,Silver,NOR,Norway,Magnus Hovdal MOAN,2006 Turin,Nordic Combined,Men's,Individual sprint
+Winter,2006,Bronze,GER,Germany,Georg HETTICH,2006 Turin,Nordic Combined,Men's,Individual sprint
+Winter,2006,Gold,AUT,Austria,"Mario STECHER, Felix GOTTWALD, Michael GRUBER, Christoph BIELER",2006 Turin,Nordic Combined,Men's,team
+Winter,2006,Silver,GER,Germany,"Jens GAISER, Georg HETTICH, Bjoern KIRCHEISEN, Ronny ACKERMANN",2006 Turin,Nordic Combined,Men's,team
+Winter,2006,Bronze,FIN,Finland,"Antti KUISMA, Anssi KOIVURANTA, Jaakko TALLUS, Hannu MANNINEN",2006 Turin,Nordic Combined,Men's,team
+Winter,2006,Gold,USA,United States,Apolo Anton OHNO,2006 Turin,Short Track Speed Skating,Men's,500m
+Winter,2006,Silver,CAN,Canada,Francois-Louis TREMBLAY,2006 Turin,Short Track Speed Skating,Men's,500m
+Winter,2006,Bronze,KOR,Korea Republic,Victor AN,2006 Turin,Short Track Speed Skating,Men's,500m
+Winter,2006,Gold,KOR,Korea Republic,Victor AN,2006 Turin,Short Track Speed Skating,Men's,1000m
+Winter,2006,Silver,KOR,Korea Republic,Ho-Suk LEE,2006 Turin,Short Track Speed Skating,Men's,1000m
+Winter,2006,Bronze,USA,United States,Apolo Anton OHNO,2006 Turin,Short Track Speed Skating,Men's,1000m
+Winter,2006,Gold,KOR,Korea Republic,Victor AN,2006 Turin,Short Track Speed Skating,Men's,1500m
+Winter,2006,Silver,KOR,Korea Republic,Ho-Suk LEE,2006 Turin,Short Track Speed Skating,Men's,1500m
+Winter,2006,Bronze,CHN,China,JiaJun LI,2006 Turin,Short Track Speed Skating,Men's,1500m
+Winter,2006,Gold,KOR,Korea Republic,"Se-Jong OH, Suk-Woo SONG, Ho-Jin SEO, Victor AN, Ho-Suk LEE",2006 Turin,Short Track Speed Skating,Men's,5000m relay
+Winter,2006,Silver,CAN,Canada,"Mathieu TURCOTTE, Jonathan GUILMETTE, Francois-Louis TREMBLAY, Charles HAMELIN, Éric BÉDARD",2006 Turin,Short Track Speed Skating,Men's,5000m relay
+Winter,2006,Bronze,USA,United States,"J. P. KEPKA, Rusty SMITH, Alex IZYKOWSKI, Apolo Anton OHNO",2006 Turin,Short Track Speed Skating,Men's,5000m relay
+Winter,2006,Gold,CHN,China,Meng WANG,2006 Turin,Short Track Speed Skating,Women's,500m
+Winter,2006,Silver,BUL,Bulgaria,Evgenia RADANOVA,2006 Turin,Short Track Speed Skating,Women's,500m
+Winter,2006,Bronze,CAN,Canada,Anouk LEBLANC-BOUCHER,2006 Turin,Short Track Speed Skating,Women's,500m
+Winter,2006,Gold,KOR,Korea Republic,Sun-Yu JIN,2006 Turin,Short Track Speed Skating,Women's,1000m
+Winter,2006,Silver,CHN,China,Meng WANG,2006 Turin,Short Track Speed Skating,Women's,1000m
+Winter,2006,Bronze,CHN,China,Yang YANG (A),2006 Turin,Short Track Speed Skating,Women's,1000m
+Winter,2006,Gold,KOR,Korea Republic,Sun-Yu JIN,2006 Turin,Short Track Speed Skating,Women's,1500m
+Winter,2006,Silver,KOR,Korea Republic,Eun-Kyung CHOI,2006 Turin,Short Track Speed Skating,Women's,1500m
+Winter,2006,Bronze,CHN,China,Meng WANG,2006 Turin,Short Track Speed Skating,Women's,1500m
+Winter,2006,Gold,KOR,Korea Republic,"Sun-Yu JIN, Yun-Mi KANG, Eun-Kyung CHOI, Da-Hye JEON, Chun-Sa BYUN",2006 Turin,Short Track Speed Skating,Women's,3000m relay
+Winter,2006,Silver,CAN,Canada,"Kalyna ROBERGE, Amanda OVERLAND, Tania VICENT, Alanna KRAUS, Anouk LEBLANC-BOUCHER",2006 Turin,Short Track Speed Skating,Women's,3000m relay
+Winter,2006,Bronze,ITA,Italy,"Katia ZINI, Mara ZINI, Marta CAPURSO, Arianna FONTANA",2006 Turin,Short Track Speed Skating,Women's,3000m relay
+Winter,2006,Gold,CAN,Canada,Duff GIBSON,2006 Turin,Skeleton,Men's,individual
+Winter,2006,Silver,CAN,Canada,Jeff PAIN,2006 Turin,Skeleton,Men's,individual
+Winter,2006,Bronze,SUI,Switzerland,Gregor STAEHLI,2006 Turin,Skeleton,Men's,individual
+Winter,2006,Gold,SUI,Switzerland,Maya PEDERSEN,2006 Turin,Skeleton,Women's,individual
+Winter,2006,Silver,GBR,Great Britain,Shelley RUDMAN,2006 Turin,Skeleton,Women's,individual
+Winter,2006,Bronze,CAN,Canada,Mellisa HOLLINGSWORTH-RICHARDS,2006 Turin,Skeleton,Women's,individual
+Winter,2006,Gold,NOR,Norway,Lars BYSTOEL,2006 Turin,Ski Jumping,Men's,Normal Hill individual
+Winter,2006,Silver,FIN,Finland,Matti HAUTAMAEKI,2006 Turin,Ski Jumping,Men's,Normal Hill individual
+Winter,2006,Bronze,NOR,Norway,Roar LJØKELSØY,2006 Turin,Ski Jumping,Men's,Normal Hill individual
+Winter,2006,Gold,AUT,Austria,Thomas MORGENSTERN,2006 Turin,Ski Jumping,Men's,Large Hill individual
+Winter,2006,Silver,AUT,Austria,Andreas KOFLER,2006 Turin,Ski Jumping,Men's,Large Hill individual
+Winter,2006,Bronze,NOR,Norway,Lars BYSTOEL,2006 Turin,Ski Jumping,Men's,Large Hill individual
+Winter,2006,Gold,AUT,Austria,"Thomas MORGENSTERN, Andreas KOFLER, Andreas WIDHÖLZL, Martin KOCH",2006 Turin,Ski Jumping,Men's,Large Hill team
+Winter,2006,Silver,FIN,Finland,"Tami KIURU, Matti HAUTAMAEKI, Janne HAPPONEN, Janne AHONEN",2006 Turin,Ski Jumping,Men's,Large Hill team
+Winter,2006,Bronze,NOR,Norway,"Tommy INGEBRIGTSEN, Lars BYSTOEL, Bjoern Einar ROMOEREN, Roar LJØKELSØY",2006 Turin,Ski Jumping,Men's,Large Hill team
+Winter,2006,Gold,SUI,Switzerland,Philipp SCHOCH,2006 Turin,Snowboard,Men's,Giant parallel slalom
+Winter,2006,Silver,SUI,Switzerland,Simon SCHOCH,2006 Turin,Snowboard,Men's,Giant parallel slalom
+Winter,2006,Bronze,AUT,Austria,Siegfried GRABNER,2006 Turin,Snowboard,Men's,Giant parallel slalom
+Winter,2006,Gold,USA,United States,Shaun WHITE,2006 Turin,Snowboard,Men's,Half-pipe
+Winter,2006,Silver,USA,United States,Daniel KASS,2006 Turin,Snowboard,Men's,Half-pipe
+Winter,2006,Bronze,FIN,Finland,Markku KOSKI,2006 Turin,Snowboard,Men's,Half-pipe
+Winter,2006,Gold,USA,United States,Seth WESCOTT,2006 Turin,Snowboard,Men's,Snowboard Cross
+Winter,2006,Silver,SVK,Slovakia,Radoslav ZIDEK,2006 Turin,Snowboard,Men's,Snowboard Cross
+Winter,2006,Bronze,FRA,France,Paul-Henri DELERUE,2006 Turin,Snowboard,Men's,Snowboard Cross
+Winter,2006,Gold,SUI,Switzerland,Daniela MEULI,2006 Turin,Snowboard,Women's,Giant parallel slalom
+Winter,2006,Silver,GER,Germany,Amelie KOBER,2006 Turin,Snowboard,Women's,Giant parallel slalom
+Winter,2006,Bronze,USA,United States,Rosey FLETCHER,2006 Turin,Snowboard,Women's,Giant parallel slalom
+Winter,2006,Gold,USA,United States,Hannah TETER,2006 Turin,Snowboard,Women's,Half-pipe
+Winter,2006,Silver,USA,United States,Gretchen BLEILER,2006 Turin,Snowboard,Women's,Half-pipe
+Winter,2006,Bronze,NOR,Norway,Kjersti BUAAS OE,2006 Turin,Snowboard,Women's,Half-pipe
+Winter,2006,Gold,SUI,Switzerland,Tanja FRIEDEN,2006 Turin,Snowboard,Women's,Snowboard Cross
+Winter,2006,Silver,USA,United States,Lindsey JACOBELLIS,2006 Turin,Snowboard,Women's,Snowboard Cross
+Winter,2006,Bronze,CAN,Canada,Dominique MALTAIS,2006 Turin,Snowboard,Women's,Snowboard Cross
+Winter,2006,Gold,USA,United States,Joey CHEEK,2006 Turin,Speed skating,Men's,2x500m
+Winter,2006,Silver,RUS,Russian Federation,Dmitry DOROFEYEV,2006 Turin,Speed skating,Men's,2x500m
+Winter,2006,Bronze,KOR,Korea Republic,Kang Seok LEE,2006 Turin,Speed skating,Men's,2x500m
+Winter,2006,Gold,USA,United States,Shani DAVIS,2006 Turin,Speed skating,Men's,1000m
+Winter,2006,Silver,USA,United States,Joey CHEEK,2006 Turin,Speed skating,Men's,1000m
+Winter,2006,Bronze,NED,Netherlands,Erben WENNEMARS,2006 Turin,Speed skating,Men's,1000m
+Winter,2006,Gold,ITA,Italy,Enrico FABRIS,2006 Turin,Speed skating,Men's,1500m
+Winter,2006,Silver,USA,United States,Shani DAVIS,2006 Turin,Speed skating,Men's,1500m
+Winter,2006,Bronze,USA,United States,Chad HEDRICK,2006 Turin,Speed skating,Men's,1500m
+Winter,2006,Gold,USA,United States,Chad HEDRICK,2006 Turin,Speed skating,Men's,5000m
+Winter,2006,Silver,NED,Netherlands,Sven KRAMER,2006 Turin,Speed skating,Men's,5000m
+Winter,2006,Bronze,ITA,Italy,Enrico FABRIS,2006 Turin,Speed skating,Men's,5000m
+Winter,2006,Gold,NED,Netherlands,Bob DE JONG,2006 Turin,Speed skating,Men's,10000m
+Winter,2006,Silver,USA,United States,Chad HEDRICK,2006 Turin,Speed skating,Men's,10000m
+Winter,2006,Bronze,NED,Netherlands,Carl VERHEIJEN,2006 Turin,Speed skating,Men's,10000m
+Winter,2006,Gold,ITA,Italy,"Matteo ANESI, Ippolito SANFRATELLO, Stefano DONAGRANDI, Enrico FABRIS",2006 Turin,Speed skating,Men's,Team pursuit
+Winter,2006,Silver,CAN,Canada,"Arne DANKERS, Denny MORRISON, Steven ELM, Justin WARSYLEWICZ, Jason PARKER",2006 Turin,Speed skating,Men's,Team pursuit
+Winter,2006,Bronze,NED,Netherlands,"Mark TUITERT, Erben WENNEMARS, Sven KRAMER, Rintje RITSMA, Carl VERHEIJEN",2006 Turin,Speed skating,Men's,Team pursuit
+Winter,2006,Gold,RUS,Russian Federation,Svetlana ZHUROVA,2006 Turin,Speed skating,Women's,2x500m
+Winter,2006,Silver,CHN,China,Manli WANG,2006 Turin,Speed skating,Women's,2x500m
+Winter,2006,Bronze,CHN,China,Hui REN,2006 Turin,Speed skating,Women's,2x500m
+Winter,2006,Gold,NED,Netherlands,Marianne TIMMER,2006 Turin,Speed skating,Women's,1000m
+Winter,2006,Silver,CAN,Canada,Cindy KLASSEN,2006 Turin,Speed skating,Women's,1000m
+Winter,2006,Bronze,GER,Germany,Anni FRIESINGER,2006 Turin,Speed skating,Women's,1000m
+Winter,2006,Gold,CAN,Canada,Cindy KLASSEN,2006 Turin,Speed skating,Women's,1500m
+Winter,2006,Silver,CAN,Canada,Kristina GROVES,2006 Turin,Speed skating,Women's,1500m
+Winter,2006,Bronze,NED,Netherlands,Ireen WÜST,2006 Turin,Speed skating,Women's,1500m
+Winter,2006,Gold,NED,Netherlands,Ireen WÜST,2006 Turin,Speed skating,Women's,3000m
+Winter,2006,Silver,NED,Netherlands,Renate GROENEWOLD,2006 Turin,Speed skating,Women's,3000m
+Winter,2006,Bronze,CAN,Canada,Cindy KLASSEN,2006 Turin,Speed skating,Women's,3000m
+Winter,2006,Gold,CAN,Canada,Clara HUGHES,2006 Turin,Speed skating,Women's,5000m
+Winter,2006,Silver,GER,Germany,Claudia PECHSTEIN,2006 Turin,Speed skating,Women's,5000m
+Winter,2006,Bronze,CAN,Canada,Cindy KLASSEN,2006 Turin,Speed skating,Women's,5000m
+Winter,2006,Gold,GER,Germany,"Sabine VÖLKER, Anni FRIESINGER, Daniela ANSCHUETZ THOMS, Lucille OPITZ, Claudia PECHSTEIN",2006 Turin,Speed skating,Women's,Team pursuit
+Winter,2006,Silver,CAN,Canada,"Shannon REMPEL, Cindy KLASSEN, Clara HUGHES, Christine NESBITT, Kristina GROVES",2006 Turin,Speed skating,Women's,Team pursuit
+Winter,2006,Bronze,RUS,Russian Federation,"Yekaterina ABRAMOVA, Galina LIKHACHOVA, Svetlana VYSOKOVA, Varvara BARYSHEVA, Yekaterina LOBYSHEVA",2006 Turin,Speed skating,Women's,Team pursuit

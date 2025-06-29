@@ -1,0 +1,105 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1964,Gold,AUT,Austria,Egon ZIMMERMANN,1964 Innsbruck,Alpine Skiing,Men's,downhill
+Winter,1964,Silver,FRA,France,Léo LACROIX,1964 Innsbruck,Alpine Skiing,Men's,downhill
+Winter,1964,Bronze,EUA,Unified Team of Germany,Wolfgang BARTELS,1964 Innsbruck,Alpine Skiing,Men's,downhill
+Winter,1964,Gold,AUT,Austria,Josef STIEGLER,1964 Innsbruck,Alpine Skiing,Men's,slalom
+Winter,1964,Silver,USA,United States,Billy KIDD,1964 Innsbruck,Alpine Skiing,Men's,slalom
+Winter,1964,Bronze,USA,United States,Jimmy HEUGA,1964 Innsbruck,Alpine Skiing,Men's,slalom
+Winter,1964,Gold,FRA,France,François BONLIEU,1964 Innsbruck,Alpine Skiing,Men's,giant slalom
+Winter,1964,Silver,AUT,Austria,Karl SCHRANZ,1964 Innsbruck,Alpine Skiing,Men's,giant slalom
+Winter,1964,Bronze,AUT,Austria,Josef STIEGLER,1964 Innsbruck,Alpine Skiing,Men's,giant slalom
+Winter,1964,Gold,AUT,Austria,Christl HAAS,1964 Innsbruck,Alpine Skiing,Women's,downhill
+Winter,1964,Silver,AUT,Austria,Edith ZIMMERMANN,1964 Innsbruck,Alpine Skiing,Women's,downhill
+Winter,1964,Bronze,AUT,Austria,Traudl HECHER,1964 Innsbruck,Alpine Skiing,Women's,downhill
+Winter,1964,Gold,FRA,France,Christine GOITSCHEL,1964 Innsbruck,Alpine Skiing,Women's,slalom
+Winter,1964,Silver,FRA,France,Marielle GOITSCHEL,1964 Innsbruck,Alpine Skiing,Women's,slalom
+Winter,1964,Bronze,USA,United States,Jean SAUBERT,1964 Innsbruck,Alpine Skiing,Women's,slalom
+Winter,1964,Gold,FRA,France,Marielle GOITSCHEL,1964 Innsbruck,Alpine Skiing,Women's,giant slalom
+Winter,1964,Silver,FRA,France,Christine GOITSCHEL,1964 Innsbruck,Alpine Skiing,Women's,giant slalom
+Winter,1964,Silver,USA,United States,Jean SAUBERT,1964 Innsbruck,Alpine Skiing,Women's,giant slalom
+Winter,1964,Gold,URS,USSR,Vladimir MELANIN,1964 Innsbruck,Biathlon,Men's,20km individual
+Winter,1964,Silver,URS,USSR,Aleksandr PRIVALOV,1964 Innsbruck,Biathlon,Men's,20km individual
+Winter,1964,Bronze,NOR,Norway,Olav JORDET,1964 Innsbruck,Biathlon,Men's,20km individual
+Winter,1964,Gold,GBR,Great Britain,"Anthony NASH, Robin DIXON",1964 Innsbruck,Bobsleigh,Men's,two-man
+Winter,1964,Silver,ITA,Italy,"Romano BONAGURA, Sergio ZARDINI",1964 Innsbruck,Bobsleigh,Men's,two-man
+Winter,1964,Bronze,ITA,Italy,"Eugenio MONTI, Sergio SIORPAES",1964 Innsbruck,Bobsleigh,Men's,two-man
+Winter,1964,Gold,CAN,Canada,"John EMERY, Douglas ANAKIN, Victor EMERY, Peter KIRBY",1964 Innsbruck,Bobsleigh,Men's,four-man
+Winter,1964,Silver,AUT,Austria,"Erwin THALER, Josef NAIRZ, Reinhold DURNTHALER, Adolf KOXEDER",1964 Innsbruck,Bobsleigh,Men's,four-man
+Winter,1964,Bronze,ITA,Italy,"Eugenio MONTI, Gildo SIORPAES, Sergio SIORPAES, Benito RIGONI",1964 Innsbruck,Bobsleigh,Men's,four-man
+Winter,1964,Gold,FIN,Finland,Eero MANTYRANTA,1964 Innsbruck,Cross Country Skiing,Men's,15km
+Winter,1964,Silver,NOR,Norway,Harald GRØNNINGEN,1964 Innsbruck,Cross Country Skiing,Men's,15km
+Winter,1964,Bronze,SWE,Sweden,Sixten JERNBERG,1964 Innsbruck,Cross Country Skiing,Men's,15km
+Winter,1964,Gold,FIN,Finland,Eero MANTYRANTA,1964 Innsbruck,Cross Country Skiing,Men's,30km
+Winter,1964,Silver,NOR,Norway,Harald GRØNNINGEN,1964 Innsbruck,Cross Country Skiing,Men's,30km
+Winter,1964,Bronze,URS,USSR,Igor VORONCHIKHIN,1964 Innsbruck,Cross Country Skiing,Men's,30km
+Winter,1964,Gold,SWE,Sweden,Sixten JERNBERG,1964 Innsbruck,Cross Country Skiing,Men's,50km
+Winter,1964,Silver,SWE,Sweden,Assar RÖNNLUND,1964 Innsbruck,Cross Country Skiing,Men's,50km
+Winter,1964,Bronze,FIN,Finland,Arto TIAINEN,1964 Innsbruck,Cross Country Skiing,Men's,50km
+Winter,1964,Gold,SWE,Sweden,"Janne STEFANSSON, Sixten JERNBERG, Assar RÖNNLUND, Karl-Ake ASPH",1964 Innsbruck,Cross Country Skiing,Men's,4x10km relay
+Winter,1964,Silver,FIN,Finland,"Kalevi LAURILA, Eero MANTYRANTA, Arto TIAINEN, Väinö HUHTALA",1964 Innsbruck,Cross Country Skiing,Men's,4x10km relay
+Winter,1964,Bronze,URS,USSR,"Pavel KOLCHIN, Gennadi VAGANOV, Igor VORONCHIKHIN, Ivan UTROBIN",1964 Innsbruck,Cross Country Skiing,Men's,4x10km relay
+Winter,1964,Gold,URS,USSR,Klavdiya BOYARSKIKH,1964 Innsbruck,Cross Country Skiing,Women's,5km
+Winter,1964,Silver,FIN,Finland,Mirja LEHTONEN,1964 Innsbruck,Cross Country Skiing,Women's,5km
+Winter,1964,Bronze,URS,USSR,Alevtina KOLCHINA,1964 Innsbruck,Cross Country Skiing,Women's,5km
+Winter,1964,Gold,URS,USSR,Klavdiya BOYARSKIKH,1964 Innsbruck,Cross Country Skiing,Women's,10km
+Winter,1964,Silver,URS,USSR,Yevdokiya MEKSHILO,1964 Innsbruck,Cross Country Skiing,Women's,10km
+Winter,1964,Bronze,URS,USSR,Mariya GUSAKOVA,1964 Innsbruck,Cross Country Skiing,Women's,10km
+Winter,1964,Gold,URS,USSR,"Klavdiya BOYARSKIKH, Alevtina KOLCHINA, Yevdokiya MEKSHILO",1964 Innsbruck,Cross Country Skiing,Women's,3x5km relay
+Winter,1964,Silver,SWE,Sweden,"Barbro MARTINSSON, Britt STRANDBERG, Toini GUSTAFSSON",1964 Innsbruck,Cross Country Skiing,Women's,3x5km relay
+Winter,1964,Bronze,FIN,Finland,"Senja PUSULA, Toini PÖYSTI, Mirja LEHTONEN",1964 Innsbruck,Cross Country Skiing,Women's,3x5km relay
+Winter,1964,Gold,EUA,Unified Team of Germany,Manfred SCHNELLDORFER,1964 Innsbruck,Figure skating,Men's,individual
+Winter,1964,Silver,FRA,France,Alain CALMAT,1964 Innsbruck,Figure skating,Men's,individual
+Winter,1964,Bronze,USA,United States,Scott ALLEN,1964 Innsbruck,Figure skating,Men's,individual
+Winter,1964,Gold,NED,Netherlands,Sjoukje DIJKSTRA,1964 Innsbruck,Figure skating,Women's,individual
+Winter,1964,Silver,AUT,Austria,Regine HEITZER,1964 Innsbruck,Figure skating,Women's,individual
+Winter,1964,Bronze,CAN,Canada,Petra BURKA,1964 Innsbruck,Figure skating,Women's,individual
+Winter,1964,Gold,URS,USSR,"Oleg PROTOPOPOV, Lyudmila BELOUSOVA",1964 Innsbruck,Figure skating,Mixed,pairs
+Winter,1964,Silver,CAN,Canada,"Debbi WILKES, Guy REVELL",1964 Innsbruck,Figure skating,Mixed,pairs
+Winter,1964,Silver,EUA,Unified Team of Germany,"Marika KILIUS, Hans-Jürgen BÄUMLER",1964 Innsbruck,Figure skating,Mixed,pairs
+Winter,1964,Bronze,USA,United States,"Vivian JOSEPH, Ronald JOSEPH",1964 Innsbruck,Figure skating,Mixed,pairs
+Winter,1964,Gold,URS,USSR,"Leonid VOLKOV, Yevgeni MAYOROV, Veniamin ALEKSANDROV, Oleg ZAITZEV, Anatoli FIRSOV, Viktor YAKUSHEV, Aleksandr ALMETOV, Boris ZAITZEV, Viktor KONOVALENKO, Konstantin LOKTEV, Viktor KOUSKINE, Aleksandr RAGULIN, Boris MAYOROV, Eduard IVANOV, Vitali DAVIDOV, Stanislav PETUKHOV, Vyacheslav STARSHINOV",1964 Innsbruck,Ice Hockey,Men's,ice hockey
+Winter,1964,Silver,SWE,Sweden,"Gert BLOMÉ, Ronald PETTERSSON, Nils NILSSON, Uno ÖHRLUND, Nils JOHANSSON, Eilert MÄÄTTÄ, Roland STOLTZ, Lars-Eric LUNDVALL, Ulf STERNER, Carl-Göran ÖBERG, Anders ANDERSSON, Sven JOHANSSON, Kjell SVENSSON, Lennart JOHANSSON, Hans MILD, Bert-Ola NORDLANDER, Lennart HÄGGROTH",1964 Innsbruck,Ice Hockey,Men's,ice hockey
+Winter,1964,Bronze,TCH,Czechoslovakia,"Josef CERNY, Jirí DOLANA, Rudolf POTSCH, Stanislav PRYL, Miroslav VLACH, Vladimír NADRCHAL, Frantisek GREGOR, Ladislav SMID, Jiri HOLIK, Jaroslav JIRÍK, Jaroslav WALTER, Vlastimil BUBNIK, Jan KLAPÁC, Frantisek TIKAL, Vladimir DZURILLA, Stanislav SVENTEK, Josef GOLONKA",1964 Innsbruck,Ice Hockey,Men's,ice hockey
+Winter,1964,Gold,EUA,Unified Team of Germany,Thomas KÖHLER,1964 Innsbruck,Luge,Men's,singles
+Winter,1964,Silver,EUA,Unified Team of Germany,Klaus-Michael BONSACK,1964 Innsbruck,Luge,Men's,singles
+Winter,1964,Bronze,EUA,Unified Team of Germany,Hans PLENK,1964 Innsbruck,Luge,Men's,singles
+Winter,1964,Gold,EUA,Unified Team of Germany,Ortrun ENDERLEIN,1964 Innsbruck,Luge,Women's,singles
+Winter,1964,Silver,EUA,Unified Team of Germany,Ilse GEISLER,1964 Innsbruck,Luge,Women's,singles
+Winter,1964,Bronze,AUT,Austria,Helene THURNER,1964 Innsbruck,Luge,Women's,singles
+Winter,1964,Gold,AUT,Austria,"Manfred STENGL, Josef FEISTMANTL",1964 Innsbruck,Luge,Mixed,doubles
+Winter,1964,Silver,AUT,Austria,"Reinhold SENN, Helmut THALER",1964 Innsbruck,Luge,Mixed,doubles
+Winter,1964,Bronze,ITA,Italy,"Sigisfredo MAIR, Walter AUßENDORFER",1964 Innsbruck,Luge,Mixed,doubles
+Winter,1964,Gold,NOR,Norway,Tormod KNUTSEN,1964 Innsbruck,Nordic Combined,Men's,individual
+Winter,1964,Silver,URS,USSR,Nikolay KISELYOV,1964 Innsbruck,Nordic Combined,Men's,individual
+Winter,1964,Bronze,EUA,Unified Team of Germany,Georg THOMA,1964 Innsbruck,Nordic Combined,Men's,individual
+Winter,1964,Gold,FIN,Finland,Veikko KANKKONEN,1964 Innsbruck,Ski Jumping,Men's,Normal Hill individual
+Winter,1964,Silver,NOR,Norway,Toralf ENGAN,1964 Innsbruck,Ski Jumping,Men's,Normal Hill individual
+Winter,1964,Bronze,NOR,Norway,Torgeir BRANDTZÄG,1964 Innsbruck,Ski Jumping,Men's,Normal Hill individual
+Winter,1964,Gold,NOR,Norway,Toralf ENGAN,1964 Innsbruck,Ski Jumping,Men's,Large Hill individual
+Winter,1964,Silver,FIN,Finland,Veikko KANKKONEN,1964 Innsbruck,Ski Jumping,Men's,Large Hill individual
+Winter,1964,Bronze,NOR,Norway,Torgeir BRANDTZÄG,1964 Innsbruck,Ski Jumping,Men's,Large Hill individual
+Winter,1964,Gold,USA,United States,Richard MCDERMOTT,1964 Innsbruck,Speed skating,Men's,500m
+Winter,1964,Silver,NOR,Norway,Alv GJESTVANG,1964 Innsbruck,Speed skating,Men's,500m
+Winter,1964,Silver,URS,USSR,Vladimir ORLOV,1964 Innsbruck,Speed skating,Men's,500m
+Winter,1964,Silver,URS,USSR,Yevgeny GRISHIN,1964 Innsbruck,Speed skating,Men's,500m
+Winter,1964,Gold,URS,USSR,Ants ANTSON,1964 Innsbruck,Speed skating,Men's,1500m
+Winter,1964,Silver,NED,Netherlands,Kees VERKERK,1964 Innsbruck,Speed skating,Men's,1500m
+Winter,1964,Bronze,NOR,Norway,Villy HAUGEN,1964 Innsbruck,Speed skating,Men's,1500m
+Winter,1964,Gold,NOR,Norway,Knut JOHANNESEN,1964 Innsbruck,Speed skating,Men's,5000m
+Winter,1964,Silver,NOR,Norway,Per Ivar MOE,1964 Innsbruck,Speed skating,Men's,5000m
+Winter,1964,Bronze,NOR,Norway,Fred Anton MAIER,1964 Innsbruck,Speed skating,Men's,5000m
+Winter,1964,Gold,SWE,Sweden,Jonny NILSSON,1964 Innsbruck,Speed skating,Men's,10000m
+Winter,1964,Silver,NOR,Norway,Fred Anton MAIER,1964 Innsbruck,Speed skating,Men's,10000m
+Winter,1964,Bronze,NOR,Norway,Knut JOHANNESEN,1964 Innsbruck,Speed skating,Men's,10000m
+Winter,1964,Gold,URS,USSR,Lidiya SKOBLIKOVA,1964 Innsbruck,Speed skating,Women's,500m
+Winter,1964,Silver,URS,USSR,Irina YEGOROVA,1964 Innsbruck,Speed skating,Women's,500m
+Winter,1964,Bronze,URS,USSR,Tatyana SIDOROVA,1964 Innsbruck,Speed skating,Women's,500m
+Winter,1964,Gold,URS,USSR,Lidiya SKOBLIKOVA,1964 Innsbruck,Speed skating,Women's,1000m
+Winter,1964,Silver,URS,USSR,Irina YEGOROVA,1964 Innsbruck,Speed skating,Women's,1000m
+Winter,1964,Bronze,FIN,Finland,Kaija MUSTONEN,1964 Innsbruck,Speed skating,Women's,1000m
+Winter,1964,Gold,URS,USSR,Lidiya SKOBLIKOVA,1964 Innsbruck,Speed skating,Women's,1500m
+Winter,1964,Silver,FIN,Finland,Kaija MUSTONEN,1964 Innsbruck,Speed skating,Women's,1500m
+Winter,1964,Bronze,URS,USSR,Berta KOLOKOLTSEVA,1964 Innsbruck,Speed skating,Women's,1500m
+Winter,1964,Gold,URS,USSR,Lidiya SKOBLIKOVA,1964 Innsbruck,Speed skating,Women's,3000m
+Winter,1964,Silver,PRK,Korea DPR,Hwa-Han PIL,1964 Innsbruck,Speed skating,Women's,3000m
+Winter,1964,Silver,URS,USSR,Valentina STENINA,1964 Innsbruck,Speed skating,Women's,3000m

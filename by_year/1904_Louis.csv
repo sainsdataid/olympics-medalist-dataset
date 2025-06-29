@@ -1,0 +1,281 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1904,Gold,USA,United States,George Philipp BRYANT,1904 St Louis,Archery,Men's,double york round (100y - 80y - 60y)
+Summer,1904,Silver,USA,United States,Robert WILLIAMS,1904 St Louis,Archery,Men's,double york round (100y - 80y - 60y)
+Summer,1904,Bronze,USA,United States,William Henry THOMPSON,1904 St Louis,Archery,Men's,double york round (100y - 80y - 60y)
+Summer,1904,Gold,USA,United States,George Philipp BRYANT,1904 St Louis,Archery,Men's,double american round (60y - 50y - 40y)
+Summer,1904,Silver,USA,United States,Robert WILLIAMS,1904 St Louis,Archery,Men's,double american round (60y - 50y - 40y)
+Summer,1904,Bronze,USA,United States,William Henry THOMPSON,1904 St Louis,Archery,Men's,double american round (60y - 50y - 40y)
+Summer,1904,Gold,USA,United States,"William Henry THOMPSON, Louis W. MAXSON, Robert WILLIAMS, Galen Carter SPENCER",1904 St Louis,Archery,Men's,team round 60y
+Summer,1904,Silver,USA,United States,"Charles R. HUBBARD, Charles S. WOODRUFF, Samuel Harding DUVALL, William A. CLARK",1904 St Louis,Archery,Men's,team round 60y
+Summer,1904,Bronze,USA,United States,"George Philipp BRYANT, Cyrus Edwin DALLIN, Wallace BRYANT, Henry Barber RICHARDSON",1904 St Louis,Archery,Men's,team round 60y
+Summer,1904,Gold,USA,United States,Matilda Scott HOWELL,1904 St Louis,Archery,Women's,double national round (60y - 50y)
+Summer,1904,Silver,USA,United States,Emma C. COOKE,1904 St Louis,Archery,Women's,double national round (60y - 50y)
+Summer,1904,Bronze,USA,United States,Jessie POLLOCK,1904 St Louis,Archery,Women's,double national round (60y - 50y)
+Summer,1904,Gold,USA,United States,Matilda Scott HOWELL,1904 St Louis,Archery,Women's,double columbia round (50y - 40y - 30y)
+Summer,1904,Silver,USA,United States,Emma C. COOKE,1904 St Louis,Archery,Women's,double columbia round (50y - 40y - 30y)
+Summer,1904,Bronze,USA,United States,Jessie POLLOCK,1904 St Louis,Archery,Women's,double columbia round (50y - 40y - 30y)
+Summer,1904,Gold,USA,United States,"Matilda Scott HOWELL, Laura WOODRUFF, Jessie POLLOCK, Louise TAYLOR",1904 St Louis,Archery,Women's,team round 50y
+Summer,1904,Gold,USA,United States,Archie HAHN,1904 St Louis,Athletics,Men's,60m
+Summer,1904,Silver,USA,United States,William HOGENSON,1904 St Louis,Athletics,Men's,60m
+Summer,1904,Bronze,USA,United States,Fay MOULTON,1904 St Louis,Athletics,Men's,60m
+Summer,1904,Gold,USA,United States,Archie HAHN,1904 St Louis,Athletics,Men's,100m
+Summer,1904,Silver,USA,United States,John Nathaniel CARTMELL,1904 St Louis,Athletics,Men's,100m
+Summer,1904,Bronze,USA,United States,William HOGENSON,1904 St Louis,Athletics,Men's,100m
+Summer,1904,Gold,USA,United States,Archie HAHN,1904 St Louis,Athletics,Men's,200m
+Summer,1904,Silver,USA,United States,John Nathaniel CARTMELL,1904 St Louis,Athletics,Men's,200m
+Summer,1904,Bronze,USA,United States,William HOGENSON,1904 St Louis,Athletics,Men's,200m
+Summer,1904,Gold,USA,United States,Harry HILLMAN,1904 St Louis,Athletics,Men's,400m
+Summer,1904,Silver,USA,United States,Frank WALLER,1904 St Louis,Athletics,Men's,400m
+Summer,1904,Bronze,USA,United States,Herman GROMAN,1904 St Louis,Athletics,Men's,400m
+Summer,1904,Gold,USA,United States,James LIGHTBODY,1904 St Louis,Athletics,Men's,800m
+Summer,1904,Silver,USA,United States,Howard VALENTINE,1904 St Louis,Athletics,Men's,800m
+Summer,1904,Bronze,USA,United States,Emil BREITKREUTZ,1904 St Louis,Athletics,Men's,800m
+Summer,1904,Gold,USA,United States,James LIGHTBODY,1904 St Louis,Athletics,Men's,1500m
+Summer,1904,Silver,USA,United States,William Frank VERNER,1904 St Louis,Athletics,Men's,1500m
+Summer,1904,Bronze,USA,United States,Lacey HEARN,1904 St Louis,Athletics,Men's,1500m
+Summer,1904,Gold,USA,United States,Thomas HICKS,1904 St Louis,Athletics,Men's,marathon
+Summer,1904,Silver,FRA,France,Albert CORAY,1904 St Louis,Athletics,Men's,marathon
+Summer,1904,Bronze,USA,United States,Arthur NEWTON,1904 St Louis,Athletics,Men's,marathon
+Summer,1904,Gold,USA,United States,Frederick SCHULE,1904 St Louis,Athletics,Men's,110m hurdles
+Summer,1904,Silver,USA,United States,Thaddeus SHIDELER,1904 St Louis,Athletics,Men's,110m hurdles
+Summer,1904,Bronze,USA,United States,Lesley ASHBURNER,1904 St Louis,Athletics,Men's,110m hurdles
+Summer,1904,Gold,USA,United States,Harry HILLMAN,1904 St Louis,Athletics,Men's,200m hurdles
+Summer,1904,Silver,USA,United States,Frank CASTLEMAN,1904 St Louis,Athletics,Men's,200m hurdles
+Summer,1904,Bronze,USA,United States,George POAGE,1904 St Louis,Athletics,Men's,200m hurdles
+Summer,1904,Gold,USA,United States,Harry HILLMAN,1904 St Louis,Athletics,Men's,400m hurdles
+Summer,1904,Silver,USA,United States,Frank WALLER,1904 St Louis,Athletics,Men's,400m hurdles
+Summer,1904,Bronze,USA,United States,George POAGE,1904 St Louis,Athletics,Men's,400m hurdles
+Summer,1904,Gold,USA,United States,James LIGHTBODY,1904 St Louis,Athletics,Men's,2590m steeplechase
+Summer,1904,Silver,GBR,Great Britain,John DALY,1904 St Louis,Athletics,Men's,2590m steeplechase
+Summer,1904,Bronze,USA,United States,Arthur NEWTON,1904 St Louis,Athletics,Men's,2590m steeplechase
+Summer,1904,Gold,USA,United States,"Arthur NEWTON, Paul Harry PILGRIM, David Curtis MUNSON, George UNDERWOOD, Howard VALENTINE",1904 St Louis,Athletics,Men's,4miles team
+Summer,1904,Silver,USA,United States,"William Frank VERNER (USA), Sidney HATCH (USA), James LIGHTBODY (USA), Lacey HEARN (USA), Albert CORAY (FRA)",1904 St Louis,Athletics,Men's,4miles team
+Summer,1904,Gold,USA,United States,Meyer PRINSTEIN,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Silver,USA,United States,Daniel FRANK,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Bronze,USA,United States,Robert STANGLAND,1904 St Louis,Athletics,Men's,long jump
+Summer,1904,Gold,USA,United States,Ray EWRY,1904 St Louis,Athletics,Men's,"long jump, standing"
+Summer,1904,Silver,USA,United States,Charles KING,1904 St Louis,Athletics,Men's,"long jump, standing"
+Summer,1904,Bronze,USA,United States,John BILLER,1904 St Louis,Athletics,Men's,"long jump, standing"
+Summer,1904,Gold,USA,United States,Meyer PRINSTEIN,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Silver,USA,United States,Frederick ENGLEHARDT,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Bronze,USA,United States,Robert STANGLAND,1904 St Louis,Athletics,Men's,triple jump
+Summer,1904,Gold,USA,United States,Ray EWRY,1904 St Louis,Athletics,Men's,"triple jump, standing"
+Summer,1904,Silver,USA,United States,Charles KING,1904 St Louis,Athletics,Men's,"triple jump, standing"
+Summer,1904,Bronze,USA,United States,Joseph F. STADLER,1904 St Louis,Athletics,Men's,"triple jump, standing"
+Summer,1904,Gold,USA,United States,Samuel JONES,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Silver,USA,United States,Garrett SERVISS,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Bronze,GER,Germany,Paul WEINSTEIN,1904 St Louis,Athletics,Men's,high jump
+Summer,1904,Gold,USA,United States,Ray EWRY,1904 St Louis,Athletics,Men's,"high jump, standing"
+Summer,1904,Silver,USA,United States,Joseph F. STADLER,1904 St Louis,Athletics,Men's,"high jump, standing"
+Summer,1904,Bronze,USA,United States,Lawson N. ROBERTSON,1904 St Louis,Athletics,Men's,"high jump, standing"
+Summer,1904,Gold,USA,United States,Charles DVORAK,1904 St Louis,Athletics,Men's,pole vault
+Summer,1904,Silver,USA,United States,Leroy SAMSE,1904 St Louis,Athletics,Men's,pole vault
+Summer,1904,Bronze,USA,United States,Louis WILKINS,1904 St Louis,Athletics,Men's,pole vault
+Summer,1904,Gold,USA,United States,Martin SHERIDAN,1904 St Louis,Athletics,Men's,discus throw
+Summer,1904,Silver,USA,United States,Ralph ROSE,1904 St Louis,Athletics,Men's,discus throw
+Summer,1904,Bronze,GRE,Greece,Nicolaos GEORGANDAS,1904 St Louis,Athletics,Men's,discus throw
+Summer,1904,Gold,USA,United States,John Jesus FLANAGAN,1904 St Louis,Athletics,Men's,hammer throw
+Summer,1904,Silver,USA,United States,John DEWITT,1904 St Louis,Athletics,Men's,hammer throw
+Summer,1904,Bronze,USA,United States,Ralph ROSE,1904 St Louis,Athletics,Men's,hammer throw
+Summer,1904,Gold,USA,United States,Ralph ROSE,1904 St Louis,Athletics,Men's,shot put
+Summer,1904,Silver,USA,United States,William Wesley COE,1904 St Louis,Athletics,Men's,shot put
+Summer,1904,Bronze,USA,United States,Lawrence E. Joseph FEUERBACH,1904 St Louis,Athletics,Men's,shot put
+Summer,1904,Gold,CAN,Canada,Etienne DESMARTEAU,1904 St Louis,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1904,Silver,USA,United States,John Jesus FLANAGAN,1904 St Louis,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1904,Bronze,USA,United States,James MITCHELL,1904 St Louis,Athletics,Men's,56lb weight throw (25.4kg)
+Summer,1904,Gold,USA,United States,Max EMMERICH,1904 St Louis,Athletics,Men's,triathlon (long jump / shot put / 100 yards)
+Summer,1904,Silver,USA,United States,John GRIEB,1904 St Louis,Athletics,Men's,triathlon (long jump / shot put / 100 yards)
+Summer,1904,Bronze,USA,United States,William MERZ,1904 St Louis,Athletics,Men's,triathlon (long jump / shot put / 100 yards)
+Summer,1904,Gold,GBR,Great Britain,Thomas Francis KIELY,1904 St Louis,Athletics,Men's,decathlon
+Summer,1904,Silver,USA,United States,Adam GUNN,1904 St Louis,Athletics,Men's,decathlon
+Summer,1904,Bronze,USA,United States,Thomas Truxton HARE,1904 St Louis,Athletics,Men's,decathlon
+Summer,1904,Gold,USA,United States,George FINNEGAN,1904 St Louis,Boxing,Men's,- 47.63kg (flyweight)
+Summer,1904,Silver,USA,United States,Miles BURKE,1904 St Louis,Boxing,Men's,- 47.63kg (flyweight)
+Summer,1904,Gold,USA,United States,Oliver L. KIRK,1904 St Louis,Boxing,Men's,47.63 - 52.16kg (bantamweight)
+Summer,1904,Silver,USA,United States,George FINNEGAN,1904 St Louis,Boxing,Men's,47.63 - 52.16kg (bantamweight)
+Summer,1904,Gold,USA,United States,Oliver L. KIRK,1904 St Louis,Boxing,Men's,52.16 - 56.7kg (featherweight)
+Summer,1904,Silver,USA,United States,Frank HALLER,1904 St Louis,Boxing,Men's,52.16 - 56.7kg (featherweight)
+Summer,1904,Bronze,USA,United States,Frederick GILMORE,1904 St Louis,Boxing,Men's,52.16 - 56.7kg (featherweight)
+Summer,1904,Gold,USA,United States,Harry J. SPANGER,1904 St Louis,Boxing,Men's,56.7 - 61.24kg (lightweight)
+Summer,1904,Silver,USA,United States,Russell VAN HORN,1904 St Louis,Boxing,Men's,56.7 - 61.24kg (lightweight)
+Summer,1904,Bronze,USA,United States,Peter Sturholdt,1904 St Louis,Boxing,Men's,56.7 - 61.24kg (lightweight)
+Summer,1904,Gold,USA,United States,Albert YOUNG,1904 St Louis,Boxing,Men's,61.24 - 65.77kg (welterweight)
+Summer,1904,Silver,USA,United States,Harry J. SPANGER,1904 St Louis,Boxing,Men's,61.24 - 65.77kg (welterweight)
+Summer,1904,Bronze,USA,United States,Joseph LYDON,1904 St Louis,Boxing,Men's,61.24 - 65.77kg (welterweight)
+Summer,1904,Gold,USA,United States,Charles MAYER,1904 St Louis,Boxing,Men's,65.77 - 71.67kg (middleweight)
+Summer,1904,Silver,USA,United States,Benjamin SPRADLEY,1904 St Louis,Boxing,Men's,65.77 - 71.67kg (middleweight)
+Summer,1904,Gold,USA,United States,Samuel BERGER,1904 St Louis,Boxing,Men's,+ 71.67kg (heavyweight)
+Summer,1904,Silver,USA,United States,Charles MAYER,1904 St Louis,Boxing,Men's,+ 71.67kg (heavyweight)
+Summer,1904,Bronze,USA,United States,William MICHAELS,1904 St Louis,Boxing,Men's,+ 71.67kg (heavyweight)
+Summer,1904,Gold,USA,United States,Marcus HURLEY,1904 St Louis,Cycling Track,Men's,1/4 mile (402.3m)
+Summer,1904,Silver,USA,United States,Burton DOWNING,1904 St Louis,Cycling Track,Men's,1/4 mile (402.3m)
+Summer,1904,Bronze,USA,United States,Edward BILLINGTON,1904 St Louis,Cycling Track,Men's,1/4 mile (402.3m)
+Summer,1904,Gold,USA,United States,Marcus HURLEY,1904 St Louis,Cycling Track,Men's,1/3 mile (536.5m)
+Summer,1904,Silver,USA,United States,Burton DOWNING,1904 St Louis,Cycling Track,Men's,1/3 mile (536.5m)
+Summer,1904,Bronze,USA,United States,Edward BILLINGTON,1904 St Louis,Cycling Track,Men's,1/3 mile (536.5m)
+Summer,1904,Gold,USA,United States,Marcus HURLEY,1904 St Louis,Cycling Track,Men's,1/2 mile (804.7m)
+Summer,1904,Silver,USA,United States,Edward BILLINGTON,1904 St Louis,Cycling Track,Men's,1/2 mile (804.7m)
+Summer,1904,Bronze,USA,United States,Burton DOWNING,1904 St Louis,Cycling Track,Men's,1/2 mile (804.7m)
+Summer,1904,Gold,USA,United States,Marcus HURLEY,1904 St Louis,Cycling Track,Men's,1 mile (1609.3m)
+Summer,1904,Silver,USA,United States,Burton DOWNING,1904 St Louis,Cycling Track,Men's,1 mile (1609.3m)
+Summer,1904,Bronze,USA,United States,Edward BILLINGTON,1904 St Louis,Cycling Track,Men's,1 mile (1609.3m)
+Summer,1904,Gold,USA,United States,Burton DOWNING,1904 St Louis,Cycling Track,Men's,2 miles (3.218km)
+Summer,1904,Silver,USA,United States,Oscar GOERKE,1904 St Louis,Cycling Track,Men's,2 miles (3.218km)
+Summer,1904,Bronze,USA,United States,Marcus HURLEY,1904 St Louis,Cycling Track,Men's,2 miles (3.218km)
+Summer,1904,Gold,USA,United States,Charles SCHLEE,1904 St Louis,Cycling Track,Men's,5 miles (8.046km)
+Summer,1904,Silver,USA,United States,George WILEY,1904 St Louis,Cycling Track,Men's,5 miles (8.046km)
+Summer,1904,Bronze,USA,United States,Arthur F. ANDREWS,1904 St Louis,Cycling Track,Men's,5 miles (8.046km)
+Summer,1904,Gold,USA,United States,Burton DOWNING,1904 St Louis,Cycling Track,Men's,25 miles (40.232km)
+Summer,1904,Silver,USA,United States,Arthur F. ANDREWS,1904 St Louis,Cycling Track,Men's,25 miles (40.232km)
+Summer,1904,Bronze,USA,United States,George WILEY,1904 St Louis,Cycling Track,Men's,25 miles (40.232km)
+Summer,1904,Gold,USA,United States,George SHELDON,1904 St Louis,Diving,Men's,10m platform
+Summer,1904,Silver,GER,Germany,Georg HOFFMANN,1904 St Louis,Diving,Men's,10m platform
+Summer,1904,Bronze,USA,United States,Frank KEHOE,1904 St Louis,Diving,Men's,10m platform
+Summer,1904,Gold,USA,United States,William Paul DICKEY,1904 St Louis,Diving,Men's,plunge for distance
+Summer,1904,Silver,USA,United States,Edgar H. ADAMS,1904 St Louis,Diving,Men's,plunge for distance
+Summer,1904,Bronze,USA,United States,Leo Budd GOODWIN,1904 St Louis,Diving,Men's,plunge for distance
+Summer,1904,Gold,CUB,Cuba,Ramon FONST,1904 St Louis,Fencing,Men's,épée individual
+Summer,1904,Silver,USA,United States,Charles TATHAM,1904 St Louis,Fencing,Men's,épée individual
+Summer,1904,Bronze,USA,United States,Albertson VAN ZO POST,1904 St Louis,Fencing,Men's,épée individual
+Summer,1904,Gold,CUB,Cuba,Ramon FONST,1904 St Louis,Fencing,Men's,foil individual
+Summer,1904,Silver,USA,United States,Albertson VAN ZO POST,1904 St Louis,Fencing,Men's,foil individual
+Summer,1904,Bronze,USA,United States,Charles TATHAM,1904 St Louis,Fencing,Men's,foil individual
+Summer,1904,Gold,XXB,Mixed Team,"Ramon FONST (CUB), Albertson VAN ZO POST (USA), Manuel DIAZ (CUB)",1904 St Louis,Fencing,Men's,foil team
+Summer,1904,Silver,USA,United States,"Arthur FOX, Charles TATHAM, Charles Fitzhugh TOWNSEND",1904 St Louis,Fencing,Men's,foil team
+Summer,1904,Gold,CUB,Cuba,Manuel DIAZ,1904 St Louis,Fencing,Men's,sabre individual
+Summer,1904,Silver,USA,United States,William GREBE,1904 St Louis,Fencing,Men's,sabre individual
+Summer,1904,Bronze,USA,United States,Albertson VAN ZO POST,1904 St Louis,Fencing,Men's,sabre individual
+Summer,1904,Gold,USA,United States,Albertson VAN ZO POST,1904 St Louis,Fencing,Men's,"stick, single"
+Summer,1904,Silver,USA,United States,William Scott O'CONNOR,1904 St Louis,Fencing,Men's,"stick, single"
+Summer,1904,Bronze,USA,United States,William GREBE,1904 St Louis,Fencing,Men's,"stick, single"
+Summer,1904,Gold,CAN,Canada,"Ernest LINTON, John Alexander FRASER, Robert LANE, George DUCKER, Alexander HALL, George DUCKER, William TWAITS, John Alexander FRASER, Frederick STEEP, Frederick STEEP, Gordon MACDONALD, Robert LANE, John GOURLEY, Albert JOHNSON, Thomas TAYLOR, Ernest LINTON, Gordon MACDONALD, John GOURLEY, Albert JOHNSON, Thomas TAYLOR, Alexander HALL, William TWAITS",1904 St Louis,Football,Men's,football
+Summer,1904,Silver,USA,United States,"Thomas Thurston JANUARY, Charles James JANUARY, Alexander CUDMORE, Joseph LYDON, Louis John MENGES, Oscar B. BROCKMEYER, John Hartnett JANUARY, Peter Joseph RATICAN, Charles Albert BARTLIFF, Raymond E. LAWLER, Warren G. BRITTINGHAM",1904 St Louis,Football,Men's,football
+Summer,1904,Bronze,USA,United States,"Frank FROST, Joseph J. BRADY, Martin T. DOOLING, O'CONNELL, Harry TATE, JOHNSON, George Edwin COOKE, Henry Wood JAMESON, DIERKES, Cormic F. COSTGROVE, Claude Stanley JAMESON, Thomas J. COOKE",1904 St Louis,Football,Men's,football
+Summer,1904,Gold,CAN,Canada,George Seymour LYON,1904 St Louis,Golf,Men's,individual
+Summer,1904,Silver,USA,United States,Henri Chandler EGAN,1904 St Louis,Golf,Men's,individual
+Summer,1904,Bronze,USA,United States,Burt P. MCKINNIE,1904 St Louis,Golf,Men's,individual
+Summer,1904,Bronze,USA,United States,Francis Clement NEWTON,1904 St Louis,Golf,Men's,individual
+Summer,1904,Gold,USA,United States,"Robert Edward HUNTER, Kenneth Paine EDWARDS, Danieledward SAWYER, Mason Elliot PHELPS, Warren K. WOOD, Henri Chandler EGAN, Clement E. SMOOT, Edward M. CUMMINS, Nathaniel Fish MOORE, Walter Eugene EGAN",1904 St Louis,Golf,Men's,team
+Summer,1904,Silver,USA,United States,"Stuart Grosvenor STICKNEY, Arthur William STICKNEY, Frederick SEMPLE, Henry POTTER, John R. MAXWELL, Burt P. MCKINNIE, Ralph MCKITTRICK, Francis Clement NEWTON, John Deere CADY, Albert Bond LAMBERT",1904 St Louis,Golf,Men's,team
+Summer,1904,Bronze,USA,United States,"Doug Cadwallader, Lee Carleton, Harry Weber, Art Hussey, Harry Fraser, Allan Lard, Sim Price, John Rahm, Orus Jones, George Oliver",1904 St Louis,Golf,Men's,team
+Summer,1904,Gold,AUT,Austria,Julius LENHART,1904 St Louis,Gymnastics Artistic,Men's,individual all-round
+Summer,1904,Silver,GER,Germany,Wilhelm WEBER,1904 St Louis,Gymnastics Artistic,Men's,individual all-round
+Summer,1904,Bronze,SUI,Switzerland,Adolf SPINNLER,1904 St Louis,Gymnastics Artistic,Men's,individual all-round
+Summer,1904,Gold,SUI,Switzerland,Adolf SPINNLER,1904 St Louis,Gymnastics Artistic,Men's,combined 3 events
+Summer,1904,Silver,AUT,Austria,Julius LENHART,1904 St Louis,Gymnastics Artistic,Men's,combined 3 events
+Summer,1904,Bronze,GER,Germany,Wilhelm WEBER,1904 St Louis,Gymnastics Artistic,Men's,combined 3 events
+Summer,1904,Gold,USA,United States,Anton HEIDA,1904 St Louis,Gymnastics Artistic,Men's,combined 4 events
+Summer,1904,Silver,USA,United States,George EYSER,1904 St Louis,Gymnastics Artistic,Men's,combined 4 events
+Summer,1904,Bronze,USA,United States,William MERZ,1904 St Louis,Gymnastics Artistic,Men's,combined 4 events
+Summer,1904,Gold,USA,United States,"Philipp KASSEL (USA), Max HESS (USA), John GRIEB (USA), Anton HEIDA (USA), Ernst RECKEWEG (USA), Julius LENHART (AUT)",1904 St Louis,Gymnastics Artistic,Men's,team competition
+Summer,1904,Silver,USA,United States,"Otto STEFFEN, Emil BEYER, Julian SCHMITZ, John BISSINGER, Max WOLF, Arthur ROSENKAMPF",1904 St Louis,Gymnastics Artistic,Men's,team competition
+Summer,1904,Bronze,USA,United States,"George MEYER, Edward SIEGLER, Robert MAYACK, John DUHA, Philipp SCHUSTER, Charles KRAUSE",1904 St Louis,Gymnastics Artistic,Men's,team competition
+Summer,1904,Gold,USA,United States,George EYSER,1904 St Louis,Gymnastics Artistic,Men's,parallel bars
+Summer,1904,Silver,USA,United States,Anton HEIDA,1904 St Louis,Gymnastics Artistic,Men's,parallel bars
+Summer,1904,Bronze,USA,United States,John DUHA,1904 St Louis,Gymnastics Artistic,Men's,parallel bars
+Summer,1904,Gold,USA,United States,Anton HEIDA,1904 St Louis,Gymnastics Artistic,Men's,horizontal bar
+Summer,1904,Gold,USA,United States,Edward HENNIG,1904 St Louis,Gymnastics Artistic,Men's,horizontal bar
+Summer,1904,Bronze,USA,United States,George EYSER,1904 St Louis,Gymnastics Artistic,Men's,horizontal bar
+Summer,1904,Gold,USA,United States,Anton HEIDA,1904 St Louis,Gymnastics Artistic,Men's,vault
+Summer,1904,Gold,USA,United States,George EYSER,1904 St Louis,Gymnastics Artistic,Men's,vault
+Summer,1904,Bronze,USA,United States,William MERZ,1904 St Louis,Gymnastics Artistic,Men's,vault
+Summer,1904,Gold,USA,United States,Anton HEIDA,1904 St Louis,Gymnastics Artistic,Men's,pommel horse
+Summer,1904,Silver,USA,United States,George EYSER,1904 St Louis,Gymnastics Artistic,Men's,pommel horse
+Summer,1904,Bronze,USA,United States,William MERZ,1904 St Louis,Gymnastics Artistic,Men's,pommel horse
+Summer,1904,Gold,USA,United States,Hermann GLASS,1904 St Louis,Gymnastics Artistic,Men's,rings
+Summer,1904,Silver,USA,United States,William MERZ,1904 St Louis,Gymnastics Artistic,Men's,rings
+Summer,1904,Bronze,USA,United States,Emil VOIGT,1904 St Louis,Gymnastics Artistic,Men's,rings
+Summer,1904,Gold,USA,United States,George EYSER,1904 St Louis,Gymnastics Artistic,Men's,rope climbing
+Summer,1904,Silver,USA,United States,Charles KRAUSE,1904 St Louis,Gymnastics Artistic,Men's,rope climbing
+Summer,1904,Bronze,USA,United States,Emil VOIGT,1904 St Louis,Gymnastics Artistic,Men's,rope climbing
+Summer,1904,Gold,USA,United States,Edward HENNIG,1904 St Louis,Gymnastics Artistic,Men's,club swinging
+Summer,1904,Silver,USA,United States,Emil VOIGT,1904 St Louis,Gymnastics Artistic,Men's,club swinging
+Summer,1904,Bronze,USA,United States,Ralph WILSON,1904 St Louis,Gymnastics Artistic,Men's,club swinging
+Summer,1904,Gold,USA,United States,Frank GREER,1904 St Louis,Rowing,Men's,single sculls (1x)
+Summer,1904,Silver,USA,United States,James JUVENAL,1904 St Louis,Rowing,Men's,single sculls (1x)
+Summer,1904,Bronze,USA,United States,Constance TITUS,1904 St Louis,Rowing,Men's,single sculls (1x)
+Summer,1904,Gold,USA,United States,"Robert FARNAM, Joseph RYAN",1904 St Louis,Rowing,Men's,pair without coxswain (2-)
+Summer,1904,Silver,USA,United States,"John J.F. MULCAHY, William VARLEY",1904 St Louis,Rowing,Men's,pair without coxswain (2-)
+Summer,1904,Bronze,USA,United States,"John JOACHIM, Joseph BUERGER",1904 St Louis,Rowing,Men's,pair without coxswain (2-)
+Summer,1904,Gold,USA,United States,"William VARLEY, John J.F. MULCAHY",1904 St Louis,Rowing,Men's,double sculls (2x)
+Summer,1904,Silver,USA,United States,"John Grey HOBEN, James MCLOUGHLIN",1904 St Louis,Rowing,Men's,double sculls (2x)
+Summer,1904,Bronze,USA,United States,"John WELLS, Joseph RAVANACK",1904 St Louis,Rowing,Men's,double sculls (2x)
+Summer,1904,Gold,USA,United States,"August ERKER, Arthur STOCKHOFF, George DIETZ, Albert NASSE",1904 St Louis,Rowing,Men's,four without coxswain (4-)
+Summer,1904,Silver,USA,United States,"Frederick SUERIG, Michael BEGLEY, Martin FROMANACK, Charles AMAN",1904 St Louis,Rowing,Men's,four without coxswain (4-)
+Summer,1904,Bronze,USA,United States,"John FREITAG, Louis G. HELM, Gustav VOERG, Frank DUNIMERTH",1904 St Louis,Rowing,Men's,four without coxswain (4-)
+Summer,1904,Gold,USA,United States,"Charles E. ARMSTRONG, Joseph F. DEMPSEY, Frank Reaner SCHELL, Frederick CRESSER, Louis ABELL, Harry Hunter LOTT, Michael D. GLEASON, James FLANIGAN, John EXLEY",1904 St Louis,Rowing,Men's,eight with coxswain (8+)
+Summer,1904,Silver,CAN,Canada,"George M. STRANGE, Thomas Richardson LOUDON, Donald MACKENZIE, Philip Ewing BOYD, William RICE, Arthur B. BAILEY, Joseph George WRIGHT, George Patrick REIFFENSTEIN, William WADSWORTH",1904 St Louis,Rowing,Men's,eight with coxswain (8+)
+Summer,1904,Gold,HUN,Hungary,Zoltan HALMAY,1904 St Louis,Swimming,Men's,50y freestyle (45.72m)
+Summer,1904,Silver,USA,United States,J. Scott LEARY,1904 St Louis,Swimming,Men's,50y freestyle (45.72m)
+Summer,1904,Bronze,USA,United States,Charles DANIELS,1904 St Louis,Swimming,Men's,50y freestyle (45.72m)
+Summer,1904,Gold,HUN,Hungary,Zoltan HALMAY,1904 St Louis,Swimming,Men's,100y freestyle (91.44m)
+Summer,1904,Silver,USA,United States,Charles DANIELS,1904 St Louis,Swimming,Men's,100y freestyle (91.44m)
+Summer,1904,Bronze,USA,United States,J. Scott LEARY,1904 St Louis,Swimming,Men's,100y freestyle (91.44m)
+Summer,1904,Gold,USA,United States,Charles DANIELS,1904 St Louis,Swimming,Men's,220y freestyle
+Summer,1904,Silver,AUS,Australia,Francis GAILEY,1904 St Louis,Swimming,Men's,220y freestyle
+Summer,1904,Bronze,GER,Germany,Emil RAUSCH,1904 St Louis,Swimming,Men's,220y freestyle
+Summer,1904,Gold,USA,United States,Charles DANIELS,1904 St Louis,Swimming,Men's,440y freestyle
+Summer,1904,Silver,AUS,Australia,Francis GAILEY,1904 St Louis,Swimming,Men's,440y freestyle
+Summer,1904,Bronze,AUT,Austria,Otto WAHLE,1904 St Louis,Swimming,Men's,440y freestyle
+Summer,1904,Gold,GER,Germany,Emil RAUSCH,1904 St Louis,Swimming,Men's,880y freestyle (804.66m)
+Summer,1904,Silver,AUS,Australia,Francis GAILEY,1904 St Louis,Swimming,Men's,880y freestyle (804.66m)
+Summer,1904,Bronze,HUN,Hungary,Geza KISS,1904 St Louis,Swimming,Men's,880y freestyle (804.66m)
+Summer,1904,Gold,GER,Germany,Emil RAUSCH,1904 St Louis,Swimming,Men's,1 mile freestyle
+Summer,1904,Silver,HUN,Hungary,Geza KISS,1904 St Louis,Swimming,Men's,1 mile freestyle
+Summer,1904,Bronze,AUS,Australia,Francis GAILEY,1904 St Louis,Swimming,Men's,1 mile freestyle
+Summer,1904,Gold,GER,Germany,Walter BRACK,1904 St Louis,Swimming,Men's,100y backstroke
+Summer,1904,Silver,GER,Germany,Georg HOFFMANN,1904 St Louis,Swimming,Men's,100y backstroke
+Summer,1904,Bronze,GER,Germany,Georg ZACHARIAS,1904 St Louis,Swimming,Men's,100y backstroke
+Summer,1904,Gold,GER,Germany,Georg ZACHARIAS,1904 St Louis,Swimming,Men's,440y breaststroke (402.33m)
+Summer,1904,Silver,GER,Germany,Walter BRACK,1904 St Louis,Swimming,Men's,440y breaststroke (402.33m)
+Summer,1904,Bronze,USA,United States,Hehry Jamison HANDY,1904 St Louis,Swimming,Men's,440y breaststroke (402.33m)
+Summer,1904,Gold,USA,United States,"Leo Budd GOODWIN, Charles DANIELS, Joseph A. RUDDY, Louis De Breda HANDLEY",1904 St Louis,Swimming,Men's,4x50y freestyle relay
+Summer,1904,Silver,USA,United States,"Raymond THORNE, William TUTTLE, Hugo GOETZ, David HAMMOND",1904 St Louis,Swimming,Men's,4x50y freestyle relay
+Summer,1904,Bronze,USA,United States,"Gwynne EVANS, William Robert ORTHWEIN, Amadee REYBURN, Marquard SCHWARTZ",1904 St Louis,Swimming,Men's,4x50y freestyle relay
+Summer,1904,Gold,USA,United States,Beals Coleman WRIGHT,1904 St Louis,Tennis,Men's,singles
+Summer,1904,Silver,USA,United States,Robert LEROY,1904 St Louis,Tennis,Men's,singles
+Summer,1904,Bronze,USA,United States,Alphonzo Edward BELL,1904 St Louis,Tennis,Men's,singles
+Summer,1904,Bronze,USA,United States,Edgar Welch LEONARD,1904 St Louis,Tennis,Men's,singles
+Summer,1904,Gold,USA,United States,"Beals Coleman WRIGHT, Edgar Welch LEONARD",1904 St Louis,Tennis,Men's,doubles
+Summer,1904,Silver,USA,United States,"Robert LEROY, Alphonzo Edward BELL",1904 St Louis,Tennis,Men's,doubles
+Summer,1904,Bronze,USA,United States,"Allen Tarwater WEST, Joseph Walker WEAR",1904 St Louis,Tennis,Men's,doubles
+Summer,1904,Bronze,USA,United States,"Arthur Yancey WEAR, Clarence Olivier GAMBLE",1904 St Louis,Tennis,Men's,doubles
+Summer,1904,Gold,USA,United States,"David Bratton, Leo Goodwin, David Hesser, James Steen, George Van Cleaf, Louis Handley, Joe Ruddy",1904 St Louis,Water Polo,Men's,water polo
+Summer,1904,Silver,USA,United States,"Jerome Steever, Charles Healy, David Hammond, Rex Beach, Edwin Swatek, Frank Kehoe, Bill Tuttle",1904 St Louis,Water Polo,Men's,water polo
+Summer,1904,Bronze,USA,United States,"Amedee Reyburn, Augustus Goessling, John Meyers, Gwynne Evans, Frank Schreiner, Bill Orthwein, Manfred Toeppen",1904 St Louis,Water Polo,Men's,water polo
+Summer,1904,Gold,GRE,Greece,Perikles KAKOUSIS,1904 St Louis,Weightlifting,Men's,heavyweight - two hand lift
+Summer,1904,Silver,USA,United States,Oscar Paul OSTHOFF,1904 St Louis,Weightlifting,Men's,heavyweight - two hand lift
+Summer,1904,Bronze,GER,Germany,Frank KUNGLER,1904 St Louis,Weightlifting,Men's,heavyweight - two hand lift
+Summer,1904,Gold,USA,United States,Oscar Paul OSTHOFF,1904 St Louis,Weightlifting,Men's,all-around Dumbbell contest
+Summer,1904,Silver,USA,United States,Frederick WINTERS,1904 St Louis,Weightlifting,Men's,all-around Dumbbell contest
+Summer,1904,Bronze,GER,Germany,Frank KUNGLER,1904 St Louis,Weightlifting,Men's,all-around Dumbbell contest
+Summer,1904,Gold,USA,United States,Robert CURRY,1904 St Louis,Wrestling Freestyle,Men's,- 47.6kg (light-flyweight)
+Summer,1904,Silver,USA,United States,John HEIN,1904 St Louis,Wrestling Freestyle,Men's,- 47.6kg (light-flyweight)
+Summer,1904,Bronze,SUI,Switzerland,Gustav THIEFENTHALER,1904 St Louis,Wrestling Freestyle,Men's,- 47.6kg (light-flyweight)
+Summer,1904,Gold,USA,United States,George Nicholas MEHNERT,1904 St Louis,Wrestling Freestyle,Men's,47.6 - 52.16kg (flyweight)
+Summer,1904,Silver,USA,United States,Gustav BAUER,1904 St Louis,Wrestling Freestyle,Men's,47.6 - 52.16kg (flyweight)
+Summer,1904,Bronze,USA,United States,William NELSON,1904 St Louis,Wrestling Freestyle,Men's,47.6 - 52.16kg (flyweight)
+Summer,1904,Gold,USA,United States,Isidor NIFLOT,1904 St Louis,Wrestling Freestyle,Men's,52.16 - 56.7kg (bantamweight)
+Summer,1904,Silver,USA,United States,August WESTER,1904 St Louis,Wrestling Freestyle,Men's,52.16 - 56.7kg (bantamweight)
+Summer,1904,Bronze,USA,United States,Zenon B. STREBLER,1904 St Louis,Wrestling Freestyle,Men's,52.16 - 56.7kg (bantamweight)
+Summer,1904,Gold,USA,United States,Benjamin Joseph BRADSHAW,1904 St Louis,Wrestling Freestyle,Men's,56.7 - 61.23kg (featherweight)
+Summer,1904,Silver,USA,United States,Theodore MCLEAR,1904 St Louis,Wrestling Freestyle,Men's,56.7 - 61.23kg (featherweight)
+Summer,1904,Bronze,USA,United States,Charles E. CLAPPER,1904 St Louis,Wrestling Freestyle,Men's,56.7 - 61.23kg (featherweight)
+Summer,1904,Gold,USA,United States,Otto F. ROEHM,1904 St Louis,Wrestling Freestyle,Men's,61.23 - 65.77kg (lightweight)
+Summer,1904,Silver,USA,United States,Rudolph TESING,1904 St Louis,Wrestling Freestyle,Men's,61.23 - 65.77kg (lightweight)
+Summer,1904,Bronze,USA,United States,Albert ZIRKEL,1904 St Louis,Wrestling Freestyle,Men's,61.23 - 65.77kg (lightweight)
+Summer,1904,Gold,NOR,Norway,Charles ERICKSEN,1904 St Louis,Wrestling Freestyle,Men's,65.77 - 71.67kg (welterweight)
+Summer,1904,Silver,USA,United States,William BECKMANN,1904 St Louis,Wrestling Freestyle,Men's,65.77 - 71.67kg (welterweight)
+Summer,1904,Bronze,USA,United States,Jerry WINHOLTZ,1904 St Louis,Wrestling Freestyle,Men's,65.77 - 71.67kg (welterweight)
+Summer,1904,Gold,NOR,Norway,Bernhuff HANSEN,1904 St Louis,Wrestling Freestyle,Men's,+ 71.67kg (heavyweight)
+Summer,1904,Silver,GER,Germany,Frank KUNGLER,1904 St Louis,Wrestling Freestyle,Men's,+ 71.67kg (heavyweight)
+Summer,1904,Bronze,USA,United States,Frederick Charles WARMBOLD,1904 St Louis,Wrestling Freestyle,Men's,+ 71.67kg (heavyweight)
+Summer,1904,Gold,CAN,Canada,"L.H. PENTLAND, George BRETZ, Sandy COWAN, W. BRENNAUGH, William F.L. ORRIS, Jack FLETT, George CATTANACH, H. LYLE, Benjamin JAMIESON, William Laurie BURNS, Elie BLANCHARD, George CLOUTIER, Hilliard LAIDLAW",1904 St Louis,Lacrosse,Men's,lacrosse
+Summer,1904,Silver,USA,United States,"Robert Edward HUNTER, George PASSMORE, J.W. DOWLING, SULLIVAN, GIBSON, PARTRIDGE, LEHMAN, Patrick CROGAN, HESS, A.H. VENN, MURPHY, WOODS, YOUNG",1904 St Louis,Lacrosse,Men's,lacrosse
+Summer,1904,Bronze,CAN,Canada,,1904 St Louis,Lacrosse,Men's,lacrosse
+Summer,1904,Gold,USA,United States,Charles JACOBUS,1904 St Louis,Roque,Men's,individual
+Summer,1904,Silver,USA,United States,Smith O. STREETER,1904 St Louis,Roque,Men's,individual
+Summer,1904,Bronze,USA,United States,Charles BROWN,1904 St Louis,Roque,Men's,individual
+Summer,1904,Gold,USA,United States,"Sydney B. JOHNSON, Conrad MAGNUSSEN, Oscar G. OLSON, H. SICLING, Patrick FLANAGAN",1904 St Louis,Tug of War,Men's,tug of war
+Summer,1904,Silver,USA,United States,"Max BRAUN, Orrin Thomas UPSHAW, August RODENBERGER, William SEILING, Charles ROSE",1904 St Louis,Tug of War,Men's,tug of war
+Summer,1904,Bronze,USA,United States,"Charles THEAS (USA), Oscar FRIEDE (USA), Charles HABERCORN (USA), Harry JACOBS (USA), Frank KUNGLER (GER)",1904 St Louis,Tug of War,Men's,tug of war

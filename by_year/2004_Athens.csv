@@ -1,0 +1,927 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,2004,Gold,ITA,Italy,Марко Гальяццо,2004 Athens,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2004,Silver,JPN,Japan,Хироши Ямамото,2004 Athens,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2004,Bronze,AUS,Australia,Тим Хаддихи,2004 Athens,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2004,Gold,KOR,Korea Republic,,2004 Athens,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2004,Silver,TPE,Chinese Taipei,,2004 Athens,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2004,Bronze,UKR,Ukraine,,2004 Athens,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2004,Gold,KOR,Korea Republic,Парк Сун Хьюн,2004 Athens,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2004,Silver,KOR,Korea Republic,Ли Сун Чжин,2004 Athens,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2004,Bronze,GBR,Great Britain,Элисон Уилльямсон,2004 Athens,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2004,Gold,KOR,Korea Republic,,2004 Athens,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2004,Silver,CHN,China,,2004 Athens,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2004,Bronze,TPE,Chinese Taipei,,2004 Athens,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2004,Gold,RUS,Russian Federation,"Ольга Новокщенова, Эльвира Хасянова, Елена Азарова, Мария Громова, Анастасия Ермакова, Анна Шорина, Ольга Брусникина, Анастасия Давыдова, Мария Кисилева",2004 Athens,Artistic Swimming,Women's,team
+Summer,2004,Silver,JPN,Japan,,2004 Athens,Artistic Swimming,Women's,team
+Summer,2004,Bronze,USA,United States,,2004 Athens,Artistic Swimming,Women's,team
+Summer,2004,Gold,RUS,Russian Federation,"Анастасия Давыдова, Анастасия Ермакова",2004 Athens,Artistic Swimming,Women's,duet
+Summer,2004,Silver,JPN,Japan,"Мия Тачибана, Михо Такеда",2004 Athens,Artistic Swimming,Women's,duet
+Summer,2004,Bronze,USA,United States,"Элисон Бартосик, Анна Козлова",2004 Athens,Artistic Swimming,Women's,duet
+Summer,2004,Gold,USA,United States,Джастин Гэтлин,2004 Athens,Athletics,Men's,100m
+Summer,2004,Silver,POR,Portugal,Франсис Обиквелу,2004 Athens,Athletics,Men's,100m
+Summer,2004,Bronze,USA,United States,Морис Грин,2004 Athens,Athletics,Men's,100m
+Summer,2004,Gold,USA,United States,Шон Кроуфорд,2004 Athens,Athletics,Men's,200m
+Summer,2004,Silver,USA,United States,Бернард Уильямс,2004 Athens,Athletics,Men's,200m
+Summer,2004,Bronze,USA,United States,Джастин Гэтлин,2004 Athens,Athletics,Men's,200m
+Summer,2004,Gold,USA,United States,Джереми Варинер,2004 Athens,Athletics,Men's,400m
+Summer,2004,Silver,USA,United States,Отис Харрис,2004 Athens,Athletics,Men's,400m
+Summer,2004,Bronze,USA,United States,Деррик Блю,2004 Athens,Athletics,Men's,400m
+Summer,2004,Gold,RUS,Russian Federation,Юрий Борзаковский,2004 Athens,Athletics,Men's,800m
+Summer,2004,Silver,RSA,South Africa,Мбулаени Мулаудзи,2004 Athens,Athletics,Men's,800m
+Summer,2004,Bronze,DEN,Denmark,Уилсон Кипкетер,2004 Athens,Athletics,Men's,800m
+Summer,2004,Gold,MAR,Morocco,Хишам Эль-Герруж,2004 Athens,Athletics,Men's,1500m
+Summer,2004,Silver,KEN,Kenya,Бернард Лагат,2004 Athens,Athletics,Men's,1500m
+Summer,2004,Bronze,POR,Portugal,Руй Силва,2004 Athens,Athletics,Men's,1500m
+Summer,2004,Gold,MAR,Morocco,Хишам Эль-Герруж,2004 Athens,Athletics,Men's,5000m
+Summer,2004,Silver,ETH,Ethiopia,Кенениса Бекеле,2004 Athens,Athletics,Men's,5000m
+Summer,2004,Bronze,KEN,Kenya,Элиуд Кипчоге,2004 Athens,Athletics,Men's,5000m
+Summer,2004,Gold,ETH,Ethiopia,Кенениса Бекеле,2004 Athens,Athletics,Men's,10000m
+Summer,2004,Silver,ETH,Ethiopia,Силеши Сихине,2004 Athens,Athletics,Men's,10000m
+Summer,2004,Bronze,ERI,Eritrea,Зерсанаи Тедессе,2004 Athens,Athletics,Men's,10000m
+Summer,2004,Gold,ITA,Italy,Стефано Бальдини,2004 Athens,Athletics,Men's,marathon
+Summer,2004,Silver,USA,United States,Мебратом Кефлезиги,2004 Athens,Athletics,Men's,marathon
+Summer,2004,Bronze,BRA,Brazil,Вандерлей Де Лима,2004 Athens,Athletics,Men's,marathon
+Summer,2004,Gold,CHN,China,Лю Сян,2004 Athens,Athletics,Men's,110m hurdles
+Summer,2004,Silver,USA,United States,Терренс Траммел,2004 Athens,Athletics,Men's,110m hurdles
+Summer,2004,Bronze,CUB,Cuba,Аньер Гарсия,2004 Athens,Athletics,Men's,110m hurdles
+Summer,2004,Gold,DOM,Dominican Republic,Феликс Санчес,2004 Athens,Athletics,Men's,400m hurdles
+Summer,2004,Silver,JAM,Jamaica,Дэнни Макфарлэйн,2004 Athens,Athletics,Men's,400m hurdles
+Summer,2004,Bronze,FRA,France,Наман Кейта,2004 Athens,Athletics,Men's,400m hurdles
+Summer,2004,Gold,KEN,Kenya,Эзекиль Кембой,2004 Athens,Athletics,Men's,3000m steeplechase
+Summer,2004,Silver,KEN,Kenya,Бримин Кипруто,2004 Athens,Athletics,Men's,3000m steeplechase
+Summer,2004,Bronze,KEN,Kenya,Пол Кипселе Коеч,2004 Athens,Athletics,Men's,3000m steeplechase
+Summer,2004,Gold,GBR,Great Britain,,2004 Athens,Athletics,Men's,4x100m relay
+Summer,2004,Silver,USA,United States,,2004 Athens,Athletics,Men's,4x100m relay
+Summer,2004,Bronze,NGR,Nigeria,,2004 Athens,Athletics,Men's,4x100m relay
+Summer,2004,Gold,USA,United States,,2004 Athens,Athletics,Men's,4x400m relay
+Summer,2004,Silver,AUS,Australia,,2004 Athens,Athletics,Men's,4x400m relay
+Summer,2004,Bronze,NGR,Nigeria,,2004 Athens,Athletics,Men's,4x400m relay
+Summer,2004,Gold,ITA,Italy,Ивано Бруньетти,2004 Athens,Athletics,Men's,20km walk
+Summer,2004,Silver,ESP,Spain,Франциско Хавьер Фернандес,2004 Athens,Athletics,Men's,20km walk
+Summer,2004,Bronze,AUS,Australia,Натан Дикс,2004 Athens,Athletics,Men's,20km walk
+Summer,2004,Gold,POL,Poland,Роберт Корженевский,2004 Athens,Athletics,Men's,50km walk
+Summer,2004,Silver,RUS,Russian Federation,Денис Нижегородов,2004 Athens,Athletics,Men's,50km walk
+Summer,2004,Bronze,RUS,Russian Federation,Алексей Воеводин,2004 Athens,Athletics,Men's,50km walk
+Summer,2004,Gold,USA,United States,Дуайт Филлипс,2004 Athens,Athletics,Men's,long jump
+Summer,2004,Silver,USA,United States,Джон Моффитт,2004 Athens,Athletics,Men's,long jump
+Summer,2004,Bronze,ESP,Spain,Хуан Лино Мартинес,2004 Athens,Athletics,Men's,long jump
+Summer,2004,Gold,SWE,Sweden,Кристиан Олссон,2004 Athens,Athletics,Men's,triple jump
+Summer,2004,Silver,ROU,Romania,Мариан Опря,2004 Athens,Athletics,Men's,triple jump
+Summer,2004,Bronze,RUS,Russian Federation,Данил Буркеня,2004 Athens,Athletics,Men's,triple jump
+Summer,2004,Gold,SWE,Sweden,Стефан Хольм,2004 Athens,Athletics,Men's,high jump
+Summer,2004,Silver,USA,United States,Мэтт Хэмингуэй,2004 Athens,Athletics,Men's,high jump
+Summer,2004,Bronze,CZE,Czech Republic,Ярослав Баба,2004 Athens,Athletics,Men's,high jump
+Summer,2004,Gold,USA,United States,Тимоти Мэк,2004 Athens,Athletics,Men's,pole vault
+Summer,2004,Silver,USA,United States,Тоби Стивенсон,2004 Athens,Athletics,Men's,pole vault
+Summer,2004,Bronze,ITA,Italy,Джузеппе Джибилиско,2004 Athens,Athletics,Men's,pole vault
+Summer,2004,Gold,USA,United States,Адам Нельсон,2004 Athens,Athletics,Men's,shot put
+Summer,2004,Silver,DEN,Denmark,Йохим Ольсен,2004 Athens,Athletics,Men's,shot put
+Summer,2004,Bronze,ESP,Spain,Мануэль Мартинес,2004 Athens,Athletics,Men's,shot put
+Summer,2004,Gold,LTU,Lithuania,Виргилиус Алекна,2004 Athens,Athletics,Men's,discus throw
+Summer,2004,Silver,HUN,Hungary,Золтан Коваго,2004 Athens,Athletics,Men's,discus throw
+Summer,2004,Bronze,EST,Estonia,Александр Таммерт,2004 Athens,Athletics,Men's,discus throw
+Summer,2004,Gold,NOR,Norway,Андреас Торкильдсен,2004 Athens,Athletics,Men's,javelin throw
+Summer,2004,Silver,LAT,Latvia,Вадимс Василевскис,2004 Athens,Athletics,Men's,javelin throw
+Summer,2004,Bronze,RUS,Russian Federation,Сергей Макаров,2004 Athens,Athletics,Men's,javelin throw
+Summer,2004,Gold,JPN,Japan,Koji Murofushi,2004 Athens,Athletics,Men's,hammer throw
+Summer,2004,Gold,CZE,Czech Republic,Роман Себрле,2004 Athens,Athletics,Men's,decathlon
+Summer,2004,Silver,USA,United States,Брайан Клэй,2004 Athens,Athletics,Men's,decathlon
+Summer,2004,Bronze,KAZ,Kazakhstan,Дмитрий Карпов,2004 Athens,Athletics,Men's,decathlon
+Summer,2004,Gold,BLR,Belarus,Юлия Нестеренко,2004 Athens,Athletics,Women's,100m
+Summer,2004,Silver,USA,United States,Лорин Уилльямс,2004 Athens,Athletics,Women's,100m
+Summer,2004,Bronze,JAM,Jamaica,Вероника Кэмпбелл,2004 Athens,Athletics,Women's,100m
+Summer,2004,Gold,JAM,Jamaica,Вероника Кэмпбелл,2004 Athens,Athletics,Women's,200m
+Summer,2004,Silver,USA,United States,Эллисон Феликс,2004 Athens,Athletics,Women's,200m
+Summer,2004,Bronze,BAH,Bahamas,Дебби Фергюсон,2004 Athens,Athletics,Women's,200m
+Summer,2004,Gold,BAH,Bahamas,Тоник Уильямс-Дарлинг,2004 Athens,Athletics,Women's,400m
+Summer,2004,Silver,MEX,Mexico,Ана Гевара,2004 Athens,Athletics,Women's,400m
+Summer,2004,Bronze,RUS,Russian Federation,Наталья Антюх,2004 Athens,Athletics,Women's,400m
+Summer,2004,Gold,GBR,Great Britain,Келли Холмс,2004 Athens,Athletics,Women's,800m
+Summer,2004,Silver,MAR,Morocco,Хасна Бенхасси,2004 Athens,Athletics,Women's,800m
+Summer,2004,Bronze,SLO,Slovenia,Иоланда Чеплак,2004 Athens,Athletics,Women's,800m
+Summer,2004,Gold,GBR,Great Britain,Келли Холмс,2004 Athens,Athletics,Women's,1500m
+Summer,2004,Silver,RUS,Russian Federation,Татьяна Томашова,2004 Athens,Athletics,Women's,1500m
+Summer,2004,Bronze,ROU,Romania,Мария Чионкан,2004 Athens,Athletics,Women's,1500m
+Summer,2004,Gold,ETH,Ethiopia,Месерт Дефар,2004 Athens,Athletics,Women's,5000m
+Summer,2004,Silver,KEN,Kenya,Изабелла Очичи,2004 Athens,Athletics,Women's,5000m
+Summer,2004,Bronze,ETH,Ethiopia,Тирунеш Дибаба,2004 Athens,Athletics,Women's,5000m
+Summer,2004,Gold,CHN,China,Син Хуэйна,2004 Athens,Athletics,Women's,10000m
+Summer,2004,Silver,ETH,Ethiopia,Эджегайеху Дибаба,2004 Athens,Athletics,Women's,10000m
+Summer,2004,Bronze,ETH,Ethiopia,Дерарту Тулу,2004 Athens,Athletics,Women's,10000m
+Summer,2004,Gold,JPN,Japan,Мизуки Ногучи,2004 Athens,Athletics,Women's,marathon
+Summer,2004,Silver,KEN,Kenya,Катрин Ндереба,2004 Athens,Athletics,Women's,marathon
+Summer,2004,Bronze,USA,United States,Дина Кастор,2004 Athens,Athletics,Women's,marathon
+Summer,2004,Gold,USA,United States,Джоанна Хэйс,2004 Athens,Athletics,Women's,100m hurdles
+Summer,2004,Silver,UKR,Ukraine,Елена Красовска,2004 Athens,Athletics,Women's,100m hurdles
+Summer,2004,Bronze,USA,United States,Мелисса Мориссон,2004 Athens,Athletics,Women's,100m hurdles
+Summer,2004,Gold,GRE,Greece,Фани Халкия,2004 Athens,Athletics,Women's,400m hurdles
+Summer,2004,Silver,ROU,Romania,Ионела Тирля-Манолаче,2004 Athens,Athletics,Women's,400m hurdles
+Summer,2004,Bronze,UKR,Ukraine,Татьяна Терещук-Антипова,2004 Athens,Athletics,Women's,400m hurdles
+Summer,2004,Gold,JAM,Jamaica,,2004 Athens,Athletics,Women's,4x100m relay
+Summer,2004,Silver,RUS,Russian Federation,"Юлия Табакова, Лариса Круглова, Ольга Федорова, Ирина Хабарова",2004 Athens,Athletics,Women's,4x100m relay
+Summer,2004,Bronze,FRA,France,,2004 Athens,Athletics,Women's,4x100m relay
+Summer,2004,Gold,USA,United States,,2004 Athens,Athletics,Women's,4x400m relay
+Summer,2004,Silver,RUS,Russian Federation,"Наталья Назарова, Наталья Антюх, Татьяна Фирова, Олеся Красномовец, Олеся Зыкина, Наталья Иванова",2004 Athens,Athletics,Women's,4x400m relay
+Summer,2004,Bronze,JAM,Jamaica,,2004 Athens,Athletics,Women's,4x400m relay
+Summer,2004,Gold,GRE,Greece,Анастасия Цумелека,2004 Athens,Athletics,Women's,20km race walk
+Summer,2004,Silver,RUS,Russian Federation,Олимпиада Иванова,2004 Athens,Athletics,Women's,20km race walk
+Summer,2004,Bronze,AUS,Australia,Джэйн Савийе,2004 Athens,Athletics,Women's,20km race walk
+Summer,2004,Gold,RUS,Russian Federation,Татьяна Лебедева,2004 Athens,Athletics,Women's,long jump
+Summer,2004,Silver,RUS,Russian Federation,Ирина Симагина,2004 Athens,Athletics,Women's,long jump
+Summer,2004,Bronze,RUS,Russian Federation,Татьяна Котова,2004 Athens,Athletics,Women's,long jump
+Summer,2004,Gold,CMR,Cameroon,Франсуаз Мбанго Этоне,2004 Athens,Athletics,Women's,triple jump
+Summer,2004,Silver,GRE,Greece,Хрисопиги Девеци,2004 Athens,Athletics,Women's,triple jump
+Summer,2004,Bronze,RUS,Russian Federation,Татьяна Лебедева,2004 Athens,Athletics,Women's,triple jump
+Summer,2004,Gold,RUS,Russian Federation,Елена Слесаренко,2004 Athens,Athletics,Women's,high jump
+Summer,2004,Silver,RSA,South Africa,Хестри Клуте,2004 Athens,Athletics,Women's,high jump
+Summer,2004,Bronze,UKR,Ukraine,Виктория Степина,2004 Athens,Athletics,Women's,high jump
+Summer,2004,Gold,RUS,Russian Federation,Елена Исинбаева,2004 Athens,Athletics,Women's,pole vault
+Summer,2004,Silver,RUS,Russian Federation,Светлана Феофанова,2004 Athens,Athletics,Women's,pole vault
+Summer,2004,Bronze,POL,Poland,Анна Роговска,2004 Athens,Athletics,Women's,pole vault
+Summer,2004,Gold,CUB,Cuba,Yumileidi Cumba,2004 Athens,Athletics,Women's,shot put
+Summer,2004,Silver,GER,Germany,Nadine Kleinert,2004 Athens,Athletics,Women's,shot put
+Summer,2004,Gold,RUS,Russian Federation,Наталья Садова,2004 Athens,Athletics,Women's,discus throw
+Summer,2004,Silver,GRE,Greece,Анастасия Келесиду,2004 Athens,Athletics,Women's,discus throw
+Summer,2004,Bronze,CZE,Czech Republic,Вера Поспишилова-Кешлова,2004 Athens,Athletics,Women's,discus throw
+Summer,2004,Gold,CUB,Cuba,Ослейдис Менендес,2004 Athens,Athletics,Women's,javelin throw
+Summer,2004,Silver,GER,Germany,Штеффи Нериус,2004 Athens,Athletics,Women's,javelin throw
+Summer,2004,Bronze,GRE,Greece,Мирела Маньяни,2004 Athens,Athletics,Women's,javelin throw
+Summer,2004,Gold,RUS,Russian Federation,Ольга Кузенкова,2004 Athens,Athletics,Women's,hammer throw
+Summer,2004,Silver,CUB,Cuba,Ибси Морено,2004 Athens,Athletics,Women's,hammer throw
+Summer,2004,Bronze,CUB,Cuba,Юнаика Кроуфорд,2004 Athens,Athletics,Women's,hammer throw
+Summer,2004,Gold,SWE,Sweden,Каролин Клюфт,2004 Athens,Athletics,Women's,heptathlon
+Summer,2004,Silver,LTU,Lithuania,Ауштра Скуйте,2004 Athens,Athletics,Women's,heptathlon
+Summer,2004,Bronze,GBR,Great Britain,Келли Созертон,2004 Athens,Athletics,Women's,heptathlon
+Summer,2004,Gold,INA,Indonesia,Тауфик Хидаят,2004 Athens,Badminton,Men's,singles
+Summer,2004,Silver,KOR,Korea Republic,Шон Сеун Мо,2004 Athens,Badminton,Men's,singles
+Summer,2004,Bronze,INA,Indonesia,Сони Дви Кункоро,2004 Athens,Badminton,Men's,singles
+Summer,2004,Gold,KOR,Korea Republic,"Ха Тае Квон, Ким Дон Мун",2004 Athens,Badminton,Men's,doubles
+Summer,2004,Silver,KOR,Korea Republic,"Ю Йонг Сунг, Ли Донг Су",2004 Athens,Badminton,Men's,doubles
+Summer,2004,Bronze,INA,Indonesia,"Флэнди Лимпеле, Энг Хиан",2004 Athens,Badminton,Men's,doubles
+Summer,2004,Gold,CHN,China,Чжан Нин,2004 Athens,Badminton,Women's,singles
+Summer,2004,Silver,NED,Netherlands,Миа Аудина,2004 Athens,Badminton,Women's,singles
+Summer,2004,Bronze,CHN,China,Чжоу Ми,2004 Athens,Badminton,Women's,singles
+Summer,2004,Gold,CHN,China,"Ян Вэй, Чжан Цзевэнь",2004 Athens,Badminton,Women's,doubles
+Summer,2004,Silver,CHN,China,"Гао Лин, Хуан Суй",2004 Athens,Badminton,Women's,doubles
+Summer,2004,Bronze,KOR,Korea Republic,"Ли Кунг Вон, Ра Кунг Мин",2004 Athens,Badminton,Women's,doubles
+Summer,2004,Gold,CHN,China,"Гао Лин, Чжан Цзюнь",2004 Athens,Badminton,Mixed,doubles
+Summer,2004,Silver,GBR,Great Britain,"Гэйл Эммс, Натан Робертсон",2004 Athens,Badminton,Mixed,doubles
+Summer,2004,Bronze,DEN,Denmark,"Метте Шольдагер, Йенс Эриксен",2004 Athens,Badminton,Mixed,doubles
+Summer,2004,Gold,ARG,Argentina,,2004 Athens,Basketball,Men's,basketball
+Summer,2004,Silver,ITA,Italy,,2004 Athens,Basketball,Men's,basketball
+Summer,2004,Bronze,USA,United States,,2004 Athens,Basketball,Men's,basketball
+Summer,2004,Gold,USA,United States,,2004 Athens,Basketball,Women's,basketball
+Summer,2004,Silver,AUS,Australia,,2004 Athens,Basketball,Women's,basketball
+Summer,2004,Bronze,RUS,Russian Federation,,2004 Athens,Basketball,Women's,basketball
+Summer,2004,Gold,BRA,Brazil,"Эмануэл Рего, Рикардо Алекс Сантос",2004 Athens,Beach Volleyball,Men's,beach volleyball
+Summer,2004,Silver,ESP,Spain,"Пабло Эррера, Хавьер Босма",2004 Athens,Beach Volleyball,Men's,beach volleyball
+Summer,2004,Bronze,SUI,Switzerland,"Патрик Хойшер, Штефан Кобел",2004 Athens,Beach Volleyball,Men's,beach volleyball
+Summer,2004,Gold,USA,United States,"Мисти Мэй, Кэрри Уолш",2004 Athens,Beach Volleyball,Women's,beach volleyball
+Summer,2004,Silver,BRA,Brazil,"Шелда Беде, Адриана Бехар",2004 Athens,Beach Volleyball,Women's,beach volleyball
+Summer,2004,Bronze,USA,United States,"Элейн Янг, Холли Макпик",2004 Athens,Beach Volleyball,Women's,beach volleyball
+Summer,2004,Gold,CUB,Cuba,Ян Бартелеми Варела,2004 Athens,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2004,Silver,TUR,Turkey,Атагун Ялсинкая,2004 Athens,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2004,Bronze,CHN,China,Шимин Цзу,2004 Athens,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2004,Bronze,RUS,Russian Federation,Сергей Казаков,2004 Athens,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2004,Gold,CUB,Cuba,Юриоркис Гамбоа,2004 Athens,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2004,Silver,FRA,France,Жерор Тома,2004 Athens,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2004,Bronze,AZE,Azerbaijan,Фуад Асланов,2004 Athens,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2004,Bronze,GER,Germany,Рустамходжа Рахимов,2004 Athens,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2004,Gold,CUB,Cuba,Гильермо Ригондо,2004 Athens,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2004,Silver,THA,Thailand,Ворапой Петчкум,2004 Athens,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2004,Bronze,AZE,Azerbaijan,Агаси Мамедов,2004 Athens,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2004,Bronze,UZB,Uzbekistan,Баходирджон Соолтонов,2004 Athens,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2004,Gold,RUS,Russian Federation,Алексей Тищенко,2004 Athens,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2004,Silver,PRK,Korea DPR,Ким Сон Гук,2004 Athens,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2004,Bronze,GER,Germany,Виталий Тайберт,2004 Athens,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2004,Bronze,KOR,Korea Republic,Джо Сек Хван,2004 Athens,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2004,Gold,CUB,Cuba,Марио Кинделан,2004 Athens,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2004,Silver,GBR,Great Britain,Амир Хан,2004 Athens,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2004,Bronze,KAZ,Kazakhstan,Серик Елев,2004 Athens,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2004,Bronze,RUS,Russian Federation,Мурат Храчев,2004 Athens,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2004,Gold,THA,Thailand,Манус Бунхамнонг,2004 Athens,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2004,Silver,CUB,Cuba,Юдель Седено Джонсон,2004 Athens,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2004,Bronze,BUL,Bulgaria,Борис Георгиев,2004 Athens,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2004,Bronze,ROU,Romania,Йонут Георге,2004 Athens,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2004,Gold,KAZ,Kazakhstan,Бахтияр Артаев,2004 Athens,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2004,Silver,CUB,Cuba,Лоренцо Арагон,2004 Athens,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2004,Bronze,KOR,Korea Republic,Ким Жун Жо,2004 Athens,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2004,Bronze,RUS,Russian Federation,Олег Саитов,2004 Athens,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2004,Gold,RUS,Russian Federation,Гайдарбек Гайдарбеков,2004 Athens,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2004,Silver,KAZ,Kazakhstan,Геннадий Головкин,2004 Athens,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2004,Bronze,THA,Thailand,Сюрия Прасатхинпхимай,2004 Athens,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2004,Bronze,USA,United States,Андре Жирелл,2004 Athens,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2004,Gold,USA,United States,Андре Уорд,2004 Athens,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2004,Silver,BLR,Belarus,Магомед Арипгаджиев,2004 Athens,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2004,Bronze,EGY,Egypt,Ахмед Исмаил,2004 Athens,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2004,Bronze,UZB,Uzbekistan,Уткирбек Хайдаров,2004 Athens,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2004,Gold,CUB,Cuba,Одланьер Солис,2004 Athens,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2004,Silver,BLR,Belarus,Виктор Зуев,2004 Athens,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2004,Bronze,EGY,Egypt,Мохамед Эль-Саед,2004 Athens,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2004,Bronze,SYR,Syria,Насер Аль-Шами,2004 Athens,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2004,Gold,RUS,Russian Federation,Александр Поветкин,2004 Athens,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2004,Silver,EGY,Egypt,Мохамед Али,2004 Athens,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2004,Bronze,CUB,Cuba,Михель Лопес,2004 Athens,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2004,Bronze,ITA,Italy,Роберто Каммерелле,2004 Athens,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2004,Gold,FRA,France,Бенуа Пешер,2004 Athens,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2004,Silver,GBR,Great Britain,Кэмпбелл Уолш,2004 Athens,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2004,Bronze,FRA,France,Фабьен Лефевр,2004 Athens,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2004,Gold,FRA,France,Тони Эстанжо,2004 Athens,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2004,Silver,SVK,Slovakia,Михал Мартикан,2004 Athens,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2004,Bronze,GER,Germany,Штефан Пфаннмеллер,2004 Athens,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2004,Gold,SVK,Slovakia,"Павол Хохшорнер, Петер Хохшорнер",2004 Athens,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2004,Silver,GER,Germany,"Маркус Бекер, Штефан Хенце",2004 Athens,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2004,Bronze,CZE,Czech Republic,"Ярослав Вольф, Ондрей Стефанек",2004 Athens,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2004,Gold,SVK,Slovakia,Елена Калиска,2004 Athens,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2004,Silver,USA,United States,Ребекка Гидденс,2004 Athens,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2004,Bronze,GBR,Great Britain,Хелен Ривз,2004 Athens,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2004,Gold,CAN,Canada,Адам Ван Куверден,2004 Athens,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2004,Silver,AUS,Australia,Нэйтан Бэггли,2004 Athens,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2004,Bronze,GBR,Great Britain,Йан Уинни,2004 Athens,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2004,Gold,NOR,Norway,Эрик Верас Ларсен,2004 Athens,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2004,Silver,NZL,New Zealand,Бен Фоухи,2004 Athens,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2004,Bronze,CAN,Canada,Адам Ван Куверден,2004 Athens,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2004,Gold,GER,Germany,"Тим Вайскоттер, Рональд Раухе",2004 Athens,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2004,Silver,AUS,Australia,"Клинт Робинсон, Нэйтан Бэггли",2004 Athens,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2004,Bronze,BLR,Belarus,"Роман Петрушенко, Вадим Махнев",2004 Athens,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2004,Gold,SWE,Sweden,"Хенрик Нильссон, Маркус Оскарссон",2004 Athens,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2004,Silver,ITA,Italy,"Беньямино Бономи, Антонио Росси",2004 Athens,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2004,Bronze,NOR,Norway,"Нильс Олав Фьельдхейм, Эрик Верас Ларсен",2004 Athens,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2004,Gold,HUN,Hungary,,2004 Athens,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2004,Silver,GER,Germany,,2004 Athens,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2004,Bronze,SVK,Slovakia,,2004 Athens,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2004,Gold,GER,Germany,Андреас Диттмер,2004 Athens,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2004,Silver,ESP,Spain,Давид Саль,2004 Athens,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2004,Bronze,RUS,Russian Federation,Максим Опалев,2004 Athens,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2004,Gold,ESP,Spain,Давид Саль,2004 Athens,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2004,Silver,GER,Germany,Андреас Диттмер,2004 Athens,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2004,Bronze,HUN,Hungary,Аттила Вайда,2004 Athens,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2004,Gold,CHN,China,"Ян Вэньцзюнь, Мэй Гуаньлян",2004 Athens,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2004,Silver,CUB,Cuba,"Ибрахим Рохас Бланко, Ледис Франк Балсейро-Пахон",2004 Athens,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2004,Bronze,RUS,Russian Federation,"Александр Ковалев, Александр Костоглод",2004 Athens,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2004,Gold,GER,Germany,"Томаш Виленцек, Кристиан Гилле",2004 Athens,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2004,Silver,RUS,Russian Federation,"Александр Костоглод, Александр Ковалев",2004 Athens,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2004,Bronze,HUN,Hungary,"Дьордь Колонич, Дьордь Козманн",2004 Athens,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2004,Gold,HUN,Hungary,Наташа Янич,2004 Athens,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2004,Silver,ITA,Italy,Жозефа Идем,2004 Athens,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2004,Bronze,CAN,Canada,Каролин Брунет,2004 Athens,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2004,Gold,HUN,Hungary,"Каталин Ковач, Наташа Янич",2004 Athens,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2004,Silver,GER,Germany,"Каролин Леонхардт, Биргит Фишер",2004 Athens,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2004,Bronze,POL,Poland,"Беата Соколовска, Анета Пастушка",2004 Athens,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2004,Gold,GER,Germany,,2004 Athens,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2004,Silver,HUN,Hungary,,2004 Athens,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2004,Bronze,UKR,Ukraine,,2004 Athens,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2004,Gold,FRA,France,Жюльен Абсалон,2004 Athens,Cycling Mountain Bike,Men's,cross-country
+Summer,2004,Silver,ESP,Spain,Хосе Антонио Эрмида,2004 Athens,Cycling Mountain Bike,Men's,cross-country
+Summer,2004,Bronze,NED,Netherlands,Барт Брентьенс,2004 Athens,Cycling Mountain Bike,Men's,cross-country
+Summer,2004,Gold,NOR,Norway,Гунн-Рита Дэли,2004 Athens,Cycling Mountain Bike,Women's,cross-country
+Summer,2004,Silver,CAN,Canada,Мари-Элен Премон,2004 Athens,Cycling Mountain Bike,Women's,cross-country
+Summer,2004,Bronze,GER,Germany,Сабине Шпитц,2004 Athens,Cycling Mountain Bike,Women's,cross-country
+Summer,2004,Gold,ITA,Italy,Паоло Беттини,2004 Athens,Cycling Road,Men's,individual road race
+Summer,2004,Silver,POR,Portugal,Серджиу Паулинью,2004 Athens,Cycling Road,Men's,individual road race
+Summer,2004,Bronze,BEL,Belgium,Аксель Меркс,2004 Athens,Cycling Road,Men's,individual road race
+Summer,2004,Gold,RUS,Russian Federation,Вячеслав Екимов,2004 Athens,Cycling Road,Men's,individual time trial
+Summer,2004,Silver,USA,United States,Бобби Джулич,2004 Athens,Cycling Road,Men's,individual time trial
+Summer,2004,Bronze,AUS,Australia,Майкл Роджерс,2004 Athens,Cycling Road,Men's,individual time trial
+Summer,2004,Gold,AUS,Australia,Сара Кэрриган,2004 Athens,Cycling Road,Women's,individual road race
+Summer,2004,Silver,GER,Germany,Юдит Арндт,2004 Athens,Cycling Road,Women's,individual road race
+Summer,2004,Bronze,RUS,Russian Federation,Ольга Слюсарева,2004 Athens,Cycling Road,Women's,individual road race
+Summer,2004,Gold,NED,Netherlands,Леонтьен Зийлаард-Ван Моорсель,2004 Athens,Cycling Road,Women's,individual time trial
+Summer,2004,Silver,USA,United States,Дейрдре Демет-Бэрри,2004 Athens,Cycling Road,Women's,individual time trial
+Summer,2004,Bronze,SUI,Switzerland,Карин Тюриг,2004 Athens,Cycling Road,Women's,individual time trial
+Summer,2004,Gold,AUS,Australia,Райан Бэйли,2004 Athens,Cycling Track,Men's,sprint individual
+Summer,2004,Silver,NED,Netherlands,Тео Бос,2004 Athens,Cycling Track,Men's,sprint individual
+Summer,2004,Bronze,GER,Germany,Рене Вольфф,2004 Athens,Cycling Track,Men's,sprint individual
+Summer,2004,Gold,GBR,Great Britain,Брэдли Уиггинс,2004 Athens,Cycling Track,Men's,individual pursuit
+Summer,2004,Silver,AUS,Australia,Брэд Макги,2004 Athens,Cycling Track,Men's,individual pursuit
+Summer,2004,Bronze,ESP,Spain,Серхи Эскобар,2004 Athens,Cycling Track,Men's,individual pursuit
+Summer,2004,Gold,RUS,Russian Federation,Михаил Игнатьев,2004 Athens,Cycling Track,Men's,points race
+Summer,2004,Silver,ESP,Spain,Хуан Льянерас,2004 Athens,Cycling Track,Men's,points race
+Summer,2004,Bronze,GER,Germany,Гвидо Фюльст,2004 Athens,Cycling Track,Men's,points race
+Summer,2004,Gold,GBR,Great Britain,Крис Хой,2004 Athens,Cycling Track,Men's,1km time trial
+Summer,2004,Silver,FRA,France,Арну Турнан,2004 Athens,Cycling Track,Men's,1km time trial
+Summer,2004,Bronze,GER,Germany,Штефан Нимке,2004 Athens,Cycling Track,Men's,1km time trial
+Summer,2004,Gold,AUS,Australia,,2004 Athens,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2004,Silver,GBR,Great Britain,,2004 Athens,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2004,Bronze,ESP,Spain,,2004 Athens,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2004,Gold,GER,Germany,,2004 Athens,Cycling Track,Men's,Team Sprint
+Summer,2004,Silver,JPN,Japan,,2004 Athens,Cycling Track,Men's,Team Sprint
+Summer,2004,Bronze,FRA,France,,2004 Athens,Cycling Track,Men's,Team Sprint
+Summer,2004,Gold,AUS,Australia,"Стюарт О'Грэйди, Грэм Броун",2004 Athens,Cycling Track,Men's,Madison
+Summer,2004,Silver,SUI,Switzerland,"Бруно Риси, Франко Марвулли",2004 Athens,Cycling Track,Men's,Madison
+Summer,2004,Bronze,GBR,Great Britain,"Брэдли Уиггинс, Роб Хэйлс",2004 Athens,Cycling Track,Men's,Madison
+Summer,2004,Gold,AUS,Australia,Райан Бэйли,2004 Athens,Cycling Track,Men's,Keirin
+Summer,2004,Silver,ESP,Spain,Хосе Эскуредо,2004 Athens,Cycling Track,Men's,Keirin
+Summer,2004,Bronze,AUS,Australia,Шэйн Келли,2004 Athens,Cycling Track,Men's,Keirin
+Summer,2004,Gold,CAN,Canada,Лори-Энн Мюнцер,2004 Athens,Cycling Track,Women's,sprint individual
+Summer,2004,Silver,RUS,Russian Federation,Тамилла Абасова,2004 Athens,Cycling Track,Women's,sprint individual
+Summer,2004,Bronze,AUS,Australia,Энн Мирз,2004 Athens,Cycling Track,Women's,sprint individual
+Summer,2004,Gold,NZL,New Zealand,Сара Ульмер,2004 Athens,Cycling Track,Women's,individual pursuit
+Summer,2004,Silver,AUS,Australia,Кэти Мактайр,2004 Athens,Cycling Track,Women's,individual pursuit
+Summer,2004,Bronze,NED,Netherlands,Леонтьен Зийлаард-Ван Моорсель,2004 Athens,Cycling Track,Women's,individual pursuit
+Summer,2004,Gold,RUS,Russian Federation,Ольга Слюсарева,2004 Athens,Cycling Track,Women's,points race
+Summer,2004,Silver,MEX,Mexico,Белем Херреро Мендес,2004 Athens,Cycling Track,Women's,points race
+Summer,2004,Bronze,COL,Colombia,Мария-Луиса Калье-Уильямс,2004 Athens,Cycling Track,Women's,points race
+Summer,2004,Gold,AUS,Australia,Энн Мирз,2004 Athens,Cycling Track,Women's,500m time trial
+Summer,2004,Silver,CHN,China,Цзян Юнхуа,2004 Athens,Cycling Track,Women's,500m time trial
+Summer,2004,Bronze,BLR,Belarus,Наталья Цилинская,2004 Athens,Cycling Track,Women's,500m time trial
+Summer,2004,Gold,CHN,China,Пэн Бо,2004 Athens,Diving,Men's,3m springboard
+Summer,2004,Silver,CAN,Canada,Александр Депати,2004 Athens,Diving,Men's,3m springboard
+Summer,2004,Bronze,RUS,Russian Federation,Дмитрий Саутин,2004 Athens,Diving,Men's,3m springboard
+Summer,2004,Gold,CHN,China,Ху Цзя,2004 Athens,Diving,Men's,10m platform
+Summer,2004,Silver,AUS,Australia,Мэттью Хелм,2004 Athens,Diving,Men's,10m platform
+Summer,2004,Bronze,CHN,China,Тянь Лян,2004 Athens,Diving,Men's,10m platform
+Summer,2004,Gold,GRE,Greece,"Николаос Сиранидис, Томас Бимис",2004 Athens,Diving,Men's,synchronized diving 3m springboard
+Summer,2004,Silver,GER,Germany,"Андреас Велс, Тобиас Шелленберг",2004 Athens,Diving,Men's,synchronized diving 3m springboard
+Summer,2004,Bronze,AUS,Australia,"Роберт Ньюберри, Стивен Барнетт",2004 Athens,Diving,Men's,synchronized diving 3m springboard
+Summer,2004,Gold,CHN,China,"Тянь Лян, Ян Цзинхуэй",2004 Athens,Diving,Men's,synchronized diving 10m platform
+Summer,2004,Silver,GBR,Great Britain,"Питер Уотерфилд, Леон Тэйлор",2004 Athens,Diving,Men's,synchronized diving 10m platform
+Summer,2004,Bronze,AUS,Australia,"Мэтью Хэлм, Роберт Ньюбери",2004 Athens,Diving,Men's,synchronized diving 10m platform
+Summer,2004,Gold,CHN,China,Го Цзинцзин,2004 Athens,Diving,Women's,3m springboard
+Summer,2004,Silver,CHN,China,Ву Минся,2004 Athens,Diving,Women's,3m springboard
+Summer,2004,Bronze,RUS,Russian Federation,Юлия Пахалина,2004 Athens,Diving,Women's,3m springboard
+Summer,2004,Gold,AUS,Australia,Шантелль Ньюбери,2004 Athens,Diving,Women's,10m platform
+Summer,2004,Silver,CHN,China,Лао Лиши,2004 Athens,Diving,Women's,10m platform
+Summer,2004,Bronze,AUS,Australia,Луди Турки,2004 Athens,Diving,Women's,10m platform
+Summer,2004,Gold,CHN,China,"Ву Минся, Го Цзинцзян",2004 Athens,Diving,Women's,synchronized diving 3m springboard
+Summer,2004,Silver,RUS,Russian Federation,"Вера Ильина, Юлия Пахалина",2004 Athens,Diving,Women's,synchronized diving 3m springboard
+Summer,2004,Bronze,AUS,Australia,"Ирина Лашко, Шантелль Ньюбери",2004 Athens,Diving,Women's,synchronized diving 3m springboard
+Summer,2004,Gold,CHN,China,"Лао Лиши, Ли Тин",2004 Athens,Diving,Women's,synchronized diving 10m platform
+Summer,2004,Silver,RUS,Russian Federation,"Наталья Гончарова, Юлия Колтунова",2004 Athens,Diving,Women's,synchronized diving 10m platform
+Summer,2004,Bronze,CAN,Canada,"Блит Хартли, Эмили Хейманс",2004 Athens,Diving,Women's,synchronized diving 10m platform
+Summer,2004,Gold,NED,Netherlands,Анке Ван Грюнсвен,2004 Athens,Equestrian Dressage,Mixed,individual
+Summer,2004,Silver,GER,Germany,Улла Зальцгебер,2004 Athens,Equestrian Dressage,Mixed,individual
+Summer,2004,Bronze,ESP,Spain,Беатрис Феррер-Салат,2004 Athens,Equestrian Dressage,Mixed,individual
+Summer,2004,Gold,GER,Germany,,2004 Athens,Equestrian Dressage,Mixed,team
+Summer,2004,Silver,ESP,Spain,,2004 Athens,Equestrian Dressage,Mixed,team
+Summer,2004,Bronze,USA,United States,,2004 Athens,Equestrian Dressage,Mixed,team
+Summer,2004,Gold,GBR,Great Britain,Лесли Лоу,2004 Athens,Equestrian Eventing,Mixed,individual
+Summer,2004,Silver,USA,United States,Кимберли Сиверсон,2004 Athens,Equestrian Eventing,Mixed,individual
+Summer,2004,Bronze,GBR,Great Britain,Пиппа Фаннелл,2004 Athens,Equestrian Eventing,Mixed,individual
+Summer,2004,Gold,FRA,France,,2004 Athens,Equestrian Eventing,Mixed,team
+Summer,2004,Silver,GBR,Great Britain,,2004 Athens,Equestrian Eventing,Mixed,team
+Summer,2004,Bronze,USA,United States,,2004 Athens,Equestrian Eventing,Mixed,team
+Summer,2004,Gold,BRA,Brazil,Родриго Пессоа,2004 Athens,Equestrian Jumping,Mixed,individual
+Summer,2004,Silver,USA,United States,Крис Кэпплер,2004 Athens,Equestrian Jumping,Mixed,individual
+Summer,2004,Bronze,GER,Germany,Марко Кютшер,2004 Athens,Equestrian Jumping,Mixed,individual
+Summer,2004,Gold,USA,United States,,2004 Athens,Equestrian Jumping,Mixed,team
+Summer,2004,Silver,SWE,Sweden,,2004 Athens,Equestrian Jumping,Mixed,team
+Summer,2004,Bronze,GER,Germany,,2004 Athens,Equestrian Jumping,Mixed,team
+Summer,2004,Gold,SUI,Switzerland,Марсель Фишер,2004 Athens,Fencing,Men's,épée individual
+Summer,2004,Silver,CHN,China,Ван Лей,2004 Athens,Fencing,Men's,épée individual
+Summer,2004,Bronze,RUS,Russian Federation,Павел Колобков,2004 Athens,Fencing,Men's,épée individual
+Summer,2004,Gold,FRA,France,Брис Гуйяр,2004 Athens,Fencing,Men's,foil individual
+Summer,2004,Silver,ITA,Italy,Сальваторе Санцо,2004 Athens,Fencing,Men's,foil individual
+Summer,2004,Bronze,ITA,Italy,Андреа Кассара,2004 Athens,Fencing,Men's,foil individual
+Summer,2004,Gold,ITA,Italy,Альдо Монтано,2004 Athens,Fencing,Men's,sabre individual
+Summer,2004,Silver,HUN,Hungary,Жолт Немчик,2004 Athens,Fencing,Men's,sabre individual
+Summer,2004,Bronze,UKR,Ukraine,Владислав Третьяк,2004 Athens,Fencing,Men's,sabre individual
+Summer,2004,Gold,FRA,France,,2004 Athens,Fencing,Men's,épée team
+Summer,2004,Silver,HUN,Hungary,,2004 Athens,Fencing,Men's,épée team
+Summer,2004,Bronze,GER,Germany,,2004 Athens,Fencing,Men's,épée team
+Summer,2004,Gold,ITA,Italy,,2004 Athens,Fencing,Men's,foil team
+Summer,2004,Silver,CHN,China,,2004 Athens,Fencing,Men's,foil team
+Summer,2004,Bronze,RUS,Russian Federation,"Юрий Молчан, Вячеслав Поздняков, Ренал Галеев, Руслан Насибуллин",2004 Athens,Fencing,Men's,foil team
+Summer,2004,Gold,FRA,France,,2004 Athens,Fencing,Men's,sabre team
+Summer,2004,Silver,ITA,Italy,,2004 Athens,Fencing,Men's,sabre team
+Summer,2004,Bronze,RUS,Russian Federation,"Алексей Дьяченко, Алексей Якименко, Сергей Чариков, Станислав Поздняков",2004 Athens,Fencing,Men's,sabre team
+Summer,2004,Gold,HUN,Hungary,Тимя Надь,2004 Athens,Fencing,Women's,épée individual
+Summer,2004,Silver,FRA,France,Флессель-Колович,2004 Athens,Fencing,Women's,épée individual
+Summer,2004,Bronze,FRA,France,Морен Мисина,2004 Athens,Fencing,Women's,épée individual
+Summer,2004,Gold,ITA,Italy,Валентина Вецалли,2004 Athens,Fencing,Women's,foil individual
+Summer,2004,Silver,ITA,Italy,Джованни Триллини,2004 Athens,Fencing,Women's,foil individual
+Summer,2004,Bronze,POL,Poland,Сильвия Грушала,2004 Athens,Fencing,Women's,foil individual
+Summer,2004,Gold,USA,United States,Мариэль Загунис,2004 Athens,Fencing,Women's,sabre individual
+Summer,2004,Silver,CHN,China,Тань Сюэ,2004 Athens,Fencing,Women's,sabre individual
+Summer,2004,Bronze,USA,United States,Сада Джекобсон,2004 Athens,Fencing,Women's,sabre individual
+Summer,2004,Gold,RUS,Russian Federation,"Карина Азнавурян, Татьяна Логунова, Оксана Ермакова, Анна Сивкова",2004 Athens,Fencing,Women's,épée team
+Summer,2004,Silver,GER,Germany,,2004 Athens,Fencing,Women's,épée team
+Summer,2004,Bronze,FRA,France,,2004 Athens,Fencing,Women's,épée team
+Summer,2004,Gold,ARG,Argentina,,2004 Athens,Football,Men's,football
+Summer,2004,Silver,PAR,Paraguay,,2004 Athens,Football,Men's,football
+Summer,2004,Bronze,ITA,Italy,,2004 Athens,Football,Men's,football
+Summer,2004,Gold,USA,United States,,2004 Athens,Football,Women's,football
+Summer,2004,Silver,BRA,Brazil,,2004 Athens,Football,Women's,football
+Summer,2004,Bronze,GER,Germany,,2004 Athens,Football,Women's,football
+Summer,2004,Gold,JPN,Japan,,2004 Athens,Gymnastics Artistic,Men's,team competition
+Summer,2004,Silver,USA,United States,,2004 Athens,Gymnastics Artistic,Men's,team competition
+Summer,2004,Bronze,ROU,Romania,,2004 Athens,Gymnastics Artistic,Men's,team competition
+Summer,2004,Gold,USA,United States,Пол Хэмм,2004 Athens,Gymnastics Artistic,Men's,individual all-round
+Summer,2004,Silver,KOR,Korea Republic,Ким Дае Еун,2004 Athens,Gymnastics Artistic,Men's,individual all-round
+Summer,2004,Bronze,KOR,Korea Republic,Ян Тае Юнг,2004 Athens,Gymnastics Artistic,Men's,individual all-round
+Summer,2004,Gold,CAN,Canada,Кайл Шьюфельт,2004 Athens,Gymnastics Artistic,Men's,floor exercises
+Summer,2004,Silver,ROU,Romania,Мариан Драгулеску,2004 Athens,Gymnastics Artistic,Men's,floor exercises
+Summer,2004,Bronze,BUL,Bulgaria,Йордан Йовчев,2004 Athens,Gymnastics Artistic,Men's,floor exercises
+Summer,2004,Gold,UKR,Ukraine,Валерий Гончаров,2004 Athens,Gymnastics Artistic,Men's,parallel bars
+Summer,2004,Silver,JPN,Japan,Хироюки Томита,2004 Athens,Gymnastics Artistic,Men's,parallel bars
+Summer,2004,Bronze,CHN,China,Ли Сяопэн,2004 Athens,Gymnastics Artistic,Men's,parallel bars
+Summer,2004,Gold,ESP,Spain,Хервасио Деффер,2004 Athens,Gymnastics Artistic,Men's,vault
+Summer,2004,Silver,LAT,Latvia,Евгений Сапроненко,2004 Athens,Gymnastics Artistic,Men's,vault
+Summer,2004,Bronze,ROU,Romania,Мариан Драгулеску,2004 Athens,Gymnastics Artistic,Men's,vault
+Summer,2004,Gold,GRE,Greece,Димосфенос Тампакос,2004 Athens,Gymnastics Artistic,Men's,rings
+Summer,2004,Silver,BUL,Bulgaria,Йордан Йовчев,2004 Athens,Gymnastics Artistic,Men's,rings
+Summer,2004,Bronze,ITA,Italy,Юри Кеки,2004 Athens,Gymnastics Artistic,Men's,rings
+Summer,2004,Gold,CHN,China,Тэн Хайбинь,2004 Athens,Gymnastics Artistic,Men's,pommel horse
+Summer,2004,Silver,ROU,Romania,Мариуш Уржица,2004 Athens,Gymnastics Artistic,Men's,pommel horse
+Summer,2004,Bronze,JPN,Japan,Такехиро Кашима,2004 Athens,Gymnastics Artistic,Men's,pommel horse
+Summer,2004,Gold,ITA,Italy,Игор Кассина,2004 Athens,Gymnastics Artistic,Men's,horizontal bar
+Summer,2004,Silver,USA,United States,Пол Хэмм,2004 Athens,Gymnastics Artistic,Men's,horizontal bar
+Summer,2004,Bronze,JPN,Japan,Исао Йонеда,2004 Athens,Gymnastics Artistic,Men's,horizontal bar
+Summer,2004,Gold,ROU,Romania,,2004 Athens,Gymnastics Artistic,Women's,team competition
+Summer,2004,Silver,USA,United States,,2004 Athens,Gymnastics Artistic,Women's,team competition
+Summer,2004,Bronze,RUS,Russian Federation,"Светлана Хоркина, Анна Павлова, Наталья Зиганшина, Людмила Ежова, Мария Крючкова, Елена Замолодчикова",2004 Athens,Gymnastics Artistic,Women's,team competition
+Summer,2004,Gold,USA,United States,Карли Паттерсон,2004 Athens,Gymnastics Artistic,Women's,individual all-round
+Summer,2004,Silver,RUS,Russian Federation,Светлана Хоркина,2004 Athens,Gymnastics Artistic,Women's,individual all-round
+Summer,2004,Bronze,CHN,China,Чжан Нань,2004 Athens,Gymnastics Artistic,Women's,individual all-round
+Summer,2004,Gold,ROU,Romania,Каталина Понор,2004 Athens,Gymnastics Artistic,Women's,floor exercises
+Summer,2004,Silver,ROU,Romania,Николета Софрони,2004 Athens,Gymnastics Artistic,Women's,floor exercises
+Summer,2004,Bronze,ESP,Spain,Патрисия Морено,2004 Athens,Gymnastics Artistic,Women's,floor exercises
+Summer,2004,Gold,FRA,France,Эмили Лепеннек,2004 Athens,Gymnastics Artistic,Women's,uneven bars
+Summer,2004,Silver,USA,United States,Терин Хамфри,2004 Athens,Gymnastics Artistic,Women's,uneven bars
+Summer,2004,Bronze,USA,United States,Кортни Купец,2004 Athens,Gymnastics Artistic,Women's,uneven bars
+Summer,2004,Gold,ROU,Romania,Моника Росу,2004 Athens,Gymnastics Artistic,Women's,vault
+Summer,2004,Silver,USA,United States,Аня Хэтч,2004 Athens,Gymnastics Artistic,Women's,vault
+Summer,2004,Bronze,RUS,Russian Federation,Анна Павлова,2004 Athens,Gymnastics Artistic,Women's,vault
+Summer,2004,Gold,ROU,Romania,Каталина Понор,2004 Athens,Gymnastics Artistic,Women's,balance beam
+Summer,2004,Silver,USA,United States,Карли Паттерсон,2004 Athens,Gymnastics Artistic,Women's,balance beam
+Summer,2004,Bronze,ROU,Romania,Александра Еремия,2004 Athens,Gymnastics Artistic,Women's,balance beam
+Summer,2004,Gold,RUS,Russian Federation,"Ольга Глацких, Наталья Лаврова, Елена Посевина, Олеся Белугина, Татьяна Курбакова, Елена Мурзина",2004 Athens,Gymnastics Rhythmic,Women's,group competition
+Summer,2004,Silver,ITA,Italy,,2004 Athens,Gymnastics Rhythmic,Women's,group competition
+Summer,2004,Bronze,BUL,Bulgaria,,2004 Athens,Gymnastics Rhythmic,Women's,group competition
+Summer,2004,Gold,RUS,Russian Federation,Алина Кабаева,2004 Athens,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2004,Silver,RUS,Russian Federation,Ирина Чащина,2004 Athens,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2004,Bronze,UKR,Ukraine,Анна Бессонова,2004 Athens,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2004,Gold,CRO,Croatia,,2004 Athens,Handball,Men's,handball
+Summer,2004,Silver,GER,Germany,,2004 Athens,Handball,Men's,handball
+Summer,2004,Bronze,RUS,Russian Federation,,2004 Athens,Handball,Men's,handball
+Summer,2004,Gold,DEN,Denmark,,2004 Athens,Handball,Women's,handball
+Summer,2004,Silver,KOR,Korea Republic,,2004 Athens,Handball,Women's,handball
+Summer,2004,Bronze,UKR,Ukraine,,2004 Athens,Handball,Women's,handball
+Summer,2004,Gold,AUS,Australia,,2004 Athens,Hockey,Men's,hockey
+Summer,2004,Silver,NED,Netherlands,,2004 Athens,Hockey,Men's,hockey
+Summer,2004,Bronze,GER,Germany,,2004 Athens,Hockey,Men's,hockey
+Summer,2004,Gold,GER,Germany,,2004 Athens,Hockey,Women's,hockey
+Summer,2004,Silver,NED,Netherlands,,2004 Athens,Hockey,Women's,hockey
+Summer,2004,Bronze,ARG,Argentina,,2004 Athens,Hockey,Women's,hockey
+Summer,2004,Gold,JPN,Japan,Тадахиро Номиура,2004 Athens,Judo,Men's,- 60 kg
+Summer,2004,Silver,GEO,Georgia,Нестор Хергиани,2004 Athens,Judo,Men's,- 60 kg
+Summer,2004,Bronze,KOR,Korea Republic,Чо Мин Хо,2004 Athens,Judo,Men's,- 60 kg
+Summer,2004,Bronze,MGL,Mongolia,Хашбаатар Цагаанбаатар,2004 Athens,Judo,Men's,- 60 kg
+Summer,2004,Gold,JPN,Japan,Масато Учишиба,2004 Athens,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2004,Silver,SVK,Slovakia,Йозеф Крнач,2004 Athens,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2004,Bronze,BUL,Bulgaria,Георгий Георгиев,2004 Athens,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2004,Bronze,CUB,Cuba,Йорданес Аренчибия,2004 Athens,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2004,Gold,KOR,Korea Republic,Ли Вон Хи,2004 Athens,Judo,Men's,66 - 73kg (lightweight)
+Summer,2004,Silver,RUS,Russian Federation,Виталий Макаров,2004 Athens,Judo,Men's,66 - 73kg (lightweight)
+Summer,2004,Bronze,BRA,Brazil,Леандро Жуилейро,2004 Athens,Judo,Men's,66 - 73kg (lightweight)
+Summer,2004,Bronze,USA,United States,Джеймс Педро,2004 Athens,Judo,Men's,66 - 73kg (lightweight)
+Summer,2004,Gold,GRE,Greece,Илиас Илиадис,2004 Athens,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2004,Silver,UKR,Ukraine,Роман Гонтюк,2004 Athens,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2004,Bronze,BRA,Brazil,Флавио Канту,2004 Athens,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2004,Bronze,RUS,Russian Federation,Дмитрий Носов,2004 Athens,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2004,Gold,GEO,Georgia,Зураб Звиадури,2004 Athens,Judo,Men's,81 - 90kg (middleweight)
+Summer,2004,Silver,JPN,Japan,Хироши Изуми,2004 Athens,Judo,Men's,81 - 90kg (middleweight)
+Summer,2004,Bronze,NED,Netherlands,Марк Хуцинга,2004 Athens,Judo,Men's,81 - 90kg (middleweight)
+Summer,2004,Bronze,RUS,Russian Federation,Хасанби Таов,2004 Athens,Judo,Men's,81 - 90kg (middleweight)
+Summer,2004,Gold,BLR,Belarus,Игорь Макаров,2004 Athens,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2004,Silver,KOR,Korea Republic,Янг Сунг Хо,2004 Athens,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2004,Bronze,GER,Germany,Михаэль Юрак,2004 Athens,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2004,Bronze,ISR,Israel,Ариэль Зееви,2004 Athens,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2004,Gold,JPN,Japan,Кейджи Сузуки,2004 Athens,Judo,Men's,+ 100kg (heavyweight)
+Summer,2004,Silver,RUS,Russian Federation,Тамерлан Тменов,2004 Athens,Judo,Men's,+ 100kg (heavyweight)
+Summer,2004,Bronze,EST,Estonia,Индрек Пертельсон,2004 Athens,Judo,Men's,+ 100kg (heavyweight)
+Summer,2004,Bronze,NED,Netherlands,Деннис Ван Дер Геест,2004 Athens,Judo,Men's,+ 100kg (heavyweight)
+Summer,2004,Gold,JPN,Japan,Риоко Тани,2004 Athens,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2004,Silver,FRA,France,Фредерик Жоссине,2004 Athens,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2004,Bronze,CHN,China,Гао Фэн,2004 Athens,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2004,Bronze,GER,Germany,Юлия Маттиас,2004 Athens,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2004,Gold,CHN,China,Донмень Ксянь,2004 Athens,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2004,Silver,JPN,Japan,Юки Йокосава,2004 Athens,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2004,Bronze,BEL,Belgium,Илзе Хейлен,2004 Athens,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2004,Bronze,CUB,Cuba,Амарилис Савон,2004 Athens,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2004,Gold,GER,Germany,Ивонн Бениш,2004 Athens,Judo,Women's,52 - 57kg (lightweight)
+Summer,2004,Silver,PRK,Korea DPR,Ки Сун Хой,2004 Athens,Judo,Women's,52 - 57kg (lightweight)
+Summer,2004,Bronze,CUB,Cuba,Юрислейдис Лупетей,2004 Athens,Judo,Women's,52 - 57kg (lightweight)
+Summer,2004,Bronze,NED,Netherlands,Дебора Гравенстин,2004 Athens,Judo,Women's,52 - 57kg (lightweight)
+Summer,2004,Gold,JPN,Japan,Аюми Танимото,2004 Athens,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2004,Silver,AUT,Austria,Клаудиа Хайлл,2004 Athens,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2004,Bronze,CUB,Cuba,Дрилиус Гонсалес,2004 Athens,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2004,Bronze,SLO,Slovenia,Урска Золнир,2004 Athens,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2004,Gold,JPN,Japan,Масаи Уено,2004 Athens,Judo,Women's,63 - 70kg (middleweight)
+Summer,2004,Silver,NED,Netherlands,Эдит Босх,2004 Athens,Judo,Women's,63 - 70kg (middleweight)
+Summer,2004,Bronze,CHN,China,Цинь Донья,2004 Athens,Judo,Women's,63 - 70kg (middleweight)
+Summer,2004,Bronze,GER,Germany,Аннет Бем,2004 Athens,Judo,Women's,63 - 70kg (middleweight)
+Summer,2004,Gold,JPN,Japan,Норико Анно,2004 Athens,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2004,Silver,CHN,China,Ся Лю,2004 Athens,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2004,Bronze,CUB,Cuba,Юрисель Лаборде,2004 Athens,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2004,Bronze,ITA,Italy,Лусия Морико,2004 Athens,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2004,Gold,JPN,Japan,Маки Цукада,2004 Athens,Judo,Women's,+ 78kg (heavyweight)
+Summer,2004,Silver,CUB,Cuba,Дайма Белтран,2004 Athens,Judo,Women's,+ 78kg (heavyweight)
+Summer,2004,Bronze,CHN,China,Сунь Фумин,2004 Athens,Judo,Women's,+ 78kg (heavyweight)
+Summer,2004,Bronze,RUS,Russian Federation,Теа Донгузашвили,2004 Athens,Judo,Women's,+ 78kg (heavyweight)
+Summer,2004,Gold,RUS,Russian Federation,Андрей Моисеев,2004 Athens,Modern Pentathlon,Men's,individual competition
+Summer,2004,Silver,LTU,Lithuania,Андреюс Заднепровскис,2004 Athens,Modern Pentathlon,Men's,individual competition
+Summer,2004,Bronze,CZE,Czech Republic,Либор Капалини,2004 Athens,Modern Pentathlon,Men's,individual competition
+Summer,2004,Gold,HUN,Hungary,Сюзанна Ворош,2004 Athens,Modern Pentathlon,Women's,individual competition
+Summer,2004,Silver,LAT,Latvia,Елена Рублевска,2004 Athens,Modern Pentathlon,Women's,individual competition
+Summer,2004,Bronze,GBR,Great Britain,Джорджина Хэрлэнд,2004 Athens,Modern Pentathlon,Women's,individual competition
+Summer,2004,Gold,NOR,Norway,Олаф Туфте,2004 Athens,Rowing,Men's,single sculls (1x)
+Summer,2004,Silver,EST,Estonia,Юри Яаансон,2004 Athens,Rowing,Men's,single sculls (1x)
+Summer,2004,Bronze,BUL,Bulgaria,Иво Янакиев,2004 Athens,Rowing,Men's,single sculls (1x)
+Summer,2004,Gold,FRA,France,"Адриен Арди, Себастьен Вьеллден",2004 Athens,Rowing,Men's,double sculls (2x)
+Summer,2004,Silver,SLO,Slovenia,"Ижток Коп, Лука Спик",2004 Athens,Rowing,Men's,double sculls (2x)
+Summer,2004,Bronze,ITA,Italy,"Алессио Сартори, Россано Галтаросса",2004 Athens,Rowing,Men's,double sculls (2x)
+Summer,2004,Gold,RUS,Russian Federation,"Игорь Кравцов, Николай Спинев, Сергей Федоровцев, Алексей Свирин",2004 Athens,Rowing,Men's,quadruple sculls without coxswain
+Summer,2004,Silver,CZE,Czech Republic,,2004 Athens,Rowing,Men's,quadruple sculls without coxswain
+Summer,2004,Bronze,UKR,Ukraine,,2004 Athens,Rowing,Men's,quadruple sculls without coxswain
+Summer,2004,Gold,AUS,Australia,"Дрю Джинн, Джеймс Томкинс",2004 Athens,Rowing,Men's,pair without coxswain (2-)
+Summer,2004,Silver,CRO,Croatia,"Никса Скелин, Синиса Скелин",2004 Athens,Rowing,Men's,pair without coxswain (2-)
+Summer,2004,Bronze,RSA,South Africa,"Рамон Ди Клементе, Донован Чех",2004 Athens,Rowing,Men's,pair without coxswain (2-)
+Summer,2004,Gold,GBR,Great Britain,,2004 Athens,Rowing,Men's,four without coxswain (4-)
+Summer,2004,Silver,CAN,Canada,,2004 Athens,Rowing,Men's,four without coxswain (4-)
+Summer,2004,Bronze,ITA,Italy,,2004 Athens,Rowing,Men's,four without coxswain (4-)
+Summer,2004,Gold,USA,United States,,2004 Athens,Rowing,Men's,eight with coxswain (8+)
+Summer,2004,Silver,NED,Netherlands,,2004 Athens,Rowing,Men's,eight with coxswain (8+)
+Summer,2004,Bronze,AUS,Australia,,2004 Athens,Rowing,Men's,eight with coxswain (8+)
+Summer,2004,Gold,POL,Poland,"Томаш Кухарски, Роберт Зых",2004 Athens,Rowing,Men's,lightweight double sculls (2x)
+Summer,2004,Silver,FRA,France,"Фредерик Дюфур, Паскаль Турон",2004 Athens,Rowing,Men's,lightweight double sculls (2x)
+Summer,2004,Bronze,GRE,Greece,"Василеос Полимерос, Николаос Скиматитис",2004 Athens,Rowing,Men's,lightweight double sculls (2x)
+Summer,2004,Gold,DEN,Denmark,,2004 Athens,Rowing,Men's,lightweight coxless four (4-)
+Summer,2004,Silver,AUS,Australia,,2004 Athens,Rowing,Men's,lightweight coxless four (4-)
+Summer,2004,Bronze,ITA,Italy,,2004 Athens,Rowing,Men's,lightweight coxless four (4-)
+Summer,2004,Gold,GER,Germany,Катрин Рутшоу-Стомпоровски,2004 Athens,Rowing,Women's,single sculls (1x)
+Summer,2004,Silver,BLR,Belarus,Екатерина Карстен,2004 Athens,Rowing,Women's,single sculls (1x)
+Summer,2004,Bronze,BUL,Bulgaria,Румяна Нейкова,2004 Athens,Rowing,Women's,single sculls (1x)
+Summer,2004,Gold,NZL,New Zealand,"Джорджина Иверс-Суинделл, Каролин Иверс-Суинделл",2004 Athens,Rowing,Women's,double sculls (2x)
+Summer,2004,Silver,GER,Germany,"Пегги Валеска, Бритта Оппельт",2004 Athens,Rowing,Women's,double sculls (2x)
+Summer,2004,Bronze,GBR,Great Britain,"Сара Уинклесс, Элис Леверик",2004 Athens,Rowing,Women's,double sculls (2x)
+Summer,2004,Gold,GER,Germany,,2004 Athens,Rowing,Women's,quadruple sculls without coxswain
+Summer,2004,Silver,GBR,Great Britain,,2004 Athens,Rowing,Women's,quadruple sculls without coxswain
+Summer,2004,Bronze,AUS,Australia,,2004 Athens,Rowing,Women's,quadruple sculls without coxswain
+Summer,2004,Gold,ROU,Romania,"Виорица Сусану, Георгета Дамиан",2004 Athens,Rowing,Women's,pair without coxswain (2-)
+Summer,2004,Silver,GBR,Great Britain,"Кэт Бишоп, Катерина Грейнджер",2004 Athens,Rowing,Women's,pair without coxswain (2-)
+Summer,2004,Bronze,BLR,Belarus,"Наталья Хелах, Юлия Бычик",2004 Athens,Rowing,Women's,pair without coxswain (2-)
+Summer,2004,Gold,ROU,Romania,,2004 Athens,Rowing,Women's,eight with coxswain (8+)
+Summer,2004,Silver,USA,United States,,2004 Athens,Rowing,Women's,eight with coxswain (8+)
+Summer,2004,Bronze,NED,Netherlands,,2004 Athens,Rowing,Women's,eight with coxswain (8+)
+Summer,2004,Gold,ROU,Romania,"Ангела Алупеи, Константа Бурчича",2004 Athens,Rowing,Women's,lightweight double sculls (2x)
+Summer,2004,Silver,GER,Germany,"Клаудиа Бласберг, Даниэла Раймер",2004 Athens,Rowing,Women's,lightweight double sculls (2x)
+Summer,2004,Bronze,NED,Netherlands,"Марит Ван Юпен, Кирстен Ван Дер Кольк",2004 Athens,Rowing,Women's,lightweight double sculls (2x)
+Summer,2004,Gold,USA,United States,"Пол Форстер, Кевин Барнхем",2004 Athens,Sailing,Men's,470 - Two Person Dinghy
+Summer,2004,Silver,GBR,Great Britain,"Ник Роджерс, Джо Глэнфилд",2004 Athens,Sailing,Men's,470 - Two Person Dinghy
+Summer,2004,Bronze,JPN,Japan,"Кендзиро Тодороки, Казуто Еки",2004 Athens,Sailing,Men's,470 - Two Person Dinghy
+Summer,2004,Gold,ISR,Israel,Гал Фридман,2004 Athens,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,2004,Silver,GRE,Greece,Николаос Какламанакис,2004 Athens,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,2004,Bronze,GBR,Great Britain,Ник Демпси,2004 Athens,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,2004,Gold,GBR,Great Britain,Бен Эйнсли,2004 Athens,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2004,Silver,ESP,Spain,Рафаэль Трухильо,2004 Athens,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2004,Bronze,POL,Poland,Матеуш Кужниревич,2004 Athens,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2004,Gold,BRA,Brazil,"Марсело Феррейра, Торбен Граэль",2004 Athens,Sailing,Men's,two-person keelboat (Star)
+Summer,2004,Silver,CAN,Canada,"Майк Вольфс, Росс Макдональд",2004 Athens,Sailing,Men's,two-person keelboat (Star)
+Summer,2004,Bronze,FRA,France,"Паскаль Рамбо, Ксавье Роар",2004 Athens,Sailing,Men's,two-person keelboat (Star)
+Summer,2004,Gold,BRA,Brazil,Роберт Шейдт,2004 Athens,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,2004,Silver,AUT,Austria,Андреас Геритцер,2004 Athens,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,2004,Bronze,SLO,Slovenia,Василий Збогар,2004 Athens,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,2004,Gold,AUT,Austria,"Роман Хагара, Ханс Петер Штайнахер",2004 Athens,Sailing,Mixed,Tornado - Multihull
+Summer,2004,Silver,USA,United States,"Джон Ловелл, Чарли Огелтри",2004 Athens,Sailing,Mixed,Tornado - Multihull
+Summer,2004,Bronze,ARG,Argentina,"Сантьяго Ланге, Карлос Эспинола",2004 Athens,Sailing,Mixed,Tornado - Multihull
+Summer,2004,Gold,ESP,Spain,"Хавьер Фернандес, Икер Мантинес",2004 Athens,Sailing,Mixed,49er - Skiff
+Summer,2004,Silver,UKR,Ukraine,"Георгий Леончук, Родион Лука",2004 Athens,Sailing,Mixed,49er - Skiff
+Summer,2004,Bronze,GBR,Great Britain,"Саймон Хикокс, Крис Дрэйпер",2004 Athens,Sailing,Mixed,49er - Skiff
+Summer,2004,Gold,GRE,Greece,"София Бекатору, Аймилия Тсулфа",2004 Athens,Sailing,Women's,470 - Two Person Dinghy
+Summer,2004,Silver,ESP,Spain,"Сандра Асон, Наталия Вива Дюфресн",2004 Athens,Sailing,Women's,470 - Two Person Dinghy
+Summer,2004,Bronze,SWE,Sweden,"Тереза Торгерссон, Вендела Закриссон",2004 Athens,Sailing,Women's,470 - Two Person Dinghy
+Summer,2004,Gold,FRA,France,Фаустин Мерре,2004 Athens,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,2004,Silver,CHN,China,Инь Цзянь,2004 Athens,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,2004,Bronze,ITA,Italy,Алессандра Сенсини,2004 Athens,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,2004,Gold,NOR,Norway,Сирен Сундбю,2004 Athens,Sailing,Women's,single-handed dinghy (Europe)
+Summer,2004,Silver,CZE,Czech Republic,Ленка Шмидова,2004 Athens,Sailing,Women's,single-handed dinghy (Europe)
+Summer,2004,Bronze,DEN,Denmark,Сигне Ливбьерг,2004 Athens,Sailing,Women's,single-handed dinghy (Europe)
+Summer,2004,Gold,GBR,Great Britain,"Сара Эйтон, Сара Уэбб, Ширли Робертсон",2004 Athens,Sailing,Women's,Yngling - Keelboat
+Summer,2004,Silver,UKR,Ukraine,"Руслана Таран, Светлана Матевушева, Ганна Калинина",2004 Athens,Sailing,Women's,Yngling - Keelboat
+Summer,2004,Bronze,DEN,Denmark,"Хелле Джесперсен, Дорте Дженсен, Кристина Отсен",2004 Athens,Sailing,Women's,Yngling - Keelboat
+Summer,2004,Gold,CHN,China,Цзя Чжаньбо,2004 Athens,Shooting,Men's,50m rifle 3 positions
+Summer,2004,Silver,USA,United States,Майкл Анти,2004 Athens,Shooting,Men's,50m rifle 3 positions
+Summer,2004,Bronze,AUT,Austria,Кристиан Планер,2004 Athens,Shooting,Men's,50m rifle 3 positions
+Summer,2004,Gold,CHN,China,Чжу Цинань,2004 Athens,Shooting,Men's,10m air rifle
+Summer,2004,Silver,CHN,China,Ле Цзи,2004 Athens,Shooting,Men's,10m air rifle
+Summer,2004,Bronze,SVK,Slovakia,Йозеф Гончи,2004 Athens,Shooting,Men's,10m air rifle
+Summer,2004,Gold,RUS,Russian Federation,Михаил Неструев,2004 Athens,Shooting,Men's,50m pistol
+Summer,2004,Silver,KOR,Korea Republic,Цзин Йонг Ох,2004 Athens,Shooting,Men's,50m pistol
+Summer,2004,Bronze,PRK,Korea DPR,Ким Йонг Су,2004 Athens,Shooting,Men's,50m pistol
+Summer,2004,Gold,CHN,China,Ван Ифу,2004 Athens,Shooting,Men's,10m air pistol
+Summer,2004,Silver,RUS,Russian Federation,Михаил Неструев,2004 Athens,Shooting,Men's,10m air pistol
+Summer,2004,Bronze,RUS,Russian Federation,Владимир Исаков,2004 Athens,Shooting,Men's,10m air pistol
+Summer,2004,Gold,USA,United States,Мэттью Эммонс,2004 Athens,Shooting,Men's,50m rifle prone
+Summer,2004,Silver,GER,Germany,Кристиан Луш,2004 Athens,Shooting,Men's,50m rifle prone
+Summer,2004,Bronze,BLR,Belarus,Сергей Мартынов,2004 Athens,Shooting,Men's,50m rifle prone
+Summer,2004,Gold,GER,Germany,Манфред Курцер,2004 Athens,Shooting,Men's,10m running target
+Summer,2004,Silver,RUS,Russian Federation,Александр Блинов,2004 Athens,Shooting,Men's,10m running target
+Summer,2004,Bronze,RUS,Russian Federation,Дмитрий Лыкин,2004 Athens,Shooting,Men's,10m running target
+Summer,2004,Gold,GER,Germany,Ральф Шуманн,2004 Athens,Shooting,Men's,25m rapid fire pistol
+Summer,2004,Silver,RUS,Russian Federation,Сергей Поляков,2004 Athens,Shooting,Men's,25m rapid fire pistol
+Summer,2004,Bronze,RUS,Russian Federation,Сергей Алифиренко,2004 Athens,Shooting,Men's,25m rapid fire pistol
+Summer,2004,Gold,UAE,United Arab Emirates,Ахмед Аль-Актум,2004 Athens,Shooting,Men's,Double trap
+Summer,2004,Silver,IND,India,Райавардан Сингх Ратор,2004 Athens,Shooting,Men's,Double trap
+Summer,2004,Bronze,CHN,China,Ван Чжэн,2004 Athens,Shooting,Men's,Double trap
+Summer,2004,Gold,RUS,Russian Federation,Алексей Алипов,2004 Athens,Shooting,Men's,Trap
+Summer,2004,Silver,ITA,Italy,Джованни Пеллиело,2004 Athens,Shooting,Men's,Trap
+Summer,2004,Bronze,AUS,Australia,Адам Велла,2004 Athens,Shooting,Men's,Trap
+Summer,2004,Gold,ITA,Italy,Андреа Бенелли,2004 Athens,Shooting,Men's,Skeet
+Summer,2004,Silver,FIN,Finland,Марко Кемппайнен,2004 Athens,Shooting,Men's,Skeet
+Summer,2004,Bronze,CUB,Cuba,Хуан Мигель Родригес,2004 Athens,Shooting,Men's,Skeet
+Summer,2004,Gold,RUS,Russian Federation,Любовь Галкина,2004 Athens,Shooting,Women's,50m rifle 3 positions
+Summer,2004,Silver,ITA,Italy,Валентина Турзини,2004 Athens,Shooting,Women's,50m rifle 3 positions
+Summer,2004,Bronze,CHN,China,Ван Чэньцюнь,2004 Athens,Shooting,Women's,50m rifle 3 positions
+Summer,2004,Gold,CHN,China,Ду Ли,2004 Athens,Shooting,Women's,10m air rifle
+Summer,2004,Silver,RUS,Russian Federation,Любовь Галкина,2004 Athens,Shooting,Women's,10m air rifle
+Summer,2004,Bronze,CZE,Czech Republic,Катерина Куркова,2004 Athens,Shooting,Women's,10m air rifle
+Summer,2004,Gold,BUL,Bulgaria,Мария Гроздева,2004 Athens,Shooting,Women's,25m pistol
+Summer,2004,Silver,CZE,Czech Republic,Ленка Хыкова,2004 Athens,Shooting,Women's,25m pistol
+Summer,2004,Bronze,AZE,Azerbaijan,Ирада Ашумова,2004 Athens,Shooting,Women's,25m pistol
+Summer,2004,Gold,UKR,Ukraine,Елена Костевич,2004 Athens,Shooting,Women's,10m air pistol
+Summer,2004,Silver,SCG,Serbia and Montenegro,Ясна Секарич,2004 Athens,Shooting,Women's,10m air pistol
+Summer,2004,Bronze,BUL,Bulgaria,Мария Гроздева,2004 Athens,Shooting,Women's,10m air pistol
+Summer,2004,Gold,USA,United States,Кимберли Род,2004 Athens,Shooting,Women's,Double trap
+Summer,2004,Silver,KOR,Korea Republic,Ли Бо На,2004 Athens,Shooting,Women's,Double trap
+Summer,2004,Bronze,CHN,China,Гао Э,2004 Athens,Shooting,Women's,Double trap
+Summer,2004,Gold,AUS,Australia,Сьюзанн Балог,2004 Athens,Shooting,Women's,Trap
+Summer,2004,Silver,ESP,Spain,Мария Куинтанал,2004 Athens,Shooting,Women's,Trap
+Summer,2004,Bronze,KOR,Korea Republic,Ли Бо На,2004 Athens,Shooting,Women's,Trap
+Summer,2004,Gold,HUN,Hungary,Диана Игали,2004 Athens,Shooting,Women's,Skeet
+Summer,2004,Silver,CHN,China,Вэй Нин,2004 Athens,Shooting,Women's,Skeet
+Summer,2004,Bronze,AZE,Azerbaijan,Земфира Мефтахетдинова,2004 Athens,Shooting,Women's,Skeet
+Summer,2004,Gold,USA,United States,Гэри Холл,2004 Athens,Swimming,Men's,50m freestyle
+Summer,2004,Silver,CRO,Croatia,Дуже Драганья,2004 Athens,Swimming,Men's,50m freestyle
+Summer,2004,Bronze,RSA,South Africa,Роланд Марк Шуман,2004 Athens,Swimming,Men's,50m freestyle
+Summer,2004,Gold,NED,Netherlands,Питер Ван Ден Хугенбанд,2004 Athens,Swimming,Men's,100m freestyle
+Summer,2004,Silver,RSA,South Africa,Роланд Марк Шуман,2004 Athens,Swimming,Men's,100m freestyle
+Summer,2004,Bronze,AUS,Australia,Иан Торп,2004 Athens,Swimming,Men's,100m freestyle
+Summer,2004,Gold,AUS,Australia,Иан Торп,2004 Athens,Swimming,Men's,200m freestyle
+Summer,2004,Silver,NED,Netherlands,Питер Ван Ден Хугенбанд,2004 Athens,Swimming,Men's,200m freestyle
+Summer,2004,Bronze,USA,United States,Майкл Фелпс,2004 Athens,Swimming,Men's,200m freestyle
+Summer,2004,Gold,AUS,Australia,Йан Торп,2004 Athens,Swimming,Men's,400m freestyle
+Summer,2004,Silver,AUS,Australia,Грант Хэккет,2004 Athens,Swimming,Men's,400m freestyle
+Summer,2004,Bronze,USA,United States,Клит Келлер,2004 Athens,Swimming,Men's,400m freestyle
+Summer,2004,Gold,AUS,Australia,Грант Хэккет,2004 Athens,Swimming,Men's,1500m freestyle
+Summer,2004,Silver,USA,United States,Ларсен Дженсен,2004 Athens,Swimming,Men's,1500m freestyle
+Summer,2004,Bronze,GBR,Great Britain,Дэйв Девис,2004 Athens,Swimming,Men's,1500m freestyle
+Summer,2004,Gold,USA,United States,Аарон Пирсол,2004 Athens,Swimming,Men's,100m backstroke
+Summer,2004,Silver,AUT,Austria,Маркус Роган,2004 Athens,Swimming,Men's,100m backstroke
+Summer,2004,Bronze,JPN,Japan,Томоми Морита,2004 Athens,Swimming,Men's,100m backstroke
+Summer,2004,Gold,USA,United States,Аарон Пирсол,2004 Athens,Swimming,Men's,200m backstroke
+Summer,2004,Silver,AUT,Austria,Маркус Роган,2004 Athens,Swimming,Men's,200m backstroke
+Summer,2004,Bronze,ROU,Romania,Разван Флоря,2004 Athens,Swimming,Men's,200m backstroke
+Summer,2004,Gold,JPN,Japan,Косуке Китаджима,2004 Athens,Swimming,Men's,100m breaststroke
+Summer,2004,Silver,USA,United States,Брендан Хансен,2004 Athens,Swimming,Men's,100m breaststroke
+Summer,2004,Bronze,FRA,France,Юг Дюбоск,2004 Athens,Swimming,Men's,100m breaststroke
+Summer,2004,Gold,JPN,Japan,Косуке Китаджима,2004 Athens,Swimming,Men's,200m breaststroke
+Summer,2004,Silver,HUN,Hungary,Даниэль Дьюрта,2004 Athens,Swimming,Men's,200m breaststroke
+Summer,2004,Bronze,USA,United States,Брендан Хансен,2004 Athens,Swimming,Men's,200m breaststroke
+Summer,2004,Gold,USA,United States,Майкл Фелпс,2004 Athens,Swimming,Men's,100m butterfly
+Summer,2004,Silver,USA,United States,Иан Крокер,2004 Athens,Swimming,Men's,100m butterfly
+Summer,2004,Bronze,UKR,Ukraine,Андрей Сердинов,2004 Athens,Swimming,Men's,100m butterfly
+Summer,2004,Gold,USA,United States,Майкл Фелпс,2004 Athens,Swimming,Men's,200m butterfly
+Summer,2004,Silver,JPN,Japan,Такаши Ямамото,2004 Athens,Swimming,Men's,200m butterfly
+Summer,2004,Bronze,GBR,Great Britain,Стивен Перри,2004 Athens,Swimming,Men's,200m butterfly
+Summer,2004,Gold,USA,United States,Майкл Фелпс,2004 Athens,Swimming,Men's,200m individual medley
+Summer,2004,Silver,USA,United States,Райан Лохте,2004 Athens,Swimming,Men's,200m individual medley
+Summer,2004,Bronze,TTO,Trinidad and Tobago,Джордж Бовилл,2004 Athens,Swimming,Men's,200m individual medley
+Summer,2004,Gold,USA,United States,Майкл Фелпс,2004 Athens,Swimming,Men's,400m individual medley
+Summer,2004,Silver,USA,United States,Эрик Вендт,2004 Athens,Swimming,Men's,400m individual medley
+Summer,2004,Bronze,HUN,Hungary,Ласло Чех,2004 Athens,Swimming,Men's,400m individual medley
+Summer,2004,Gold,RSA,South Africa,,2004 Athens,Swimming,Men's,4x100m freestyle relay
+Summer,2004,Silver,NED,Netherlands,,2004 Athens,Swimming,Men's,4x100m freestyle relay
+Summer,2004,Bronze,USA,United States,,2004 Athens,Swimming,Men's,4x100m freestyle relay
+Summer,2004,Gold,USA,United States,,2004 Athens,Swimming,Men's,4x200m freestyle relay
+Summer,2004,Silver,AUS,Australia,,2004 Athens,Swimming,Men's,4x200m freestyle relay
+Summer,2004,Bronze,ITA,Italy,,2004 Athens,Swimming,Men's,4x200m freestyle relay
+Summer,2004,Gold,USA,United States,,2004 Athens,Swimming,Men's,4x100m medley relay
+Summer,2004,Silver,GER,Germany,,2004 Athens,Swimming,Men's,4x100m medley relay
+Summer,2004,Bronze,JPN,Japan,,2004 Athens,Swimming,Men's,4x100m medley relay
+Summer,2004,Gold,NED,Netherlands,Инге Де Брюин,2004 Athens,Swimming,Women's,50m freestyle
+Summer,2004,Silver,FRA,France,Малиа Метелла,2004 Athens,Swimming,Women's,50m freestyle
+Summer,2004,Bronze,AUS,Australia,Лисбет Лентон,2004 Athens,Swimming,Women's,50m freestyle
+Summer,2004,Gold,AUS,Australia,Джоди Хенри,2004 Athens,Swimming,Women's,100m freestyle
+Summer,2004,Silver,NED,Netherlands,Инге Де Брюин,2004 Athens,Swimming,Women's,100m freestyle
+Summer,2004,Bronze,USA,United States,Натали Коглин,2004 Athens,Swimming,Women's,100m freestyle
+Summer,2004,Gold,ROU,Romania,Камелия Потек,2004 Athens,Swimming,Women's,200m freestyle
+Summer,2004,Silver,ITA,Italy,Федерика Пеллегрини,2004 Athens,Swimming,Women's,200m freestyle
+Summer,2004,Bronze,FRA,France,Соленн Фиге,2004 Athens,Swimming,Women's,200m freestyle
+Summer,2004,Gold,FRA,France,Лаура Мандау,2004 Athens,Swimming,Women's,400m freestyle
+Summer,2004,Silver,POL,Poland,Отилия Едржечак,2004 Athens,Swimming,Women's,400m freestyle
+Summer,2004,Bronze,USA,United States,Кейтлин Сандено,2004 Athens,Swimming,Women's,400m freestyle
+Summer,2004,Gold,JPN,Japan,Аи Шибата,2004 Athens,Swimming,Women's,800m freestyle
+Summer,2004,Silver,FRA,France,Лаура Манаду,2004 Athens,Swimming,Women's,800m freestyle
+Summer,2004,Bronze,USA,United States,Дайана Мунц,2004 Athens,Swimming,Women's,800m freestyle
+Summer,2004,Gold,USA,United States,Натали Коглин,2004 Athens,Swimming,Women's,100m backstroke
+Summer,2004,Silver,ZIM,Zimbabwe,Кирсти Ковентри,2004 Athens,Swimming,Women's,100m backstroke
+Summer,2004,Bronze,FRA,France,Лаура Манаду,2004 Athens,Swimming,Women's,100m backstroke
+Summer,2004,Gold,ZIM,Zimbabwe,Кристи Ковентри,2004 Athens,Swimming,Women's,200m backstroke
+Summer,2004,Silver,RUS,Russian Federation,Станислава Комарова,2004 Athens,Swimming,Women's,200m backstroke
+Summer,2004,Bronze,GER,Germany,Антье Бушульте,2004 Athens,Swimming,Women's,200m backstroke
+Summer,2004,Bronze,JPN,Japan,Рейко Накамура,2004 Athens,Swimming,Women's,200m backstroke
+Summer,2004,Gold,CHN,China,Лю Сюэцзюань,2004 Athens,Swimming,Women's,100m breaststroke
+Summer,2004,Silver,AUS,Australia,Брук Хансон,2004 Athens,Swimming,Women's,100m breaststroke
+Summer,2004,Bronze,AUS,Australia,Лейсель Джонс,2004 Athens,Swimming,Women's,100m breaststroke
+Summer,2004,Gold,USA,United States,Аманда Бирд,2004 Athens,Swimming,Women's,200m breaststroke
+Summer,2004,Silver,AUS,Australia,Лэйсел Джонс,2004 Athens,Swimming,Women's,200m breaststroke
+Summer,2004,Bronze,GER,Germany,Анне Полеска,2004 Athens,Swimming,Women's,200m breaststroke
+Summer,2004,Gold,AUS,Australia,Петря Томас,2004 Athens,Swimming,Women's,100m butterfly
+Summer,2004,Silver,POL,Poland,Отилия Едржечак,2004 Athens,Swimming,Women's,100m butterfly
+Summer,2004,Bronze,NED,Netherlands,Инге Де Брюин,2004 Athens,Swimming,Women's,100m butterfly
+Summer,2004,Gold,POL,Poland,Отилия Едржечак,2004 Athens,Swimming,Women's,200m butterfly
+Summer,2004,Silver,AUS,Australia,Петря Томас,2004 Athens,Swimming,Women's,200m butterfly
+Summer,2004,Bronze,JPN,Japan,Юко Наканиши,2004 Athens,Swimming,Women's,200m butterfly
+Summer,2004,Gold,UKR,Ukraine,Яна Клочкова,2004 Athens,Swimming,Women's,200m individual medley
+Summer,2004,Silver,USA,United States,Аманда Бирд,2004 Athens,Swimming,Women's,200m individual medley
+Summer,2004,Bronze,ZIM,Zimbabwe,Кирсит Ковентри,2004 Athens,Swimming,Women's,200m individual medley
+Summer,2004,Gold,UKR,Ukraine,Яна Клочкова,2004 Athens,Swimming,Women's,400m individual medley
+Summer,2004,Silver,USA,United States,Кейтлин Сандено,2004 Athens,Swimming,Women's,400m individual medley
+Summer,2004,Bronze,ARG,Argentina,Джорджина Бардаш,2004 Athens,Swimming,Women's,400m individual medley
+Summer,2004,Gold,AUS,Australia,,2004 Athens,Swimming,Women's,4x100m freestyle relay
+Summer,2004,Silver,USA,United States,,2004 Athens,Swimming,Women's,4x100m freestyle relay
+Summer,2004,Bronze,NED,Netherlands,,2004 Athens,Swimming,Women's,4x100m freestyle relay
+Summer,2004,Gold,USA,United States,,2004 Athens,Swimming,Women's,4x200m freestyle relay
+Summer,2004,Silver,CHN,China,,2004 Athens,Swimming,Women's,4x200m freestyle relay
+Summer,2004,Bronze,GER,Germany,,2004 Athens,Swimming,Women's,4x200m freestyle relay
+Summer,2004,Gold,AUS,Australia,,2004 Athens,Swimming,Women's,4x100m medley relay
+Summer,2004,Silver,USA,United States,,2004 Athens,Swimming,Women's,4x100m medley relay
+Summer,2004,Bronze,GER,Germany,,2004 Athens,Swimming,Women's,4x100m medley relay
+Summer,2004,Gold,KOR,Korea Republic,Руй Сеун Мин,2004 Athens,Table Tennis,Men's,singles
+Summer,2004,Silver,CHN,China,Ван Хао,2004 Athens,Table Tennis,Men's,singles
+Summer,2004,Bronze,CHN,China,Ван Линцинь,2004 Athens,Table Tennis,Men's,singles
+Summer,2004,Gold,CHN,China,"Чэнь Ци, Ма Линь",2004 Athens,Table Tennis,Men's,doubles
+Summer,2004,Silver,HKG,"Hong Kong, China","Ко Лай Чак, Ли Чин",2004 Athens,Table Tennis,Men's,doubles
+Summer,2004,Bronze,DEN,Denmark,"Михаэль Мазе, Финн Тугвелл",2004 Athens,Table Tennis,Men's,doubles
+Summer,2004,Gold,CHN,China,Чжан Инин,2004 Athens,Table Tennis,Women's,singles
+Summer,2004,Silver,PRK,Korea DPR,Ким Кьюн Ми,2004 Athens,Table Tennis,Women's,singles
+Summer,2004,Bronze,KOR,Korea Republic,Ким Кьюн А,2004 Athens,Table Tennis,Women's,singles
+Summer,2004,Gold,CHN,China,"Чжан Инин, Ван Нань",2004 Athens,Table Tennis,Women's,doubles
+Summer,2004,Silver,KOR,Korea Republic,"Сук Юн Ми, Ли Юн Сил",2004 Athens,Table Tennis,Women's,doubles
+Summer,2004,Bronze,CHN,China,"Ню Цзяньфэн, Гуо Юе",2004 Athens,Table Tennis,Women's,doubles
+Summer,2004,Gold,TPE,Chinese Taipei,Чу Му Йен,2004 Athens,Taekwondo,Men's,- 58 kg
+Summer,2004,Silver,MEX,Mexico,Оскар Фрасиско Саласар Бланко,2004 Athens,Taekwondo,Men's,- 58 kg
+Summer,2004,Bronze,EGY,Egypt,Тамер Байюми,2004 Athens,Taekwondo,Men's,- 58 kg
+Summer,2004,Gold,IRI,Iran,Хади Саеди Бонехохал,2004 Athens,Taekwondo,Men's,58 - 68 kg
+Summer,2004,Silver,TPE,Chinese Taipei,Чи Сьюнхуан,2004 Athens,Taekwondo,Men's,58 - 68 kg
+Summer,2004,Bronze,KOR,Korea Republic,Сон Мьон Себ,2004 Athens,Taekwondo,Men's,58 - 68 kg
+Summer,2004,Gold,USA,United States,Стивен Лопес,2004 Athens,Taekwondo,Men's,68 - 80 kg
+Summer,2004,Silver,TUR,Turkey,Бахри Танрикулу,2004 Athens,Taekwondo,Men's,68 - 80 kg
+Summer,2004,Bronze,IRI,Iran,Йоссеф Карами,2004 Athens,Taekwondo,Men's,68 - 80 kg
+Summer,2004,Gold,KOR,Korea Republic,Мун Дае Сун,2004 Athens,Taekwondo,Men's,+ 80 kg
+Summer,2004,Silver,GRE,Greece,Александрос Николаидис,2004 Athens,Taekwondo,Men's,+ 80 kg
+Summer,2004,Bronze,FRA,France,Паскаль Жентиль,2004 Athens,Taekwondo,Men's,+ 80 kg
+Summer,2004,Gold,TPE,Chinese Taipei,Чэн Ши Ксин,2004 Athens,Taekwondo,Women's,- 49 kg
+Summer,2004,Silver,CUB,Cuba,Янелис Юлиет Лабрада Диас,2004 Athens,Taekwondo,Women's,- 49 kg
+Summer,2004,Bronze,THA,Thailand,Яовапа Бураполчай,2004 Athens,Taekwondo,Women's,- 49 kg
+Summer,2004,Gold,KOR,Korea Republic,Джан Джи Вон,2004 Athens,Taekwondo,Women's,49 - 57 kg
+Summer,2004,Silver,USA,United States,Ниа Абдалла,2004 Athens,Taekwondo,Women's,49 - 57 kg
+Summer,2004,Bronze,MEX,Mexico,Иридия Саласар Бланко,2004 Athens,Taekwondo,Women's,49 - 57 kg
+Summer,2004,Gold,CHN,China,Лу Вэй,2004 Athens,Taekwondo,Women's,57 - 67 kg
+Summer,2004,Silver,GRE,Greece,Элизавет Мистакиду,2004 Athens,Taekwondo,Women's,57 - 67 kg
+Summer,2004,Bronze,KOR,Korea Republic,Хван Кьюн Сун,2004 Athens,Taekwondo,Women's,57 - 67 kg
+Summer,2004,Gold,CHN,China,Чэнь Чжун,2004 Athens,Taekwondo,Women's,+ 67 kg
+Summer,2004,Silver,FRA,France,Мириам Беверель,2004 Athens,Taekwondo,Women's,+ 67 kg
+Summer,2004,Bronze,VEN,Venezuela,Адриана Кармона,2004 Athens,Taekwondo,Women's,+ 67 kg
+Summer,2004,Gold,CHI,Chile,Николас Массу,2004 Athens,Tennis,Men's,singles
+Summer,2004,Silver,USA,United States,Мэрди Фиш,2004 Athens,Tennis,Men's,singles
+Summer,2004,Bronze,CHI,Chile,Фернандо Гонсалес,2004 Athens,Tennis,Men's,singles
+Summer,2004,Gold,CHI,Chile,"Фернандо Гонсалес, Николас Массу",2004 Athens,Tennis,Men's,doubles
+Summer,2004,Silver,GER,Germany,"Райнер Шуттлер, Николас Кифер",2004 Athens,Tennis,Men's,doubles
+Summer,2004,Bronze,CRO,Croatia,"Иван Любичич, Марио Анич",2004 Athens,Tennis,Men's,doubles
+Summer,2004,Gold,BEL,Belgium,Жюстин Энен-Арденн,2004 Athens,Tennis,Women's,singles
+Summer,2004,Silver,FRA,France,Амели Моресмо,2004 Athens,Tennis,Women's,singles
+Summer,2004,Bronze,AUS,Australia,Алисия Молик,2004 Athens,Tennis,Women's,singles
+Summer,2004,Gold,CHN,China,"Ли Тин, Сунь Тяньтянь",2004 Athens,Tennis,Women's,doubles
+Summer,2004,Silver,ESP,Spain,"Кончита Мартинес, Вирхиния Руано-Паскуаль",2004 Athens,Tennis,Women's,doubles
+Summer,2004,Bronze,ARG,Argentina,"Паола Суарес, Патрисия Тарабини",2004 Athens,Tennis,Women's,doubles
+Summer,2004,Gold,UKR,Ukraine,Юрий Никитин,2004 Athens,Trampoline,Men's,individual
+Summer,2004,Silver,RUS,Russian Federation,Александр Москаленко,2004 Athens,Trampoline,Men's,individual
+Summer,2004,Bronze,GER,Germany,Хенрик Стехлик,2004 Athens,Trampoline,Men's,individual
+Summer,2004,Gold,GER,Germany,Анна Догонадзе,2004 Athens,Trampoline,Women's,individual
+Summer,2004,Silver,CAN,Canada,Карен Кокберн,2004 Athens,Trampoline,Women's,individual
+Summer,2004,Bronze,CHN,China,Хуан Шаньшань,2004 Athens,Trampoline,Women's,individual
+Summer,2004,Gold,NZL,New Zealand,Хэмиш Картер,2004 Athens,Triathlon,Men's,individual
+Summer,2004,Silver,NZL,New Zealand,Бивен Докерти,2004 Athens,Triathlon,Men's,individual
+Summer,2004,Bronze,SUI,Switzerland,Свен Ридерер,2004 Athens,Triathlon,Men's,individual
+Summer,2004,Gold,AUT,Austria,Кейт Аллен,2004 Athens,Triathlon,Women's,individual
+Summer,2004,Silver,AUS,Australia,Лоретта Хэропп,2004 Athens,Triathlon,Women's,individual
+Summer,2004,Bronze,USA,United States,Сьюзан Уильямс,2004 Athens,Triathlon,Women's,individual
+Summer,2004,Gold,BRA,Brazil,,2004 Athens,Volleyball,Men's,volleyball
+Summer,2004,Silver,ITA,Italy,,2004 Athens,Volleyball,Men's,volleyball
+Summer,2004,Bronze,RUS,Russian Federation,,2004 Athens,Volleyball,Men's,volleyball
+Summer,2004,Gold,CHN,China,,2004 Athens,Volleyball,Women's,volleyball
+Summer,2004,Silver,RUS,Russian Federation,,2004 Athens,Volleyball,Women's,volleyball
+Summer,2004,Bronze,CUB,Cuba,,2004 Athens,Volleyball,Women's,volleyball
+Summer,2004,Gold,HUN,Hungary,,2004 Athens,Water Polo,Men's,water polo
+Summer,2004,Silver,SCG,Serbia and Montenegro,,2004 Athens,Water Polo,Men's,water polo
+Summer,2004,Bronze,RUS,Russian Federation,,2004 Athens,Water Polo,Men's,water polo
+Summer,2004,Gold,ITA,Italy,,2004 Athens,Water Polo,Women's,water polo
+Summer,2004,Silver,GRE,Greece,,2004 Athens,Water Polo,Women's,water polo
+Summer,2004,Bronze,USA,United States,,2004 Athens,Water Polo,Women's,water polo
+Summer,2004,Gold,TUR,Turkey,Халил Мутлу,2004 Athens,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2004,Silver,CHN,China,У Мэйцзин,2004 Athens,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2004,Bronze,TUR,Turkey,Седат Артюк,2004 Athens,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2004,Gold,CHN,China,Ши Чжиюн,2004 Athens,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2004,Silver,CHN,China,Лэ Маошэн,2004 Athens,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2004,Bronze,VEN,Venezuela,Исраэль Риверо,2004 Athens,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2004,Gold,CHN,China,Чжан Гочжэн,2004 Athens,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2004,Silver,KOR,Korea Republic,Ли Ван Юнг,2004 Athens,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2004,Bronze,CRO,Croatia,Николай Пешалов,2004 Athens,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2004,Gold,TUR,Turkey,Танер Сагир,2004 Athens,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2004,Silver,KAZ,Kazakhstan,Сергей Филимонов,2004 Athens,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2004,Bronze,TUR,Turkey,Рейхан Арабациоглу,2004 Athens,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2004,Gold,GEO,Georgia,Гергий Асанидзе,2004 Athens,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2004,Silver,BLR,Belarus,Андрей Рыбаков,2004 Athens,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2004,Bronze,GRE,Greece,Пиррос Димас,2004 Athens,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2004,Gold,BUL,Bulgaria,Милен Добрев,2004 Athens,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2004,Silver,RUS,Russian Federation,Хаджимурад Аккаев,2004 Athens,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2004,Bronze,RUS,Russian Federation,Эдуард Тюкин,2004 Athens,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2004,Gold,RUS,Russian Federation,Дмитрий Берестов,2004 Athens,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2004,Silver,UKR,Ukraine,Игорь Разоренов,2004 Athens,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2004,Bronze,RUS,Russian Federation,Глеб Писаревский,2004 Athens,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2004,Gold,IRI,Iran,Хоссейн Резазаде,2004 Athens,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2004,Silver,LAT,Latvia,Виктор Щербатых,2004 Athens,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2004,Bronze,BUL,Bulgaria,Величко Чолаков,2004 Athens,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2004,Gold,TUR,Turkey,Нурджан Тайлан,2004 Athens,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2004,Silver,CHN,China,Ли Чжо,2004 Athens,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2004,Bronze,THA,Thailand,Арее Виратаворн,2004 Athens,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2004,Gold,THA,Thailand,Удомпорн Полсак,2004 Athens,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2004,Silver,INA,Indonesia,Лиза Румбевас,2004 Athens,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2004,Bronze,COL,Colombia,Мабель Москера,2004 Athens,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2004,Gold,CHN,China,Чэнь Янцинь,2004 Athens,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2004,Silver,PRK,Korea DPR,Ри Сон Хой,2004 Athens,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2004,Bronze,THA,Thailand,Ванди Камэим,2004 Athens,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2004,Gold,UKR,Ukraine,Наталья Скакун,2004 Athens,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2004,Silver,BLR,Belarus,Анна Батюшко,2004 Athens,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2004,Bronze,BLR,Belarus,Татьяна Стукалова,2004 Athens,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2004,Gold,CHN,China,Лю Чуньхун,2004 Athens,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2004,Silver,HUN,Hungary,Эстер Крутзлер,2004 Athens,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2004,Bronze,RUS,Russian Federation,Зарема Касаева,2004 Athens,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2004,Gold,THA,Thailand,Павина Тонгсук,2004 Athens,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2004,Silver,RUS,Russian Federation,Наталья Заболотнова,2004 Athens,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2004,Bronze,RUS,Russian Federation,Валенитна Попова,2004 Athens,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2004,Gold,CHN,China,Тан Гунхун,2004 Athens,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2004,Silver,KOR,Korea Republic,Чжанг Ми Ран,2004 Athens,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2004,Bronze,POL,Poland,Агата Вробель,2004 Athens,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2004,Gold,RUS,Russian Federation,Мавлет Батиров,2004 Athens,Wrestling Freestyle,Men's,- 55kg
+Summer,2004,Silver,USA,United States,Стивен Абас,2004 Athens,Wrestling Freestyle,Men's,- 55kg
+Summer,2004,Bronze,JPN,Japan,Шихара Танабе,2004 Athens,Wrestling Freestyle,Men's,- 55kg
+Summer,2004,Gold,CUB,Cuba,Яндро Кинтана,2004 Athens,Wrestling Freestyle,Men's,55 - 60kg
+Summer,2004,Silver,IRI,Iran,Масуд Джокар,2004 Athens,Wrestling Freestyle,Men's,55 - 60kg
+Summer,2004,Bronze,JPN,Japan,Кендзи Инуе,2004 Athens,Wrestling Freestyle,Men's,55 - 60kg
+Summer,2004,Gold,UKR,Ukraine,Эльбрус Тедеев,2004 Athens,Wrestling Freestyle,Men's,60 - 66kg
+Summer,2004,Silver,USA,United States,Джамиль Келли,2004 Athens,Wrestling Freestyle,Men's,60 - 66kg
+Summer,2004,Bronze,RUS,Russian Federation,Махач Муртазалиев,2004 Athens,Wrestling Freestyle,Men's,60 - 66kg
+Summer,2004,Gold,RUS,Russian Federation,Бувайсар Сайтиев,2004 Athens,Wrestling Freestyle,Men's,66 - 74kg
+Summer,2004,Silver,KAZ,Kazakhstan,Геннадий Лалиев,2004 Athens,Wrestling Freestyle,Men's,66 - 74kg
+Summer,2004,Bronze,CUB,Cuba,Иван Фундора,2004 Athens,Wrestling Freestyle,Men's,66 - 74kg
+Summer,2004,Gold,USA,United States,Каэль Сандерсон,2004 Athens,Wrestling Freestyle,Men's,74 - 84kg
+Summer,2004,Silver,KOR,Korea Republic,Мун Эй Дже,2004 Athens,Wrestling Freestyle,Men's,74 - 84kg
+Summer,2004,Bronze,RUS,Russian Federation,Сажад Сажидов,2004 Athens,Wrestling Freestyle,Men's,74 - 84kg
+Summer,2004,Gold,RUS,Russian Federation,Хаджимурад Гацалов,2004 Athens,Wrestling Freestyle,Men's,84 - 96kg
+Summer,2004,Silver,UZB,Uzbekistan,Магомед Ибрагимов,2004 Athens,Wrestling Freestyle,Men's,84 - 96kg
+Summer,2004,Bronze,IRI,Iran,Алиреза Хейдари,2004 Athens,Wrestling Freestyle,Men's,84 - 96kg
+Summer,2004,Gold,UZB,Uzbekistan,Артур Таймазов,2004 Athens,Wrestling Freestyle,Men's,96 - 120kg
+Summer,2004,Silver,IRI,Iran,Алиреза Резаи,2004 Athens,Wrestling Freestyle,Men's,96 - 120kg
+Summer,2004,Bronze,TUR,Turkey,Айдын Полатчи,2004 Athens,Wrestling Freestyle,Men's,96 - 120kg
+Summer,2004,Gold,UKR,Ukraine,Ирина Мерлени,2004 Athens,Wrestling Freestyle,Women's,- 48kg
+Summer,2004,Silver,JPN,Japan,Шихару Ишо,2004 Athens,Wrestling Freestyle,Women's,- 48kg
+Summer,2004,Bronze,USA,United States,Патрисия Миранда,2004 Athens,Wrestling Freestyle,Women's,- 48kg
+Summer,2004,Gold,JPN,Japan,Саори Йошида,2004 Athens,Wrestling Freestyle,Women's,48 - 55kg
+Summer,2004,Silver,CAN,Canada,Тоня Вербик,2004 Athens,Wrestling Freestyle,Women's,48 - 55kg
+Summer,2004,Bronze,FRA,France,Анна Гомис,2004 Athens,Wrestling Freestyle,Women's,48 - 55kg
+Summer,2004,Gold,JPN,Japan,Каори Ишо,2004 Athens,Wrestling Freestyle,Women's,55 - 63kg
+Summer,2004,Silver,USA,United States,Сара Макманн,2004 Athens,Wrestling Freestyle,Women's,55 - 63kg
+Summer,2004,Bronze,FRA,France,Лиз Легран,2004 Athens,Wrestling Freestyle,Women's,55 - 63kg
+Summer,2004,Gold,CHN,China,Ван Сюй,2004 Athens,Wrestling Freestyle,Women's,63 - 72kg
+Summer,2004,Silver,RUS,Russian Federation,Гюзель Манюрова,2004 Athens,Wrestling Freestyle,Women's,63 - 72kg
+Summer,2004,Bronze,JPN,Japan,Киоко Ямагучи,2004 Athens,Wrestling Freestyle,Women's,63 - 72kg
+Summer,2004,Gold,HUN,Hungary,Иштван Майорош,2004 Athens,Wrestling Greco-Roman,Men's,- 55kg
+Summer,2004,Silver,RUS,Russian Federation,Гейдар Мамедалиев,2004 Athens,Wrestling Greco-Roman,Men's,- 55kg
+Summer,2004,Bronze,GRE,Greece,Артем Курегкян,2004 Athens,Wrestling Greco-Roman,Men's,- 55kg
+Summer,2004,Gold,KOR,Korea Republic,Джун Джи Хьюн,2004 Athens,Wrestling Greco-Roman,Men's,55 - 60kg
+Summer,2004,Silver,CUB,Cuba,Роберто Монсон Гонсалес,2004 Athens,Wrestling Greco-Roman,Men's,55 - 60kg
+Summer,2004,Bronze,BUL,Bulgaria,Армен Назарян,2004 Athens,Wrestling Greco-Roman,Men's,55 - 60kg
+Summer,2004,Gold,AZE,Azerbaijan,Фарид Мансуров,2004 Athens,Wrestling Greco-Roman,Men's,60 - 66kg
+Summer,2004,Silver,TUR,Turkey,Сереф Эроглу,2004 Athens,Wrestling Greco-Roman,Men's,60 - 66kg
+Summer,2004,Bronze,KAZ,Kazakhstan,Мхитар Манукян,2004 Athens,Wrestling Greco-Roman,Men's,60 - 66kg
+Summer,2004,Gold,UZB,Uzbekistan,Александр Доктуришвили,2004 Athens,Wrestling Greco-Roman,Men's,66 - 74kg
+Summer,2004,Silver,FIN,Finland,Марко Юли-Ханнуксела,2004 Athens,Wrestling Greco-Roman,Men's,66 - 74kg
+Summer,2004,Bronze,RUS,Russian Federation,Вартерес Самургашев,2004 Athens,Wrestling Greco-Roman,Men's,66 - 74kg
+Summer,2004,Gold,RUS,Russian Federation,Алексей Мишин,2004 Athens,Wrestling Greco-Roman,Men's,74 - 84kg
+Summer,2004,Silver,SWE,Sweden,Ара Абрахамян,2004 Athens,Wrestling Greco-Roman,Men's,74 - 84kg
+Summer,2004,Bronze,BLR,Belarus,Вячеслав Макаренко,2004 Athens,Wrestling Greco-Roman,Men's,74 - 84kg
+Summer,2004,Gold,EGY,Egypt,Карам Ибрахим,2004 Athens,Wrestling Greco-Roman,Men's,84 - 96kg
+Summer,2004,Silver,GEO,Georgia,Рамаз Нозадзе,2004 Athens,Wrestling Greco-Roman,Men's,84 - 96kg
+Summer,2004,Bronze,TUR,Turkey,Мехмет Озал,2004 Athens,Wrestling Greco-Roman,Men's,84 - 96kg
+Summer,2004,Gold,RUS,Russian Federation,Хасан Бароев,2004 Athens,Wrestling Greco-Roman,Men's,96 - 120kg
+Summer,2004,Silver,KAZ,Kazakhstan,Георгий Цурцумия,2004 Athens,Wrestling Greco-Roman,Men's,96 - 120kg
+Summer,2004,Bronze,USA,United States,Рулон Гарднер,2004 Athens,Wrestling Greco-Roman,Men's,96 - 120kg
+Summer,2004,Gold,CUB,Cuba,,2004 Athens,Baseball^(1992-2008),Men's,baseball
+Summer,2004,Silver,AUS,Australia,,2004 Athens,Baseball^(1992-2008),Men's,baseball
+Summer,2004,Bronze,JPN,Japan,,2004 Athens,Baseball^(1992-2008),Men's,baseball
+Summer,2004,Gold,USA,United States,,2004 Athens,Softball^(1996-2008),Women's,softball
+Summer,2004,Silver,AUS,Australia,,2004 Athens,Softball^(1996-2008),Women's,softball
+Summer,2004,Bronze,JPN,Japan,,2004 Athens,Softball^(1996-2008),Women's,softball

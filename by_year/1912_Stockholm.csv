@@ -1,0 +1,312 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1912,Gold,USA,United States,Ralph CRAIG,1912 Stockholm,Athletics,Men's,100m
+Summer,1912,Silver,USA,United States,I. Alvah MEYER,1912 Stockholm,Athletics,Men's,100m
+Summer,1912,Bronze,USA,United States,Donald LIPPINCOTT,1912 Stockholm,Athletics,Men's,100m
+Summer,1912,Gold,USA,United States,Ralph CRAIG,1912 Stockholm,Athletics,Men's,200m
+Summer,1912,Silver,USA,United States,Donald LIPPINCOTT,1912 Stockholm,Athletics,Men's,200m
+Summer,1912,Bronze,GBR,Great Britain,William APPLEGARTH,1912 Stockholm,Athletics,Men's,200m
+Summer,1912,Gold,USA,United States,Charles Decker REIDPATH,1912 Stockholm,Athletics,Men's,400m
+Summer,1912,Silver,GER,Germany,Hans BRAUN,1912 Stockholm,Athletics,Men's,400m
+Summer,1912,Bronze,USA,United States,Edward F. LINDBERG,1912 Stockholm,Athletics,Men's,400m
+Summer,1912,Gold,USA,United States,James Edwin MEREDITH,1912 Stockholm,Athletics,Men's,800m
+Summer,1912,Silver,USA,United States,Melvin SHEPPARD,1912 Stockholm,Athletics,Men's,800m
+Summer,1912,Bronze,USA,United States,Ira Nelson DAVENPORT,1912 Stockholm,Athletics,Men's,800m
+Summer,1912,Gold,GBR,Great Britain,Arnold JACKSON,1912 Stockholm,Athletics,Men's,1500m
+Summer,1912,Silver,USA,United States,Abel KIVIAT,1912 Stockholm,Athletics,Men's,1500m
+Summer,1912,Bronze,USA,United States,Norman TABER,1912 Stockholm,Athletics,Men's,1500m
+Summer,1912,Gold,FIN,Finland,Hannes KOLEHMAINEN,1912 Stockholm,Athletics,Men's,5000m
+Summer,1912,Silver,FRA,France,Jean BOUIN,1912 Stockholm,Athletics,Men's,5000m
+Summer,1912,Bronze,GBR,Great Britain,George William HUTSON,1912 Stockholm,Athletics,Men's,5000m
+Summer,1912,Gold,FIN,Finland,Hannes KOLEHMAINEN,1912 Stockholm,Athletics,Men's,10000m
+Summer,1912,Silver,USA,United States,Lewis TEWANINA,1912 Stockholm,Athletics,Men's,10000m
+Summer,1912,Bronze,FIN,Finland,Albin Oskar STENROOS,1912 Stockholm,Athletics,Men's,10000m
+Summer,1912,Gold,RSA,South Africa,Kennedy Kane MCARTHUR,1912 Stockholm,Athletics,Men's,marathon
+Summer,1912,Silver,RSA,South Africa,Christian W. GITSHAM,1912 Stockholm,Athletics,Men's,marathon
+Summer,1912,Bronze,USA,United States,Gaston STROBINO,1912 Stockholm,Athletics,Men's,marathon
+Summer,1912,Gold,USA,United States,Frederick KELLY,1912 Stockholm,Athletics,Men's,110m hurdles
+Summer,1912,Silver,USA,United States,James WENDELL,1912 Stockholm,Athletics,Men's,110m hurdles
+Summer,1912,Bronze,USA,United States,Martin HAWKINS,1912 Stockholm,Athletics,Men's,110m hurdles
+Summer,1912,Gold,CAN,Canada,George GOULDING,1912 Stockholm,Athletics,Men's,10000m walk
+Summer,1912,Silver,GBR,Great Britain,Ernest WEBB,1912 Stockholm,Athletics,Men's,10000m walk
+Summer,1912,Bronze,ITA,Italy,Fernando ALTIMANI,1912 Stockholm,Athletics,Men's,10000m walk
+Summer,1912,Gold,GBR,Great Britain,"David Henry JACOBS, Victor Henry Augustus D'ARCY, Henry Maitland MACKINTOSH, William APPLEGARTH",1912 Stockholm,Athletics,Men's,4x100m relay
+Summer,1912,Silver,SWE,Sweden,"Knut LINDBERG, Karl August LUTHER, Ivan MÖLLER, Ture PERSSON",1912 Stockholm,Athletics,Men's,4x100m relay
+Summer,1912,Gold,USA,United States,"Melvin SHEPPARD, James Edwin MEREDITH, Edward F. LINDBERG, Charles Decker REIDPATH",1912 Stockholm,Athletics,Men's,4x400m relay
+Summer,1912,Silver,FRA,France,"Charles Louis LELONG, Charles Alexandre Casimir POULENARD, Robert SCHURRER, Pierre FAILLIOT",1912 Stockholm,Athletics,Men's,4x400m relay
+Summer,1912,Bronze,GBR,Great Britain,"Ernest John HENLEY, Cyril Norman SEEDHOUSE, George NICOL, James Tindal SOUTTER",1912 Stockholm,Athletics,Men's,4x400m relay
+Summer,1912,Gold,USA,United States,"Abel KIVIAT, Tell Schirnding BERNA, George V. BONHAG, Henry Louis SCOTT, Norman TABER",1912 Stockholm,Athletics,Men's,3000m team
+Summer,1912,Silver,SWE,Sweden,"Bror FOCK, Thorild OHLSSON, Ernest WIDE, Nils FRYKBERG, John ZANDER",1912 Stockholm,Athletics,Men's,3000m team
+Summer,1912,Bronze,GBR,Great Britain,"Cyril Henry Atwell PORTER, Frank W. MOORE, George William HUTSON, Edward OWEN, William COTTRILL",1912 Stockholm,Athletics,Men's,3000m team
+Summer,1912,Gold,FIN,Finland,Hannes KOLEHMAINEN,1912 Stockholm,Athletics,Men's,cross country individual
+Summer,1912,Silver,SWE,Sweden,Hjalmar ANDERSSON,1912 Stockholm,Athletics,Men's,cross country individual
+Summer,1912,Bronze,SWE,Sweden,John EKE,1912 Stockholm,Athletics,Men's,cross country individual
+Summer,1912,Gold,SWE,Sweden,"John EKE, Hjalmar ANDERSSON, Josef TERNSTRÖM",1912 Stockholm,Athletics,Men's,cross country team
+Summer,1912,Silver,FIN,Finland,"Hannes KOLEHMAINEN, Albin Oskar STENROOS, Jalmari ESKOLA",1912 Stockholm,Athletics,Men's,cross country team
+Summer,1912,Bronze,GBR,Great Britain,"Ernest GLOVER, Frederick Newton HIBBINS, Frederick Harkness HUMPHREYS",1912 Stockholm,Athletics,Men's,cross country team
+Summer,1912,Gold,USA,United States,Albert Lovejoy GUTTERSON,1912 Stockholm,Athletics,Men's,long jump
+Summer,1912,Silver,CAN,Canada,Calvin David BRICKER,1912 Stockholm,Athletics,Men's,long jump
+Summer,1912,Bronze,SWE,Sweden,Georg ABERG,1912 Stockholm,Athletics,Men's,long jump
+Summer,1912,Gold,GRE,Greece,Konstantinos TSICLITIRAS,1912 Stockholm,Athletics,Men's,"long jump, standing"
+Summer,1912,Silver,USA,United States,Platt ADAMS,1912 Stockholm,Athletics,Men's,"long jump, standing"
+Summer,1912,Bronze,USA,United States,Benjamin W. ADAMS,1912 Stockholm,Athletics,Men's,"long jump, standing"
+Summer,1912,Gold,SWE,Sweden,Gustav LINDBLOM,1912 Stockholm,Athletics,Men's,triple jump
+Summer,1912,Silver,SWE,Sweden,Georg ABERG,1912 Stockholm,Athletics,Men's,triple jump
+Summer,1912,Bronze,SWE,Sweden,Erik ALMLÖF,1912 Stockholm,Athletics,Men's,triple jump
+Summer,1912,Gold,USA,United States,Alma Wilfred RICHARDS,1912 Stockholm,Athletics,Men's,high jump
+Summer,1912,Silver,GER,Germany,Hans LIESCHE,1912 Stockholm,Athletics,Men's,high jump
+Summer,1912,Bronze,USA,United States,George Leslie HORINE,1912 Stockholm,Athletics,Men's,high jump
+Summer,1912,Gold,USA,United States,Platt ADAMS,1912 Stockholm,Athletics,Men's,"high jump, standing"
+Summer,1912,Silver,USA,United States,Benjamin W. ADAMS,1912 Stockholm,Athletics,Men's,"high jump, standing"
+Summer,1912,Bronze,GRE,Greece,Konstantinos TSICLITIRAS,1912 Stockholm,Athletics,Men's,"high jump, standing"
+Summer,1912,Gold,USA,United States,Harry Stoddard BABCOCK,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Silver,USA,United States,Frank Thayer NELSON,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Silver,USA,United States,Marc Snowell WRIGHT,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Bronze,CAN,Canada,William HAPPENNY,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Bronze,SWE,Sweden,Bertil UGGLA,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Bronze,USA,United States,Frank Dwyer MURPHY,1912 Stockholm,Athletics,Men's,pole vault
+Summer,1912,Gold,FIN,Finland,Armas Rudolf TAIPALE,1912 Stockholm,Athletics,Men's,discus throw
+Summer,1912,Silver,USA,United States,Richard Leslie BYRD,1912 Stockholm,Athletics,Men's,discus throw
+Summer,1912,Bronze,USA,United States,James Henry DUNCAN,1912 Stockholm,Athletics,Men's,discus throw
+Summer,1912,Gold,FIN,Finland,Armas Rudolf TAIPALE,1912 Stockholm,Athletics,Men's,"discus throw, both hands"
+Summer,1912,Silver,FIN,Finland,Elmer Konstantin NIKLANDER,1912 Stockholm,Athletics,Men's,"discus throw, both hands"
+Summer,1912,Bronze,SWE,Sweden,Emil MAGNUSSON,1912 Stockholm,Athletics,Men's,"discus throw, both hands"
+Summer,1912,Gold,USA,United States,Matthew J. MCGRATH,1912 Stockholm,Athletics,Men's,hammer throw
+Summer,1912,Silver,CAN,Canada,Duncan GILLIS,1912 Stockholm,Athletics,Men's,hammer throw
+Summer,1912,Bronze,USA,United States,Clarence Chester CHILDS,1912 Stockholm,Athletics,Men's,hammer throw
+Summer,1912,Gold,USA,United States,Patrick MCDONALD,1912 Stockholm,Athletics,Men's,shot put
+Summer,1912,Silver,USA,United States,Ralph ROSE,1912 Stockholm,Athletics,Men's,shot put
+Summer,1912,Bronze,USA,United States,Laurence Atwood WHITNEY,1912 Stockholm,Athletics,Men's,shot put
+Summer,1912,Gold,USA,United States,Ralph ROSE,1912 Stockholm,Athletics,Men's,"shot put, both hands"
+Summer,1912,Silver,USA,United States,Patrick MCDONALD,1912 Stockholm,Athletics,Men's,"shot put, both hands"
+Summer,1912,Bronze,FIN,Finland,Elmer Konstantin NIKLANDER,1912 Stockholm,Athletics,Men's,"shot put, both hands"
+Summer,1912,Gold,SWE,Sweden,Eric LEMMING,1912 Stockholm,Athletics,Men's,javelin throw
+Summer,1912,Silver,FIN,Finland,Juho Julius SAARISTO,1912 Stockholm,Athletics,Men's,javelin throw
+Summer,1912,Bronze,HUN,Hungary,Mor KOVACS,1912 Stockholm,Athletics,Men's,javelin throw
+Summer,1912,Gold,FIN,Finland,Juho Julius SAARISTO,1912 Stockholm,Athletics,Men's,"javelin throw, both hands"
+Summer,1912,Silver,FIN,Finland,Väinö SIIKANIEMI,1912 Stockholm,Athletics,Men's,"javelin throw, both hands"
+Summer,1912,Bronze,FIN,Finland,Urho Pellervo PELTONEN,1912 Stockholm,Athletics,Men's,"javelin throw, both hands"
+Summer,1912,Gold,USA,United States,Jim THORPE,1912 Stockholm,Athletics,Men's,pentathlon
+Summer,1912,Silver,NOR,Norway,Ferdinand Reinhardt BIE,1912 Stockholm,Athletics,Men's,pentathlon
+Summer,1912,Silver,USA,United States,James Joseph DONAHUE,1912 Stockholm,Athletics,Men's,pentathlon
+Summer,1912,Bronze,CAN,Canada,Frank LUKEMAN,1912 Stockholm,Athletics,Men's,pentathlon
+Summer,1912,Gold,USA,United States,Jim THORPE,1912 Stockholm,Athletics,Men's,decathlon
+Summer,1912,Silver,SWE,Sweden,Charles LOMBERG,1912 Stockholm,Athletics,Men's,decathlon
+Summer,1912,Silver,SWE,Sweden,Hugo K. WIESLANDER,1912 Stockholm,Athletics,Men's,decathlon
+Summer,1912,Bronze,SWE,Sweden,Gösta HOLMER,1912 Stockholm,Athletics,Men's,decathlon
+Summer,1912,Gold,RSA,South Africa,Rudolph LEWIS,1912 Stockholm,Cycling Road,Men's,individual time trial
+Summer,1912,Silver,GBR,Great Britain,Frederick Henry GRUBB,1912 Stockholm,Cycling Road,Men's,individual time trial
+Summer,1912,Bronze,USA,United States,Carl Otto SCHUTTE,1912 Stockholm,Cycling Road,Men's,individual time trial
+Summer,1912,Gold,SWE,Sweden,"Ragnar MALM, Algot LÖNN, Erik FRIBORG, Axel Wilhelm PERSSON",1912 Stockholm,Cycling Road,Men's,team time trial
+Summer,1912,Silver,GBR,Great Britain,"William Robert HAMMOND, Leonard Lewis MEREDITH, Charles MOSS, Frederick Henry GRUBB",1912 Stockholm,Cycling Road,Men's,team time trial
+Summer,1912,Bronze,USA,United States,"Alvin Hjalmar LOFTES, Walter C. MARTIN, Carl Otto SCHUTTE, Albert KRUSHEL",1912 Stockholm,Cycling Road,Men's,team time trial
+Summer,1912,Gold,GER,Germany,Paul GÜNTHER,1912 Stockholm,Diving,Men's,3m springboard
+Summer,1912,Silver,GER,Germany,Hans LUBER,1912 Stockholm,Diving,Men's,3m springboard
+Summer,1912,Bronze,GER,Germany,Kurt BEHRENS,1912 Stockholm,Diving,Men's,3m springboard
+Summer,1912,Gold,SWE,Sweden,Erik ADLERZ,1912 Stockholm,Diving,Men's,10m platform
+Summer,1912,Silver,GER,Germany,Albert ZÜRNER,1912 Stockholm,Diving,Men's,10m platform
+Summer,1912,Bronze,SWE,Sweden,Gustaf BLOMGREN,1912 Stockholm,Diving,Men's,10m platform
+Summer,1912,Gold,SWE,Sweden,Erik ADLERZ,1912 Stockholm,Diving,Men's,plain high diving
+Summer,1912,Silver,SWE,Sweden,Hjalmar JOHANSSON,1912 Stockholm,Diving,Men's,plain high diving
+Summer,1912,Bronze,SWE,Sweden,John JANSSON,1912 Stockholm,Diving,Men's,plain high diving
+Summer,1912,Gold,SWE,Sweden,Greta JOHANSSON,1912 Stockholm,Diving,Women's,10m platform
+Summer,1912,Silver,SWE,Sweden,Lisa REGNELL,1912 Stockholm,Diving,Women's,10m platform
+Summer,1912,Bronze,GBR,Great Britain,Isabella Mary WHITE,1912 Stockholm,Diving,Women's,10m platform
+Summer,1912,Gold,SWE,Sweden,"EMPEROR, Carl BONDE",1912 Stockholm,Equestrian Dressage,Mixed,individual
+Summer,1912,Silver,SWE,Sweden,"NEPTUN, Gustaf-Adolf BOLTENSTERN",1912 Stockholm,Equestrian Dressage,Mixed,individual
+Summer,1912,Bronze,SWE,Sweden,"MAGGIE, Hans VON BLIXEN-FINECKE",1912 Stockholm,Equestrian Dressage,Mixed,individual
+Summer,1912,Gold,SWE,Sweden,"LADY ARTIST, Axel NORDLANDER",1912 Stockholm,Equestrian Eventing,Mixed,individual
+Summer,1912,Silver,GER,Germany,"IDEALIST, Friedrich Leopold Harry VON ROCHOW",1912 Stockholm,Equestrian Eventing,Mixed,individual
+Summer,1912,Bronze,FRA,France,"COCOTTE, J CARIOU",1912 Stockholm,Equestrian Eventing,Mixed,individual
+Summer,1912,Gold,SWE,Sweden,"Nils ADLERCREUTZ, Henric HORN AF AMINNE, Axel NORDLANDER, Ernst CASPARSSON",1912 Stockholm,Equestrian Eventing,Mixed,team
+Summer,1912,Silver,GER,Germany,"Henrich VON MOERS, Rudolf Graf VON SCHAESBERG-TANNHEIM, Eduard VON LÜTSCKEN, Friedrich Leopold Harry VON ROCHOW",1912 Stockholm,Equestrian Eventing,Mixed,team
+Summer,1912,Bronze,USA,United States,"John Carter MONTGOMERY, Ephraim Foster GRAHAM, Benjamin LEAR, Guy Verner HENRY",1912 Stockholm,Equestrian Eventing,Mixed,team
+Summer,1912,Gold,FRA,France,"MIGNON, J CARIOU",1912 Stockholm,Equestrian Jumping,Mixed,individual
+Summer,1912,Silver,GER,Germany,"DOHNA, Rabod Wilhelm VON KRÃ–CHER",1912 Stockholm,Equestrian Jumping,Mixed,individual
+Summer,1912,Bronze,BEL,Belgium,"Emmanuel DE BLOMMAERT DE SOYE, CLONMORE",1912 Stockholm,Equestrian Jumping,Mixed,individual
+Summer,1912,Gold,SWE,Sweden,"Carl Gustaf LEWENHAUPT, Gustaf KILMAN, Frederik ROSENCRANTZ, Hans VON ROSEN, MEDUSA, GATAN, DRABANT, LORD IRON",1912 Stockholm,Equestrian Jumping,Mixed,team
+Summer,1912,Silver,FRA,France,"Michel DUFOURT D'ASTAFORT, Bernard MEYER, Albert SEIGNER, J CARIOU, AMAZONE, ALLONS-Y, COCOTTE, MIGNON",1912 Stockholm,Equestrian Jumping,Mixed,team
+Summer,1912,Bronze,GER,Germany,"Wilhelm VON HOHENAU, Ernst Hubertus DELOCH, Friedrich Karl VON PREUSSEN, Sigismund FREYER, PRETTY GIRL, HUBERTUS, GIBSON BOY, ULTIMUS",1912 Stockholm,Equestrian Jumping,Mixed,team
+Summer,1912,Gold,ITA,Italy,Nedo NADI,1912 Stockholm,Fencing,Men's,foil individual
+Summer,1912,Silver,ITA,Italy,Pietro SPECIALE,1912 Stockholm,Fencing,Men's,foil individual
+Summer,1912,Bronze,AUT,Austria,Richard VERDERBER,1912 Stockholm,Fencing,Men's,foil individual
+Summer,1912,Gold,BEL,Belgium,Paul ANSPACH,1912 Stockholm,Fencing,Men's,épée individual
+Summer,1912,Silver,DEN,Denmark,Ivan Joseph Martin OSIIER,1912 Stockholm,Fencing,Men's,épée individual
+Summer,1912,Bronze,BEL,Belgium,Philippe LE HARDY DE BEAULIEU,1912 Stockholm,Fencing,Men's,épée individual
+Summer,1912,Gold,BEL,Belgium,"Henri ANSPACH, Fernand DE MONTIGNY, François ROM, Victor WILLEMS, Paul ANSPACH, Robert HENNET, Jacques OCHS, Gaston C.J.M. SALMON",1912 Stockholm,Fencing,Men's,épée team
+Summer,1912,Silver,GBR,Great Britain,"Arthur Francis G. EVERITT, Martin Drummond HOLT, Edgar Montague AMPHLETT, John Percy BLAKE, Percival May DAWSON, Sydney MARTINEAU, Edgar Isaac SELIGMAN, Robert Cecil MONTGOMERIE",1912 Stockholm,Fencing,Men's,épée team
+Summer,1912,Bronze,NED,Netherlands,"Willem Peter Hubert VAN BLIJENBURGH, Leonardus SALOMONSON, Adrianus Egbertus Willem DE JONG, Jetze DOORMAN, George VAN ROSSEM",1912 Stockholm,Fencing,Men's,épée team
+Summer,1912,Gold,HUN,Hungary,Jenö FUCHS,1912 Stockholm,Fencing,Men's,sabre individual
+Summer,1912,Silver,HUN,Hungary,Béla BEKESSY,1912 Stockholm,Fencing,Men's,sabre individual
+Summer,1912,Bronze,HUN,Hungary,Ervin MESZAROS,1912 Stockholm,Fencing,Men's,sabre individual
+Summer,1912,Gold,HUN,Hungary,"Jenö FUCHS, Ervin MESZAROS, Oskar GERDE, Peter TOTH, Laszlo BERTI, Deszö FÖLDES, Zoltan SCHENKER, Lajos WERKNER",1912 Stockholm,Fencing,Men's,sabre team
+Summer,1912,Silver,AUT,Austria,"Richard VERDERBER, Rudolf CVETKO, Andreas SUTTNER, Reinhold TRAMPLER, Otto HERSCHMANN, Friedrich GOLLING, Albert BOGEN",1912 Stockholm,Fencing,Men's,sabre team
+Summer,1912,Bronze,NED,Netherlands,"George VAN ROSSEM, Jetze DOORMAN, Hendrik Egb. Willem DE JONGH, Willem Peter Hubert VAN BLIJENBURGH, Adrianus Egbertus Willem DE JONG, Dirk SCALONGNE",1912 Stockholm,Fencing,Men's,sabre team
+Summer,1912,Gold,GBR,Great Britain,"Arthur BERRY, Thomas Christopher BURN, Ivor Gordon SHARPE, Harold Adrian WALDEN, Henry Charles LITTLEWORT, Vivian John WOODWARD, James DINES, Ronald Gilchrist BREBNER, Gordon Rahere HOARE, Edward T. HANNEY, Arthur Egerton KNIGHT",1912 Stockholm,Football,Men's,football
+Summer,1912,Silver,DEN,Denmark,"Niels MIDDELBOE, Vilhelm WOLFHAGEN, Hjalmar Johan CHRISTOFFERSEN, Paul Ludvig Laurits BERTH, Sofus Erhard NIELSEN, Harald HANSEN, Sophus HANSEN, Axel Karl PETERSEN, Anton OLSEN, Ivar Likke SEIDELIN-NIELSEN, Charles BUCHWALD",1912 Stockholm,Football,Men's,football
+Summer,1912,Bronze,NED,Netherlands,"Constant Willem FEITH, Marius Just GÖBEL, Henri Franciscus DE GROOT, Nicolaas Jan Jerome BOUVY, Dirk Nicolaas LOTSY, Nicolaas DE WOLF, David WIJNVELDT, Caesar Herman TEN CATE, Jan Gualtherus VAN BREDA KOLFF, Jan VOS, Johannes Marius DE KORVER",1912 Stockholm,Football,Men's,football
+Summer,1912,Gold,ITA,Italy,G. Alberto BRAGLIA,1912 Stockholm,Gymnastics Artistic,Men's,individual all-round
+Summer,1912,Silver,FRA,France,B. Louis SEGURA,1912 Stockholm,Gymnastics Artistic,Men's,individual all-round
+Summer,1912,Bronze,ITA,Italy,Adolfo TUNESI,1912 Stockholm,Gymnastics Artistic,Men's,individual all-round
+Summer,1912,Gold,ITA,Italy,"Guiseppe DOMENICHELLI, Guido ROMANO, Giorgio ZAMPORI, Adolfo TUNESI, Paolo SALVI, Guido BONI, Francesco LOI, Giovanni MANGIANTE, Luciano SAVORINI, Angelo ZORZI, Lorenzo MANGIANTE, Pietro BIANCHI, G. Alberto BRAGLIA, Serafino MAZZAROCHI, Carlo FREGOSI, Alfredo GOLLINI",1912 Stockholm,Gymnastics Artistic,Men's,team competition
+Summer,1912,Silver,HUN,Hungary,"Jenö RETI, Imre ERDÖDY, Jozsef KERESZTESSY, Lajos ARADI, Samu FOTI, Gyözö HALMOS, Istvan HERCZEG, Elemer PASZTY, Arpad PEDERY, Ferenc SZÜTS, Géza TULI, Ödön TERY, Jozsef BERKES, Imre GELLERT, Otto HELLMICH, Janos KORPONAI",1912 Stockholm,Gymnastics Artistic,Men's,team competition
+Summer,1912,Bronze,GBR,Great Britain,"William COWHIG, Arthur George Heron SOUTHERN, Albert Edward BETTS, Samuel HODGETTS, Charles Alfred VIGURS, John T. WHITAKER, Edward William POTTS, George James ROSS, Charles SIMMONS, Ronald Gordon MCLEAN, Herbert James DRURY, William TITT, Leonard HANSON, Charles Joseph WEST, Harry DICKASON, Edward Ernest PEPPER, Samuel John WALKER, Sidney CROSS, Reginald Hubert POTTS, Henry Arthur OBERHOLZER, Alfred William MESSENGER, Charles James LUCK, William MAC KUNE, Bernard Wallis FRANKLIN",1912 Stockholm,Gymnastics Artistic,Men's,team competition
+Summer,1912,Gold,NOR,Norway,"Tor LUND, Per Anton MATHIESEN, Öistein SCHIRMER, Hartmann BJÖRNSSON, Nils OPDAHL, Georg SELENIUS, Alfred ENGELSEN, Robert SJURSEN, Bjarne JOHNSEN, Rolf LIE, John DAHL, Jacob OPDAHL, Sigvard SIVERTSEN, Sigurd JÖRGENSEN, Nils VOSS, Gabriel THORSTENSEN, Thomas THORSTENSEN, Bjarne Viktor PETTERSEN, Petter MARTINSEN, Frithjof SAELEN, Isak ABRAHAMSEN, Knud Leonard KNUDSEN, Alf LIE, Einar STRÖM, Hans BEYER",1912 Stockholm,Gymnastics Artistic,Men's,"team, free system"
+Summer,1912,Silver,FIN,Finland,"Eino Vilho FORSSTRÖM, Eino SAASTAMOINEN, Lauri Arvo TANNER, Väinö Edvard TIIRI, Hannes SIROLA, Klaus Unno SUOMELA, Ilmari PERNAJA, Mikko HYVÄRINEN, Arvo VARTIA, Aarne PELKONEN, Arvid RYDMAN, Kaarlo VÄHÄMÄKI, Heikki SAMMALLAHTI, Aarne SALOVAARA, Ilmari KEINÄNEN, Kaarlo Jalmari VASAMA, Hjalmari KIVENHEIMO, Eero HYVÄRINEN, Kaarlo Väinö EKHOLM, Tauno ILMONIEMI, Karl Fredrik LUND",1912 Stockholm,Gymnastics Artistic,Men's,"team, free system"
+Summer,1912,Bronze,DEN,Denmark,"Rikard Hannibal Wilhelm NORDSTRÖM, Carl Julius JUUL-PETERSEN, Charles Christopher JENSEN, Christian Edvin Oluf PETERSEN, Thomas Fredrik Hannibal MÖLGAARD, Hjalmar Peter Martin JOHANSEN, Christian Marius HANSEN, Poul Preben JÖRGENSEN, Niels Knudsen PETERSEN, Axel Sigurd ANDERSEN, Christian Valdemar SVENDSEN, Lukas Frederick Christian NIELSEN, Steen Lerche OLSEN, Svend Meulengracht MADSEN, Hjalmart Nörregaard ANDERSEN, Hermann Johan GRIMMELMANN, Carl Immanuel KREBS, Arvor HANSEN, Halvor BIRCH, Aage Marius HANSEN, Oluf OLSEN",1912 Stockholm,Gymnastics Artistic,Men's,"team, free system"
+Summer,1912,Gold,SWE,Sweden,"Claës A. WERSÄLL, Carl-Erik SVENSSON, Knut E. TORELL, Karl Johan SVENSSON, Curt HARTZELL, Per Daniel BERTILSSON, John Emil SÖRENSON, Anders Boo KULLBERG, Yngve STIERNSPETZ, Carl-Ehrenfried CARLBERG, Nils SILFVERSKIÖLD, Nils Daniel GRANFELDT, David WIMAN, Bengt Rudolf NORELIUS, Carl SILFVERSTRAND, Axel NORLING, Axel Johan JANSE, Per Einar NILSSON, Sven LANDBERG, Anders HYLLANDER, O. Edward WENNERHOLM, Sven ROSEN, Osvald HOLMBERG, Lars Daniel NORLING",1912 Stockholm,Gymnastics Artistic,Men's,"team, Swedish system"
+Summer,1912,Silver,DEN,Denmark,"Valdemar JENSEN, Jens KIRKEGAARD, Kristen Möller VADGAARD, Marius Ludvig LEFEVRE, Ejnar OLSEN, Hans PEDERSEN, Martin Hansen THAU, Johannes Larsen VINTHER, Ingvald ERIKSEN, Jens Kristian JENSEN, Sören Peter CHRISTENSEN, Jens Peter Martinus LAURSEN, Hans Trier HANSEN, G. Rasmus E. HANSEN, Peder Larsen PEDERSEN, Karl KIRK, Olaf Nielsen KJEMS, Peder VILLEMOES, Poul Sörensen MARK, Hans Ejler PEDERSEN, Aksel SÖRENSEN, Sören Frederik THORBORG, George FALCHE, Sören Alfred JENSEN, Carl Otto Lauritz LARSEN, Torkild GARP, Johannes HANSEN, Olaf PEDERSEN",1912 Stockholm,Gymnastics Artistic,Men's,"team, Swedish system"
+Summer,1912,Bronze,NOR,Norway,"Axel Henry HANSEN, Edvin PAULSEN, Peter HOL, Conrad CHRISTENSEN, Eugene ENGEBRETSEN, Jörgen Marius ANDERSEN, Arthur M. AMUNDSEN, Oscar OLSTAD, Olaf INGEBRETSEN, Sigurd SMEBYE, Erling JENSEN, Trygve Carlsen BOYESEN, Fritjof OLSEN, Marius ERIKSEN, Thorleif THORKILDSEN, Paul PEDERSEN, Oscar ENGELSTAD, Carl Alfred PEDERSEN, Georg BRUSTAD, Olof JACOBSEN, Thor JENSEN, Rolf ROBACK",1912 Stockholm,Gymnastics Artistic,Men's,"team, Swedish system"
+Summer,1912,Gold,SWE,Sweden,Gosta LILLIEHOOK,1912 Stockholm,Modern Pentathlon,Men's,individual competition
+Summer,1912,Silver,SWE,Sweden,Gosta ASBRINK,1912 Stockholm,Modern Pentathlon,Men's,individual competition
+Summer,1912,Bronze,SWE,Sweden,Georg DE LAVAL,1912 Stockholm,Modern Pentathlon,Men's,individual competition
+Summer,1912,Gold,GBR,Great Britain,William Duthie KINNEAR,1912 Stockholm,Rowing,Men's,single sculls (1x)
+Summer,1912,Silver,BEL,Belgium,Polydore VEIRMAN,1912 Stockholm,Rowing,Men's,single sculls (1x)
+Summer,1912,Bronze,CAN,Canada,Everard Burnside BUTLER,1912 Stockholm,Rowing,Men's,single sculls (1x)
+Summer,1912,Bronze,RU1,Russian Empire,Mikhaïl Maksimilian KUSIK,1912 Stockholm,Rowing,Men's,single sculls (1x)
+Summer,1912,Gold,GER,Germany,"Albert ARNHEITER, Hermann WILKER, Rudolf FICKEISEN, Karl LEISTER, Otto FICKEISEN",1912 Stockholm,Rowing,Men's,four-oared shell with coxswain
+Summer,1912,Silver,GBR,Great Britain,"Karl VERNON, Herbert Bruce LOGAN, Geoffrey CARR, Julius BERESFORD, Charles Gardner ROUGHT",1912 Stockholm,Rowing,Men's,four-oared shell with coxswain
+Summer,1912,Bronze,DEN,Denmark,"Eigil CLEMMENSEN, Rasmus Peter FRANDSEN, Poul THYMANN, Erik BISGAARD, Mikael SIMONSEN",1912 Stockholm,Rowing,Men's,four-oared shell with coxswain
+Summer,1912,Bronze,NOR,Norway,"Henry Larsen, Theodor Klem, Ejnar Tønsager, Mathias Torstensen, Håkon Tønsager",1912 Stockholm,Rowing,Men's,four-oared shell with coxswain
+Summer,1912,Gold,DEN,Denmark,"Ejlert Arild Emil ALLERT, Carl Martin August MÖLLER, Poul Richard HARTMAN, Jörgen Christian HANSEN, Carl Frederik PETERSEN",1912 Stockholm,Rowing,Men's,coxed fours Jugriggers
+Summer,1912,Silver,SWE,Sweden,"William BRUHN-MÖLLER, Herman DAHLBÄCK, Ture ROSVALL, Conrad BRUNKMAN, Wilhelm WILKENS",1912 Stockholm,Rowing,Men's,coxed fours Jugriggers
+Summer,1912,Bronze,NOR,Norway,"Claus HÖYER, Magnus HERSETH, Olaf BJÖRNSTAD, Reidar Durie HOLTER, Frithiof OLSTAD",1912 Stockholm,Rowing,Men's,coxed fours Jugriggers
+Summer,1912,Gold,GBR,Great Britain,"Sidney Ernest SWANN, Ewart Douglas HORSFALL, Arthur Stanley GARTON, Philip FLEMING, Edgar Richard BURGESS, Leslie Graham WORMALD, James Angus GILLAN, Alister Graham KIRBY, Henry Bensley WELLS",1912 Stockholm,Rowing,Men's,eight with coxswain (8+)
+Summer,1912,Silver,GBR,Great Britain,"William Guy FISON, Thomas Cunningham GILLESPIE, Frederick Archibald Hugo PITMAN, Charles William Berry LITTLEJOHN, John Drummond WALKER, William Lorenzo PARKER, Beaufort BURDEKIN, Arthur Frederick Reginald WIGGINS, Robert Croft BOURNE",1912 Stockholm,Rowing,Men's,eight with coxswain (8+)
+Summer,1912,Bronze,GER,Germany,"Kurt RUNGE, Otto LIEBING, Fritz BARTHOLOMAE, Werner DEHN, Hans MATHIAE, Max VETTER, Max BROESKE, Willi BARTHOLOMAE, Rudolf REICHELT",1912 Stockholm,Rowing,Men's,eight with coxswain (8+)
+Summer,1912,Gold,FRA,France,"Jacques THUBE, Gaston THUBE, Amédé THUBE",1912 Stockholm,Sailing,Mixed,6m
+Summer,1912,Silver,DEN,Denmark,"Sven Bernth THOMSEN, Steen HERSCHEND, Hans MEULENGRACHT-MADSEN",1912 Stockholm,Sailing,Mixed,6m
+Summer,1912,Bronze,SWE,Sweden,"Erik SANDBERG, Otto AUST, Harald SANDBERG",1912 Stockholm,Sailing,Mixed,6m
+Summer,1912,Gold,NOR,Norway,"Thomas Valentin AAS, Torleiv Schibsted CORNELIUS, Thoralf GLAD, Andreas Bang BRECKE, Christian Fredrik JEBE",1912 Stockholm,Sailing,Mixed,8m
+Summer,1912,Silver,SWE,Sweden,"Bengt HEYMAN, Herbert WESTERMARK, Alvar THIEL, Emil HENRIQUES, Nils WESTERMARK",1912 Stockholm,Sailing,Mixed,8m
+Summer,1912,Bronze,FIN,Finland,"Gunnar TALLBERG, Emil LINDH, Bertil TALLBERG, Arthur AHNGER, Georg WESTLING",1912 Stockholm,Sailing,Mixed,8m
+Summer,1912,Gold,SWE,Sweden,"Eric G. WALLERIUS, Humbert LUNDEN, Harry ROSENWÄRD, Filip ERICSSON, Carl Ludwig HELLSTRÖM, Harald WALLIN, Herman NYBERG, Paul ISBERG",1912 Stockholm,Sailing,Mixed,10m
+Summer,1912,Silver,FIN,Finland,"Adolf Aarne PEKKALAINEN, Jacob Karl BJÖRNSTRÖM, Allan FRANCK, Harry WAHL, Waldemar BJÖRKSTEN, Bror Benedikt BRENNER, Erik LINDH",1912 Stockholm,Sailing,Mixed,10m
+Summer,1912,Bronze,RU1,Russian Empire,"Filip STRAUCH, Esper Konstantinovich Beloselsky-Belozersky, Nikolaï PUSCHNITSKY, Iossif SCHOMAKER, Karl LINDBLOM, Ernest BRASCHE, Aleksandr RODIONOV",1912 Stockholm,Sailing,Mixed,10m
+Summer,1912,Gold,NOR,Norway,"Magnus KONOW, Eilert FALCH-LUND, Arnfinn Kolbjörn HEJE, Alfred LARSEN, Nils BERTELSEN, Halfdan HANSEN, Petter Andreas LARSEN, Christian Frederik STAIB, Carl Gustav THAULOW, Johan August ANKER",1912 Stockholm,Sailing,Mixed,12m
+Summer,1912,Silver,SWE,Sweden,"Hugo CLASON, Nils LAMBY, Dick BERGSTRÖM, Per BERGMAN, Folke JOHNSON, Nils PERSSON, Richard SÄLLSTRÖM, Kurt BERGSTRÖM, Erik LINDQVIST, Sigurd KANDER",1912 Stockholm,Sailing,Mixed,12m
+Summer,1912,Bronze,FIN,Finland,"Jarl HULLDEN, Eino SANDELIN, Max ALFTHAN, Erik HARTVALL, Sigurd JUSLEN, John SILEN, Ernest Edvard KROGIUS",1912 Stockholm,Sailing,Mixed,12m
+Summer,1912,Gold,USA,United States,Alfred P. LANE,1912 Stockholm,Shooting,Men's,25m rapid fire pistol
+Summer,1912,Silver,SWE,Sweden,Paul PALEN,1912 Stockholm,Shooting,Men's,25m rapid fire pistol
+Summer,1912,Bronze,SWE,Sweden,Johan Hübner VON HOLST,1912 Stockholm,Shooting,Men's,25m rapid fire pistol
+Summer,1912,Gold,USA,United States,Alfred P. LANE,1912 Stockholm,Shooting,Men's,50m pistol
+Summer,1912,Silver,USA,United States,Peter J. DOLFEN,1912 Stockholm,Shooting,Men's,50m pistol
+Summer,1912,Bronze,GBR,Great Britain,Charles Edward STEWART,1912 Stockholm,Shooting,Men's,50m pistol
+Summer,1912,Gold,USA,United States,"Alfred P. LANE, Peter J. DOLFEN, Henry Francis SEARS, John A. DIETZ",1912 Stockholm,Shooting,Men's,"50m army pistol, team"
+Summer,1912,Silver,SWE,Sweden,"G. Vilhelm CARLBERG, Georg DE LAVAL, Erik BOSTRÖM, Eric CARLBERG",1912 Stockholm,Shooting,Men's,"50m army pistol, team"
+Summer,1912,Bronze,GBR,Great Britain,"Horatio Orlando POULTER, Albert Joseph KEMPSTER, Hugh DURANT, Charles Edward STEWART",1912 Stockholm,Shooting,Men's,"50m army pistol, team"
+Summer,1912,Gold,USA,United States,Frederick S. HIRD,1912 Stockholm,Shooting,Men's,50m rifle prone
+Summer,1912,Silver,GBR,Great Britain,William MILNE,1912 Stockholm,Shooting,Men's,50m rifle prone
+Summer,1912,Bronze,GBR,Great Britain,Harold BURT,1912 Stockholm,Shooting,Men's,50m rifle prone
+Summer,1912,Gold,SWE,Sweden,"Carl Hugo JOHANSSON, Carl BJÖRKMAN, Gustaf Adolf JONSSON, Mauritz ERIKSSON, Erik BLOMQVIST, Bernhard LARSSON",1912 Stockholm,Shooting,Men's,"free rifle, team"
+Summer,1912,Silver,NOR,Norway,"Ole Andreas SAETHER, Albert HELGERUD, Einar LIBERG, Gudbrand Gudbrandsen SKATTEBOE, Östen ÖSTENSEN, Olaf SAETHER",1912 Stockholm,Shooting,Men's,"free rifle, team"
+Summer,1912,Bronze,DEN,Denmark,"Lars Jörgen MADSEN, Niels ANDERSEN, Jens Madsen HAJSLUND, Niels Hansen Ditlev LARSEN, Laurits Teodor Christian LARSEN, Ole OLSEN",1912 Stockholm,Shooting,Men's,"free rifle, team"
+Summer,1912,Gold,SWE,Sweden,"Eric CARLBERG, Johan Hübner VON HOLST, G. Vilhelm CARLBERG, Paul PALEN",1912 Stockholm,Shooting,Men's,"30m army pistol, team"
+Summer,1912,Silver,RU1,Russian Empire,"Pavel DE WEYLOCHNIKOFF, Amos DE KACHE, Georgi DE PANTELEYMONOFF, Nikolaï DE MELNITSKY",1912 Stockholm,Shooting,Men's,"30m army pistol, team"
+Summer,1912,Bronze,GBR,Great Britain,"Hugh DURANT, Charles Edward STEWART, Albert Joseph KEMPSTER, Horatio Orlando POULTER",1912 Stockholm,Shooting,Men's,"30m army pistol, team"
+Summer,1912,Gold,FRA,France,Paul René COLAS,1912 Stockholm,Shooting,Men's,300m free rifle 3 positions
+Summer,1912,Silver,DEN,Denmark,Lars Jörgen MADSEN,1912 Stockholm,Shooting,Men's,300m free rifle 3 positions
+Summer,1912,Bronze,DEN,Denmark,Niels Hansen Ditlev LARSEN,1912 Stockholm,Shooting,Men's,300m free rifle 3 positions
+Summer,1912,Gold,FRA,France,Paul René COLAS,1912 Stockholm,Shooting,Men's,600m free rifle
+Summer,1912,Silver,USA,United States,Carl Townsend OSBURN,1912 Stockholm,Shooting,Men's,600m free rifle
+Summer,1912,Bronze,USA,United States,John E. JACKSON,1912 Stockholm,Shooting,Men's,600m free rifle
+Summer,1912,Gold,HUN,Hungary,Sandor PROKOPP,1912 Stockholm,Shooting,Men's,"army rifle, 300m, 3 positions"
+Summer,1912,Silver,USA,United States,Carl Townsend OSBURN,1912 Stockholm,Shooting,Men's,"army rifle, 300m, 3 positions"
+Summer,1912,Bronze,NOR,Norway,Engebret SKOGEN,1912 Stockholm,Shooting,Men's,"army rifle, 300m, 3 positions"
+Summer,1912,Gold,USA,United States,"Allan Lindsay BRIGGS, John E. JACKSON, Warren A. SPROUT, Cornelius L. BURDETTE, Harry Loren ADAMS, Carl Townsend OSBURN",1912 Stockholm,Shooting,Men's,"rifle, team"
+Summer,1912,Silver,GBR,Great Britain,"Henry Goerge BURR, James REID, Arthur George FULTON, Harcourt OMMUNDSEN, Edward SKILTON, Edward Louis PARNELL",1912 Stockholm,Shooting,Men's,"rifle, team"
+Summer,1912,Bronze,SWE,Sweden,"Verner JERNSTRÖM, Carl BJÖRKMAN, Carl Hugo JOHANSSON, Mauritz ERIKSSON, Tönnes BJÖRKMAN, Bernhard LARSSON",1912 Stockholm,Shooting,Men's,"rifle, team"
+Summer,1912,Gold,SWE,Sweden,G. Vilhelm CARLBERG,1912 Stockholm,Shooting,Men's,25m small bore rifle
+Summer,1912,Silver,SWE,Sweden,Johan Hübner VON HOLST,1912 Stockholm,Shooting,Men's,25m small bore rifle
+Summer,1912,Bronze,SWE,Sweden,Gideon ERICSSON,1912 Stockholm,Shooting,Men's,25m small bore rifle
+Summer,1912,Gold,SWE,Sweden,"Eric CARLBERG, Gustav BOIVIE, Johan Hübner VON HOLST, G. Vilhelm CARLBERG",1912 Stockholm,Shooting,Men's,"25m small bore rifle, team"
+Summer,1912,Silver,GBR,Great Britain,"William Kensett STYLES, Joseph PEPE, William MILNE, William Edwin PIMM",1912 Stockholm,Shooting,Men's,"25m small bore rifle, team"
+Summer,1912,Bronze,USA,United States,"Warren A. SPROUT, William F. LEUSHNER, Frederick S. HIRD, William Neil MCDONNELL",1912 Stockholm,Shooting,Men's,"25m small bore rifle, team"
+Summer,1912,Gold,GBR,Great Britain,"William Edwin PIMM, Joseph PEPE, Edward John LESSIMORE, Robert Cook MURRAY",1912 Stockholm,Shooting,Men's,"50m small bore rifle, team"
+Summer,1912,Silver,SWE,Sweden,"Ruben ÖRTEGREN, Arthur NORDENSWAN, G. Vilhelm CARLBERG, Eric CARLBERG",1912 Stockholm,Shooting,Men's,"50m small bore rifle, team"
+Summer,1912,Bronze,USA,United States,"Warren A. SPROUT, Frederick S. HIRD, William F. LEUSHNER, Carl Townsend OSBURN",1912 Stockholm,Shooting,Men's,"50m small bore rifle, team"
+Summer,1912,Gold,SWE,Sweden,Alfred SWAHN,1912 Stockholm,Shooting,Men's,"100m running deer, single shots"
+Summer,1912,Silver,SWE,Sweden,Ake LUNDEBERG,1912 Stockholm,Shooting,Men's,"100m running deer, single shots"
+Summer,1912,Bronze,FIN,Finland,Nestori TOIVONEN,1912 Stockholm,Shooting,Men's,"100m running deer, single shots"
+Summer,1912,Gold,SWE,Sweden,Ake LUNDEBERG,1912 Stockholm,Shooting,Men's,"100m running deer, double shots"
+Summer,1912,Silver,SWE,Sweden,Edward BENEDICKS,1912 Stockholm,Shooting,Men's,"100m running deer, double shots"
+Summer,1912,Bronze,SWE,Sweden,Oscar SWAHN,1912 Stockholm,Shooting,Men's,"100m running deer, double shots"
+Summer,1912,Gold,SWE,Sweden,"Oscar SWAHN, Per Olof ARVIDSSON, Alfred SWAHN, Ake LUNDEBERG",1912 Stockholm,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1912,Silver,USA,United States,"William LIBBEY, Walter WINANS, William F. LEUSHNER, William Neil MCDONNELL",1912 Stockholm,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1912,Bronze,FIN,Finland,"Nestori TOIVONEN, Ernst Edvard ROSENQUIST, Axel Fredrik LONDEN, Tivo WÄÄNÄNEN",1912 Stockholm,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1912,Gold,USA,United States,"Charles W. BILLINGS, John H. HENDRICKSON, Edward Francis GLEASON, Ralph Lewis SPOTTS, James R. GRAHAM, Frank HALL",1912 Stockholm,Shooting,Men's,"clay pigeons, team"
+Summer,1912,Silver,GBR,Great Britain,"William Percy GROSVENOR, Alexander MAUNDER, John Hurst BUTT, George WHITAKER, Harry Robinson HUMBY, Charles PALMER",1912 Stockholm,Shooting,Men's,"clay pigeons, team"
+Summer,1912,Bronze,GER,Germany,"Franz Freiherr VON ZEIDLITZ UND LEIPE, Albert PREUSS, Alfred GOELDEL, Erich GRAF VON BERNSTORFF, Horst GOELDEL, Erland KOCH",1912 Stockholm,Shooting,Men's,"clay pigeons, team"
+Summer,1912,Gold,USA,United States,James R. GRAHAM,1912 Stockholm,Shooting,Men's,Trap
+Summer,1912,Silver,GER,Germany,Alfred GOELDEL,1912 Stockholm,Shooting,Men's,Trap
+Summer,1912,Bronze,RU1,Russian Empire,Harry BLAU,1912 Stockholm,Shooting,Men's,Trap
+Summer,1912,Gold,USA,United States,Duke Paoa KAHANAMOKU,1912 Stockholm,Swimming,Men's,100m freestyle
+Summer,1912,Silver,ANZ,Australasia,Cecil HEALY,1912 Stockholm,Swimming,Men's,100m freestyle
+Summer,1912,Bronze,USA,United States,Kenneth HUSZAGH,1912 Stockholm,Swimming,Men's,100m freestyle
+Summer,1912,Gold,CAN,Canada,George Ritchie HODGSON,1912 Stockholm,Swimming,Men's,400m freestyle
+Summer,1912,Silver,GBR,Great Britain,John Gatenby HATFIELD,1912 Stockholm,Swimming,Men's,400m freestyle
+Summer,1912,Bronze,ANZ,Australasia,Harold H. HARDWICK,1912 Stockholm,Swimming,Men's,400m freestyle
+Summer,1912,Gold,CAN,Canada,George Ritchie HODGSON,1912 Stockholm,Swimming,Men's,1500m freestyle
+Summer,1912,Silver,GBR,Great Britain,John Gatenby HATFIELD,1912 Stockholm,Swimming,Men's,1500m freestyle
+Summer,1912,Bronze,ANZ,Australasia,Harold H. HARDWICK,1912 Stockholm,Swimming,Men's,1500m freestyle
+Summer,1912,Gold,USA,United States,Harry J. HEBNER,1912 Stockholm,Swimming,Men's,100m backstroke
+Summer,1912,Silver,GER,Germany,Otto FAHR,1912 Stockholm,Swimming,Men's,100m backstroke
+Summer,1912,Bronze,GER,Germany,Paul KELLNER,1912 Stockholm,Swimming,Men's,100m backstroke
+Summer,1912,Gold,GER,Germany,Walter BATHE,1912 Stockholm,Swimming,Men's,200m breaststroke
+Summer,1912,Silver,GER,Germany,Willy LÜTZOW,1912 Stockholm,Swimming,Men's,200m breaststroke
+Summer,1912,Bronze,GER,Germany,Kurt Paul MALISCH,1912 Stockholm,Swimming,Men's,200m breaststroke
+Summer,1912,Gold,GER,Germany,Walter BATHE,1912 Stockholm,Swimming,Men's,400m breaststroke
+Summer,1912,Silver,SWE,Sweden,Tor HENNING,1912 Stockholm,Swimming,Men's,400m breaststroke
+Summer,1912,Bronze,GBR,Great Britain,Percy COURTMAN,1912 Stockholm,Swimming,Men's,400m breaststroke
+Summer,1912,Gold,ANZ,Australasia,"Harold H. HARDWICK, Cecil HEALY, Leslie BOARDMAN, Malcolm CHAMPION",1912 Stockholm,Swimming,Men's,4x200m freestyle relay
+Summer,1912,Silver,USA,United States,"Kenneth HUSZAGH, Perry MCGILLIVRAY, Harry J. HEBNER, Duke Paoa KAHANAMOKU",1912 Stockholm,Swimming,Men's,4x200m freestyle relay
+Summer,1912,Bronze,GBR,Great Britain,"William FOSTER, John Gatenby HATFIELD, Thomas Sidney BATTERSBY, Henry TAYLOR",1912 Stockholm,Swimming,Men's,4x200m freestyle relay
+Summer,1912,Gold,ANZ,Australasia,Fanny DURACK,1912 Stockholm,Swimming,Women's,100m freestyle
+Summer,1912,Silver,ANZ,Australasia,Wilhelmina WYLIE,1912 Stockholm,Swimming,Women's,100m freestyle
+Summer,1912,Bronze,GBR,Great Britain,Jennie FLETCHER,1912 Stockholm,Swimming,Women's,100m freestyle
+Summer,1912,Gold,GBR,Great Britain,"Jennie FLETCHER, Irene STEER, Isabella Mary MOORE, Annie SPEIRS",1912 Stockholm,Swimming,Women's,4x100m freestyle relay
+Summer,1912,Silver,GER,Germany,"Grete ROSENBERG, Louise OTTO, Hermine STINDT, Wally DRESSEL",1912 Stockholm,Swimming,Women's,4x100m freestyle relay
+Summer,1912,Bronze,AUT,Austria,"Margarete ADLER, Josephine STICKER, Klara MILCH, Bertha ZAHOUREK",1912 Stockholm,Swimming,Women's,4x100m freestyle relay
+Summer,1912,Gold,RSA,South Africa,Charles Lyndhurst WINSLOW,1912 Stockholm,Tennis,Men's,singles
+Summer,1912,Silver,RSA,South Africa,Harry Austin KITSON,1912 Stockholm,Tennis,Men's,singles
+Summer,1912,Bronze,GER,Germany,Oscar KREUZER,1912 Stockholm,Tennis,Men's,singles
+Summer,1912,Gold,FRA,France,André Henri GOBERT,1912 Stockholm,Tennis,Men's,singles indoor
+Summer,1912,Silver,GBR,Great Britain,Charles Percy DIXON,1912 Stockholm,Tennis,Men's,singles indoor
+Summer,1912,Bronze,ANZ,Australasia,Anthony Frederick WILDING,1912 Stockholm,Tennis,Men's,singles indoor
+Summer,1912,Gold,RSA,South Africa,"Harry Austin KITSON, Charles Lyndhurst WINSLOW",1912 Stockholm,Tennis,Men's,doubles
+Summer,1912,Silver,AUT,Austria,"Arthur ZBORZIL, Fritz Felix PIPES",1912 Stockholm,Tennis,Men's,doubles
+Summer,1912,Bronze,FRA,France,"Albert Henri CANET, Edouard Marie Marc MENY DE MARANGUE",1912 Stockholm,Tennis,Men's,doubles
+Summer,1912,Gold,FRA,France,"Maurice GERMOT, André Henri GOBERT",1912 Stockholm,Tennis,Men's,doubles indoor
+Summer,1912,Silver,SWE,Sweden,"Gunnar SETTERWALL, Carl KEMPE",1912 Stockholm,Tennis,Men's,doubles indoor
+Summer,1912,Bronze,GBR,Great Britain,"Charles Percy DIXON, Alfred Ernest BEAMISH",1912 Stockholm,Tennis,Men's,doubles indoor
+Summer,1912,Gold,GER,Germany,"Dora KÖRING, Heinrich SCHOMBURGK",1912 Stockholm,Tennis,Mixed,mixed doubles
+Summer,1912,Silver,SWE,Sweden,"Sigrid FICK, Gunnar SETTERWALL",1912 Stockholm,Tennis,Mixed,mixed doubles
+Summer,1912,Bronze,FRA,France,"Marguerite BROQUEDIS, Albert Henri CANET",1912 Stockholm,Tennis,Mixed,mixed doubles
+Summer,1912,Gold,GBR,Great Britain,"Edith Margaret HANNAM, Charles Percy DIXON",1912 Stockholm,Tennis,Mixed,mixed doubles indoor
+Summer,1912,Silver,GBR,Great Britain,"Francis Helen AITCHISON, Herbert Roper BARRETT",1912 Stockholm,Tennis,Mixed,mixed doubles indoor
+Summer,1912,Bronze,SWE,Sweden,"Sigrid FICK, Gunnar SETTERWALL",1912 Stockholm,Tennis,Mixed,mixed doubles indoor
+Summer,1912,Gold,FRA,France,Marguerite BROQUEDIS,1912 Stockholm,Tennis,Women's,singles
+Summer,1912,Silver,GER,Germany,Dora KÖRING,1912 Stockholm,Tennis,Women's,singles
+Summer,1912,Bronze,NOR,Norway,Anne Margrethe BJURSTEDT,1912 Stockholm,Tennis,Women's,singles
+Summer,1912,Gold,GBR,Great Britain,Edith Margaret HANNAM,1912 Stockholm,Tennis,Women's,singles indoor
+Summer,1912,Silver,DEN,Denmark,Thora Gerda Sophie CASTENSCHIOLD,1912 Stockholm,Tennis,Women's,singles indoor
+Summer,1912,Bronze,GBR,Great Britain,Mabel Branwell PARTON,1912 Stockholm,Tennis,Women's,singles indoor
+Summer,1912,Gold,GBR,Great Britain,"Charles Sydney SMITH, Charles BUGBEE, George WILKINSON, Isaac BENTHAM, George Thomson CORNET, Arthur Edwin HILL, Paul RADMILOVIC",1912 Stockholm,Water Polo,Men's,water polo
+Summer,1912,Silver,SWE,Sweden,"Harald S.A. JULIN, Pontus HANSSON, Vilhelm ANDERSSON, K. Torsten KUMFELDT, Max GUMPEL, Robert T. ANDERSSON, Erik BERGQVIST",1912 Stockholm,Water Polo,Men's,water polo
+Summer,1912,Bronze,BEL,Belgium,"Albert DURANT, Victor BOIN, Oscar GREGOIRE, Félicien COURBET, Hermann DONNERS, Joseph PLETINCX, Herman MEYBOOM",1912 Stockholm,Water Polo,Men's,water polo
+Summer,1912,Gold,FIN,Finland,Kaarlo KOSKELO,1912 Stockholm,Wrestling Greco-Roman,Men's,- 60kg (featherweight)
+Summer,1912,Silver,GER,Germany,Georg GERSTÄCKER,1912 Stockholm,Wrestling Greco-Roman,Men's,- 60kg (featherweight)
+Summer,1912,Bronze,FIN,Finland,Otto LASANEN,1912 Stockholm,Wrestling Greco-Roman,Men's,- 60kg (featherweight)
+Summer,1912,Gold,FIN,Finland,Eemil Ernesti VÄRE,1912 Stockholm,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1912,Silver,SWE,Sweden,Gustaf H. MALMSTRÖM,1912 Stockholm,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1912,Bronze,SWE,Sweden,Edvin MATIASSON,1912 Stockholm,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1912,Gold,SWE,Sweden,Claes JOHANSSON,1912 Stockholm,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1912,Silver,RU1,Russian Empire,Martin KLEIN,1912 Stockholm,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1912,Bronze,FIN,Finland,Alfred ASIKAINEN,1912 Stockholm,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1912,Silver,FIN,Finland,Ivar Theodor BÖHLING,1912 Stockholm,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1912,Silver,SWE,Sweden,Anders AHLGREN,1912 Stockholm,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1912,Bronze,HUN,Hungary,Béla VARGA,1912 Stockholm,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1912,Gold,FIN,Finland,Urjö Erik Mikael SAARELA,1912 Stockholm,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1912,Silver,FIN,Finland,Johan Fredrik OLIN,1912 Stockholm,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1912,Bronze,DEN,Denmark,Sören Marius JENSEN,1912 Stockholm,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1912,Gold,SWE,Sweden,"Arvid Leander ANDERSSON, Johan Victor EDMAN, Carl JONSSON, August GUSTAFSSON, Adolf BERGMAN, Erik Algot FREDRIKSSON, Eric Victor LARSSON, Carl Herbert LINDSTRÖM",1912 Stockholm,Tug of War,Men's,tug of war
+Summer,1912,Silver,GBR,Great Britain,"Mathias HYNES, Alexander MUNRO, James SHEPHERD, Edwin Archer MILLS, Frederick Harkness HUMPHREYS, Walter CHAFFE, John SEWELL, Joseph DOWLER",1912 Stockholm,Tug of War,Men's,tug of war

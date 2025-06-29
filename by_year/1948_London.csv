@@ -1,0 +1,412 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1948,Gold,USA,United States,Harrison DILLARD,1948 London,Athletics,Men's,100m
+Summer,1948,Silver,USA,United States,Barney EWELL,1948 London,Athletics,Men's,100m
+Summer,1948,Bronze,PAN,Panama,Lloyd LABEACH,1948 London,Athletics,Men's,100m
+Summer,1948,Gold,USA,United States,Mel PATTON,1948 London,Athletics,Men's,200m
+Summer,1948,Silver,USA,United States,Barney EWELL,1948 London,Athletics,Men's,200m
+Summer,1948,Bronze,PAN,Panama,Lloyd LABEACH,1948 London,Athletics,Men's,200m
+Summer,1948,Gold,JAM,"Jamaica, British",Arthur WINT,1948 London,Athletics,Men's,400m
+Summer,1948,Silver,JAM,"Jamaica, British",Herbert MCKENLEY,1948 London,Athletics,Men's,400m
+Summer,1948,Bronze,USA,United States,Mal WHITFIELD,1948 London,Athletics,Men's,400m
+Summer,1948,Gold,USA,United States,Mal WHITFIELD,1948 London,Athletics,Men's,800m
+Summer,1948,Silver,JAM,"Jamaica, British",Arthur WINT,1948 London,Athletics,Men's,800m
+Summer,1948,Bronze,FRA,France,Marcel HANSENNE,1948 London,Athletics,Men's,800m
+Summer,1948,Gold,SWE,Sweden,Henry ERIKSSON,1948 London,Athletics,Men's,1500m
+Summer,1948,Silver,SWE,Sweden,Lennart STRAND,1948 London,Athletics,Men's,1500m
+Summer,1948,Bronze,NED,Netherlands,Willem SLIJKHUIS,1948 London,Athletics,Men's,1500m
+Summer,1948,Gold,BEL,Belgium,Gaston REIFF,1948 London,Athletics,Men's,5000m
+Summer,1948,Silver,TCH,Czechoslovakia,Emil ZÁTOPEK,1948 London,Athletics,Men's,5000m
+Summer,1948,Bronze,NED,Netherlands,Willem SLIJKHUIS,1948 London,Athletics,Men's,5000m
+Summer,1948,Gold,TCH,Czechoslovakia,Emil ZÁTOPEK,1948 London,Athletics,Men's,10000m
+Summer,1948,Silver,FRA,France,Alain MIMOUN,1948 London,Athletics,Men's,10000m
+Summer,1948,Bronze,SWE,Sweden,Bertil ALBERTSSON,1948 London,Athletics,Men's,10000m
+Summer,1948,Gold,ARG,Argentina,Delfo CABRERA,1948 London,Athletics,Men's,marathon
+Summer,1948,Silver,GBR,Great Britain,Thomas John Henry RICHARDS,1948 London,Athletics,Men's,marathon
+Summer,1948,Bronze,BEL,Belgium,Etienne GAILLY,1948 London,Athletics,Men's,marathon
+Summer,1948,Gold,USA,United States,Bill PORTER,1948 London,Athletics,Men's,110m hurdles
+Summer,1948,Silver,USA,United States,Clyde SCOTT,1948 London,Athletics,Men's,110m hurdles
+Summer,1948,Bronze,USA,United States,Craig DIXON,1948 London,Athletics,Men's,110m hurdles
+Summer,1948,Gold,USA,United States,Roy Braxton COCHRAN,1948 London,Athletics,Men's,400m hurdles
+Summer,1948,Silver,SRI,Ceylon,Duncan WHITE,1948 London,Athletics,Men's,400m hurdles
+Summer,1948,Bronze,SWE,Sweden,Rune LARSSON,1948 London,Athletics,Men's,400m hurdles
+Summer,1948,Gold,SWE,Sweden,Tore SJÖSTRAND,1948 London,Athletics,Men's,3000m steeplechase
+Summer,1948,Silver,SWE,Sweden,Fritz Erik ELMSÃ?TER,1948 London,Athletics,Men's,3000m steeplechase
+Summer,1948,Bronze,SWE,Sweden,Göte HAGSTRÖM,1948 London,Athletics,Men's,3000m steeplechase
+Summer,1948,Gold,USA,United States,"Lorenzo WRIGHT, Barney EWELL, Harrison DILLARD, Mel PATTON",1948 London,Athletics,Men's,4x100m relay
+Summer,1948,Silver,GBR,Great Britain,"Ken JONES, John Arthur GREGORY, John ARCHER, Alastair MCCORQUODALE",1948 London,Athletics,Men's,4x100m relay
+Summer,1948,Bronze,ITA,Italy,"Carlo MONTI, Enrico PERRUCCONI, Michele TITO, Antonio SIDDI",1948 London,Athletics,Men's,4x100m relay
+Summer,1948,Gold,USA,United States,"Roy Braxton COCHRAN, Mal WHITFIELD, Arthur Harold HARNDEN, Clifford Frederick BOURLAND",1948 London,Athletics,Men's,4x400m relay
+Summer,1948,Silver,FRA,France,"Jean KEREBEL, Francois SCHEWETTA, Robert CHEF D'HÔTEL, Jacques LUNIS",1948 London,Athletics,Men's,4x400m relay
+Summer,1948,Bronze,SWE,Sweden,"Folke ALNEVIK, Kurt LUNDQUIST, Rune LARSSON, Lars-Erik WOLFBRANDT",1948 London,Athletics,Men's,4x400m relay
+Summer,1948,Gold,SWE,Sweden,John MIKAELSSON,1948 London,Athletics,Men's,10000m walk
+Summer,1948,Silver,SWE,Sweden,Ingemar JOHANSSON,1948 London,Athletics,Men's,10000m walk
+Summer,1948,Bronze,SUI,Switzerland,Fritz SCHWAB,1948 London,Athletics,Men's,10000m walk
+Summer,1948,Gold,SWE,Sweden,John LJUNGGREN,1948 London,Athletics,Men's,50km walk
+Summer,1948,Silver,SUI,Switzerland,Gaston GODEL,1948 London,Athletics,Men's,50km walk
+Summer,1948,Bronze,GBR,Great Britain,Terence Lloyd JOHNSON,1948 London,Athletics,Men's,50km walk
+Summer,1948,Gold,USA,United States,William Samuel STEELE,1948 London,Athletics,Men's,long jump
+Summer,1948,Silver,AUS,Australia,Thomas Theodore BRUCE,1948 London,Athletics,Men's,long jump
+Summer,1948,Bronze,USA,United States,Herbert Paul Jr. DOUGLAS,1948 London,Athletics,Men's,long jump
+Summer,1948,Gold,SWE,Sweden,Arne ÅHMAN,1948 London,Athletics,Men's,triple jump
+Summer,1948,Silver,AUS,Australia,George Gordon AVERY,1948 London,Athletics,Men's,triple jump
+Summer,1948,Bronze,TUR,Turkey,Ruhi SARIALP,1948 London,Athletics,Men's,triple jump
+Summer,1948,Gold,AUS,Australia,John WINTER,1948 London,Athletics,Men's,high jump
+Summer,1948,Silver,NOR,Norway,Bjorn Andreas PAULSON,1948 London,Athletics,Men's,high jump
+Summer,1948,Bronze,USA,United States,George STANICH,1948 London,Athletics,Men's,high jump
+Summer,1948,Gold,USA,United States,Guinn SMITH,1948 London,Athletics,Men's,pole vault
+Summer,1948,Silver,FIN,Finland,Erkki KATAJA,1948 London,Athletics,Men's,pole vault
+Summer,1948,Bronze,USA,United States,Bob RICHARDS,1948 London,Athletics,Men's,pole vault
+Summer,1948,Gold,USA,United States,Wilbur THOMPSON,1948 London,Athletics,Men's,shot put
+Summer,1948,Silver,USA,United States,Francis James DELANEY,1948 London,Athletics,Men's,shot put
+Summer,1948,Bronze,USA,United States,James FUCHS,1948 London,Athletics,Men's,shot put
+Summer,1948,Gold,ITA,Italy,Adolfo CONSOLINI,1948 London,Athletics,Men's,discus throw
+Summer,1948,Silver,ITA,Italy,Giuseppe TOSI,1948 London,Athletics,Men's,discus throw
+Summer,1948,Bronze,USA,United States,Fortune GORDIEN,1948 London,Athletics,Men's,discus throw
+Summer,1948,Gold,HUN,Hungary,Imre NÉMETH,1948 London,Athletics,Men's,hammer throw
+Summer,1948,Silver,YUG,Yugoslavia,Ivan GUBIJAN,1948 London,Athletics,Men's,hammer throw
+Summer,1948,Bronze,USA,United States,Robert Howard BENNETT,1948 London,Athletics,Men's,hammer throw
+Summer,1948,Gold,FIN,Finland,Tapio RAUTAVAARA,1948 London,Athletics,Men's,javelin throw
+Summer,1948,Silver,USA,United States,Steve SEYMOUR,1948 London,Athletics,Men's,javelin throw
+Summer,1948,Bronze,HUN,Hungary,József VÁRSZEGI,1948 London,Athletics,Men's,javelin throw
+Summer,1948,Gold,USA,United States,Bob MATHIAS,1948 London,Athletics,Men's,decathlon
+Summer,1948,Silver,FRA,France,Ignace HEINRICH,1948 London,Athletics,Men's,decathlon
+Summer,1948,Bronze,USA,United States,Floyd SIMMONS,1948 London,Athletics,Men's,decathlon
+Summer,1948,Gold,NED,Netherlands,Fanny BLANKERS-KOEN,1948 London,Athletics,Women's,100m
+Summer,1948,Silver,GBR,Great Britain,Dorothy HALL,1948 London,Athletics,Women's,100m
+Summer,1948,Bronze,AUS,Australia,Shirley STRICKLAND,1948 London,Athletics,Women's,100m
+Summer,1948,Gold,NED,Netherlands,Fanny BLANKERS-KOEN,1948 London,Athletics,Women's,200m
+Summer,1948,Silver,GBR,Great Britain,Audrey WILLIAMSON,1948 London,Athletics,Women's,200m
+Summer,1948,Bronze,USA,United States,Audrey PATTERSON,1948 London,Athletics,Women's,200m
+Summer,1948,Gold,NED,Netherlands,Fanny BLANKERS-KOEN,1948 London,Athletics,Women's,80m hurdles
+Summer,1948,Silver,GBR,Great Britain,Maureen GARDNER,1948 London,Athletics,Women's,80m hurdles
+Summer,1948,Bronze,AUS,Australia,Shirley STRICKLAND,1948 London,Athletics,Women's,80m hurdles
+Summer,1948,Gold,NED,Netherlands,"Jeannette Josephina Maria WITZIERS-TIMMER, Xenia STAD-DE JONG, Fanny BLANKERS-KOEN, Gerda VAN DER KADE-KOUDIJS",1948 London,Athletics,Women's,4x100m relay
+Summer,1948,Silver,AUS,Australia,"Joyce KING, Betty MCKINNON, Shirley STRICKLAND, June MASTON",1948 London,Athletics,Women's,4x100m relay
+Summer,1948,Bronze,CAN,Canada,"Viola MYERS, Patricia JONES, Nancy MACKAY, Diane FOSTER",1948 London,Athletics,Women's,4x100m relay
+Summer,1948,Gold,HUN,Hungary,Olga GYARMATI,1948 London,Athletics,Women's,long jump
+Summer,1948,Silver,ARG,Argentina,Noemi SIMONETTO DE PORTELA,1948 London,Athletics,Women's,long jump
+Summer,1948,Bronze,SWE,Sweden,Ann-Britt LEYMAN,1948 London,Athletics,Women's,long jump
+Summer,1948,Gold,USA,United States,Alice COACHMAN,1948 London,Athletics,Women's,high jump
+Summer,1948,Silver,GBR,Great Britain,Dorothy ODAM,1948 London,Athletics,Women's,high jump
+Summer,1948,Bronze,FRA,France,Micheline OSTERMEYER,1948 London,Athletics,Women's,high jump
+Summer,1948,Gold,FRA,France,Micheline OSTERMEYER,1948 London,Athletics,Women's,shot put
+Summer,1948,Silver,ITA,Italy,Amelia PICCININI,1948 London,Athletics,Women's,shot put
+Summer,1948,Bronze,AUT,Austria,Ine SCHÄFFER,1948 London,Athletics,Women's,shot put
+Summer,1948,Gold,FRA,France,Micheline OSTERMEYER,1948 London,Athletics,Women's,discus throw
+Summer,1948,Silver,ITA,Italy,Edera CORDIALE-GENTILE,1948 London,Athletics,Women's,discus throw
+Summer,1948,Bronze,FRA,France,Jacqueline MAZEAS,1948 London,Athletics,Women's,discus throw
+Summer,1948,Gold,AUT,Austria,Herma BAUMA,1948 London,Athletics,Women's,javelin throw
+Summer,1948,Silver,FIN,Finland,Kaisa PARVIAINEN,1948 London,Athletics,Women's,javelin throw
+Summer,1948,Bronze,DEN,Denmark,Lily CARLSTEDT,1948 London,Athletics,Women's,javelin throw
+Summer,1948,Gold,USA,United States,"Donald BARKSDALE, Lewis BECK, Ralph BEARD, Vincent BORYLA, Robert C. PITTS, Wally JONES, Gordon CARPENTER, Alexander John GROZA, Raymond LUMPP, Robert ROBINSON, Clifford Eugene BARKER, Jesse RENICK, Bob KURLAND, Kenneth ROLLINS",1948 London,Basketball,Men's,basketball
+Summer,1948,Silver,FRA,France,"René DÉRENCY, Jacques PERRIER, Maurice DESAYMONNET, Lucien REBUFFIC, Raymond OFFNER, Maurice GIRARDOT, André EVEN, AndrÃ BUFFIÃ?RE, René CHOCAT, Pierre THIOLON, Yvan QUÉNIN, Fernand GUILLOU, Michel BONNEVIE, André BARRAIS",1948 London,Basketball,Men's,basketball
+Summer,1948,Bronze,BRA,Brazil,"Nilton PACHECO DE OLIVEIRA, Rui DE FREITAS, Massinet SORCINELLI, Marcus Vinicius DIAS, G. RODRIGUES, L. BENVENUTI, Alfonso Azevedo ÉVORA, Alexandre GEMIGNANI, Alfredo RODRIGUES DA MOTTA, Zenny DE AZEVEDO, João Francisco BRÁZ, Alberto MARSON",1948 London,Basketball,Men's,basketball
+Summer,1948,Gold,ARG,Argentina,Pascual Nicolas PEREZ,1948 London,Boxing,Men's,- 51kg (flyweight)
+Summer,1948,Silver,ITA,Italy,Spartaco BANDINELLI,1948 London,Boxing,Men's,- 51kg (flyweight)
+Summer,1948,Bronze,KOR,Korea Republic,Soo-An HAN,1948 London,Boxing,Men's,- 51kg (flyweight)
+Summer,1948,Gold,HUN,Hungary,Tibor CSIK,1948 London,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1948,Silver,ITA,Italy,Giovanni Battista ZUDDAS,1948 London,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1948,Bronze,PUR,Puerto Rico,Juan VENEGAS,1948 London,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1948,Gold,ITA,Italy,Ernesto FORMENTI,1948 London,Boxing,Men's,54 - 58kg (featherweight)
+Summer,1948,Silver,RSA,South Africa,Dennis SHEPHERD,1948 London,Boxing,Men's,54 - 58kg (featherweight)
+Summer,1948,Bronze,POL,Poland,Aleksy ANTKIEWICZ,1948 London,Boxing,Men's,54 - 58kg (featherweight)
+Summer,1948,Gold,RSA,South Africa,Gerald DREYER,1948 London,Boxing,Men's,58 - 62kg (lightweight)
+Summer,1948,Silver,BEL,Belgium,Joseph VISSERS,1948 London,Boxing,Men's,58 - 62kg (lightweight)
+Summer,1948,Bronze,DEN,Denmark,Svend WAD,1948 London,Boxing,Men's,58 - 62kg (lightweight)
+Summer,1948,Gold,TCH,Czechoslovakia,Július TORMA,1948 London,Boxing,Men's,62 - 67kg (welterweight)
+Summer,1948,Silver,USA,United States,Horace HERRING,1948 London,Boxing,Men's,62 - 67kg (welterweight)
+Summer,1948,Bronze,ITA,Italy,Alessandro D'OTTAVIO,1948 London,Boxing,Men's,62 - 67kg (welterweight)
+Summer,1948,Gold,HUN,Hungary,László PAPP,1948 London,Boxing,Men's,67 - 73kg (middleweight)
+Summer,1948,Silver,GBR,Great Britain,"John Alan ""Johnny"" WRIGHT",1948 London,Boxing,Men's,67 - 73kg (middleweight)
+Summer,1948,Bronze,ITA,Italy,Ivano FONTANA,1948 London,Boxing,Men's,67 - 73kg (middleweight)
+Summer,1948,Gold,RSA,South Africa,George HUNTER,1948 London,Boxing,Men's,73 - 80kg (light-heavyweight)
+Summer,1948,Silver,GBR,Great Britain,Donald SCOTT,1948 London,Boxing,Men's,73 - 80kg (light-heavyweight)
+Summer,1948,Bronze,ARG,Argentina,Mauro CIA,1948 London,Boxing,Men's,73 - 80kg (light-heavyweight)
+Summer,1948,Gold,ARG,Argentina,Rafael IGLESIAS,1948 London,Boxing,Men's,+ 80kg (heavyweight)
+Summer,1948,Silver,SWE,Sweden,Gunnar NILSSON,1948 London,Boxing,Men's,+ 80kg (heavyweight)
+Summer,1948,Bronze,RSA,South Africa,John ARTHUR,1948 London,Boxing,Men's,+ 80kg (heavyweight)
+Summer,1948,Gold,SWE,Sweden,Gert FREDRIKSSON,1948 London,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1948,Silver,DEN,Denmark,Johan Frederik Kobberup ANDERSEN,1948 London,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1948,Bronze,FRA,France,Henri EBERHARDT,1948 London,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1948,Gold,SWE,Sweden,"Hans BERGLUND, Lennart KLINGSTRÖM",1948 London,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1948,Silver,DEN,Denmark,"Ejvind HANSEN, Bernhard JENSEN",1948 London,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1948,Bronze,FIN,Finland,"Nils BJÖRKLÖF, Thor AXELSSON",1948 London,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1948,Gold,SWE,Sweden,Gert FREDRIKSSON,1948 London,Canoe Sprint,Men's,K-1 10000m
+Summer,1948,Silver,FIN,Finland,Kurt Oskar WIRES,1948 London,Canoe Sprint,Men's,K-1 10000m
+Summer,1948,Bronze,NOR,Norway,Eivind SKABO,1948 London,Canoe Sprint,Men's,K-1 10000m
+Summer,1948,Gold,SWE,Sweden,"Gunnar AKERLUND, Hans WETTERSTRÖM",1948 London,Canoe Sprint,Men's,K-2 10000m
+Summer,1948,Silver,NOR,Norway,"Ivar MATHISEN, Knut OSTBYE",1948 London,Canoe Sprint,Men's,K-2 10000m
+Summer,1948,Bronze,FIN,Finland,"Thor AXELSSON, Nils BJÖRKLÖF",1948 London,Canoe Sprint,Men's,K-2 10000m
+Summer,1948,Gold,TCH,Czechoslovakia,Josef HOLECEK,1948 London,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1948,Silver,CAN,Canada,Douglas BENNETT,1948 London,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1948,Bronze,FRA,France,Robert BOUTIGNY,1948 London,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1948,Gold,TCH,Czechoslovakia,"Jan BRZÁK-FELIX, Bohumil KUDRNA",1948 London,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1948,Silver,USA,United States,"Stephen Albert MACKNOWSKI, Stephen LYSAK",1948 London,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1948,Bronze,FRA,France,"Georges GANDIL, Georges DRANSART",1948 London,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1948,Gold,TCH,Czechoslovakia,Frantisek CAPEK,1948 London,Canoe Sprint,Men's,C-1 10000m
+Summer,1948,Silver,USA,United States,Frank HAVENS,1948 London,Canoe Sprint,Men's,C-1 10000m
+Summer,1948,Bronze,CAN,Canada,Norman LANE,1948 London,Canoe Sprint,Men's,C-1 10000m
+Summer,1948,Gold,USA,United States,"Stephen LYSAK, Stephen Albert MACKNOWSKI",1948 London,Canoe Sprint,Men's,C-2 10000m
+Summer,1948,Silver,TCH,Czechoslovakia,"Vaclav HAVEL, Jiri PECKA",1948 London,Canoe Sprint,Men's,C-2 10000m
+Summer,1948,Bronze,FRA,France,"Georges GANDIL, Georges DRANSART",1948 London,Canoe Sprint,Men's,C-2 10000m
+Summer,1948,Gold,DEN,Denmark,Karen HOFF,1948 London,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1948,Silver,NED,Netherlands,Alida Geertruida VAN DER ANKER-DOEDENS,1948 London,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1948,Bronze,AUT,Austria,Fritzi SCHWINGL,1948 London,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1948,Gold,FRA,France,José BEYAERT,1948 London,Cycling Road,Men's,individual road race
+Summer,1948,Silver,NED,Netherlands,Gerardus Petrus VOORTING,1948 London,Cycling Road,Men's,individual road race
+Summer,1948,Bronze,BEL,Belgium,Lode WOUTERS,1948 London,Cycling Road,Men's,individual road race
+Summer,1948,Gold,BEL,Belgium,"Lode WOUTERS, Eugène VAN ROOSBROECK, Léon DELATHOUWER",1948 London,Cycling Road,Men's,team time trial
+Summer,1948,Silver,GBR,Great Britain,"Robert John MAITLAND, Gordon THOMAS, Ian SCOTT",1948 London,Cycling Road,Men's,team time trial
+Summer,1948,Bronze,FRA,France,"Jacques DUPONT, José BEYAERT, Alain MOINEAU",1948 London,Cycling Road,Men's,team time trial
+Summer,1948,Gold,ITA,Italy,Mario GHELLA,1948 London,Cycling Track,Men's,sprint individual
+Summer,1948,Silver,GBR,Great Britain,Reginald Hargreaves HARRIS,1948 London,Cycling Track,Men's,sprint individual
+Summer,1948,Bronze,DEN,Denmark,Axel SCHANDORFF,1948 London,Cycling Track,Men's,sprint individual
+Summer,1948,Gold,FRA,France,Jacques DUPONT,1948 London,Cycling Track,Men's,1km time trial
+Summer,1948,Silver,BEL,Belgium,Pierre NIHANT,1948 London,Cycling Track,Men's,1km time trial
+Summer,1948,Bronze,GBR,Great Britain,Thomas GODWIN,1948 London,Cycling Track,Men's,1km time trial
+Summer,1948,Gold,ITA,Italy,"Renato PERONA, Ferdinando TERRUZZI",1948 London,Cycling Track,Men's,2000m tandem
+Summer,1948,Silver,GBR,Great Britain,"Reginald Hargreaves HARRIS, Alan BANNISTER",1948 London,Cycling Track,Men's,2000m tandem
+Summer,1948,Bronze,FRA,France,"Rene FAYE, Georges DRON",1948 London,Cycling Track,Men's,2000m tandem
+Summer,1948,Gold,FRA,France,"Charles COSTE, Fernand DECANALI, Serge BLUSSON, Pierre ADAM",1948 London,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1948,Silver,ITA,Italy,"Rino PUCCI, Guido BERNARDI, Anselmo CITTERIO, Arnaldo BENFENATI",1948 London,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1948,Bronze,GBR,Great Britain,"Thomas GODWIN, Wilfred WATERS, Robert Alan GELDARD, David RICKETTS",1948 London,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1948,Gold,USA,United States,Bruce HARLAN,1948 London,Diving,Men's,3m springboard
+Summer,1948,Silver,USA,United States,Miller ANDERSON,1948 London,Diving,Men's,3m springboard
+Summer,1948,Bronze,USA,United States,Samuel LEE,1948 London,Diving,Men's,3m springboard
+Summer,1948,Gold,USA,United States,Samuel LEE,1948 London,Diving,Men's,10m platform
+Summer,1948,Silver,USA,United States,Bruce HARLAN,1948 London,Diving,Men's,10m platform
+Summer,1948,Bronze,MEX,Mexico,Joaquin CAPILLA PEREZ,1948 London,Diving,Men's,10m platform
+Summer,1948,Gold,USA,United States,Victoria DRAVES,1948 London,Diving,Women's,3m springboard
+Summer,1948,Silver,USA,United States,Zoe Ann OLSEN,1948 London,Diving,Women's,3m springboard
+Summer,1948,Bronze,USA,United States,Patricia ELSENER,1948 London,Diving,Women's,3m springboard
+Summer,1948,Gold,USA,United States,Victoria DRAVES,1948 London,Diving,Women's,10m platform
+Summer,1948,Silver,USA,United States,Patricia ELSENER,1948 London,Diving,Women's,10m platform
+Summer,1948,Bronze,DEN,Denmark,Birte CHRISTOFFERSEN,1948 London,Diving,Women's,10m platform
+Summer,1948,Gold,SUI,Switzerland,Hans MOSER,1948 London,Equestrian Dressage,Mixed,individual
+Summer,1948,Silver,FRA,France,André JOUSSEAUMÉ,1948 London,Equestrian Dressage,Mixed,individual
+Summer,1948,Bronze,SWE,Sweden,Gustaf Adolf BOLTENSTERN JR.,1948 London,Equestrian Dressage,Mixed,individual
+Summer,1948,Gold,FRA,France,"André JOUSSEAUMÉ, Maurice BURET, Jean PAILLLARD",1948 London,Equestrian Dressage,Mixed,team
+Summer,1948,Silver,USA,United States,"Earl THOMSON, Robert John BORG, Frank HENRY",1948 London,Equestrian Dressage,Mixed,team
+Summer,1948,Bronze,POR,Portugal,"Fernando Silva PAES, Francisco VALADAS, Luiz SILVA",1948 London,Equestrian Dressage,Mixed,team
+Summer,1948,Gold,FRA,France,Bernard CHEVALLIER,1948 London,Equestrian Eventing,Mixed,individual
+Summer,1948,Silver,USA,United States,Frank HENRY,1948 London,Equestrian Eventing,Mixed,individual
+Summer,1948,Bronze,SWE,Sweden,Robert SELFELT,1948 London,Equestrian Eventing,Mixed,individual
+Summer,1948,Gold,USA,United States,"Charles ANDERSON, Earl THOMSON, Frank HENRY",1948 London,Equestrian Eventing,Mixed,team
+Summer,1948,Silver,SWE,Sweden,"Olof STAHRE, Robert SELFELT, Sigurd SVENSSON",1948 London,Equestrian Eventing,Mixed,team
+Summer,1948,Bronze,MEX,Mexico,"Humberto MARILES CORTES, Raúl CAMPERO, Joaquin SOLANO",1948 London,Equestrian Eventing,Mixed,team
+Summer,1948,Gold,MEX,Mexico,Humberto MARILES CORTES,1948 London,Equestrian Jumping,Mixed,individual
+Summer,1948,Silver,MEX,Mexico,Rubén URIZA,1948 London,Equestrian Jumping,Mixed,individual
+Summer,1948,Bronze,FRA,France,Jean Francois D'ORGEIX,1948 London,Equestrian Jumping,Mixed,individual
+Summer,1948,Gold,MEX,Mexico,"Humberto MARILES CORTES, Alberto VALDEZ RAMOS, Rubén URIZA",1948 London,Equestrian Jumping,Mixed,team
+Summer,1948,Silver,ESP,Spain,"Jose NAVARRO MORENES, Jaime GARCIA CRUZ, Marcelino GAVILAN Y PONCE DE LEON",1948 London,Equestrian Jumping,Mixed,team
+Summer,1948,Bronze,GBR,Great Britain,"Arthur CARR, Henry NICOLL, Harry LLEWELLYN",1948 London,Equestrian Jumping,Mixed,team
+Summer,1948,Gold,ITA,Italy,Luigi CANTONE,1948 London,Fencing,Men's,épée individual
+Summer,1948,Silver,SUI,Switzerland,Oswald ZAPPELLI,1948 London,Fencing,Men's,épée individual
+Summer,1948,Bronze,ITA,Italy,Edoardo MANGIAROTTI,1948 London,Fencing,Men's,épée individual
+Summer,1948,Gold,FRA,France,"Maurice HUET, Marcel DESPRETS, Henri LEPAGE, Henri GUÉRIN, Edouard ARTIGAS, Michel PÉCHEUX",1948 London,Fencing,Men's,épée team
+Summer,1948,Silver,ITA,Italy,"Dario MANGIAROTTI, Fiorenzo MARINI, Luigi CANTONE, Edoardo MANGIAROTTI, Carlo AGOSTONI, Marc Antonio MANDRUZZATO",1948 London,Fencing,Men's,épée team
+Summer,1948,Bronze,SWE,Sweden,"Sven THOFELT, Bengt LJUNGQUIST, Per CARLESON, Arne TOLLBOM, Carl FORSSELL, Frank CERVELL",1948 London,Fencing,Men's,épée team
+Summer,1948,Gold,FRA,France,Jehan BUHAN,1948 London,Fencing,Men's,foil individual
+Summer,1948,Silver,FRA,France,Christian D'ORIOLA,1948 London,Fencing,Men's,foil individual
+Summer,1948,Bronze,HUN,Hungary,Lajos MASZLAY,1948 London,Fencing,Men's,foil individual
+Summer,1948,Gold,FRA,France,"André BONIN, Christian D'ORIOLA, René BOUGNOL, Jehan BUHAN, Adrien ROMMEL, Jacques LATASTE",1948 London,Fencing,Men's,foil team
+Summer,1948,Silver,ITA,Italy,"Edoardo MANGIAROTTI, Saverio RAGNO, Giuliano NOSTINI, Manlio DI ROSA, Giorgio PELLINI, Renzo NOSTINI",1948 London,Fencing,Men's,foil team
+Summer,1948,Bronze,BEL,Belgium,"Georges DE BOURGUIGNON, Henri PATERNOSTER, Raymond BRU, Edouard YVES, Andre VAN DE WERWE DE VORSSELAERE, Paul VALCKE",1948 London,Fencing,Men's,foil team
+Summer,1948,Gold,HUN,Hungary,Aladár GEREVICH,1948 London,Fencing,Men's,sabre individual
+Summer,1948,Silver,ITA,Italy,Vincenzo PINTON,1948 London,Fencing,Men's,sabre individual
+Summer,1948,Bronze,HUN,Hungary,Pál KOVÁCS,1948 London,Fencing,Men's,sabre individual
+Summer,1948,Gold,HUN,Hungary,"Rudolf KÁRPÁTI, Aladár GEREVICH, Pál KOVÁCS, László RAJCSÁNYI, Bertalan PAPP, Tibor BERCZELLY",1948 London,Fencing,Men's,sabre team
+Summer,1948,Silver,ITA,Italy,"Vincenzo PINTON, Aldo MONTANO, Mauro RACCA, Renzo NOSTINI, Gastone DARE, Carlo TURCATO",1948 London,Fencing,Men's,sabre team
+Summer,1948,Bronze,USA,United States,"James FLYNN, Tibor NYILAS, George WORTH, Dean CETRULO, Miguel DE CAPRILES, Norman ARMITAGE",1948 London,Fencing,Men's,sabre team
+Summer,1948,Gold,HUN,Hungary,Ilona ELEK,1948 London,Fencing,Women's,foil individual
+Summer,1948,Silver,DEN,Denmark,Karen LACHMANN,1948 London,Fencing,Women's,foil individual
+Summer,1948,Bronze,AUT,Austria,Ellen PREIS,1948 London,Fencing,Women's,foil individual
+Summer,1948,Gold,SWE,Sweden,"Birger ROSENGREN, Torsten LINDBERG, Gunnar NORDAHL, Erik NILSSON, Nils LIEDHOLM, Henry CARLSSON, Bertil NORDAHL, Börje LEANDER, Gunnar GREN, Knut NORDAHL, Kjell ROSÉN, Sune ANDERSSON",1948 London,Football,Men's,football
+Summer,1948,Silver,YUG,Yugoslavia,"Rajko MITIC, Franjo SOSTARIC, Franjo WÖLFL, Zeljko CAJKOVSKI, Miodrag JOVANOVIC, Aleksandar ATANACKOVIC, Kosta TOMASEVIC, Zlatko CAJKOVSKI, Bernard VUKAS, Miroslav BROZOVIC, Zvonko CIMERMANCIC, Branislav STANKOVIC, Ljubomir LOVRIC, Stjepan BOBEK, Prvoslav MIHAJLOVIC",1948 London,Football,Men's,football
+Summer,1948,Bronze,DEN,Denmark,"Carl Aage PRÆST, Jens Peter HANSEN, Viggo JENSEN, Johannes PLØGER, Dion ØRNVOLD, Karl Aage HANSEN, Axel PILMARK, Knud LUNDBERG, John Angelo Valdemar Oster. HANSEN, Eigil NIELSEN, Knud Borge OVERGAARD, Holger SEEBACH, Ivan JENSEN, Jörgen Leschly SÖRENSEN",1948 London,Football,Men's,football
+Summer,1948,Gold,FIN,Finland,Veikko HUHTANEN,1948 London,Gymnastics Artistic,Men's,individual all-round
+Summer,1948,Silver,SUI,Switzerland,Walter LEHMANN,1948 London,Gymnastics Artistic,Men's,individual all-round
+Summer,1948,Bronze,FIN,Finland,Paavo AALTONEN,1948 London,Gymnastics Artistic,Men's,individual all-round
+Summer,1948,Gold,FIN,Finland,"Aleksanteri SAARVALA, Paavo AALTONEN, Heikki SAVOLAINEN, Olavi ROVE, Veikko HUHTANEN, Kalevi LAITINEN, Einari TERÄSVIRTA, Sulo SALMI",1948 London,Gymnastics Artistic,Men's,team competition
+Summer,1948,Silver,SUI,Switzerland,"Walter LEHMANN, Emil STUDER, Robert LUCY, Michael REUSCH, Melchior THALMANN, Karl FREI, Christian KIPFER, Josef STALDER",1948 London,Gymnastics Artistic,Men's,team competition
+Summer,1948,Bronze,HUN,Hungary,"Ferenc PATAKI, János MOGYORÓSI-KLENCS, Lajos TÓTH, Ferenc VARKOI, Gyözö MOGYOROSI, Lajos SANTHA, József FEKETE, László BARANYAI",1948 London,Gymnastics Artistic,Men's,team competition
+Summer,1948,Gold,HUN,Hungary,Ferenc PATAKI,1948 London,Gymnastics Artistic,Men's,floor exercises
+Summer,1948,Silver,HUN,Hungary,János MOGYORÓSI-KLENCS,1948 London,Gymnastics Artistic,Men's,floor exercises
+Summer,1948,Bronze,TCH,Czechoslovakia,Zdenek RUZICKA,1948 London,Gymnastics Artistic,Men's,floor exercises
+Summer,1948,Gold,SUI,Switzerland,Michael REUSCH,1948 London,Gymnastics Artistic,Men's,parallel bars
+Summer,1948,Silver,FIN,Finland,Veikko HUHTANEN,1948 London,Gymnastics Artistic,Men's,parallel bars
+Summer,1948,Bronze,SUI,Switzerland,Christian KIPFER,1948 London,Gymnastics Artistic,Men's,parallel bars
+Summer,1948,Bronze,SUI,Switzerland,Josef STALDER,1948 London,Gymnastics Artistic,Men's,parallel bars
+Summer,1948,Gold,FIN,Finland,Paavo AALTONEN,1948 London,Gymnastics Artistic,Men's,vault
+Summer,1948,Silver,FIN,Finland,Olavi ROVE,1948 London,Gymnastics Artistic,Men's,vault
+Summer,1948,Bronze,TCH,Czechoslovakia,Leo SOTORNIK,1948 London,Gymnastics Artistic,Men's,vault
+Summer,1948,Bronze,HUN,Hungary,Ferenc PATAKI,1948 London,Gymnastics Artistic,Men's,vault
+Summer,1948,Bronze,HUN,Hungary,János MOGYORÓSI-KLENCS,1948 London,Gymnastics Artistic,Men's,vault
+Summer,1948,Gold,SUI,Switzerland,Karl FREI,1948 London,Gymnastics Artistic,Men's,rings
+Summer,1948,Silver,SUI,Switzerland,Michael REUSCH,1948 London,Gymnastics Artistic,Men's,rings
+Summer,1948,Bronze,TCH,Czechoslovakia,Zdenek RUZICKA,1948 London,Gymnastics Artistic,Men's,rings
+Summer,1948,Gold,FIN,Finland,Heikki SAVOLAINEN,1948 London,Gymnastics Artistic,Men's,pommel horse
+Summer,1948,Gold,FIN,Finland,Paavo AALTONEN,1948 London,Gymnastics Artistic,Men's,pommel horse
+Summer,1948,Gold,FIN,Finland,Veikko HUHTANEN,1948 London,Gymnastics Artistic,Men's,pommel horse
+Summer,1948,Gold,SUI,Switzerland,Josef STALDER,1948 London,Gymnastics Artistic,Men's,horizontal bar
+Summer,1948,Silver,SUI,Switzerland,Walter LEHMANN,1948 London,Gymnastics Artistic,Men's,horizontal bar
+Summer,1948,Bronze,FIN,Finland,Veikko HUHTANEN,1948 London,Gymnastics Artistic,Men's,horizontal bar
+Summer,1948,Gold,TCH,Czechoslovakia,"Olga ?ILHÁNOVÁ, Milena MÜLLEROVÁ, Marie KOVÁROVÁ, Miloslava MISÁKOVÁ, Zdenka HONSOVA, Bo?ena SRNCOVÁ, Vera RUZICKOVA, Zdenka VERMIROVSKÁ",1948 London,Gymnastics Artistic,Women's,team competition
+Summer,1948,Silver,HUN,Hungary,"Edit VASARHELYI (WECKINGER), Anna FEHÉR, Erzsébet BALÁZS, Erzsébet GULYÁS-KÖTELES, Iren KARSICS-DARUHAZI, Maria KÖVI-ZALAI, Margit NAGY, Olga TASS",1948 London,Gymnastics Artistic,Women's,team competition
+Summer,1948,Bronze,USA,United States,"Helen SCHIFANO, Connie CARUCCIO-LENZ, Clara SCHROTH, Marian BARONE, Meta ELSTE, Ladislava BAKANIC, Anita SIMONIS, Dorothy DALTON",1948 London,Gymnastics Artistic,Women's,team competition
+Summer,1948,Gold,IND,India,"Randhir SINGH GENTLE, Leslie CLAUDIUS, Amir KUMAR, Ranganandhan FRANCIS, Kishan LAL, Keshava DATT, Trilochan SINGH, Patrick JANSEN, Grahanandan SINGH, Latifur REHMAN, Walter D'SOUZA, Kunwar Digvijai SINGH, Jaswant RAJPUT, Leo PINTO, Akhtar HUSSAIN, Maxie VAZ, Reginald RODRIGUES, Gerry GLACKEN, Lawrie FERNANDES, Balbir SINGH DOSANJH",1948 London,Hockey,Men's,hockey
+Summer,1948,Silver,GBR,Great Britain,"David BRODIE, Norman BORRETT, Robert ADLARD, Ronald DAVIES, George SIME, Michael WALFORD, Robin LINDSAY, William LINDSAY, John PEAKE, William GRIFFITHS, Frank REYNOLDS, Neil WHITE",1948 London,Hockey,Men's,hockey
+Summer,1948,Bronze,NED,Netherlands,"Pieter BROMBERG, Ton RICHTER, Willem VAN HEEL, Jenne LANGHOUT, Henri DERCKX, Hermanus LOGGERE, Edouard TIEL, Rius Theo ESSER, Johan DRIJVER, Henk BOUWMAN, Jan KRUIZE, Andries BOERSTRA",1948 London,Hockey,Men's,hockey
+Summer,1948,Gold,SWE,Sweden,William GRUT,1948 London,Modern Pentathlon,Men's,individual competition
+Summer,1948,Silver,USA,United States,George MOORE,1948 London,Modern Pentathlon,Men's,individual competition
+Summer,1948,Bronze,SWE,Sweden,Gösta GÄRDIN,1948 London,Modern Pentathlon,Men's,individual competition
+Summer,1948,Gold,AUS,Australia,Mervyn WOOD,1948 London,Rowing,Men's,single sculls (1x)
+Summer,1948,Silver,URU,Uruguay,Eduardo RISSO,1948 London,Rowing,Men's,single sculls (1x)
+Summer,1948,Bronze,ITA,Italy,Romolo CATASTA,1948 London,Rowing,Men's,single sculls (1x)
+Summer,1948,Gold,GBR,Great Britain,"Richard BURNELL, Bert BUSHNELL",1948 London,Rowing,Men's,double sculls (2x)
+Summer,1948,Silver,DEN,Denmark,"Aage LARSEN, Ebbe PARSNER",1948 London,Rowing,Men's,double sculls (2x)
+Summer,1948,Bronze,URU,Uruguay,"William JONES, Juan RODRÍGUEZ",1948 London,Rowing,Men's,double sculls (2x)
+Summer,1948,Gold,GBR,Great Britain,"John WILSON, William LAURIE",1948 London,Rowing,Men's,pair without coxswain (2-)
+Summer,1948,Silver,SUI,Switzerland,"Josef KALT, Hans KALT",1948 London,Rowing,Men's,pair without coxswain (2-)
+Summer,1948,Bronze,ITA,Italy,"Bruno BONI, Felice FANETTI",1948 London,Rowing,Men's,pair without coxswain (2-)
+Summer,1948,Gold,DEN,Denmark,"Finn PEDERSEN, Carl-Ebbe ANDERSEN, Tage HENRIKSEN",1948 London,Rowing,Men's,pair-oared shell with coxswain
+Summer,1948,Silver,ITA,Italy,"Alberto RADI, Aldo TARLAO, Giovanni STEFFÉ",1948 London,Rowing,Men's,pair-oared shell with coxswain
+Summer,1948,Bronze,HUN,Hungary,"Antal SZENDEY, Robert ZIMONYI, Bela ZSITNIK SR.",1948 London,Rowing,Men's,pair-oared shell with coxswain
+Summer,1948,Gold,ITA,Italy,"Franco FAGGI, Giovanni INVERNIZZI, Elio MORILLE, Giuseppe MOIOLI",1948 London,Rowing,Men's,four without coxswain (4-)
+Summer,1948,Silver,DEN,Denmark,"Aksel Bonde HANSEN, Ib Storm LARSEN, Helge HALKJÆR, Helge Muxoll SCHRÖDER",1948 London,Rowing,Men's,four without coxswain (4-)
+Summer,1948,Bronze,USA,United States,"Frederick KINGSBURY, Stuart GRIFFING, Robert PEREW, Gregory GATES",1948 London,Rowing,Men's,four without coxswain (4-)
+Summer,1948,Gold,USA,United States,"Robert WILL, Warren WESTLUND, Allan Jerome MORGAN, Robert MARTIN, Gordon GIOVANELLI",1948 London,Rowing,Men's,four-oared shell with coxswain
+Summer,1948,Silver,SUI,Switzerland,"Rudolf REICHLING, Erich SCHRIEVER, Emile KNECHT, Andre MOCCAND, Pierre STEBLER",1948 London,Rowing,Men's,four-oared shell with coxswain
+Summer,1948,Bronze,DEN,Denmark,"Jörgen Ib OLSEN, Henry LARSEN, Harry KNUDSEN, Erik LARSEN, Børge NIELSEN",1948 London,Rowing,Men's,four-oared shell with coxswain
+Summer,1948,Gold,USA,United States,"Lloyd BUTLER, Justus SMITH, David BROWN, George AHLGREN, Ian TURNER, James HARDY, David TURNER, John STACK, Ralph PURCHASE",1948 London,Rowing,Men's,eight with coxswain (8+)
+Summer,1948,Silver,GBR,Great Britain,"Guy RICHARDSON, Charles LLOYD, Paul BIRCHER, Paul MASSEY, Christopher BARTON, Michael Clement LAPAGE, John MEYRICK, Alfred MELLOWS, Jack DEARLOVE",1948 London,Rowing,Men's,eight with coxswain (8+)
+Summer,1948,Bronze,NOR,Norway,"Thorstein KRAAKENES, Carl MONSSEN, Harald KRÅKENES, Sigurd MONSSEN, Kristoffer LEPSOË, Halfdan GRAN OLSEN/GRANGARD, Thor PEDERSEN, Leif NAESS, Hans Egil HANSEN",1948 London,Rowing,Men's,eight with coxswain (8+)
+Summer,1948,Gold,USA,United States,"James SMITH, James WEEKES, Herman WHITON, Michael MOONEY, Alfred LOOMIS",1948 London,Sailing,Mixed,6m
+Summer,1948,Silver,ARG,Argentina,"Rodolfo RIVADEMAR, Emilio HOMPS, Enrique Conrado SIEBURGER JR., Rufino RODRIGUEZ DE LA TORRE, Julio SIEBURGER, Enrique SIEBURGER",1948 London,Sailing,Mixed,6m
+Summer,1948,Bronze,SWE,Sweden,"Karl AMELN, Torsten LORD, Tore HOLM, Gösta SALÉN, Martin HINDORFF",1948 London,Sailing,Mixed,6m
+Summer,1948,Gold,NOR,Norway,"Sigve LIE, Hakon BARFOD, Thor THORVALDSEN",1948 London,Sailing,Mixed,dragon
+Summer,1948,Silver,SWE,Sweden,"Hugo JOHNSON, Folke BOHLIN, Gösta BRODIN",1948 London,Sailing,Mixed,dragon
+Summer,1948,Bronze,DEN,Denmark,"Klaus BAESS, William BERNTSEN, Ole BERNTSEN",1948 London,Sailing,Mixed,dragon
+Summer,1948,Gold,GBR,Great Britain,"David BOND, Stewart MORRIS",1948 London,Sailing,Mixed,swallow (golondrina)
+Summer,1948,Silver,POR,Portugal,"Duarte Manuel BELLO, Fernando Pinto Coelho BELLO",1948 London,Sailing,Mixed,swallow (golondrina)
+Summer,1948,Bronze,USA,United States,"Owen TORREY, Lockwood PIRIE",1948 London,Sailing,Mixed,swallow (golondrina)
+Summer,1948,Gold,DEN,Denmark,Paul ELVSTROM,1948 London,Sailing,Mixed,firefly class
+Summer,1948,Silver,USA,United States,Ralph Liggett Jr. EVANS,1948 London,Sailing,Mixed,firefly class
+Summer,1948,Bronze,NED,Netherlands,Jacobus Hermanus Hendrik DE JONG,1948 London,Sailing,Mixed,firefly class
+Summer,1948,Gold,USA,United States,"Paul SMART, Hilary SMART",1948 London,Sailing,Mixed,two-person keelboat (Star)
+Summer,1948,Silver,CUB,Cuba,"Carlos DE CARDENAS PLA, Carlos DE CÁRDENAS CULMELL",1948 London,Sailing,Mixed,two-person keelboat (Star)
+Summer,1948,Bronze,NED,Netherlands,"Adriaan MAAS, Edward STUTTERHEIM",1948 London,Sailing,Mixed,two-person keelboat (Star)
+Summer,1948,Gold,HUN,Hungary,Károly TAKÁCS,1948 London,Shooting,Men's,25m rapid fire pistol
+Summer,1948,Silver,ARG,Argentina,Carlos Enrique DIAZ SAENZ VALIENTE,1948 London,Shooting,Men's,25m rapid fire pistol
+Summer,1948,Bronze,SWE,Sweden,Sven LUNDQUIST,1948 London,Shooting,Men's,25m rapid fire pistol
+Summer,1948,Gold,PER,Peru,Edwin VASQUEZ CAM,1948 London,Shooting,Men's,50m pistol
+Summer,1948,Silver,SUI,Switzerland,Rudolf SCHNYDER,1948 London,Shooting,Men's,50m pistol
+Summer,1948,Bronze,SWE,Sweden,Torsten ULLMAN,1948 London,Shooting,Men's,50m pistol
+Summer,1948,Gold,USA,United States,Arthur COOK,1948 London,Shooting,Men's,50m rifle prone
+Summer,1948,Silver,USA,United States,Walter TOMSEN,1948 London,Shooting,Men's,50m rifle prone
+Summer,1948,Bronze,SWE,Sweden,Jonas JONSSON,1948 London,Shooting,Men's,50m rifle prone
+Summer,1948,Gold,SUI,Switzerland,Emil GRÜNIG,1948 London,Shooting,Men's,300m free rifle 3 positions
+Summer,1948,Silver,FIN,Finland,Pauli JANHONEN,1948 London,Shooting,Men's,300m free rifle 3 positions
+Summer,1948,Bronze,NOR,Norway,Willy RÖGEBERG,1948 London,Shooting,Men's,300m free rifle 3 positions
+Summer,1948,Gold,USA,United States,Walter RIS,1948 London,Swimming,Men's,100m freestyle
+Summer,1948,Silver,USA,United States,Alan FORD,1948 London,Swimming,Men's,100m freestyle
+Summer,1948,Bronze,HUN,Hungary,Géza KÁDAS,1948 London,Swimming,Men's,100m freestyle
+Summer,1948,Gold,USA,United States,Bill SMITH,1948 London,Swimming,Men's,400m freestyle
+Summer,1948,Silver,USA,United States,James MCLANE,1948 London,Swimming,Men's,400m freestyle
+Summer,1948,Bronze,AUS,Australia,John MARSHALL,1948 London,Swimming,Men's,400m freestyle
+Summer,1948,Gold,USA,United States,James MCLANE,1948 London,Swimming,Men's,1500m freestyle
+Summer,1948,Silver,AUS,Australia,John MARSHALL,1948 London,Swimming,Men's,1500m freestyle
+Summer,1948,Bronze,HUN,Hungary,György MITRÓ,1948 London,Swimming,Men's,1500m freestyle
+Summer,1948,Gold,USA,United States,Joe VERDEUR,1948 London,Swimming,Men's,200m breaststroke
+Summer,1948,Silver,USA,United States,Keith CARTER,1948 London,Swimming,Men's,200m breaststroke
+Summer,1948,Bronze,USA,United States,Robert SOHL,1948 London,Swimming,Men's,200m breaststroke
+Summer,1948,Gold,USA,United States,Allen STACK,1948 London,Swimming,Men's,100m backstroke
+Summer,1948,Silver,USA,United States,Robert COWELL,1948 London,Swimming,Men's,100m backstroke
+Summer,1948,Bronze,FRA,France,Georges VALLEREY,1948 London,Swimming,Men's,100m backstroke
+Summer,1948,Gold,USA,United States,"Walter RIS, Wallace WOLF, Bill SMITH, James MCLANE",1948 London,Swimming,Men's,4x200m freestyle relay
+Summer,1948,Silver,HUN,Hungary,"Géza KÁDAS, Imre NYÉKI, Elemér SZATHMÁRY, György MITRÓ",1948 London,Swimming,Men's,4x200m freestyle relay
+Summer,1948,Bronze,FRA,France,"Henri PADOU JR., Alexandre JANY, René CORNU, Joseph BERNARDO",1948 London,Swimming,Men's,4x200m freestyle relay
+Summer,1948,Gold,DEN,Denmark,Greta ANDERSEN,1948 London,Swimming,Women's,100m freestyle
+Summer,1948,Silver,USA,United States,Ann CURTIS,1948 London,Swimming,Women's,100m freestyle
+Summer,1948,Bronze,NED,Netherlands,Marie-Louise VAESSEN,1948 London,Swimming,Women's,100m freestyle
+Summer,1948,Gold,USA,United States,Ann CURTIS,1948 London,Swimming,Women's,400m freestyle
+Summer,1948,Silver,DEN,Denmark,Karen Margrethe HARUP,1948 London,Swimming,Women's,400m freestyle
+Summer,1948,Bronze,GBR,Great Britain,Catherine GIBSON,1948 London,Swimming,Women's,400m freestyle
+Summer,1948,Gold,NED,Netherlands,Nel VAN VLIET,1948 London,Swimming,Women's,200m breaststroke
+Summer,1948,Silver,AUS,Australia,Nancy LYONS,1948 London,Swimming,Women's,200m breaststroke
+Summer,1948,Bronze,HUN,Hungary,Éva NOVÁK,1948 London,Swimming,Women's,200m breaststroke
+Summer,1948,Gold,DEN,Denmark,Karen Margrethe HARUP,1948 London,Swimming,Women's,100m backstroke
+Summer,1948,Silver,USA,United States,Suzanne ZIMMERMAN,1948 London,Swimming,Women's,100m backstroke
+Summer,1948,Bronze,AUS,Australia,Judy DAVIES,1948 London,Swimming,Women's,100m backstroke
+Summer,1948,Gold,USA,United States,"Brenda HELSER, Marie CORRIDON, Thelma KALAMA, Ann CURTIS",1948 London,Swimming,Women's,4x100m freestyle relay
+Summer,1948,Silver,DEN,Denmark,"Fritze CARSTENSEN, Karen Margrethe HARUP, Eva RIISE, Greta ANDERSEN",1948 London,Swimming,Women's,4x100m freestyle relay
+Summer,1948,Bronze,NED,Netherlands,"Irma SCHUHMACHER, Margot MARSMAN, Johanna Maria TERMEULEN, Marie-Louise VAESSEN",1948 London,Swimming,Women's,4x100m freestyle relay
+Summer,1948,Gold,ITA,Italy,"Geminio OGNIO, Cesare RUBINI, Aldo GHIRA, Gianfranco PANDOLFINI, Mario MAIONI, Ermenegildo ARENA, Emilio BULGARELLI, Tullio PANDOLFINI, Pasquale BUONOCORE",1948 London,Water Polo,Men's,water polo
+Summer,1948,Silver,HUN,Hungary,"Dezsö FABIAN, Laszlo JENEI, Dezso GYARMATI, Miklós HOLOP, Oszkár CSUVIK, Károly SZITTYA, Endre GYORFFI, Dezsö LEMHÉNYI, Jenö BRANDI, István SZIVÓS",1948 London,Water Polo,Men's,water polo
+Summer,1948,Bronze,NED,Netherlands,"Rudolph Frederik Otto VAN FEGGELEN, Hans STAM, Frits SMOL, Cor BRAASEM, Pieter Johannes Alexander SALOMONS, Albert RUIMSCHOTEL, Nijs KOREVAAR, Johannes ROHNER, Hendrikus Zacharias KEETELAAR",1948 London,Water Polo,Men's,water polo
+Summer,1948,Gold,USA,United States,Joseph DE PIETRO,1948 London,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1948,Silver,GBR,Great Britain,Julian CREUS,1948 London,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1948,Bronze,USA,United States,Richard TOM,1948 London,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1948,Gold,EGY,Egypt,Mahmoud FAYAD,1948 London,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1948,Silver,TTO,"Trinidad and Tobago, British",Rodney WILKES,1948 London,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1948,Bronze,IRI,Iran,Jaffar Mohammad SALMASSI,1948 London,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1948,Gold,EGY,Egypt,Ibrahim SHAMS,1948 London,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1948,Silver,EGY,Egypt,Attia HAMOUDA,1948 London,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1948,Bronze,GBR,Great Britain,James HALLIDAY,1948 London,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1948,Gold,USA,United States,Frank SPELLMAN,1948 London,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1948,Silver,USA,United States,Peter GEORGE,1948 London,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1948,Bronze,KOR,Korea Republic,Sung-Jip KIM,1948 London,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1948,Gold,USA,United States,Stanley STANCZYK,1948 London,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1948,Silver,USA,United States,Harold SAKATA,1948 London,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1948,Bronze,SWE,Sweden,Gösta MAGNUSSON,1948 London,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1948,Gold,USA,United States,John DAVIS,1948 London,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1948,Silver,USA,United States,Norbert SCHEMANSKY,1948 London,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1948,Bronze,NED,Netherlands,Abraham CHARITÉ,1948 London,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1948,Gold,FIN,Finland,Lennart Vilho VIITALA,1948 London,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1948,Silver,TUR,Turkey,Halit BALAMIR,1948 London,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1948,Bronze,SWE,Sweden,Thure JOHANSSON,1948 London,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1948,Gold,TUR,Turkey,Nasuh AKAR,1948 London,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1948,Silver,USA,United States,Gerald LEEMAN,1948 London,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1948,Bronze,FRA,France,Charles KOUYOS,1948 London,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1948,Gold,TUR,Turkey,Gazanfer BILGE,1948 London,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1948,Silver,SWE,Sweden,Ivar SJÖLIN,1948 London,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1948,Bronze,SUI,Switzerland,Adolf MÜLLER,1948 London,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1948,Gold,TUR,Turkey,Celal ATIK,1948 London,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1948,Silver,SWE,Sweden,Gösta FRÄNDFORS-JÖNSSON,1948 London,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1948,Bronze,SUI,Switzerland,Hermann BAUMANN,1948 London,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1948,Gold,TUR,Turkey,Yasar DOGU,1948 London,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1948,Silver,AUS,Australia,Richard Edward GARRARD,1948 London,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1948,Bronze,USA,United States,Leland Gilbert MERRILL JR.,1948 London,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1948,Gold,USA,United States,Glenn BRAND,1948 London,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1948,Silver,TUR,Turkey,Adil CANDEMIR,1948 London,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1948,Bronze,SWE,Sweden,Erik LINDEN,1948 London,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1948,Gold,USA,United States,Henry WITTENBERG,1948 London,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1948,Silver,SUI,Switzerland,Fritz STÖCKLI,1948 London,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1948,Bronze,SWE,Sweden,Bengt FAHLKVIST,1948 London,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1948,Gold,HUN,Hungary,Gyula BÓBIS,1948 London,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1948,Silver,SWE,Sweden,Bertil ANTONSSON,1948 London,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1948,Bronze,AUS,Australia,Joseph ARMSTRONG,1948 London,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1948,Gold,ITA,Italy,Pietro LOMBARDI,1948 London,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1948,Silver,TUR,Turkey,Kenan OLCAY,1948 London,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1948,Bronze,FIN,Finland,Reino KANGASMÄKI,1948 London,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1948,Gold,SWE,Sweden,Kurt PETTERSÉN,1948 London,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1948,Silver,EGY,Egypt,Ali Mahmoud HASSAN,1948 London,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1948,Bronze,TUR,Turkey,Halil KAYA,1948 London,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1948,Gold,TUR,Turkey,Mehmet OKTAV,1948 London,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1948,Silver,SWE,Sweden,Olle ANDERBERG,1948 London,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1948,Bronze,HUN,Hungary,Ferenc TÓTH,1948 London,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1948,Gold,SWE,Sweden,Gustav FREIJ,1948 London,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1948,Silver,NOR,Norway,Aage Ingvar ERIKSEN,1948 London,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1948,Bronze,HUN,Hungary,Károly FERENCZ,1948 London,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1948,Gold,SWE,Sweden,Gösta ANDERSSON,1948 London,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1948,Silver,HUN,Hungary,Miklós SZILVÁSY,1948 London,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1948,Bronze,DEN,Denmark,Henrik Christian HANSEN,1948 London,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1948,Gold,SWE,Sweden,Axel GRÖNBERG,1948 London,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1948,Silver,TUR,Turkey,Muhlis TAYFUR,1948 London,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1948,Bronze,ITA,Italy,Ercole GALLEGATI,1948 London,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1948,Gold,SWE,Sweden,Karl-Erik NILSSON,1948 London,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1948,Silver,FIN,Finland,Kelpo Olavi GRÖNDAHL,1948 London,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1948,Bronze,EGY,Egypt,Ibrahim ORABI,1948 London,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1948,Gold,TUR,Turkey,Ahmet KIREÇÇI,1948 London,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1948,Silver,SWE,Sweden,Tor NILSSON,1948 London,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1948,Bronze,ITA,Italy,Guido FANTONI,1948 London,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)

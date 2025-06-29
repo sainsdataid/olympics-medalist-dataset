@@ -1,0 +1,959 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,2008,Gold,UKR,Ukraine,Viktor RUBAN,2008 Beijing,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2008,Silver,KOR,Korea Republic,Kyung Mo PARK,2008 Beijing,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2008,Bronze,RUS,Russian Federation,Bair BADENOV,2008 Beijing,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2008,Gold,KOR,Korea Republic,"Chang-Hwan LEE, Dong Hyun IM, Kyung Mo PARK",2008 Beijing,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2008,Silver,ITA,Italy,"Mauro NESPOLI, Marco GALIAZZO, Ilario DI BUO",2008 Beijing,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2008,Bronze,CHN,China,"Hai Feng XUE, Lin JIANG, Wenquan LI",2008 Beijing,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2008,Gold,CHN,China,Juan Juan ZHANG,2008 Beijing,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2008,Silver,KOR,Korea Republic,Sung-Hyun PARK,2008 Beijing,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2008,Bronze,KOR,Korea Republic,Ok-Hee YUN,2008 Beijing,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2008,Gold,KOR,Korea Republic,"Hyun-Jung JOO, Sung-Hyun PARK, Ok-Hee YUN",2008 Beijing,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2008,Silver,CHN,China,"Ling CHEN, Dan GUO, Juan Juan ZHANG",2008 Beijing,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2008,Bronze,FRA,France,"Virginie ARNOLD, Sophie DODEMONT, Berengere SCHUH",2008 Beijing,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2008,Gold,RUS,Russian Federation,"Anastasia ERMAKOVA, Anastasia DAVYDOVA",2008 Beijing,Artistic Swimming,Women's,duet
+Summer,2008,Silver,ESP,Spain,"Andrea FUENTES FACHE, Gemma MENGUAL",2008 Beijing,Artistic Swimming,Women's,duet
+Summer,2008,Bronze,JPN,Japan,"Saho HARADA, Emiko SUZUKI",2008 Beijing,Artistic Swimming,Women's,duet
+Summer,2008,Gold,RUS,Russian Federation,"Natalia ISHCHENKO, Maria GROMOVA, Olga KUZHELA, Elena OVCHINNIKOVA, Elvira KHASYANOVA, Anastasia DAVYDOVA, Anna SHORINA, Svetlana ROMASHINA, Anastasia ERMAKOVA",2008 Beijing,Artistic Swimming,Women's,team
+Summer,2008,Silver,ESP,Spain,"Laura LOPEZ, Andrea FUENTES FACHE, Thais HENRIQUEZ TORRES, Gisela MORON, Alba CABELLO RODILLA, Paola TIRADOS, Irina RODRIGUEZ, Gemma MENGUAL, Raquel CORRAL",2008 Beijing,Artistic Swimming,Women's,team
+Summer,2008,Bronze,CHN,China,"Ou LIU, Wenwen JIANG, Xi LUO, Xiaohuan ZHANG, Qiuting SUN, Xuechen HUANG, Tingting JIANG, Beibei GU, Na WANG",2008 Beijing,Artistic Swimming,Women's,team
+Summer,2008,Gold,JAM,Jamaica,Usain BOLT,2008 Beijing,Athletics,Men's,100m
+Summer,2008,Silver,TTO,Trinidad and Tobago,Richard THOMPSON,2008 Beijing,Athletics,Men's,100m
+Summer,2008,Bronze,USA,United States,Walter DIX,2008 Beijing,Athletics,Men's,100m
+Summer,2008,Gold,JAM,Jamaica,Usain BOLT,2008 Beijing,Athletics,Men's,200m
+Summer,2008,Silver,USA,United States,Shawn CRAWFORD,2008 Beijing,Athletics,Men's,200m
+Summer,2008,Bronze,USA,United States,Walter DIX,2008 Beijing,Athletics,Men's,200m
+Summer,2008,Gold,USA,United States,LaShawn MERRITT,2008 Beijing,Athletics,Men's,400m
+Summer,2008,Silver,USA,United States,Jeremy WARINER,2008 Beijing,Athletics,Men's,400m
+Summer,2008,Bronze,USA,United States,David NEVILLE,2008 Beijing,Athletics,Men's,400m
+Summer,2008,Gold,KEN,Kenya,Wilfred BUNGEI,2008 Beijing,Athletics,Men's,800m
+Summer,2008,Silver,SUD,Sudan,Ismail Ahmed ISMAIL,2008 Beijing,Athletics,Men's,800m
+Summer,2008,Bronze,KEN,Kenya,Alfred Kirwa YEGO,2008 Beijing,Athletics,Men's,800m
+Summer,2008,Gold,KEN,Kenya,Asbel Kipruto KIPROP,2008 Beijing,Athletics,Men's,1500m
+Summer,2008,Silver,NZL,New Zealand,Nicholas WILLIS,2008 Beijing,Athletics,Men's,1500m
+Summer,2008,Bronze,FRA,France,Medhi BAALA,2008 Beijing,Athletics,Men's,1500m
+Summer,2008,Gold,ETH,Ethiopia,Kenenisa BEKELE,2008 Beijing,Athletics,Men's,5000m
+Summer,2008,Silver,KEN,Kenya,Eliud Kipchoge ROTICH,2008 Beijing,Athletics,Men's,5000m
+Summer,2008,Bronze,KEN,Kenya,Edwin Cheruiyot SOI,2008 Beijing,Athletics,Men's,5000m
+Summer,2008,Gold,ETH,Ethiopia,Kenenisa BEKELE,2008 Beijing,Athletics,Men's,10000m
+Summer,2008,Silver,ETH,Ethiopia,Sileshi SIHINE,2008 Beijing,Athletics,Men's,10000m
+Summer,2008,Bronze,KEN,Kenya,Micah KOGO,2008 Beijing,Athletics,Men's,10000m
+Summer,2008,Gold,KEN,Kenya,Samuel Kamau WANSIRU,2008 Beijing,Athletics,Men's,marathon
+Summer,2008,Silver,MAR,Morocco,Jaouad GHARIB,2008 Beijing,Athletics,Men's,marathon
+Summer,2008,Bronze,ETH,Ethiopia,Tsegay KEBEDE,2008 Beijing,Athletics,Men's,marathon
+Summer,2008,Gold,CUB,Cuba,Dayron ROBLES,2008 Beijing,Athletics,Men's,110m hurdles
+Summer,2008,Silver,USA,United States,David PAYNE,2008 Beijing,Athletics,Men's,110m hurdles
+Summer,2008,Bronze,USA,United States,David OLIVER,2008 Beijing,Athletics,Men's,110m hurdles
+Summer,2008,Gold,USA,United States,Angelo TAYLOR,2008 Beijing,Athletics,Men's,400m hurdles
+Summer,2008,Silver,USA,United States,Kerron CLEMENT,2008 Beijing,Athletics,Men's,400m hurdles
+Summer,2008,Bronze,USA,United States,Bershawn JACKSON,2008 Beijing,Athletics,Men's,400m hurdles
+Summer,2008,Gold,KEN,Kenya,Brimin Kiprop KIPRUTO,2008 Beijing,Athletics,Men's,3000m steeplechase
+Summer,2008,Silver,FRA,France,Mahiedine MEKHISSI-BENABBAD,2008 Beijing,Athletics,Men's,3000m steeplechase
+Summer,2008,Bronze,KEN,Kenya,Richard Kipkemboi MATEELONG,2008 Beijing,Athletics,Men's,3000m steeplechase
+Summer,2008,Gold,TTO,Trinidad and Tobago,"Richard THOMPSON, Emmanuel CALLENDER, Marc BURNS, Keston BLEDMAN",2008 Beijing,Athletics,Men's,4x100m relay
+Summer,2008,Silver,JPN,Japan,"Shinji TAKAHIRA, Shingo SUETSUGU, Naoki TSUKAHARA, Nobuharu ASAHARA",2008 Beijing,Athletics,Men's,4x100m relay
+Summer,2008,Bronze,BRA,Brazil,"Sandro Viana, Jose Carlos Moreira, Vicente Lima, Bruno de Barros",2008 Beijing,Athletics,Men's,4x100m relay
+Summer,2008,Gold,USA,United States,"David NEVILLE, Jeremy WARINER, LaShawn MERRITT, Angelo TAYLOR",2008 Beijing,Athletics,Men's,4x400m relay
+Summer,2008,Silver,BAH,Bahamas,"Michael MATHIEU, Andrae WILLIAMS, Chris BROWN, Andretti BAIN",2008 Beijing,Athletics,Men's,4x400m relay
+Summer,2008,Bronze,GBR,Great Britain,"Andrew Steele, Michael Bingham, Martyn Rooney, Robert Tobin",2008 Beijing,Athletics,Men's,4x400m relay
+Summer,2008,Gold,RUS,Russian Federation,Valeriy BORCHIN,2008 Beijing,Athletics,Men's,20km walk
+Summer,2008,Silver,ECU,Ecuador,Jefferson PEREZ,2008 Beijing,Athletics,Men's,20km walk
+Summer,2008,Bronze,AUS,Australia,Jared TALLENT,2008 Beijing,Athletics,Men's,20km walk
+Summer,2008,Gold,ITA,Italy,Alex SCHWAZER,2008 Beijing,Athletics,Men's,50km walk
+Summer,2008,Silver,AUS,Australia,Jared TALLENT,2008 Beijing,Athletics,Men's,50km walk
+Summer,2008,Bronze,RUS,Russian Federation,Denis NIZHEGORODOV,2008 Beijing,Athletics,Men's,50km walk
+Summer,2008,Gold,PAN,Panama,Irving SALADINO,2008 Beijing,Athletics,Men's,long jump
+Summer,2008,Silver,RSA,South Africa,Godfrey Khotso MOKOENA,2008 Beijing,Athletics,Men's,long jump
+Summer,2008,Bronze,CUB,Cuba,Ibrahim CAMEJO,2008 Beijing,Athletics,Men's,long jump
+Summer,2008,Gold,POR,Portugal,Nelson EVORA,2008 Beijing,Athletics,Men's,triple jump
+Summer,2008,Silver,GBR,Great Britain,Phillips IDOWU,2008 Beijing,Athletics,Men's,triple jump
+Summer,2008,Bronze,BAH,Bahamas,Leevan SANDS,2008 Beijing,Athletics,Men's,triple jump
+Summer,2008,Gold,RUS,Russian Federation,Andrey SILNOV,2008 Beijing,Athletics,Men's,high jump
+Summer,2008,Silver,GBR,Great Britain,Germaine MASON,2008 Beijing,Athletics,Men's,high jump
+Summer,2008,Bronze,RUS,Russian Federation,Yaroslav RYBAKOV,2008 Beijing,Athletics,Men's,high jump
+Summer,2008,Gold,AUS,Australia,Steve HOOKER,2008 Beijing,Athletics,Men's,pole vault
+Summer,2008,Silver,RUS,Russian Federation,Evgeniy LUKYANENKO,2008 Beijing,Athletics,Men's,pole vault
+Summer,2008,Bronze,USA,United States,Derek MILES,2008 Beijing,Athletics,Men's,pole vault
+Summer,2008,Gold,POL,Poland,Tomasz MAJEWSKI,2008 Beijing,Athletics,Men's,shot put
+Summer,2008,Silver,USA,United States,Christian CANTWELL,2008 Beijing,Athletics,Men's,shot put
+Summer,2008,Bronze,CAN,Canada,Dylan ARMSTRONG,2008 Beijing,Athletics,Men's,shot put
+Summer,2008,Gold,EST,Estonia,Gerd KANTER,2008 Beijing,Athletics,Men's,discus throw
+Summer,2008,Silver,POL,Poland,Piotr MALACHOWSKI,2008 Beijing,Athletics,Men's,discus throw
+Summer,2008,Bronze,LTU,Lithuania,Virgilijus ALEKNA,2008 Beijing,Athletics,Men's,discus throw
+Summer,2008,Gold,NOR,Norway,Andreas THORKILDSEN,2008 Beijing,Athletics,Men's,javelin throw
+Summer,2008,Silver,LAT,Latvia,Ainars KOVALS,2008 Beijing,Athletics,Men's,javelin throw
+Summer,2008,Bronze,FIN,Finland,Tero PITKAMAKI,2008 Beijing,Athletics,Men's,javelin throw
+Summer,2008,Gold,SLO,Slovenia,Primoz KOZMUS,2008 Beijing,Athletics,Men's,hammer throw
+Summer,2008,Silver,BLR,Belarus,Vadim DEVYATOVSKIY,2008 Beijing,Athletics,Men's,hammer throw
+Summer,2008,Bronze,BLR,Belarus,Ivan TSIKHAN,2008 Beijing,Athletics,Men's,hammer throw
+Summer,2008,Gold,USA,United States,Bryan CLAY,2008 Beijing,Athletics,Men's,decathlon
+Summer,2008,Silver,BLR,Belarus,Andrei KRAUCHANKA,2008 Beijing,Athletics,Men's,decathlon
+Summer,2008,Bronze,CUB,Cuba,Leonel SUAREZ,2008 Beijing,Athletics,Men's,decathlon
+Summer,2008,Gold,JAM,Jamaica,Shelly-Ann FRASER-PRYCE,2008 Beijing,Athletics,Women's,100m
+Summer,2008,Silver,JAM,Jamaica,Kerron STEWART,2008 Beijing,Athletics,Women's,100m
+Summer,2008,Silver,JAM,Jamaica,Sherone SIMPSON,2008 Beijing,Athletics,Women's,100m
+Summer,2008,Gold,JAM,Jamaica,Veronica CAMPBELL-BROWN,2008 Beijing,Athletics,Women's,200m
+Summer,2008,Silver,USA,United States,Allyson FELIX,2008 Beijing,Athletics,Women's,200m
+Summer,2008,Bronze,JAM,Jamaica,Kerron STEWART,2008 Beijing,Athletics,Women's,200m
+Summer,2008,Gold,GBR,Great Britain,Christine OHURUOGU,2008 Beijing,Athletics,Women's,400m
+Summer,2008,Silver,JAM,Jamaica,Shericka WILLIAMS,2008 Beijing,Athletics,Women's,400m
+Summer,2008,Bronze,USA,United States,Sanya RICHARDS-ROSS,2008 Beijing,Athletics,Women's,400m
+Summer,2008,Gold,KEN,Kenya,Pamela JELIMO,2008 Beijing,Athletics,Women's,800m
+Summer,2008,Silver,KEN,Kenya,Janeth Jepkosgei BUSIENEI,2008 Beijing,Athletics,Women's,800m
+Summer,2008,Bronze,MAR,Morocco,Hasna BENHASSI,2008 Beijing,Athletics,Women's,800m
+Summer,2008,Gold,KEN,Kenya,Nancy Jebet LAGAT,2008 Beijing,Athletics,Women's,1500m
+Summer,2008,Silver,UKR,Ukraine,Iryna LISHCHYNSKA,2008 Beijing,Athletics,Women's,1500m
+Summer,2008,Bronze,UKR,Ukraine,Nataliya TOBIAS,2008 Beijing,Athletics,Women's,1500m
+Summer,2008,Gold,ETH,Ethiopia,Tirunesh DIBABA,2008 Beijing,Athletics,Women's,5000m
+Summer,2008,Silver,ETH,Ethiopia,Meseret DEFAR,2008 Beijing,Athletics,Women's,5000m
+Summer,2008,Bronze,KEN,Kenya,Sylvia Kibet,2008 Beijing,Athletics,Women's,5000m
+Summer,2008,Gold,ETH,Ethiopia,Tirunesh DIBABA,2008 Beijing,Athletics,Women's,10000m
+Summer,2008,Silver,USA,United States,Shalane FLANAGAN,2008 Beijing,Athletics,Women's,10000m
+Summer,2008,Bronze,KEN,Kenya,Linet Masai,2008 Beijing,Athletics,Women's,10000m
+Summer,2008,Gold,ROU,Romania,Constantina TOMESCU,2008 Beijing,Athletics,Women's,marathon
+Summer,2008,Silver,KEN,Kenya,Catherine NDEREBA,2008 Beijing,Athletics,Women's,marathon
+Summer,2008,Bronze,CHN,China,Chunxiu ZHOU,2008 Beijing,Athletics,Women's,marathon
+Summer,2008,Gold,USA,United States,Dawn HARPER,2008 Beijing,Athletics,Women's,100m hurdles
+Summer,2008,Silver,AUS,Australia,Sally PEARSON,2008 Beijing,Athletics,Women's,100m hurdles
+Summer,2008,Bronze,CAN,Canada,Priscilla LOPES-SCHLIEP,2008 Beijing,Athletics,Women's,100m hurdles
+Summer,2008,Gold,JAM,Jamaica,Melaine WALKER,2008 Beijing,Athletics,Women's,400m hurdles
+Summer,2008,Silver,USA,United States,Sheena TOSTA,2008 Beijing,Athletics,Women's,400m hurdles
+Summer,2008,Bronze,GBR,Great Britain,Natasha DANVERS,2008 Beijing,Athletics,Women's,400m hurdles
+Summer,2008,Gold,RUS,Russian Federation,Gulnara SAMITOVA,2008 Beijing,Athletics,Women's,3000m steeplechase
+Summer,2008,Silver,KEN,Kenya,Eunice JEPKORIR,2008 Beijing,Athletics,Women's,3000m steeplechase
+Summer,2008,Bronze,RUS,Russian Federation,Tatyana Petrova-Arkhipova,2008 Beijing,Athletics,Women's,3000m steeplechase
+Summer,2008,Gold,BEL,Belgium,"Olivia BORLEE, Elodie OUEDRAOGO, Hanna MARIEN, Kim GEVAERT",2008 Beijing,Athletics,Women's,4x100m relay
+Summer,2008,Silver,NGR,Nigeria,"Oludamola OSAYOMI, Gloria KEMASUODE, Franca IDOKO, Halimat ISMAILA",2008 Beijing,Athletics,Women's,4x100m relay
+Summer,2008,Bronze,BRA,Brazil,"Rosemar Coelho Neto, Thaissa Presti, Lucimar de Moura, Rosangela Santos",2008 Beijing,Athletics,Women's,4x100m relay
+Summer,2008,Gold,USA,United States,"Monique HENDERSON, Mary WINEBERG, Allyson FELIX, Sanya RICHARDS-ROSS",2008 Beijing,Athletics,Women's,4x400m relay
+Summer,2008,Silver,JAM,Jamaica,"Shericka WILLIAMS, Rosemarie WHYTE, Novlene WILLIAMS-MILLS, Shereefa LLOYD",2008 Beijing,Athletics,Women's,4x400m relay
+Summer,2008,Bronze,GBR,Great Britain,"Christine Ohuruogu, Marilyn Okoro, Kelly Sotherton, Nicola Sanders",2008 Beijing,Athletics,Women's,4x400m relay
+Summer,2008,Gold,RUS,Russian Federation,Olga KANISKINA,2008 Beijing,Athletics,Women's,20km race walk
+Summer,2008,Silver,NOR,Norway,Kjersti PLAETZER,2008 Beijing,Athletics,Women's,20km race walk
+Summer,2008,Bronze,ITA,Italy,Elisa RIGAUDO,2008 Beijing,Athletics,Women's,20km race walk
+Summer,2008,Gold,BRA,Brazil,Maurren Higa MAGGI,2008 Beijing,Athletics,Women's,long jump
+Summer,2008,Silver,NGR,Nigeria,Blessing OKAGBARE,2008 Beijing,Athletics,Women's,long jump
+Summer,2008,Bronze,JAM,Jamaica,Chelsea Hammond,2008 Beijing,Athletics,Women's,long jump
+Summer,2008,Gold,CMR,Cameroon,Francoise MBANGO ETONE,2008 Beijing,Athletics,Women's,triple jump
+Summer,2008,Silver,KAZ,Kazakhstan,Olga Rypakova,2008 Beijing,Athletics,Women's,triple jump
+Summer,2008,Bronze,CUB,Cuba,Yargelis Savigne,2008 Beijing,Athletics,Women's,triple jump
+Summer,2008,Gold,BEL,Belgium,Tia HELLEBAUT,2008 Beijing,Athletics,Women's,high jump
+Summer,2008,Silver,CRO,Croatia,Blanka VLASIC,2008 Beijing,Athletics,Women's,high jump
+Summer,2008,Bronze,USA,United States,Chaunte Howard,2008 Beijing,Athletics,Women's,high jump
+Summer,2008,Gold,RUS,Russian Federation,Yelena ISINBAEVA,2008 Beijing,Athletics,Women's,pole vault
+Summer,2008,Silver,USA,United States,Jennifer STUCZYNSKI,2008 Beijing,Athletics,Women's,pole vault
+Summer,2008,Bronze,RUS,Russian Federation,Svetlana FEOFANOVA,2008 Beijing,Athletics,Women's,pole vault
+Summer,2008,Gold,NZL,New Zealand,Valerie ADAMS,2008 Beijing,Athletics,Women's,shot put
+Summer,2008,Silver,CUB,Cuba,Misleydis Gonzalez,2008 Beijing,Athletics,Women's,shot put
+Summer,2008,Bronze,CHN,China,Gong Lijiao,2008 Beijing,Athletics,Women's,shot put
+Summer,2008,Gold,USA,United States,Stephanie BROWN TRAFTON,2008 Beijing,Athletics,Women's,discus throw
+Summer,2008,Silver,UKR,Ukraine,Olena ANTONOVA,2008 Beijing,Athletics,Women's,discus throw
+Summer,2008,Bronze,CHN,China,Song AIMIN,2008 Beijing,Athletics,Women's,discus throw
+Summer,2008,Gold,CZE,Czech Republic,Barbora SPOTAKOVA,2008 Beijing,Athletics,Women's,javelin throw
+Summer,2008,Silver,GER,Germany,Christina OBERGFOELL,2008 Beijing,Athletics,Women's,javelin throw
+Summer,2008,Bronze,GBR,Great Britain,Goldie Sayers,2008 Beijing,Athletics,Women's,javelin throw
+Summer,2008,Gold,CUB,Cuba,Yipsi MORENO,2008 Beijing,Athletics,Women's,hammer throw
+Summer,2008,Silver,CHN,China,Wenxiu ZHANG,2008 Beijing,Athletics,Women's,hammer throw
+Summer,2008,Bronze,FRA,France,Manuela Montebrun,2008 Beijing,Athletics,Women's,hammer throw
+Summer,2008,Gold,UKR,Ukraine,Natallia DOBRYNSKA,2008 Beijing,Athletics,Women's,heptathlon
+Summer,2008,Silver,USA,United States,Hyleas FOUNTAIN,2008 Beijing,Athletics,Women's,heptathlon
+Summer,2008,Bronze,GBR,Great Britain,Kelly Sotherton,2008 Beijing,Athletics,Women's,heptathlon
+Summer,2008,Gold,CHN,China,Dan LIN,2008 Beijing,Badminton,Men's,singles
+Summer,2008,Silver,MAS,Malaysia,Chong Wei LEE,2008 Beijing,Badminton,Men's,singles
+Summer,2008,Bronze,CHN,China,Jin CHEN,2008 Beijing,Badminton,Men's,singles
+Summer,2008,Gold,INA,Indonesia,"Markis KIDO, Hendra SETIAWAN",2008 Beijing,Badminton,Men's,doubles
+Summer,2008,Silver,CHN,China,"Haifeng FU, Yun CAI",2008 Beijing,Badminton,Men's,doubles
+Summer,2008,Bronze,KOR,Korea Republic,"Jaejin LEE, Jiman HWANG",2008 Beijing,Badminton,Men's,doubles
+Summer,2008,Gold,CHN,China,Ning ZHANG,2008 Beijing,Badminton,Women's,singles
+Summer,2008,Silver,CHN,China,Xingfang XIE,2008 Beijing,Badminton,Women's,singles
+Summer,2008,Bronze,INA,Indonesia,Maria Kristin YULIANTI,2008 Beijing,Badminton,Women's,singles
+Summer,2008,Gold,CHN,China,"Yang YU, Jing DU",2008 Beijing,Badminton,Women's,doubles
+Summer,2008,Silver,KOR,Korea Republic,"Hyo Jung LEE, Kyung-Won LEE",2008 Beijing,Badminton,Women's,doubles
+Summer,2008,Bronze,CHN,China,"Yawen ZHANG, Yili WEI",2008 Beijing,Badminton,Women's,doubles
+Summer,2008,Gold,KOR,Korea Republic,"Yong Dae LEE, Hyo Jung LEE",2008 Beijing,Badminton,Mixed,doubles
+Summer,2008,Silver,INA,Indonesia,"Nova WIDIANTO, Liliyana NATSIR",2008 Beijing,Badminton,Mixed,doubles
+Summer,2008,Bronze,CHN,China,"Yang YU, Hanbin HE",2008 Beijing,Badminton,Mixed,doubles
+Summer,2008,Gold,USA,United States,"Dwyane WADE, Chris BOSH, Chris PAUL, Jason KIDD, Lebron JAMES, Carmelo ANTHONY, Carlos BOOZER, Kobe BRYANT, Deron WILLIAMS, Tayshaun PRINCE, Dwight HOWARD II, Michael REDD",2008 Beijing,Basketball,Men's,basketball
+Summer,2008,Silver,ESP,Spain,"Raul LOPEZ, Juan-Carlos NAVARRO, Felipe REYES, Alex MUMBRU, Marc GASOL, Carlos JIMÉNEZ, Rudy FERNANDEZ, Jose Manuel CALDERON, Pau GASOL, Jorge GARBAJOSA, Ricard RUBIO VIVES, Berni RODRIGUEZ",2008 Beijing,Basketball,Men's,basketball
+Summer,2008,Bronze,ARG,Argentina,"Juan Pedro GUTIERREZ LLANAS, Antonio Alejandro PORTA PERNIGOTTI, Roman Javier GONZALEZ, Luis SCOLA, Carlos DELFINO, Pablo PRIGIONI, Andres Marcelo NOCIONI, Manu GINOBILI, Alfredo Paolo QUINTEROS, Fabricio OBERTO, Leonardo GUTIERREZ, Guillermo Federico KAMMERICHS",2008 Beijing,Basketball,Men's,basketball
+Summer,2008,Gold,USA,United States,"Sylvia FOWLES, Seimone AUGUSTUS, Delisha MILTON-JONES, Candace PARKER, Cappie PONDEXTER, Sue BIRD, Katie SMITH, Kara LAWSON, Diana TAURASI, Tamika CATCHINGS, Tina THOMPSON, Lisa LESLIE",2008 Beijing,Basketball,Women's,basketball
+Summer,2008,Silver,AUS,Australia,"Suzy BATKOVIC, Belinda SNELL, Rohanee COX, Jennifer SCREEN, Laura HODGES, Lauren JACKSON, Erin PHILLIPS, Hollie GRIMA, Penny TAYLOR, Kristi HARROWER, Tully BEVILAQUA, Emma RANDALL",2008 Beijing,Basketball,Women's,basketball
+Summer,2008,Bronze,RUS,Russian Federation,"Irina OSIPOVA, Irina SOKOLOVSKAYA, Maria STEPANOVA, Oxana RAKHMATULINA, Marina KARPUNINA, Marina KUZINA, Tatiana SHCHEGOLEVA, Svetlana ABROSIMOVA, Ekaterina LISINA, Ilona KORSTIN, Natalia VODOPYANOVA, Becky HAMMON",2008 Beijing,Basketball,Women's,basketball
+Summer,2008,Gold,USA,United States,"Philip DALHAUSSER, Todd ROGERS",2008 Beijing,Beach Volleyball,Men's,beach volleyball
+Summer,2008,Silver,BRA,Brazil,"Marcio ARAUJO, Fabio MAGALHAES",2008 Beijing,Beach Volleyball,Men's,beach volleyball
+Summer,2008,Bronze,BRA,Brazil,"Ricardo SANTOS, Emanuel REGO",2008 Beijing,Beach Volleyball,Men's,beach volleyball
+Summer,2008,Gold,USA,United States,"Kerri WALSH JENNINGS, Misty MAY",2008 Beijing,Beach Volleyball,Women's,beach volleyball
+Summer,2008,Silver,CHN,China,"Jie WANG, Jia TIAN",2008 Beijing,Beach Volleyball,Women's,beach volleyball
+Summer,2008,Bronze,CHN,China,"Xi ZHANG, Chen XUE",2008 Beijing,Beach Volleyball,Women's,beach volleyball
+Summer,2008,Gold,CHN,China,Shiming ZOU,2008 Beijing,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2008,Silver,MGL,Mongolia,Serdamba PUREVDORJ,2008 Beijing,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2008,Bronze,CUB,Cuba,Yampier HERNANDEZ G,2008 Beijing,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2008,Bronze,IRL,Ireland,Paddy BARNES,2008 Beijing,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2008,Gold,THA,Thailand,Somjit JONGJOHOR,2008 Beijing,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2008,Silver,CUB,Cuba,Andris LAFFITA HERNANDEZ,2008 Beijing,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2008,Bronze,ITA,Italy,Vincenzo PICARDI,2008 Beijing,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2008,Bronze,RUS,Russian Federation,Georgy BALAKSHIN,2008 Beijing,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2008,Gold,MGL,Mongolia,Badar-Uugan ENKHBAT,2008 Beijing,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2008,Silver,CUB,Cuba,Yankiel LEON ALARCON,2008 Beijing,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2008,Bronze,MRI,Mauritius,Bruno JULIE,2008 Beijing,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2008,Bronze,MDA,Moldova,Veaceslav GOJAN,2008 Beijing,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2008,Gold,UKR,Ukraine,Vasyl LOMACHENKO,2008 Beijing,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2008,Silver,FRA,France,Khedafi DJELKHIR,2008 Beijing,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2008,Bronze,AZE,Azerbaijan,Shahin IMRANOV,2008 Beijing,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2008,Bronze,TUR,Turkey,Yakup KILIC,2008 Beijing,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2008,Gold,RUS,Russian Federation,Alexey TISHCHENKO,2008 Beijing,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2008,Silver,FRA,France,Daouda SOW,2008 Beijing,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2008,Bronze,ARM,Armenia,Hrachik JAVAKHYAN,2008 Beijing,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2008,Bronze,CUB,Cuba,Yordenis UGAS,2008 Beijing,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2008,Gold,DOM,Dominican Republic,Felix DIAZ,2008 Beijing,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2008,Silver,THA,Thailand,Manus BOONJUMNONG,2008 Beijing,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2008,Bronze,CUB,Cuba,Roniel IGLESIAS SOTOLONGO,2008 Beijing,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2008,Bronze,FRA,France,Alexis VASTINE,2008 Beijing,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2008,Gold,KAZ,Kazakhstan,Bakhyt SARSEKBAYEV,2008 Beijing,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2008,Silver,CUB,Cuba,Carlos BANTEAUX SUAREZ,2008 Beijing,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2008,Bronze,CHN,China,Silamu HANATI,2008 Beijing,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2008,Bronze,KOR,Korea Republic,Jung Joo KIM,2008 Beijing,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2008,Gold,GBR,Great Britain,James DEGALE,2008 Beijing,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2008,Silver,CUB,Cuba,Emilio CORREA BAYEAUX,2008 Beijing,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2008,Bronze,IND,India,Vijender SINGH,2008 Beijing,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2008,Bronze,IRL,Ireland,Darren John SUTHERLAND,2008 Beijing,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2008,Gold,CHN,China,Xiaoping ZHANG,2008 Beijing,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2008,Silver,IRL,Ireland,Kenny EGAN,2008 Beijing,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2008,Bronze,GBR,Great Britain,Tony JEFFRIES,2008 Beijing,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2008,Bronze,KAZ,Kazakhstan,Yerkebulan SHYNALIYEV,2008 Beijing,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2008,Gold,RUS,Russian Federation,Rakhim CHAKHKIEV,2008 Beijing,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2008,Silver,ITA,Italy,Clemente RUSSO,2008 Beijing,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2008,Bronze,CUB,Cuba,Osmai ACOSTA DUARTE,2008 Beijing,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2008,Bronze,USA,United States,Deontay WILDER,2008 Beijing,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2008,Gold,ITA,Italy,Roberto CAMMARELLE,2008 Beijing,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2008,Silver,CHN,China,Zhilei ZHANG,2008 Beijing,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2008,Bronze,GBR,Great Britain,David PRICE,2008 Beijing,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2008,Bronze,UKR,Ukraine,Vyacheslav GLAZKOV,2008 Beijing,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2008,Gold,GER,Germany,Alexander GRIMM,2008 Beijing,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2008,Silver,FRA,France,Fabien LEFEVRE,2008 Beijing,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2008,Bronze,TOG,Togo,Benjamin BOUKPETI,2008 Beijing,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2008,Gold,SVK,Slovakia,Michal MARTIKAN,2008 Beijing,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2008,Silver,GBR,Great Britain,David FLORENCE,2008 Beijing,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2008,Bronze,AUS,Australia,Robin BELL,2008 Beijing,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2008,Gold,SVK,Slovakia,"Pavol HOCHSCHORNER, Peter HOCHSCHORNER",2008 Beijing,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2008,Silver,CZE,Czech Republic,"Ondrej STEPANEK, Jaroslav VOLF",2008 Beijing,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2008,Bronze,RUS,Russian Federation,"Dmitry LARIONOV, Mikhail KUZNETSOV",2008 Beijing,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2008,Gold,SVK,Slovakia,Elena KALISKA,2008 Beijing,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2008,Silver,AUS,Australia,Jacqueline LAWRENCE,2008 Beijing,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2008,Bronze,AUT,Austria,Violetta OBLINGER-PETERS,2008 Beijing,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2008,Gold,AUS,Australia,Ken WALLACE,2008 Beijing,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2008,Silver,CAN,Canada,Adam VAN KOEVERDEN,2008 Beijing,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2008,Bronze,GBR,Great Britain,Tim BRABANTS,2008 Beijing,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2008,Gold,GBR,Great Britain,Tim BRABANTS,2008 Beijing,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2008,Silver,NOR,Norway,Eirik Veraas LARSEN,2008 Beijing,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2008,Bronze,AUS,Australia,Ken WALLACE,2008 Beijing,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2008,Gold,ESP,Spain,"Saul CRAVIOTTO RIVERO, Carlos PEREZ RIAL",2008 Beijing,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2008,Silver,GER,Germany,"Tim WIESKÖTTER, Ronald RAUHE",2008 Beijing,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2008,Bronze,BLR,Belarus,"Vadzim MAKHNEU, Raman PIATRUSHENKA",2008 Beijing,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2008,Gold,GER,Germany,"Andreas IHLE, Martin HOLLSTEIN",2008 Beijing,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2008,Silver,DEN,Denmark,"Kim Wraae KNUDSEN, Rene Holten POULSEN",2008 Beijing,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2008,Bronze,ITA,Italy,"Antonio Massimiliano SCADUTO, Andrea FACCHIN",2008 Beijing,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2008,Gold,BLR,Belarus,"Aliaksei ABALMASAU, Vadzim MAKHNEU, Raman PIATRUSHENKA, Artur LITVINCHUK",2008 Beijing,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2008,Silver,SVK,Slovakia,"Erik VLCEK, Michal RISZDORFER, Richard RISZDORFER, Juraj TARR",2008 Beijing,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2008,Bronze,GER,Germany,"Norman BROCKL, Lutz ALTEPOST, Torsten ECKBRETT, Bjoern GOLDSCHMIDT",2008 Beijing,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2008,Gold,RUS,Russian Federation,Maksim OPALEV,2008 Beijing,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2008,Silver,ESP,Spain,David CAL,2008 Beijing,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2008,Bronze,UKR,Ukraine,Yuriy CHEBAN,2008 Beijing,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2008,Gold,HUN,Hungary,Attila Sandor VAJDA,2008 Beijing,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2008,Silver,ESP,Spain,David CAL,2008 Beijing,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2008,Bronze,CAN,Canada,Thomas HALL,2008 Beijing,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2008,Gold,CHN,China,"Wenjun YANG, Guanliang MENG",2008 Beijing,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2008,Silver,RUS,Russian Federation,"Sergey ULEGIN, Alexander KOSTOGLOD",2008 Beijing,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2008,Bronze,GER,Germany,"Christian GILLE, Tomasz WYLENZEK",2008 Beijing,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2008,Gold,BLR,Belarus,"Aliaksandr BAHDANOVICH, Andrei BAHDANOVICH",2008 Beijing,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2008,Silver,GER,Germany,"Christian GILLE, Tomasz WYLENZEK",2008 Beijing,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2008,Bronze,HUN,Hungary,"Tamas KISS, Gyorgy KOZMANN",2008 Beijing,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2008,Gold,UKR,Ukraine,Inna OSYPENKO,2008 Beijing,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2008,Silver,ITA,Italy,Josefa IDEM,2008 Beijing,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2008,Bronze,GER,Germany,Katrin WAGNER-AUGUSTIN,2008 Beijing,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2008,Gold,HUN,Hungary,"Natasa JANIC, Katalin KOVACS",2008 Beijing,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2008,Silver,POL,Poland,"Beata MIKOLAJCZYK, Aneta PASTUSZKA",2008 Beijing,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2008,Bronze,FRA,France,"Anne-Laure VIARD, Marie DELATTRE-DEMORY",2008 Beijing,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2008,Gold,GER,Germany,"Nicole REINHARDT, Fanny FISCHER, Conny WASSMUTH, Katrin WAGNER-AUGUSTIN",2008 Beijing,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2008,Silver,HUN,Hungary,"Danuta KOZAK, Natasa JANIC, Katalin KOVACS, Gabriella Timea SZABO",2008 Beijing,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2008,Bronze,AUS,Australia,"Lisa OLDENHOF, Lyndsie FOGARTY, Chantal MEEK, Hannah DAVIS",2008 Beijing,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2008,Gold,LAT,Latvia,Maris STROMBERGS,2008 Beijing,Cycling BMX Racing,Men's,racing individual
+Summer,2008,Silver,USA,United States,Mike DAY,2008 Beijing,Cycling BMX Racing,Men's,racing individual
+Summer,2008,Bronze,USA,United States,Donny ROBINSON,2008 Beijing,Cycling BMX Racing,Men's,racing individual
+Summer,2008,Gold,FRA,France,Anne-Caroline CHAUSSON,2008 Beijing,Cycling BMX Racing,Women's,racing individual
+Summer,2008,Silver,FRA,France,Laetitia LE CORGUILLE,2008 Beijing,Cycling BMX Racing,Women's,racing individual
+Summer,2008,Bronze,USA,United States,Jill KINTNER,2008 Beijing,Cycling BMX Racing,Women's,racing individual
+Summer,2008,Gold,FRA,France,Julien ABSALON,2008 Beijing,Cycling Mountain Bike,Men's,cross-country
+Summer,2008,Silver,FRA,France,Jean-Christophe PERAUD,2008 Beijing,Cycling Mountain Bike,Men's,cross-country
+Summer,2008,Bronze,SUI,Switzerland,Nino SCHURTER,2008 Beijing,Cycling Mountain Bike,Men's,cross-country
+Summer,2008,Gold,GER,Germany,Sabine SPITZ,2008 Beijing,Cycling Mountain Bike,Women's,cross-country
+Summer,2008,Silver,POL,Poland,Maja WLOSZCZOWSKA,2008 Beijing,Cycling Mountain Bike,Women's,cross-country
+Summer,2008,Bronze,RUS,Russian Federation,Irina KALENTIEVA,2008 Beijing,Cycling Mountain Bike,Women's,cross-country
+Summer,2008,Gold,ESP,Spain,Samuel SANCHEZ GONZALEZ,2008 Beijing,Cycling Road,Men's,individual road race
+Summer,2008,Silver,SUI,Switzerland,Fabian CANCELLARA,2008 Beijing,Cycling Road,Men's,individual road race
+Summer,2008,Bronze,RUS,Russian Federation,Alexandr KOLOBNEV,2008 Beijing,Cycling Road,Men's,individual road race
+Summer,2008,Gold,SUI,Switzerland,Fabian CANCELLARA,2008 Beijing,Cycling Road,Men's,individual time trial
+Summer,2008,Silver,SWE,Sweden,Gustav LARSSON,2008 Beijing,Cycling Road,Men's,individual time trial
+Summer,2008,Bronze,USA,United States,Levi LEIPHEIMER,2008 Beijing,Cycling Road,Men's,individual time trial
+Summer,2008,Gold,GBR,Great Britain,Nicole COOKE,2008 Beijing,Cycling Road,Women's,individual road race
+Summer,2008,Silver,SWE,Sweden,Emma JOHANSSON,2008 Beijing,Cycling Road,Women's,individual road race
+Summer,2008,Bronze,ITA,Italy,Tatiana GUDERZO,2008 Beijing,Cycling Road,Women's,individual road race
+Summer,2008,Gold,USA,United States,Kristin ARMSTRONG,2008 Beijing,Cycling Road,Women's,individual time trial
+Summer,2008,Silver,GBR,Great Britain,Emma POOLEY,2008 Beijing,Cycling Road,Women's,individual time trial
+Summer,2008,Bronze,SUI,Switzerland,Karin THURIG,2008 Beijing,Cycling Road,Women's,individual time trial
+Summer,2008,Gold,GBR,Great Britain,Chris HOY,2008 Beijing,Cycling Track,Men's,sprint individual
+Summer,2008,Silver,GBR,Great Britain,Jason KENNY,2008 Beijing,Cycling Track,Men's,sprint individual
+Summer,2008,Bronze,FRA,France,Mickael BOURGAIN,2008 Beijing,Cycling Track,Men's,sprint individual
+Summer,2008,Gold,GBR,Great Britain,Bradley WIGGINS,2008 Beijing,Cycling Track,Men's,individual pursuit
+Summer,2008,Silver,NZL,New Zealand,Hayden ROULSTON,2008 Beijing,Cycling Track,Men's,individual pursuit
+Summer,2008,Bronze,GBR,Great Britain,Steven BURKE,2008 Beijing,Cycling Track,Men's,individual pursuit
+Summer,2008,Gold,ESP,Spain,Joan LLANERAS,2008 Beijing,Cycling Track,Men's,points race
+Summer,2008,Silver,GER,Germany,Roger KLUGE,2008 Beijing,Cycling Track,Men's,points race
+Summer,2008,Bronze,GBR,Great Britain,Chris NEWTON,2008 Beijing,Cycling Track,Men's,points race
+Summer,2008,Gold,GBR,Great Britain,"Geraint THOMAS, Bradley WIGGINS, Paul MANNING, Ed CLANCY",2008 Beijing,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2008,Silver,DEN,Denmark,"Casper JOERGENSEN, Alex RASMUSSEN, Michael MOERKOEV, Jens-Erik MADSEN",2008 Beijing,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2008,Bronze,NZL,New Zealand,"Hayden ROULSTON, Sam BEWLEY, Jesse SERGENT, Marc RYAN",2008 Beijing,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2008,Gold,GBR,Great Britain,"Jason KENNY, Chris HOY, Jamie STAFF",2008 Beijing,Cycling Track,Men's,Team Sprint
+Summer,2008,Silver,FRA,France,"Gregory BAUGE, Kevin SIREAU, Arnaud TOURNANT",2008 Beijing,Cycling Track,Men's,Team Sprint
+Summer,2008,Bronze,GER,Germany,"Stefan NIMKE, Rene ENDERS, Maximilian LEVY",2008 Beijing,Cycling Track,Men's,Team Sprint
+Summer,2008,Gold,ARG,Argentina,"Walter Fernando PEREZ, Juan CURUCHET",2008 Beijing,Cycling Track,Men's,Madison
+Summer,2008,Silver,ESP,Spain,"Antonio TAULER, Joan LLANERAS",2008 Beijing,Cycling Track,Men's,Madison
+Summer,2008,Bronze,RUS,Russian Federation,"Alexei MARKOV, Mikhail IGNATYEV",2008 Beijing,Cycling Track,Men's,Madison
+Summer,2008,Gold,GBR,Great Britain,Chris HOY,2008 Beijing,Cycling Track,Men's,Keirin
+Summer,2008,Silver,GBR,Great Britain,Ross EDGAR,2008 Beijing,Cycling Track,Men's,Keirin
+Summer,2008,Bronze,JPN,Japan,Kiyofumi NAGAI,2008 Beijing,Cycling Track,Men's,Keirin
+Summer,2008,Gold,GBR,Great Britain,Victoria PENDLETON,2008 Beijing,Cycling Track,Women's,sprint individual
+Summer,2008,Silver,AUS,Australia,Anna MEARES,2008 Beijing,Cycling Track,Women's,sprint individual
+Summer,2008,Bronze,CHN,China,Shuang GUO,2008 Beijing,Cycling Track,Women's,sprint individual
+Summer,2008,Gold,GBR,Great Britain,Rebecca ROMERO,2008 Beijing,Cycling Track,Women's,individual pursuit
+Summer,2008,Silver,GBR,Great Britain,Wendy HOUVENAGHEL,2008 Beijing,Cycling Track,Women's,individual pursuit
+Summer,2008,Bronze,UKR,Ukraine,Lesya KALITOVSKA,2008 Beijing,Cycling Track,Women's,individual pursuit
+Summer,2008,Gold,NED,Netherlands,Marianne VOS,2008 Beijing,Cycling Track,Women's,points race
+Summer,2008,Silver,CUB,Cuba,Yoanka GONZÁLEZ,2008 Beijing,Cycling Track,Women's,points race
+Summer,2008,Bronze,ESP,Spain,Leire OLABERRIA,2008 Beijing,Cycling Track,Women's,points race
+Summer,2008,Gold,CHN,China,Chong HE,2008 Beijing,Diving,Men's,3m springboard
+Summer,2008,Silver,CAN,Canada,Alexandre DESPATIE,2008 Beijing,Diving,Men's,3m springboard
+Summer,2008,Bronze,CHN,China,Kai QIN,2008 Beijing,Diving,Men's,3m springboard
+Summer,2008,Gold,AUS,Australia,Matthew MITCHAM,2008 Beijing,Diving,Men's,10m platform
+Summer,2008,Silver,CHN,China,Luxin ZHOU,2008 Beijing,Diving,Men's,10m platform
+Summer,2008,Bronze,RUS,Russian Federation,Gleb GALPERIN,2008 Beijing,Diving,Men's,10m platform
+Summer,2008,Gold,CHN,China,"Feng WANG, Kai QIN",2008 Beijing,Diving,Men's,synchronized diving 3m springboard
+Summer,2008,Silver,RUS,Russian Federation,"Dmitry SAUTIN, Yuriy KUNAKOV",2008 Beijing,Diving,Men's,synchronized diving 3m springboard
+Summer,2008,Bronze,UKR,Ukraine,"Illya KVASHA, Oleksiy PRYGOROV",2008 Beijing,Diving,Men's,synchronized diving 3m springboard
+Summer,2008,Gold,CHN,China,"Yue LIN, Liang HUO",2008 Beijing,Diving,Men's,synchronized diving 10m platform
+Summer,2008,Silver,GER,Germany,"Patrick HAUSDING, Sascha KLEIN",2008 Beijing,Diving,Men's,synchronized diving 10m platform
+Summer,2008,Bronze,RUS,Russian Federation,"Gleb GALPERIN, Dmitriy DOBROSKOK",2008 Beijing,Diving,Men's,synchronized diving 10m platform
+Summer,2008,Gold,CHN,China,Jingjing GUO,2008 Beijing,Diving,Women's,3m springboard
+Summer,2008,Silver,RUS,Russian Federation,Ioulia PAKHALINA,2008 Beijing,Diving,Women's,3m springboard
+Summer,2008,Bronze,CHN,China,Minxia WU,2008 Beijing,Diving,Women's,3m springboard
+Summer,2008,Gold,CHN,China,Ruolin CHEN,2008 Beijing,Diving,Women's,10m platform
+Summer,2008,Silver,CAN,Canada,Emilie HEYMANS,2008 Beijing,Diving,Women's,10m platform
+Summer,2008,Bronze,CHN,China,Xin WANG,2008 Beijing,Diving,Women's,10m platform
+Summer,2008,Gold,CHN,China,"Minxia WU, Jingjing GUO",2008 Beijing,Diving,Women's,synchronized diving 3m springboard
+Summer,2008,Silver,RUS,Russian Federation,"Anastasia POZDNYAKOVA, Ioulia PAKHALINA",2008 Beijing,Diving,Women's,synchronized diving 3m springboard
+Summer,2008,Bronze,GER,Germany,"Ditte KOTZIAN, Heike FISCHER",2008 Beijing,Diving,Women's,synchronized diving 3m springboard
+Summer,2008,Gold,CHN,China,"Xin WANG, Ruolin CHEN",2008 Beijing,Diving,Women's,synchronized diving 10m platform
+Summer,2008,Silver,AUS,Australia,"Briony COLE, Melissa WU",2008 Beijing,Diving,Women's,synchronized diving 10m platform
+Summer,2008,Bronze,MEX,Mexico,"Tatiana ORTIZ, Paola ESPINOSA",2008 Beijing,Diving,Women's,synchronized diving 10m platform
+Summer,2008,Gold,NED,Netherlands,Anky VAN GRUNSVEN,2008 Beijing,Equestrian Dressage,Mixed,individual
+Summer,2008,Silver,GER,Germany,Isabell WERTH,2008 Beijing,Equestrian Dressage,Mixed,individual
+Summer,2008,Bronze,GER,Germany,Heike KEMMER,2008 Beijing,Equestrian Dressage,Mixed,individual
+Summer,2008,Gold,GER,Germany,"Heike KEMMER, Nadine CAPELLMANN, Isabell WERTH",2008 Beijing,Equestrian Dressage,Mixed,team
+Summer,2008,Silver,NED,Netherlands,"Anky VAN GRUNSVEN, Hans Peter MINDERHOUD, Imke SCHELLEKENS-BARTELS",2008 Beijing,Equestrian Dressage,Mixed,team
+Summer,2008,Bronze,DEN,Denmark,"Andreas HELGSTRAND, Nathalie ZU-SAYN WITTGENSTEIN, Anne VAN OLST",2008 Beijing,Equestrian Dressage,Mixed,team
+Summer,2008,Gold,GER,Germany,Hinrich ROMEIKE,2008 Beijing,Equestrian Eventing,Mixed,individual
+Summer,2008,Silver,USA,United States,Gina MILES,2008 Beijing,Equestrian Eventing,Mixed,individual
+Summer,2008,Bronze,GBR,Great Britain,Kristina COOK,2008 Beijing,Equestrian Eventing,Mixed,individual
+Summer,2008,Gold,GER,Germany,"Andreas DIBOWSKI, Peter THOMSEN, Ingrid KLIMKE, Frank OSTHOLT, Hinrich ROMEIKE",2008 Beijing,Equestrian Eventing,Mixed,team
+Summer,2008,Silver,AUS,Australia,"Sonja JOHNSON, Lucinda FREDERICKS, Clayton FREDERICKS, Shane ROSE, Megan JONES",2008 Beijing,Equestrian Eventing,Mixed,team
+Summer,2008,Bronze,GBR,Great Britain,"Sharon HUNT, Mary KING, Kristina COOK, William FOX-PITT, Daisy DICK",2008 Beijing,Equestrian Eventing,Mixed,team
+Summer,2008,Gold,CAN,Canada,Eric LAMAZE,2008 Beijing,Equestrian Jumping,Mixed,individual
+Summer,2008,Silver,SWE,Sweden,Rolf-Göran BENGTSSON,2008 Beijing,Equestrian Jumping,Mixed,individual
+Summer,2008,Bronze,USA,United States,Beezie MADDEN,2008 Beijing,Equestrian Jumping,Mixed,individual
+Summer,2008,Gold,USA,United States,"Mclain WARD, Beezie MADDEN, Will SIMPSON, Laura KRAUT",2008 Beijing,Equestrian Jumping,Mixed,team
+Summer,2008,Silver,CAN,Canada,"Jill HENSELWOOD, Ian MILLAR, Malcolm CONE, Eric LAMAZE",2008 Beijing,Equestrian Jumping,Mixed,team
+Summer,2008,Bronze,SUI,Switzerland,"Steve GUERDAT, Pius SCHWIZER, Niklaus SCHURTENBERGER, Christina LIEBHERR",2008 Beijing,Equestrian Jumping,Mixed,team
+Summer,2008,Gold,CHN,China,Man ZHONG,2008 Beijing,Fencing,Men's,sabre individual
+Summer,2008,Silver,FRA,France,Nicolas LOPEZ,2008 Beijing,Fencing,Men's,sabre individual
+Summer,2008,Bronze,ROU,Romania,Mihai COVALIU,2008 Beijing,Fencing,Men's,sabre individual
+Summer,2008,Gold,ITA,Italy,Matteo TAGLIARIOL,2008 Beijing,Fencing,Men's,épée individual
+Summer,2008,Silver,FRA,France,Fabrice JEANNET,2008 Beijing,Fencing,Men's,épée individual
+Summer,2008,Bronze,ESP,Spain,Jose Luis ABAJO,2008 Beijing,Fencing,Men's,épée individual
+Summer,2008,Gold,GER,Germany,Benjamin KLEIBRINK,2008 Beijing,Fencing,Men's,foil individual
+Summer,2008,Silver,JPN,Japan,Yuki OTA,2008 Beijing,Fencing,Men's,foil individual
+Summer,2008,Bronze,ITA,Italy,Salvatore SANZO,2008 Beijing,Fencing,Men's,foil individual
+Summer,2008,Gold,FRA,France,"Nicolas LOPEZ, Julien PILLET, Boris SANSON",2008 Beijing,Fencing,Men's,sabre team
+Summer,2008,Silver,USA,United States,"Jason ROGERS, Keeth SMART, Timothy MOREHOUSE, James WILLIAMS",2008 Beijing,Fencing,Men's,sabre team
+Summer,2008,Bronze,ITA,Italy,"Aldo MONTANO, Luigi TARANTINO, Giampiero PASTORE, Diego OCCHIUZZI",2008 Beijing,Fencing,Men's,sabre team
+Summer,2008,Gold,FRA,France,"Fabrice JEANNET, Ulrich ROBEIRI, Jerome JEANNET",2008 Beijing,Fencing,Men's,épée team
+Summer,2008,Silver,POL,Poland,"Radoslaw ZAWROTNIAK, Tomasz MOTYKA, Robert ANDRZEJUK, Adam WIERCIOCH",2008 Beijing,Fencing,Men's,épée team
+Summer,2008,Bronze,ITA,Italy,"Diego CONFALONIERI, Matteo TAGLIARIOL, Stefano CAROZZO, Alfredo ROTA",2008 Beijing,Fencing,Men's,épée team
+Summer,2008,Gold,USA,United States,Mariel ZAGUNIS,2008 Beijing,Fencing,Women's,sabre individual
+Summer,2008,Silver,USA,United States,Sada JACOBSON,2008 Beijing,Fencing,Women's,sabre individual
+Summer,2008,Bronze,USA,United States,Becca WARD,2008 Beijing,Fencing,Women's,sabre individual
+Summer,2008,Gold,GER,Germany,Britta HEIDEMANN,2008 Beijing,Fencing,Women's,épée individual
+Summer,2008,Silver,ROU,Romania,Ana Maria BRANZA,2008 Beijing,Fencing,Women's,épée individual
+Summer,2008,Bronze,HUN,Hungary,Ildikó MINCZA,2008 Beijing,Fencing,Women's,épée individual
+Summer,2008,Gold,ITA,Italy,Valentina VEZZALI,2008 Beijing,Fencing,Women's,foil individual
+Summer,2008,Silver,KOR,Korea Republic,Hyunhee NAM,2008 Beijing,Fencing,Women's,foil individual
+Summer,2008,Bronze,ITA,Italy,Margherita GRANBASSI,2008 Beijing,Fencing,Women's,foil individual
+Summer,2008,Gold,UKR,Ukraine,"Olha ZHOVNIR, Galyna PUNDYK, Olga KHARLAN, Olena KHOMROVA",2008 Beijing,Fencing,Women's,sabre team
+Summer,2008,Silver,CHN,China,"Hong NI, Yingying BAO, Haiyang HUANG, Xue TAN",2008 Beijing,Fencing,Women's,sabre team
+Summer,2008,Bronze,USA,United States,"Mariel ZAGUNIS, Becca WARD, Sada JACOBSON",2008 Beijing,Fencing,Women's,sabre team
+Summer,2008,Gold,RUS,Russian Federation,"Svetlana BOIKO, Evgeniya LAMONOVA, Victoria NIKISHINA, Aida SHANAEVA",2008 Beijing,Fencing,Women's,foil team
+Summer,2008,Silver,USA,United States,"Erinn SMART, Hanna THOMPSON, Emily CROSS",2008 Beijing,Fencing,Women's,foil team
+Summer,2008,Bronze,ITA,Italy,"Giovanna TRILLINI, Ilaria SALVATORI, Valentina VEZZALI, Margherita GRANBASSI",2008 Beijing,Fencing,Women's,foil team
+Summer,2008,Gold,ARG,Argentina,"Luciano MONZON, Ever BANEGA, Juan RIQUELME, Sergio ROMERO, Federico FAZIO, Angel DI MARIA, Ezequiel GARAY, Nicolas NAVARRO, Diego BUONANOTTE, Sergio AGUERO, Javier MASCHERANO, Pablo ZABALETA, Lautaro ACOSTA, Nicolas PAREJA, Jose SOSA, Ezequiel LAVEZZI, Lionel MESSI, Fernando GAGO",2008 Beijing,Football,Men's,football
+Summer,2008,Silver,NGR,Nigeria,"Ikechukwu EZENWA, Emmanuel EKPO, Monday JAMES, Peter ODEMWINGIE, Promise ISAAC, Chibuzor OKONKWO, Olubayo ADEFEMI, Victor ANICHEBE, Efe AMBROSE, Oladapo OLUFEMI, Solomon OKORONKWO, Onyekachi APAM, Dele ADELEYE, Sani KAITA, Ebenezer AJILORE, Ambruse VANZEKIN, Victor OBINNA, Chinedu OGBUKE OBASI",2008 Beijing,Football,Men's,football
+Summer,2008,Bronze,BRA,Brazil,"RONALDINHO, Thiago SILVA, BRENO, JO, RAMIRES, RAFAEL SOBIS, Alexandre PATO, DIEGO, RAFINHA, ALEX SILVA, RENAN, THIAGO NEVES, ILSINHO, ANDERSON, HERNANES, LUCAS",2008 Beijing,Football,Men's,football
+Summer,2008,Gold,USA,United States,"Lindsay TARPLEY, Tobin HEATH, Shannon BOXX, Heather MITTS, Angela HUCLES, Aly WAGNER, Carli LLOYD, Kate SOBRERO, Hope SOLO, Amy RODRIGUEZ, Christie PEARCE, Lauren CHENEY, Heather O REILLY, Lori CHALUPNY, Nicole BARNHART, Rachel BUEHLER, Stephanie COX, Natasha KAI",2008 Beijing,Football,Women's,football
+Summer,2008,Silver,BRA,Brazil,"Francielle MANOEL ALBERTO, BARBARA, ESTER, TANIA, FORMIGA, ANDREIA ROSA, Marta VIEIRA DA SILVA, Maurine DORNELES GONCALVES, PRETINHA, DANIELA, ERIKA, Cristiane ROZEIRA DE SOUZA SILVA, ROSANA, Andreia SUNTAQUE, FABIANA, Costa RENATA COSTA, SIMONE",2008 Beijing,Football,Women's,football
+Summer,2008,Bronze,GER,Germany,"Birgit PRINZ, Sandra SMISEK, Ursula HOLL, Annike KRAHN, Kerstin STEGEMANN, Ariane HINGST, Nadine ANGERER, Melanie BEHRINGER, Anja MITTAG, Fatmire BAJRAMAJ, Linda BRESONIK, Conny POHLERS, Babett PETER, Renate LINGOR, Celia OKOYINO DA MBABI, Kerstin GAREFREKES, Saskia BARTUSIAK, Simone LAUDEHR",2008 Beijing,Football,Women's,football
+Summer,2008,Gold,CHN,China,"Yibing CHEN, Qin XIAO, Kai ZOU, Wei YANG, Xu HUANG, Xiaopeng LI",2008 Beijing,Gymnastics Artistic,Men's,team competition
+Summer,2008,Silver,JPN,Japan,"Makoto OKIGUCHI, Takuya NAKASE, Koki SAKAMOTO, Hiroyuki TOMITA, Kohei UCHIMURA, Takehiro KASHIMA",2008 Beijing,Gymnastics Artistic,Men's,team competition
+Summer,2008,Bronze,USA,United States,"Kai Wen TAN, Justin SPRING, Joey HAGERTY, Raj BHAVSAR, Jonathan HORTON, Alexander ARTEMEV",2008 Beijing,Gymnastics Artistic,Men's,team competition
+Summer,2008,Gold,CHN,China,Wei YANG,2008 Beijing,Gymnastics Artistic,Men's,individual all-round
+Summer,2008,Silver,JPN,Japan,Kohei UCHIMURA,2008 Beijing,Gymnastics Artistic,Men's,individual all-round
+Summer,2008,Bronze,FRA,France,Benoit CARANOBE,2008 Beijing,Gymnastics Artistic,Men's,individual all-round
+Summer,2008,Gold,CHN,China,Kai ZOU,2008 Beijing,Gymnastics Artistic,Men's,floor exercises
+Summer,2008,Silver,ESP,Spain,Gervasio DEFERR,2008 Beijing,Gymnastics Artistic,Men's,floor exercises
+Summer,2008,Bronze,RUS,Russian Federation,Anton GOLOTSUTSKOV,2008 Beijing,Gymnastics Artistic,Men's,floor exercises
+Summer,2008,Gold,CHN,China,Xiaopeng LI,2008 Beijing,Gymnastics Artistic,Men's,parallel bars
+Summer,2008,Silver,KOR,Korea Republic,Wonchul YOO,2008 Beijing,Gymnastics Artistic,Men's,parallel bars
+Summer,2008,Bronze,UZB,Uzbekistan,Anton FOKIN,2008 Beijing,Gymnastics Artistic,Men's,parallel bars
+Summer,2008,Gold,POL,Poland,Leszek BLANIK,2008 Beijing,Gymnastics Artistic,Men's,vault
+Summer,2008,Silver,FRA,France,Thomas BOUHAIL,2008 Beijing,Gymnastics Artistic,Men's,vault
+Summer,2008,Bronze,RUS,Russian Federation,Anton GOLOTSUTSKOV,2008 Beijing,Gymnastics Artistic,Men's,vault
+Summer,2008,Gold,CHN,China,Yibing CHEN,2008 Beijing,Gymnastics Artistic,Men's,rings
+Summer,2008,Silver,CHN,China,Wei YANG,2008 Beijing,Gymnastics Artistic,Men's,rings
+Summer,2008,Bronze,UKR,Ukraine,Oleksandr VOROBIOV,2008 Beijing,Gymnastics Artistic,Men's,rings
+Summer,2008,Gold,CHN,China,Qin XIAO,2008 Beijing,Gymnastics Artistic,Men's,pommel horse
+Summer,2008,Silver,CRO,Croatia,Filip UDE,2008 Beijing,Gymnastics Artistic,Men's,pommel horse
+Summer,2008,Bronze,GBR,Great Britain,Louis SMITH,2008 Beijing,Gymnastics Artistic,Men's,pommel horse
+Summer,2008,Gold,CHN,China,Kai ZOU,2008 Beijing,Gymnastics Artistic,Men's,horizontal bar
+Summer,2008,Silver,USA,United States,Jonathan HORTON,2008 Beijing,Gymnastics Artistic,Men's,horizontal bar
+Summer,2008,Bronze,GER,Germany,Fabian HAMBUECHEN,2008 Beijing,Gymnastics Artistic,Men's,horizontal bar
+Summer,2008,Gold,CHN,China,"Yuyuan JIANG, Linlin DENG, Yilin YANG, Shanshan LI, Kexin HE, Fei CHENG",2008 Beijing,Gymnastics Artistic,Women's,team competition
+Summer,2008,Silver,USA,United States,"Alicia SACRAMONE, Chellsie MEMMEL, Bridget SLOAN, Shawn JOHNSON, Samantha PESZEK, Anastasia LIUKIN",2008 Beijing,Gymnastics Artistic,Women's,team competition
+Summer,2008,Bronze,ROU,Romania,"Andreea ACATRINEI, Andreea GRIGORE, Gabriela DRAGOI, Sandra Raluca IZBASA, Anamaria TAMIRJAN, Steliana NISTOR",2008 Beijing,Gymnastics Artistic,Women's,team competition
+Summer,2008,Gold,USA,United States,Anastasia LIUKIN,2008 Beijing,Gymnastics Artistic,Women's,individual all-round
+Summer,2008,Silver,USA,United States,Shawn JOHNSON,2008 Beijing,Gymnastics Artistic,Women's,individual all-round
+Summer,2008,Bronze,CHN,China,Yilin YANG,2008 Beijing,Gymnastics Artistic,Women's,individual all-round
+Summer,2008,Gold,ROU,Romania,Sandra Raluca IZBASA,2008 Beijing,Gymnastics Artistic,Women's,floor exercises
+Summer,2008,Silver,USA,United States,Shawn JOHNSON,2008 Beijing,Gymnastics Artistic,Women's,floor exercises
+Summer,2008,Bronze,USA,United States,Anastasia LIUKIN,2008 Beijing,Gymnastics Artistic,Women's,floor exercises
+Summer,2008,Gold,CHN,China,Kexin HE,2008 Beijing,Gymnastics Artistic,Women's,uneven bars
+Summer,2008,Silver,USA,United States,Anastasia LIUKIN,2008 Beijing,Gymnastics Artistic,Women's,uneven bars
+Summer,2008,Bronze,CHN,China,Yilin YANG,2008 Beijing,Gymnastics Artistic,Women's,uneven bars
+Summer,2008,Gold,PRK,Korea DPR,Un Jong HONG,2008 Beijing,Gymnastics Artistic,Women's,vault
+Summer,2008,Silver,GER,Germany,Oxana CHUSOVITINA,2008 Beijing,Gymnastics Artistic,Women's,vault
+Summer,2008,Bronze,CHN,China,Fei CHENG,2008 Beijing,Gymnastics Artistic,Women's,vault
+Summer,2008,Gold,USA,United States,Shawn JOHNSON,2008 Beijing,Gymnastics Artistic,Women's,balance beam
+Summer,2008,Silver,USA,United States,Anastasia LIUKIN,2008 Beijing,Gymnastics Artistic,Women's,balance beam
+Summer,2008,Bronze,CHN,China,Fei CHENG,2008 Beijing,Gymnastics Artistic,Women's,balance beam
+Summer,2008,Gold,RUS,Russian Federation,"Natalia ZUEVA, Daria SHKURIKHINA, Anna GAVRILENKO, Margarita ALIYCHUK, Tatiana GORBUNOVA, Elena POSEVINA",2008 Beijing,Gymnastics Rhythmic,Women's,group competition
+Summer,2008,Silver,CHN,China,"Shuo ZHANG, Dan SUN, Tongtong CAI, Yuan-Yang LU, Tao CHOU, Jianshuang SUI",2008 Beijing,Gymnastics Rhythmic,Women's,group competition
+Summer,2008,Bronze,BLR,Belarus,"Zinaida LUNINA, Glafira MARTINOVICH, Anastasia IVANKOVA, Kseniya SANKOVICH, Olesya BABUSHKINA, Alina TUMILOVICH",2008 Beijing,Gymnastics Rhythmic,Women's,group competition
+Summer,2008,Gold,RUS,Russian Federation,Evgeniya KANAEVA,2008 Beijing,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2008,Silver,BLR,Belarus,Inna ZHUKOVA,2008 Beijing,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2008,Bronze,UKR,Ukraine,Anna BESSONOVA,2008 Beijing,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2008,Gold,FRA,France,"Cédric BURDET, Thierry OMEYER, Cedric PATY, Bertrand GILLE, Didier DINART, Nikola KARABATIC, Jerome FERNANDEZ, Guillaume GILLE, Daouda KARABOUE, Olivier GIRAULT, Luc ABALO, Joel ABATI, Michael GUIGOU, Daniel NARCISSE, Christophe KEMPE",2008 Beijing,Handball,Men's,handball
+Summer,2008,Silver,ISL,Iceland,"Arnor ATLASON, Alexander PETERSSON, Asgeir Orn HALLGRIMSSON, Olafur STEFANSSON, Gudjon Valur SIGURDSSON, Ingimundur INGIMUNDARSON, Sturla ASGEIRSSON, Sverre Andreas JAKOBSSON, Sigfus SIGURDSSON, Robert GUNNARSSON, Logi GEIRSSON, Hreidar Levy GUDMUNDSSON, Snorri Steinn GUDJONSSON, Bjorgvin Pall GUSTAVSSON",2008 Beijing,Handball,Men's,handball
+Summer,2008,Bronze,ESP,Spain,"Iker ROMERO FERNANDEZ, Alberto ENTRERRIOS RODRIGUEZ, Demetrio LOZANO, Albert ROCAS COMAS, Jon BELAUSTEGUI, Jose HOMBRADOS IBANEZ, Cristian MALMAGRO, David BARRUFET, Victor TOMAS GONZALEZ, Carlos PRIETO, Ruben GARABAYA ARENAS, Raul ENTRERRIOS RODRIGUEZ, David DAVIS, Juan GARCIA LORENZANA",2008 Beijing,Handball,Men's,handball
+Summer,2008,Gold,NOR,Norway,"Goeril SNORROEGGEN, Gro HAMMERSENG, Kari Mette JOHANSEN, Ragnhild AAMODT, Kristine LUNDE-BORGERSEN, Katrine Lunde HARALDSEN, Marit Malm FRAFJORD, Kari Aalvik GRIMSBOE, Tonje NOSTVOLD, Katja NYBERG, Linn-Kristin RIEGELHUTH, Tonje LARSEN, Karoline Dyhre BREIVANG, Else-Marthe SOERLIE",2008 Beijing,Handball,Women's,handball
+Summer,2008,Silver,RUS,Russian Federation,"Emiliya TUREY, Yana USKOVA, Ekaterina MARENNIKOVA, Maria SIDOROVA, Elena DMITRIEVA, Natalia SHIPILOVA, Inna SUSLINA, Oxana ROMENSKAYA, Irina BLIZNOVA, Liudmila POSTNOVA, Ekaterina ANDRYUSHINA, Irina POLTORATSKAYA, Anna KAREEVA, Elena POLENOVA",2008 Beijing,Handball,Women's,handball
+Summer,2008,Bronze,KOR,Korea Republic,"Junghwa AN, Hairim SONG, Chunghee PARK, Minhee BAE, Im Jeong CHOI, Pil Hee MOON, Yong Ran OH, Namsun KIM, Minhee LEE, Seong-Ok OH, Soon-Young HUH, Ona KIM, Jeong-Ho HONG, Cha Youn KIM",2008 Beijing,Handball,Women's,handball
+Summer,2008,Gold,GER,Germany,"Philipp ZELLER, Oliver KORN, Matthias WITTHAUS, Christopher ZELLER, Florian KELLER, Benjamin WESS, Niklas MEINERT, Carlos NEVADO, Philip WITTE, Maximillian MÜLLER, Jan-Marco MONTAG, Max WEINHOLD, Sebastian BIEDERLACK, Timo WESS, Tobias HAUKE, Tibor WEISSENBORN, Moritz FUERSTE",2008 Beijing,Hockey,Men's,hockey
+Summer,2008,Silver,ESP,Spain,"Xavier RIBAS, Alex FABREGAS, Eduard ARBOS, Eduard TUBAU, Roc OLIVA, Sergi ENRIQUE, Santiago FREIXA, David ALEGRE, Francisco FABREGAS, Albert SALA, Rodrigo GARZA, Francisco CORTES, Ramon ALEGRE, Juan FERNANDEZ, Victor SOJO, Pablo Pol AMAT",2008 Beijing,Hockey,Men's,hockey
+Summer,2008,Bronze,AUS,Australia,"Jamie DWYER, Luke DOERNER, Eli MATHESON, Stephen LAMBERT, Andrew SMITH, Matthew WELLS, Robert HAMMOND, Liam DE YOUNG, Travis BROOKS, Kiel BROWN, Edward OCKENDEN, Grant SCHUBERT, Des ABBOTT, David GUEST, Bevan GEORGE, Fergus KAVANAGH, Mark KNOWLES",2008 Beijing,Hockey,Men's,hockey
+Summer,2008,Gold,NED,Netherlands,"Naomi VAN AS, Janneke SCHOPMAN, Eefke MULDER, Minke BOOIJ, Maartje PAUMEN, Lidewij WELTEN, Sophie POLKAMP, Eva DE GOEDE, Ellen HOOG, Miek VAN GEENHUIZEN, Wieke DIJKSTRA, Lisanne DE ROEVER, Maartje GODERIE, Minke SMABERS, Marilyn AGLIOTTI, Fatima MOREIRA DE MELO",2008 Beijing,Hockey,Women's,hockey
+Summer,2008,Silver,CHN,China,"Qiuqi CHEN, Wanfeng ZHOU, Qingling SONG, Chunling TANG, Baorong FU, Ye REN, Hui CHENG, Fengzhen PAN, Yimeng ZHANG, Lihua GAO, Hongxia LI, Zhaoxia CHEN, Shuang LI, Junxia HUANG, Yibo MA, Yudiao ZHAO",2008 Beijing,Hockey,Women's,hockey
+Summer,2008,Bronze,ARG,Argentina,"Mariana ROSSI, Luciana AYMAR, Magdalena AICEGA, Noel BARRIONUEVO, Belen SUCCI, Giselle KANEVSKY, Rosario LUCHETTI, Alejandra GULLA, Marine RUSSO, Maria DE LA PAZ HERNÁNDEZ, Paola VUKOJICIC, Mercedes MARGALOT, Carla REBECCHI, Claudia BURKART, Mariana GONZALEZ OLIVA, Agustina Soledad GARCIA",2008 Beijing,Hockey,Women's,hockey
+Summer,2008,Gold,KOR,Korea Republic,Min Ho CHOI,2008 Beijing,Judo,Men's,- 60 kg
+Summer,2008,Silver,AUT,Austria,Ludwig PAISCHER,2008 Beijing,Judo,Men's,- 60 kg
+Summer,2008,Bronze,NED,Netherlands,Ruben HOUKES,2008 Beijing,Judo,Men's,- 60 kg
+Summer,2008,Bronze,UZB,Uzbekistan,Rishod SOBIROV,2008 Beijing,Judo,Men's,- 60 kg
+Summer,2008,Gold,JPN,Japan,Masato UCHISHIBA,2008 Beijing,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2008,Silver,FRA,France,Benjamin DARBELET,2008 Beijing,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2008,Bronze,CUB,Cuba,Yordanis ARENCIBIA,2008 Beijing,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2008,Bronze,PRK,Korea DPR,Chol Min PAK,2008 Beijing,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2008,Gold,AZE,Azerbaijan,Elnur MAMMADLI,2008 Beijing,Judo,Men's,66 - 73kg (lightweight)
+Summer,2008,Silver,KOR,Korea Republic,Kichun WANG,2008 Beijing,Judo,Men's,66 - 73kg (lightweight)
+Summer,2008,Bronze,BRA,Brazil,Leandro GUILHEIRO,2008 Beijing,Judo,Men's,66 - 73kg (lightweight)
+Summer,2008,Bronze,TJK,Tajikistan,Rasul BOQIEV,2008 Beijing,Judo,Men's,66 - 73kg (lightweight)
+Summer,2008,Gold,GER,Germany,Ole BISCHOF,2008 Beijing,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2008,Silver,KOR,Korea Republic,Jae-Bum KIM,2008 Beijing,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2008,Bronze,BRA,Brazil,Tiago CAMILO,2008 Beijing,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2008,Bronze,UKR,Ukraine,Roman GONTIUK,2008 Beijing,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2008,Gold,GEO,Georgia,Irakli TSIREKIDZE,2008 Beijing,Judo,Men's,81 - 90kg (middleweight)
+Summer,2008,Silver,ALG,Algeria,Amar BENIKHLEF,2008 Beijing,Judo,Men's,81 - 90kg (middleweight)
+Summer,2008,Bronze,EGY,Egypt,Hesham MISBAH,2008 Beijing,Judo,Men's,81 - 90kg (middleweight)
+Summer,2008,Bronze,SUI,Switzerland,Sergei ASCHWANDEN,2008 Beijing,Judo,Men's,81 - 90kg (middleweight)
+Summer,2008,Gold,MGL,Mongolia,Tuvshinbayar NAIDAN,2008 Beijing,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2008,Silver,KAZ,Kazakhstan,Askhat ZHITKEYEV,2008 Beijing,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2008,Bronze,AZE,Azerbaijan,Movlud MIRALIYEV,2008 Beijing,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2008,Bronze,NED,Netherlands,Henk GROL,2008 Beijing,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2008,Gold,JPN,Japan,Satoshi ISHII,2008 Beijing,Judo,Men's,+ 100kg (heavyweight)
+Summer,2008,Silver,UZB,Uzbekistan,Abdullo TANGRIEV,2008 Beijing,Judo,Men's,+ 100kg (heavyweight)
+Summer,2008,Bronze,CUB,Cuba,Oscar BRAYSON,2008 Beijing,Judo,Men's,+ 100kg (heavyweight)
+Summer,2008,Bronze,FRA,France,Teddy RINER,2008 Beijing,Judo,Men's,+ 100kg (heavyweight)
+Summer,2008,Gold,ROU,Romania,Alina DUMITRU,2008 Beijing,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2008,Silver,CUB,Cuba,Yanet BERMOY,2008 Beijing,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2008,Bronze,ARG,Argentina,Paula Belen PARETO,2008 Beijing,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2008,Bronze,JPN,Japan,Ryoko TAMURA,2008 Beijing,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2008,Gold,CHN,China,Dongmei XIAN,2008 Beijing,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2008,Silver,PRK,Korea DPR,Kum Ae AN,2008 Beijing,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2008,Bronze,ALG,Algeria,Soraya HADDAD,2008 Beijing,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2008,Bronze,JPN,Japan,Misato NAKAMURA,2008 Beijing,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2008,Gold,ITA,Italy,Giulia QUINTAVALLE,2008 Beijing,Judo,Women's,52 - 57kg (lightweight)
+Summer,2008,Silver,NED,Netherlands,Deborah GRAVENSTIJN,2008 Beijing,Judo,Women's,52 - 57kg (lightweight)
+Summer,2008,Bronze,BRA,Brazil,Ketleyn QUADROS,2008 Beijing,Judo,Women's,52 - 57kg (lightweight)
+Summer,2008,Bronze,CHN,China,Yan XU,2008 Beijing,Judo,Women's,52 - 57kg (lightweight)
+Summer,2008,Gold,JPN,Japan,Ayumi TANIMOTO,2008 Beijing,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2008,Silver,FRA,France,Lucie DECOSSE,2008 Beijing,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2008,Bronze,PRK,Korea DPR,Ok Im WON,2008 Beijing,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2008,Bronze,NED,Netherlands,Elisabeth WILLEBOORDSE,2008 Beijing,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2008,Gold,JPN,Japan,Masae UENO,2008 Beijing,Judo,Women's,63 - 70kg (middleweight)
+Summer,2008,Silver,CUB,Cuba,Anaysi HERNANDEZ,2008 Beijing,Judo,Women's,63 - 70kg (middleweight)
+Summer,2008,Bronze,NED,Netherlands,Edith BOSCH,2008 Beijing,Judo,Women's,63 - 70kg (middleweight)
+Summer,2008,Bronze,USA,United States,Ronda ROUSEY,2008 Beijing,Judo,Women's,63 - 70kg (middleweight)
+Summer,2008,Gold,CHN,China,Xiuli YANG,2008 Beijing,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2008,Silver,CUB,Cuba,Yalennis CASTILLO,2008 Beijing,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2008,Bronze,FRA,France,Stephanie POSSAMAI,2008 Beijing,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2008,Bronze,KOR,Korea Republic,Gyeong-Mi JEONG,2008 Beijing,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2008,Gold,CHN,China,Wen TONG,2008 Beijing,Judo,Women's,+ 78kg (heavyweight)
+Summer,2008,Silver,JPN,Japan,Maki TSUKADA,2008 Beijing,Judo,Women's,+ 78kg (heavyweight)
+Summer,2008,Bronze,CUB,Cuba,Idalys ORTIZ,2008 Beijing,Judo,Women's,+ 78kg (heavyweight)
+Summer,2008,Bronze,SLO,Slovenia,Lucija POLAVDER,2008 Beijing,Judo,Women's,+ 78kg (heavyweight)
+Summer,2008,Gold,NED,Netherlands,Maarten VAN DER WEIJDEN,2008 Beijing,Marathon swimming,Men's,marathon 10km
+Summer,2008,Silver,GBR,Great Britain,David DAVIES,2008 Beijing,Marathon swimming,Men's,marathon 10km
+Summer,2008,Bronze,GER,Germany,Thomas LURZ,2008 Beijing,Marathon swimming,Men's,marathon 10km
+Summer,2008,Gold,RUS,Russian Federation,Larisa ILCHENKO,2008 Beijing,Marathon swimming,Women's,marathon 10km
+Summer,2008,Silver,GBR,Great Britain,Keri-Anne PAYNE,2008 Beijing,Marathon swimming,Women's,marathon 10km
+Summer,2008,Bronze,GBR,Great Britain,Cassandra PATTEN,2008 Beijing,Marathon swimming,Women's,marathon 10km
+Summer,2008,Gold,RUS,Russian Federation,Andrey MOISEEV,2008 Beijing,Modern Pentathlon,Men's,individual competition
+Summer,2008,Silver,LTU,Lithuania,Edvinas KRUNGOLCAS,2008 Beijing,Modern Pentathlon,Men's,individual competition
+Summer,2008,Bronze,LTU,Lithuania,Andrejus ZADNEPROVSKIS,2008 Beijing,Modern Pentathlon,Men's,individual competition
+Summer,2008,Gold,GER,Germany,Lena SCHONEBORN,2008 Beijing,Modern Pentathlon,Women's,individual competition
+Summer,2008,Silver,GBR,Great Britain,Heather FELL,2008 Beijing,Modern Pentathlon,Women's,individual competition
+Summer,2008,Bronze,BLR,Belarus,Anastasiya Samusevich-Prokopenko,2008 Beijing,Modern Pentathlon,Women's,individual competition
+Summer,2008,Gold,NOR,Norway,Olaf TUFTE,2008 Beijing,Rowing,Men's,single sculls (1x)
+Summer,2008,Silver,CZE,Czech Republic,Ondrej SYNEK,2008 Beijing,Rowing,Men's,single sculls (1x)
+Summer,2008,Bronze,NZL,New Zealand,Mahe DRYSDALE,2008 Beijing,Rowing,Men's,single sculls (1x)
+Summer,2008,Gold,AUS,Australia,"Scott BRENNAN, David CRAWSHAY",2008 Beijing,Rowing,Men's,double sculls (2x)
+Summer,2008,Silver,EST,Estonia,"Tonu ENDREKSON, Jueri JAANSON",2008 Beijing,Rowing,Men's,double sculls (2x)
+Summer,2008,Bronze,GBR,Great Britain,"Matthew WELLS, Stephen ROWBOTHAM",2008 Beijing,Rowing,Men's,double sculls (2x)
+Summer,2008,Gold,GBR,Great Britain,"Mark HUNTER, Zac PURCHASE",2008 Beijing,Rowing,Men's,lightweight double sculls (2x)
+Summer,2008,Silver,GRE,Greece,"Dimitrios MOUGIOS, Vasileios POLYMEROS",2008 Beijing,Rowing,Men's,lightweight double sculls (2x)
+Summer,2008,Bronze,DEN,Denmark,"Rasmus QUIST, Mads Reinholdt RASMUSSEN",2008 Beijing,Rowing,Men's,lightweight double sculls (2x)
+Summer,2008,Gold,AUS,Australia,"Drew GINN, Duncan FREE",2008 Beijing,Rowing,Men's,pair without coxswain (2-)
+Summer,2008,Silver,CAN,Canada,"David CALDER, Scott FRANDSEN",2008 Beijing,Rowing,Men's,pair without coxswain (2-)
+Summer,2008,Bronze,NZL,New Zealand,"George BRIDGEWATER, Nathan TWADDLE",2008 Beijing,Rowing,Men's,pair without coxswain (2-)
+Summer,2008,Gold,POL,Poland,"Michal JELINSKI, Adam KOROL, Konrad WASIELEWSKI, Marek KOLBOWICZ",2008 Beijing,Rowing,Men's,quadruple sculls without coxswain
+Summer,2008,Silver,ITA,Italy,"Simone VENIER, Luca AGAMENNONI, Simone RAINERI, Rossano GALTAROSSA",2008 Beijing,Rowing,Men's,quadruple sculls without coxswain
+Summer,2008,Bronze,FRA,France,"Jonathan COEFFIC, Julien BAHAIN, Cedric BERREST, Pierre-Jean PELTIER",2008 Beijing,Rowing,Men's,quadruple sculls without coxswain
+Summer,2008,Gold,GBR,Great Britain,"Pete REED, Steve WILLIAMS, Andrew TRIGGS HODGE, Tom JAMES",2008 Beijing,Rowing,Men's,four without coxswain (4-)
+Summer,2008,Silver,AUS,Australia,"Matthew RYAN, Francis HEGERTY, James MARBURG, Cameron MCKENZIE-MCHARG",2008 Beijing,Rowing,Men's,four without coxswain (4-)
+Summer,2008,Bronze,FRA,France,"Germain CHARDIN, Dorian MORTELETTE, Julien DESPRES, Benjamin RONDEAU",2008 Beijing,Rowing,Men's,four without coxswain (4-)
+Summer,2008,Gold,DEN,Denmark,"Thomas EBERT, Mads Christian Kruse ANDERSEN, Morten JORGENSEN, Eskild EBBESEN",2008 Beijing,Rowing,Men's,lightweight coxless four (4-)
+Summer,2008,Silver,POL,Poland,"Bartlomiej PAWELCZAK, Pawel RANDA, Milosz BERNATAJTYS, Lukasz PAWLOWSKI",2008 Beijing,Rowing,Men's,lightweight coxless four (4-)
+Summer,2008,Bronze,CAN,Canada,"Jon BEARE, Iain BRAMBELL, Liam PARSONS, Mike LEWIS",2008 Beijing,Rowing,Men's,lightweight coxless four (4-)
+Summer,2008,Gold,CAN,Canada,"Dominic SEITERLE, Andrew BYRNES, Brian PRICE, Ben RUTLEDGE, Malcolm HOWARD, Jake WETZEL, Kevin LIGHT, Adam KREEK, Kyle HAMILTON",2008 Beijing,Rowing,Men's,eight with coxswain (8+)
+Summer,2008,Silver,GBR,Great Britain,"Acer NETHERCOTT, Josh WEST, Tom STALLARD, Tom LUCY, Alastair HEATHCOTE, Richard EGINGTON, Matthew LANGRIDGE, Colin SMITH, Alex PARTRIDGE",2008 Beijing,Rowing,Men's,eight with coxswain (8+)
+Summer,2008,Bronze,USA,United States,"Micah BOYD, Josh INMAN, Beau HOOPMAN, Wyatt ALLEN, Bryan VOLPENHEIN, Matt SCHNOBRICH, Steven COPPOLA, Marcus MC ELHENNEY, Daniel WALSH",2008 Beijing,Rowing,Men's,eight with coxswain (8+)
+Summer,2008,Gold,BUL,Bulgaria,Rumyana NEYKOVA,2008 Beijing,Rowing,Women's,single sculls (1x)
+Summer,2008,Silver,USA,United States,Michelle GUERETTE,2008 Beijing,Rowing,Women's,single sculls (1x)
+Summer,2008,Bronze,BLR,Belarus,Ekaterina KARSTEN,2008 Beijing,Rowing,Women's,single sculls (1x)
+Summer,2008,Gold,NZL,New Zealand,"Caroline EVERS-SWINDELL, Georgina EVERS-SWINDELL",2008 Beijing,Rowing,Women's,double sculls (2x)
+Summer,2008,Silver,GER,Germany,"Christiane HUTH, Annekatrin THIELE",2008 Beijing,Rowing,Women's,double sculls (2x)
+Summer,2008,Bronze,GBR,Great Britain,"Anna WATKINS, Elise LAVERICK",2008 Beijing,Rowing,Women's,double sculls (2x)
+Summer,2008,Gold,NED,Netherlands,"Kirsten VAN DER KOLK, Marit VAN EUPEN",2008 Beijing,Rowing,Women's,lightweight double sculls (2x)
+Summer,2008,Silver,FIN,Finland,"Minna NIEMINEN, Sanna STEN",2008 Beijing,Rowing,Women's,lightweight double sculls (2x)
+Summer,2008,Bronze,CAN,Canada,"Melanie KOK, Tracy CAMERON",2008 Beijing,Rowing,Women's,lightweight double sculls (2x)
+Summer,2008,Gold,ROU,Romania,"Viorica SUSANU, Georgeta DAMIAN",2008 Beijing,Rowing,Women's,pair without coxswain (2-)
+Summer,2008,Silver,CHN,China,"Yulan GAO, You WU",2008 Beijing,Rowing,Women's,pair without coxswain (2-)
+Summer,2008,Bronze,BLR,Belarus,"Yuliya BICHYK, Natalya GELAKH",2008 Beijing,Rowing,Women's,pair without coxswain (2-)
+Summer,2008,Gold,CHN,China,"Bin TANG, Ziwei JIN, Yangyang ZHANG, Aihua XI",2008 Beijing,Rowing,Women's,quadruple sculls without coxswain
+Summer,2008,Silver,GBR,Great Britain,"Debbie FLOOD, Katherine GRAINGER, Frances HOUGHTON, Annabel VERNON",2008 Beijing,Rowing,Women's,quadruple sculls without coxswain
+Summer,2008,Bronze,GER,Germany,"Manuela LUTZE, Britta OPPELT, Stephanie SCHILLER, Kathrin BORON",2008 Beijing,Rowing,Women's,quadruple sculls without coxswain
+Summer,2008,Gold,USA,United States,"Eleanor LOGAN, Lindsay SHOOP, Susan FRANCIA, Caroline LIND, Erin CAFARO, Anne CUMMINS, Anna GOODALE, Mary WHIPPLE, Caryn DAVIES",2008 Beijing,Rowing,Women's,eight with coxswain (8+)
+Summer,2008,Silver,NED,Netherlands,"Ester WORKEL, Sarah SIEGELAAR, Roline REPELAER VAN DRIEL, Nienke KINGMA, Annemarieke VAN RUMPT, Marlies SMULDERS, Helen TANGER, Femke DEKKER, Annemiek DE HAAN",2008 Beijing,Rowing,Women's,eight with coxswain (8+)
+Summer,2008,Bronze,ROU,Romania,"Eniko MIRONCIC, Ioana ROTARU, Elena GEORGESCU, Simona Dumitrita MUSAT, Georgeta DAMIAN, Constanta PIPOTA, Viorica SUSANU, Rodica Maria SERBAN, Doina IGNAT",2008 Beijing,Rowing,Women's,eight with coxswain (8+)
+Summer,2008,Gold,AUS,Australia,"Malcolm PAGE, Nathan WILMOT",2008 Beijing,Sailing,Men's,470 - Two Person Dinghy
+Summer,2008,Silver,GBR,Great Britain,"Joe GLANFIELD, Nicholas ROGERS",2008 Beijing,Sailing,Men's,470 - Two Person Dinghy
+Summer,2008,Bronze,FRA,France,"Nicolas CHARBONNIER, Olivier BAUSSET",2008 Beijing,Sailing,Men's,470 - Two Person Dinghy
+Summer,2008,Gold,GBR,Great Britain,Paul GOODISON,2008 Beijing,Sailing,Men's,Laser - One Person Dinghy
+Summer,2008,Silver,SLO,Slovenia,Vasilij ZBOGAR,2008 Beijing,Sailing,Men's,Laser - One Person Dinghy
+Summer,2008,Bronze,ITA,Italy,Diego Emilio ROMERO,2008 Beijing,Sailing,Men's,Laser - One Person Dinghy
+Summer,2008,Gold,NZL,New Zealand,Tom ASHLEY,2008 Beijing,Sailing,Men's,RS:X - Windsurfer
+Summer,2008,Silver,FRA,France,Julien BONTEMPS,2008 Beijing,Sailing,Men's,RS:X - Windsurfer
+Summer,2008,Bronze,ISR,Israel,Shahar ZUBARI,2008 Beijing,Sailing,Men's,RS:X - Windsurfer
+Summer,2008,Gold,GBR,Great Britain,"Iain PERCY, Andrew SIMPSON",2008 Beijing,Sailing,Men's,two-person keelboat (Star)
+Summer,2008,Silver,BRA,Brazil,"Robert SCHEIDT, Bruno PRADA",2008 Beijing,Sailing,Men's,two-person keelboat (Star)
+Summer,2008,Bronze,SWE,Sweden,"Anders EKSTROM, Fredrik LÖÖF",2008 Beijing,Sailing,Men's,two-person keelboat (Star)
+Summer,2008,Gold,AUS,Australia,"Elise RECHICHI, Tessa PARKINSON",2008 Beijing,Sailing,Women's,470 - Two Person Dinghy
+Summer,2008,Silver,NED,Netherlands,"Lobke BERKHOUT, Marcelien BOS-DE KONING",2008 Beijing,Sailing,Women's,470 - Two Person Dinghy
+Summer,2008,Bronze,BRA,Brazil,"Fernanda OLIVEIRA, Isabel SWAN",2008 Beijing,Sailing,Women's,470 - Two Person Dinghy
+Summer,2008,Gold,USA,United States,Anna TUNNICLIFFE,2008 Beijing,Sailing,Women's,Laser Radial - One Person Dinghy
+Summer,2008,Silver,LTU,Lithuania,Gintare VOLUNGEVICIUTE,2008 Beijing,Sailing,Women's,Laser Radial - One Person Dinghy
+Summer,2008,Bronze,CHN,China,Lijia XU,2008 Beijing,Sailing,Women's,Laser Radial - One Person Dinghy
+Summer,2008,Gold,CHN,China,Jian YIN,2008 Beijing,Sailing,Women's,RS:X - Windsurfer
+Summer,2008,Silver,ITA,Italy,Alessandra SENSINI,2008 Beijing,Sailing,Women's,RS:X - Windsurfer
+Summer,2008,Bronze,GBR,Great Britain,Bryony SHAW,2008 Beijing,Sailing,Women's,RS:X - Windsurfer
+Summer,2008,Gold,GBR,Great Britain,"Sarah WEBB, Sarah AYTON, Pippa WILSON",2008 Beijing,Sailing,Women's,Yngling - Keelboat
+Summer,2008,Silver,NED,Netherlands,"Annemieke BES, Mandy MULDER, Merel WITTEVEEN",2008 Beijing,Sailing,Women's,Yngling - Keelboat
+Summer,2008,Bronze,GRE,Greece,"Sofia BEKATOROU, Virginia KRAVARIOTI, Sofia PAPADOPOULOU",2008 Beijing,Sailing,Women's,Yngling - Keelboat
+Summer,2008,Gold,DEN,Denmark,"Martin Kirketerp IBSEN, Jonas WARRER",2008 Beijing,Sailing,Mixed,49er - Skiff
+Summer,2008,Silver,ESP,Spain,"Iker MARTINEZ, Xabier FERNANDEZ GAZTANAGA",2008 Beijing,Sailing,Mixed,49er - Skiff
+Summer,2008,Bronze,GER,Germany,"Hannes PECKOLT, Jan Peter PECKOLT",2008 Beijing,Sailing,Mixed,49er - Skiff
+Summer,2008,Gold,GBR,Great Britain,Ben AINSLIE,2008 Beijing,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,2008,Silver,USA,United States,Zach RAILEY,2008 Beijing,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,2008,Bronze,FRA,France,Guillaume FLORENT,2008 Beijing,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,2008,Gold,ESP,Spain,"Fernando ECHAVARRI ERASUN, Anton PAZ BLANCO",2008 Beijing,Sailing,Mixed,Tornado - Multihull
+Summer,2008,Silver,AUS,Australia,"Darren BUNDOCK, Glenn ASHBY",2008 Beijing,Sailing,Mixed,Tornado - Multihull
+Summer,2008,Bronze,ARG,Argentina,"Carlos ESPINOLA, Santiago LANGE",2008 Beijing,Sailing,Mixed,Tornado - Multihull
+Summer,2008,Gold,IND,India,Abhinav BINDRA,2008 Beijing,Shooting,Men's,10m air rifle
+Summer,2008,Silver,CHN,China,Qinan ZHU,2008 Beijing,Shooting,Men's,10m air rifle
+Summer,2008,Bronze,FIN,Finland,Henri HAKKINEN,2008 Beijing,Shooting,Men's,10m air rifle
+Summer,2008,Gold,CHN,China,Wei PANG,2008 Beijing,Shooting,Men's,10m air pistol
+Summer,2008,Silver,KOR,Korea Republic,Jongoh JIN,2008 Beijing,Shooting,Men's,10m air pistol
+Summer,2008,Bronze,USA,United States,Jason TURNER,2008 Beijing,Shooting,Men's,10m air pistol
+Summer,2008,Gold,CHN,China,Jian QIU,2008 Beijing,Shooting,Men's,50m rifle 3 positions
+Summer,2008,Silver,UKR,Ukraine,Yuriy SUKHORUKOV,2008 Beijing,Shooting,Men's,50m rifle 3 positions
+Summer,2008,Bronze,SLO,Slovenia,Rajmond DEBEVEC,2008 Beijing,Shooting,Men's,50m rifle 3 positions
+Summer,2008,Gold,KOR,Korea Republic,Jongoh JIN,2008 Beijing,Shooting,Men's,50m pistol
+Summer,2008,Silver,CHN,China,Zongliang TAN,2008 Beijing,Shooting,Men's,50m pistol
+Summer,2008,Bronze,RUS,Russian Federation,Vladimir ISAKOV,2008 Beijing,Shooting,Men's,50m pistol
+Summer,2008,Gold,UKR,Ukraine,Artur AIVAZIAN,2008 Beijing,Shooting,Men's,50m rifle prone
+Summer,2008,Silver,USA,United States,Matthew EMMONS,2008 Beijing,Shooting,Men's,50m rifle prone
+Summer,2008,Bronze,AUS,Australia,Warren POTENT,2008 Beijing,Shooting,Men's,50m rifle prone
+Summer,2008,Gold,UKR,Ukraine,Oleksandr PETRIV,2008 Beijing,Shooting,Men's,25m rapid fire pistol
+Summer,2008,Silver,GER,Germany,Ralf SCHUMANN,2008 Beijing,Shooting,Men's,25m rapid fire pistol
+Summer,2008,Bronze,GER,Germany,Christian REITZ,2008 Beijing,Shooting,Men's,25m rapid fire pistol
+Summer,2008,Gold,USA,United States,Vincent HANCOCK,2008 Beijing,Shooting,Men's,Skeet
+Summer,2008,Silver,NOR,Norway,Tore BROVOLD,2008 Beijing,Shooting,Men's,Skeet
+Summer,2008,Bronze,FRA,France,Anthony TERRAS,2008 Beijing,Shooting,Men's,Skeet
+Summer,2008,Gold,CZE,Czech Republic,David KOSTELECKY,2008 Beijing,Shooting,Men's,Trap
+Summer,2008,Silver,ITA,Italy,Giovanni PELLIELO,2008 Beijing,Shooting,Men's,Trap
+Summer,2008,Bronze,RUS,Russian Federation,Aleksey ALIPOV,2008 Beijing,Shooting,Men's,Trap
+Summer,2008,Gold,USA,United States,Glenn ELLER,2008 Beijing,Shooting,Men's,Double trap
+Summer,2008,Silver,ITA,Italy,Francesco D'ANIELLO,2008 Beijing,Shooting,Men's,Double trap
+Summer,2008,Bronze,CHN,China,Binyuan HU,2008 Beijing,Shooting,Men's,Double trap
+Summer,2008,Gold,CZE,Czech Republic,Katerina EMMONS,2008 Beijing,Shooting,Women's,10m air rifle
+Summer,2008,Silver,RUS,Russian Federation,Lioubov GALKINA,2008 Beijing,Shooting,Women's,10m air rifle
+Summer,2008,Bronze,CRO,Croatia,Snjezana PEJCIC,2008 Beijing,Shooting,Women's,10m air rifle
+Summer,2008,Gold,CHN,China,Wenjun GUO,2008 Beijing,Shooting,Women's,10m air pistol
+Summer,2008,Silver,RUS,Russian Federation,Natalia PADERINA,2008 Beijing,Shooting,Women's,10m air pistol
+Summer,2008,Bronze,GEO,Georgia,Nino SALUKVADZE,2008 Beijing,Shooting,Women's,10m air pistol
+Summer,2008,Gold,CHN,China,Li DU,2008 Beijing,Shooting,Women's,50m rifle 3 positions
+Summer,2008,Silver,CZE,Czech Republic,Katerina EMMONS,2008 Beijing,Shooting,Women's,50m rifle 3 positions
+Summer,2008,Bronze,CUB,Cuba,Eglis Yaima CRUZ,2008 Beijing,Shooting,Women's,50m rifle 3 positions
+Summer,2008,Gold,CHN,China,Ying CHEN,2008 Beijing,Shooting,Women's,25m pistol
+Summer,2008,Silver,MGL,Mongolia,Gundegmaa OTRYAD,2008 Beijing,Shooting,Women's,25m pistol
+Summer,2008,Bronze,GER,Germany,Munkhbayar DORJSUREN,2008 Beijing,Shooting,Women's,25m pistol
+Summer,2008,Gold,ITA,Italy,Chiara CAINERO,2008 Beijing,Shooting,Women's,Skeet
+Summer,2008,Silver,USA,United States,Kimberly RHODE,2008 Beijing,Shooting,Women's,Skeet
+Summer,2008,Bronze,GER,Germany,Christine WENZEL,2008 Beijing,Shooting,Women's,Skeet
+Summer,2008,Gold,FIN,Finland,Satu MAKELA-NUMMELA,2008 Beijing,Shooting,Women's,Trap
+Summer,2008,Silver,SVK,Slovakia,Zuzana STEFECEKOVA,2008 Beijing,Shooting,Women's,Trap
+Summer,2008,Bronze,USA,United States,Corey COGDELL,2008 Beijing,Shooting,Women's,Trap
+Summer,2008,Gold,BRA,Brazil,Cesar CIELO FILHO,2008 Beijing,Swimming,Men's,50m freestyle
+Summer,2008,Silver,FRA,France,Amaury LEVEAUX,2008 Beijing,Swimming,Men's,50m freestyle
+Summer,2008,Bronze,FRA,France,Alain BERNARD,2008 Beijing,Swimming,Men's,50m freestyle
+Summer,2008,Gold,FRA,France,Alain BERNARD,2008 Beijing,Swimming,Men's,100m freestyle
+Summer,2008,Silver,AUS,Australia,Eamon SULLIVAN,2008 Beijing,Swimming,Men's,100m freestyle
+Summer,2008,Bronze,BRA,Brazil,Cesar CIELO FILHO,2008 Beijing,Swimming,Men's,100m freestyle
+Summer,2008,Bronze,USA,United States,Jason LEZAK,2008 Beijing,Swimming,Men's,100m freestyle
+Summer,2008,Gold,USA,United States,Michael PHELPS,2008 Beijing,Swimming,Men's,200m freestyle
+Summer,2008,Silver,KOR,Korea Republic,Taehwan PARK,2008 Beijing,Swimming,Men's,200m freestyle
+Summer,2008,Bronze,USA,United States,Peter VANDERKAAY,2008 Beijing,Swimming,Men's,200m freestyle
+Summer,2008,Gold,KOR,Korea Republic,Taehwan PARK,2008 Beijing,Swimming,Men's,400m freestyle
+Summer,2008,Silver,CHN,China,Lin ZHANG,2008 Beijing,Swimming,Men's,400m freestyle
+Summer,2008,Bronze,USA,United States,Larsen JENSEN,2008 Beijing,Swimming,Men's,400m freestyle
+Summer,2008,Gold,TUN,Tunisia,Oussama MELLOULI,2008 Beijing,Swimming,Men's,1500m freestyle
+Summer,2008,Silver,AUS,Australia,Grant HACKETT,2008 Beijing,Swimming,Men's,1500m freestyle
+Summer,2008,Bronze,CAN,Canada,Ryan COCHRANE,2008 Beijing,Swimming,Men's,1500m freestyle
+Summer,2008,Gold,USA,United States,Aaron PEIRSOL,2008 Beijing,Swimming,Men's,100m backstroke
+Summer,2008,Silver,USA,United States,Matthew GREVERS,2008 Beijing,Swimming,Men's,100m backstroke
+Summer,2008,Bronze,AUS,Australia,Hayden STOECKEL,2008 Beijing,Swimming,Men's,100m backstroke
+Summer,2008,Bronze,RUS,Russian Federation,Arkady VYATCHANIN,2008 Beijing,Swimming,Men's,100m backstroke
+Summer,2008,Gold,USA,United States,Ryan LOCHTE,2008 Beijing,Swimming,Men's,200m backstroke
+Summer,2008,Silver,USA,United States,Aaron PEIRSOL,2008 Beijing,Swimming,Men's,200m backstroke
+Summer,2008,Bronze,RUS,Russian Federation,Arkady VYATCHANIN,2008 Beijing,Swimming,Men's,200m backstroke
+Summer,2008,Gold,JPN,Japan,Kosuke KITAJIMA,2008 Beijing,Swimming,Men's,100m breaststroke
+Summer,2008,Silver,NOR,Norway,Alexander OEN,2008 Beijing,Swimming,Men's,100m breaststroke
+Summer,2008,Bronze,FRA,France,Hugues DUBOSCQ,2008 Beijing,Swimming,Men's,100m breaststroke
+Summer,2008,Gold,JPN,Japan,Kosuke KITAJIMA,2008 Beijing,Swimming,Men's,200m breaststroke
+Summer,2008,Silver,AUS,Australia,Brenton RICKARD,2008 Beijing,Swimming,Men's,200m breaststroke
+Summer,2008,Bronze,FRA,France,Hugues DUBOSCQ,2008 Beijing,Swimming,Men's,200m breaststroke
+Summer,2008,Gold,USA,United States,Michael PHELPS,2008 Beijing,Swimming,Men's,100m butterfly
+Summer,2008,Silver,SRB,Serbia,Milorad CAVIC,2008 Beijing,Swimming,Men's,100m butterfly
+Summer,2008,Bronze,AUS,Australia,Andrew LAUTERSTEIN,2008 Beijing,Swimming,Men's,100m butterfly
+Summer,2008,Gold,USA,United States,Michael PHELPS,2008 Beijing,Swimming,Men's,200m butterfly
+Summer,2008,Silver,HUN,Hungary,Laszlo CSEH,2008 Beijing,Swimming,Men's,200m butterfly
+Summer,2008,Bronze,JPN,Japan,Takeshi MATSUDA,2008 Beijing,Swimming,Men's,200m butterfly
+Summer,2008,Gold,USA,United States,Michael PHELPS,2008 Beijing,Swimming,Men's,200m individual medley
+Summer,2008,Silver,HUN,Hungary,Laszlo CSEH,2008 Beijing,Swimming,Men's,200m individual medley
+Summer,2008,Bronze,USA,United States,Ryan LOCHTE,2008 Beijing,Swimming,Men's,200m individual medley
+Summer,2008,Gold,USA,United States,Michael PHELPS,2008 Beijing,Swimming,Men's,400m individual medley
+Summer,2008,Silver,HUN,Hungary,Laszlo CSEH,2008 Beijing,Swimming,Men's,400m individual medley
+Summer,2008,Bronze,USA,United States,Ryan LOCHTE,2008 Beijing,Swimming,Men's,400m individual medley
+Summer,2008,Gold,USA,United States,"Matthew GREVERS, Michael PHELPS, Garrett WEBER-GALE, Jason LEZAK, Nathan ADRIAN, Cullen JONES, Ben WILDMAN-TOBRINER",2008 Beijing,Swimming,Men's,4x100m freestyle relay
+Summer,2008,Silver,FRA,France,"Alain BERNARD, Frederick BOUSQUET, Fabien GILOT, Amaury LEVEAUX, Boris STEIMETZ, Gregory MALLET",2008 Beijing,Swimming,Men's,4x100m freestyle relay
+Summer,2008,Bronze,AUS,Australia,"Andrew LAUTERSTEIN, Patrick MURPHY, Eamon SULLIVAN, Leith BRODIE, Matt TARGETT, Ashley CALLUS",2008 Beijing,Swimming,Men's,4x100m freestyle relay
+Summer,2008,Gold,USA,United States,"Ricky BERENS, Peter VANDERKAAY, Michael PHELPS, Ryan LOCHTE, Erik VENDT, David WALTERS, Klete KELLER",2008 Beijing,Swimming,Men's,4x200m freestyle relay
+Summer,2008,Silver,RUS,Russian Federation,"Alexander SUKHORUKOV, Danila IZOTOV, Evgeny LAGUNOV, Mikhail POLISHCHUK, Nikita LOBINTSEV",2008 Beijing,Swimming,Men's,4x200m freestyle relay
+Summer,2008,Bronze,AUS,Australia,"Grant BRITS, Nick FFROST, Grant HACKETT, Leith BRODIE, Kirk PALMER, Patrick MURPHY",2008 Beijing,Swimming,Men's,4x200m freestyle relay
+Summer,2008,Gold,USA,United States,"Mark GANGLOFF, Michael PHELPS, Garrett WEBER-GALE, Ian CROCKER, Matthew GREVERS, Brendan HANSEN, Jason LEZAK, Aaron PEIRSOL",2008 Beijing,Swimming,Men's,4x100m medley relay
+Summer,2008,Silver,AUS,Australia,"Brenton RICKARD, Matt TARGETT, Christian SPRENGER, Ashley DELANEY, Eamon SULLIVAN, Adam PINE, Hayden STOECKEL, Andrew LAUTERSTEIN",2008 Beijing,Swimming,Men's,4x100m medley relay
+Summer,2008,Bronze,JPN,Japan,"Junichi MIYASHITA, Hisayoshi SATO, Takuro FUJII, Kosuke KITAJIMA",2008 Beijing,Swimming,Men's,4x100m medley relay
+Summer,2008,Gold,GER,Germany,Britta STEFFEN,2008 Beijing,Swimming,Women's,50m freestyle
+Summer,2008,Silver,USA,United States,Dara TORRES,2008 Beijing,Swimming,Women's,50m freestyle
+Summer,2008,Bronze,AUS,Australia,Cate CAMPBELL,2008 Beijing,Swimming,Women's,50m freestyle
+Summer,2008,Gold,GER,Germany,Britta STEFFEN,2008 Beijing,Swimming,Women's,100m freestyle
+Summer,2008,Silver,AUS,Australia,Libby TRICKETT,2008 Beijing,Swimming,Women's,100m freestyle
+Summer,2008,Bronze,USA,United States,Natalie COUGHLIN,2008 Beijing,Swimming,Women's,100m freestyle
+Summer,2008,Gold,ITA,Italy,Federica PELLEGRINI,2008 Beijing,Swimming,Women's,200m freestyle
+Summer,2008,Silver,SLO,Slovenia,Sara ISAKOVIC,2008 Beijing,Swimming,Women's,200m freestyle
+Summer,2008,Bronze,CHN,China,Jiaying PANG,2008 Beijing,Swimming,Women's,200m freestyle
+Summer,2008,Gold,GBR,Great Britain,Rebecca ADLINGTON,2008 Beijing,Swimming,Women's,400m freestyle
+Summer,2008,Silver,USA,United States,Katie HOFF,2008 Beijing,Swimming,Women's,400m freestyle
+Summer,2008,Bronze,GBR,Great Britain,Joanne JACKSON,2008 Beijing,Swimming,Women's,400m freestyle
+Summer,2008,Gold,GBR,Great Britain,Rebecca ADLINGTON,2008 Beijing,Swimming,Women's,800m freestyle
+Summer,2008,Silver,ITA,Italy,Alessia FILIPPI,2008 Beijing,Swimming,Women's,800m freestyle
+Summer,2008,Bronze,DEN,Denmark,Lotte FRIIS,2008 Beijing,Swimming,Women's,800m freestyle
+Summer,2008,Gold,USA,United States,Natalie COUGHLIN,2008 Beijing,Swimming,Women's,100m backstroke
+Summer,2008,Silver,ZIM,Zimbabwe,Kirsty COVENTRY,2008 Beijing,Swimming,Women's,100m backstroke
+Summer,2008,Bronze,USA,United States,Margaret HOELZER,2008 Beijing,Swimming,Women's,100m backstroke
+Summer,2008,Gold,ZIM,Zimbabwe,Kirsty COVENTRY,2008 Beijing,Swimming,Women's,200m backstroke
+Summer,2008,Silver,USA,United States,Margaret HOELZER,2008 Beijing,Swimming,Women's,200m backstroke
+Summer,2008,Bronze,JPN,Japan,Reiko NAKAMURA,2008 Beijing,Swimming,Women's,200m backstroke
+Summer,2008,Gold,AUS,Australia,Leisel JONES,2008 Beijing,Swimming,Women's,100m breaststroke
+Summer,2008,Silver,USA,United States,Rebecca SONI,2008 Beijing,Swimming,Women's,100m breaststroke
+Summer,2008,Bronze,AUT,Austria,Mirna JUKIC,2008 Beijing,Swimming,Women's,100m breaststroke
+Summer,2008,Gold,USA,United States,Rebecca SONI,2008 Beijing,Swimming,Women's,200m breaststroke
+Summer,2008,Silver,AUS,Australia,Leisel JONES,2008 Beijing,Swimming,Women's,200m breaststroke
+Summer,2008,Bronze,NOR,Norway,Sara NORDENSTAM,2008 Beijing,Swimming,Women's,200m breaststroke
+Summer,2008,Gold,AUS,Australia,Libby TRICKETT,2008 Beijing,Swimming,Women's,100m butterfly
+Summer,2008,Silver,USA,United States,Christine MAGNUSON,2008 Beijing,Swimming,Women's,100m butterfly
+Summer,2008,Bronze,AUS,Australia,Jess SCHIPPER,2008 Beijing,Swimming,Women's,100m butterfly
+Summer,2008,Gold,CHN,China,Zige LIU,2008 Beijing,Swimming,Women's,200m butterfly
+Summer,2008,Silver,CHN,China,Liuyang JIAO,2008 Beijing,Swimming,Women's,200m butterfly
+Summer,2008,Bronze,AUS,Australia,Jess SCHIPPER,2008 Beijing,Swimming,Women's,200m butterfly
+Summer,2008,Gold,AUS,Australia,Stephanie RICE,2008 Beijing,Swimming,Women's,200m individual medley
+Summer,2008,Silver,ZIM,Zimbabwe,Kirsty COVENTRY,2008 Beijing,Swimming,Women's,200m individual medley
+Summer,2008,Bronze,USA,United States,Natalie COUGHLIN,2008 Beijing,Swimming,Women's,200m individual medley
+Summer,2008,Gold,AUS,Australia,Stephanie RICE,2008 Beijing,Swimming,Women's,400m individual medley
+Summer,2008,Silver,ZIM,Zimbabwe,Kirsty COVENTRY,2008 Beijing,Swimming,Women's,400m individual medley
+Summer,2008,Bronze,USA,United States,Katie HOFF,2008 Beijing,Swimming,Women's,400m individual medley
+Summer,2008,Gold,NED,Netherlands,"Hinkelien SCHREUDER, Inge DEKKER, Manon VAN ROOIJEN, Ranomi KROMOWIDJOJO, Marleen VELDHUIS, Femke HEEMSKERK",2008 Beijing,Swimming,Women's,4x100m freestyle relay
+Summer,2008,Silver,USA,United States,"Emily SILVER, Lacey NYMEYER, Natalie COUGHLIN, Dara TORRES, Kara Lynn JOYCE, Julia SMIT",2008 Beijing,Swimming,Women's,4x100m freestyle relay
+Summer,2008,Bronze,AUS,Australia,"Cate CAMPBELL, Libby TRICKETT, Alice MILLS, Shayne REESE, Melanie SCHLANGER",2008 Beijing,Swimming,Women's,4x100m freestyle relay
+Summer,2008,Gold,AUS,Australia,"Bronte BARRATT, Lara DAVENPORT, Felicity GALVEZ, Linda MACKENZIE, Melanie SCHLANGER, Stephanie RICE, Angie BAINBRIDGE, Kylie PALMER",2008 Beijing,Swimming,Women's,4x200m freestyle relay
+Summer,2008,Silver,CHN,China,"Qianwei ZHU, Yu YANG, Miao TAN, Jingzhi TANG, Jiaying PANG",2008 Beijing,Swimming,Women's,4x200m freestyle relay
+Summer,2008,Bronze,USA,United States,"Caroline BURCKLE, Christine MARSHALL, Allison SCHMITT, Julia SMIT, Kim VANDENBERG, Katie HOFF, Natalie COUGHLIN",2008 Beijing,Swimming,Women's,4x200m freestyle relay
+Summer,2008,Gold,AUS,Australia,"Tarnee WHITE, Jess SCHIPPER, Emily SEEBOHM, Shayne REESE, Felicity GALVEZ, Leisel JONES, Libby TRICKETT",2008 Beijing,Swimming,Women's,4x100m medley relay
+Summer,2008,Silver,USA,United States,"Christine MAGNUSON, Elaine BREEDEN, Megan QUANN, Kara Lynn JOYCE, Margaret HOELZER, Natalie COUGHLIN, Dara TORRES, Rebecca SONI",2008 Beijing,Swimming,Women's,4x100m medley relay
+Summer,2008,Bronze,CHN,China,"Ye SUN, Yafei ZHOU, Jing ZHAO, Jiaying PANG, Tianlongzi XU",2008 Beijing,Swimming,Women's,4x100m medley relay
+Summer,2008,Gold,CHN,China,Lin MA,2008 Beijing,Table Tennis,Men's,singles
+Summer,2008,Silver,CHN,China,Hao WANG,2008 Beijing,Table Tennis,Men's,singles
+Summer,2008,Bronze,CHN,China,Liqin WANG,2008 Beijing,Table Tennis,Men's,singles
+Summer,2008,Gold,CHN,China,Yining ZHANG,2008 Beijing,Table Tennis,Men's,team
+Summer,2008,Silver,CHN,China,Nan WANG,2008 Beijing,Table Tennis,Men's,team
+Summer,2008,Bronze,CHN,China,Yue GUO,2008 Beijing,Table Tennis,Men's,team
+Summer,2008,Gold,CHN,China,"Liqin WANG, Hao WANG, Lin MA",2008 Beijing,Table Tennis,Women's,singles
+Summer,2008,Silver,GER,Germany,"Dimitrij OVTCHAROV, Christian SUSS, Timo BOLL",2008 Beijing,Table Tennis,Women's,singles
+Summer,2008,Bronze,KOR,Korea Republic,"Jaeyoung YOON, Sang-Eun OH, Seungmin RYU",2008 Beijing,Table Tennis,Women's,singles
+Summer,2008,Gold,CHN,China,"Nan WANG, Yining ZHANG, Yue GUO",2008 Beijing,Table Tennis,Women's,team
+Summer,2008,Silver,SGP,Singapore,"Jia Wei LI, Tian Wei FENG, Yuegu WANG",2008 Beijing,Table Tennis,Women's,team
+Summer,2008,Bronze,KOR,Korea Republic,"Kyung Ah KIM, Miyoung PARK, Yeseo DANG",2008 Beijing,Table Tennis,Women's,team
+Summer,2008,Gold,MEX,Mexico,Guillermo PEREZ,2008 Beijing,Taekwondo,Men's,- 58 kg
+Summer,2008,Silver,DOM,Dominican Republic,Gabriel MERCEDES,2008 Beijing,Taekwondo,Men's,- 58 kg
+Summer,2008,Bronze,AFG,Afghanistan,Rohullah NIKPAI,2008 Beijing,Taekwondo,Men's,- 58 kg
+Summer,2008,Bronze,TPE,Chinese Taipei,Mu Yen CHU,2008 Beijing,Taekwondo,Men's,- 58 kg
+Summer,2008,Gold,KOR,Korea Republic,Taejin SON,2008 Beijing,Taekwondo,Men's,58 - 68 kg
+Summer,2008,Silver,USA,United States,Mark LOPEZ,2008 Beijing,Taekwondo,Men's,58 - 68 kg
+Summer,2008,Bronze,TPE,Chinese Taipei,Yu-Chi SUNG,2008 Beijing,Taekwondo,Men's,58 - 68 kg
+Summer,2008,Bronze,TUR,Turkey,Servet TAZEGUL,2008 Beijing,Taekwondo,Men's,58 - 68 kg
+Summer,2008,Gold,IRI,Iran,Hadi SAEI,2008 Beijing,Taekwondo,Men's,68 - 80 kg
+Summer,2008,Silver,ITA,Italy,Mauro SARMIENTO,2008 Beijing,Taekwondo,Men's,68 - 80 kg
+Summer,2008,Bronze,CHN,China,Guo ZHU,2008 Beijing,Taekwondo,Men's,68 - 80 kg
+Summer,2008,Bronze,USA,United States,Steven LOPEZ,2008 Beijing,Taekwondo,Men's,68 - 80 kg
+Summer,2008,Gold,KOR,Korea Republic,Dongmin CHA,2008 Beijing,Taekwondo,Men's,+ 80 kg
+Summer,2008,Silver,GRE,Greece,Alexandros NIKOLAIDIS,2008 Beijing,Taekwondo,Men's,+ 80 kg
+Summer,2008,Bronze,KAZ,Kazakhstan,Arman CHILMANOV,2008 Beijing,Taekwondo,Men's,+ 80 kg
+Summer,2008,Bronze,NGR,Nigeria,Chika Yagazie CHUKWUMERIJE,2008 Beijing,Taekwondo,Men's,+ 80 kg
+Summer,2008,Gold,CHN,China,Jingyu WU,2008 Beijing,Taekwondo,Women's,- 49 kg
+Summer,2008,Silver,THA,Thailand,Buttree PUEDPONG,2008 Beijing,Taekwondo,Women's,- 49 kg
+Summer,2008,Bronze,CUB,Cuba,Daynellis MONTEJO,2008 Beijing,Taekwondo,Women's,- 49 kg
+Summer,2008,Bronze,VEN,Venezuela,Dalia CONTRERAS,2008 Beijing,Taekwondo,Women's,- 49 kg
+Summer,2008,Gold,KOR,Korea Republic,Sujeong LIM,2008 Beijing,Taekwondo,Women's,49 - 57 kg
+Summer,2008,Silver,TUR,Turkey,Azize TANRIKULU,2008 Beijing,Taekwondo,Women's,49 - 57 kg
+Summer,2008,Bronze,CRO,Croatia,Martina ZUBCIC,2008 Beijing,Taekwondo,Women's,49 - 57 kg
+Summer,2008,Bronze,USA,United States,Diana LOPEZ,2008 Beijing,Taekwondo,Women's,49 - 57 kg
+Summer,2008,Gold,KOR,Korea Republic,Kyung Seon HWANG,2008 Beijing,Taekwondo,Women's,57 - 67 kg
+Summer,2008,Silver,CAN,Canada,Karine SERGERIE,2008 Beijing,Taekwondo,Women's,57 - 67 kg
+Summer,2008,Bronze,CRO,Croatia,Sandra SARIC,2008 Beijing,Taekwondo,Women's,57 - 67 kg
+Summer,2008,Bronze,FRA,France,Gwladys EPANGUE,2008 Beijing,Taekwondo,Women's,57 - 67 kg
+Summer,2008,Gold,MEX,Mexico,Maria del Rosario ESPINOZA,2008 Beijing,Taekwondo,Women's,+ 67 kg
+Summer,2008,Silver,NOR,Norway,Nina SOLHEIM,2008 Beijing,Taekwondo,Women's,+ 67 kg
+Summer,2008,Bronze,BRA,Brazil,Natalia FALAVIGNA,2008 Beijing,Taekwondo,Women's,+ 67 kg
+Summer,2008,Bronze,GBR,Great Britain,Sarah STEVENSON,2008 Beijing,Taekwondo,Women's,+ 67 kg
+Summer,2008,Gold,ESP,Spain,Rafael NADAL,2008 Beijing,Tennis,Men's,singles
+Summer,2008,Silver,CHI,Chile,Fernando GONZALEZ,2008 Beijing,Tennis,Men's,singles
+Summer,2008,Bronze,SRB,Serbia,Novak DJOKOVIC,2008 Beijing,Tennis,Men's,singles
+Summer,2008,Gold,SUI,Switzerland,"Stanislas WAWRINKA, Roger FEDERER",2008 Beijing,Tennis,Men's,doubles
+Summer,2008,Silver,SWE,Sweden,"Thomas JOHANSSON, Simon ASPELIN",2008 Beijing,Tennis,Men's,doubles
+Summer,2008,Bronze,USA,United States,"Mike BRYAN, Bob BRYAN",2008 Beijing,Tennis,Men's,doubles
+Summer,2008,Gold,RUS,Russian Federation,Elena DEMENTIEVA,2008 Beijing,Tennis,Women's,singles
+Summer,2008,Silver,RUS,Russian Federation,Dinara SAFINA,2008 Beijing,Tennis,Women's,singles
+Summer,2008,Bronze,RUS,Russian Federation,Vera ZVONAREVA,2008 Beijing,Tennis,Women's,singles
+Summer,2008,Gold,USA,United States,"Serena WILLIAMS, Venus WILLIAMS",2008 Beijing,Tennis,Women's,doubles
+Summer,2008,Silver,ESP,Spain,"Anabel MEDINA GARRIGUES, Virginia RUANO PASCUAL",2008 Beijing,Tennis,Women's,doubles
+Summer,2008,Bronze,CHN,China,"Zi YAN, Jie ZHENG",2008 Beijing,Tennis,Women's,doubles
+Summer,2008,Gold,CHN,China,Chunlong LU,2008 Beijing,Trampoline,Men's,individual
+Summer,2008,Silver,CAN,Canada,Jason BURNETT,2008 Beijing,Trampoline,Men's,individual
+Summer,2008,Bronze,CHN,China,Dong DONG,2008 Beijing,Trampoline,Men's,individual
+Summer,2008,Gold,CHN,China,Wenna HE,2008 Beijing,Trampoline,Women's,individual
+Summer,2008,Silver,CAN,Canada,Karen COCKBURN,2008 Beijing,Trampoline,Women's,individual
+Summer,2008,Bronze,UZB,Uzbekistan,Ekaterina KHILKO,2008 Beijing,Trampoline,Women's,individual
+Summer,2008,Gold,GER,Germany,Jan FRODENO,2008 Beijing,Triathlon,Men's,individual
+Summer,2008,Silver,CAN,Canada,Simon WHITFIELD,2008 Beijing,Triathlon,Men's,individual
+Summer,2008,Bronze,NZL,New Zealand,Bevan DOCHERTY,2008 Beijing,Triathlon,Men's,individual
+Summer,2008,Gold,AUS,Australia,Emma SNOWSILL,2008 Beijing,Triathlon,Women's,individual
+Summer,2008,Silver,POR,Portugal,Vanessa FERNANDES,2008 Beijing,Triathlon,Women's,individual
+Summer,2008,Bronze,AUS,Australia,Emma MOFFATT,2008 Beijing,Triathlon,Women's,individual
+Summer,2008,Gold,USA,United States,"Kevin HANSEN, Clayton STANLEY, David LEE, William PRIDDY, Richard LAMBOURNE, Thomas HOFF, Sean ROONEY, Lloy BALL, Riley SALMON, Scott TOUZINSKY, Gabriel GARDNER, Ryan MILLAR",2008 Beijing,Volleyball,Men's,volleyball
+Summer,2008,Silver,BRA,Brazil,"Gilberto GODOY FILHO, Andre HELLER, Anderson RODRIGUES, Samuel FUCHS, Rodrigo SANTANA, Sergio SANTOS, Murilo ENDRES, Gustavo ENDRES, Bruno REZENDE, Dante AMARAL, Marcelo ELGARTEN, Andre NASCIMENTO",2008 Beijing,Volleyball,Men's,volleyball
+Summer,2008,Bronze,RUS,Russian Federation,"Aleksey KULESHOV, Alexey OSTAPENKO, Yury BEREZHKO, Alexander KORNEEV, Vadim KHAMUTTSKIKH, Alexander KOSAREV, Alexey VERBOV, Maxim MIKHAYLOV, Sergey GRANKIN, Alexander VOLKOV, Semen POLTAVSKIY, Sergey TETYUKHIN",2008 Beijing,Volleyball,Men's,volleyball
+Summer,2008,Gold,BRA,Brazil,"Welissa GONZAGA, Thaisa MENEZES, Fabiana CLAUDINO, Fabiana OLIVEIRA, Paula PEQUENO, Sheilla CASTRO, Helia SOUZA, Carolina ALBUQUERQUE, Jaqueline CARVALHO, Walewska OLIVEIRA, Valeska MENEZES, Marianne STEINBRECHER",2008 Beijing,Volleyball,Women's,volleyball
+Summer,2008,Silver,USA,United States,"Stacy SYKORA, Ogonna NNAMANI, Danielle SCOTT, Jennifer JOINES, Logan TOM, Kim WILLOUGHBY, Tayyiba HANEEF-PARK, Robyn AH MOW, Nicole DAVIS, Lindsey BERG, Heather BOWN, Kimberly GLASS",2008 Beijing,Volleyball,Women's,volleyball
+Summer,2008,Bronze,CHN,China,"Qiuyue WEI, Yunwen MA, Juan LI, Ming XUE, Ruirui ZHAO, Kun FENG, Na ZHANG, Hao YANG, Yunli XU, Yanan LIU, Suhong ZHOU, Yimei WANG",2008 Beijing,Volleyball,Women's,volleyball
+Summer,2008,Gold,HUN,Hungary,"Tibor BENEDEK, Daniel Rudolf VARGA, Stefan GERGELY, Norbert MADARAS, Tamas VARGA, Tamás MOLNÁR, Denes VARGA, Péter BIROS, Gabor KIS, Zoltán SZÉCSI, Norbert HOSNYANSZKY, Tamás KÁSÁS, Gergely KISS",2008 Beijing,Water Polo,Men's,water polo
+Summer,2008,Silver,USA,United States,"Tony AZEVEDO, Jesse SMITH, Merrill MOSES, Ryan BAILEY, Robert WILLIAMS, Layne BEAUBIEN, Daniele GILARDONI, Peter HUDNUT, Adam WRIGHT, Brandon BROOKS, Jeff POWERS, Jesika Jacqueline JIMENEZ LUNA, Tim HUTTEN",2008 Beijing,Water Polo,Men's,water polo
+Summer,2008,Bronze,SRB,Serbia,"Andrija PRLAINOVIC, Filip FILIPOVIC, Dusko PIJETLOVIC, Denis SEFIK, Zivko GOCIC, Nikola RADJEN, Aleksandar CIRIC, Slobodan SORO, Vladimir VUJASINOVIC, Vanja UDOVICIC, Dejan SAVIC, Aleksandar SAPIC, Branko PEKOVIC",2008 Beijing,Water Polo,Men's,water polo
+Summer,2008,Gold,NED,Netherlands,"Ilse VAN DER MEIJDEN, Alette SIJBRING, Noeki KLEIN, Danielle DE BRUIJN, Gillian VAN DEN BERG, Marieke VAN DEN HAM, Meike DE NOOY, Iefke VAN BELKUM, Rianne GUICHELAAR, Biurakn HAKHVERDIAN, Yasemin SMIT, Mieke CABOUT, Simone KOOT",2008 Beijing,Water Polo,Women's,water polo
+Summer,2008,Silver,USA,United States,"Tom PARKER, Ravi BHOLLAH, Aymard BOSSE BERANGER, Brenda VILLA, Mindaugas LUKAUSKIS, Alex GREGORY, Heather PETRI, Cristina CORNEJO SCHEELJE, Marius PREKEVICIUS, Alice FREEMAN, Betsey ARMSTRONG, Klaus NIELSEN, Natalie GOLDA",2008 Beijing,Water Polo,Women's,water polo
+Summer,2008,Bronze,AUS,Australia,"Alicia MCCORMACK, Suzie FRASER, Amy HETZEL, Gemma BEADSWORTH, Emma KNOX, Kate GYNTHER, Jenna SANTOROMITO, Melissa RIPPON, Mia SANTOROMITO, Bronwen KNOX, Rebecca RIPPON, Taniele GOFERS, Nikita CUFFE",2008 Beijing,Water Polo,Women's,water polo
+Summer,2008,Gold,CHN,China,Qingquan LONG,2008 Beijing,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2008,Silver,VIE,Vietnam,Anh Tuan HOANG,2008 Beijing,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2008,Bronze,INA,Indonesia,Eko Yuli IRAWAN,2008 Beijing,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2008,Gold,CHN,China,Xiangxiang ZHANG,2008 Beijing,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2008,Silver,COL,Colombia,Diego SALAZAR QUINTERO,2008 Beijing,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2008,Bronze,INA,Indonesia,Triyatno TRIYATNO,2008 Beijing,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2008,Gold,CHN,China,Hui LIAO,2008 Beijing,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2008,Silver,FRA,France,Vencelas DABAYA TIENTCHEU,2008 Beijing,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2008,Bronze,CUB,Cuba,Yordanis BORRERO,2008 Beijing,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2008,Gold,KOR,Korea Republic,Jaehyouk SA,2008 Beijing,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2008,Silver,CHN,China,Hongli LI,2008 Beijing,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2008,Bronze,ARM,Armenia,Gevorg DAVTYAN,2008 Beijing,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2008,Gold,CHN,China,Yong LU,2008 Beijing,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2008,Silver,ARM,Armenia,Tigran Varban MARTIROSYAN,2008 Beijing,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2008,Bronze,CUB,Cuba,Jadiel VALLADARES,2008 Beijing,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2008,Gold,POL,Poland,Szymon KOLECKI,2008 Beijing,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2008,Silver,GEO,Georgia,Arsen KASABIJEW,2008 Beijing,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2008,Bronze,CUB,Cuba,Yoandris HERNANDEZ,2008 Beijing,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2008,Gold,BLR,Belarus,Andrei ARAMNAU,2008 Beijing,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2008,Silver,RUS,Russian Federation,Dmitriy KLOKOV,2008 Beijing,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2008,Bronze,POL,Poland,Marcin DOLEGA,2008 Beijing,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2008,Gold,GER,Germany,Matthias STEINER,2008 Beijing,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2008,Silver,RUS,Russian Federation,Evgueni TCHIGUICHEV,2008 Beijing,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2008,Bronze,LAT,Latvia,Viktors SCERBATIHS,2008 Beijing,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2008,Gold,TPE,Chinese Taipei,Wei Ling CHEN,2008 Beijing,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2008,Silver,KOR,Korea Republic,Jyoung Hwa IM,2008 Beijing,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2008,Bronze,THA,Thailand,Pensiri LAOSIRIKUL,2008 Beijing,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2008,Gold,THA,Thailand,Prapawadee JAROENRATTANATARAKOON,2008 Beijing,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2008,Silver,KOR,Korea Republic,Jinhee YOON,2008 Beijing,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2008,Bronze,INA,Indonesia,Raema Lisa RUMBEWAS,2008 Beijing,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2008,Gold,CHN,China,Yanqing CHEN,2008 Beijing,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2008,Silver,PRK,Korea DPR,Jong Ae O,2008 Beijing,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2008,Bronze,THA,Thailand,Wandee KAMEAIM,2008 Beijing,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2008,Gold,PRK,Korea DPR,Hyon Suk PAK,2008 Beijing,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2008,Silver,TPE,Chinese Taipei,Ying-Chi LU,2008 Beijing,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2008,Bronze,CAN,Canada,Christine GIRARD,2008 Beijing,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2008,Gold,RUS,Russian Federation,Oxana SLIVENKO,2008 Beijing,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2008,Silver,COL,Colombia,Leidy SOLIS,2008 Beijing,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2008,Bronze,EGY,Egypt,Khalil ABIR,2008 Beijing,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2008,Gold,KAZ,Kazakhstan,Alla VAZHENINA,2008 Beijing,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2008,Silver,ESP,Spain,Lidia VALENTIN,2008 Beijing,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2008,Bronze,MEX,Mexico,Damaris AGUIRRE,2008 Beijing,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2008,Gold,KOR,Korea Republic,Miran JANG,2008 Beijing,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2008,Silver,SAM,Samoa,Ele OPELOGE,2008 Beijing,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2008,Bronze,NGR,Nigeria,Maryam USMAN,2008 Beijing,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2008,Gold,USA,United States,Henry CEJUDO,2008 Beijing,Wrestling Freestyle,Men's,- 55kg
+Summer,2008,Silver,JPN,Japan,Tomohiro MATSUNAGA,2008 Beijing,Wrestling Freestyle,Men's,- 55kg
+Summer,2008,Bronze,BUL,Bulgaria,Radoslav VELIKOV,2008 Beijing,Wrestling Freestyle,Men's,- 55kg
+Summer,2008,Bronze,RUS,Russian Federation,Besik KUDUKHOV,2008 Beijing,Wrestling Freestyle,Men's,- 55kg
+Summer,2008,Gold,RUS,Russian Federation,Mavlet BATIROV,2008 Beijing,Wrestling Freestyle,Men's,55 - 60kg
+Summer,2008,Silver,JPN,Japan,Kenichi YUMOTO,2008 Beijing,Wrestling Freestyle,Men's,55 - 60kg
+Summer,2008,Bronze,IRI,Iran,Seyedmorad MOHAMMADI,2008 Beijing,Wrestling Freestyle,Men's,55 - 60kg
+Summer,2008,Bronze,KGZ,Kyrgyzstan,Bazar BAZARGURUEV,2008 Beijing,Wrestling Freestyle,Men's,55 - 60kg
+Summer,2008,Gold,TUR,Turkey,Ramazan SAHIN,2008 Beijing,Wrestling Freestyle,Men's,60 - 66kg
+Summer,2008,Silver,UKR,Ukraine,Andriy STADNIK,2008 Beijing,Wrestling Freestyle,Men's,60 - 66kg
+Summer,2008,Bronze,GEO,Georgia,Otar TUSHISHVILI,2008 Beijing,Wrestling Freestyle,Men's,60 - 66kg
+Summer,2008,Bronze,IND,India,Sushil KUMAR,2008 Beijing,Wrestling Freestyle,Men's,60 - 66kg
+Summer,2008,Gold,RUS,Russian Federation,Buvaysa SAYTIEV,2008 Beijing,Wrestling Freestyle,Men's,66 - 74kg
+Summer,2008,Silver,BLR,Belarus,Murad GAIDAROV,2008 Beijing,Wrestling Freestyle,Men's,66 - 74kg
+Summer,2008,Bronze,BUL,Bulgaria,Kiril TERZIEV,2008 Beijing,Wrestling Freestyle,Men's,66 - 74kg
+Summer,2008,Bronze,ROU,Romania,Gheorghiță Ștefan,2008 Beijing,Wrestling Freestyle,Men's,66 - 74kg
+Summer,2008,Gold,GEO,Georgia,Revazi MINDORASHVILI,2008 Beijing,Wrestling Freestyle,Men's,74 - 84kg
+Summer,2008,Silver,TJK,Tajikistan,Yusup ABDUSALOMOV,2008 Beijing,Wrestling Freestyle,Men's,74 - 84kg
+Summer,2008,Bronze,RUS,Russian Federation,Georgy KETOEV,2008 Beijing,Wrestling Freestyle,Men's,74 - 84kg
+Summer,2008,Bronze,UKR,Ukraine,Taras DANKO,2008 Beijing,Wrestling Freestyle,Men's,74 - 84kg
+Summer,2008,Gold,RUS,Russian Federation,Shirvani MURADOV,2008 Beijing,Wrestling Freestyle,Men's,84 - 96kg
+Summer,2008,Silver,GEO,Georgia,George GOGSHELIDZE,2008 Beijing,Wrestling Freestyle,Men's,84 - 96kg
+Summer,2008,Bronze,AZE,Azerbaijan,Khetag GAZYUMOV,2008 Beijing,Wrestling Freestyle,Men's,84 - 96kg
+Summer,2008,Bronze,CUB,Cuba,Michel Batista,2008 Beijing,Wrestling Freestyle,Men's,84 - 96kg
+Summer,2008,Gold,RUS,Russian Federation,Bakhtiyar AKHMEDOV,2008 Beijing,Wrestling Freestyle,Men's,96 - 120kg
+Summer,2008,Silver,SVK,Slovakia,David MOUSSOULBES,2008 Beijing,Wrestling Freestyle,Men's,96 - 120kg
+Summer,2008,Bronze,CUB,Cuba,Disney RODRIGUEZ,2008 Beijing,Wrestling Freestyle,Men's,96 - 120kg
+Summer,2008,Bronze,KAZ,Kazakhstan,Marid MUTALIMOV,2008 Beijing,Wrestling Freestyle,Men's,96 - 120kg
+Summer,2008,Gold,CAN,Canada,Carol HUYNH,2008 Beijing,Wrestling Freestyle,Women's,- 48kg
+Summer,2008,Silver,JPN,Japan,Chiharu ICHO,2008 Beijing,Wrestling Freestyle,Women's,- 48kg
+Summer,2008,Bronze,AZE,Azerbaijan,Mariya STADNIK,2008 Beijing,Wrestling Freestyle,Women's,- 48kg
+Summer,2008,Bronze,UKR,Ukraine,Irini MERLENI,2008 Beijing,Wrestling Freestyle,Women's,- 48kg
+Summer,2008,Gold,JPN,Japan,Saori YOSHIDA,2008 Beijing,Wrestling Freestyle,Women's,48 - 55kg
+Summer,2008,Silver,CHN,China,Li XU,2008 Beijing,Wrestling Freestyle,Women's,48 - 55kg
+Summer,2008,Bronze,CAN,Canada,Tonya VERBEEK,2008 Beijing,Wrestling Freestyle,Women's,48 - 55kg
+Summer,2008,Bronze,COL,Colombia,Jackeline RENTERIA,2008 Beijing,Wrestling Freestyle,Women's,48 - 55kg
+Summer,2008,Gold,JPN,Japan,Kaori ICHO,2008 Beijing,Wrestling Freestyle,Women's,55 - 63kg
+Summer,2008,Silver,RUS,Russian Federation,Alena KARTASHOVA,2008 Beijing,Wrestling Freestyle,Women's,55 - 63kg
+Summer,2008,Bronze,KAZ,Kazakhstan,Yelena SHALYGINA,2008 Beijing,Wrestling Freestyle,Women's,55 - 63kg
+Summer,2008,Bronze,USA,United States,Randi MILLER,2008 Beijing,Wrestling Freestyle,Women's,55 - 63kg
+Summer,2008,Gold,CHN,China,Jiao WANG,2008 Beijing,Wrestling Freestyle,Women's,63 - 72kg
+Summer,2008,Silver,BUL,Bulgaria,Stanka ZLATEVA,2008 Beijing,Wrestling Freestyle,Women's,63 - 72kg
+Summer,2008,Bronze,JPN,Japan,Kyoko HAMAGUCHI,2008 Beijing,Wrestling Freestyle,Women's,63 - 72kg
+Summer,2008,Bronze,POL,Poland,Agnieszka WIESZCZEK,2008 Beijing,Wrestling Freestyle,Women's,63 - 72kg
+Summer,2008,Gold,RUS,Russian Federation,Nazyr MANKIEV,2008 Beijing,Wrestling Greco-Roman,Men's,- 55kg
+Summer,2008,Silver,AZE,Azerbaijan,Rovshan BAYRAMOV,2008 Beijing,Wrestling Greco-Roman,Men's,- 55kg
+Summer,2008,Bronze,ARM,Armenia,Roman AMOYAN,2008 Beijing,Wrestling Greco-Roman,Men's,- 55kg
+Summer,2008,Bronze,KOR,Korea Republic,Eun-Chul PARK,2008 Beijing,Wrestling Greco-Roman,Men's,- 55kg
+Summer,2008,Gold,RUS,Russian Federation,Islam-Beka ALBIEV,2008 Beijing,Wrestling Greco-Roman,Men's,55 - 60kg
+Summer,2008,Silver,KAZ,Kazakhstan,Nurbakyt TENGIZBAYEV,2008 Beijing,Wrestling Greco-Roman,Men's,55 - 60kg
+Summer,2008,Bronze,CHN,China,Sheng Jiang,2008 Beijing,Wrestling Greco-Roman,Men's,55 - 60kg
+Summer,2008,Bronze,KGZ,Kyrgyzstan,Ruslan TIUMENBAEV,2008 Beijing,Wrestling Greco-Roman,Men's,55 - 60kg
+Summer,2008,Gold,FRA,France,Steeve GUENOT,2008 Beijing,Wrestling Greco-Roman,Men's,60 - 66kg
+Summer,2008,Silver,KGZ,Kyrgyzstan,Kanatbek BEGALIEV,2008 Beijing,Wrestling Greco-Roman,Men's,60 - 66kg
+Summer,2008,Bronze,BLR,Belarus,Mikhail SIAMIONAU,2008 Beijing,Wrestling Greco-Roman,Men's,60 - 66kg
+Summer,2008,Bronze,UKR,Ukraine,Armen VARDANYAN,2008 Beijing,Wrestling Greco-Roman,Men's,60 - 66kg
+Summer,2008,Gold,GEO,Georgia,Manuchar KVIRKELIA,2008 Beijing,Wrestling Greco-Roman,Men's,66 - 74kg
+Summer,2008,Silver,CHN,China,Yongxiang CHANG,2008 Beijing,Wrestling Greco-Roman,Men's,66 - 74kg
+Summer,2008,Bronze,BUL,Bulgaria,Yavor YANAKIEV,2008 Beijing,Wrestling Greco-Roman,Men's,66 - 74kg
+Summer,2008,Bronze,FRA,France,Christophe GUENOT,2008 Beijing,Wrestling Greco-Roman,Men's,66 - 74kg
+Summer,2008,Gold,ITA,Italy,Andrea MINGUZZI,2008 Beijing,Wrestling Greco-Roman,Men's,74 - 84kg
+Summer,2008,Silver,HUN,Hungary,Zoltan FODOR,2008 Beijing,Wrestling Greco-Roman,Men's,74 - 84kg
+Summer,2008,Bronze,TUR,Turkey,Nazmi AVLUCA,2008 Beijing,Wrestling Greco-Roman,Men's,74 - 84kg
+Summer,2008,Gold,RUS,Russian Federation,Aslanbek KHUSHTOV,2008 Beijing,Wrestling Greco-Roman,Men's,84 - 96kg
+Summer,2008,Silver,GER,Germany,Mirko ENGLICH,2008 Beijing,Wrestling Greco-Roman,Men's,84 - 96kg
+Summer,2008,Bronze,CZE,Czech Republic,Marek Švec,2008 Beijing,Wrestling Greco-Roman,Men's,84 - 96kg
+Summer,2008,Bronze,USA,United States,Adam WHEELER,2008 Beijing,Wrestling Greco-Roman,Men's,84 - 96kg
+Summer,2008,Gold,CUB,Cuba,Mijain LOPEZ,2008 Beijing,Wrestling Greco-Roman,Men's,96 - 120kg
+Summer,2008,Silver,LTU,Lithuania,Mindaugas MIZGAITIS,2008 Beijing,Wrestling Greco-Roman,Men's,96 - 120kg
+Summer,2008,Bronze,ARM,Armenia,Yuri PATRIKEEV,2008 Beijing,Wrestling Greco-Roman,Men's,96 - 120kg
+Summer,2008,Bronze,FRA,France,Yannick Szczepaniak,2008 Beijing,Wrestling Greco-Roman,Men's,96 - 120kg
+Summer,2008,Gold,KOR,Korea Republic,"Jin-Man PARK, Jungkeun BONG, Daeho LEE, Yongkyu LEE, Dong-Joo KIM, Hyunjin RYU, Tae-Hyon CHONG, Youngmin KO, Seungjun SONG, Jongwook LEE, Suk Min YOON, Kijoo HAN, Hyunsoo KIM, Taekkeun LEE, Minjae KIM, Seung Yuop LEE, Minho KANG, Seunghwan OH, Kab-Yong JIN, Keunwoo JEONG, Hyuk KWON, Jinyoung LEE, Wonsam JANG, Kwanghyun KIM",2008 Beijing,Baseball^(1992-2008),Men's,baseball
+Summer,2008,Silver,CUB,Cuba,"Hector OLIVERA, Alfredo DESPAIGNE, Jonder MARTINEZ MARTINEZ, Miguel LA HERA, Luis Miguel NAVAS GONZALEZ, Alexander MAYETA, Vicyohandri ODELIN SANAME, Yoandry URGELLES, Eduardo PARET, Rolando MERINO, Frederich CEPEDA CRUZ, Yulieski GOURRIEL CASTILLO, Luis RODRIGUEZ, Ariel PESTANO, Norge Luis VERA, Giorbis DUVERGEL, Michel ENRIQUEZ TAMAYO, Eriel SANCHEZ, Pedro Luis LAZO, Adiel PALMA, Alexei BELL, Yadier PEDROSO, Norberto GONZALEZ, Elier SANCHEZ",2008 Beijing,Baseball^(1992-2008),Men's,baseball
+Summer,2008,Bronze,USA,United States,"Jeremy CUMMINGS, Casey WEATHERS, Blaine NEAL, Stephen STRASBURG, Kevin JEPSEN, Terry TIFFEE, Matt BROWN, Mike HESSMAN, Brett ANDERSON, Brian DUENSING, Matt LAPORTA, Trevor CAHILL, John GALL, Jeff STEVENS, Nate SCHIERHOLTZ, Jake ARRIETA, Lou MARSON, Brian BARDEN, Jayson NIX, Michael KOPLOVE, Brandon KNIGHT, Dexter FOWLER, Taylor TEAGARDEN, Jason DONALD",2008 Beijing,Baseball^(1992-2008),Men's,baseball
+Summer,2008,Gold,JPN,Japan,"Sachiko ITO, Megu HIROSE, Rei NISHIYAMA, Emi INUI, Yukiko UENO, Motoko FUJIMOTO, Masumi MISHINA, Ayumi KARINO, Mika SOMEYA, Naho EMOTO, Rie SATO, Yukiyo MINE, Hiroko SAKAI, Satoko MABUCHI, Eri YAMADA",2008 Beijing,Softball^(1996-2008),Women's,softball
+Summer,2008,Silver,USA,United States,"Jessica MENDOZA, Victoria GALINDO, Lovieanne JUNG, Caitlin LOWE, Andrea DURAN, Crystl BUSTOS, Catherine OSTERMAN, Jennie FINCH, Tairia FLOWERS, Natasha WATLEY, Laura BERG, Kelly KRETSCHMAN, Monica ABBOTT, Lauren LAPPIN, Stacey NUVEMAN",2008 Beijing,Softball^(1996-2008),Women's,softball
+Summer,2008,Bronze,AUS,Australia,"Stacey PORTER, Tanya HARDING, Kelly HARDIE, Danielle STEWART, Tracey MOSLEY, Natalie TITCUME, Kylie CRONK, Belinda WRIGHT, Melanie ROCHE, Simmone MORROW, Natalie WARD, Kerry WYBORN, Jodie BOWERING, Justine SMETHURST, Sandra ALLEN",2008 Beijing,Softball^(1996-2008),Women's,softball

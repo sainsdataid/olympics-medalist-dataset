@@ -1,0 +1,43 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1932,Gold,USA,United States,"J. Hubert STEVENS, Curtis STEVENS",1932 Lake Placid,Bobsleigh,Men's,two-man
+Winter,1932,Silver,SUI,Switzerland,"Reto CAPADRUTT, Oscar GEIER",1932 Lake Placid,Bobsleigh,Men's,two-man
+Winter,1932,Bronze,USA,United States,"John HEATON, Robert MINTON",1932 Lake Placid,Bobsleigh,Men's,two-man
+Winter,1932,Gold,USA,United States,"William FISKE, Clifford Barton GRAY, Edward EAGAN, James Jay O'BRIEN",1932 Lake Placid,Bobsleigh,Men's,four-man
+Winter,1932,Silver,USA,United States,"Henry Anton HOMBURGER, Francis Paul STEVENS, Percy D. BRYANT, Edmund Carlton HORTON",1932 Lake Placid,Bobsleigh,Men's,four-man
+Winter,1932,Bronze,GER,Germany,"Hanns KILIAN, Max LUDWIG, Hans MEHLHORN, Sebastian HUBER",1932 Lake Placid,Bobsleigh,Men's,four-man
+Winter,1932,Gold,SWE,Sweden,Sven UTTERSTRÖM,1932 Lake Placid,Cross Country Skiing,Men's,18km
+Winter,1932,Silver,SWE,Sweden,Axel WIKSTRÖM,1932 Lake Placid,Cross Country Skiing,Men's,18km
+Winter,1932,Bronze,FIN,Finland,Veli SAARINEN,1932 Lake Placid,Cross Country Skiing,Men's,18km
+Winter,1932,Gold,FIN,Finland,Veli SAARINEN,1932 Lake Placid,Cross Country Skiing,Men's,50km
+Winter,1932,Silver,FIN,Finland,Väinö LIIKKANEN,1932 Lake Placid,Cross Country Skiing,Men's,50km
+Winter,1932,Bronze,NOR,Norway,Arne RUSTADSTUEN,1932 Lake Placid,Cross Country Skiing,Men's,50km
+Winter,1932,Gold,AUT,Austria,Karl SCHÄFER,1932 Lake Placid,Figure skating,Men's,individual
+Winter,1932,Silver,SWE,Sweden,Gillis GRAFSTRÖM,1932 Lake Placid,Figure skating,Men's,individual
+Winter,1932,Bronze,CAN,Canada,Montgomery WILSON,1932 Lake Placid,Figure skating,Men's,individual
+Winter,1932,Gold,NOR,Norway,Sonja HENIE,1932 Lake Placid,Figure skating,Women's,individual
+Winter,1932,Silver,AUT,Austria,Fritzi BURGER,1932 Lake Placid,Figure skating,Women's,individual
+Winter,1932,Bronze,USA,United States,Maribel VINSON,1932 Lake Placid,Figure skating,Women's,individual
+Winter,1932,Gold,FRA,France,"Andrée JOLY, Pierre BRUNET",1932 Lake Placid,Figure skating,Mixed,pairs
+Winter,1932,Silver,USA,United States,"Sherwin BADGER, Beatrix LOUGHRAN",1932 Lake Placid,Figure skating,Mixed,pairs
+Winter,1932,Bronze,HUN,Hungary,"László SZOLLÁS, Emília ROTTER",1932 Lake Placid,Figure skating,Mixed,pairs
+Winter,1932,Gold,CAN,Canada,"Roy HINKEL, Bill COCKBURN, Clifford CROWLEY, George GARBUTT, Alston WISE, Kenneth MOORE, Stanley WAGNER, Albert DUNCANSON, Harold SIMPSON, Hugh SUTHERLAND, Romeo RIVERS, Norman MALLOY, Walter MONSON, Vic LINDQUIST",1932 Lake Placid,Ice Hockey,Men's,ice hockey
+Winter,1932,Silver,USA,United States,"Franklin FARRELL, John BENT, John COOKMAN, Winthrop PALMER, Gordon SMITH, Joseph FITZGERALD, Douglas Newton EVERETT, Ted FRAZIER, Gerard HALLOCK, Francis NELSON, Osborne ANDERSON, John CHASE, John GARRISON, Robert Cambridge LIVINGSTON",1932 Lake Placid,Ice Hockey,Men's,ice hockey
+Winter,1932,Bronze,GER,Germany,"Erich RÖMER, Rudi BALL, Georg STROBL, Walter LEINWEBER, Gustav JAENECKE, Erich HERKER, Marquard SLEVOGT, Werner KORFF, Alfred HEINRICH, Martin SCHRÖTTLE",1932 Lake Placid,Ice Hockey,Men's,ice hockey
+Winter,1932,Gold,NOR,Norway,Johan GROTTUMSBRAATEN,1932 Lake Placid,Nordic Combined,Men's,individual
+Winter,1932,Silver,NOR,Norway,Ole STENEN,1932 Lake Placid,Nordic Combined,Men's,individual
+Winter,1932,Bronze,NOR,Norway,Hans VINJARENGEN,1932 Lake Placid,Nordic Combined,Men's,individual
+Winter,1932,Gold,NOR,Norway,Birger RUUD,1932 Lake Placid,Ski Jumping,Men's,Normal Hill individual
+Winter,1932,Silver,NOR,Norway,Hans BECK,1932 Lake Placid,Ski Jumping,Men's,Normal Hill individual
+Winter,1932,Bronze,NOR,Norway,Kåre WALBERG,1932 Lake Placid,Ski Jumping,Men's,Normal Hill individual
+Winter,1932,Gold,USA,United States,Jack SHEA,1932 Lake Placid,Speed skating,Men's,500m
+Winter,1932,Silver,NOR,Norway,Bernt EVENSEN,1932 Lake Placid,Speed skating,Men's,500m
+Winter,1932,Bronze,CAN,Canada,Alexander HURD,1932 Lake Placid,Speed skating,Men's,500m
+Winter,1932,Gold,USA,United States,Jack SHEA,1932 Lake Placid,Speed skating,Men's,1500m
+Winter,1932,Silver,CAN,Canada,Alexander HURD,1932 Lake Placid,Speed skating,Men's,1500m
+Winter,1932,Bronze,CAN,Canada,William LOGAN,1932 Lake Placid,Speed skating,Men's,1500m
+Winter,1932,Gold,USA,United States,Irving JAFFEE,1932 Lake Placid,Speed skating,Men's,5000m
+Winter,1932,Silver,USA,United States,Edward MURPHY,1932 Lake Placid,Speed skating,Men's,5000m
+Winter,1932,Bronze,CAN,Canada,William LOGAN,1932 Lake Placid,Speed skating,Men's,5000m
+Winter,1932,Gold,USA,United States,Irving JAFFEE,1932 Lake Placid,Speed skating,Men's,10000m
+Winter,1932,Silver,NOR,Norway,Ivar BALLANGRUD,1932 Lake Placid,Speed skating,Men's,10000m
+Winter,1932,Bronze,CAN,Canada,Frank STACK,1932 Lake Placid,Speed skating,Men's,10000m

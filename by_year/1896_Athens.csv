@@ -1,0 +1,123 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1896,Gold,USA,United States,Thomas BURKE,1896 Athens,Athletics,Men's,100m
+Summer,1896,Silver,GER,Germany,Fritz HOFMANN,1896 Athens,Athletics,Men's,100m
+Summer,1896,Bronze,HUN,Hungary,Alajos SZOKOLYI,1896 Athens,Athletics,Men's,100m
+Summer,1896,Bronze,USA,United States,Francis LANE,1896 Athens,Athletics,Men's,100m
+Summer,1896,Gold,USA,United States,Thomas BURKE,1896 Athens,Athletics,Men's,400m
+Summer,1896,Silver,USA,United States,Herbert JAMISON,1896 Athens,Athletics,Men's,400m
+Summer,1896,Bronze,GBR,Great Britain,Charles GMELIN,1896 Athens,Athletics,Men's,400m
+Summer,1896,Gold,AUS,Australia,Edwin FLACK,1896 Athens,Athletics,Men's,800m
+Summer,1896,Silver,HUN,Hungary,Nandor DANI,1896 Athens,Athletics,Men's,800m
+Summer,1896,Bronze,GRE,Greece,Dimitrios GOLEMIS,1896 Athens,Athletics,Men's,800m
+Summer,1896,Gold,AUS,Australia,Edwin FLACK,1896 Athens,Athletics,Men's,1500m
+Summer,1896,Silver,USA,United States,Arthur BLAKE,1896 Athens,Athletics,Men's,1500m
+Summer,1896,Bronze,FRA,France,Albin LERMUSIAUX,1896 Athens,Athletics,Men's,1500m
+Summer,1896,Gold,GRE,Greece,Spyridon LOUIS,1896 Athens,Athletics,Men's,marathon
+Summer,1896,Silver,GRE,Greece,Kharilaos VASILAKOS,1896 Athens,Athletics,Men's,marathon
+Summer,1896,Bronze,HUN,Hungary,Gyula KELLNER,1896 Athens,Athletics,Men's,marathon
+Summer,1896,Gold,USA,United States,Thomas CURTIS,1896 Athens,Athletics,Men's,110m hurdles
+Summer,1896,Silver,GBR,Great Britain,Grantley GOULDING,1896 Athens,Athletics,Men's,110m hurdles
+Summer,1896,Gold,USA,United States,Ellery CLARK,1896 Athens,Athletics,Men's,long jump
+Summer,1896,Silver,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,long jump
+Summer,1896,Bronze,USA,United States,James CONNOLLY,1896 Athens,Athletics,Men's,long jump
+Summer,1896,Gold,USA,United States,James CONNOLLY,1896 Athens,Athletics,Men's,triple jump
+Summer,1896,Silver,FRA,France,Alexandre TUFFERI,1896 Athens,Athletics,Men's,triple jump
+Summer,1896,Bronze,GRE,Greece,Ioannis PERSAKIS,1896 Athens,Athletics,Men's,triple jump
+Summer,1896,Gold,USA,United States,Ellery CLARK,1896 Athens,Athletics,Men's,high jump
+Summer,1896,Silver,USA,United States,James CONNOLLY,1896 Athens,Athletics,Men's,high jump
+Summer,1896,Silver,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,high jump
+Summer,1896,Gold,USA,United States,William Welles HOYT,1896 Athens,Athletics,Men's,pole vault
+Summer,1896,Silver,USA,United States,Albert TYLER,1896 Athens,Athletics,Men's,pole vault
+Summer,1896,Bronze,GRE,Greece,Evangelos DAMASKOS,1896 Athens,Athletics,Men's,pole vault
+Summer,1896,Bronze,GRE,Greece,Ioannis THEODOROPOULOS,1896 Athens,Athletics,Men's,pole vault
+Summer,1896,Gold,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,shot put
+Summer,1896,Silver,GRE,Greece,Miltiadis GOUSKOS,1896 Athens,Athletics,Men's,shot put
+Summer,1896,Bronze,GRE,Greece,Georgios PAPASIDERIS,1896 Athens,Athletics,Men's,shot put
+Summer,1896,Gold,USA,United States,Robert GARRETT,1896 Athens,Athletics,Men's,discus throw
+Summer,1896,Silver,GRE,Greece,Panagiotis PARASKEVOPOULOS,1896 Athens,Athletics,Men's,discus throw
+Summer,1896,Bronze,GRE,Greece,Sotirios VERSIS,1896 Athens,Athletics,Men's,discus throw
+Summer,1896,Gold,GRE,Greece,Aristidis KONSTANTINIDIS,1896 Athens,Cycling Road,Men's,individual road race
+Summer,1896,Silver,GER,Germany,August GOEDRICH,1896 Athens,Cycling Road,Men's,individual road race
+Summer,1896,Bronze,GBR,Great Britain,Edward BATTEL,1896 Athens,Cycling Road,Men's,individual road race
+Summer,1896,Gold,FRA,France,Paul MASSON,1896 Athens,Cycling Track,Men's,sprint individual
+Summer,1896,Silver,GRE,Greece,Stamatios NIKOLOPOULOS,1896 Athens,Cycling Track,Men's,sprint individual
+Summer,1896,Bronze,FRA,France,Léon FLAMENG,1896 Athens,Cycling Track,Men's,sprint individual
+Summer,1896,Gold,FRA,France,Paul MASSON,1896 Athens,Cycling Track,Men's,1/3km time trial
+Summer,1896,Silver,GRE,Greece,Stamatios NIKOLOPOULOS,1896 Athens,Cycling Track,Men's,1/3km time trial
+Summer,1896,Bronze,AUT,Austria,Adolf SCHMAL,1896 Athens,Cycling Track,Men's,1/3km time trial
+Summer,1896,Gold,FRA,France,Paul MASSON,1896 Athens,Cycling Track,Men's,10km
+Summer,1896,Silver,FRA,France,Léon FLAMENG,1896 Athens,Cycling Track,Men's,10km
+Summer,1896,Bronze,AUT,Austria,Adolf SCHMAL,1896 Athens,Cycling Track,Men's,10km
+Summer,1896,Gold,FRA,France,Léon FLAMENG,1896 Athens,Cycling Track,Men's,100km
+Summer,1896,Silver,GRE,Greece,Georgios KOLETTIS,1896 Athens,Cycling Track,Men's,100km
+Summer,1896,Gold,AUT,Austria,Adolf SCHMAL,1896 Athens,Cycling Track,Men's,12-hour race
+Summer,1896,Silver,GBR,Great Britain,Frank KEEPING,1896 Athens,Cycling Track,Men's,12-hour race
+Summer,1896,Gold,FRA,France,Eugène-Henri GRAVELOTTE,1896 Athens,Fencing,Men's,foil individual
+Summer,1896,Silver,FRA,France,Henri CALLOT,1896 Athens,Fencing,Men's,foil individual
+Summer,1896,Bronze,GRE,Greece,Athanasios Vouros,1896 Athens,Fencing,Men's,foil individual
+Summer,1896,Bronze,GRE,Greece,Perikles PIERRAKOS-MAVROMICHALIS,1896 Athens,Fencing,Men's,foil individual
+Summer,1896,Gold,GRE,Greece,Leonidas PYRGOS,1896 Athens,Fencing,Men's,"foil, masters"
+Summer,1896,Silver,FRA,France,Maurice PERRONNET,1896 Athens,Fencing,Men's,"foil, masters"
+Summer,1896,Gold,GRE,Greece,Ioannis GEORGIADIS,1896 Athens,Fencing,Men's,sabre individual
+Summer,1896,Silver,GRE,Greece,Telemachos KARAKALOS,1896 Athens,Fencing,Men's,sabre individual
+Summer,1896,Bronze,DEN,Denmark,Holger NIELSEN,1896 Athens,Fencing,Men's,sabre individual
+Summer,1896,Gold,GER,Germany,"Konrad BÖCKER, Fritz MANTEUFFEL, Richard RÖSTEL, Gustav SCHUFT, Hermann WEINGÄRTNER, Georg HILMAR, Fritz HOFMANN, Alfred FLATOW, Karl NEUKIRCH, Carl SCHUMANN, Gustav Felix FLATOW",1896 Athens,Gymnastics Artistic,Men's,"team, parallel bars"
+Summer,1896,Silver,GRE,Greece,"Nicolaos ANDRIAKOPOULOS, Thomasios XENAKIS, Petros PERSAKIS, Spyros ATHANASOPOULOS",1896 Athens,Gymnastics Artistic,Men's,"team, parallel bars"
+Summer,1896,Bronze,GRE,Greece,"Ioannis MITROPOULOS, Phillippos KARVELAS, Ioannis CHRYSAPHIS, Dimitrios LOUNDRAS",1896 Athens,Gymnastics Artistic,Men's,"team, parallel bars"
+Summer,1896,Gold,GER,Germany,"Fritz HOFMANN, Alfred FLATOW, Georg HILMAR, Karl NEUKIRCH, Gustav SCHUFT, Hermann WEINGÄRTNER, Konrad BÖCKER, Gustav Felix FLATOW, Fritz MANTEUFFEL, Richard RÖSTEL, Carl SCHUMANN",1896 Athens,Gymnastics Artistic,Men's,"team, horizontal bar"
+Summer,1896,Gold,GER,Germany,Alfred FLATOW,1896 Athens,Gymnastics Artistic,Men's,parallel bars
+Summer,1896,Silver,SUI,Switzerland,Louis ZUTTER,1896 Athens,Gymnastics Artistic,Men's,parallel bars
+Summer,1896,Gold,GER,Germany,Hermann WEINGÄRTNER,1896 Athens,Gymnastics Artistic,Men's,horizontal bar
+Summer,1896,Silver,GER,Germany,Alfred FLATOW,1896 Athens,Gymnastics Artistic,Men's,horizontal bar
+Summer,1896,Gold,GER,Germany,Carl SCHUMANN,1896 Athens,Gymnastics Artistic,Men's,vault
+Summer,1896,Silver,SUI,Switzerland,Louis ZUTTER,1896 Athens,Gymnastics Artistic,Men's,vault
+Summer,1896,Bronze,GER,Germany,Hermann WEINGÄRTNER,1896 Athens,Gymnastics Artistic,Men's,vault
+Summer,1896,Gold,GRE,Greece,Ioannis MITROPOULOS,1896 Athens,Gymnastics Artistic,Men's,rings
+Summer,1896,Silver,GER,Germany,Hermann WEINGÄRTNER,1896 Athens,Gymnastics Artistic,Men's,rings
+Summer,1896,Bronze,GRE,Greece,Petros PERSAKIS,1896 Athens,Gymnastics Artistic,Men's,rings
+Summer,1896,Gold,SUI,Switzerland,Louis ZUTTER,1896 Athens,Gymnastics Artistic,Men's,pommel horse
+Summer,1896,Silver,GER,Germany,Hermann WEINGÄRTNER,1896 Athens,Gymnastics Artistic,Men's,pommel horse
+Summer,1896,Gold,GRE,Greece,Nicolaos ANDRIAKOPOULOS,1896 Athens,Gymnastics Artistic,Men's,rope climbing
+Summer,1896,Silver,GRE,Greece,Thomasios XENAKIS,1896 Athens,Gymnastics Artistic,Men's,rope climbing
+Summer,1896,Bronze,GER,Germany,Fritz HOFMANN,1896 Athens,Gymnastics Artistic,Men's,rope climbing
+Summer,1896,Gold,USA,United States,John PAINE,1896 Athens,Shooting,Men's,25m army pistol
+Summer,1896,Silver,USA,United States,Sumner PAINE,1896 Athens,Shooting,Men's,25m army pistol
+Summer,1896,Bronze,GRE,Greece,Nikolaos MORAKIS,1896 Athens,Shooting,Men's,25m army pistol
+Summer,1896,Gold,GRE,Greece,Joannis PHRANGOUDIS,1896 Athens,Shooting,Men's,25m rapid fire pistol
+Summer,1896,Silver,GRE,Greece,Georgios ORPHANIDIS,1896 Athens,Shooting,Men's,25m rapid fire pistol
+Summer,1896,Bronze,DEN,Denmark,Holger NIELSEN,1896 Athens,Shooting,Men's,25m rapid fire pistol
+Summer,1896,Gold,USA,United States,Sumner PAINE,1896 Athens,Shooting,Men's,50m pistol
+Summer,1896,Silver,DEN,Denmark,Holger NIELSEN,1896 Athens,Shooting,Men's,50m pistol
+Summer,1896,Bronze,GRE,Greece,Joannis PHRANGOUDIS,1896 Athens,Shooting,Men's,50m pistol
+Summer,1896,Gold,GRE,Greece,Pantelis KARASEVDAS,1896 Athens,Shooting,Men's,"army rifle, 200m"
+Summer,1896,Silver,GRE,Greece,Pavlos PAVLIDIS,1896 Athens,Shooting,Men's,"army rifle, 200m"
+Summer,1896,Bronze,GRE,Greece,Nicolaos TRIKUPIS,1896 Athens,Shooting,Men's,"army rifle, 200m"
+Summer,1896,Gold,GRE,Greece,Georgios ORPHANIDIS,1896 Athens,Shooting,Men's,"army rifle, 300m"
+Summer,1896,Silver,GRE,Greece,Joannis PHRANGOUDIS,1896 Athens,Shooting,Men's,"army rifle, 300m"
+Summer,1896,Bronze,DEN,Denmark,Viggo JENSEN,1896 Athens,Shooting,Men's,"army rifle, 300m"
+Summer,1896,Gold,HUN,Hungary,Alfred HAJOS,1896 Athens,Swimming,Men's,100m freestyle
+Summer,1896,Silver,AUT,Austria,Otto HERSCHMANN,1896 Athens,Swimming,Men's,100m freestyle
+Summer,1896,Gold,GRE,Greece,Ioannis MALOKINIS,1896 Athens,Swimming,Men's,100m freestyle for sailors
+Summer,1896,Silver,GRE,Greece,Spiridon CHASAPIS,1896 Athens,Swimming,Men's,100m freestyle for sailors
+Summer,1896,Bronze,GRE,Greece,Dimitrios DRIVAS,1896 Athens,Swimming,Men's,100m freestyle for sailors
+Summer,1896,Gold,AUT,Austria,Paul NEUMANN,1896 Athens,Swimming,Men's,500m freestyle
+Summer,1896,Silver,GRE,Greece,Antonios PEPANOS,1896 Athens,Swimming,Men's,500m freestyle
+Summer,1896,Bronze,GRE,Greece,Efstathios CHOROPHAS,1896 Athens,Swimming,Men's,500m freestyle
+Summer,1896,Gold,HUN,Hungary,Alfred HAJOS,1896 Athens,Swimming,Men's,1200m freestyle
+Summer,1896,Silver,GRE,Greece,Joannis ANDREOU,1896 Athens,Swimming,Men's,1200m freestyle
+Summer,1896,Gold,GBR,Great Britain,John BOLAND,1896 Athens,Tennis,Men's,singles
+Summer,1896,Silver,GRE,Greece,Dionysios KASDAGLIS,1896 Athens,Tennis,Men's,singles
+Summer,1896,Bronze,GRE,Greece,Konstantinos PASPATIS,1896 Athens,Tennis,Men's,singles
+Summer,1896,Bronze,HUN,Hungary,Momcsillo TAPAVICZA,1896 Athens,Tennis,Men's,singles
+Summer,1896,Gold,XXB,Mixed Team,"Friedrich TRAUN (GER), John BOLAND (GBR)",1896 Athens,Tennis,Men's,doubles
+Summer,1896,Silver,GRE,Greece,"Demetrios PETROKOKKINOS, Dionysios KASDAGLIS",1896 Athens,Tennis,Men's,doubles
+Summer,1896,Bronze,XXB,Mixed Team,"George Stuart ROBERTSON (GBR), Edwin FLACK (AUS)",1896 Athens,Tennis,Men's,doubles
+Summer,1896,Gold,GBR,Great Britain,Launceston ELLIOTT,1896 Athens,Weightlifting,Men's,heavyweight - one hand lift
+Summer,1896,Silver,DEN,Denmark,Viggo JENSEN,1896 Athens,Weightlifting,Men's,heavyweight - one hand lift
+Summer,1896,Bronze,GRE,Greece,Alexandros NIKOLOPOULOS,1896 Athens,Weightlifting,Men's,heavyweight - one hand lift
+Summer,1896,Gold,DEN,Denmark,Viggo JENSEN,1896 Athens,Weightlifting,Men's,heavyweight - two hand lift
+Summer,1896,Silver,GBR,Great Britain,Launceston ELLIOTT,1896 Athens,Weightlifting,Men's,heavyweight - two hand lift
+Summer,1896,Bronze,GRE,Greece,Sotirios VERSIS,1896 Athens,Weightlifting,Men's,heavyweight - two hand lift
+Summer,1896,Gold,GER,Germany,Carl SCHUMANN,1896 Athens,Wrestling Greco-Roman,Men's,open event
+Summer,1896,Silver,GRE,Greece,Georgios TSITAS,1896 Athens,Wrestling Greco-Roman,Men's,open event
+Summer,1896,Bronze,GRE,Greece,Stephanos CHRISTOPOULOS,1896 Athens,Wrestling Greco-Roman,Men's,open event

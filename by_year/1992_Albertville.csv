@@ -1,0 +1,172 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1992,Gold,ITA,Italy,Josef POLIG,1992 Albertville,Alpine Skiing,Men's,Alpine combined
+Winter,1992,Silver,ITA,Italy,Gianfranco MARTIN,1992 Albertville,Alpine Skiing,Men's,Alpine combined
+Winter,1992,Bronze,SUI,Switzerland,Steve LOCHER,1992 Albertville,Alpine Skiing,Men's,Alpine combined
+Winter,1992,Gold,NOR,Norway,Finn Christian JAGGE,1992 Albertville,Alpine Skiing,Men's,slalom
+Winter,1992,Silver,ITA,Italy,Alberto TOMBA,1992 Albertville,Alpine Skiing,Men's,slalom
+Winter,1992,Bronze,AUT,Austria,Michael TRITSCHER,1992 Albertville,Alpine Skiing,Men's,slalom
+Winter,1992,Gold,ITA,Italy,Alberto TOMBA,1992 Albertville,Alpine Skiing,Men's,giant slalom
+Winter,1992,Silver,LUX,Luxembourg,Marc GIRARDELLI,1992 Albertville,Alpine Skiing,Men's,giant slalom
+Winter,1992,Bronze,NOR,Norway,Kjetil Andre AAMODT,1992 Albertville,Alpine Skiing,Men's,giant slalom
+Winter,1992,Gold,NOR,Norway,Kjetil Andre AAMODT,1992 Albertville,Alpine Skiing,Men's,super-G
+Winter,1992,Silver,LUX,Luxembourg,Marc GIRARDELLI,1992 Albertville,Alpine Skiing,Men's,super-G
+Winter,1992,Bronze,NOR,Norway,Jan Einar THORSEN,1992 Albertville,Alpine Skiing,Men's,super-G
+Winter,1992,Gold,AUT,Austria,Patrick ORTLIEB,1992 Albertville,Alpine Skiing,Men's,downhill
+Winter,1992,Silver,FRA,France,Franck PICCARD,1992 Albertville,Alpine Skiing,Men's,downhill
+Winter,1992,Bronze,AUT,Austria,Günther MADER,1992 Albertville,Alpine Skiing,Men's,downhill
+Winter,1992,Gold,AUT,Austria,Petra KRONBERGER,1992 Albertville,Alpine Skiing,Women's,Alpine combined
+Winter,1992,Silver,AUT,Austria,Anita WACHTER,1992 Albertville,Alpine Skiing,Women's,Alpine combined
+Winter,1992,Bronze,FRA,France,Florence MASNADA,1992 Albertville,Alpine Skiing,Women's,Alpine combined
+Winter,1992,Gold,AUT,Austria,Petra KRONBERGER,1992 Albertville,Alpine Skiing,Women's,slalom
+Winter,1992,Silver,NZL,New Zealand,Annelise COBERGER,1992 Albertville,Alpine Skiing,Women's,slalom
+Winter,1992,Bronze,ESP,Spain,Blanca FERNANDEZ OCHOA,1992 Albertville,Alpine Skiing,Women's,slalom
+Winter,1992,Gold,SWE,Sweden,Pernilla WIBERG,1992 Albertville,Alpine Skiing,Women's,giant slalom
+Winter,1992,Silver,AUT,Austria,Anita WACHTER,1992 Albertville,Alpine Skiing,Women's,giant slalom
+Winter,1992,Silver,USA,United States,Diann ROFFE,1992 Albertville,Alpine Skiing,Women's,giant slalom
+Winter,1992,Gold,ITA,Italy,Deborah COMPAGNONI,1992 Albertville,Alpine Skiing,Women's,super-G
+Winter,1992,Silver,FRA,France,Carole MERLE,1992 Albertville,Alpine Skiing,Women's,super-G
+Winter,1992,Bronze,GER,Germany,Katja SEIZINGER,1992 Albertville,Alpine Skiing,Women's,super-G
+Winter,1992,Gold,CAN,Canada,Kerrin LEE-GARTNER,1992 Albertville,Alpine Skiing,Women's,downhill
+Winter,1992,Silver,USA,United States,Hilary LINDH,1992 Albertville,Alpine Skiing,Women's,downhill
+Winter,1992,Bronze,AUT,Austria,Veronika STALLMAIER,1992 Albertville,Alpine Skiing,Women's,downhill
+Winter,1992,Gold,GER,Germany,Mark KIRCHNER,1992 Albertville,Biathlon,Men's,10km sprint
+Winter,1992,Silver,GER,Germany,Ricco GROSS,1992 Albertville,Biathlon,Men's,10km sprint
+Winter,1992,Bronze,FIN,Finland,Harri ELORANTA,1992 Albertville,Biathlon,Men's,10km sprint
+Winter,1992,Gold,EUN,Unified Team (ex USSR),Yevgeny REDKIN,1992 Albertville,Biathlon,Men's,20km individual
+Winter,1992,Silver,GER,Germany,Mark KIRCHNER,1992 Albertville,Biathlon,Men's,20km individual
+Winter,1992,Bronze,SWE,Sweden,Mikael LÖFGREN,1992 Albertville,Biathlon,Men's,20km individual
+Winter,1992,Gold,GER,Germany,"Ricco GROSS, Mark KIRCHNER, Jens STEINIGEN, Fritz FISCHER",1992 Albertville,Biathlon,Men's,4x7.5km relay
+Winter,1992,Silver,EUN,Unified Team (ex USSR),"Valeri KIRIENKO, Valery MEDVEDTSEV, Sergei TCHEPIKOV, Aleksandr POPOV",1992 Albertville,Biathlon,Men's,4x7.5km relay
+Winter,1992,Bronze,SWE,Sweden,"Ulf JOHANSSON, Tord WIKSTEN, Leif ANDERSSON, Mikael LÖFGREN",1992 Albertville,Biathlon,Men's,4x7.5km relay
+Winter,1992,Gold,EUN,Unified Team (ex USSR),Anfisa REZTSOVA,1992 Albertville,Biathlon,Women's,7.5km sprint
+Winter,1992,Silver,GER,Germany,Antje HARVEY,1992 Albertville,Biathlon,Women's,7.5km sprint
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),Yelena BELOVA,1992 Albertville,Biathlon,Women's,7.5km sprint
+Winter,1992,Gold,GER,Germany,Antje HARVEY,1992 Albertville,Biathlon,Women's,15km individual
+Winter,1992,Silver,EUN,Unified Team (ex USSR),Svetlana PECHERSKAYA,1992 Albertville,Biathlon,Women's,15km individual
+Winter,1992,Bronze,CAN,Canada,Myriam BEDARD,1992 Albertville,Biathlon,Women's,15km individual
+Winter,1992,Gold,FRA,France,"Véronique CLAUDEL, Corinne NIOGRET, Anne BRIAND BOUTHIAUX",1992 Albertville,Biathlon,Women's,3x7.5km relay
+Winter,1992,Silver,GER,Germany,"Uschi DISL, Petra SCHAAF, Antje HARVEY",1992 Albertville,Biathlon,Women's,3x7.5km relay
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),"Anfisa REZTSOVA, Yelena BELOVA, Elena MELNIKOVA",1992 Albertville,Biathlon,Women's,3x7.5km relay
+Winter,1992,Gold,SUI,Switzerland,"Donat ACKLIN, Gustav WEDER",1992 Albertville,Bobsleigh,Men's,two-man
+Winter,1992,Silver,GER,Germany,"Markus ZIMMERMANN, Rudolf LOCHNER",1992 Albertville,Bobsleigh,Men's,two-man
+Winter,1992,Bronze,GER,Germany,"Günther EGER, Christoph LANGEN",1992 Albertville,Bobsleigh,Men's,two-man
+Winter,1992,Gold,AUT,Austria,"Harald WINKLER, Thomas SCHROLL, Ingo APPELT, Gerhard HAIDACHER",1992 Albertville,Bobsleigh,Men's,four-man
+Winter,1992,Silver,GER,Germany,"Bogdan MUSIOL, Rene HANNEMANN, Wolfgang HOPPE, Axel KÜHN",1992 Albertville,Bobsleigh,Men's,four-man
+Winter,1992,Bronze,SUI,Switzerland,"Gustav WEDER, Lorenz SCHINDELHOLZ, Curdin MORELL, Donat ACKLIN",1992 Albertville,Bobsleigh,Men's,four-man
+Winter,1992,Gold,NOR,Norway,Vegard ULVANG,1992 Albertville,Cross Country Skiing,Men's,10km
+Winter,1992,Silver,ITA,Italy,Marco ALBARELLO,1992 Albertville,Cross Country Skiing,Men's,10km
+Winter,1992,Bronze,SWE,Sweden,Christer MAJBÄCK,1992 Albertville,Cross Country Skiing,Men's,10km
+Winter,1992,Gold,NOR,Norway,Björn DAEHLIE,1992 Albertville,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1992,Silver,NOR,Norway,Vegard ULVANG,1992 Albertville,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1992,Bronze,ITA,Italy,Giorgio VANZETTA,1992 Albertville,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1992,Gold,NOR,Norway,Vegard ULVANG,1992 Albertville,Cross Country Skiing,Men's,30km
+Winter,1992,Silver,NOR,Norway,Björn DAEHLIE,1992 Albertville,Cross Country Skiing,Men's,30km
+Winter,1992,Bronze,NOR,Norway,Terje LANGLI,1992 Albertville,Cross Country Skiing,Men's,30km
+Winter,1992,Gold,NOR,Norway,Björn DAEHLIE,1992 Albertville,Cross Country Skiing,Men's,50km
+Winter,1992,Silver,ITA,Italy,Maurilio DE ZOLT,1992 Albertville,Cross Country Skiing,Men's,50km
+Winter,1992,Bronze,ITA,Italy,Giorgio VANZETTA,1992 Albertville,Cross Country Skiing,Men's,50km
+Winter,1992,Gold,NOR,Norway,"Vegard ULVANG, Björn DAEHLIE, Terje LANGLI, Kristen SKJELDAL",1992 Albertville,Cross Country Skiing,Men's,4x10km relay
+Winter,1992,Silver,ITA,Italy,"Giorgio VANZETTA, Giuseppe PULIE, Silvio FAUNER, Marco ALBARELLO",1992 Albertville,Cross Country Skiing,Men's,4x10km relay
+Winter,1992,Bronze,FIN,Finland,"Jari RÄSÄNEN, Mika KUUSISTO, Jari ISOMETSA, Harri KIRVESNIEMI",1992 Albertville,Cross Country Skiing,Men's,4x10km relay
+Winter,1992,Gold,FIN,Finland,Marjut ROLIG,1992 Albertville,Cross Country Skiing,Women's,5km
+Winter,1992,Silver,EUN,Unified Team (ex USSR),Ljubov EGOROVA,1992 Albertville,Cross Country Skiing,Women's,5km
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),Elena VAELBE,1992 Albertville,Cross Country Skiing,Women's,5km
+Winter,1992,Gold,EUN,Unified Team (ex USSR),Ljubov EGOROVA,1992 Albertville,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1992,Silver,ITA,Italy,Stefania BELMONDO,1992 Albertville,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),Elena VAELBE,1992 Albertville,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1992,Gold,EUN,Unified Team (ex USSR),Ljubov EGOROVA,1992 Albertville,Cross Country Skiing,Women's,15km
+Winter,1992,Silver,FIN,Finland,Marjut ROLIG,1992 Albertville,Cross Country Skiing,Women's,15km
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),Elena VAELBE,1992 Albertville,Cross Country Skiing,Women's,15km
+Winter,1992,Gold,ITA,Italy,Stefania BELMONDO,1992 Albertville,Cross Country Skiing,Women's,30km
+Winter,1992,Silver,EUN,Unified Team (ex USSR),Ljubov EGOROVA,1992 Albertville,Cross Country Skiing,Women's,30km
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),Elena VAELBE,1992 Albertville,Cross Country Skiing,Women's,30km
+Winter,1992,Gold,EUN,Unified Team (ex USSR),"Elena VAELBE, Larissa LAZUTINA, Raisa SMETANINA, Ljubov EGOROVA",1992 Albertville,Cross Country Skiing,Women's,4x5km relay
+Winter,1992,Silver,NOR,Norway,"Trude DYBENDAHL HARTZ, Solveig PEDERSEN, Elin NILSEN, Inger Helene NYBRAATEN",1992 Albertville,Cross Country Skiing,Women's,4x5km relay
+Winter,1992,Bronze,ITA,Italy,"Bice VANZETTA, Gabriella PARUZZI, Manuela DI CENTA, Stefania BELMONDO",1992 Albertville,Cross Country Skiing,Women's,4x5km relay
+Winter,1992,Gold,EUN,Unified Team (ex USSR),Viktor PETRENKO,1992 Albertville,Figure skating,Men's,individual
+Winter,1992,Silver,USA,United States,Paul WYLIE,1992 Albertville,Figure skating,Men's,individual
+Winter,1992,Bronze,TCH,Czechoslovakia,Petr BARNA,1992 Albertville,Figure skating,Men's,individual
+Winter,1992,Gold,USA,United States,Kristi YAMAGUCHI,1992 Albertville,Figure skating,Women's,individual
+Winter,1992,Silver,JPN,Japan,Midori ITO,1992 Albertville,Figure skating,Women's,individual
+Winter,1992,Bronze,USA,United States,Nancy KERRIGAN,1992 Albertville,Figure skating,Women's,individual
+Winter,1992,Gold,EUN,Unified Team (ex USSR),"Artur DMITRIYEV, Natalya MISHKUTYONOK",1992 Albertville,Figure skating,Mixed,pairs
+Winter,1992,Silver,EUN,Unified Team (ex USSR),"Denis PETROV, Yelena BECHKE",1992 Albertville,Figure skating,Mixed,pairs
+Winter,1992,Bronze,CAN,Canada,"Lloyd EISLER, Isabelle BRASSEUR",1992 Albertville,Figure skating,Mixed,pairs
+Winter,1992,Gold,EUN,Unified Team (ex USSR),"Sergey PONOMARENKO, Marina KLIMOVA",1992 Albertville,Figure skating,Mixed,ice dancing
+Winter,1992,Silver,FRA,France,"Paul DUCHESNAY, Isabelle DUCHESNAY-DEAN",1992 Albertville,Figure skating,Mixed,ice dancing
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),"Aleksandr ZHULIN, Maya USOVA",1992 Albertville,Figure skating,Mixed,ice dancing
+Winter,1992,Gold,FRA,France,Edgar GROSPIRON,1992 Albertville,Freestyle Skiing,Men's,moguls
+Winter,1992,Silver,FRA,France,Olivier ALLAMAND,1992 Albertville,Freestyle Skiing,Men's,moguls
+Winter,1992,Bronze,USA,United States,Nelson CARMICHAEL,1992 Albertville,Freestyle Skiing,Men's,moguls
+Winter,1992,Gold,USA,United States,Donna WEINBRECHT,1992 Albertville,Freestyle Skiing,Women's,moguls
+Winter,1992,Silver,EUN,Unified Team (ex USSR),Yelizaveta KOZHEVNIKOVA,1992 Albertville,Freestyle Skiing,Women's,moguls
+Winter,1992,Bronze,NOR,Norway,Stine Lise HATTESTAD,1992 Albertville,Freestyle Skiing,Women's,moguls
+Winter,1992,Gold,EUN,Unified Team (ex USSR),"Sergei BAOUTINE, Nicolai BORSTCHEVSKI, Viacheslav BYKOV, Alexey ZHAMNOV, Darius KASPARAITIS, Yuri KMILEV, Andrei KOVALENKO, Igor KRAVCHUK, Dmitri MIRONOV, Vitali PROKOROV, Andrei TREFILOV, Sergei ZUBOV, Igor BOLDINE, Viacheslav BUTSAIEV, Evgeni DAVIDOV, Aleksei JITNIK, Nikolai KHABIBULIN, Andrei KOMUTOV, Alexei KOVALEV, Vladimir MALAKOV, Sergei PETRENKO, Mikhail SHTALENKOV, Dmitri YUCHKEVICH",1992 Albertville,Ice Hockey,Men's,ice hockey
+Winter,1992,Silver,CAN,Canada,"David HANNAN, Fabian JOSEPH, Trevor KIDD, Chris LINDBERG, Kent MANDERVILLE, Dan RATUSHNY, Wallace SCHREIBER, Brian TUTT, Sam ST.LAURENT, David ARCHIBALD, Sean BURKE, Curtis GILES, Gordon HYNES, Joe JUNEAU, Patrick LEBEAU, Eric LINDROS, Adrian PLAVSIC, Bradley SCHLEGEL, Randy SMITH, Jason WOOLLEY, David TIPPETT, Todd BROST, Kevin DAHL",1992 Albertville,Ice Hockey,Men's,ice hockey
+Winter,1992,Bronze,TCH,Czechoslovakia,"Petr ROSOL, Jiri SLEGR, Robert SVEHLA, Radek TOUPAL, Richard ZEMLICKA, Igor LIBA, Petr BRIZA, Petr HRBEK, Thomas JELINEK, Kamil KASTAK, Ladislav LUBINA, Bedrich SCERBAN, Richard SMEHLIK, Oldrich SVOBODA, Peter VESELOVSKY, Jaromir DRAGAN, Miloslav HORAVA, Patrick AUGUSTA, Leo GUDAS, Otakar JANECKY, Drahomir KADLEC, Robert LANG, Frantisek PROCHAZKA",1992 Albertville,Ice Hockey,Men's,ice hockey
+Winter,1992,Gold,GER,Germany,Georg HACKL,1992 Albertville,Luge,Men's,singles
+Winter,1992,Silver,AUT,Austria,Markus PROCK,1992 Albertville,Luge,Men's,singles
+Winter,1992,Bronze,AUT,Austria,Markus SCHMIDT,1992 Albertville,Luge,Men's,singles
+Winter,1992,Gold,AUT,Austria,Doris NEUNER,1992 Albertville,Luge,Women's,singles
+Winter,1992,Silver,AUT,Austria,Angelika NEUNER,1992 Albertville,Luge,Women's,singles
+Winter,1992,Bronze,GER,Germany,Susi-Lisa ERDMANN,1992 Albertville,Luge,Women's,singles
+Winter,1992,Gold,GER,Germany,"Jan BEHRENDT, Stefan KRAUSSE",1992 Albertville,Luge,Mixed,doubles
+Winter,1992,Silver,GER,Germany,"Thomas RUDOLPH, Yves MANKEL",1992 Albertville,Luge,Mixed,doubles
+Winter,1992,Bronze,ITA,Italy,"Norbert HUBER, Hansjörg RAFFL",1992 Albertville,Luge,Mixed,doubles
+Winter,1992,Gold,FRA,France,Fabrice GUY,1992 Albertville,Nordic Combined,Men's,individual
+Winter,1992,Silver,FRA,France,Sylvain GUILLAUME,1992 Albertville,Nordic Combined,Men's,individual
+Winter,1992,Bronze,AUT,Austria,Klaus SULZENBACHER,1992 Albertville,Nordic Combined,Men's,individual
+Winter,1992,Gold,JPN,Japan,"Takanori KONO, Reiichi MIKATA, Kenji OGIWARA",1992 Albertville,Nordic Combined,Men's,team
+Winter,1992,Silver,NOR,Norway,"Knut APELAND, Trond Einar ELDEN, Fred Boerre LUNDBERG",1992 Albertville,Nordic Combined,Men's,team
+Winter,1992,Bronze,AUT,Austria,"Stefan KREINER, Klaus OFNER, Klaus SULZENBACHER",1992 Albertville,Nordic Combined,Men's,team
+Winter,1992,Gold,KOR,Korea Republic,Ki-Hoon KIM,1992 Albertville,Short Track Speed Skating,Men's,1000m
+Winter,1992,Silver,CAN,Canada,Frédéric BLACKBURN,1992 Albertville,Short Track Speed Skating,Men's,1000m
+Winter,1992,Bronze,KOR,Korea Republic,Jun-Ho LEE,1992 Albertville,Short Track Speed Skating,Men's,1000m
+Winter,1992,Gold,KOR,Korea Republic,"Jun-Ho LEE, Jae-Kun SONG, Ki-Hoon KIM, Ji-Soo MO",1992 Albertville,Short Track Speed Skating,Men's,5000m relay
+Winter,1992,Silver,CAN,Canada,"Laurent DAIGNAULT, Sylvain GAGNON, Frédéric BLACKBURN, Michel DAIGNAULT, Mark LACKIE",1992 Albertville,Short Track Speed Skating,Men's,5000m relay
+Winter,1992,Bronze,JPN,Japan,"Yuichi AKASAKA, Toshinobu KAWAI, Tatsuyoshi ISHIHARA, Tsutomu KAWASAKI",1992 Albertville,Short Track Speed Skating,Men's,5000m relay
+Winter,1992,Gold,USA,United States,Cathy TURNER,1992 Albertville,Short Track Speed Skating,Women's,500m
+Winter,1992,Silver,CHN,China,Yan LI,1992 Albertville,Short Track Speed Skating,Women's,500m
+Winter,1992,Bronze,PRK,Korea DPR,Ok Sil HWANG,1992 Albertville,Short Track Speed Skating,Women's,500m
+Winter,1992,Gold,CAN,Canada,"Angela CUTRONE, Nathalie LAMBERT, Sylvie DAIGLE, Annie PERREAULT",1992 Albertville,Short Track Speed Skating,Women's,3000m relay
+Winter,1992,Silver,USA,United States,"Cathy TURNER, Darcie DOHNAL, Nikki ZIEGELMEYER, Amy PETERSON",1992 Albertville,Short Track Speed Skating,Women's,3000m relay
+Winter,1992,Bronze,EUN,Unified Team (ex USSR),"Yulia ALAGULOVA, Viktoria TROITSKAYA, Yulia VLASOVA, Natalia ISSAKOVA",1992 Albertville,Short Track Speed Skating,Women's,3000m relay
+Winter,1992,Gold,AUT,Austria,Ernst VETTORI,1992 Albertville,Ski Jumping,Men's,Normal Hill individual
+Winter,1992,Silver,AUT,Austria,Martin HOELLWARTH,1992 Albertville,Ski Jumping,Men's,Normal Hill individual
+Winter,1992,Bronze,FIN,Finland,Toni NIEMINEN,1992 Albertville,Ski Jumping,Men's,Normal Hill individual
+Winter,1992,Gold,FIN,Finland,Toni NIEMINEN,1992 Albertville,Ski Jumping,Men's,Large Hill individual
+Winter,1992,Silver,AUT,Austria,Martin HOELLWARTH,1992 Albertville,Ski Jumping,Men's,Large Hill individual
+Winter,1992,Bronze,AUT,Austria,Heinz KUTTIN,1992 Albertville,Ski Jumping,Men's,Large Hill individual
+Winter,1992,Gold,FIN,Finland,"Mika LAITINEN, Toni NIEMINEN, Ari-Pekka NIKKOLA, Risto LAAKKONEN",1992 Albertville,Ski Jumping,Men's,Large Hill team
+Winter,1992,Silver,AUT,Austria,"Andreas FELDER, Ernst VETTORI, Martin HOELLWARTH, Heinz KUTTIN",1992 Albertville,Ski Jumping,Men's,Large Hill team
+Winter,1992,Bronze,TCH,Czechoslovakia,"Frantisek JEZ, Jiri PARMA, Tomas GODER, Jaroslav SAKALA",1992 Albertville,Ski Jumping,Men's,Large Hill team
+Winter,1992,Gold,GER,Germany,Uwe-Jens MEY,1992 Albertville,Speed skating,Men's,500m
+Winter,1992,Silver,JPN,Japan,Toshiyuki KUROIWA,1992 Albertville,Speed skating,Men's,500m
+Winter,1992,Bronze,JPN,Japan,Junichi INOUE,1992 Albertville,Speed skating,Men's,500m
+Winter,1992,Gold,GER,Germany,Olaf ZINKE,1992 Albertville,Speed skating,Men's,1000m
+Winter,1992,Silver,KOR,Korea Republic,Yoon-Man KIM,1992 Albertville,Speed skating,Men's,1000m
+Winter,1992,Bronze,JPN,Japan,Yukinori MIYABE,1992 Albertville,Speed skating,Men's,1000m
+Winter,1992,Gold,NOR,Norway,Johann Olav KOSS,1992 Albertville,Speed skating,Men's,1500m
+Winter,1992,Silver,NOR,Norway,Adne SONDRAL,1992 Albertville,Speed skating,Men's,1500m
+Winter,1992,Bronze,NED,Netherlands,Leo VISSER,1992 Albertville,Speed skating,Men's,1500m
+Winter,1992,Gold,NOR,Norway,Geir KARLSTAD,1992 Albertville,Speed skating,Men's,5000m
+Winter,1992,Silver,NED,Netherlands,Falko ZANDSTRA,1992 Albertville,Speed skating,Men's,5000m
+Winter,1992,Bronze,NED,Netherlands,Leo VISSER,1992 Albertville,Speed skating,Men's,5000m
+Winter,1992,Gold,NED,Netherlands,Bart VELDKAMP,1992 Albertville,Speed skating,Men's,10000m
+Winter,1992,Silver,NOR,Norway,Johann Olav KOSS,1992 Albertville,Speed skating,Men's,10000m
+Winter,1992,Bronze,NOR,Norway,Geir KARLSTAD,1992 Albertville,Speed skating,Men's,10000m
+Winter,1992,Gold,USA,United States,Bonnie BLAIR,1992 Albertville,Speed skating,Women's,500m
+Winter,1992,Silver,CHN,China,Qiaobo YE,1992 Albertville,Speed skating,Women's,500m
+Winter,1992,Bronze,GER,Germany,Christa LUDING,1992 Albertville,Speed skating,Women's,500m
+Winter,1992,Gold,USA,United States,Bonnie BLAIR,1992 Albertville,Speed skating,Women's,1000m
+Winter,1992,Silver,CHN,China,Qiaobo YE,1992 Albertville,Speed skating,Women's,1000m
+Winter,1992,Bronze,GER,Germany,Monique GARBRECHT-ENFELDT,1992 Albertville,Speed skating,Women's,1000m
+Winter,1992,Gold,GER,Germany,Jacqueline BÖRNER,1992 Albertville,Speed skating,Women's,1500m
+Winter,1992,Silver,GER,Germany,Gunda NIEMANN-STIRNEMANN,1992 Albertville,Speed skating,Women's,1500m
+Winter,1992,Bronze,JPN,Japan,Seiko HASHIMOTO,1992 Albertville,Speed skating,Women's,1500m
+Winter,1992,Gold,GER,Germany,Gunda NIEMANN-STIRNEMANN,1992 Albertville,Speed skating,Women's,3000m
+Winter,1992,Silver,GER,Germany,Heike WARNICKE,1992 Albertville,Speed skating,Women's,3000m
+Winter,1992,Bronze,AUT,Austria,Emese HUNYADY,1992 Albertville,Speed skating,Women's,3000m
+Winter,1992,Gold,GER,Germany,Gunda NIEMANN-STIRNEMANN,1992 Albertville,Speed skating,Women's,5000m
+Winter,1992,Silver,GER,Germany,Heike WARNICKE,1992 Albertville,Speed skating,Women's,5000m
+Winter,1992,Bronze,GER,Germany,Claudia PECHSTEIN,1992 Albertville,Speed skating,Women's,5000m

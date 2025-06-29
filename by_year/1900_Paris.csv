@@ -1,0 +1,285 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1900,Gold,BEL,Belgium,Hubert VAN INNIS,1900 Paris,Archery,Men's,"au chapelet, 33m"
+Summer,1900,Silver,FRA,France,Victor THIBAUD,1900 Paris,Archery,Men's,"au chapelet, 33m"
+Summer,1900,Bronze,FRA,France,Charles Frédéric PETIT,1900 Paris,Archery,Men's,"au chapelet, 33m"
+Summer,1900,Gold,FRA,France,Eugène MOUGIN,1900 Paris,Archery,Men's,"au chapelet, 50m"
+Summer,1900,Silver,FRA,France,Henri HELLE,1900 Paris,Archery,Men's,"au chapelet, 50m"
+Summer,1900,Bronze,FRA,France,Emile MERCIER,1900 Paris,Archery,Men's,"au chapelet, 50m"
+Summer,1900,Gold,BEL,Belgium,Hubert VAN INNIS,1900 Paris,Archery,Men's,"au cordon doré, 33m"
+Summer,1900,Silver,FRA,France,Victor THIBAUD,1900 Paris,Archery,Men's,"au cordon doré, 33m"
+Summer,1900,Bronze,FRA,France,Charles Frédéric PETIT,1900 Paris,Archery,Men's,"au cordon doré, 33m"
+Summer,1900,Gold,FRA,France,Henri HEROUIN,1900 Paris,Archery,Men's,"au cordon doré, 50m"
+Summer,1900,Silver,BEL,Belgium,Hubert VAN INNIS,1900 Paris,Archery,Men's,"au cordon doré, 50m"
+Summer,1900,Bronze,FRA,France,Emile FISSEUX,1900 Paris,Archery,Men's,"au cordon doré, 50m"
+Summer,1900,Gold,BEL,Belgium,Emmanuel FOULON,1900 Paris,Archery,Men's,sur la perche à la herse
+Summer,1900,Silver,BEL,Belgium,Jr. DRUART,1900 Paris,Archery,Men's,sur la perche à la herse
+Summer,1900,Silver,FRA,France,Auguste SERRURIER,1900 Paris,Archery,Men's,sur la perche à la herse
+Summer,1900,Gold,FRA,France,Emile GRUMIAUX,1900 Paris,Archery,Men's,sur la perche à la pyramide
+Summer,1900,Silver,FRA,France,Auguste SERRURIER,1900 Paris,Archery,Men's,sur la perche à la pyramide
+Summer,1900,Bronze,BEL,Belgium,Louis GLINEUX,1900 Paris,Archery,Men's,sur la perche à la pyramide
+Summer,1900,Gold,FRA,France,Henri Herouin,1900 Paris,Archery,Men's,Championnat Du Monde
+Summer,1900,Silver,BEL,Belgium,Hubert Van Innis,1900 Paris,Archery,Men's,Championnat Du Monde
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,60m
+Summer,1900,Silver,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,60m
+Summer,1900,Bronze,AUS,Australia,Stanley ROWLEY,1900 Paris,Athletics,Men's,60m
+Summer,1900,Gold,USA,United States,Francis JARVIS,1900 Paris,Athletics,Men's,100m
+Summer,1900,Silver,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,100m
+Summer,1900,Bronze,AUS,Australia,Stanley ROWLEY,1900 Paris,Athletics,Men's,100m
+Summer,1900,Gold,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,200m
+Summer,1900,Silver,IND,India,Norman PRITCHARD,1900 Paris,Athletics,Men's,200m
+Summer,1900,Bronze,AUS,Australia,Stanley ROWLEY,1900 Paris,Athletics,Men's,200m
+Summer,1900,Gold,USA,United States,Maxwell W.Maxey LONG,1900 Paris,Athletics,Men's,400m
+Summer,1900,Silver,USA,United States,William HOLLAND,1900 Paris,Athletics,Men's,400m
+Summer,1900,Bronze,DEN,Denmark,Ernst SCHULTZ,1900 Paris,Athletics,Men's,400m
+Summer,1900,Gold,GBR,Great Britain,Alfred TYSOE,1900 Paris,Athletics,Men's,800m
+Summer,1900,Silver,USA,United States,John CREGAN,1900 Paris,Athletics,Men's,800m
+Summer,1900,Bronze,USA,United States,David HALL,1900 Paris,Athletics,Men's,800m
+Summer,1900,Gold,GBR,Great Britain,Charles BENNETT,1900 Paris,Athletics,Men's,1500m
+Summer,1900,Silver,FRA,France,Henri DELOGE,1900 Paris,Athletics,Men's,1500m
+Summer,1900,Bronze,USA,United States,John BRAY,1900 Paris,Athletics,Men's,1500m
+Summer,1900,Gold,LUX,Luxembourg,Michel THEATO,1900 Paris,Athletics,Men's,marathon
+Summer,1900,Silver,FRA,France,Emile CHAMPION,1900 Paris,Athletics,Men's,marathon
+Summer,1900,Bronze,SWE,Sweden,Ernst FAST,1900 Paris,Athletics,Men's,marathon
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,110m hurdles
+Summer,1900,Silver,USA,United States,John MCLEAN,1900 Paris,Athletics,Men's,110m hurdles
+Summer,1900,Bronze,USA,United States,Frederick MOLONEY,1900 Paris,Athletics,Men's,110m hurdles
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,200m hurdles
+Summer,1900,Silver,IND,India,Norman PRITCHARD,1900 Paris,Athletics,Men's,200m hurdles
+Summer,1900,Bronze,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,200m hurdles
+Summer,1900,Gold,USA,United States,Walter B. John TEWKSBURY,1900 Paris,Athletics,Men's,400m hurdles
+Summer,1900,Silver,FRA,France,Henri TAUZIN,1900 Paris,Athletics,Men's,400m hurdles
+Summer,1900,Bronze,CAN,Canada,George ORTON,1900 Paris,Athletics,Men's,400m hurdles
+Summer,1900,Gold,CAN,Canada,George ORTON,1900 Paris,Athletics,Men's,2500m steeplechase
+Summer,1900,Silver,GBR,Great Britain,Sidney ROBINSON,1900 Paris,Athletics,Men's,2500m steeplechase
+Summer,1900,Bronze,FRA,France,Jacques CHASTANIE,1900 Paris,Athletics,Men's,2500m steeplechase
+Summer,1900,Gold,GBR,Great Britain,John RIMMER,1900 Paris,Athletics,Men's,4000m steeplechase
+Summer,1900,Silver,GBR,Great Britain,Charles BENNETT,1900 Paris,Athletics,Men's,4000m steeplechase
+Summer,1900,Bronze,GBR,Great Britain,Sidney ROBINSON,1900 Paris,Athletics,Men's,4000m steeplechase
+Summer,1900,Gold,GBR,Great Britain,"John RIMMER (GBR), Alfred TYSOE (GBR), Charles BENNETT (GBR), Sidney ROBINSON (GBR), Stanley ROWLEY (AUS)",1900 Paris,Athletics,Men's,5000m team
+Summer,1900,Silver,FRA,France,"Henri DELOGE, Jacques CHASTANIE, Michel CHAMPOUDRY, Gaston RAGUENEAU, André CASTANET",1900 Paris,Athletics,Men's,5000m team
+Summer,1900,Gold,USA,United States,Alvin KRAENZLEIN,1900 Paris,Athletics,Men's,long jump
+Summer,1900,Silver,USA,United States,Meyer PRINSTEIN,1900 Paris,Athletics,Men's,long jump
+Summer,1900,Bronze,GBR,Great Britain,Patrick Joseph LEAHY,1900 Paris,Athletics,Men's,long jump
+Summer,1900,Gold,USA,United States,Ray EWRY,1900 Paris,Athletics,Men's,"long jump, standing"
+Summer,1900,Silver,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,"long jump, standing"
+Summer,1900,Bronze,FRA,France,Emile TORCHEBOEUF,1900 Paris,Athletics,Men's,"long jump, standing"
+Summer,1900,Gold,USA,United States,Meyer PRINSTEIN,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Silver,USA,United States,James CONNOLLY,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Bronze,USA,United States,Lewis Pendleton SHELDON,1900 Paris,Athletics,Men's,triple jump
+Summer,1900,Gold,USA,United States,Ray EWRY,1900 Paris,Athletics,Men's,"triple jump, standing"
+Summer,1900,Silver,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,"triple jump, standing"
+Summer,1900,Bronze,USA,United States,Robert GARRETT,1900 Paris,Athletics,Men's,"triple jump, standing"
+Summer,1900,Gold,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,high jump
+Summer,1900,Silver,GBR,Great Britain,Patrick Joseph LEAHY,1900 Paris,Athletics,Men's,high jump
+Summer,1900,Bronze,HUN,Hungary,Lajos GÖNCZY,1900 Paris,Athletics,Men's,high jump
+Summer,1900,Gold,USA,United States,Ray EWRY,1900 Paris,Athletics,Men's,"high jump, standing"
+Summer,1900,Silver,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,"high jump, standing"
+Summer,1900,Bronze,USA,United States,Lewis Pendleton SHELDON,1900 Paris,Athletics,Men's,"high jump, standing"
+Summer,1900,Gold,USA,United States,Irving BAXTER,1900 Paris,Athletics,Men's,pole vault
+Summer,1900,Silver,USA,United States,Meredith Bright COLKETT,1900 Paris,Athletics,Men's,pole vault
+Summer,1900,Bronze,NOR,Norway,Carl Albert ANDERSEN,1900 Paris,Athletics,Men's,pole vault
+Summer,1900,Gold,USA,United States,Richard SHELDON,1900 Paris,Athletics,Men's,shot put
+Summer,1900,Silver,USA,United States,Josiah MCCRACKEN,1900 Paris,Athletics,Men's,shot put
+Summer,1900,Bronze,USA,United States,Robert GARRETT,1900 Paris,Athletics,Men's,shot put
+Summer,1900,Gold,HUN,Hungary,Rudolf BAUER,1900 Paris,Athletics,Men's,discus throw
+Summer,1900,Silver,BOH,Bohemia,Frantisek JANDA,1900 Paris,Athletics,Men's,discus throw
+Summer,1900,Bronze,USA,United States,Richard SHELDON,1900 Paris,Athletics,Men's,discus throw
+Summer,1900,Gold,USA,United States,John Jesus FLANAGAN,1900 Paris,Athletics,Men's,hammer throw
+Summer,1900,Silver,USA,United States,Thomas Truxton HARE,1900 Paris,Athletics,Men's,hammer throw
+Summer,1900,Bronze,USA,United States,Josiah MCCRACKEN,1900 Paris,Athletics,Men's,hammer throw
+Summer,1900,Gold,FRA,France,Georges TAILLANDIER,1900 Paris,Cycling Track,Men's,sprint individual
+Summer,1900,Silver,FRA,France,Fernand SANZ,1900 Paris,Cycling Track,Men's,sprint individual
+Summer,1900,Bronze,USA,United States,John Henry LAKE,1900 Paris,Cycling Track,Men's,sprint individual
+Summer,1900,Gold,FRA,France,Louis BASTIEN,1900 Paris,Cycling Track,Men's,25 kilometres
+Summer,1900,Silver,FRA,France,Louis HILDEBRAND,1900 Paris,Cycling Track,Men's,25 kilometres
+Summer,1900,Bronze,FRA,France,DAUMAIN,1900 Paris,Cycling Track,Men's,25 kilometres
+Summer,1900,Gold,ITA,Italy,Enrico Brusoni,1900 Paris,Cycling Track,Men's,points race
+Summer,1900,Silver,GER,Germany,Karl Duill,1900 Paris,Cycling Track,Men's,points race
+Summer,1900,Bronze,FRA,France,Louis Trousselier,1900 Paris,Cycling Track,Men's,points race
+Summer,1900,Gold,BEL,Belgium,"Aimé HAEGEMAN, BENTON II",1900 Paris,Equestrian Jumping,Mixed,individual
+Summer,1900,Silver,BEL,Belgium,"Georges VAN DE POELE, WINDSOR SQUIRE",1900 Paris,Equestrian Jumping,Mixed,individual
+Summer,1900,Bronze,FRA,France,"Louis DE CHAMPSAVIN, TERPSICHORE",1900 Paris,Equestrian Jumping,Mixed,individual
+Summer,1900,Gold,FRA,France,"Dominique Maximien GARDERES, CANELA",1900 Paris,Equestrian Jumping,Mixed,high jump individual
+Summer,1900,Gold,ITA,Italy,"Gian Giorgio TRISSINO, ORESTE",1900 Paris,Equestrian Jumping,Mixed,high jump individual
+Summer,1900,Bronze,BEL,Belgium,"Georges VAN DE POELE, LUDLOW",1900 Paris,Equestrian Jumping,Mixed,high jump individual
+Summer,1900,Gold,BEL,Belgium,"Constant VAN LANGHENDONCK, EXTRA DRY",1900 Paris,Equestrian Jumping,Mixed,long jump individual
+Summer,1900,Silver,ITA,Italy,"Gian Giorgio TRISSINO, ORESTE",1900 Paris,Equestrian Jumping,Mixed,long jump individual
+Summer,1900,Bronze,FRA,France,"Jacques de Prunelé, TOLLA",1900 Paris,Equestrian Jumping,Mixed,long jump individual
+Summer,1900,Gold,FRA,France,Louis Napoléon Murat,1900 Paris,Equestrian Jumping,Mixed,Hacks and Hunter Combined
+Summer,1900,Silver,FRA,France,Victor Archenoul,1900 Paris,Equestrian Jumping,Mixed,Hacks and Hunter Combined
+Summer,1900,Bronze,FRA,France,Robert de Montesquiou-Fézensac,1900 Paris,Equestrian Jumping,Mixed,Hacks and Hunter Combined
+Summer,1900,Gold,BEL,Belgium,Georges Nagelmackers,1900 Paris,Equestrian Jumping,Mixed,Four-in-Hand Mail Coach
+Summer,1900,Silver,FRA,France,Léon Thome,1900 Paris,Equestrian Jumping,Mixed,Four-in-Hand Mail Coach
+Summer,1900,Bronze,FRA,France,Jean de Neuflize,1900 Paris,Equestrian Jumping,Mixed,Four-in-Hand Mail Coach
+Summer,1900,Gold,CUB,Cuba,Ramon FONST,1900 Paris,Fencing,Men's,épée individual
+Summer,1900,Silver,FRA,France,Louis PERREE,1900 Paris,Fencing,Men's,épée individual
+Summer,1900,Bronze,FRA,France,Léon SEE,1900 Paris,Fencing,Men's,épée individual
+Summer,1900,Gold,FRA,France,Albert AYAT,1900 Paris,Fencing,Men's,"épée, amateurs and masters"
+Summer,1900,Silver,CUB,Cuba,Ramon FONST,1900 Paris,Fencing,Men's,"épée, amateurs and masters"
+Summer,1900,Bronze,FRA,France,Léon SEE,1900 Paris,Fencing,Men's,"épée, amateurs and masters"
+Summer,1900,Gold,FRA,France,Albert AYAT,1900 Paris,Fencing,Men's,"épée, masters"
+Summer,1900,Silver,FRA,France,Emile BOUGNOL,1900 Paris,Fencing,Men's,"épée, masters"
+Summer,1900,Bronze,FRA,France,Henri LAURENT,1900 Paris,Fencing,Men's,"épée, masters"
+Summer,1900,Gold,FRA,France,Emile COSTE,1900 Paris,Fencing,Men's,foil individual
+Summer,1900,Silver,FRA,France,Henri MASSON,1900 Paris,Fencing,Men's,foil individual
+Summer,1900,Bronze,FRA,France,Marcel Jacques BOULENGER,1900 Paris,Fencing,Men's,foil individual
+Summer,1900,Gold,FRA,France,Lucien MERIGNAC,1900 Paris,Fencing,Men's,"foil, masters"
+Summer,1900,Silver,FRA,France,Alphonse KIRCHHOFFER,1900 Paris,Fencing,Men's,"foil, masters"
+Summer,1900,Bronze,FRA,France,Jean-Baptiste MIMIAGUE,1900 Paris,Fencing,Men's,"foil, masters"
+Summer,1900,Gold,FRA,France,Georges DE LA FALAISE,1900 Paris,Fencing,Men's,sabre individual
+Summer,1900,Silver,FRA,France,Léon THIEBAUT,1900 Paris,Fencing,Men's,sabre individual
+Summer,1900,Bronze,AUT,Austria,Siegfried FLESCH,1900 Paris,Fencing,Men's,sabre individual
+Summer,1900,Gold,ITA,Italy,Antonio CONTE,1900 Paris,Fencing,Men's,"sabre, masters"
+Summer,1900,Silver,ITA,Italy,Italo SANTELLI,1900 Paris,Fencing,Men's,"sabre, masters"
+Summer,1900,Bronze,AUT,Austria,Milan NERALIC,1900 Paris,Fencing,Men's,"sabre, masters"
+Summer,1900,Gold,GBR,Great Britain,"J.H. JONES, William Sullivan GROSLING, J. NICHOLAS, T.E. BURRIDGE, R.R. TURNER, A. HASLAM, Claude Percy BUCKENHAM, F.G. SPACKMAN, Alfred Ernest CHALK, William Francis QUASH, James Edward ZEALLEY",1900 Paris,Football,Men's,football
+Summer,1900,Silver,FRA,France,"GAILLARD, GRANDJEAN, BACH, MACAIRE, René GARNIER, DUPARC, Pierre ALLEMANE, LAMBERT, HUTEAU, Jean BLOCH, FRAYSSE, Fernand CANELLE, PELTIER",1900 Paris,Football,Men's,football
+Summer,1900,Bronze,BEL,Belgium,"Erich THORNTON (GBR), Raul KELECOM (BEL), Albert DELBECQUE (BEL), Marcel LEBOUTTE (BEL), Alphonse RENIER (BEL), Eugène NEEFS (BEL), Hendrik VAN HEUCKELUM (NED), Ernest MOREAU De Melen (BEL), Hilaire Frederik SPANNOGHE (BEL), Lucien LONDOT (BEL), Georges(Gustave) PELGRIMS (BEL)",1900 Paris,Football,Men's,football
+Summer,1900,Gold,USA,United States,Charles Edward SANDS,1900 Paris,Golf,Men's,individual
+Summer,1900,Silver,GBR,Great Britain,Walter RUTHERFORD,1900 Paris,Golf,Men's,individual
+Summer,1900,Bronze,GBR,Great Britain,David Donaldson ROBERTSON,1900 Paris,Golf,Men's,individual
+Summer,1900,Gold,USA,United States,Margaret Ives ABBOTT,1900 Paris,Golf,Women's,individual
+Summer,1900,Silver,USA,United States,Pauline WHITTIER,1900 Paris,Golf,Women's,individual
+Summer,1900,Bronze,USA,United States,Daria PRATT,1900 Paris,Golf,Women's,individual
+Summer,1900,Gold,FRA,France,Gustave SANDRAS,1900 Paris,Gymnastics Artistic,Men's,individual all-round
+Summer,1900,Silver,FRA,France,Noël BAS,1900 Paris,Gymnastics Artistic,Men's,individual all-round
+Summer,1900,Bronze,FRA,France,Lucien DEMANET,1900 Paris,Gymnastics Artistic,Men's,individual all-round
+Summer,1900,Gold,FRA,France,Henri BARRELET,1900 Paris,Rowing,Men's,single sculls (1x)
+Summer,1900,Silver,FRA,France,André GAUDIN,1900 Paris,Rowing,Men's,single sculls (1x)
+Summer,1900,Bronze,GBR,Great Britain,Saint-George ASHE,1900 Paris,Rowing,Men's,single sculls (1x)
+Summer,1900,Gold,NED,Netherlands,"Francois Antoine BRANDT (NED), Hermanus Gerardus BROCKMANN (NED), Roelof KLEIN (NED), Unknown boy (FRA)",1900 Paris,Rowing,Men's,pair-oared shell with coxswain
+Summer,1900,Silver,FRA,France,"Louis MARTINET, Unknown cox, WALEFF",1900 Paris,Rowing,Men's,pair-oared shell with coxswain
+Summer,1900,Bronze,FRA,France,"Antoine Erneste VEDRENNE, Carlos DELTOUR, Raoul PAOLI",1900 Paris,Rowing,Men's,pair-oared shell with coxswain
+Summer,1900,Gold,FRA,France,"Henri HAZEBROUCK, CHARLOT, Jean CAU, Emile DELCHAMBRE, Henri BOUCKAERT",1900 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1900,Silver,FRA,France,"Georges LUMPP, Daniel SOUBEYRAN, Charles PERRIN, Emile WEGELIN",1900 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1900,Bronze,GER,Germany,"Adolf MÖLLER, Hugo RÜSTER, Wilhelm CARSTENS, Gustav Adolf MOTHS, Julius KÖRNER",1900 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1900,Gold,GER,Germany,"Carl Heinrich GOSSLER, Waldemar TIETGENS, Oscar GOSSLER, Walther KATZENSTEIN, Gustav Ludwig GOSSLER",1900 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1900,Silver,NED,Netherlands,"Gerhard Oswald LOTSY, Coenraad Christiaan HIEBENDAAI, Johannes Hester Lambertus TERWOGT, Hermanus Gerardus BROCKMANN, Paulus Jan LOTSY",1900 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1900,Bronze,GER,Germany,"Hermann WILKER, Franz KRÖWERATH, Carl LEHLE, Otto FICKEISEN, Ernst FELLE",1900 Paris,Rowing,Men's,four-oared shell with coxswain
+Summer,1900,Gold,USA,United States,"Harry DEBAECKE, John EXLEY, Edward HEDLEY, Roscoe LOCKWOOD, Louis ABELL, William CARR, John GEIGER, James JUVENAL, Edward MARSH",1900 Paris,Rowing,Men's,eight with coxswain (8+)
+Summer,1900,Silver,BEL,Belgium,"Marcel Lucien VAN CROMBRUGGHE, Oscar DE COCK, Frank ODBERG, Oscar Charles DE SOMVILLE, Alfred VAN LANDEGHEM, Maurice HEMELSOET, Maurice VERDONCK, Prospère BRUGGEMAN, Jules DE BISSCHOP",1900 Paris,Rowing,Men's,eight with coxswain (8+)
+Summer,1900,Bronze,NED,Netherlands,"Ruud Gerbens LEEGSTRA, Henricus TROMP, Roelof KLEIN, Walter MIDDELBERG, Johannes Wilhelmus Maria VAN DIJK, Hendrik Karel OFFERHAUS, Francois Antoine BRANDT, Hermanus Gerardus BROCKMANN, Walter THIJSSEN",1900 Paris,Rowing,Men's,eight with coxswain (8+)
+Summer,1900,Gold,FRA,France,"Frantz REICHEL (FRA), Charles GONDOUIN (FRA), A. ALBERT (FRA), André RISCHMANN (FRA), Hubert Jean Daniel LEFEBVRE (FRA), Vladimir AITOFF (FRA), Victor LARCHANDET (FRA), André ROOSEVELT (USA), Alexandre PHARAMOND (FRA), Jean COLLAS (FRA), Jean-Guy GAUTIER (FRA), Auguste GIROUX (FRA), Jean BINOCHE (FRA), Emile SARRADE (FRA), Joseph OLIVIER (FRA), Jean HERVE (FRA), Constantin(Albert) HENRIQUEZ (HAI)",1900 Paris,Rugby,Men's,rugby
+Summer,1900,Silver,GER,Germany,"Jacob HERRMANN, Hans LATSCHA, Arnold LANDVOIGT, Erich LUDWIG, August SCHMIERER, Willy HOFMEISTER, Eduard POPPE, Heinrich REITZ, Adolf STOCKHAUSEN, Hermann KREUZER, Albert AMRHEIN, Hugo BETTING, Fritz MÜLLER, Georg WENDEROTH, Richard LUDWIG",1900 Paris,Rugby,Men's,rugby
+Summer,1900,Silver,GBR,Great Britain,"J. CAUTLON, F.C. BAYLISS, N.S. NICOL, L. HOOD, Francis Henry WILSON, Artur John DARBY, V. SMITH, H.A. LOVEITT, J.Henry BIRTLES, M.L. LOGAN, Raymond WHITTINDALE, Claud WHITTINDALE, M.W. TALBOT, C.P. DEYKIN, J.G. WALLIS",1900 Paris,Rugby,Men's,rugby
+Summer,1900,Gold,FRA,France,Pierre Gervais,1900 Paris,Sailing,Mixed,0.5t
+Summer,1900,Silver,FRA,France,"Texier (crew), Robert Linzeler, Texier (helmsman), Jean-Baptiste Charcot",1900 Paris,Sailing,Mixed,0.5t
+Summer,1900,Bronze,FRA,France,"Léon Tellier, Henri Monnot, Gaston Cailleux",1900 Paris,Sailing,Mixed,0.5t
+Summer,1900,Gold,FRA,France,Émile Sacré,1900 Paris,Sailing,Mixed,0.5t
+Summer,1900,Silver,FRA,France,"Texier (crew), Robert Linzeler, Texier (helmsman), Jean-Baptiste Charcot",1900 Paris,Sailing,Mixed,0.5t
+Summer,1900,Bronze,FRA,France,Pierre Gervais,1900 Paris,Sailing,Mixed,0.5t
+Summer,1900,Gold,GBR,Great Britain,"Linton HOPE, John H. GRETTON, Algernon Maudslay, Lorne Campbell LORD CURRIE",1900 Paris,Sailing,Mixed,0.5-1t
+Summer,1900,Silver,FRA,France,"Jean LEBRET, William MARTIN, Jacques BAUDRIER, Félix MARCOTTE, Jules VALTON",1900 Paris,Sailing,Mixed,0.5-1t
+Summer,1900,Bronze,FRA,France,"Émile MICHELET, Marcel Meran",1900 Paris,Sailing,Mixed,0.5-1t
+Summer,1900,Gold,FRA,France,Louis Auguste-Dormeuil,1900 Paris,Sailing,Mixed,0.5-1t
+Summer,1900,Silver,FRA,France,"Marcel Meran, Émile MICHELET",1900 Paris,Sailing,Mixed,0.5-1t
+Summer,1900,Bronze,FRA,France,"Jean LEBRET, William MARTIN, Jacques BAUDRIER, Félix MARCOTTE, Jules VALTON",1900 Paris,Sailing,Mixed,0.5-1t
+Summer,1900,Gold,SUI,Switzerland,"Hermann de Pourtalès, Bernard de Pourtalès, Hélène de Pourtalès",1900 Paris,Sailing,Mixed,1-2t
+Summer,1900,Silver,FRA,France,"Auguste Albert, Charles Hugo, François Vilamitjana, Albert Duval",1900 Paris,Sailing,Mixed,1-2t
+Summer,1900,Bronze,FRA,France,"Lucien Baudrier, Édouard Mantois, Jacques Baudrier, Dubosq",1900 Paris,Sailing,Mixed,1-2t
+Summer,1900,Gold,GER,Germany,"Georg Naue, Ottokar Weise, Paul Wiesner, Heinrich Peters",1900 Paris,Sailing,Mixed,1-2t
+Summer,1900,Silver,SUI,Switzerland,"Hélène de Pourtalès, Hermann de Pourtalès, Bernard de Pourtalès",1900 Paris,Sailing,Mixed,1-2t
+Summer,1900,Bronze,FRA,France,"François Vilamitjana, Albert Duval, Auguste Albert, Charles Hugo",1900 Paris,Sailing,Mixed,1-2t
+Summer,1900,Gold,FRA,France,"William Exshaw (GBR), Jacques Le Lavasseur (FRA), Frédéric Blanchy (FRA)",1900 Paris,Sailing,Mixed,2-3t
+Summer,1900,Silver,FRA,France,"Jacques Doucet, Henri Mialaret, Léon Susse, Auguste Godinet",1900 Paris,Sailing,Mixed,2-3t
+Summer,1900,Bronze,FRA,France,"de Cottignon, Ferdinand Schlatter, Émile Jean-Fontaine",1900 Paris,Sailing,Mixed,2-3t
+Summer,1900,Gold,FRA,France,"William Exshaw (GBR), Jacques Le Lavasseur (FRA), Frédéric Blanchy (FRA)",1900 Paris,Sailing,Mixed,2-3t
+Summer,1900,Silver,FRA,France,"Jacques Doucet, Henri Mialaret, Léon Susse, Auguste Godinet",1900 Paris,Sailing,Mixed,2-3t
+Summer,1900,Bronze,FRA,France,Auguste Donny,1900 Paris,Sailing,Mixed,2-3t
+Summer,1900,Gold,FRA,France,Henri Gilardoni,1900 Paris,Sailing,Mixed,3-10t
+Summer,1900,Silver,NED,Netherlands,"Henri Smulders, Arie van der Velden, Chris Hooykaas",1900 Paris,Sailing,Mixed,3-10t
+Summer,1900,Bronze,FRA,France,"A. Dubois, Robert Gufflet, Maurice GUFFLET, J. Dubois, Charles Guiraist",1900 Paris,Sailing,Mixed,3-10t
+Summer,1900,Gold,GBR,Great Britain,"Howard TAYLOR, Harry Jefferson, Edward Hore",1900 Paris,Sailing,Mixed,3-10t
+Summer,1900,Silver,FRA,France,"A. Dubois, J. Dubois, Charles Guiraist, Maurice GUFFLET, Robert Gufflet",1900 Paris,Sailing,Mixed,3-10t
+Summer,1900,Bronze,USA,United States,H. MacHENRY,1900 Paris,Sailing,Mixed,3-10t
+Summer,1900,Gold,FRA,France,"Emile BILLARD, Paul PERQUER",1900 Paris,Sailing,Mixed,10-20t
+Summer,1900,Silver,FRA,France,Jean LE DUC DECAZES,1900 Paris,Sailing,Mixed,10-20t
+Summer,1900,Bronze,GBR,Great Britain,Edward HORE,1900 Paris,Sailing,Mixed,10-20t
+Summer,1900,Gold,GBR,Great Britain,Cecil Quentin,1900 Paris,Sailing,Mixed,20t +
+Summer,1900,Silver,GBR,Great Britain,Selwin Calverley,1900 Paris,Sailing,Mixed,20t +
+Summer,1900,Bronze,USA,United States,Harry Van Bergen,1900 Paris,Sailing,Mixed,20t +
+Summer,1900,Gold,GBR,Great Britain,"Linton HOPE, Lorne Campbell LORD CURRIE, Algernon Maudslay, John H. GRETTON",1900 Paris,Sailing,Mixed,open class
+Summer,1900,Silver,GER,Germany,"Martin WIESNER, Ottokar WEISE, Heinrich PETERS, Georg NAUE",1900 Paris,Sailing,Mixed,open class
+Summer,1900,Bronze,FRA,France,"Émile MICHELET, F. MICHELET",1900 Paris,Sailing,Mixed,open class
+Summer,1900,Gold,SUI,Switzerland,Karl Konrad RÖDERER,1900 Paris,Shooting,Men's,50m pistol
+Summer,1900,Silver,FRA,France,Achille PAROCHE,1900 Paris,Shooting,Men's,50m pistol
+Summer,1900,Bronze,SUI,Switzerland,Konrad STÄHELI,1900 Paris,Shooting,Men's,50m pistol
+Summer,1900,Gold,SUI,Switzerland,"Friedrich LÜTHI, Konrad STÄHELI, Karl Konrad RÖDERER, Paul PROBST, Louis-Marc RICHARDET",1900 Paris,Shooting,Men's,"50m army pistol, team"
+Summer,1900,Silver,FRA,France,"TRINITE, Louis DUFFOY, Léon MOREAUX, Achille PAROCHE, Maurice LECOQ",1900 Paris,Shooting,Men's,"50m army pistol, team"
+Summer,1900,Bronze,NED,Netherlands,"Solko Johannes VAN DEN BERGH, Gerardus VAN HAAN, Antonius BOUWENS, Anthony Ahasuerus SWEYS, Henrik SILLEM",1900 Paris,Shooting,Men's,"50m army pistol, team"
+Summer,1900,Gold,SUI,Switzerland,Emil KELLENBERGER,1900 Paris,Shooting,Men's,"army rifle, 300m, 3 positions"
+Summer,1900,Silver,DEN,Denmark,Anders Peter NIELSEN,1900 Paris,Shooting,Men's,"army rifle, 300m, 3 positions"
+Summer,1900,Bronze,BEL,Belgium,Paul VAN ASBROECK,1900 Paris,Shooting,Men's,"army rifle, 300m, 3 positions"
+Summer,1900,Bronze,NOR,Norway,Ole ÖSTMO,1900 Paris,Shooting,Men's,"army rifle, 300m, 3 positions"
+Summer,1900,Gold,SUI,Switzerland,Konrad STÄHELI,1900 Paris,Shooting,Men's,"army rifle, 300m, kneeling"
+Summer,1900,Silver,DEN,Denmark,Anders Peter NIELSEN,1900 Paris,Shooting,Men's,"army rifle, 300m, kneeling"
+Summer,1900,Silver,SUI,Switzerland,Emil KELLENBERGER,1900 Paris,Shooting,Men's,"army rifle, 300m, kneeling"
+Summer,1900,Gold,FRA,France,Achille PAROCHE,1900 Paris,Shooting,Men's,"army rifle, 300m, prone"
+Summer,1900,Silver,DEN,Denmark,Anders Peter NIELSEN,1900 Paris,Shooting,Men's,"army rifle, 300m, prone"
+Summer,1900,Bronze,NOR,Norway,Ole ÖSTMO,1900 Paris,Shooting,Men's,"army rifle, 300m, prone"
+Summer,1900,Gold,DEN,Denmark,Lars Jörgen MADSEN,1900 Paris,Shooting,Men's,"army rifle, 300m, standing"
+Summer,1900,Silver,NOR,Norway,Ole ÖSTMO,1900 Paris,Shooting,Men's,"army rifle, 300m, standing"
+Summer,1900,Bronze,BEL,Belgium,Charles PAUMIER DU VERGIER,1900 Paris,Shooting,Men's,"army rifle, 300m, standing"
+Summer,1900,Gold,SUI,Switzerland,"Konrad STÄHELI, Alfred GRÜTER, Franz BÖCKLI, Louis-Marc RICHARDET, Emil KELLENBERGER",1900 Paris,Shooting,Men's,"free rifle, team"
+Summer,1900,Silver,NOR,Norway,"Ole ÖSTMO, Hellmer HERMANDSEN, Ole Andreas SAETHER, Olaf Emil FRYDENLUND, Tom SEEBERG",1900 Paris,Shooting,Men's,"free rifle, team"
+Summer,1900,Bronze,FRA,France,"Auguste CAVADINI, Maurice LECOQ, Achille PAROCHE, Léon MOREAUX, René THOMAS",1900 Paris,Shooting,Men's,"free rifle, team"
+Summer,1900,Gold,FRA,France,Roger DE BARBARIN,1900 Paris,Shooting,Men's,Trap
+Summer,1900,Silver,BEL,Belgium,René GUYOT,1900 Paris,Shooting,Men's,Trap
+Summer,1900,Bronze,FRA,France,Justinien DE CLARY,1900 Paris,Shooting,Men's,Trap
+Summer,1900,Gold,AUS,Australia,Frederick C.V. LANE,1900 Paris,Swimming,Men's,200m freestyle
+Summer,1900,Silver,HUN,Hungary,Zoltan HALMAY,1900 Paris,Swimming,Men's,200m freestyle
+Summer,1900,Bronze,AUT,Austria,Karl RUBERL,1900 Paris,Swimming,Men's,200m freestyle
+Summer,1900,Gold,GER,Germany,Ernst HOPPENBERG,1900 Paris,Swimming,Men's,200m backstroke
+Summer,1900,Silver,AUT,Austria,Karl RUBERL,1900 Paris,Swimming,Men's,200m backstroke
+Summer,1900,Bronze,NED,Netherlands,Johannes DROST,1900 Paris,Swimming,Men's,200m backstroke
+Summer,1900,Gold,GBR,Great Britain,John Arthur JARVIS,1900 Paris,Swimming,Men's,1000m freestyle
+Summer,1900,Silver,AUT,Austria,Otto WAHLE,1900 Paris,Swimming,Men's,1000m freestyle
+Summer,1900,Bronze,HUN,Hungary,Zoltan HALMAY,1900 Paris,Swimming,Men's,1000m freestyle
+Summer,1900,Gold,GBR,Great Britain,John Arthur JARVIS,1900 Paris,Swimming,Men's,4000m freestyle
+Summer,1900,Silver,HUN,Hungary,Zoltan HALMAY,1900 Paris,Swimming,Men's,4000m freestyle
+Summer,1900,Bronze,FRA,France,Louis MARTIN,1900 Paris,Swimming,Men's,4000m freestyle
+Summer,1900,Gold,GER,Germany,"Max SCHÖNE, Herbert VON PETERSDORFF, Max HAINLE, Julius FREY, Ernst HOPPENBERG",1900 Paris,Swimming,Men's,200m team swimming
+Summer,1900,Silver,FRA,France,"BERTRAND, VERBECKE, Victor HOCHEPIED, Maurice HOCHEPIED, CADET",1900 Paris,Swimming,Men's,200m team swimming
+Summer,1900,Bronze,FRA,France,"Louis MARTIN, TARTARA, Jean LEUILLIEUX, HOUBEN, Désiré MERCHEZ",1900 Paris,Swimming,Men's,200m team swimming
+Summer,1900,Gold,AUS,Australia,Frederick C.V. LANE,1900 Paris,Swimming,Men's,200m obstacle event
+Summer,1900,Silver,AUT,Austria,Otto WAHLE,1900 Paris,Swimming,Men's,200m obstacle event
+Summer,1900,Bronze,GBR,Great Britain,Peter KEMP,1900 Paris,Swimming,Men's,200m obstacle event
+Summer,1900,Gold,FRA,France,Charles DE VENDEVILLE,1900 Paris,Swimming,Men's,underwater swimming
+Summer,1900,Silver,FRA,France,André SIX,1900 Paris,Swimming,Men's,underwater swimming
+Summer,1900,Bronze,DEN,Denmark,Peder LYKKEBERG,1900 Paris,Swimming,Men's,underwater swimming
+Summer,1900,Gold,GBR,Great Britain,Hugh Lawrence DOHERTY,1900 Paris,Tennis,Men's,singles
+Summer,1900,Silver,GBR,Great Britain,Harold Sergerson MAHONY,1900 Paris,Tennis,Men's,singles
+Summer,1900,Bronze,GBR,Great Britain,Arthur B.J. NORRIS,1900 Paris,Tennis,Men's,singles
+Summer,1900,Bronze,GBR,Great Britain,Reginald Frank DOHERTY,1900 Paris,Tennis,Men's,singles
+Summer,1900,Gold,GBR,Great Britain,Charlotte COOPER,1900 Paris,Tennis,Women's,singles
+Summer,1900,Silver,FRA,France,Hélène PREVOST,1900 Paris,Tennis,Women's,singles
+Summer,1900,Bronze,BOH,Bohemia,Hedwig ROSENBAUM,1900 Paris,Tennis,Women's,singles
+Summer,1900,Bronze,USA,United States,Marion JONES,1900 Paris,Tennis,Women's,singles
+Summer,1900,Gold,GBR,Great Britain,"Reginald Frank DOHERTY, Hugh Lawrence DOHERTY",1900 Paris,Tennis,Men's,doubles
+Summer,1900,Silver,XXB,Mixed Team,"Basil Spalding DE GARMENDIA (USA), Max DECUGIS (FRA)",1900 Paris,Tennis,Men's,doubles
+Summer,1900,Bronze,FRA,France,"Georges DE LA CHAPELLE, André PREVOST",1900 Paris,Tennis,Men's,doubles
+Summer,1900,Bronze,GBR,Great Britain,"Arthur B.J. NORRIS, Harold Sergerson MAHONY",1900 Paris,Tennis,Men's,doubles
+Summer,1900,Gold,GBR,Great Britain,"Reginald Frank DOHERTY, Charlotte COOPER",1900 Paris,Tennis,Mixed,mixed doubles
+Summer,1900,Silver,XXB,Mixed Team,"Harold Sergerson MAHONY (GBR), Hélène PREVOST (FRA)",1900 Paris,Tennis,Mixed,mixed doubles
+Summer,1900,Bronze,XXB,Mixed Team,"Archibald A. WARDEN (GBR), Hedwig ROSENBAUM (BOH)",1900 Paris,Tennis,Mixed,mixed doubles
+Summer,1900,Bronze,XXB,Mixed Team,"Marion JONES Farquhar (USA), Hugh Lawrence DOHERTY (GBR)",1900 Paris,Tennis,Mixed,mixed doubles
+Summer,1900,Gold,GBR,Great Britain,"Thomas COE (GBR), William Henry (GBR), Frederick Stapleton (GBR), Eric ROBINSON (GBR, didn’t participate), George WILKINSON (GBR, didn’t participate), William LISTER (GBR, didn’t participate), Peter KEMP (GBR), Robert Crawshaw (GBR), John Arthur Jarvis (GBR), Victor Lindberg (NZL), Arthur ROBERTSON (GBR, didn’t participate), John Henry DERBYSHIRE (GBR, didn’t participate)",1900 Paris,Water Polo,Men's,water polo
+Summer,1900,Silver,BEL,Belgium,"Georges Romas, A. R. Upton, Victor SONNEMANS, Henri COHEN, Oscar GREGOIRE, Albert MICHANT, Guillaume Séron, Jean DE BACKER, Fernand FEYAERTS, Victor DE BEHR",1900 Paris,Water Polo,Men's,water polo
+Summer,1900,Bronze,FRA,France,"Alphonse DECUYPER (FRA), Henri PESLIER (FRA), Paul VASSEUR (FRA), Jules CLÉVENOT (FRA), Louis LAUFRAY (FRA), Auguste PESLOY (FRA), Thomas BURGESS (GBR)",1900 Paris,Water Polo,Men's,water polo
+Summer,1900,Bronze,FRA,France,"Eugène Coulon, FAVIER, Louis MARTIN, Charles TREFFEL, Antoine Fiolet, Louis Marc, FARDELLE, LERICHE, Désiré MERCHEZ, Auguste Camelin, Pierre Gellé",1900 Paris,Water Polo,Men's,water polo
+Summer,1900,Gold,ESP,Spain,"AMEZOLA, VILLOTA",1900 Paris,Basque Pelota,Men's,cesta punta
+Summer,1900,Gold,GBR,Great Britain,"Frederick Wlliam CUMING, Francis Romulus BURCHELL, Arthur Ernest BIRKETT, Alfred James BOWERMAN, William Stephen DONNE, George John BUCKLEY, John SYMES, Frederick William CHRISTIAN, Charles BEACHCROFT, Montagu Henry TOLLER, Alfred James POWLESLAND, Harry Richard CORNER",1900 Paris,Cricket,Men's,cricket
+Summer,1900,Silver,FRA,France,"F. ROQUES (FRA), John BRAID (GBR), Douglas ROBINSON (GBR), Henry John TERRY (GBR), Arthur MCEVOY (GBR), A.J. SCHNEIDAU (GBR), Philip H. TOMALIN (FRA), William T. ATTRILL (FRA), William ANDERSON (GBR), Robert HORNE (GBR), W. BROWNING (GBR), Timothée H. JORDAN (GBR)",1900 Paris,Cricket,Men's,cricket
+Summer,1900,Gold,FRA,France,AUMOITTE,1900 Paris,Croquet,Mixed,individual 1 ball
+Summer,1900,Silver,FRA,France,JOHIN,1900 Paris,Croquet,Mixed,individual 1 ball
+Summer,1900,Bronze,FRA,France,WAYDELICH,1900 Paris,Croquet,Mixed,individual 1 ball
+Summer,1900,Gold,FRA,France,WAYDELICH,1900 Paris,Croquet,Mixed,individual 2 balls
+Summer,1900,Silver,FRA,France,VIGNEROT,1900 Paris,Croquet,Mixed,individual 2 balls
+Summer,1900,Bronze,FRA,France,SAUTREAU,1900 Paris,Croquet,Mixed,individual 2 balls
+Summer,1900,Gold,FRA,France,"AUMOITTE, JOHIN",1900 Paris,Croquet,Mixed,double
+Summer,1900,Gold,GBR,Great Britain,"Alfred RAWLINSON (GBR), John Beresford (GBR), Foxhall Parker KEENE (USA), Dennis DALY (GBR), Frank Jay MACKEY (USA)",1900 Paris,Polo,Men's,polo
+Summer,1900,Silver,GBR,Great Britain,"Walter Selby BUCKMASTER (GBR), Walter Adolph MCCREERY (USA), Frederick Maitland FREAKE (GBR), José COMTE DE MADRE (FRA)",1900 Paris,Polo,Men's,polo
+Summer,1900,Bronze,FRA,France,"Robert Fournier-Sarlovèze (FRA), Frederick Agnew Gill (GBR), Maurice RAOUL-DUVAL (FRA), Édouard Alphonse James de Rothschild (FRA)",1900 Paris,Polo,Men's,polo
+Summer,1900,Bronze,XXB,Mixed Team,"Manuel de Escandón (MEX), Guillermo Hayden Wright (USA), Eustaquio de Escandón (MEX), Pablo de Escandón (MEX)",1900 Paris,Polo,Men's,polo
+Summer,1900,Gold,XXB,Mixed Team,"Edgar AABYE (DEN), Gustaf SÖDERSTRÖM (SWE), Karl Gustav STAAF (SWE), Eugen SCHMIDT (DEN), Charles WINCKLER (DEN), August NILSSON (SWE)",1900 Paris,Tug of War,Men's,tug of war
+Summer,1900,Silver,FRA,France,"Jean COLLAS (FRA), Joseph ROFFO (FRA), Francis(Albert) HENRIQUEZ de Zubiría (COL), Pierre BASSET (FRA), Charles GONDOUIN (FRA), Émile SARRADE (FRA)",1900 Paris,Tug of War,Men's,tug of war

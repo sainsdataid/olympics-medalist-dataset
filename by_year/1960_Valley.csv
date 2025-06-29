@@ -1,0 +1,82 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1960,Gold,FRA,France,Jean VUARNET,1960 Squaw Valley,Alpine Skiing,Men's,downhill
+Winter,1960,Silver,EUA,Unified Team of Germany,Hans Peter LANIG,1960 Squaw Valley,Alpine Skiing,Men's,downhill
+Winter,1960,Bronze,FRA,France,Guy PÉRILLAT,1960 Squaw Valley,Alpine Skiing,Men's,downhill
+Winter,1960,Gold,AUT,Austria,Ernst HINTERSEER,1960 Squaw Valley,Alpine Skiing,Men's,slalom
+Winter,1960,Silver,AUT,Austria,Matthias LEITNER,1960 Squaw Valley,Alpine Skiing,Men's,slalom
+Winter,1960,Bronze,FRA,France,Charles BOZON,1960 Squaw Valley,Alpine Skiing,Men's,slalom
+Winter,1960,Gold,SUI,Switzerland,Roger STAUB,1960 Squaw Valley,Alpine Skiing,Men's,giant slalom
+Winter,1960,Silver,AUT,Austria,Josef STIEGLER,1960 Squaw Valley,Alpine Skiing,Men's,giant slalom
+Winter,1960,Bronze,AUT,Austria,Ernst HINTERSEER,1960 Squaw Valley,Alpine Skiing,Men's,giant slalom
+Winter,1960,Gold,EUA,Unified Team of Germany,Heidi BIEBL,1960 Squaw Valley,Alpine Skiing,Women's,downhill
+Winter,1960,Silver,USA,United States,Penelope PITOU,1960 Squaw Valley,Alpine Skiing,Women's,downhill
+Winter,1960,Bronze,AUT,Austria,Traudl HECHER,1960 Squaw Valley,Alpine Skiing,Women's,downhill
+Winter,1960,Gold,CAN,Canada,Anne HEGGTVEIT,1960 Squaw Valley,Alpine Skiing,Women's,slalom
+Winter,1960,Silver,USA,United States,Betsy SNITE,1960 Squaw Valley,Alpine Skiing,Women's,slalom
+Winter,1960,Bronze,EUA,Unified Team of Germany,Barbi HENNEBERGER,1960 Squaw Valley,Alpine Skiing,Women's,slalom
+Winter,1960,Gold,SUI,Switzerland,Yvonne RÜEGG,1960 Squaw Valley,Alpine Skiing,Women's,giant slalom
+Winter,1960,Silver,USA,United States,Penelope PITOU,1960 Squaw Valley,Alpine Skiing,Women's,giant slalom
+Winter,1960,Bronze,ITA,Italy,Giuliana CHENAL-MINUZZO,1960 Squaw Valley,Alpine Skiing,Women's,giant slalom
+Winter,1960,Gold,SWE,Sweden,Klas LESTANDER,1960 Squaw Valley,Biathlon,Men's,20km individual
+Winter,1960,Silver,FIN,Finland,Antti TYRVÄINEN,1960 Squaw Valley,Biathlon,Men's,20km individual
+Winter,1960,Bronze,URS,USSR,Aleksandr PRIVALOV,1960 Squaw Valley,Biathlon,Men's,20km individual
+Winter,1960,Gold,NOR,Norway,Håkon BRUSVEEN,1960 Squaw Valley,Cross Country Skiing,Men's,15km
+Winter,1960,Silver,SWE,Sweden,Sixten JERNBERG,1960 Squaw Valley,Cross Country Skiing,Men's,15km
+Winter,1960,Bronze,FIN,Finland,Veikko HAKULINEN,1960 Squaw Valley,Cross Country Skiing,Men's,15km
+Winter,1960,Gold,SWE,Sweden,Sixten JERNBERG,1960 Squaw Valley,Cross Country Skiing,Men's,30km
+Winter,1960,Silver,SWE,Sweden,Rolf RÄMGÅRD,1960 Squaw Valley,Cross Country Skiing,Men's,30km
+Winter,1960,Bronze,URS,USSR,Nikolay ANIKIN,1960 Squaw Valley,Cross Country Skiing,Men's,30km
+Winter,1960,Gold,FIN,Finland,Kalevi HÄMÄLÄINEN,1960 Squaw Valley,Cross Country Skiing,Men's,50km
+Winter,1960,Silver,FIN,Finland,Veikko HAKULINEN,1960 Squaw Valley,Cross Country Skiing,Men's,50km
+Winter,1960,Bronze,SWE,Sweden,Rolf RÄMGÅRD,1960 Squaw Valley,Cross Country Skiing,Men's,50km
+Winter,1960,Gold,FIN,Finland,"Väinö HUHTALA, Veikko HAKULINEN, Eero MANTYRANTA, Toimi ALATALO",1960 Squaw Valley,Cross Country Skiing,Men's,4x10km relay
+Winter,1960,Silver,NOR,Norway,"Harald GRØNNINGEN, Håkon BRUSVEEN, Hallgeir BRENDEN, Einar ØSTBY",1960 Squaw Valley,Cross Country Skiing,Men's,4x10km relay
+Winter,1960,Bronze,URS,USSR,"Anatoly SHELYUKHIN, Nikolay ANIKIN, Aleksey KUZNETSOV, Gennadi VAGANOV",1960 Squaw Valley,Cross Country Skiing,Men's,4x10km relay
+Winter,1960,Gold,URS,USSR,Mariya GUSAKOVA,1960 Squaw Valley,Cross Country Skiing,Women's,10km
+Winter,1960,Silver,URS,USSR,Lyubov KOZYREVA,1960 Squaw Valley,Cross Country Skiing,Women's,10km
+Winter,1960,Bronze,URS,USSR,Radya YEROSHINA,1960 Squaw Valley,Cross Country Skiing,Women's,10km
+Winter,1960,Gold,SWE,Sweden,"Irma JOHANSSON, Britt STRANDBERG, Sonja EDSTRÖM",1960 Squaw Valley,Cross Country Skiing,Women's,3x5km relay
+Winter,1960,Silver,URS,USSR,"Radya YEROSHINA, Mariya GUSAKOVA, Lyubov KOZYREVA",1960 Squaw Valley,Cross Country Skiing,Women's,3x5km relay
+Winter,1960,Bronze,FIN,Finland,"Siiri RANTANEN, Eeva RUOPPA, Toini PÖYSTI",1960 Squaw Valley,Cross Country Skiing,Women's,3x5km relay
+Winter,1960,Gold,USA,United States,David JENKINS,1960 Squaw Valley,Figure skating,Men's,individual
+Winter,1960,Silver,TCH,Czechoslovakia,Karol DIVÍN,1960 Squaw Valley,Figure skating,Men's,individual
+Winter,1960,Bronze,CAN,Canada,Donald JACKSON,1960 Squaw Valley,Figure skating,Men's,individual
+Winter,1960,Gold,USA,United States,Carol HEISS,1960 Squaw Valley,Figure skating,Women's,individual
+Winter,1960,Silver,NED,Netherlands,Sjoukje DIJKSTRA,1960 Squaw Valley,Figure skating,Women's,individual
+Winter,1960,Bronze,USA,United States,Barbara ROLES,1960 Squaw Valley,Figure skating,Women's,individual
+Winter,1960,Gold,CAN,Canada,"Barbara WAGNER, Robert PAUL",1960 Squaw Valley,Figure skating,Mixed,pairs
+Winter,1960,Silver,EUA,Unified Team of Germany,"Marika KILIUS, Hans-Jürgen BÄUMLER",1960 Squaw Valley,Figure skating,Mixed,pairs
+Winter,1960,Bronze,USA,United States,"Ronald LUDINGTON, Nancy LUDINGTON",1960 Squaw Valley,Figure skating,Mixed,pairs
+Winter,1960,Gold,USA,United States,"Bill CLEARY, Roger CHRISTIAN, Richard Peter RODENHEISER, Robert MCVEY, Eugene GRAZIA, Rodney PAAVOLA, Weldon OLSON, William David CHRISTIAN, Paul JOHNSON, Larry PALMER, Bob OWEN, Thomas WILLIAMS, John MAYASICH, Dick MEREDITH, John MCCARTAN, Jack KIRRANE, Bob CLEARY",1960 Squaw Valley,Ice Hockey,Men's,ice hockey
+Winter,1960,Silver,CAN,Canada,"Donald ROPE, Robert FORHAN, Jack DOUGLAS, Robert ROUSSEAU, Maurice BENOIT, Fred ETCHER, Robert ATTERSLEY, Don HEAD, Harry SINDEN, James CONNELLY, Darryl SLY, George SAMOLENKO, Harold HURLEY, Floyd MARTIN, Robert MCKNIGHT, Clifford PENNINGTON, Kenneth LAUFMAN",1960 Squaw Valley,Ice Hockey,Men's,ice hockey
+Winter,1960,Bronze,URS,USSR,"Nikolaï SOLOGUBOV, Konstantin LOKTEV, Alfred KUCHEVSKIY, Nikolaï PUCHKOV, Veniamin ALEKSANDROV, Genrikh SIDORENKOV, Yevgeni GROSHEV, Yuri TSITSINOV, Aleksandr ALMETOV, Nikolaï KARPOV, Yuri BAULIN, Stanislav PETUKHOV, Vladimir GREBENNIKOV, Yevgeni YERKIN, Viktor PRYAZHNIKOV, Viktor YAKUSHEV, Mikhail BYCHKOV",1960 Squaw Valley,Ice Hockey,Men's,ice hockey
+Winter,1960,Gold,EUA,Unified Team of Germany,Georg THOMA,1960 Squaw Valley,Nordic Combined,Men's,individual
+Winter,1960,Silver,NOR,Norway,Tormod KNUTSEN,1960 Squaw Valley,Nordic Combined,Men's,individual
+Winter,1960,Bronze,URS,USSR,Nikolay GUSAKOV,1960 Squaw Valley,Nordic Combined,Men's,individual
+Winter,1960,Gold,EUA,Unified Team of Germany,Helmut RECKNAGEL,1960 Squaw Valley,Ski Jumping,Men's,Normal Hill individual
+Winter,1960,Silver,FIN,Finland,Niilo HALONEN,1960 Squaw Valley,Ski Jumping,Men's,Normal Hill individual
+Winter,1960,Bronze,AUT,Austria,Otto LEODOLTER,1960 Squaw Valley,Ski Jumping,Men's,Normal Hill individual
+Winter,1960,Gold,URS,USSR,Yevgeny GRISHIN,1960 Squaw Valley,Speed skating,Men's,500m
+Winter,1960,Silver,USA,United States,William DISNEY,1960 Squaw Valley,Speed skating,Men's,500m
+Winter,1960,Bronze,URS,USSR,Rafael GRACH,1960 Squaw Valley,Speed skating,Men's,500m
+Winter,1960,Gold,NOR,Norway,Roald AAS,1960 Squaw Valley,Speed skating,Men's,1500m
+Winter,1960,Gold,URS,USSR,Yevgeny GRISHIN,1960 Squaw Valley,Speed skating,Men's,1500m
+Winter,1960,Bronze,URS,USSR,Boris STENIN,1960 Squaw Valley,Speed skating,Men's,1500m
+Winter,1960,Gold,URS,USSR,Viktor KOSICHKIN,1960 Squaw Valley,Speed skating,Men's,5000m
+Winter,1960,Silver,NOR,Norway,Knut JOHANNESEN,1960 Squaw Valley,Speed skating,Men's,5000m
+Winter,1960,Bronze,NED,Netherlands,Jan PESMAN,1960 Squaw Valley,Speed skating,Men's,5000m
+Winter,1960,Gold,NOR,Norway,Knut JOHANNESEN,1960 Squaw Valley,Speed skating,Men's,10000m
+Winter,1960,Silver,URS,USSR,Viktor KOSICHKIN,1960 Squaw Valley,Speed skating,Men's,10000m
+Winter,1960,Bronze,SWE,Sweden,Kjell BÄCKMAN,1960 Squaw Valley,Speed skating,Men's,10000m
+Winter,1960,Gold,EUA,Unified Team of Germany,Helga HAASE,1960 Squaw Valley,Speed skating,Women's,500m
+Winter,1960,Silver,URS,USSR,Natalya DONCHENKO,1960 Squaw Valley,Speed skating,Women's,500m
+Winter,1960,Bronze,USA,United States,Jeanne ASHWORTH,1960 Squaw Valley,Speed skating,Women's,500m
+Winter,1960,Gold,URS,USSR,Klara GUSEVA,1960 Squaw Valley,Speed skating,Women's,1000m
+Winter,1960,Silver,EUA,Unified Team of Germany,Helga HAASE,1960 Squaw Valley,Speed skating,Women's,1000m
+Winter,1960,Bronze,URS,USSR,Tamara RYLOVA,1960 Squaw Valley,Speed skating,Women's,1000m
+Winter,1960,Gold,URS,USSR,Lidiya SKOBLIKOVA,1960 Squaw Valley,Speed skating,Women's,1500m
+Winter,1960,Silver,POL,Poland,Elwira SEROCZYNSKA,1960 Squaw Valley,Speed skating,Women's,1500m
+Winter,1960,Bronze,POL,Poland,Helena PILEJCZYK,1960 Squaw Valley,Speed skating,Women's,1500m
+Winter,1960,Gold,URS,USSR,Lidiya SKOBLIKOVA,1960 Squaw Valley,Speed skating,Women's,3000m
+Winter,1960,Silver,URS,USSR,Valentina STENINA,1960 Squaw Valley,Speed skating,Women's,3000m
+Winter,1960,Bronze,FIN,Finland,Eevi HUTTUNEN,1960 Squaw Valley,Speed skating,Women's,3000m

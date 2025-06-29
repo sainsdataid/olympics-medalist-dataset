@@ -1,0 +1,235 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,2002,Gold,NOR,Norway,Омодт,2002 Salt Lake City,Alpine Skiing,Men's,Alpine combined
+Winter,2002,Silver,USA,United States,Миллер,2002 Salt Lake City,Alpine Skiing,Men's,Alpine combined
+Winter,2002,Bronze,AUT,Austria,Райх,2002 Salt Lake City,Alpine Skiing,Men's,Alpine combined
+Winter,2002,Gold,FRA,France,Видаль,2002 Salt Lake City,Alpine Skiing,Men's,slalom
+Winter,2002,Silver,FRA,France,Амьез,2002 Salt Lake City,Alpine Skiing,Men's,slalom
+Winter,2002,Bronze,AUT,Austria,Райх,2002 Salt Lake City,Alpine Skiing,Men's,slalom
+Winter,2002,Gold,AUT,Austria,Эберхартер,2002 Salt Lake City,Alpine Skiing,Men's,giant slalom
+Winter,2002,Silver,USA,United States,Миллер,2002 Salt Lake City,Alpine Skiing,Men's,giant slalom
+Winter,2002,Bronze,NOR,Norway,Кьюс,2002 Salt Lake City,Alpine Skiing,Men's,giant slalom
+Winter,2002,Gold,NOR,Norway,Омодт,2002 Salt Lake City,Alpine Skiing,Men's,super-G
+Winter,2002,Silver,AUT,Austria,Эберхартер,2002 Salt Lake City,Alpine Skiing,Men's,super-G
+Winter,2002,Bronze,AUT,Austria,Шифферер,2002 Salt Lake City,Alpine Skiing,Men's,super-G
+Winter,2002,Gold,AUT,Austria,Штробль,2002 Salt Lake City,Alpine Skiing,Men's,downhill
+Winter,2002,Silver,NOR,Norway,Кьюс,2002 Salt Lake City,Alpine Skiing,Men's,downhill
+Winter,2002,Bronze,AUT,Austria,Эберхартер,2002 Salt Lake City,Alpine Skiing,Men's,downhill
+Winter,2002,Gold,CRO,Croatia,Костелич,2002 Salt Lake City,Alpine Skiing,Women's,Alpine combined
+Winter,2002,Silver,AUT,Austria,Гетшль,2002 Salt Lake City,Alpine Skiing,Women's,Alpine combined
+Winter,2002,Bronze,GER,Germany,Эртль,2002 Salt Lake City,Alpine Skiing,Women's,Alpine combined
+Winter,2002,Gold,CRO,Croatia,Костелич,2002 Salt Lake City,Alpine Skiing,Women's,slalom
+Winter,2002,Silver,FRA,France,Пекиньо,2002 Salt Lake City,Alpine Skiing,Women's,slalom
+Winter,2002,Bronze,SWE,Sweden,Пэрсон,2002 Salt Lake City,Alpine Skiing,Women's,slalom
+Winter,2002,Gold,CRO,Croatia,Костелич,2002 Salt Lake City,Alpine Skiing,Women's,giant slalom
+Winter,2002,Silver,SWE,Sweden,Пэрсон,2002 Salt Lake City,Alpine Skiing,Women's,giant slalom
+Winter,2002,Bronze,SUI,Switzerland,Неф,2002 Salt Lake City,Alpine Skiing,Women's,giant slalom
+Winter,2002,Gold,ITA,Italy,Чеккарелли,2002 Salt Lake City,Alpine Skiing,Women's,super-G
+Winter,2002,Silver,CRO,Croatia,Костелич,2002 Salt Lake City,Alpine Skiing,Women's,super-G
+Winter,2002,Bronze,ITA,Italy,Путцер,2002 Salt Lake City,Alpine Skiing,Women's,super-G
+Winter,2002,Gold,FRA,France,Монтийе,2002 Salt Lake City,Alpine Skiing,Women's,downhill
+Winter,2002,Silver,ITA,Italy,Костнер,2002 Salt Lake City,Alpine Skiing,Women's,downhill
+Winter,2002,Bronze,AUT,Austria,Гетшль,2002 Salt Lake City,Alpine Skiing,Women's,downhill
+Winter,2002,Gold,NOR,Norway,Бьорндален,2002 Salt Lake City,Biathlon,Men's,10km sprint
+Winter,2002,Silver,GER,Germany,Фишер,2002 Salt Lake City,Biathlon,Men's,10km sprint
+Winter,2002,Bronze,AUT,Austria,Пернер,2002 Salt Lake City,Biathlon,Men's,10km sprint
+Winter,2002,Gold,NOR,Norway,Бьорндален,2002 Salt Lake City,Biathlon,Men's,20km individual
+Winter,2002,Silver,GER,Germany,Лукк,2002 Salt Lake City,Biathlon,Men's,20km individual
+Winter,2002,Bronze,RUS,Russian Federation,Майгуров,2002 Salt Lake City,Biathlon,Men's,20km individual
+Winter,2002,Gold,NOR,Norway,Бьорндален,2002 Salt Lake City,Biathlon,Men's,12.5km pursuit
+Winter,2002,Silver,FRA,France,Пуаре,2002 Salt Lake City,Biathlon,Men's,12.5km pursuit
+Winter,2002,Bronze,GER,Germany,Гросс,2002 Salt Lake City,Biathlon,Men's,12.5km pursuit
+Winter,2002,Gold,NOR,Norway,"Бьорндален, Андресен, Гьелланд, Ханеволд",2002 Salt Lake City,Biathlon,Men's,4x7.5km relay
+Winter,2002,Silver,GER,Germany,"Зендель, Лукк, Гросс, Фишер",2002 Salt Lake City,Biathlon,Men's,4x7.5km relay
+Winter,2002,Bronze,FRA,France,"Дефран, Пуаре, Марге, Робер",2002 Salt Lake City,Biathlon,Men's,4x7.5km relay
+Winter,2002,Gold,GER,Germany,Вильхельм,2002 Salt Lake City,Biathlon,Women's,7.5km sprint
+Winter,2002,Silver,GER,Germany,Дизль,2002 Salt Lake City,Biathlon,Women's,7.5km sprint
+Winter,2002,Bronze,SWE,Sweden,Форсберг,2002 Salt Lake City,Biathlon,Women's,7.5km sprint
+Winter,2002,Gold,GER,Germany,Хенкель,2002 Salt Lake City,Biathlon,Women's,15km individual
+Winter,2002,Silver,NOR,Norway,Пуаре,2002 Salt Lake City,Biathlon,Women's,15km individual
+Winter,2002,Bronze,SWE,Sweden,Форсберг,2002 Salt Lake City,Biathlon,Women's,15km individual
+Winter,2002,Gold,RUS,Russian Federation,Пылева,2002 Salt Lake City,Biathlon,Women's,10km pursuit
+Winter,2002,Silver,GER,Germany,Вильхельм,2002 Salt Lake City,Biathlon,Women's,10km pursuit
+Winter,2002,Bronze,BUL,Bulgaria,Никульчина,2002 Salt Lake City,Biathlon,Women's,10km pursuit
+Winter,2002,Gold,GER,Germany,"Дизль, Вильхельм, Апель, Хенкель",2002 Salt Lake City,Biathlon,Women's,4x7.5km relay
+Winter,2002,Silver,NOR,Norway,"Тьорхольм, Пуаре, Скьельбрейд, Андреасен",2002 Salt Lake City,Biathlon,Women's,4x7.5km relay
+Winter,2002,Bronze,RUS,Russian Federation,"Куклева, Ахатова, Пылева, Ишмуратова",2002 Salt Lake City,Biathlon,Women's,4x7.5km relay
+Winter,2002,Gold,GER,Germany,"Ланген, Циммерманн",2002 Salt Lake City,Bobsleigh,Men's,two-man
+Winter,2002,Silver,SUI,Switzerland,"Райх, Андерхуб",2002 Salt Lake City,Bobsleigh,Men's,two-man
+Winter,2002,Bronze,SUI,Switzerland,"Аннен, Хефти",2002 Salt Lake City,Bobsleigh,Men's,two-man
+Winter,2002,Gold,GER,Germany,"Ланге, Кушке, Кюн, Эмбах",2002 Salt Lake City,Bobsleigh,Men's,four-man
+Winter,2002,Silver,USA,United States,"Хейс, Шаффенхауэр, Джонс, Хейнс",2002 Salt Lake City,Bobsleigh,Men's,four-man
+Winter,2002,Bronze,USA,United States,"Шимер, Шарп, Кон, Стил",2002 Salt Lake City,Bobsleigh,Men's,four-man
+Winter,2002,Gold,USA,United States,"Баккен, Флауэрс",2002 Salt Lake City,Bobsleigh,Women's,two-woman
+Winter,2002,Silver,GER,Germany,"Хольцнер, Прокофф",2002 Salt Lake City,Bobsleigh,Women's,two-woman
+Winter,2002,Bronze,GER,Germany,"Хершманн, Эрдман",2002 Salt Lake City,Bobsleigh,Women's,two-woman
+Winter,2002,Gold,NOR,Norway,Хетланд,2002 Salt Lake City,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2002,Silver,GER,Germany,Шликенридер,2002 Salt Lake City,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2002,Bronze,ITA,Italy,Дзордзи,2002 Salt Lake City,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2002,Gold,NOR,Norway,Ольсгорд,2002 Salt Lake City,Cross Country Skiing,Men's,Combined 10km + 10km pursuit
+Winter,2002,Gold,NOR,Norway,Эстиль,2002 Salt Lake City,Cross Country Skiing,Men's,Combined 10km + 10km pursuit
+Winter,2002,Bronze,SWE,Sweden,Элофссон,2002 Salt Lake City,Cross Country Skiing,Men's,Combined 10km + 10km pursuit
+Winter,2002,Gold,EST,Estonia,Веерпалу,2002 Salt Lake City,Cross Country Skiing,Men's,15km
+Winter,2002,Silver,NOR,Norway,Эстиль,2002 Salt Lake City,Cross Country Skiing,Men's,15km
+Winter,2002,Bronze,EST,Estonia,Мяэ,2002 Salt Lake City,Cross Country Skiing,Men's,15km
+Winter,2002,Gold,AUT,Austria,Хоффманн,2002 Salt Lake City,Cross Country Skiing,Men's,30km mass start
+Winter,2002,Silver,AUT,Austria,Ботвинов,2002 Salt Lake City,Cross Country Skiing,Men's,30km mass start
+Winter,2002,Bronze,NOR,Norway,Скьелдал,2002 Salt Lake City,Cross Country Skiing,Men's,30km mass start
+Winter,2002,Gold,RUS,Russian Federation,Иванов,2002 Salt Lake City,Cross Country Skiing,Men's,50km
+Winter,2002,Silver,EST,Estonia,Веерпалу,2002 Salt Lake City,Cross Country Skiing,Men's,50km
+Winter,2002,Bronze,NOR,Norway,Хьельмесет,2002 Salt Lake City,Cross Country Skiing,Men's,50km
+Winter,2002,Gold,NOR,Norway,"Эстиль, Ольсгорд, Эукланн, Скьелдал",2002 Salt Lake City,Cross Country Skiing,Men's,4x10km relay
+Winter,2002,Silver,ITA,Italy,"Ди Чента, Дзордзи, Май, Пиллер-Коттрер",2002 Salt Lake City,Cross Country Skiing,Men's,4x10km relay
+Winter,2002,Bronze,GER,Germany,"Шлюттер, Зоммерфельдт, Филбрих, Ангерер",2002 Salt Lake City,Cross Country Skiing,Men's,4x10km relay
+Winter,2002,Gold,RUS,Russian Federation,Чепалова,2002 Salt Lake City,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2002,Silver,GER,Germany,Захенбахер,2002 Salt Lake City,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2002,Bronze,NOR,Norway,Моен-Гуидон,2002 Salt Lake City,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2002,Gold,CAN,Canada,Скотт,2002 Salt Lake City,Cross Country Skiing,Women's,Combined 5km + 5km pursuit
+Winter,2002,Silver,CZE,Czech Republic,Нойманнова,2002 Salt Lake City,Cross Country Skiing,Women's,Combined 5km + 5km pursuit
+Winter,2002,Bronze,GER,Germany,Бауэр,2002 Salt Lake City,Cross Country Skiing,Women's,Combined 5km + 5km pursuit
+Winter,2002,Gold,NOR,Norway,Скари-Мартинсен,2002 Salt Lake City,Cross Country Skiing,Women's,10km
+Winter,2002,Silver,RUS,Russian Federation,Чепалова,2002 Salt Lake City,Cross Country Skiing,Women's,10km
+Winter,2002,Bronze,ITA,Italy,Бельмондо,2002 Salt Lake City,Cross Country Skiing,Women's,10km
+Winter,2002,Gold,ITA,Italy,Бельмондо,2002 Salt Lake City,Cross Country Skiing,Women's,15km mass start
+Winter,2002,Silver,CZE,Czech Republic,Нойманнова,2002 Salt Lake City,Cross Country Skiing,Women's,15km mass start
+Winter,2002,Bronze,RUS,Russian Federation,Чепалова,2002 Salt Lake City,Cross Country Skiing,Women's,15km mass start
+Winter,2002,Gold,ITA,Italy,Паруцци,2002 Salt Lake City,Cross Country Skiing,Women's,30km
+Winter,2002,Silver,ITA,Italy,Бельмондо,2002 Salt Lake City,Cross Country Skiing,Women's,30km
+Winter,2002,Bronze,NOR,Norway,Скари-Мартинсен,2002 Salt Lake City,Cross Country Skiing,Women's,30km
+Winter,2002,Gold,GER,Germany,"Бауэр, Захенбахер, Хенкель, Кюнцель",2002 Salt Lake City,Cross Country Skiing,Women's,4x5km relay
+Winter,2002,Silver,NOR,Norway,"Скари-Мартинсен, Моен-Гуидон, Бьорген, Педерсен",2002 Salt Lake City,Cross Country Skiing,Women's,4x5km relay
+Winter,2002,Bronze,SUI,Switzerland,"Роша, Леонарди-Кортеси, Хубер, Альбрехт-Лоретан",2002 Salt Lake City,Cross Country Skiing,Women's,4x5km relay
+Winter,2002,Gold,NOR,Norway,"Ваагберг, Рамсфелл, Трулсен, Давангер, Нергаард",2002 Salt Lake City,Curling,Men's,curling
+Winter,2002,Silver,CAN,Canada,"Мартин, Райкрофт, Тралнберг, Валчук, Бартлетт",2002 Salt Lake City,Curling,Men's,curling
+Winter,2002,Bronze,SUI,Switzerland,"Шваллер К., Гричтинг, Шваллер А., Эгглер, Рамстейн",2002 Salt Lake City,Curling,Men's,curling
+Winter,2002,Gold,GBR,Great Britain,"Мартин, Макдональд, Мортон, Кнокс, Рэнкин",2002 Salt Lake City,Curling,Women's,curling
+Winter,2002,Silver,SUI,Switzerland,"Отт, Бидо, Эбноэтер, Фрей, Роэтлисбергер",2002 Salt Lake City,Curling,Women's,curling
+Winter,2002,Bronze,CAN,Canada,"Ло, Виткрофт, Нобле, Скиннер, Нельсон",2002 Salt Lake City,Curling,Women's,curling
+Winter,2002,Gold,RUS,Russian Federation,Ягудин,2002 Salt Lake City,Figure skating,Men's,individual
+Winter,2002,Silver,RUS,Russian Federation,Плющенко,2002 Salt Lake City,Figure skating,Men's,individual
+Winter,2002,Bronze,USA,United States,Гебель,2002 Salt Lake City,Figure skating,Men's,individual
+Winter,2002,Gold,FRA,France,"Анисина, Пейзера",2002 Salt Lake City,Figure skating,Women's,individual
+Winter,2002,Silver,RUS,Russian Federation,"Лобачева, Авербух",2002 Salt Lake City,Figure skating,Women's,individual
+Winter,2002,Bronze,ITA,Italy,"Фузар-Поли, Маргальо",2002 Salt Lake City,Figure skating,Women's,individual
+Winter,2002,Gold,CAN,Canada,"Сале, Пеллетье",2002 Salt Lake City,Figure skating,Mixed,pairs
+Winter,2002,Gold,RUS,Russian Federation,"Бережная, Сихарулидзе",2002 Salt Lake City,Figure skating,Mixed,pairs
+Winter,2002,Bronze,CHN,China,"Сю Чен, Чжао Хонбо",2002 Salt Lake City,Figure skating,Mixed,pairs
+Winter,2002,Gold,USA,United States,Хьюз,2002 Salt Lake City,Figure skating,Mixed,ice dancing
+Winter,2002,Silver,RUS,Russian Federation,Слуцкая,2002 Salt Lake City,Figure skating,Mixed,ice dancing
+Winter,2002,Bronze,USA,United States,Кван,2002 Salt Lake City,Figure skating,Mixed,ice dancing
+Winter,2002,Gold,CZE,Czech Republic,Валента,2002 Salt Lake City,Freestyle Skiing,Men's,aerials
+Winter,2002,Silver,USA,United States,Пэк,2002 Salt Lake City,Freestyle Skiing,Men's,aerials
+Winter,2002,Bronze,BLR,Belarus,Гришин,2002 Salt Lake City,Freestyle Skiing,Men's,aerials
+Winter,2002,Gold,FIN,Finland,Лахтела,2002 Salt Lake City,Freestyle Skiing,Men's,moguls
+Winter,2002,Silver,USA,United States,Майер,2002 Salt Lake City,Freestyle Skiing,Men's,moguls
+Winter,2002,Bronze,FRA,France,Гай,2002 Salt Lake City,Freestyle Skiing,Men's,moguls
+Winter,2002,Gold,AUS,Australia,Кэмплин,2002 Salt Lake City,Freestyle Skiing,Women's,aerials
+Winter,2002,Silver,CAN,Canada,Бреннер,2002 Salt Lake City,Freestyle Skiing,Women's,aerials
+Winter,2002,Bronze,CAN,Canada,Дионн,2002 Salt Lake City,Freestyle Skiing,Women's,aerials
+Winter,2002,Gold,NOR,Norway,Траа,2002 Salt Lake City,Freestyle Skiing,Women's,moguls
+Winter,2002,Silver,USA,United States,Барк,2002 Salt Lake City,Freestyle Skiing,Women's,moguls
+Winter,2002,Bronze,JPN,Japan,Сатойя,2002 Salt Lake City,Freestyle Skiing,Women's,moguls
+Winter,2002,Gold,CAN,Canada,"Бродер, Джозеф, Нолан- Линдрос- Смит, Кария- Айзерман- Лемье, Игинла- Ганье- Сакик, Нуиндайк- Пека- Флери, Белфор, Макиннис- Пронгер, Нидермайер- Фут, Блэйк- Джовановски, Брюер- Шенахэн",2002 Salt Lake City,Ice Hockey,Men's,ice hockey
+Winter,2002,Silver,USA,United States,"Баррассо, Лич- Миллер, Сутер- Челиос, Рафальски- Хаусли, Поти- Герин, Рихтер, Данхэм, Ткачук- Янг- Реник, Амонти- Ролстон- Друри, Модано- Леклер- Халл, Дэдмарш- Уэйт- Йорк",2002 Salt Lake City,Ice Hockey,Men's,ice hockey
+Winter,2002,Bronze,RUS,Russian Federation,"Хабибулин, Брызгалов, Буре П.- Жамнов- Буре В., Афиногенов- Яшин- Николишин, Самсонов- Федоров- Ковальчук, Ковалев- Ларионов- Дацюк, Подомацкий, Миронов- Малахов, Гончар-Каспарайтис, Марков- Твердовский, Кравчук- Кваша",2002 Salt Lake City,Ice Hockey,Men's,ice hockey
+Winter,2002,Gold,CAN,Canada,"HEFFORD, OUELLETTE, POUNDER, SMALL, ST-PIERRE, WICKENHEISER, BECHARD, BRISSON, CHARTRAND, GOYETTE, KELLAR, PIPER, SHEWCHUK, SOSTORICS, SUNOHARA, ANTAL, BOTTERILL, CAMPBELL, DUPUIS, HEANEY",2002 Salt Lake City,Ice Hockey,Women's,ice hockey
+Winter,2002,Silver,USA,United States,"BAKER, CHU, DECOSTA, KING, GRANATO, MERZ, KILBOURNE, MOUNSEY, RUGGIERO, WALL, BAILEY, BYE, DARWITZ, DUNN, LOONEY, KENNEDY, MLECZKO, POTTER, TUETING, WENDELL",2002 Salt Lake City,Ice Hockey,Women's,ice hockey
+Winter,2002,Bronze,SWE,Sweden,"AHLEN, ALMBLAD, ANDERSSON, BERGSTRAND, ELFSBERG, JANSSON, LINDBERG, PETTERSSON, RUNDQVIST, SJOLANDER, MARTIN, ANDERSSON, BERGGREN, EDSTRAND, HOLST, LARSSON, LINDSTROM, ROTH, SAMUELSSON, VIKMAN",2002 Salt Lake City,Ice Hockey,Women's,ice hockey
+Winter,2002,Gold,ITA,Italy,Цоггелер,2002 Salt Lake City,Luge,Men's,singles
+Winter,2002,Silver,GER,Germany,Хакль,2002 Salt Lake City,Luge,Men's,singles
+Winter,2002,Bronze,AUT,Austria,Прокк,2002 Salt Lake City,Luge,Men's,singles
+Winter,2002,Gold,GER,Germany,Отто,2002 Salt Lake City,Luge,Women's,singles
+Winter,2002,Silver,GER,Germany,Нидернхубер,2002 Salt Lake City,Luge,Women's,singles
+Winter,2002,Bronze,GER,Germany,Краузхаар,2002 Salt Lake City,Luge,Women's,singles
+Winter,2002,Gold,GER,Germany,"Реч, Ляйтнер",2002 Salt Lake City,Luge,Mixed,doubles
+Winter,2002,Silver,USA,United States,"Мартин, Гриммет",2002 Salt Lake City,Luge,Mixed,doubles
+Winter,2002,Bronze,USA,United States,"Айвз, Торп",2002 Salt Lake City,Luge,Mixed,doubles
+Winter,2002,Gold,FIN,Finland,Лайюнен,2002 Salt Lake City,Nordic Combined,Men's,individual
+Winter,2002,Silver,FIN,Finland,Таллус,2002 Salt Lake City,Nordic Combined,Men's,individual
+Winter,2002,Bronze,AUT,Austria,Готтвальд,2002 Salt Lake City,Nordic Combined,Men's,individual
+Winter,2002,Gold,FIN,Finland,Лайюнен,2002 Salt Lake City,Nordic Combined,Men's,Individual sprint
+Winter,2002,Silver,GER,Germany,Аккерманн,2002 Salt Lake City,Nordic Combined,Men's,Individual sprint
+Winter,2002,Bronze,AUT,Austria,Готтвальд,2002 Salt Lake City,Nordic Combined,Men's,Individual sprint
+Winter,2002,Gold,FIN,Finland,"Мантила, Таллус, Маннинен, Лайюнен",2002 Salt Lake City,Nordic Combined,Men's,team
+Winter,2002,Silver,GER,Germany,"Кирхайзен, Хехлиг, Хеттих, Аккерманн",2002 Salt Lake City,Nordic Combined,Men's,team
+Winter,2002,Bronze,AUT,Austria,"Билер, Штехер, Грубер, Готтвальд",2002 Salt Lake City,Nordic Combined,Men's,team
+Winter,2002,Gold,CAN,Canada,Ганьон,2002 Salt Lake City,Short Track Speed Skating,Men's,500m
+Winter,2002,Silver,CAN,Canada,Гюйметт,2002 Salt Lake City,Short Track Speed Skating,Men's,500m
+Winter,2002,Bronze,USA,United States,Смит,2002 Salt Lake City,Short Track Speed Skating,Men's,500m
+Winter,2002,Gold,AUS,Australia,Бредбери,2002 Salt Lake City,Short Track Speed Skating,Men's,1000m
+Winter,2002,Silver,USA,United States,Оно,2002 Salt Lake City,Short Track Speed Skating,Men's,1000m
+Winter,2002,Bronze,CAN,Canada,Туркотт,2002 Salt Lake City,Short Track Speed Skating,Men's,1000m
+Winter,2002,Gold,USA,United States,Оно,2002 Salt Lake City,Short Track Speed Skating,Men's,1500m
+Winter,2002,Silver,CHN,China,Ли Цзяцзюнь,2002 Salt Lake City,Short Track Speed Skating,Men's,1500m
+Winter,2002,Bronze,CAN,Canada,Ганьон,2002 Salt Lake City,Short Track Speed Skating,Men's,1500m
+Winter,2002,Gold,CAN,Canada,"Ганьон, Тремблэ, Гюйметт, Туркотт",2002 Salt Lake City,Short Track Speed Skating,Men's,5000m relay
+Winter,2002,Silver,ITA,Italy,"Карнино, Франческина, Карта, Родиджари",2002 Salt Lake City,Short Track Speed Skating,Men's,5000m relay
+Winter,2002,Bronze,CHN,China,"Кай Фэн, Ли Цзяцзюнь, Гуо Вэй, Ли Е",2002 Salt Lake City,Short Track Speed Skating,Men's,5000m relay
+Winter,2002,Gold,CHN,China,Ян Ян А,2002 Salt Lake City,Short Track Speed Skating,Women's,500m
+Winter,2002,Silver,BUL,Bulgaria,Раданова,2002 Salt Lake City,Short Track Speed Skating,Women's,500m
+Winter,2002,Bronze,CHN,China,Ван Чуньлу,2002 Salt Lake City,Short Track Speed Skating,Women's,500m
+Winter,2002,Gold,CHN,China,Ян Ян А,2002 Salt Lake City,Short Track Speed Skating,Women's,1000m
+Winter,2002,Silver,KOR,Korea Republic,Ко Джи Хьюн,2002 Salt Lake City,Short Track Speed Skating,Women's,1000m
+Winter,2002,Bronze,CHN,China,Ян Ян С,2002 Salt Lake City,Short Track Speed Skating,Women's,1000m
+Winter,2002,Gold,KOR,Korea Republic,Ко Джи Хьюн,2002 Salt Lake City,Short Track Speed Skating,Women's,1500m
+Winter,2002,Silver,KOR,Korea Republic,Чой Юн Кьюн,2002 Salt Lake City,Short Track Speed Skating,Women's,1500m
+Winter,2002,Bronze,BUL,Bulgaria,Раданова,2002 Salt Lake City,Short Track Speed Skating,Women's,1500m
+Winter,2002,Gold,KOR,Korea Republic,"Ху Мин Жин, Чой Юн Кьюн, Чой Мин Кьюн, Парк Хэ Вон",2002 Salt Lake City,Short Track Speed Skating,Women's,3000m relay
+Winter,2002,Silver,CHN,China,"Ян Ян А, Ван Чуньлу, Ян Ян С, Сунь Даньдань",2002 Salt Lake City,Short Track Speed Skating,Women's,3000m relay
+Winter,2002,Bronze,CAN,Canada,"Чарест, Гулет-Надон, Дроле, Краус",2002 Salt Lake City,Short Track Speed Skating,Women's,3000m relay
+Winter,2002,Gold,USA,United States,Шеа,2002 Salt Lake City,Skeleton,Men's,individual
+Winter,2002,Silver,AUT,Austria,Реттль,2002 Salt Lake City,Skeleton,Men's,individual
+Winter,2002,Bronze,SUI,Switzerland,Штэли,2002 Salt Lake City,Skeleton,Men's,individual
+Winter,2002,Gold,USA,United States,Гэйл,2002 Salt Lake City,Skeleton,Women's,individual
+Winter,2002,Silver,USA,United States,Пэрсли,2002 Salt Lake City,Skeleton,Women's,individual
+Winter,2002,Bronze,GBR,Great Britain,Кумбер,2002 Salt Lake City,Skeleton,Women's,individual
+Winter,2002,Gold,SUI,Switzerland,Амманн,2002 Salt Lake City,Ski Jumping,Men's,Normal Hill individual
+Winter,2002,Silver,GER,Germany,Ханнавальд,2002 Salt Lake City,Ski Jumping,Men's,Normal Hill individual
+Winter,2002,Bronze,POL,Poland,Малыш,2002 Salt Lake City,Ski Jumping,Men's,Normal Hill individual
+Winter,2002,Gold,SUI,Switzerland,Амманн,2002 Salt Lake City,Ski Jumping,Men's,Large Hill individual
+Winter,2002,Silver,POL,Poland,Малыш,2002 Salt Lake City,Ski Jumping,Men's,Large Hill individual
+Winter,2002,Bronze,FIN,Finland,Хаутамяки,2002 Salt Lake City,Ski Jumping,Men's,Large Hill individual
+Winter,2002,Gold,GER,Germany,"Ханнавальд, Урманн, Хокке, Шмитт",2002 Salt Lake City,Ski Jumping,Men's,Large Hill team
+Winter,2002,Silver,FIN,Finland,"Хаутамяки, Юссилайнен, Линдстрем, Ахонен",2002 Salt Lake City,Ski Jumping,Men's,Large Hill team
+Winter,2002,Bronze,SLO,Slovenia,"Фрас, Краньец, Петерка, Зонта",2002 Salt Lake City,Ski Jumping,Men's,Large Hill team
+Winter,2002,Gold,SUI,Switzerland,Шох,2002 Salt Lake City,Snowboard,Men's,Giant parallel slalom
+Winter,2002,Silver,SWE,Sweden,Рикардссон,2002 Salt Lake City,Snowboard,Men's,Giant parallel slalom
+Winter,2002,Bronze,USA,United States,Клаг,2002 Salt Lake City,Snowboard,Men's,Giant parallel slalom
+Winter,2002,Gold,USA,United States,Пауэрс,2002 Salt Lake City,Snowboard,Men's,Half-pipe
+Winter,2002,Silver,USA,United States,Касс,2002 Salt Lake City,Snowboard,Men's,Half-pipe
+Winter,2002,Bronze,USA,United States,Томас,2002 Salt Lake City,Snowboard,Men's,Half-pipe
+Winter,2002,Gold,FRA,France,Блан,2002 Salt Lake City,Snowboard,Women's,Giant parallel slalom
+Winter,2002,Silver,FRA,France,Рюби,2002 Salt Lake City,Snowboard,Women's,Giant parallel slalom
+Winter,2002,Bronze,ITA,Italy,Треттель,2002 Salt Lake City,Snowboard,Women's,Giant parallel slalom
+Winter,2002,Gold,USA,United States,Кларк,2002 Salt Lake City,Snowboard,Women's,Half-pipe
+Winter,2002,Silver,FRA,France,Видаль,2002 Salt Lake City,Snowboard,Women's,Half-pipe
+Winter,2002,Bronze,SUI,Switzerland,Ройтелер,2002 Salt Lake City,Snowboard,Women's,Half-pipe
+Winter,2002,Gold,USA,United States,Фитцрэндольф,2002 Salt Lake City,Speed skating,Men's,500m
+Winter,2002,Silver,JPN,Japan,Шимицу,2002 Salt Lake City,Speed skating,Men's,500m
+Winter,2002,Bronze,USA,United States,Карпентер,2002 Salt Lake City,Speed skating,Men's,500m
+Winter,2002,Gold,NED,Netherlands,Ван Велде,2002 Salt Lake City,Speed skating,Men's,1000m
+Winter,2002,Silver,NED,Netherlands,Бос,2002 Salt Lake City,Speed skating,Men's,1000m
+Winter,2002,Bronze,USA,United States,Чик,2002 Salt Lake City,Speed skating,Men's,1000m
+Winter,2002,Gold,USA,United States,Парра,2002 Salt Lake City,Speed skating,Men's,1500m
+Winter,2002,Silver,NED,Netherlands,Ютдехааге,2002 Salt Lake City,Speed skating,Men's,1500m
+Winter,2002,Bronze,NOR,Norway,Сундрол,2002 Salt Lake City,Speed skating,Men's,1500m
+Winter,2002,Gold,NED,Netherlands,Ютдехааге,2002 Salt Lake City,Speed skating,Men's,5000m
+Winter,2002,Silver,USA,United States,Парра,2002 Salt Lake City,Speed skating,Men's,5000m
+Winter,2002,Bronze,GER,Germany,Боден,2002 Salt Lake City,Speed skating,Men's,5000m
+Winter,2002,Gold,NED,Netherlands,Ютдехааге,2002 Salt Lake City,Speed skating,Men's,10000m
+Winter,2002,Silver,NED,Netherlands,Ромме,2002 Salt Lake City,Speed skating,Men's,10000m
+Winter,2002,Bronze,NOR,Norway,Сэтре,2002 Salt Lake City,Speed skating,Men's,10000m
+Winter,2002,Gold,CAN,Canada,Лемэй-Доан,2002 Salt Lake City,Speed skating,Women's,500m
+Winter,2002,Silver,GER,Germany,Гарбрехт-Энфельдт,2002 Salt Lake City,Speed skating,Women's,500m
+Winter,2002,Bronze,GER,Germany,Фелькер,2002 Salt Lake City,Speed skating,Women's,500m
+Winter,2002,Gold,USA,United States,Уитти,2002 Salt Lake City,Speed skating,Women's,1000m
+Winter,2002,Silver,GER,Germany,Фелькер,2002 Salt Lake City,Speed skating,Women's,1000m
+Winter,2002,Bronze,USA,United States,Родригес,2002 Salt Lake City,Speed skating,Women's,1000m
+Winter,2002,Gold,GER,Germany,Фризингер,2002 Salt Lake City,Speed skating,Women's,1500m
+Winter,2002,Silver,GER,Germany,Фелькер,2002 Salt Lake City,Speed skating,Women's,1500m
+Winter,2002,Bronze,USA,United States,Родригес,2002 Salt Lake City,Speed skating,Women's,1500m
+Winter,2002,Gold,GER,Germany,Пехштайн,2002 Salt Lake City,Speed skating,Women's,3000m
+Winter,2002,Silver,NED,Netherlands,Греневольд,2002 Salt Lake City,Speed skating,Women's,3000m
+Winter,2002,Bronze,CAN,Canada,Классен,2002 Salt Lake City,Speed skating,Women's,3000m
+Winter,2002,Gold,GER,Germany,Пехштайн,2002 Salt Lake City,Speed skating,Women's,5000m
+Winter,2002,Silver,NED,Netherlands,Смит,2002 Salt Lake City,Speed skating,Women's,5000m
+Winter,2002,Bronze,CAN,Canada,Хьюз,2002 Salt Lake City,Speed skating,Women's,5000m

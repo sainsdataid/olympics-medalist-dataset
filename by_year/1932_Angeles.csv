@@ -1,0 +1,348 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1932,Gold,USA,United States,Eddie TOLAN,1932 Los Angeles,Athletics,Men's,100m
+Summer,1932,Silver,USA,United States,Ralph METCALFE,1932 Los Angeles,Athletics,Men's,100m
+Summer,1932,Bronze,GER,Germany,Arthur JONATH,1932 Los Angeles,Athletics,Men's,100m
+Summer,1932,Gold,USA,United States,Eddie TOLAN,1932 Los Angeles,Athletics,Men's,200m
+Summer,1932,Silver,USA,United States,George SIMPSON,1932 Los Angeles,Athletics,Men's,200m
+Summer,1932,Bronze,USA,United States,Ralph METCALFE,1932 Los Angeles,Athletics,Men's,200m
+Summer,1932,Gold,USA,United States,William Arthur CARR,1932 Los Angeles,Athletics,Men's,400m
+Summer,1932,Silver,USA,United States,Benjamin Bangs EASTMAN,1932 Los Angeles,Athletics,Men's,400m
+Summer,1932,Bronze,CAN,Canada,Alex WILSON,1932 Los Angeles,Athletics,Men's,400m
+Summer,1932,Gold,GBR,Great Britain,Thomas HAMPSON,1932 Los Angeles,Athletics,Men's,800m
+Summer,1932,Silver,CAN,Canada,Alex WILSON,1932 Los Angeles,Athletics,Men's,800m
+Summer,1932,Bronze,CAN,Canada,Philip EDWARDS,1932 Los Angeles,Athletics,Men's,800m
+Summer,1932,Gold,ITA,Italy,Luigi BECCALI,1932 Los Angeles,Athletics,Men's,1500m
+Summer,1932,Silver,GBR,Great Britain,John CORNES,1932 Los Angeles,Athletics,Men's,1500m
+Summer,1932,Bronze,CAN,Canada,Philip EDWARDS,1932 Los Angeles,Athletics,Men's,1500m
+Summer,1932,Gold,FIN,Finland,Lauri LEHTINEN,1932 Los Angeles,Athletics,Men's,5000m
+Summer,1932,Silver,USA,United States,Ralph HILL,1932 Los Angeles,Athletics,Men's,5000m
+Summer,1932,Bronze,FIN,Finland,Lauri VIRTANEN,1932 Los Angeles,Athletics,Men's,5000m
+Summer,1932,Gold,POL,Poland,Janusz KUSOCINSKI,1932 Los Angeles,Athletics,Men's,10000m
+Summer,1932,Silver,FIN,Finland,Volmari ISO-HOLLO,1932 Los Angeles,Athletics,Men's,10000m
+Summer,1932,Bronze,FIN,Finland,Lauri VIRTANEN,1932 Los Angeles,Athletics,Men's,10000m
+Summer,1932,Gold,ARG,Argentina,Juan Carlos ZABALA,1932 Los Angeles,Athletics,Men's,marathon
+Summer,1932,Silver,GBR,Great Britain,Samuel FERRIS,1932 Los Angeles,Athletics,Men's,marathon
+Summer,1932,Bronze,FIN,Finland,Armas TOIVONEN,1932 Los Angeles,Athletics,Men's,marathon
+Summer,1932,Gold,USA,United States,George SALING,1932 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1932,Silver,USA,United States,Percy BEARD,1932 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1932,Bronze,GBR,Great Britain,Donald FINLAY,1932 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1932,Gold,IRL,Ireland,Robert Morton Newburgh TISDALL,1932 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1932,Silver,USA,United States,Glenn HARDIN,1932 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1932,Bronze,USA,United States,Morgan TAYLOR,1932 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1932,Gold,FIN,Finland,Volmari ISO-HOLLO,1932 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1932,Silver,GBR,Great Britain,Thomas EVENSON,1932 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1932,Bronze,USA,United States,Joseph MCCLUSKEY,1932 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1932,Gold,GBR,Great Britain,Thomas William GREEN,1932 Los Angeles,Athletics,Men's,50km walk
+Summer,1932,Silver,LAT,Latvia,Janis DALINS,1932 Los Angeles,Athletics,Men's,50km walk
+Summer,1932,Bronze,ITA,Italy,Ugo FRIGERIO,1932 Los Angeles,Athletics,Men's,50km walk
+Summer,1932,Gold,USA,United States,"Hector DYER, Emmett TOPPINO, Frank WYKOFF, Robert Allan KIESEL",1932 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1932,Silver,GER,Germany,"Helmut KÖRNIG, Friedrich HENDRIX, Arthur JONATH, Erich BORCHMEYER",1932 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1932,Bronze,ITA,Italy,"Giuseppe CASTELLI, Edgardo TOETTI, Ruggero MAREGATTI, Luigi FACELLI",1932 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1932,Gold,USA,United States,"Ivan FUQUA, William Arthur CARR, Edgar ABLOWICH, Karl WARNER",1932 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1932,Silver,GBR,Great Britain,"Godfrey RAMPLING, Thomas HAMPSON, Crew STONELEY, David George BURGHLEY",1932 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1932,Bronze,CAN,Canada,"Raymond Gray LEWIS, Alex WILSON, Philip EDWARDS, James BALL",1932 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1932,Gold,USA,United States,Edward Lansing GORDON,1932 Los Angeles,Athletics,Men's,long jump
+Summer,1932,Silver,USA,United States,Lambert REDD,1932 Los Angeles,Athletics,Men's,long jump
+Summer,1932,Bronze,JPN,Japan,Chuhei NAMBU,1932 Los Angeles,Athletics,Men's,long jump
+Summer,1932,Gold,JPN,Japan,Chuhei NAMBU,1932 Los Angeles,Athletics,Men's,triple jump
+Summer,1932,Silver,SWE,Sweden,Eric SVENSSON,1932 Los Angeles,Athletics,Men's,triple jump
+Summer,1932,Bronze,JPN,Japan,Kenkichi OSHIMA,1932 Los Angeles,Athletics,Men's,triple jump
+Summer,1932,Gold,CAN,Canada,Duncan MCNAUGHTON,1932 Los Angeles,Athletics,Men's,high jump
+Summer,1932,Silver,USA,United States,Robert VAN OSDEL,1932 Los Angeles,Athletics,Men's,high jump
+Summer,1932,Bronze,PHI,Philippines,Simeon TORIBIO,1932 Los Angeles,Athletics,Men's,high jump
+Summer,1932,Gold,USA,United States,William Waring MILLER,1932 Los Angeles,Athletics,Men's,pole vault
+Summer,1932,Silver,JPN,Japan,Shuhei NISHIDA,1932 Los Angeles,Athletics,Men's,pole vault
+Summer,1932,Bronze,USA,United States,George JEFFERSON,1932 Los Angeles,Athletics,Men's,pole vault
+Summer,1932,Gold,USA,United States,Leo SEXTON,1932 Los Angeles,Athletics,Men's,shot put
+Summer,1932,Silver,USA,United States,Harlow ROTHERT,1932 Los Angeles,Athletics,Men's,shot put
+Summer,1932,Bronze,TCH,Czechoslovakia,Franti?ek DOUDA,1932 Los Angeles,Athletics,Men's,shot put
+Summer,1932,Gold,USA,United States,John ANDERSON,1932 Los Angeles,Athletics,Men's,discus throw
+Summer,1932,Silver,USA,United States,Henri LABORDE,1932 Los Angeles,Athletics,Men's,discus throw
+Summer,1932,Bronze,FRA,France,Paul WINTER,1932 Los Angeles,Athletics,Men's,discus throw
+Summer,1932,Gold,IRL,Ireland,Patrick O'CALLAGHAN,1932 Los Angeles,Athletics,Men's,hammer throw
+Summer,1932,Silver,FIN,Finland,Ville PÖRHÖLÄ,1932 Los Angeles,Athletics,Men's,hammer throw
+Summer,1932,Bronze,USA,United States,Peter ZAREMBA,1932 Los Angeles,Athletics,Men's,hammer throw
+Summer,1932,Gold,FIN,Finland,Matti JÄRVINEN,1932 Los Angeles,Athletics,Men's,javelin throw
+Summer,1932,Silver,FIN,Finland,Matti SIPPALA,1932 Los Angeles,Athletics,Men's,javelin throw
+Summer,1932,Bronze,FIN,Finland,Eino PENTTILÄ,1932 Los Angeles,Athletics,Men's,javelin throw
+Summer,1932,Gold,USA,United States,Jim BAUSCH,1932 Los Angeles,Athletics,Men's,decathlon
+Summer,1932,Silver,FIN,Finland,Aki JÄRVINEN,1932 Los Angeles,Athletics,Men's,decathlon
+Summer,1932,Bronze,GER,Germany,Wolrad EBERLE,1932 Los Angeles,Athletics,Men's,decathlon
+Summer,1932,Gold,POL,Poland,Stanislawa WALASIEWICZ,1932 Los Angeles,Athletics,Women's,100m
+Summer,1932,Silver,CAN,Canada,Hilda STRIKE,1932 Los Angeles,Athletics,Women's,100m
+Summer,1932,Bronze,USA,United States,Wilhelmina VON BREMEN,1932 Los Angeles,Athletics,Women's,100m
+Summer,1932,Gold,USA,United States,Mildred DIDRIKSON,1932 Los Angeles,Athletics,Women's,80m hurdles
+Summer,1932,Silver,USA,United States,Evelyne HALL,1932 Los Angeles,Athletics,Women's,80m hurdles
+Summer,1932,Bronze,RSA,South Africa,Marjorie CLARK,1932 Los Angeles,Athletics,Women's,80m hurdles
+Summer,1932,Gold,USA,United States,"Mary CAREW, Annette ROGERS, Wilhelmina VON BREMEN, Evelyn FURTSCH",1932 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1932,Silver,CAN,Canada,"Mary FRIZZELL, Hilda STRIKE, Lillian PALMER, Mildred FRIZZELL",1932 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1932,Bronze,GBR,Great Britain,"Violet WEBB, Gwendoline Alice PORTER, Eileen HISCOCK, Nellie HALSTEAD",1932 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1932,Gold,USA,United States,Jean SHILEY,1932 Los Angeles,Athletics,Women's,high jump
+Summer,1932,Silver,USA,United States,Mildred DIDRIKSON,1932 Los Angeles,Athletics,Women's,high jump
+Summer,1932,Bronze,CAN,Canada,Eva DAWES,1932 Los Angeles,Athletics,Women's,high jump
+Summer,1932,Gold,USA,United States,Lillian COPELAND,1932 Los Angeles,Athletics,Women's,discus throw
+Summer,1932,Silver,USA,United States,Ruth OSBURN,1932 Los Angeles,Athletics,Women's,discus throw
+Summer,1932,Bronze,POL,Poland,Jadwiga WAJS,1932 Los Angeles,Athletics,Women's,discus throw
+Summer,1932,Gold,USA,United States,Mildred DIDRIKSON,1932 Los Angeles,Athletics,Women's,javelin throw
+Summer,1932,Silver,GER,Germany,Ellen BRAUMÜLLER,1932 Los Angeles,Athletics,Women's,javelin throw
+Summer,1932,Bronze,GER,Germany,Tilly FLEISCHER,1932 Los Angeles,Athletics,Women's,javelin throw
+Summer,1932,Gold,HUN,Hungary,István ÉNEKES,1932 Los Angeles,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1932,Silver,MEX,Mexico,Francisco CABANAS,1932 Los Angeles,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1932,Bronze,USA,United States,Louis SALICA,1932 Los Angeles,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1932,Gold,CAN,Canada,Horace GWYNNE,1932 Los Angeles,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1932,Silver,GER,Germany,Hans ZIGLARSKI,1932 Los Angeles,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1932,Bronze,PHI,Philippines,Jose VILLANUEVA,1932 Los Angeles,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1932,Gold,ARG,Argentina,Carmelo ROBLEDO,1932 Los Angeles,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1932,Silver,GER,Germany,Josef SCHLEINKOFER,1932 Los Angeles,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1932,Bronze,SWE,Sweden,Carl CARLSSON,1932 Los Angeles,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1932,Gold,RSA,South Africa,Lawrence STEVENS,1932 Los Angeles,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1932,Silver,SWE,Sweden,Thure AHLQVIST,1932 Los Angeles,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1932,Bronze,USA,United States,Nathan BOR,1932 Los Angeles,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1932,Gold,USA,United States,Edward FLYNN,1932 Los Angeles,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1932,Silver,GER,Germany,Erich CAMPE,1932 Los Angeles,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1932,Bronze,FIN,Finland,Bruno AHLBERG,1932 Los Angeles,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1932,Gold,USA,United States,Carmen BARTH,1932 Los Angeles,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1932,Silver,ARG,Argentina,Amado AZAR,1932 Los Angeles,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1932,Bronze,RSA,South Africa,Ernest PIERCE,1932 Los Angeles,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1932,Gold,RSA,South Africa,David CARSTENS,1932 Los Angeles,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1932,Silver,ITA,Italy,Gino ROSSI,1932 Los Angeles,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1932,Bronze,DEN,Denmark,Peter JØRGENSEN,1932 Los Angeles,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1932,Gold,ARG,Argentina,Santiago LOVELL,1932 Los Angeles,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1932,Silver,ITA,Italy,Luigi ROVATI,1932 Los Angeles,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1932,Bronze,USA,United States,Frederick FEARY,1932 Los Angeles,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1932,Gold,ITA,Italy,Attilio PAVESI,1932 Los Angeles,Cycling Road,Men's,individual time trial
+Summer,1932,Silver,ITA,Italy,Guglielmo SEGATO,1932 Los Angeles,Cycling Road,Men's,individual time trial
+Summer,1932,Bronze,SWE,Sweden,Bernhard BRITZ,1932 Los Angeles,Cycling Road,Men's,individual time trial
+Summer,1932,Gold,ITA,Italy,"Giuseppe OLMO, Guglielmo SEGATO, Attilio PAVESI",1932 Los Angeles,Cycling Road,Men's,team time trial
+Summer,1932,Silver,DEN,Denmark,"Henry HANSEN, Frode SØRENSEN, Leo NIELSEN",1932 Los Angeles,Cycling Road,Men's,team time trial
+Summer,1932,Bronze,SWE,Sweden,"Bernhard BRITZ, Sven HÖGLUND, Arne BERG",1932 Los Angeles,Cycling Road,Men's,team time trial
+Summer,1932,Gold,NED,Netherlands,Jacobus VAN EGMOND,1932 Los Angeles,Cycling Track,Men's,sprint individual
+Summer,1932,Silver,FRA,France,Louis CHAILLOT,1932 Los Angeles,Cycling Track,Men's,sprint individual
+Summer,1932,Bronze,ITA,Italy,Bruno PELLIZZARI,1932 Los Angeles,Cycling Track,Men's,sprint individual
+Summer,1932,Gold,AUS,Australia,Edgar Laurence GRAY,1932 Los Angeles,Cycling Track,Men's,1km time trial
+Summer,1932,Silver,NED,Netherlands,Jacobus VAN EGMOND,1932 Los Angeles,Cycling Track,Men's,1km time trial
+Summer,1932,Bronze,FRA,France,Charles RAMPELBERG,1932 Los Angeles,Cycling Track,Men's,1km time trial
+Summer,1932,Gold,FRA,France,"Maurice PERRIN, Louis CHAILLOT",1932 Los Angeles,Cycling Track,Men's,2000m tandem
+Summer,1932,Silver,GBR,Great Britain,"Ernest Henry CHAMBERS, Stanley CHAMBERS",1932 Los Angeles,Cycling Track,Men's,2000m tandem
+Summer,1932,Bronze,DEN,Denmark,"Harald CHRISTENSEN, Willy Viggo GERVIN",1932 Los Angeles,Cycling Track,Men's,2000m tandem
+Summer,1932,Gold,ITA,Italy,"Paolo PEDRETTI, Alberto GHILARDI, Nino BORSARI, Marco CIMATTI",1932 Los Angeles,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1932,Silver,FRA,France,"Rene LEGREVES, Amédée FOURNIER, Paul CHOCQUE, Henri MOUILLEFARINE",1932 Los Angeles,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1932,Bronze,GBR,Great Britain,"Ernest JOHNSON, Frank SOUTHALL, William HARVELL, Charles HOLLAND",1932 Los Angeles,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1932,Gold,USA,United States,Michael Riley GALITZEN,1932 Los Angeles,Diving,Men's,3m springboard
+Summer,1932,Silver,USA,United States,Harold SMITH,1932 Los Angeles,Diving,Men's,3m springboard
+Summer,1932,Bronze,USA,United States,Richard DEGENER,1932 Los Angeles,Diving,Men's,3m springboard
+Summer,1932,Gold,USA,United States,Harold SMITH,1932 Los Angeles,Diving,Men's,10m platform
+Summer,1932,Silver,USA,United States,Michael Riley GALITZEN,1932 Los Angeles,Diving,Men's,10m platform
+Summer,1932,Bronze,USA,United States,Frank KURTZ,1932 Los Angeles,Diving,Men's,10m platform
+Summer,1932,Gold,USA,United States,Georgia COLEMAN,1932 Los Angeles,Diving,Women's,3m springboard
+Summer,1932,Silver,USA,United States,Katherine RAWLS,1932 Los Angeles,Diving,Women's,3m springboard
+Summer,1932,Bronze,USA,United States,Jane FAUNTZ,1932 Los Angeles,Diving,Women's,3m springboard
+Summer,1932,Gold,USA,United States,Dorothy POYNTON,1932 Los Angeles,Diving,Women's,10m platform
+Summer,1932,Silver,USA,United States,Georgia COLEMAN,1932 Los Angeles,Diving,Women's,10m platform
+Summer,1932,Bronze,USA,United States,Marion ROPER,1932 Los Angeles,Diving,Women's,10m platform
+Summer,1932,Gold,FRA,France,Xavier LESAGE,1932 Los Angeles,Equestrian Dressage,Mixed,individual
+Summer,1932,Silver,FRA,France,Charles MARION,1932 Los Angeles,Equestrian Dressage,Mixed,individual
+Summer,1932,Bronze,USA,United States,Hiram TUTTLE,1932 Los Angeles,Equestrian Dressage,Mixed,individual
+Summer,1932,Gold,FRA,France,"Xavier LESAGE, André JOUSSEAUMÉ, Charles MARION",1932 Los Angeles,Equestrian Dressage,Mixed,team
+Summer,1932,Silver,SWE,Sweden,"Thomas BYSTRÖM, Bertil SANDSTRÖM, Gustaf Adolf BOLTENSTERN JR.",1932 Los Angeles,Equestrian Dressage,Mixed,team
+Summer,1932,Bronze,USA,United States,"Isaac KITTS, Hiram TUTTLE, Alvin MOORE",1932 Los Angeles,Equestrian Dressage,Mixed,team
+Summer,1932,Gold,NED,Netherlands,Charles PAHUD DE MORTANGES,1932 Los Angeles,Equestrian Eventing,Mixed,individual
+Summer,1932,Silver,USA,United States,Earl THOMSON,1932 Los Angeles,Equestrian Eventing,Mixed,individual
+Summer,1932,Bronze,SWE,Sweden,Clarence VON ROSEN JR.,1932 Los Angeles,Equestrian Eventing,Mixed,individual
+Summer,1932,Gold,USA,United States,"Harry CHAMBERLIN, Earl THOMSON, Edwin ARGO",1932 Los Angeles,Equestrian Eventing,Mixed,team
+Summer,1932,Silver,NED,Netherlands,"Aernout VAN LENNEP, Karel SCHUMMELKETEL, Charles PAHUD DE MORTANGES",1932 Los Angeles,Equestrian Eventing,Mixed,team
+Summer,1932,Gold,JPN,Japan,Takeichi NISHI,1932 Los Angeles,Equestrian Jumping,Mixed,individual
+Summer,1932,Silver,USA,United States,Harry CHAMBERLIN,1932 Los Angeles,Equestrian Jumping,Mixed,individual
+Summer,1932,Bronze,SWE,Sweden,Clarence VON ROSEN JR.,1932 Los Angeles,Equestrian Jumping,Mixed,individual
+Summer,1932,,,,,1932 Los Angeles,Equestrian Jumping,Mixed,team
+Summer,1932,Gold,ITA,Italy,Giancarlo CORNAGGIA-MEDICI,1932 Los Angeles,Fencing,Men's,épée individual
+Summer,1932,Silver,FRA,France,Georges BUCHARD,1932 Los Angeles,Fencing,Men's,épée individual
+Summer,1932,Bronze,ITA,Italy,Carlo AGOSTONI,1932 Los Angeles,Fencing,Men's,épée individual
+Summer,1932,Gold,FRA,France,"Bernard SCHMETZ, Philippe CATTIAU, Georges TAINTURIER, Fernand JOURDANT, Georges BUCHARD, Jean PIOT",1932 Los Angeles,Fencing,Men's,épée team
+Summer,1932,Silver,ITA,Italy,"Renzo MINOLI, Franco RICCARDI, Carlo AGOSTONI, Saverio RAGNO, Giancarlo CORNAGGIA-MEDICI",1932 Los Angeles,Fencing,Men's,épée team
+Summer,1932,Bronze,USA,United States,"Gustave HEISS, Curtis SHEARS, Frank RIGHEIMER, Miguel DE CAPRILES, Tracy JAECKEL, George CALNAN",1932 Los Angeles,Fencing,Men's,épée team
+Summer,1932,Gold,ITA,Italy,Gustavo MARZI,1932 Los Angeles,Fencing,Men's,foil individual
+Summer,1932,Silver,USA,United States,Joseph LEVIS,1932 Los Angeles,Fencing,Men's,foil individual
+Summer,1932,Bronze,ITA,Italy,Giulio GAUDINI,1932 Los Angeles,Fencing,Men's,foil individual
+Summer,1932,Gold,FRA,France,"Edouard GARDERE, René BONDOUX, René BOUGNOL, Philippe CATTIAU, René LEMOINE, Jean PIOT",1932 Los Angeles,Fencing,Men's,foil team
+Summer,1932,Silver,ITA,Italy,"Gustavo MARZI, Giulio GAUDINI, Giorgio PESSINA, Rodolfo TERLIZZI, Ugo PIGNOTTI, Gioacchino GUARAGNA",1932 Los Angeles,Fencing,Men's,foil team
+Summer,1932,Bronze,USA,United States,"Richard STEERE, Hugh Vincent ALESSANDRONI, Dernell EVERY, George CALNAN, Joseph LEVIS, Frank RIGHEIMER",1932 Los Angeles,Fencing,Men's,foil team
+Summer,1932,Gold,HUN,Hungary,György PILLER JEKELFALUSSY,1932 Los Angeles,Fencing,Men's,sabre individual
+Summer,1932,Silver,ITA,Italy,Giulio GAUDINI,1932 Los Angeles,Fencing,Men's,sabre individual
+Summer,1932,Bronze,HUN,Hungary,Endre KABOS,1932 Los Angeles,Fencing,Men's,sabre individual
+Summer,1932,Gold,HUN,Hungary,"Gyula GLYKAIS, Aladár GEREVICH, Attila PETSCHAUER, Erno NAGY, Endre KABOS, György PILLER JEKELFALUSSY",1932 Los Angeles,Fencing,Men's,sabre team
+Summer,1932,Silver,ITA,Italy,"Emilio SALAFIA, Ugo PIGNOTTI, Giulio GAUDINI, Renato ANSELMI, Gustavo MARZI, Arturo DE VECCHI",1932 Los Angeles,Fencing,Men's,sabre team
+Summer,1932,Bronze,POL,Poland,"Tadeusz FRIEDRICH, Marian SUSKI, Leszek LUBICZ-NYCZ, Adam PAPÉE, Wladyslaw SEGDA, Wladyslaw DOBROWOLSKI",1932 Los Angeles,Fencing,Men's,sabre team
+Summer,1932,Gold,AUT,Austria,Ellen PREIS,1932 Los Angeles,Fencing,Women's,foil individual
+Summer,1932,Silver,GBR,Great Britain,Heather Seymour GUINNESS,1932 Los Angeles,Fencing,Women's,foil individual
+Summer,1932,Bronze,HUN,Hungary,Erna BOGEN,1932 Los Angeles,Fencing,Women's,foil individual
+Summer,1932,Gold,ITA,Italy,Romeo NERI,1932 Los Angeles,Gymnastics Artistic,Men's,individual all-round
+Summer,1932,Silver,HUN,Hungary,István PELLE,1932 Los Angeles,Gymnastics Artistic,Men's,individual all-round
+Summer,1932,Bronze,FIN,Finland,Heikki SAVOLAINEN,1932 Los Angeles,Gymnastics Artistic,Men's,individual all-round
+Summer,1932,Gold,ITA,Italy,"Savino GUGLIELMETTI, Romeo NERI, Franco TOGNINI, Oreste CAPUZZO, Mario LERTORA",1932 Los Angeles,Gymnastics Artistic,Men's,team competition
+Summer,1932,Silver,USA,United States,"Michael SCHULER, Frank CUMISKEY, Frederick MEYER, Alfred JOCHIM, Frank HAUBOLD",1932 Los Angeles,Gymnastics Artistic,Men's,team competition
+Summer,1932,Bronze,FIN,Finland,"Einari TERÄSVIRTA, Martti UOSIKKINEN, Veikko Ilmari PAKARINEN, Mauri Kalervo NYBERG-NOROMA, Heikki SAVOLAINEN",1932 Los Angeles,Gymnastics Artistic,Men's,team competition
+Summer,1932,Gold,HUN,Hungary,István PELLE,1932 Los Angeles,Gymnastics Artistic,Men's,floor exercises
+Summer,1932,Silver,SUI,Switzerland,Georges MIEZ,1932 Los Angeles,Gymnastics Artistic,Men's,floor exercises
+Summer,1932,Bronze,ITA,Italy,Mario LERTORA,1932 Los Angeles,Gymnastics Artistic,Men's,floor exercises
+Summer,1932,Gold,ITA,Italy,Romeo NERI,1932 Los Angeles,Gymnastics Artistic,Men's,parallel bars
+Summer,1932,Silver,HUN,Hungary,István PELLE,1932 Los Angeles,Gymnastics Artistic,Men's,parallel bars
+Summer,1932,Bronze,FIN,Finland,Heikki SAVOLAINEN,1932 Los Angeles,Gymnastics Artistic,Men's,parallel bars
+Summer,1932,Gold,USA,United States,George GULACK,1932 Los Angeles,Gymnastics Artistic,Men's,rings
+Summer,1932,Silver,USA,United States,William DENTON,1932 Los Angeles,Gymnastics Artistic,Men's,rings
+Summer,1932,Bronze,ITA,Italy,Giovanni LATTUADA,1932 Los Angeles,Gymnastics Artistic,Men's,rings
+Summer,1932,Gold,ITA,Italy,Savino GUGLIELMETTI,1932 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1932,Silver,USA,United States,Alfred JOCHIM,1932 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1932,Bronze,USA,United States,Edward CARMICHAEL,1932 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1932,Gold,HUN,Hungary,István PELLE,1932 Los Angeles,Gymnastics Artistic,Men's,pommel horse
+Summer,1932,Silver,ITA,Italy,Omero BONOLI,1932 Los Angeles,Gymnastics Artistic,Men's,pommel horse
+Summer,1932,Bronze,USA,United States,Frank HAUBOLD,1932 Los Angeles,Gymnastics Artistic,Men's,pommel horse
+Summer,1932,Gold,USA,United States,Dallas BIXLER,1932 Los Angeles,Gymnastics Artistic,Men's,horizontal bar
+Summer,1932,Silver,FIN,Finland,Heikki SAVOLAINEN,1932 Los Angeles,Gymnastics Artistic,Men's,horizontal bar
+Summer,1932,Bronze,FIN,Finland,Einari TERÄSVIRTA,1932 Los Angeles,Gymnastics Artistic,Men's,horizontal bar
+Summer,1932,Gold,USA,United States,George ROTH,1932 Los Angeles,Gymnastics Artistic,Men's,indian clubs
+Summer,1932,Silver,USA,United States,Philip ERENBERG,1932 Los Angeles,Gymnastics Artistic,Men's,indian clubs
+Summer,1932,Bronze,USA,United States,William Harmon KUHLEMEIER,1932 Los Angeles,Gymnastics Artistic,Men's,indian clubs
+Summer,1932,Gold,USA,United States,Raymond BASS,1932 Los Angeles,Gymnastics Artistic,Men's,rope climbing
+Summer,1932,Silver,USA,United States,William GALBRAITH,1932 Los Angeles,Gymnastics Artistic,Men's,rope climbing
+Summer,1932,Bronze,USA,United States,Thomas CONNELLY,1932 Los Angeles,Gymnastics Artistic,Men's,rope climbing
+Summer,1932,Gold,USA,United States,Rowland WOLFE,1932 Los Angeles,Gymnastics Artistic,Men's,tumbling
+Summer,1932,Silver,USA,United States,Edward GROSS,1932 Los Angeles,Gymnastics Artistic,Men's,tumbling
+Summer,1932,Bronze,USA,United States,William HERMANN,1932 Los Angeles,Gymnastics Artistic,Men's,tumbling
+Summer,1932,Gold,IND,India,"Carlyle TAPSELL, Sayed Mohammed JAFFAR, Dhyan CHAND, Leslie HAMMOND, Masud MINHAS, Broome Eric PINNIGER, Arthur HIND, Roop SINGH, Lal Shah BOKHARI, Gurmit SINGH KULLAR, Richard CARR",1932 Los Angeles,Hockey,Men's,hockey
+Summer,1932,Silver,JPN,Japan,"Junzo INOHARA, Yoshio SAKAI, Sadayoshi KOBAYASHI, Akio SODA, Katsumi SHIBATA, Kenichi KONISHI, Eiichi NAKAMURA, Toshio USAMI, Hiroshi NAGATA, Haruhiko KON, Shunkichi HAMADA",1932 Los Angeles,Hockey,Men's,hockey
+Summer,1932,Bronze,USA,United States,"Charles SCHAEFFER, Frederick WOLTERS, Leonard O'BRIEN, Henry GREER, Horace DISSTON, James GENTLE, Amos DEACON, Samuel EWING, William BODDINGTON, David MCMULLIN, Lawrence KNAPP, Harold BREWSTER",1932 Los Angeles,Hockey,Men's,hockey
+Summer,1932,Gold,SWE,Sweden,Johan OXENSTIERNA,1932 Los Angeles,Modern Pentathlon,Men's,individual competition
+Summer,1932,Silver,SWE,Sweden,Bo LINDMAN,1932 Los Angeles,Modern Pentathlon,Men's,individual competition
+Summer,1932,Bronze,USA,United States,Richard MAYO,1932 Los Angeles,Modern Pentathlon,Men's,individual competition
+Summer,1932,Gold,AUS,Australia,Bobby PEARCE,1932 Los Angeles,Rowing,Men's,single sculls (1x)
+Summer,1932,Silver,USA,United States,William MILLER,1932 Los Angeles,Rowing,Men's,single sculls (1x)
+Summer,1932,Bronze,URU,Uruguay,Guillermo DOUGLAS,1932 Los Angeles,Rowing,Men's,single sculls (1x)
+Summer,1932,Gold,USA,United States,"William GILMORE, Kenneth MYERS",1932 Los Angeles,Rowing,Men's,double sculls (2x)
+Summer,1932,Silver,GER,Germany,"Gerhard BOETZELEN, Herbert BUHTZ",1932 Los Angeles,Rowing,Men's,double sculls (2x)
+Summer,1932,Bronze,CAN,Canada,"Charles PRATT, Noël DE MILLE",1932 Los Angeles,Rowing,Men's,double sculls (2x)
+Summer,1932,Gold,GBR,Great Britain,"Lewis CLIVE, Hugh EDWARDS",1932 Los Angeles,Rowing,Men's,pair without coxswain (2-)
+Summer,1932,Silver,NZL,New Zealand,"Cyril STILES, Frederick THOMPSON",1932 Los Angeles,Rowing,Men's,pair without coxswain (2-)
+Summer,1932,Bronze,POL,Poland,"Henryk BUDZINSKI, Janusz MIKOLAJCZAK",1932 Los Angeles,Rowing,Men's,pair without coxswain (2-)
+Summer,1932,Gold,USA,United States,"Edward JENNINGS, Joseph SCHAUERS, Charles KIEFFER",1932 Los Angeles,Rowing,Men's,pair-oared shell with coxswain
+Summer,1932,Silver,POL,Poland,"Jerzy BRAUN, Janusz SLAZAK, Jerzy SKOLIMOWSKI",1932 Los Angeles,Rowing,Men's,pair-oared shell with coxswain
+Summer,1932,Bronze,FRA,France,"Pierre BRUNET, Anselme BRUSA, Andre GIRIAT",1932 Los Angeles,Rowing,Men's,pair-oared shell with coxswain
+Summer,1932,Gold,GBR,Great Britain,"Hugh EDWARDS, Rowland GEORGE, John BADCOCK, Jack BERESFORD",1932 Los Angeles,Rowing,Men's,four without coxswain (4-)
+Summer,1932,Silver,GER,Germany,"Ernst GABER, Walter FLINSCH, Hans MAIER, Karl ALETTER",1932 Los Angeles,Rowing,Men's,four without coxswain (4-)
+Summer,1932,Bronze,ITA,Italy,"Antonio GARZONI PROVENZANI, Giliante D'ESTE, Antonio GHIARDELLO, Francesco COSSU",1932 Los Angeles,Rowing,Men's,four without coxswain (4-)
+Summer,1932,Gold,GER,Germany,"Hans ELLER, Karl-Heinz NEUMANN, Joachim SPREMBERG, Walter MEYER, Horst HOECK",1932 Los Angeles,Rowing,Men's,four-oared shell with coxswain
+Summer,1932,Silver,ITA,Italy,"Giovanni SCHERL, Giovanni PLAZZER, Bruno PAROVEL, Bruno VATTOVAZ, Riccardo DIVORA",1932 Los Angeles,Rowing,Men's,four-oared shell with coxswain
+Summer,1932,Bronze,POL,Poland,"Jerzy SKOLIMOWSKI, Janusz SLAZAK, Jerzy BRAUN, Edward KOBYLINSKI, Stanislaw URBAN",1932 Los Angeles,Rowing,Men's,four-oared shell with coxswain
+Summer,1932,Gold,USA,United States,"Duncan GREGG, Charles CHANDLER, Norris GRAHAM, Edwin SALISBURY, Harold TOWER, Winslow HALL, Burton JASTRAM, David DUNLAP, James BLAIR",1932 Los Angeles,Rowing,Men's,eight with coxswain (8+)
+Summer,1932,Silver,ITA,Italy,"Cesare MILANI, Renato BRACCI, Guglielmo DEL BIMBO, Dino BARSOTTI, Renato BARBIERI, Mario BALLERI, Vittorio CIONI, Enrico GARZELLI, Roberto VESTRINI",1932 Los Angeles,Rowing,Men's,eight with coxswain (8+)
+Summer,1932,Bronze,CAN,Canada,"Earl EASTWOOD, Albert TAYLOR, William THOBURN, Joseph HARRIS, Donald BOAL, Harry FRY, George MACDONALD, Cedric LIDDELL, Stanley STANYAR",1932 Los Angeles,Rowing,Men's,eight with coxswain (8+)
+Summer,1932,Gold,SWE,Sweden,"Martin HINDORFF, Tore HOLM, Åke BERGQVIST, Olle ÅKERLUND",1932 Los Angeles,Sailing,Mixed,6m
+Summer,1932,Silver,USA,United States,"Frederic Warren CONANT, Robert CARLSON, Charles SMITH, Temple ASHBROOK, Emmett S. DAVIS, Donald DOUGLAS",1932 Los Angeles,Sailing,Mixed,6m
+Summer,1932,Bronze,CAN,Canada,"Philip ROGERS, Gardner BOULTBEE, Kenneth GLASS, Gerald WILSON",1932 Los Angeles,Sailing,Mixed,6m
+Summer,1932,Gold,USA,United States,"Alan C. MORGAN, Kenneth A. CAREY, Alphonse BURNAND, John HUETTNER, Robert SUTTON, Richard MOORE, Owen CHURCHILL, Karl DORSEY, Pierpont DAVIS, William COOPER, Thomas WEBSTER, John BIBY",1932 Los Angeles,Sailing,Mixed,8m
+Summer,1932,Silver,CAN,Canada,"Harry JONES, Hubert WALLACE, George GYLES, Ronald MAITLAND, Peter GORDON, Ernest CRIBB",1932 Los Angeles,Sailing,Mixed,8m
+Summer,1932,Gold,FRA,France,Jacques Baptiste LEBRUN,1932 Los Angeles,Sailing,Mixed,olympic class monotype
+Summer,1932,Silver,NED,Netherlands,Adriaan MAAS,1932 Los Angeles,Sailing,Mixed,olympic class monotype
+Summer,1932,Bronze,ESP,Spain,Santiago AMAT CANSINO,1932 Los Angeles,Sailing,Mixed,olympic class monotype
+Summer,1932,Gold,USA,United States,"Andrew LIBANO, Gilbert GRAY",1932 Los Angeles,Sailing,Mixed,two-person keelboat (Star)
+Summer,1932,Silver,GBR,Great Britain,"Peter JAFFE, Colin RATSEY",1932 Los Angeles,Sailing,Mixed,two-person keelboat (Star)
+Summer,1932,Bronze,SWE,Sweden,"Daniel SUNDÉN-CULLBERG, Gunnar ASTHER",1932 Los Angeles,Sailing,Mixed,two-person keelboat (Star)
+Summer,1932,Gold,ITA,Italy,Renzo MORIGI,1932 Los Angeles,Shooting,Men's,25m rapid fire pistol
+Summer,1932,Silver,GER,Germany,Heinz HAX,1932 Los Angeles,Shooting,Men's,25m rapid fire pistol
+Summer,1932,Bronze,ITA,Italy,Domenico MATTEUCCI,1932 Los Angeles,Shooting,Men's,25m rapid fire pistol
+Summer,1932,Gold,SWE,Sweden,Bertil RÖNNMARK,1932 Los Angeles,Shooting,Men's,50m rifle prone
+Summer,1932,Silver,MEX,Mexico,Gustavo HUET,1932 Los Angeles,Shooting,Men's,50m rifle prone
+Summer,1932,Bronze,HUN,Hungary,Zoltan HRADETZKY-SOOS-RUSZKA,1932 Los Angeles,Shooting,Men's,50m rifle prone
+Summer,1932,Gold,JPN,Japan,Yasuji MIYAZAKI,1932 Los Angeles,Swimming,Men's,100m freestyle
+Summer,1932,Silver,JPN,Japan,Tatsugo KAWAISHI,1932 Los Angeles,Swimming,Men's,100m freestyle
+Summer,1932,Bronze,USA,United States,Albert SCHWARTZ,1932 Los Angeles,Swimming,Men's,100m freestyle
+Summer,1932,Gold,USA,United States,Clarence CRABBE,1932 Los Angeles,Swimming,Men's,400m freestyle
+Summer,1932,Silver,FRA,France,Jean TARIS,1932 Los Angeles,Swimming,Men's,400m freestyle
+Summer,1932,Bronze,JPN,Japan,Tsutomu OYOKOTA,1932 Los Angeles,Swimming,Men's,400m freestyle
+Summer,1932,Gold,JPN,Japan,Kusuo KITAMURA,1932 Los Angeles,Swimming,Men's,1500m freestyle
+Summer,1932,Silver,JPN,Japan,Shozo MAKINO,1932 Los Angeles,Swimming,Men's,1500m freestyle
+Summer,1932,Bronze,USA,United States,James CRISTY,1932 Los Angeles,Swimming,Men's,1500m freestyle
+Summer,1932,Gold,JPN,Japan,Yoshiyuki TSURUTA,1932 Los Angeles,Swimming,Men's,200m breaststroke
+Summer,1932,Silver,JPN,Japan,Reizo KOIKE,1932 Los Angeles,Swimming,Men's,200m breaststroke
+Summer,1932,Bronze,PHI,Philippines,Teofilo YLDEFONZO,1932 Los Angeles,Swimming,Men's,200m breaststroke
+Summer,1932,Gold,JPN,Japan,Masaji KIYOKAWA,1932 Los Angeles,Swimming,Men's,100m backstroke
+Summer,1932,Silver,JPN,Japan,Toshio IRIE,1932 Los Angeles,Swimming,Men's,100m backstroke
+Summer,1932,Bronze,JPN,Japan,Kentaro KAWATSU,1932 Los Angeles,Swimming,Men's,100m backstroke
+Summer,1932,Gold,JPN,Japan,"Hisakichi TOYODA, Masanori YUSA, Yasuji MIYAZAKI, Takashi YOKOYAMA",1932 Los Angeles,Swimming,Men's,4x200m freestyle relay
+Summer,1932,Silver,USA,United States,"Maiola KALILI, George FISSLER, Frank BOOTH, Manuella KALILI",1932 Los Angeles,Swimming,Men's,4x200m freestyle relay
+Summer,1932,Bronze,HUN,Hungary,"András SZÉKELY, András WANIÉ, István BÁRÁNY, László SZABADOS",1932 Los Angeles,Swimming,Men's,4x200m freestyle relay
+Summer,1932,Gold,USA,United States,Helene MADISON,1932 Los Angeles,Swimming,Women's,100m freestyle
+Summer,1932,Silver,NED,Netherlands,Willy DEN OUDEN,1932 Los Angeles,Swimming,Women's,100m freestyle
+Summer,1932,Bronze,USA,United States,Eleanor GARATTI,1932 Los Angeles,Swimming,Women's,100m freestyle
+Summer,1932,Gold,USA,United States,Helene MADISON,1932 Los Angeles,Swimming,Women's,400m freestyle
+Summer,1932,Silver,USA,United States,Lenore KIGHT,1932 Los Angeles,Swimming,Women's,400m freestyle
+Summer,1932,Bronze,RSA,South Africa,Jenny MAAKAL,1932 Los Angeles,Swimming,Women's,400m freestyle
+Summer,1932,Gold,AUS,Australia,Clare DENNIS,1932 Los Angeles,Swimming,Women's,200m breaststroke
+Summer,1932,Silver,JPN,Japan,Hideko MAEHATA,1932 Los Angeles,Swimming,Women's,200m breaststroke
+Summer,1932,Bronze,DEN,Denmark,Else JACOBSEN,1932 Los Angeles,Swimming,Women's,200m breaststroke
+Summer,1932,Gold,USA,United States,Eleanor HOLM,1932 Los Angeles,Swimming,Women's,100m backstroke
+Summer,1932,Silver,AUS,Australia,Bonnie MEALING,1932 Los Angeles,Swimming,Women's,100m backstroke
+Summer,1932,Bronze,GBR,Great Britain,Elizabeth Valerie DAVIES,1932 Los Angeles,Swimming,Women's,100m backstroke
+Summer,1932,Gold,USA,United States,"Josephine MCKIM, Helen JOHNS, Helene MADISON, Eleanor GARATTI",1932 Los Angeles,Swimming,Women's,4x100m freestyle relay
+Summer,1932,Silver,NED,Netherlands,"Willy DEN OUDEN, Maria Petronella OVERSLOOT, Maria VIERDAG, Cornelia LADDE",1932 Los Angeles,Swimming,Women's,4x100m freestyle relay
+Summer,1932,Bronze,GBR,Great Britain,"Helen VARCOE, Joyce COOPER, Edna HUGHES, Elizabeth Valerie DAVIES",1932 Los Angeles,Swimming,Women's,4x100m freestyle relay
+Summer,1932,Gold,HUN,Hungary,"Olivér HALASSY, Alajos KESERU, Sándor IVÁDY, János NÉMETH, György BRÓDY, Ferenc KESERU, Miklós SÁRKÁNY, István BARTA, Jozsef VERTESY",1932 Los Angeles,Water Polo,Men's,water polo
+Summer,1932,Silver,GER,Germany,"Heiko SCHWARTZ, Emil BENECKE, Joachim RADEMACHER, Hans SCHULZE, Erich RADEMACHER, Otto CORDES, Fritz GUNST, Hans ECKSTEIN",1932 Los Angeles,Water Polo,Men's,water polo
+Summer,1932,Bronze,USA,United States,"Herbert WILDMAN, Harold MCCALLISTER, Calvert STRONG, Wallace O'CONNOR, Philip DAUBENSPECK, Austin CLAPP, Charles FINN",1932 Los Angeles,Water Polo,Men's,water polo
+Summer,1932,Gold,FRA,France,Raymond SUVIGNY,1932 Los Angeles,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1932,Silver,GER,Germany,Hans WÖLPERT,1932 Los Angeles,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1932,Bronze,USA,United States,Anthony TERLAZZO,1932 Los Angeles,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1932,Gold,FRA,France,René DUVERGER,1932 Los Angeles,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1932,Silver,AUT,Austria,Hans HAAS,1932 Los Angeles,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1932,Bronze,ITA,Italy,Gastone PIERINI,1932 Los Angeles,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1932,Gold,GER,Germany,Rudolf ISMAYR,1932 Los Angeles,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1932,Silver,ITA,Italy,Carlo GALIMBERTI,1932 Los Angeles,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1932,Bronze,AUT,Austria,Karl HIPFINGER,1932 Los Angeles,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1932,Gold,FRA,France,Louis HOSTIN,1932 Los Angeles,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1932,Silver,DEN,Denmark,Svend OLSEN,1932 Los Angeles,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1932,Bronze,USA,United States,Henry DUEY,1932 Los Angeles,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1932,Gold,TCH,Czechoslovakia,Jaroslav SKOBLA,1932 Los Angeles,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1932,Silver,TCH,Czechoslovakia,Václav PSENICKA SR.,1932 Los Angeles,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1932,Bronze,GER,Germany,Josef STRASSBERGER,1932 Los Angeles,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1932,Gold,USA,United States,Robert PEARCE,1932 Los Angeles,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1932,Silver,HUN,Hungary,Ödön ZOMBORI,1932 Los Angeles,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1932,Bronze,FIN,Finland,Aatos Tuomas JASKARI,1932 Los Angeles,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1932,Gold,FIN,Finland,Hermanni PIHLAJAMÄKI,1932 Los Angeles,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1932,Silver,USA,United States,Edgar NEMIR,1932 Los Angeles,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1932,Bronze,SWE,Sweden,Einar KARLSSON,1932 Los Angeles,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1932,Gold,FRA,France,Charles PACÔME,1932 Los Angeles,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1932,Silver,HUN,Hungary,Károly KÁRPÁTI,1932 Los Angeles,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1932,Bronze,SWE,Sweden,Gustaf KLARÉN,1932 Los Angeles,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1932,Gold,USA,United States,Jack Francis VAN BEBBER,1932 Los Angeles,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1932,Silver,CAN,Canada,Daniel MACDONALD,1932 Los Angeles,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1932,Bronze,FIN,Finland,Eino Augusti LEINO,1932 Los Angeles,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1932,Gold,SWE,Sweden,Ivar JOHANSSON,1932 Los Angeles,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1932,Silver,FIN,Finland,Kyösti Aukusti LUUKKO,1932 Los Angeles,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1932,Bronze,HUN,Hungary,József TUNYOGI,1932 Los Angeles,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1932,Gold,USA,United States,Peter MEHRINGER,1932 Los Angeles,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1932,Silver,SWE,Sweden,Thure SJÖSTEDT,1932 Los Angeles,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1932,Bronze,AUS,Australia,Eddie SCARF,1932 Los Angeles,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1932,Gold,SWE,Sweden,Johan RICKTTOFF,1932 Los Angeles,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1932,Silver,USA,United States,John Horn RILEY,1932 Los Angeles,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1932,Bronze,AUT,Austria,Nikolaus HIRSCHL,1932 Los Angeles,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1932,Gold,GER,Germany,Jakob BRENDEL,1932 Los Angeles,Wrestling Greco-Roman,Men's,- 56kg (bantamweight)
+Summer,1932,Silver,ITA,Italy,Marcello NIZZOLA,1932 Los Angeles,Wrestling Greco-Roman,Men's,- 56kg (bantamweight)
+Summer,1932,Bronze,FRA,France,Louis FRANÇOIS,1932 Los Angeles,Wrestling Greco-Roman,Men's,- 56kg (bantamweight)
+Summer,1932,Gold,ITA,Italy,Giovanni GOZZI,1932 Los Angeles,Wrestling Greco-Roman,Men's,56 - 61kg (featherweight)
+Summer,1932,Silver,GER,Germany,Wolfgang EHRL,1932 Los Angeles,Wrestling Greco-Roman,Men's,56 - 61kg (featherweight)
+Summer,1932,Bronze,FIN,Finland,Lauri KOSKELA,1932 Los Angeles,Wrestling Greco-Roman,Men's,56 - 61kg (featherweight)
+Summer,1932,Gold,SWE,Sweden,Eric MALMBERG,1932 Los Angeles,Wrestling Greco-Roman,Men's,61 - 66kg (lightweight)
+Summer,1932,Silver,DEN,Denmark,Abraham KURLAND,1932 Los Angeles,Wrestling Greco-Roman,Men's,61 - 66kg (lightweight)
+Summer,1932,Bronze,GER,Germany,Eduard SPERLING,1932 Los Angeles,Wrestling Greco-Roman,Men's,61 - 66kg (lightweight)
+Summer,1932,Gold,SWE,Sweden,Ivar JOHANSSON,1932 Los Angeles,Wrestling Greco-Roman,Men's,66 - 72kg (welterweight)
+Summer,1932,Silver,FIN,Finland,Väinö KAJANDER,1932 Los Angeles,Wrestling Greco-Roman,Men's,66 - 72kg (welterweight)
+Summer,1932,Bronze,ITA,Italy,Ercole GALLEGATI,1932 Los Angeles,Wrestling Greco-Roman,Men's,66 - 72kg (welterweight)
+Summer,1932,Gold,FIN,Finland,Väinö Anselmi KOKKINEN,1932 Los Angeles,Wrestling Greco-Roman,Men's,72 - 79kg (middleweight)
+Summer,1932,Silver,GER,Germany,Jean FÖLDEÁK,1932 Los Angeles,Wrestling Greco-Roman,Men's,72 - 79kg (middleweight)
+Summer,1932,Bronze,SWE,Sweden,Axel CADIER,1932 Los Angeles,Wrestling Greco-Roman,Men's,72 - 79kg (middleweight)
+Summer,1932,Gold,SWE,Sweden,Rudolf SVENSSON,1932 Los Angeles,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1932,Silver,FIN,Finland,Onni PELLINEN,1932 Los Angeles,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1932,Bronze,ITA,Italy,Mario GRUPPIONI,1932 Los Angeles,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1932,Gold,SWE,Sweden,Carl WESTERGREN,1932 Los Angeles,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1932,Silver,TCH,Czechoslovakia,Josef URBAN,1932 Los Angeles,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1932,Bronze,AUT,Austria,Nikolaus HIRSCHL,1932 Los Angeles,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)

@@ -1,0 +1,689 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1984,Gold,USA,United States,Darrell Owen PACE,1984 Los Angeles,Archery,Men's,individual FITA round
+Summer,1984,Silver,USA,United States,Richard Lee MCKINNEY,1984 Los Angeles,Archery,Men's,individual FITA round
+Summer,1984,Bronze,JPN,Japan,Hiroshi YAMAMOTO,1984 Los Angeles,Archery,Men's,individual FITA round
+Summer,1984,Gold,KOR,Korea Republic,Hyang-Soon SEO,1984 Los Angeles,Archery,Women's,individual FITA round
+Summer,1984,Silver,CHN,China,Ling-Juan LI,1984 Los Angeles,Archery,Women's,individual FITA round
+Summer,1984,Bronze,KOR,Korea Republic,Jin-Ho KIM,1984 Los Angeles,Archery,Women's,individual FITA round
+Summer,1984,Gold,USA,United States,Tracie Lehuanani RUIZ-CONFORTO,1984 Los Angeles,Artistic Swimming,Women's,solo
+Summer,1984,Silver,CAN,Canada,Carolyn WALDO,1984 Los Angeles,Artistic Swimming,Women's,solo
+Summer,1984,Bronze,JPN,Japan,Miwako MOTOYOSHI,1984 Los Angeles,Artistic Swimming,Women's,solo
+Summer,1984,Gold,USA,United States,"Candace COSTIE, Tracie Lehuanani RUIZ-CONFORTO",1984 Los Angeles,Artistic Swimming,Women's,duet
+Summer,1984,Silver,CAN,Canada,"Sharon HAMBROOK, Kelly KRYCZKA",1984 Los Angeles,Artistic Swimming,Women's,duet
+Summer,1984,Bronze,JPN,Japan,"Saeko KIMURA, Miwako MOTOYOSHI",1984 Los Angeles,Artistic Swimming,Women's,duet
+Summer,1984,Gold,USA,United States,Carl LEWIS,1984 Los Angeles,Athletics,Men's,100m
+Summer,1984,Silver,USA,United States,Samuel Louis GRADDY,1984 Los Angeles,Athletics,Men's,100m
+Summer,1984,Bronze,CAN,Canada,Ben JOHNSON,1984 Los Angeles,Athletics,Men's,100m
+Summer,1984,Gold,USA,United States,Carl LEWIS,1984 Los Angeles,Athletics,Men's,200m
+Summer,1984,Silver,USA,United States,Kirk BAPTISTE,1984 Los Angeles,Athletics,Men's,200m
+Summer,1984,Bronze,USA,United States,Thomas Theodore JEFFERSON,1984 Los Angeles,Athletics,Men's,200m
+Summer,1984,Gold,USA,United States,Alonzo C. BABERS,1984 Los Angeles,Athletics,Men's,400m
+Summer,1984,Silver,CIV,Ivory Coast,Gabriel TIACOH,1984 Los Angeles,Athletics,Men's,400m
+Summer,1984,Bronze,USA,United States,Antonio Ricardo MCKAY,1984 Los Angeles,Athletics,Men's,400m
+Summer,1984,Gold,BRA,Brazil,Joaquim CRUZ,1984 Los Angeles,Athletics,Men's,800m
+Summer,1984,Silver,GBR,Great Britain,Sebastian COE,1984 Los Angeles,Athletics,Men's,800m
+Summer,1984,Bronze,USA,United States,Earl JONES,1984 Los Angeles,Athletics,Men's,800m
+Summer,1984,Gold,GBR,Great Britain,Sebastian COE,1984 Los Angeles,Athletics,Men's,1500m
+Summer,1984,Silver,GBR,Great Britain,Stephen CRAM,1984 Los Angeles,Athletics,Men's,1500m
+Summer,1984,Bronze,ESP,Spain,Jose Manuel ABASCAL GOMEZ,1984 Los Angeles,Athletics,Men's,1500m
+Summer,1984,Gold,MAR,Morocco,Said AOUITA,1984 Los Angeles,Athletics,Men's,5000m
+Summer,1984,Silver,SUI,Switzerland,Markus RYFFEL,1984 Los Angeles,Athletics,Men's,5000m
+Summer,1984,Bronze,POR,Portugal,Antonio LEITAO,1984 Los Angeles,Athletics,Men's,5000m
+Summer,1984,Gold,ITA,Italy,Alberto COVA,1984 Los Angeles,Athletics,Men's,10000m
+Summer,1984,Silver,GBR,Great Britain,Michael MCLEOD,1984 Los Angeles,Athletics,Men's,10000m
+Summer,1984,Bronze,KEN,Kenya,Michael MUSYOKI,1984 Los Angeles,Athletics,Men's,10000m
+Summer,1984,Gold,POR,Portugal,Carlos LOPES,1984 Los Angeles,Athletics,Men's,marathon
+Summer,1984,Silver,IRL,Ireland,John TREACY,1984 Los Angeles,Athletics,Men's,marathon
+Summer,1984,Bronze,GBR,Great Britain,Charles SPEDDING,1984 Los Angeles,Athletics,Men's,marathon
+Summer,1984,Gold,USA,United States,Roger KINGDOM,1984 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1984,Silver,USA,United States,Gregory FOSTER,1984 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1984,Bronze,FIN,Finland,Arto BRYGGARE,1984 Los Angeles,Athletics,Men's,110m hurdles
+Summer,1984,Gold,USA,United States,Edwin MOSES,1984 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1984,Silver,USA,United States,Daniel Lee HARRIS,1984 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Harald SCHMID,1984 Los Angeles,Athletics,Men's,400m hurdles
+Summer,1984,Gold,KEN,Kenya,Julius KORIR,1984 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1984,Silver,FRA,France,Joseph MAHMOUD,1984 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1984,Bronze,USA,United States,Brian Lee DIEMER,1984 Los Angeles,Athletics,Men's,3000m steeplechase
+Summer,1984,Gold,USA,United States,"Samuel Louis GRADDY, Calvin SMITH, Ronald James BROWN, Carl LEWIS",1984 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1984,Silver,JAM,Jamaica,"Albert LAWRENCE, Donald QUARRIE, Ray STEWART, Gregory MEGHOO",1984 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1984,Bronze,CAN,Canada,"Ben JOHNSON, Desai WILLIAMS, Anthony SHARPE, Sterling HINDS",1984 Los Angeles,Athletics,Men's,4x100m relay
+Summer,1984,Gold,USA,United States,"Sunder L. NIX, Alonzo C. BABERS, Raymond ARMSTEAD, Antonio Ricardo MCKAY",1984 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1984,Silver,GBR,Great Britain,"Todd Anthony BENNETT, Kriss Kezie Uche AKABUSI, Philip Andrew BROWN, Gary Peter COOK",1984 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1984,Bronze,NGR,Nigeria,"Sunday UTI, Rotimi PETERS, Moses UGBUSIEN, Innocent EGBUNIKE",1984 Los Angeles,Athletics,Men's,4x400m relay
+Summer,1984,Gold,MEX,Mexico,Ernesto CANTO GUDINO,1984 Los Angeles,Athletics,Men's,20km walk
+Summer,1984,Silver,MEX,Mexico,Raul GONZALEZ,1984 Los Angeles,Athletics,Men's,20km walk
+Summer,1984,Bronze,ITA,Italy,Maurizio DAMILANO,1984 Los Angeles,Athletics,Men's,20km walk
+Summer,1984,Gold,MEX,Mexico,Raul GONZALEZ,1984 Los Angeles,Athletics,Men's,50km walk
+Summer,1984,Silver,SWE,Sweden,Bo GUSTAFSSON,1984 Los Angeles,Athletics,Men's,50km walk
+Summer,1984,Bronze,ITA,Italy,Sandro BELLUCCI,1984 Los Angeles,Athletics,Men's,50km walk
+Summer,1984,Gold,USA,United States,Carl LEWIS,1984 Los Angeles,Athletics,Men's,long jump
+Summer,1984,Silver,AUS,Australia,Gary HONEY,1984 Los Angeles,Athletics,Men's,long jump
+Summer,1984,Bronze,ITA,Italy,Giovanni EVANGELISTI,1984 Los Angeles,Athletics,Men's,long jump
+Summer,1984,Gold,USA,United States,Alfredrick Alphonzo JOYNER,1984 Los Angeles,Athletics,Men's,triple jump
+Summer,1984,Silver,USA,United States,Mike CONLEY,1984 Los Angeles,Athletics,Men's,triple jump
+Summer,1984,Bronze,GBR,Great Britain,Keith CONNOR,1984 Los Angeles,Athletics,Men's,triple jump
+Summer,1984,Gold,FRG,Federal Republic of Germany,Dietmar MÖGENBURG,1984 Los Angeles,Athletics,Men's,high jump
+Summer,1984,Silver,SWE,Sweden,Patrick SJÖBERG,1984 Los Angeles,Athletics,Men's,high jump
+Summer,1984,Bronze,CHN,China,Jian-Hua ZHU,1984 Los Angeles,Athletics,Men's,high jump
+Summer,1984,Gold,FRA,France,Pierre QUINON,1984 Los Angeles,Athletics,Men's,pole vault
+Summer,1984,Silver,USA,United States,Michael Scott TULLY,1984 Los Angeles,Athletics,Men's,pole vault
+Summer,1984,Bronze,FRA,France,Thierry VIGNERON,1984 Los Angeles,Athletics,Men's,pole vault
+Summer,1984,Bronze,USA,United States,Earl Holmes BELL,1984 Los Angeles,Athletics,Men's,pole vault
+Summer,1984,Gold,FRG,Federal Republic of Germany,Rolf DANNEBERG,1984 Los Angeles,Athletics,Men's,discus throw
+Summer,1984,Silver,USA,United States,Malcolm Maurice WILKINS,1984 Los Angeles,Athletics,Men's,discus throw
+Summer,1984,Bronze,USA,United States,John Gates POWELL,1984 Los Angeles,Athletics,Men's,discus throw
+Summer,1984,Gold,FIN,Finland,Arto HARKONEN,1984 Los Angeles,Athletics,Men's,javelin throw
+Summer,1984,Silver,GBR,Great Britain,David OTTLEY,1984 Los Angeles,Athletics,Men's,javelin throw
+Summer,1984,Bronze,SWE,Sweden,Kenth ELDEBRINK,1984 Los Angeles,Athletics,Men's,javelin throw
+Summer,1984,Gold,FIN,Finland,Juha TIAINEN,1984 Los Angeles,Athletics,Men's,hammer throw
+Summer,1984,Silver,FRG,Federal Republic of Germany,Karl-Hans RIEHM,1984 Los Angeles,Athletics,Men's,hammer throw
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Klaus PLOGHAUS,1984 Los Angeles,Athletics,Men's,hammer throw
+Summer,1984,Gold,ITA,Italy,Alessandro ANDREI,1984 Los Angeles,Athletics,Men's,shot put
+Summer,1984,Silver,USA,United States,Michael D'Andrea CARTER,1984 Los Angeles,Athletics,Men's,shot put
+Summer,1984,Bronze,USA,United States,David Lester LAUT,1984 Los Angeles,Athletics,Men's,shot put
+Summer,1984,Gold,GBR,Great Britain,Daley THOMPSON,1984 Los Angeles,Athletics,Men's,decathlon
+Summer,1984,Silver,FRG,Federal Republic of Germany,Jurgen HINGSEN,1984 Los Angeles,Athletics,Men's,decathlon
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Siegfried WENTZ,1984 Los Angeles,Athletics,Men's,decathlon
+Summer,1984,Gold,USA,United States,Evelyn ASHFORD,1984 Los Angeles,Athletics,Women's,100m
+Summer,1984,Silver,USA,United States,Alice Regina BROWN,1984 Los Angeles,Athletics,Women's,100m
+Summer,1984,Bronze,JAM,Jamaica,Merlene OTTEY-PAGE,1984 Los Angeles,Athletics,Women's,100m
+Summer,1984,Gold,USA,United States,Valerie Ann BRISCO-HOOKS,1984 Los Angeles,Athletics,Women's,200m
+Summer,1984,Silver,USA,United States,Florence GRIFFITH-JOYNER,1984 Los Angeles,Athletics,Women's,200m
+Summer,1984,Bronze,JAM,Jamaica,Merlene OTTEY-PAGE,1984 Los Angeles,Athletics,Women's,200m
+Summer,1984,Gold,USA,United States,Valerie Ann BRISCO-HOOKS,1984 Los Angeles,Athletics,Women's,400m
+Summer,1984,Silver,USA,United States,Chandra Danette CHEESEBOROUGH,1984 Los Angeles,Athletics,Women's,400m
+Summer,1984,Bronze,GBR,Great Britain,Kathryn SMALLWOOD-COOK,1984 Los Angeles,Athletics,Women's,400m
+Summer,1984,Gold,ROU,Romania,Doina BESLIU-MELINTE,1984 Los Angeles,Athletics,Women's,800m
+Summer,1984,Silver,USA,United States,Kimberley Ann GALLAGHER,1984 Los Angeles,Athletics,Women's,800m
+Summer,1984,Bronze,ROU,Romania,Fita LOVIN,1984 Los Angeles,Athletics,Women's,800m
+Summer,1984,Gold,ITA,Italy,Gabriella DORIO,1984 Los Angeles,Athletics,Women's,1500m
+Summer,1984,Silver,ROU,Romania,Doina BESLIU-MELINTE,1984 Los Angeles,Athletics,Women's,1500m
+Summer,1984,Bronze,ROU,Romania,Maricica PUICA,1984 Los Angeles,Athletics,Women's,1500m
+Summer,1984,Gold,ROU,Romania,Maricica PUICA,1984 Los Angeles,Athletics,Women's,3000m
+Summer,1984,Silver,GBR,Great Britain,Wendy SLY,1984 Los Angeles,Athletics,Women's,3000m
+Summer,1984,Bronze,CAN,Canada,Lynn WILLIAMS,1984 Los Angeles,Athletics,Women's,3000m
+Summer,1984,Gold,USA,United States,Joan BENOIT,1984 Los Angeles,Athletics,Women's,marathon
+Summer,1984,Silver,NOR,Norway,Grete WAITZ-ANDERSEN,1984 Los Angeles,Athletics,Women's,marathon
+Summer,1984,Bronze,POR,Portugal,Rosa MOTA,1984 Los Angeles,Athletics,Women's,marathon
+Summer,1984,Gold,USA,United States,Benita FITZGERALD-BROWN,1984 Los Angeles,Athletics,Women's,100m hurdles
+Summer,1984,Silver,GBR,Great Britain,Shirley STRONG,1984 Los Angeles,Athletics,Women's,100m hurdles
+Summer,1984,Bronze,FRA,France,Michele CHARDONNET,1984 Los Angeles,Athletics,Women's,100m hurdles
+Summer,1984,Bronze,USA,United States,Kim TURNER,1984 Los Angeles,Athletics,Women's,100m hurdles
+Summer,1984,Gold,MAR,Morocco,Nawal EL MOUTAWAKEL,1984 Los Angeles,Athletics,Women's,400m hurdles
+Summer,1984,Silver,USA,United States,Judith Lynne BROWN,1984 Los Angeles,Athletics,Women's,400m hurdles
+Summer,1984,Bronze,ROU,Romania,Cristina COJOCARU,1984 Los Angeles,Athletics,Women's,400m hurdles
+Summer,1984,Gold,USA,United States,"Jeanette BOLDEN, Evelyn ASHFORD, Alice Regina BROWN, Chandra Danette CHEESEBOROUGH",1984 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1984,Silver,CAN,Canada,"France GAREAU, Marita PAYNE-WIGGINS, Angella TAYLOR-ISSAJENKO, Angela BAILEY",1984 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1984,Bronze,GBR,Great Britain,"Kathryn SMALLWOOD-COOK, Heather HUNTE-OAKES, Simmone JACOBS, Beverley GODDARD-CALLENDER",1984 Los Angeles,Athletics,Women's,4x100m relay
+Summer,1984,Gold,USA,United States,"Sherryl Frances HOWARD, Chandra Danette CHEESEBOROUGH, Lillie Mae LEATHERWOOD-KING, Valerie Ann BRISCO-HOOKS",1984 Los Angeles,Athletics,Women's,4x400m relay
+Summer,1984,Silver,CAN,Canada,"Marita PAYNE-WIGGINS, Jillian RICHARDSON-BRISCOE, Molly KILLINGBECK, Charmaine CROOKS",1984 Los Angeles,Athletics,Women's,4x400m relay
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Ute THIMM-FINGER, Gabriele BUSSMANN, Heike SCHULTE-MATTLER-SCHMIDT, Heidi-Elke GAUGEL",1984 Los Angeles,Athletics,Women's,4x400m relay
+Summer,1984,Gold,ROU,Romania,Anisoara CUSMIR-STANCIU,1984 Los Angeles,Athletics,Women's,long jump
+Summer,1984,Silver,ROU,Romania,Valeria (Vali) IONESCU,1984 Los Angeles,Athletics,Women's,long jump
+Summer,1984,Bronze,GBR,Great Britain,Susan HEARNSHAW,1984 Los Angeles,Athletics,Women's,long jump
+Summer,1984,Gold,FRG,Federal Republic of Germany,Ulrike MEYFARTH,1984 Los Angeles,Athletics,Women's,high jump
+Summer,1984,Silver,ITA,Italy,Sara SIMEONI,1984 Los Angeles,Athletics,Women's,high jump
+Summer,1984,Bronze,USA,United States,Johanna Luann HUNTLEY,1984 Los Angeles,Athletics,Women's,high jump
+Summer,1984,Gold,NED,Netherlands,Ria G. STALMAN,1984 Los Angeles,Athletics,Women's,discus throw
+Summer,1984,Silver,USA,United States,Leslie Jean DENIZ,1984 Los Angeles,Athletics,Women's,discus throw
+Summer,1984,Bronze,ROU,Romania,Florenta TACU-CRAICIUNESCU,1984 Los Angeles,Athletics,Women's,discus throw
+Summer,1984,Gold,GBR,Great Britain,Teresa SANDERSON,1984 Los Angeles,Athletics,Women's,javelin throw
+Summer,1984,Silver,FIN,Finland,Kristiina LILLAK,1984 Los Angeles,Athletics,Women's,javelin throw
+Summer,1984,Bronze,GBR,Great Britain,Fatima WHITBREAD,1984 Los Angeles,Athletics,Women's,javelin throw
+Summer,1984,Gold,FRG,Federal Republic of Germany,Claudia LOSCH,1984 Los Angeles,Athletics,Women's,shot put
+Summer,1984,Silver,ROU,Romania,Mihaela LOGHIN,1984 Los Angeles,Athletics,Women's,shot put
+Summer,1984,Bronze,AUS,Australia,Gael MULHALL-MARTIN,1984 Los Angeles,Athletics,Women's,shot put
+Summer,1984,Gold,AUS,Australia,Glyniss Leanne NUNN-SAUNDERS-CEARNS,1984 Los Angeles,Athletics,Women's,heptathlon
+Summer,1984,Silver,USA,United States,Jackie JOYNER-KERSEE,1984 Los Angeles,Athletics,Women's,heptathlon
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Sabine EVERTS,1984 Los Angeles,Athletics,Women's,heptathlon
+Summer,1984,Gold,USA,United States,"Leonard III WOOD, Joseph William KLEINE, Wayman Lawrence TISDALE, Vernon FLEMING, Michael JORDAN, Samuel Bruce PERKINS, Steven Todd ALFORD, Patrick Aloysius EWING, Jon Francis KONCAK, Alvin Cyrrale ROBERTSON, Christopher Paul MULLIN, Jeffrey Stephen TURNER",1984 Los Angeles,Basketball,Men's,basketball
+Summer,1984,Silver,ESP,Spain,"Juan Domingo DE LA CRUZ FERMANELLI, Juan Antonio SAN EPIFANIO RUIZ, Andres JIMENEZ FERNANDEZ, Jose Manuel BEIRAN LOZANO, Fernando ARCEGA APERTE, Juan Antonio CORBALAN ALFOCER, Juan Maria LOPEZ, Jose Maria MARGALL TAULER, Fernando ROMAY PEREIRO, Jose Luis LLORENTE GENTO, Fernando MARTIN ESPINA, Ignacio SOLOZABAL",1984 Los Angeles,Basketball,Men's,basketball
+Summer,1984,Bronze,YUG,Yugoslavia,"Drazen PETROVIC, Nebojsa ZORKIC, Andro KNEGO, Rajko ZIZIC, Emir MUTAPCIC, Drazen DALIPAGIC, Aleksandar PETROVIC, Saabit HADZIC, Ratko RADOVANOVIC, Ivan SUNARA, Mihovil NAKIC-VOJNOVIC, Branko VUKICEVIC",1984 Los Angeles,Basketball,Men's,basketball
+Summer,1984,Gold,USA,United States,"Teresa EDWARDS, Lynette WOODARD, Cindy Jo. NOBLE, Anne Theresa DONOVAN, Cheryl Deann MILLER, Pamela Denise MCGEE, Ludi ""Lea"" HENRY, Janice Faye LAWRENCE, Kimberly Duane MULKEY, Catherine La Ora BOSWELL, Denise Marie CURRY, Carol Jean MENKEN-SCHAUDT",1984 Los Angeles,Basketball,Women's,basketball
+Summer,1984,Silver,KOR,Korea Republic,"Yang-Gae PARK, Hyung-Sook LEE, Myung-Hee JEONG, Kyung-Hee CHOI, Kyung-Ja MOON, Chan-Sook PARK, Eun-Sook KIM, Hwa-Soon KIM, Young-Hee KIM, Mi-Ja LEE, Jung-A SUNG, Aei-Young CHOI",1984 Los Angeles,Basketball,Women's,basketball
+Summer,1984,Bronze,CHN,China,"Hui ZHANG, Yue-Qin ZHANG, Chen QIU, Yue-Fang CHEN, Yan BA, Haixia ZHENG, Xuedi CONG, Qing LIU, Xiao-Bo SONG, Jun WANG, Xiao-Qin LI, Li-Juan XIU",1984 Los Angeles,Basketball,Women's,basketball
+Summer,1984,Gold,USA,United States,Paul Garza Jr. GONZALEZ,1984 Los Angeles,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1984,Silver,ITA,Italy,Salvatore TODISCO,1984 Los Angeles,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1984,Bronze,VEN,Venezuela,Jose Marcelino BOLIVAR,1984 Los Angeles,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1984,Bronze,ZAM,Zambia,Keith MWILA,1984 Los Angeles,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1984,Gold,USA,United States,Steven D. MCCRORY,1984 Los Angeles,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1984,Silver,YUG,Yugoslavia,Redzep REDZEPOVSKI,1984 Los Angeles,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1984,Bronze,KEN,Kenya,Ibrahim BILALI,1984 Los Angeles,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1984,Bronze,TUR,Turkey,Eyup CAN,1984 Los Angeles,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1984,Gold,ITA,Italy,Maurizio STECCA,1984 Los Angeles,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1984,Silver,MEX,Mexico,Hector LOPEZ,1984 Los Angeles,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1984,Bronze,CAN,Canada,Dale WALTERS,1984 Los Angeles,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1984,Bronze,DOM,Dominican Republic,Pedres NOLASCO,1984 Los Angeles,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1984,Gold,USA,United States,Meldrick TAYLOR,1984 Los Angeles,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1984,Silver,NGR,Nigeria,Peter KONYEGWACHIE,1984 Los Angeles,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1984,Bronze,TUR,Turkey,Turgut AYKAC,1984 Los Angeles,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1984,Bronze,VEN,Venezuela,Omar CATARI PERAZA,1984 Los Angeles,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1984,Gold,USA,United States,Pernell WHITAKER,1984 Los Angeles,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1984,Silver,PUR,Puerto Rico,Luis F. ORTIZ,1984 Los Angeles,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1984,Bronze,CMR,Cameroon,Martin NDONGO-EBANGA,1984 Los Angeles,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1984,Bronze,KOR,Korea Republic,Chil-Sung CHUN,1984 Los Angeles,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1984,Gold,USA,United States,Jeremy Louis PAGE,1984 Los Angeles,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1984,Silver,THA,Thailand,Dhawee UMPONMAHA,1984 Los Angeles,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1984,Bronze,ROU,Romania,Mircea FULGER,1984 Los Angeles,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1984,Bronze,YUG,Yugoslavia,Mirko PUZOVIC,1984 Los Angeles,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1984,Gold,USA,United States,Mark Anthony BRELAND,1984 Los Angeles,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1984,Silver,KOR,Korea Republic,Young-Su AN,1984 Los Angeles,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1984,Bronze,FIN,Finland,Joni NYMAN,1984 Los Angeles,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1984,Bronze,ITA,Italy,Luciano BRUNO,1984 Los Angeles,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1984,Gold,USA,United States,Frank TATE,1984 Los Angeles,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1984,Silver,CAN,Canada,Shawn O'SULLIVAN,1984 Los Angeles,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Manfred ZIELONKA,1984 Los Angeles,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1984,Bronze,FRA,France,Christophe TIOZZO,1984 Los Angeles,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1984,Gold,KOR,Korea Republic,Joon-Sup SHIN,1984 Los Angeles,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1984,Silver,USA,United States,Virgil Eugene HILL,1984 Los Angeles,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1984,Bronze,ALG,Algeria,Mohamed ZAOUI,1984 Los Angeles,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1984,Bronze,PUR,Puerto Rico,Aristides GONZALEZ,1984 Los Angeles,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1984,Gold,YUG,Yugoslavia,Antun JOSIPOVIC,1984 Los Angeles,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1984,Silver,NZL,New Zealand,Kevin BARRY,1984 Los Angeles,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1984,Bronze,ALG,Algeria,Mustapha MOUSSA,1984 Los Angeles,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1984,Bronze,USA,United States,Evander HOLYFIELD,1984 Los Angeles,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1984,Gold,USA,United States,Henry TILLMAN,1984 Los Angeles,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1984,Silver,CAN,Canada,Willie DEWIT,1984 Los Angeles,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1984,Bronze,ITA,Italy,Angelo MUSONE,1984 Los Angeles,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1984,Bronze,NED,Netherlands,Arnold VANDERLIJDE,1984 Los Angeles,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1984,Gold,USA,United States,Tyrell BIGGS,1984 Los Angeles,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1984,Silver,ITA,Italy,Francesco DAMIANI,1984 Los Angeles,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1984,Bronze,GBR,Great Britain,Robert WELLS,1984 Los Angeles,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1984,Bronze,YUG,Yugoslavia,Azis SALIHU,1984 Los Angeles,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1984,Gold,NZL,New Zealand,Ian Gordon FERGUSON,1984 Los Angeles,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1984,Silver,SWE,Sweden,Lars-Erik MOBERG,1984 Los Angeles,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1984,Bronze,FRA,France,Bernard BREGEON,1984 Los Angeles,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1984,Gold,NZL,New Zealand,"Christopher Paul MAC DONALD, Ian Gordon FERGUSON",1984 Los Angeles,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1984,Silver,SWE,Sweden,"Lars-Erik MOBERG, Per-Inge BENGTSSON",1984 Los Angeles,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1984,Bronze,CAN,Canada,"Alwyn MORRIS, Hugh FISHER",1984 Los Angeles,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1984,Gold,NZL,New Zealand,Alan Blair THOMPSON,1984 Los Angeles,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1984,Silver,YUG,Yugoslavia,Milan JANIC,1984 Los Angeles,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1984,Bronze,USA,United States,Gregory Mark BARTON,1984 Los Angeles,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1984,Gold,CAN,Canada,"Alwyn MORRIS, Hugh FISHER",1984 Los Angeles,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1984,Silver,FRA,France,"Patrick LEFOULON, Bernard BREGEON",1984 Los Angeles,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1984,Bronze,AUS,Australia,"Grant KENNY, Barry KELLY",1984 Los Angeles,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1984,Gold,NZL,New Zealand,"Ian Gordon FERGUSON, Alan Blair THOMPSON, Grant BRAMWELL, Christopher Paul MAC DONALD",1984 Los Angeles,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1984,Silver,SWE,Sweden,"Thomas OHLSSON, Tommy KARLS, Lars-Erik MOBERG, Per-Inge BENGTSSON",1984 Los Angeles,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1984,Bronze,FRA,France,"Philippe BOCCARA, Didier VAVASSEUR, Francois BAROUH, Pascal BOUCHERIT",1984 Los Angeles,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1984,Gold,CAN,Canada,Lawrence CAIN,1984 Los Angeles,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1984,Silver,DEN,Denmark,Henning Lynge JAKOBSEN,1984 Los Angeles,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1984,Bronze,ROU,Romania,Costica OLARU,1984 Los Angeles,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1984,Gold,YUG,Yugoslavia,"Mirko NISOVIC, Matija LJUBEK",1984 Los Angeles,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1984,Silver,ROU,Romania,"Toma SIMIONOV, Ivan PATZAICHIN",1984 Los Angeles,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1984,Bronze,ESP,Spain,"Narciso SUAREZ AMADOR, Enrique MIGUEZ GOMEZ",1984 Los Angeles,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1984,Gold,FRG,Federal Republic of Germany,Ulrich EICKE,1984 Los Angeles,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1984,Silver,CAN,Canada,Lawrence CAIN,1984 Los Angeles,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1984,Bronze,DEN,Denmark,Henning Lynge JAKOBSEN,1984 Los Angeles,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1984,Gold,ROU,Romania,"Toma SIMIONOV, Ivan PATZAICHIN",1984 Los Angeles,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1984,Silver,YUG,Yugoslavia,"Mirko NISOVIC, Matija LJUBEK",1984 Los Angeles,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1984,Bronze,FRA,France,"Eric RENAUD, Didier HOYER",1984 Los Angeles,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1984,Gold,SWE,Sweden,Agneta ANDERSSON,1984 Los Angeles,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1984,Silver,FRG,Federal Republic of Germany,Barbara SCHUTTPELZ,1984 Los Angeles,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1984,Bronze,NED,Netherlands,Annemarie DERCKX,1984 Los Angeles,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1984,Gold,SWE,Sweden,"Agneta ANDERSSON, Anna OLSSON",1984 Los Angeles,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1984,Silver,CAN,Canada,"Alexandra BARRE, Susan HOLLOWAY",1984 Los Angeles,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Josefa IDEM, Barbara SCHUTTPELZ",1984 Los Angeles,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1984,Gold,ROU,Romania,"Agafia CONSTANTIN, Tecla MARINESCU, Nastasia NICHITOV-IONESCU, Maria STEFAN",1984 Los Angeles,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1984,Silver,SWE,Sweden,"Eva KARLSSON, Agneta ANDERSSON, Susanne WIBERG-GUNNARSSON, Anna OLSSON",1984 Los Angeles,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1984,Bronze,CAN,Canada,"Alexandra BARRE, Susan HOLLOWAY, Barbara OLMSTEAD, Lucie GUAY",1984 Los Angeles,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1984,Gold,USA,United States,Alexi S. GREWAL,1984 Los Angeles,Cycling Road,Men's,individual road race
+Summer,1984,Silver,CAN,Canada,Stephen BAUER,1984 Los Angeles,Cycling Road,Men's,individual road race
+Summer,1984,Bronze,NOR,Norway,Dag Otto LAURITZEN,1984 Los Angeles,Cycling Road,Men's,individual road race
+Summer,1984,Gold,ITA,Italy,"Marcello BARTALINI, Eros POLI, Marco GIOVANNETTI, Claudio VANDELLI",1984 Los Angeles,Cycling Road,Men's,team time trial
+Summer,1984,Silver,SUI,Switzerland,"Laurent VIAL, Alfred ACHERMANN, Benno WISS, Richard TRINKLER",1984 Los Angeles,Cycling Road,Men's,team time trial
+Summer,1984,Bronze,USA,United States,"Ronald Alexander KIEFEL, Davis Welsh PHINNEY, Clarence Roy KNICKMAN, Andrew Telsher WEAVER",1984 Los Angeles,Cycling Road,Men's,team time trial
+Summer,1984,Gold,USA,United States,Helen Constance CARPENTER-PHINNEY,1984 Los Angeles,Cycling Road,Women's,individual road race
+Summer,1984,Silver,USA,United States,Rebecca Lynne TWIGG,1984 Los Angeles,Cycling Road,Women's,individual road race
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Sandra SCHUMACHER,1984 Los Angeles,Cycling Road,Women's,individual road race
+Summer,1984,Gold,USA,United States,Stephen Edward HEGG,1984 Los Angeles,Cycling Track,Men's,individual pursuit
+Summer,1984,Silver,FRG,Federal Republic of Germany,Rolf GOLZ,1984 Los Angeles,Cycling Track,Men's,individual pursuit
+Summer,1984,Bronze,USA,United States,Leonard Harvey NITZ,1984 Los Angeles,Cycling Track,Men's,individual pursuit
+Summer,1984,Gold,AUS,Australia,"Kevin NICHOLS, Dean WOODS, Michael GRENDA, Michael TURTUR",1984 Los Angeles,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1984,Silver,USA,United States,"Leonard Harvey NITZ, Stephen Edward HEGG, R.Patrick MCDONOUGH, David Mills GRYLLS",1984 Los Angeles,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Rolf GOLZ, Michael MARX, Reinhard ALBER, Roland GUNTHER",1984 Los Angeles,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1984,Gold,FRG,Federal Republic of Germany,Fredy SCHMIDTKE,1984 Los Angeles,Cycling Track,Men's,1km time trial
+Summer,1984,Silver,CAN,Canada,Curtis HARNETT,1984 Los Angeles,Cycling Track,Men's,1km time trial
+Summer,1984,Bronze,FRA,France,Fabrice COLAS,1984 Los Angeles,Cycling Track,Men's,1km time trial
+Summer,1984,Gold,BEL,Belgium,Roger ILEGEMS,1984 Los Angeles,Cycling Track,Men's,points race
+Summer,1984,Silver,FRG,Federal Republic of Germany,Uwe MESSERSCHMIDT,1984 Los Angeles,Cycling Track,Men's,points race
+Summer,1984,Bronze,MEX,Mexico,Jose Manuel YOUSHIMATZ,1984 Los Angeles,Cycling Track,Men's,points race
+Summer,1984,Gold,USA,United States,Mark Brian GORSKI,1984 Los Angeles,Cycling Track,Men's,sprint individual
+Summer,1984,Silver,USA,United States,Nelson Beasley VAILS,1984 Los Angeles,Cycling Track,Men's,sprint individual
+Summer,1984,Bronze,JPN,Japan,Tsutomu SAKAMOTO,1984 Los Angeles,Cycling Track,Men's,sprint individual
+Summer,1984,Gold,USA,United States,Gregory LOUGANIS,1984 Los Angeles,Diving,Men's,10m platform
+Summer,1984,Silver,USA,United States,Bruce D. KIMBALL,1984 Los Angeles,Diving,Men's,10m platform
+Summer,1984,Bronze,CHN,China,Kong-Zheng LI,1984 Los Angeles,Diving,Men's,10m platform
+Summer,1984,Gold,USA,United States,Gregory LOUGANIS,1984 Los Angeles,Diving,Men's,3m springboard
+Summer,1984,Silver,CHN,China,Liang-De TAN,1984 Los Angeles,Diving,Men's,3m springboard
+Summer,1984,Bronze,USA,United States,Ronald Marshall MERRIOTT,1984 Los Angeles,Diving,Men's,3m springboard
+Summer,1984,Gold,CHN,China,Ji-Hong ZHOU,1984 Los Angeles,Diving,Women's,10m platform
+Summer,1984,Silver,USA,United States,Michele MITCHELL,1984 Los Angeles,Diving,Women's,10m platform
+Summer,1984,Bronze,USA,United States,Wendy Lian WYLAND-WILLIAMS,1984 Los Angeles,Diving,Women's,10m platform
+Summer,1984,Gold,CAN,Canada,Sylvie BERNIER,1984 Los Angeles,Diving,Women's,3m springboard
+Summer,1984,Silver,USA,United States,Kelly Anne MCCORMICK,1984 Los Angeles,Diving,Women's,3m springboard
+Summer,1984,Bronze,USA,United States,Christina SEUFERT,1984 Los Angeles,Diving,Women's,3m springboard
+Summer,1984,Gold,FRG,Federal Republic of Germany,"AHLERICH, Reiner KLIMKE",1984 Los Angeles,Equestrian Dressage,Mixed,individual
+Summer,1984,Silver,DEN,Denmark,"MARZOG, Anne Grethe JENSEN-TORNBLAD",1984 Los Angeles,Equestrian Dressage,Mixed,individual
+Summer,1984,Bronze,SUI,Switzerland,"LIMANDUS, Otto Josef HOFER",1984 Los Angeles,Equestrian Dressage,Mixed,individual
+Summer,1984,Gold,FRG,Federal Republic of Germany,"AHLERICH, MONTEVIDEO, MUSCADEUR, Reiner KLIMKE, Uwe SAUER, Herbert KRUG",1984 Los Angeles,Equestrian Dressage,Mixed,team
+Summer,1984,Silver,SUI,Switzerland,"LIMANDUS, TANSANIT, AINTREE, Otto Josef HOFER, Christine STUECKELBERGER, Amy Catherine DE BARY",1984 Los Angeles,Equestrian Dressage,Mixed,team
+Summer,1984,Bronze,SWE,Sweden,"ALEKS, INFERNO, FLAMINGO, Louise NATHORST, Ulla HAKANSSON, Ingamay BYLUND",1984 Los Angeles,Equestrian Dressage,Mixed,team
+Summer,1984,Gold,NZL,New Zealand,"CHARISMA, Mark James TODD",1984 Los Angeles,Equestrian Eventing,Mixed,individual
+Summer,1984,Silver,USA,United States,"BEN ARTHUR, Karen Elizabeth STIVES-LENDE",1984 Los Angeles,Equestrian Eventing,Mixed,individual
+Summer,1984,Bronze,GBR,Great Britain,"PRICELESS, Virginia HOLGATE-LENG",1984 Los Angeles,Equestrian Eventing,Mixed,individual
+Summer,1984,Gold,USA,United States,"Torrance Watkins FLEISCHMANN, BLUE STONE, BEN ARTHUR, J.J.BABU, FINVARRA, John Michael PLUMB, Karen Elizabeth STIVES-LENDE, Bruce Oram DAVIDSON",1984 Los Angeles,Equestrian Eventing,Mixed,team
+Summer,1984,Silver,GBR,Great Britain,"Virginia HOLGATE-LENG, Diana CLAPHAM, Lucinda PRIOR-PALMER-GREEN, Ian STARK, PRICELESS, WINDJAMMER, REGAL REALM, OXFORD BLUE",1984 Los Angeles,Equestrian Eventing,Mixed,team
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Bettina OVERESCH-BOEKER, Burkhard TESDORPF, Claus ERHORN, Dietmar HOGREFE, PEACETIME, FREEDOM, FAIR LADY, FOLIANT",1984 Los Angeles,Equestrian Eventing,Mixed,team
+Summer,1984,Gold,USA,United States,"Joseph Halpin, Iv FARGIS, TOUCH OF CLASS",1984 Los Angeles,Equestrian Jumping,Mixed,individual
+Summer,1984,Silver,USA,United States,"Conrad E. HOMFELD, ABDULLAH",1984 Los Angeles,Equestrian Jumping,Mixed,individual
+Summer,1984,Bronze,SUI,Switzerland,"Adelheid ROBBIANI, JESSICA V",1984 Los Angeles,Equestrian Jumping,Mixed,individual
+Summer,1984,Gold,USA,United States,"Joseph Halpin, Iv FARGIS, Conrad E. HOMFELD, Melanie Ashworth SMITH, Leslie Michele BURR-HOWARD, TOUCH OF CLASS, ABDULLAH, CALYPSO, ALBANY",1984 Los Angeles,Equestrian Jumping,Mixed,team
+Summer,1984,Silver,GBR,Great Britain,"Michael WHITAKER, Steven SMITH, Timothy GRUBB, John Edwin WHITAKER, OVERTON AMANDA, SHINING EXAMPLE, LINKY, RYANS SON",1984 Los Angeles,Equestrian Jumping,Mixed,team
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Franke SLOOTHAAK, Fritz LIGGES, Paul SCHOCKEMÖHLE, Peter LUTHER, LIVIUS, FARMER, RAMZES, DEISTER",1984 Los Angeles,Equestrian Jumping,Mixed,team
+Summer,1984,Gold,FRA,France,Philippe BOISSE,1984 Los Angeles,Fencing,Men's,épée individual
+Summer,1984,Silver,SWE,Sweden,Björne VÄGGÖ,1984 Los Angeles,Fencing,Men's,épée individual
+Summer,1984,Bronze,FRA,France,Philippe RIBOUD,1984 Los Angeles,Fencing,Men's,épée individual
+Summer,1984,Gold,FRG,Federal Republic of Germany,"Volker FISCHER, Rafael NICKEL, Elmar BORRMANN, Gerhard HEER, Alexander PUSCH",1984 Los Angeles,Fencing,Men's,épée team
+Summer,1984,Silver,FRA,France,"Philippe BOISSE, Olivier LENGLET, Michel SALESSE, Jean-Michel HENRY, Philippe RIBOUD",1984 Los Angeles,Fencing,Men's,épée team
+Summer,1984,Bronze,ITA,Italy,"Sandro CUOMO, Roberto MANZI, Stefano BELLONE, Cosimo FERRO, Angelo MAZZONI",1984 Los Angeles,Fencing,Men's,épée team
+Summer,1984,Gold,ITA,Italy,Mauro NUMA,1984 Los Angeles,Fencing,Men's,foil individual
+Summer,1984,Silver,FRG,Federal Republic of Germany,Matthias BEHR,1984 Los Angeles,Fencing,Men's,foil individual
+Summer,1984,Bronze,ITA,Italy,Stefano CERIONI,1984 Los Angeles,Fencing,Men's,foil individual
+Summer,1984,Gold,ITA,Italy,"Andrea BORELLA, Angelo SCURI, Mauro NUMA, Stefano CERIONI, Andrea CIPRESSA",1984 Los Angeles,Fencing,Men's,foil team
+Summer,1984,Silver,FRG,Federal Republic of Germany,"Matthias BEHR, Harald HEIN, Klaus REICHERT, Matthias GEY, Frank BECK",1984 Los Angeles,Fencing,Men's,foil team
+Summer,1984,Bronze,FRA,France,"Patrick GROC, Pascal JOLYOT, Philippe OMNES, Frederic PIETRUSZKA, Marc CERBONI",1984 Los Angeles,Fencing,Men's,foil team
+Summer,1984,Gold,FRA,France,Jean-Francois LAMOUR,1984 Los Angeles,Fencing,Men's,sabre individual
+Summer,1984,Silver,ITA,Italy,Marco MARIN,1984 Los Angeles,Fencing,Men's,sabre individual
+Summer,1984,Bronze,USA,United States,Peter Jonathan WESTBROOK,1984 Los Angeles,Fencing,Men's,sabre individual
+Summer,1984,Gold,ITA,Italy,"Gianfranco DALLA BARBA, Ferdinando MEGLIO, Angelo ARCIDIACONO, Giovanni SCALZO, Marco MARIN",1984 Los Angeles,Fencing,Men's,sabre team
+Summer,1984,Silver,FRA,France,"Pierre GUICHOT, Philippe DELRIEU, Jean-Francois LAMOUR, Herve GRANGER-VEYRON, Franck DUCHEIX",1984 Los Angeles,Fencing,Men's,sabre team
+Summer,1984,Bronze,ROU,Romania,"Marin MUSTATA, Alexandru CHICULITA, Vilmos SZABO, Ioan POP, Corneliu MARIN",1984 Los Angeles,Fencing,Men's,sabre team
+Summer,1984,Gold,CHN,China,Ju-Jie LUAN,1984 Los Angeles,Fencing,Women's,foil individual
+Summer,1984,Silver,FRG,Federal Republic of Germany,Cornelia HANISCH,1984 Los Angeles,Fencing,Women's,foil individual
+Summer,1984,Bronze,ITA,Italy,Dorina VACCARONI,1984 Los Angeles,Fencing,Women's,foil individual
+Summer,1984,Gold,FRG,Federal Republic of Germany,"Ute KIRCHEIS-WESSEL, Cornelia HANISCH, Zita-Eva FUNKENHAUSER, Christiane WEBER, Sabine BISCHOFF",1984 Los Angeles,Fencing,Women's,foil team
+Summer,1984,Silver,ROU,Romania,"Monika WEBER-KOSZTO, Marcela MOLDOVAN-ZSAK, Aurora DAN, Rozalia OROS, Elisabeta GUZGANU-TUFAN",1984 Los Angeles,Fencing,Women's,foil team
+Summer,1984,Bronze,FRA,France,"Laurence MODAINE, Brigitte LATRILLE-GAUDIN, Anne MEYGRET, Pascale TRINQUET-HACHIN, Veronique BROUQUIER",1984 Los Angeles,Fencing,Women's,foil team
+Summer,1984,Gold,FRA,France,"William AYACHE, Dominique BIJOTAT, Patrick CUBAYNES, Philippe JEANNOL, Jean-Claude LEMOULT, Didier SENAC, Jose TOURE, Jean Louis ZANON, Michel BIBARD, Francois BRISSON, Patrice GARANDE, Guy LACOMBE, Jean Philippe ROHR, Jean Christophe THOUVENEL, Daniel XUEREB, Michel BENSOUSSAN, Albert RUST",1984 Los Angeles,Football,Men's,football
+Summer,1984,Silver,BRA,Brazil,"Gilmar RINALDI, Jorge Luiz BRUM, Ademir ROQUE KAEFER, Paulo SANTOS, Joao LEIEHART NETO, Silvio PAIVA, Luiz Carlos WINCK, Antonio Jose GIL, Milton CRUZ, Ronaldo SILVA, Mauro GALVAO, Andre Luiz FERREIRA, Carlos VERRI, Aguilmar OLIVEIRA, Luiz DIAS, David CORTEZ SILVA, Francisco VIDAL",1984 Los Angeles,Football,Men's,football
+Summer,1984,Bronze,YUG,Yugoslavia,"Stjepan DEVERIC, Dragan STOJKOVIC, Vlado CAPLJIC, Srecko KATANEC, Ljubomir RADANOVIC, Nenad GRACAN, Mehmed BAZDAREVIC, Tomislav IVKOVIC, Branko MILJUS, Mitar MRKELA, Ivan PUDAR, Mirsad BALJIC, Marko ELSNER, Admir SMAJIC, Milko DJUROVSKI, Borislav CVETKOVIC, Jovica NIKOLIC",1984 Los Angeles,Football,Men's,football
+Summer,1984,Gold,USA,United States,"Timothy Patrick DAGGETT, Mitchell Jay GAYLORD, Peter Glen VIDMAR, Scott Philip JOHNSON, James N. HARTUNG, Barthold Wayne CONNER",1984 Los Angeles,Gymnastics Artistic,Men's,team competition
+Summer,1984,Silver,CHN,China,"Yun LOU, Zhi-Qiang XU, Ning LI, Yue-Jiu LI, Fei TONG, Xiao-Ping LI",1984 Los Angeles,Gymnastics Artistic,Men's,team competition
+Summer,1984,Bronze,JPN,Japan,"Shinji MORISUE, Koji SOTOMURA, Kyoji YAMAWAKI, Noritoshi HIRATA, Nobuyuki KAJITANI, Koji GUSHIKEN",1984 Los Angeles,Gymnastics Artistic,Men's,team competition
+Summer,1984,Gold,JPN,Japan,Koji GUSHIKEN,1984 Los Angeles,Gymnastics Artistic,Men's,individual all-round
+Summer,1984,Silver,USA,United States,Peter Glen VIDMAR,1984 Los Angeles,Gymnastics Artistic,Men's,individual all-round
+Summer,1984,Bronze,CHN,China,Ning LI,1984 Los Angeles,Gymnastics Artistic,Men's,individual all-round
+Summer,1984,Gold,CHN,China,Ning LI,1984 Los Angeles,Gymnastics Artistic,Men's,floor exercises
+Summer,1984,Silver,CHN,China,Yun LOU,1984 Los Angeles,Gymnastics Artistic,Men's,floor exercises
+Summer,1984,Bronze,FRA,France,Philippe VATUONE,1984 Los Angeles,Gymnastics Artistic,Men's,floor exercises
+Summer,1984,Bronze,JPN,Japan,Koji SOTOMURA,1984 Los Angeles,Gymnastics Artistic,Men's,floor exercises
+Summer,1984,Gold,USA,United States,Barthold Wayne CONNER,1984 Los Angeles,Gymnastics Artistic,Men's,parallel bars
+Summer,1984,Silver,JPN,Japan,Nobuyuki KAJITANI,1984 Los Angeles,Gymnastics Artistic,Men's,parallel bars
+Summer,1984,Bronze,USA,United States,Mitchell Jay GAYLORD,1984 Los Angeles,Gymnastics Artistic,Men's,parallel bars
+Summer,1984,Gold,CHN,China,Yun LOU,1984 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1984,Silver,CHN,China,Ning LI,1984 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1984,Silver,JPN,Japan,Koji GUSHIKEN,1984 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1984,Silver,JPN,Japan,Shinji MORISUE,1984 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1984,Silver,USA,United States,Mitchell Jay GAYLORD,1984 Los Angeles,Gymnastics Artistic,Men's,vault
+Summer,1984,Gold,CHN,China,Ning LI,1984 Los Angeles,Gymnastics Artistic,Men's,rings
+Summer,1984,Gold,JPN,Japan,Koji GUSHIKEN,1984 Los Angeles,Gymnastics Artistic,Men's,rings
+Summer,1984,Bronze,USA,United States,Mitchell Jay GAYLORD,1984 Los Angeles,Gymnastics Artistic,Men's,rings
+Summer,1984,Gold,CHN,China,Ning LI,1984 Los Angeles,Gymnastics Artistic,Men's,pommel horse
+Summer,1984,Gold,USA,United States,Peter Glen VIDMAR,1984 Los Angeles,Gymnastics Artistic,Men's,pommel horse
+Summer,1984,Bronze,USA,United States,Timothy Patrick DAGGETT,1984 Los Angeles,Gymnastics Artistic,Men's,pommel horse
+Summer,1984,Gold,JPN,Japan,Shinji MORISUE,1984 Los Angeles,Gymnastics Artistic,Men's,horizontal bar
+Summer,1984,Silver,CHN,China,Fei TONG,1984 Los Angeles,Gymnastics Artistic,Men's,horizontal bar
+Summer,1984,Bronze,JPN,Japan,Koji GUSHIKEN,1984 Los Angeles,Gymnastics Artistic,Men's,horizontal bar
+Summer,1984,Gold,ROU,Romania,"Simona PAUCA, Cristina Elena GRIGORAS, Lavinia AGACHE, Mihaela STANULET, Laura CUTINA, Ecaterina SZABO",1984 Los Angeles,Gymnastics Artistic,Women's,team competition
+Summer,1984,Silver,USA,United States,"Pamela Jean BILEK, Kathleen Ann JOHNSON, Mary-Lou RETTON, Tracee Ann TALAVERA, Michelle Hollis DUSSERRE, Julianne Lyn MCNAMARA",1984 Los Angeles,Gymnastics Artistic,Women's,team competition
+Summer,1984,Bronze,CHN,China,"Qun HUANG, Youg-Yan CHEN, Jia-Ni WU, Qiu-Rui ZHOU, Yan-Hong MA, Ping ZHOU",1984 Los Angeles,Gymnastics Artistic,Women's,team competition
+Summer,1984,Gold,USA,United States,Mary-Lou RETTON,1984 Los Angeles,Gymnastics Artistic,Women's,individual all-round
+Summer,1984,Silver,ROU,Romania,Ecaterina SZABO,1984 Los Angeles,Gymnastics Artistic,Women's,individual all-round
+Summer,1984,Bronze,ROU,Romania,Simona PAUCA,1984 Los Angeles,Gymnastics Artistic,Women's,individual all-round
+Summer,1984,Gold,ROU,Romania,Ecaterina SZABO,1984 Los Angeles,Gymnastics Artistic,Women's,floor exercises
+Summer,1984,Silver,USA,United States,Julianne Lyn MCNAMARA,1984 Los Angeles,Gymnastics Artistic,Women's,floor exercises
+Summer,1984,Bronze,USA,United States,Mary-Lou RETTON,1984 Los Angeles,Gymnastics Artistic,Women's,floor exercises
+Summer,1984,Gold,CHN,China,Yan-Hong MA,1984 Los Angeles,Gymnastics Artistic,Women's,uneven bars
+Summer,1984,Gold,USA,United States,Julianne Lyn MCNAMARA,1984 Los Angeles,Gymnastics Artistic,Women's,uneven bars
+Summer,1984,Bronze,USA,United States,Mary-Lou RETTON,1984 Los Angeles,Gymnastics Artistic,Women's,uneven bars
+Summer,1984,Gold,ROU,Romania,Ecaterina SZABO,1984 Los Angeles,Gymnastics Artistic,Women's,vault
+Summer,1984,Silver,USA,United States,Mary-Lou RETTON,1984 Los Angeles,Gymnastics Artistic,Women's,vault
+Summer,1984,Bronze,ROU,Romania,Lavinia AGACHE,1984 Los Angeles,Gymnastics Artistic,Women's,vault
+Summer,1984,Gold,ROU,Romania,Ecaterina SZABO,1984 Los Angeles,Gymnastics Artistic,Women's,balance beam
+Summer,1984,Gold,ROU,Romania,Simona PAUCA,1984 Los Angeles,Gymnastics Artistic,Women's,balance beam
+Summer,1984,Bronze,USA,United States,Kathleen Ann JOHNSON,1984 Los Angeles,Gymnastics Artistic,Women's,balance beam
+Summer,1984,Gold,CAN,Canada,Lori FUNG,1984 Los Angeles,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1984,Silver,ROU,Romania,Doina STAICULESCU,1984 Los Angeles,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Regina WEBER,1984 Los Angeles,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1984,Gold,YUG,Yugoslavia,"Momir RNIC, Jovica ELEZOVIC, Pavle JURINA, Slobodan KUZMANOVSKI, Mile ISAKOVIC, Branko STRBAC, Mirko BASIC, Zlatan ARNAUTOVIC, Veselin VUKOVIC, Zdravko ZOVKO, Veselin VUJOVIC, Zdravko RADJENOVIC, Dragan MLADENOVIC, Milan KALINA",1984 Los Angeles,Handball,Men's,handball
+Summer,1984,Silver,FRG,Federal Republic of Germany,"Rudiger NEITZEL, Dirk RAUIN, Thomas HAPPE, Klaus WOLLER, Ulrich ROTH, Michael ROTH, Siegfried ROCH, Uwe SCHWENKER, Martin SCHWALB, Michael PAUL, Thomas SPRINGEL, Jochen FRAATZ, Arnulf MEFFLE, Erhard WUNDERLICH, Andreas THIEL",1984 Los Angeles,Handball,Men's,handball
+Summer,1984,Bronze,ROU,Romania,"Mircea BEDEVAN, George DRAGESCU, Nicolae MUNTEANU, Iosif BOROS, Vasile STINGA, Cornel DURAU, Alexandru BULIGAN, Dumitru BERBECE, Adrian SIMION, Marian DUMITRU, Alexandru FOLKER, Maricel VOINEA, Gheorghe COVACIU, Neculai VASILCA, Vasile OPREA",1984 Los Angeles,Handball,Men's,handball
+Summer,1984,Gold,YUG,Yugoslavia,"Jasna PTUJEC, Ljubinka JANKOVIC, Mirjana DJURICA, Dragica DJURIC, Svetlana KITIC-DASIC, Alenka CUDERMAN, Slavica DJUKIC, Mirjana OGNJENOVIC, Zorica PAVISEVIC, Svetlana MUGOSA-ANTIT, Ljiljana MUGOSA, Svetlana ANASTASOVSKI, Emilija ERCIC, Biserka VISNJIC, Jasna MERDAN-KOLAR",1984 Los Angeles,Handball,Women's,handball
+Summer,1984,Silver,KOR,Korea Republic,"Ok-Hwa KIM, Soo-Kyung YOON, Soon-Ei LEE, Mi-Sook KIM, Soon-Bok JEONG, Young-Ja LEE, Hwa-Soo HAN, Kyung-Hwa SUNG, Kyung-Soon KIM, Hyoi-Soon JEONG, Choon-Rye KIM, Byung-Soon YOON, Mi-Ha SON",1984 Los Angeles,Handball,Women's,handball
+Summer,1984,Bronze,CHN,China,"Yu-Mei LIU, Wei-Hong ZHANG, Lan LI, Xing-Jiang WU, Jue-Feng ZHU, Pei-Jun ZHANG, Li-Ping LIU, Xiu-Lan SUN, Xiu-Min GAO, Ming-Xing WANG, Jian-Ping HE, Zhen CHEN, Lin-Wei WANG",1984 Los Angeles,Handball,Women's,handball
+Summer,1984,Gold,PAK,Pakistan,"Zia QASIM, Hussain MANZOOR, Hanir KHAN, Saleem SHERWANI, Ayaz MEHMOOD, Ullah KALEEM, Shahid Ali KHAN, Rashid ABDUL, Ghulam MOIN UD DIN, Ali NASIR, Sardar HASSAN, Ahmed ISHTIAQ, Ahmed MUSHTAQ, Akhtar NAEEM, Hameed KHALID, Tauqeer DAR",1984 Los Angeles,Hockey,Men's,hockey
+Summer,1984,Silver,FRG,Federal Republic of Germany,"Karl-Joachim HURTER, Andreas KELLER, Markku SLAWYK, Tobias FRANK, Dirk BRINKMANN, Michael PETER, Thomas GUNST, Heiner DOPP, Carsten FISCHER, Ekkhard SCHMIDT-OPPER, Thomas Werner RECK, Christian BASSEMIR, Horst-Ulrich HANEL, Reinhard KRULL, Stefan BLÖCHER, Volker FRIED",1984 Los Angeles,Hockey,Men's,hockey
+Summer,1984,Bronze,GBR,Great Britain,"William David Robert MCCONNELL, Sean Robin KERLY, Stephen Alexander. MARTIN, Robert Lewis CATTRALL, Mark PRECIOUS, David Guy WESTCOTT, Ian Charles Boucher TAYLOR, Jonathan Nicholas M. POTTER, Steven James BATCHELOR, James Livingstone DUTHIE, Paul Jason BARBER, Kulbir Singh BHAURA, Norman HUGHES, Richard Alexander LEMAN, Veryan Guy Henry PAPPIN, Richard David Allan DODDS",1984 Los Angeles,Hockey,Men's,hockey
+Summer,1984,Gold,NED,Netherlands,"Bernadette DE BEUS, Josephine BOEKHORST, Sophie Pauline VON WEILER, Irene HENDRIKS, Margriet ZEGERS, Elisabeth Anthonius SEVENS, Anne Lucia (Anneloes) NIEUWEWNHUIZEN, Francisca HILLEN, Maria Yolanda C. BOLHUIS-EIJSVOGEL, Carina BENNINGA, Aletta VAN MANEN, Alette POS, Laurien WILLEMSE, Martine OHR, Alexandra LE POOLE, Marieke Birgitta VAN DOORN",1984 Los Angeles,Hockey,Women's,hockey
+Summer,1984,Silver,FRG,Federal Republic of Germany,"Ursula THIELEMANN, Beate DEININGER, Birgit HAHN, Gabriele SCHLEY-SCHÖWE, Susanne Leonie SCHMID, Hella ROTH, Andrea WEIERMANN-LIETZ, Martina KOCH-HALLMEN, Elke DRULL, Birgit HAGEN, Gabriele Marion APPEL, Patricia OTT, Christina MOSER, Dagmar BREIKEN-BREMER, Corinna LINGNAU, Sigrid LANDGRAF",1984 Los Angeles,Hockey,Women's,hockey
+Summer,1984,Bronze,USA,United States,"Diane Marie MOYER, Gwen Wentz CHEESEMAN, Leslie Woods MILNE, Christine LARSON-MASON, Marcella Jeanette PLACE, Karen Christina SHELTON, Kathleen Ann MCCAHEY, Regina E. BUGGY, Julia Ann STAVER, Sheryl Ann JOHNSON, Elizabeth Rambo ANDERS, Judith Ann STRONG, Elizabeth Anne BEGLIN, Charlene Frances MORETT, Brenda Lee STAUFFER, Anita Corl MILLER",1984 Los Angeles,Hockey,Women's,hockey
+Summer,1984,Gold,JPN,Japan,Shinji HOSOKAWA,1984 Los Angeles,Judo,Men's,- 60 kg
+Summer,1984,Silver,KOR,Korea Republic,Jae-Yup KIM,1984 Los Angeles,Judo,Men's,- 60 kg
+Summer,1984,Bronze,GBR,Great Britain,Neil ECKERSLEY,1984 Los Angeles,Judo,Men's,- 60 kg
+Summer,1984,Bronze,USA,United States,Edward J. LIDDIE,1984 Los Angeles,Judo,Men's,- 60 kg
+Summer,1984,Gold,JPN,Japan,Yoshiyuki MATSUOKA,1984 Los Angeles,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1984,Silver,KOR,Korea Republic,Jun-Oh HWANG,1984 Los Angeles,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1984,Bronze,AUT,Austria,Josef REITER,1984 Los Angeles,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1984,Bronze,FRA,France,Marc ALEXANDRE,1984 Los Angeles,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1984,Gold,KOR,Korea Republic,Byung-Keun AHN,1984 Los Angeles,Judo,Men's,65 - 71kg (lightweight)
+Summer,1984,Silver,ITA,Italy,Ezio GAMBA,1984 Los Angeles,Judo,Men's,65 - 71kg (lightweight)
+Summer,1984,Bronze,BRA,Brazil,Luiz Yoshio YOSHIO ONMURA,1984 Los Angeles,Judo,Men's,65 - 71kg (lightweight)
+Summer,1984,Bronze,GBR,Great Britain,Kerrith BROWN,1984 Los Angeles,Judo,Men's,65 - 71kg (lightweight)
+Summer,1984,Gold,FRG,Federal Republic of Germany,Frank WIENEKE,1984 Los Angeles,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1984,Silver,GBR,Great Britain,Neil ADAMS,1984 Los Angeles,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1984,Bronze,FRA,France,Michel NOWAK,1984 Los Angeles,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1984,Bronze,ROU,Romania,Mircea FRATICA,1984 Los Angeles,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1984,Gold,AUT,Austria,Peter SEISENBACHER,1984 Los Angeles,Judo,Men's,78 - 86kg (middleweight)
+Summer,1984,Silver,USA,United States,Robert Lee BERLAND,1984 Los Angeles,Judo,Men's,78 - 86kg (middleweight)
+Summer,1984,Bronze,BRA,Brazil,Walter CARMONA,1984 Los Angeles,Judo,Men's,78 - 86kg (middleweight)
+Summer,1984,Bronze,JPN,Japan,Seiki NOSE,1984 Los Angeles,Judo,Men's,78 - 86kg (middleweight)
+Summer,1984,Gold,KOR,Korea Republic,Hyung-Zoo HA,1984 Los Angeles,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1984,Silver,BRA,Brazil,Douglas VIEIRA,1984 Los Angeles,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Günther NEUREUTHER,1984 Los Angeles,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1984,Bronze,ISL,Iceland,Bjarni FRIDRIKSSON,1984 Los Angeles,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1984,Gold,JPN,Japan,Hitoshi SAITO,1984 Los Angeles,Judo,Men's,+ 95kg (heavyweight)
+Summer,1984,Silver,FRA,France,Angelo PARISI,1984 Los Angeles,Judo,Men's,+ 95kg (heavyweight)
+Summer,1984,Bronze,CAN,Canada,Marc BERGER,1984 Los Angeles,Judo,Men's,+ 95kg (heavyweight)
+Summer,1984,Bronze,KOR,Korea Republic,Yong-Chul CHO,1984 Los Angeles,Judo,Men's,+ 95kg (heavyweight)
+Summer,1984,Gold,JPN,Japan,Yasuhiro YAMASHITA,1984 Los Angeles,Judo,Men's,open category
+Summer,1984,Silver,EGY,Egypt,Mohamed RASHWAN,1984 Los Angeles,Judo,Men's,open category
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Arthur SCHNABEL,1984 Los Angeles,Judo,Men's,open category
+Summer,1984,Bronze,ROU,Romania,Mihai CIOC,1984 Los Angeles,Judo,Men's,open category
+Summer,1984,Gold,ITA,Italy,Daniele MASALA,1984 Los Angeles,Modern Pentathlon,Men's,individual competition
+Summer,1984,Silver,SWE,Sweden,Svante RASMUSON,1984 Los Angeles,Modern Pentathlon,Men's,individual competition
+Summer,1984,Bronze,ITA,Italy,Carlo MASSULLO,1984 Los Angeles,Modern Pentathlon,Men's,individual competition
+Summer,1984,Gold,ITA,Italy,"Daniele MASALA, Pier Paolo CRISTOFORI, Carlo MASSULLO",1984 Los Angeles,Modern Pentathlon,Men's,team competition
+Summer,1984,Silver,USA,United States,"Robert Gregory LOSEY, Michael Earle STORM, Dean William GLENESK",1984 Los Angeles,Modern Pentathlon,Men's,team competition
+Summer,1984,Bronze,FRA,France,"Paul FOUR, Joel BOUZOU, Didier BOUBE",1984 Los Angeles,Modern Pentathlon,Men's,team competition
+Summer,1984,Gold,FIN,Finland,Pertti KARPPINEN,1984 Los Angeles,Rowing,Men's,single sculls (1x)
+Summer,1984,Silver,FRG,Federal Republic of Germany,Peter-Michael KOLBE,1984 Los Angeles,Rowing,Men's,single sculls (1x)
+Summer,1984,Bronze,CAN,Canada,Robert MILLS,1984 Los Angeles,Rowing,Men's,single sculls (1x)
+Summer,1984,Gold,USA,United States,"Paul N. ENQUIST, Bradley Alan LEWIS",1984 Los Angeles,Rowing,Men's,double sculls (2x)
+Summer,1984,Silver,BEL,Belgium,"Dirk CROIS, Pierre Marie DELOOF",1984 Los Angeles,Rowing,Men's,double sculls (2x)
+Summer,1984,Bronze,YUG,Yugoslavia,"Milorad STANULOV, Zoran PANCIC",1984 Los Angeles,Rowing,Men's,double sculls (2x)
+Summer,1984,Gold,ROU,Romania,"Valer TOMA, Petru IOSUB",1984 Los Angeles,Rowing,Men's,pair without coxswain (2-)
+Summer,1984,Silver,ESP,Spain,"Luis Maria LASURTEGUI BERRIDI, Fernando CLIMENT HUERTA",1984 Los Angeles,Rowing,Men's,pair without coxswain (2-)
+Summer,1984,Bronze,NOR,Norway,"Sverre Bertrand LOKEN, Hans Magnus GREPPERUD",1984 Los Angeles,Rowing,Men's,pair without coxswain (2-)
+Summer,1984,Gold,ITA,Italy,"Giuseppe ABBAGNALE, Carmine ABBAGNALE, Giuseppe DI CAPUA",1984 Los Angeles,Rowing,Men's,pair-oared shell with coxswain
+Summer,1984,Silver,ROU,Romania,"Dimitrie POPESCU, Dumitru RADUCANU, Vasile TOMOIAGA",1984 Los Angeles,Rowing,Men's,pair-oared shell with coxswain
+Summer,1984,Bronze,USA,United States,"Kevin Raymond STILL, Douglas John HERLAND, Robert Douglas, Jr. ESPESETH",1984 Los Angeles,Rowing,Men's,pair-oared shell with coxswain
+Summer,1984,Gold,FRG,Federal Republic of Germany,"Raimund HORMANN, Michael DURSCH, Albert HEDDERICH, Dieter WIEDENMANN",1984 Los Angeles,Rowing,Men's,quadruple sculls without coxswain
+Summer,1984,Silver,AUS,Australia,"Anthony LOVRICH, Gary GULLOCK, Timothy MCLAREN, Paul REEDY",1984 Los Angeles,Rowing,Men's,quadruple sculls without coxswain
+Summer,1984,Bronze,CAN,Canada,"Michael HUGHES, Bruce FORD, Douglas HAMILTON, Philip MONCKTON",1984 Los Angeles,Rowing,Men's,quadruple sculls without coxswain
+Summer,1984,Gold,NZL,New Zealand,"Leslie O'CONNELL, Conrad ROBERTSON, Shane O'Brien, Keith TRASK",1984 Los Angeles,Rowing,Men's,four without coxswain (4-)
+Summer,1984,Silver,USA,United States,"Philip William STEKL, David Robert CLARK, Alan Michael FORNEY, Jonathan S. SMITH",1984 Los Angeles,Rowing,Men's,four without coxswain (4-)
+Summer,1984,Bronze,DEN,Denmark,"Michael JESSEN, Per RASMUSSEN, Lars NIELSEN, Erik CHRISTIANSEN",1984 Los Angeles,Rowing,Men's,four without coxswain (4-)
+Summer,1984,Gold,GBR,Great Britain,"Martin CROSS, Andrew John HOLMES, Adrian Charles ELLISON, Richard Gordon M. BUDGETT, Steven REDGRAVE",1984 Los Angeles,Rowing,Men's,four-oared shell with coxswain
+Summer,1984,Silver,USA,United States,"Gregory T. SPRINGER, Edward Ashley IVES, Thomas Nisbit KIEFER, Michael BACH, John Stuart STILLINGS",1984 Los Angeles,Rowing,Men's,four-oared shell with coxswain
+Summer,1984,Bronze,NZL,New Zealand,"Kevin LAWTON, Barrie MABBOTT, Brett HOLLISTER, Donald SYMON, Ross TONG",1984 Los Angeles,Rowing,Men's,four-oared shell with coxswain
+Summer,1984,Gold,CAN,Canada,"Kevin NEUFELD, Gerald Grant MAIN, Michael EVANS, Blair HORM, Patrick TURNER, Marc EVANS, Paul STEELE, Dean CRAWFORD, Robert Brian MCMAHON",1984 Los Angeles,Rowing,Men's,eight with coxswain (8+)
+Summer,1984,Silver,USA,United States,"Robert C. JAUGSTETTER, Walter Harry Jr. LUBSEN, John Richard TERWILLIGER, Thomas Ward DARLING, Charles Elmer III. CLAPP, Bruce Bernard IBBETSON, Andrew Hancock SUDDUTH, Christopher Gore PENNY, Earl Frederick BORCHERT",1984 Los Angeles,Rowing,Men's,eight with coxswain (8+)
+Summer,1984,Bronze,AUS,Australia,"Clyde HEFER, Timothy WILLOUGHBY, James BATTERSBY, Stephen EVANS, Craig MULLER, Samuel PATTEN, Ian EDMUNDS, Ion POPA, Gavin THREDGOLD",1984 Los Angeles,Rowing,Men's,eight with coxswain (8+)
+Summer,1984,Gold,ROU,Romania,Valeria ROSCA-RASILA,1984 Los Angeles,Rowing,Women's,single sculls (1x)
+Summer,1984,Silver,USA,United States,Charlotte Mosher GEER,1984 Los Angeles,Rowing,Women's,single sculls (1x)
+Summer,1984,Bronze,BEL,Belgium,Ann HAESEBROUCK,1984 Los Angeles,Rowing,Women's,single sculls (1x)
+Summer,1984,Gold,ROU,Romania,"Marioara POPESCU, Elisabeta LIPA",1984 Los Angeles,Rowing,Women's,double sculls (2x)
+Summer,1984,Silver,NED,Netherlands,"Greet HELLEMANS, Nicolette HELLEMANS",1984 Los Angeles,Rowing,Women's,double sculls (2x)
+Summer,1984,Bronze,CAN,Canada,"Daniele LAUMANN, Silken Suzette LAUMANN",1984 Los Angeles,Rowing,Women's,double sculls (2x)
+Summer,1984,Gold,ROU,Romania,"Rodica PUSCATU-ARBA, Elena OPREA-HORVAT",1984 Los Angeles,Rowing,Women's,pair without coxswain (2-)
+Summer,1984,Silver,CAN,Canada,"Elizabeth CRAIG, Patricia SMITH",1984 Los Angeles,Rowing,Women's,pair without coxswain (2-)
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Ellen BECKER, Iris VOLKNER",1984 Los Angeles,Rowing,Women's,pair without coxswain (2-)
+Summer,1984,Gold,ROU,Romania,"Titie TARAN, Ioana BADEA, Ecaterina OANCIA, Anisoara SOROHAN-MINEA, Sofia CORBAN",1984 Los Angeles,Rowing,Women's,quadruple sculls with coxswain
+Summer,1984,Silver,USA,United States,"Lisa Diane ROHDE, Virginia Marie GILDER, Anne R. MARDEN, Joan Louise LIND, Kelly Anne RICKON",1984 Los Angeles,Rowing,Women's,quadruple sculls with coxswain
+Summer,1984,Bronze,DEN,Denmark,"Hanne Mandsfeldt ERIKSEN, Inger Charlotte KOEFOED, Jette Hejli SORENSEN, Birgitte HANEL, Bodil Steen RASMUSSEN",1984 Los Angeles,Rowing,Women's,quadruple sculls with coxswain
+Summer,1984,Gold,ROU,Romania,"Maria TANASA-FRICIOIU, Olga HOMEGHI-BULARDA, Florica LAVRIC, Chira APOSTOL, Viorica IOJA",1984 Los Angeles,Rowing,Women's,four-oared shell with coxswain
+Summer,1984,Silver,CAN,Canada,"Marilyn BRAIN, Barbara ARMBRUST, Lesley Allison THOMPSON, Angela SCHNEIDER, Jane TREGUNNO",1984 Los Angeles,Rowing,Women's,four-oared shell with coxswain
+Summer,1984,Bronze,AUS,Australia,"Karen BRANCOURT-POLLOCK, Margot FOSTER, Robyn GREY-GARDNER, Susan CHAPMAN-POPA, Susan LEE",1984 Los Angeles,Rowing,Women's,four-oared shell with coxswain
+Summer,1984,Gold,USA,United States,"Shyril O'STEEN, Caroll Ann BOWER, Jeanne Ann FLANAGAN, Kristen Joy THORSSNESS, Elizabeth Ann BEARD, Harriet Morris METCALF, Carolyn Brand GRAVES, Kristine Lee NORELIUS, Kathryn Elliott KEELER",1984 Los Angeles,Rowing,Women's,eight with coxswain (8+)
+Summer,1984,Silver,ROU,Romania,"Marioara TRASCA, Aneta MIHALY, Mihaela ARMASESCU, Lucia SAUCA, Doina Lilian BALAN-SNEP, Aurora PLESCA, Adriana BAZON, Camelia DIACONESCU, Viorica IOJA",1984 Los Angeles,Rowing,Women's,eight with coxswain (8+)
+Summer,1984,Bronze,NED,Netherlands,"Catalien NEELISSEN, Martha LAURIJSEN, Nicolette HELLEMANS, Harriet VAN ETTEKOVEN, Marieke VAN DROGENBROEK, Anne-Marie QUIST, Willemientje VAANDRAGER, Lynda CORNET, Greet HELLEMANS",1984 Los Angeles,Rowing,Women's,eight with coxswain (8+)
+Summer,1984,Gold,NED,Netherlands,Stephan van den BERG,1984 Los Angeles,Sailing,Men's,board (windglider)
+Summer,1984,Silver,USA,United States,Scott STEELE,1984 Los Angeles,Sailing,Men's,board (windglider)
+Summer,1984,Bronze,NZL,New Zealand,Bruce KENDALL,1984 Los Angeles,Sailing,Men's,board (windglider)
+Summer,1984,Gold,NZL,New Zealand,Russell COUTTS,1984 Los Angeles,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1984,Silver,USA,United States,John Joseph BERTRAND,1984 Los Angeles,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1984,Bronze,CAN,Canada,Terence NEILSON,1984 Los Angeles,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1984,Gold,ESP,Spain,"Roberto MOLINA CARRASCO, Luis DORESTE",1984 Los Angeles,Sailing,Men's,470 - Two Person Dinghy
+Summer,1984,Silver,USA,United States,"Hans Christopher STEINFELD, Stephen Delancey BENJAMIN",1984 Los Angeles,Sailing,Men's,470 - Two Person Dinghy
+Summer,1984,Bronze,FRA,France,"Luc PILLOT, Thierry PEPONNET",1984 Los Angeles,Sailing,Men's,470 - Two Person Dinghy
+Summer,1984,Gold,NZL,New Zealand,"Rex Samuel SELLERS, Christopher TIMMS",1984 Los Angeles,Sailing,Mixed,Tornado - Multihull
+Summer,1984,Silver,USA,United States,"Randy SMYTH, Jay GLASER",1984 Los Angeles,Sailing,Mixed,Tornado - Multihull
+Summer,1984,Bronze,AUS,Australia,"Christopher CAIRNS, John Scott ANDERSON",1984 Los Angeles,Sailing,Mixed,Tornado - Multihull
+Summer,1984,Gold,USA,United States,"William E. Sr. BUCHAN, Steven Richard ERICKSON",1984 Los Angeles,Sailing,Mixed,two-person keelboat (Star)
+Summer,1984,Silver,FRG,Federal Republic of Germany,"Joachim GRIESE, Michael MARCOUR",1984 Los Angeles,Sailing,Mixed,two-person keelboat (Star)
+Summer,1984,Bronze,ITA,Italy,"Giorgio GORLA, Alfio PERABONI",1984 Los Angeles,Sailing,Mixed,two-person keelboat (Star)
+Summer,1984,Gold,USA,United States,"Jonathan Dunn MCKEE, William Carl Jr. BUCHAN",1984 Los Angeles,Sailing,Mixed,flying dutchman
+Summer,1984,Silver,CAN,Canada,"Terence MCLAUGHLIN, Evert BASTET",1984 Los Angeles,Sailing,Mixed,flying dutchman
+Summer,1984,Bronze,GBR,Great Britain,"Jonathan RICHARDS, Peter Frank ALLAM",1984 Los Angeles,Sailing,Mixed,flying dutchman
+Summer,1984,Gold,USA,United States,"Edward TREVELYAN, Robert Bentley Jr. HAINES, Roderick Hopkins DAVIS",1984 Los Angeles,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1984,Silver,BRA,Brazil,"Torben GRAEL, Ronaldo SENFFT, Daniel ADLER",1984 Los Angeles,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1984,Bronze,CAN,Canada,"John KERR, Hans Marius FOGH, Stephen CALDER",1984 Los Angeles,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1984,Gold,FRA,France,Philippe HEBERLE,1984 Los Angeles,Shooting,Men's,10m air rifle
+Summer,1984,Silver,AUT,Austria,Andreas KRONTHALER,1984 Los Angeles,Shooting,Men's,10m air rifle
+Summer,1984,Bronze,GBR,Great Britain,Barry Edward DAGGER,1984 Los Angeles,Shooting,Men's,10m air rifle
+Summer,1984,Gold,CHN,China,Haifeng XU,1984 Los Angeles,Shooting,Men's,50m pistol
+Summer,1984,Silver,SWE,Sweden,Ragnar SKANÄKER,1984 Los Angeles,Shooting,Men's,50m pistol
+Summer,1984,Bronze,CHN,China,Yifu WANG,1984 Los Angeles,Shooting,Men's,50m pistol
+Summer,1984,Gold,GBR,Great Britain,Malcolm Douglas COOPER,1984 Los Angeles,Shooting,Men's,50m rifle 3 positions
+Summer,1984,Silver,SUI,Switzerland,Daniel NIPKOV,1984 Los Angeles,Shooting,Men's,50m rifle 3 positions
+Summer,1984,Bronze,GBR,Great Britain,Alister Millar ALLAN,1984 Los Angeles,Shooting,Men's,50m rifle 3 positions
+Summer,1984,Gold,USA,United States,Edward ETZEL,1984 Los Angeles,Shooting,Men's,50m rifle prone
+Summer,1984,Silver,FRA,France,Michel BURY,1984 Los Angeles,Shooting,Men's,50m rifle prone
+Summer,1984,Bronze,GBR,Great Britain,Michael SULLIVAN,1984 Los Angeles,Shooting,Men's,50m rifle prone
+Summer,1984,Gold,CHN,China,Yu-Wei LI,1984 Los Angeles,Shooting,Men's,50m running target
+Summer,1984,Silver,COL,Colombia,Helmut BELLINGRODT,1984 Los Angeles,Shooting,Men's,50m running target
+Summer,1984,Bronze,CHN,China,Shi-Ping HUANG,1984 Los Angeles,Shooting,Men's,50m running target
+Summer,1984,Gold,JPN,Japan,Takeo KAMACHI,1984 Los Angeles,Shooting,Men's,25m rapid fire pistol
+Summer,1984,Silver,ROU,Romania,Corneliu ION,1984 Los Angeles,Shooting,Men's,25m rapid fire pistol
+Summer,1984,Bronze,FIN,Finland,Rauno BIES,1984 Los Angeles,Shooting,Men's,25m rapid fire pistol
+Summer,1984,Gold,USA,United States,Karen Patricia SPURGIN,1984 Los Angeles,Shooting,Women's,10m air rifle
+Summer,1984,Silver,ITA,Italy,Edith GUFLER,1984 Los Angeles,Shooting,Women's,10m air rifle
+Summer,1984,Bronze,CHN,China,Xiao-Xuan WU,1984 Los Angeles,Shooting,Women's,10m air rifle
+Summer,1984,Gold,CAN,Canada,Linda THOM,1984 Los Angeles,Shooting,Women's,25m pistol
+Summer,1984,Silver,USA,United States,Ruby Ellen FOX,1984 Los Angeles,Shooting,Women's,25m pistol
+Summer,1984,Bronze,AUS,Australia,Patricia DENCH,1984 Los Angeles,Shooting,Women's,25m pistol
+Summer,1984,Gold,CHN,China,Xiao-Xuan WU,1984 Los Angeles,Shooting,Women's,50m rifle 3 positions
+Summer,1984,Silver,FRG,Federal Republic of Germany,Ulrike HOLMER,1984 Los Angeles,Shooting,Women's,50m rifle 3 positions
+Summer,1984,Bronze,USA,United States,Wanda Rae JEWELL,1984 Los Angeles,Shooting,Women's,50m rifle 3 positions
+Summer,1984,Gold,ITA,Italy,Luciano GIOVANNETTI,1984 Los Angeles,Shooting,Mixed,Trap
+Summer,1984,Silver,PER,Peru,Francisco BOZA,1984 Los Angeles,Shooting,Mixed,Trap
+Summer,1984,Bronze,USA,United States,Daniel Thomas CARLISLE,1984 Los Angeles,Shooting,Mixed,Trap
+Summer,1984,Gold,USA,United States,Matthew Alexander DRYKE,1984 Los Angeles,Shooting,Mixed,Skeet
+Summer,1984,Silver,DEN,Denmark,Ole Riber RASMUSSEN,1984 Los Angeles,Shooting,Mixed,Skeet
+Summer,1984,Bronze,ITA,Italy,Luca SCRIBANI ROSSI,1984 Los Angeles,Shooting,Mixed,Skeet
+Summer,1984,Gold,USA,United States,Ambrose Iv GAINES,1984 Los Angeles,Swimming,Men's,100m freestyle
+Summer,1984,Silver,AUS,Australia,Marcus STOCKWELL,1984 Los Angeles,Swimming,Men's,100m freestyle
+Summer,1984,Bronze,SWE,Sweden,Per JOHANSSON,1984 Los Angeles,Swimming,Men's,100m freestyle
+Summer,1984,Gold,FRG,Federal Republic of Germany,Michael GROSS,1984 Los Angeles,Swimming,Men's,200m freestyle
+Summer,1984,Silver,USA,United States,Michael Steward HEATH,1984 Los Angeles,Swimming,Men's,200m freestyle
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Thomas FAHRNER,1984 Los Angeles,Swimming,Men's,200m freestyle
+Summer,1984,Gold,USA,United States,George Thomas DICARLO,1984 Los Angeles,Swimming,Men's,400m freestyle
+Summer,1984,Silver,USA,United States,John Cary MYKKANEN,1984 Los Angeles,Swimming,Men's,400m freestyle
+Summer,1984,Bronze,AUS,Australia,Justin LEMBERG,1984 Los Angeles,Swimming,Men's,400m freestyle
+Summer,1984,Gold,USA,United States,Michael Jon O'BRIEN,1984 Los Angeles,Swimming,Men's,1500m freestyle
+Summer,1984,Silver,USA,United States,George Thomas DICARLO,1984 Los Angeles,Swimming,Men's,1500m freestyle
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Stefan PFEIFFER,1984 Los Angeles,Swimming,Men's,1500m freestyle
+Summer,1984,Gold,USA,United States,"Christopher Carl CAVANAUGH, Matthew BIONDI, Michael Steward HEATH, Ambrose Iv GAINES",1984 Los Angeles,Swimming,Men's,4x100m freestyle relay
+Summer,1984,Silver,AUS,Australia,"Michael DELANY, Gregory FASALA, Marcus STOCKWELL, Neil BROOKS",1984 Los Angeles,Swimming,Men's,4x100m freestyle relay
+Summer,1984,Bronze,SWE,Sweden,"Thomas LEJDSTROM, Mikael ORN, Bengt BARON, Per JOHANSSON",1984 Los Angeles,Swimming,Men's,4x100m freestyle relay
+Summer,1984,Gold,USA,United States,"Lawrence Bruce HAYES, David Erwin LARSON, Michael Steward HEATH, Jeffrey James FLOAT",1984 Los Angeles,Swimming,Men's,4x200m freestyle relay
+Summer,1984,Silver,FRG,Federal Republic of Germany,"Thomas FAHRNER, Alexander SCHOWTKA, Dirk KORTHALS, Michael GROSS",1984 Los Angeles,Swimming,Men's,4x200m freestyle relay
+Summer,1984,Bronze,GBR,Great Britain,"Neil COCHRAN, Paul Tony HOWE, Paul Robert EASTER, Andrew ASTBURY",1984 Los Angeles,Swimming,Men's,4x200m freestyle relay
+Summer,1984,Gold,USA,United States,Steven K. LUNDQUIST,1984 Los Angeles,Swimming,Men's,100m breaststroke
+Summer,1984,Silver,CAN,Canada,Victor DAVIS,1984 Los Angeles,Swimming,Men's,100m breaststroke
+Summer,1984,Bronze,AUS,Australia,Peter EVANS,1984 Los Angeles,Swimming,Men's,100m breaststroke
+Summer,1984,Gold,CAN,Canada,Victor DAVIS,1984 Los Angeles,Swimming,Men's,200m breaststroke
+Summer,1984,Silver,AUS,Australia,Glenn BERINGEN,1984 Los Angeles,Swimming,Men's,200m breaststroke
+Summer,1984,Bronze,SUI,Switzerland,Etienne DAGON,1984 Los Angeles,Swimming,Men's,200m breaststroke
+Summer,1984,Gold,FRG,Federal Republic of Germany,Michael GROSS,1984 Los Angeles,Swimming,Men's,100m butterfly
+Summer,1984,Silver,USA,United States,Pablo MORALES,1984 Los Angeles,Swimming,Men's,100m butterfly
+Summer,1984,Bronze,AUS,Australia,Glenn BUCHANAN,1984 Los Angeles,Swimming,Men's,100m butterfly
+Summer,1984,Gold,AUS,Australia,Jonathan SIEBEN,1984 Los Angeles,Swimming,Men's,200m butterfly
+Summer,1984,Silver,FRG,Federal Republic of Germany,Michael GROSS,1984 Los Angeles,Swimming,Men's,200m butterfly
+Summer,1984,Bronze,VEN,Venezuela,Rafael Antonio VIDAL CASTRO,1984 Los Angeles,Swimming,Men's,200m butterfly
+Summer,1984,Gold,USA,United States,Richard John CAREY,1984 Los Angeles,Swimming,Men's,100m backstroke
+Summer,1984,Silver,USA,United States,David Dennis WILSON,1984 Los Angeles,Swimming,Men's,100m backstroke
+Summer,1984,Bronze,CAN,Canada,Michael WEST,1984 Los Angeles,Swimming,Men's,100m backstroke
+Summer,1984,Gold,USA,United States,Richard John CAREY,1984 Los Angeles,Swimming,Men's,200m backstroke
+Summer,1984,Silver,FRA,France,Frederic DELCOURT,1984 Los Angeles,Swimming,Men's,200m backstroke
+Summer,1984,Bronze,CAN,Canada,Cameron HENNING,1984 Los Angeles,Swimming,Men's,200m backstroke
+Summer,1984,Gold,CAN,Canada,Alexander BAUMANN,1984 Los Angeles,Swimming,Men's,200m individual medley
+Summer,1984,Silver,USA,United States,Pablo MORALES,1984 Los Angeles,Swimming,Men's,200m individual medley
+Summer,1984,Bronze,GBR,Great Britain,Neil COCHRAN,1984 Los Angeles,Swimming,Men's,200m individual medley
+Summer,1984,Gold,CAN,Canada,Alexander BAUMANN,1984 Los Angeles,Swimming,Men's,400m individual medley
+Summer,1984,Silver,BRA,Brazil,Ricardo PRADO,1984 Los Angeles,Swimming,Men's,400m individual medley
+Summer,1984,Bronze,AUS,Australia,Robert WOODHOUSE,1984 Los Angeles,Swimming,Men's,400m individual medley
+Summer,1984,Gold,USA,United States,"Pablo MORALES, Richard John CAREY, Ambrose Iv GAINES, Steven K. LUNDQUIST",1984 Los Angeles,Swimming,Men's,4x100m medley relay
+Summer,1984,Silver,CAN,Canada,"Thomas PONTING, Michael WEST, Donald Alexander GOSS, Victor DAVIS",1984 Los Angeles,Swimming,Men's,4x100m medley relay
+Summer,1984,Bronze,AUS,Australia,"Mark KERRY, Glenn BUCHANAN, Peter EVANS, Marcus STOCKWELL",1984 Los Angeles,Swimming,Men's,4x100m medley relay
+Summer,1984,Gold,USA,United States,Carolyn STEINSEIFER,1984 Los Angeles,Swimming,Women's,100m freestyle
+Summer,1984,Gold,USA,United States,Nancy Lynn HOGSHEAD,1984 Los Angeles,Swimming,Women's,100m freestyle
+Summer,1984,Bronze,NED,Netherlands,Annemarie VERSTAPPEN,1984 Los Angeles,Swimming,Women's,100m freestyle
+Summer,1984,Gold,USA,United States,Mary Alice WAYTE,1984 Los Angeles,Swimming,Women's,200m freestyle
+Summer,1984,Silver,USA,United States,Cynthia Lee WOODHEAD,1984 Los Angeles,Swimming,Women's,200m freestyle
+Summer,1984,Bronze,NED,Netherlands,Annemarie VERSTAPPEN,1984 Los Angeles,Swimming,Women's,200m freestyle
+Summer,1984,Gold,USA,United States,Tiffany Lisa COHEN,1984 Los Angeles,Swimming,Women's,400m freestyle
+Summer,1984,Silver,GBR,Great Britain,Sarah HARDCASTLE,1984 Los Angeles,Swimming,Women's,400m freestyle
+Summer,1984,Bronze,GBR,Great Britain,June CROFT,1984 Los Angeles,Swimming,Women's,400m freestyle
+Summer,1984,Gold,USA,United States,Tiffany Lisa COHEN,1984 Los Angeles,Swimming,Women's,800m freestyle
+Summer,1984,Silver,USA,United States,Michele RICHARDSON,1984 Los Angeles,Swimming,Women's,800m freestyle
+Summer,1984,Bronze,GBR,Great Britain,Sarah HARDCASTLE,1984 Los Angeles,Swimming,Women's,800m freestyle
+Summer,1984,Gold,USA,United States,"Carolyn STEINSEIFER, Nancy Lynn HOGSHEAD, Jenna Leigh JOHNSON, Dara TORRES",1984 Los Angeles,Swimming,Women's,4x100m freestyle relay
+Summer,1984,Silver,NED,Netherlands,"Conny VAN BENTUM, Annemarie VERSTAPPEN, Desi REIJERS, Elles VOSKES",1984 Los Angeles,Swimming,Women's,4x100m freestyle relay
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Iris ZSCHERPE, Christiane PIELKE, Susanne SCHUSTER, Karin SEICK",1984 Los Angeles,Swimming,Women's,4x100m freestyle relay
+Summer,1984,Gold,NED,Netherlands,Petra VAN STAVEREN,1984 Los Angeles,Swimming,Women's,100m breaststroke
+Summer,1984,Silver,CAN,Canada,Anne OTTENBRITE,1984 Los Angeles,Swimming,Women's,100m breaststroke
+Summer,1984,Bronze,FRA,France,Catherine POIROT,1984 Los Angeles,Swimming,Women's,100m breaststroke
+Summer,1984,Gold,CAN,Canada,Anne OTTENBRITE,1984 Los Angeles,Swimming,Women's,200m breaststroke
+Summer,1984,Silver,USA,United States,Susan Gerard RAPP,1984 Los Angeles,Swimming,Women's,200m breaststroke
+Summer,1984,Bronze,BEL,Belgium,Ingrid LEMPEREUR,1984 Los Angeles,Swimming,Women's,200m breaststroke
+Summer,1984,Gold,USA,United States,Mary T. MEAGHER,1984 Los Angeles,Swimming,Women's,100m butterfly
+Summer,1984,Silver,USA,United States,Jenna Leigh JOHNSON,1984 Los Angeles,Swimming,Women's,100m butterfly
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Karin SEICK,1984 Los Angeles,Swimming,Women's,100m butterfly
+Summer,1984,Gold,USA,United States,Mary T. MEAGHER,1984 Los Angeles,Swimming,Women's,200m butterfly
+Summer,1984,Silver,AUS,Australia,Karen PHILLIPS,1984 Los Angeles,Swimming,Women's,200m butterfly
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Ina BEYERMANN,1984 Los Angeles,Swimming,Women's,200m butterfly
+Summer,1984,Gold,USA,United States,Theresa ANDREWS,1984 Los Angeles,Swimming,Women's,100m backstroke
+Summer,1984,Silver,USA,United States,Elizabeth MITCHELL,1984 Los Angeles,Swimming,Women's,100m backstroke
+Summer,1984,Bronze,NED,Netherlands,Jolanda DE ROVER,1984 Los Angeles,Swimming,Women's,100m backstroke
+Summer,1984,Gold,NED,Netherlands,Jolanda DE ROVER,1984 Los Angeles,Swimming,Women's,200m backstroke
+Summer,1984,Silver,USA,United States,Amy Lee WHITE,1984 Los Angeles,Swimming,Women's,200m backstroke
+Summer,1984,Bronze,ROU,Romania,Aneta PATRASCOIU,1984 Los Angeles,Swimming,Women's,200m backstroke
+Summer,1984,Gold,USA,United States,Tracy Anne CAULKINS,1984 Los Angeles,Swimming,Women's,200m individual medley
+Summer,1984,Silver,USA,United States,Nancy Lynn HOGSHEAD,1984 Los Angeles,Swimming,Women's,200m individual medley
+Summer,1984,Bronze,AUS,Australia,Michelle PEARSON,1984 Los Angeles,Swimming,Women's,200m individual medley
+Summer,1984,Gold,USA,United States,Tracy Anne CAULKINS,1984 Los Angeles,Swimming,Women's,400m individual medley
+Summer,1984,Silver,AUS,Australia,Suzanne LANDELLS,1984 Los Angeles,Swimming,Women's,400m individual medley
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Petra ZINDLER,1984 Los Angeles,Swimming,Women's,400m individual medley
+Summer,1984,Gold,USA,United States,"Theresa ANDREWS, Mary T. MEAGHER, Tracy Anne CAULKINS, Nancy Lynn HOGSHEAD",1984 Los Angeles,Swimming,Women's,4x100m medley relay
+Summer,1984,Silver,FRG,Federal Republic of Germany,"Ina BEYERMANN, Svenja SCHLICHT, Karin SEICK, Ute HASSE",1984 Los Angeles,Swimming,Women's,4x100m medley relay
+Summer,1984,Bronze,CAN,Canada,"Reema ABDO, Michelle MAC PHERSON, Anne OTTENBRITE, Pamela RAI",1984 Los Angeles,Swimming,Women's,4x100m medley relay
+Summer,1984,Gold,USA,United States,"Craig Werner BUCK, Christian MARLOWE, Richard Lloyd DUWELIUS, Aldis Imants BERZINS, Charles KIRALY, David Patrick SAUNDERS, Mark WALDIE, Paul Benedict SUNDERLAND, Steve Dennis TIMMONS, Patrick Robert POWERS, Douglas Scott DVORAK, Steven Edward SALMONS",1984 Los Angeles,Volleyball,Men's,volleyball
+Summer,1984,Silver,BRA,Brazil,"Mario Xando OLIVEIRA NEGO, William Carvalho CARVALHO DA SILVA, Marcus FREIRE, Rui CAMPOS NASCIMENTO, Domingo LAMPARIELLO NETO, Fernando DE AVILA, Bernardo Rocha ROCHA REZENDE, Antonio RIBEIRO, Amauri RIBEIRO, Jose MONTANARO, Renan DAL ZOTTO, Bernard RAJZMAN",1984 Los Angeles,Volleyball,Men's,volleyball
+Summer,1984,Bronze,ITA,Italy,"Pier Paolo LUCCHETTA, Giovanni ERRICHIELLO, Fabio VULLO, Paolo VECCHI, Franco BERTOLI, Piero REBAUDENGO, Marco NEGRI, Giancarlo DAMETTO, Guido DE LUIGI, Giovanni LANFRANCO, Andrea LUCCHETTA, Grancesco DALL'OLIO",1984 Los Angeles,Volleyball,Men's,volleyball
+Summer,1984,Gold,CHN,China,"Ling ZHU, Ying JIANG, Xiao-Jun YANG, Xi-Lan YANG, Mei-Zhu ZHENG, Ping LANG, Yan LIANG, Yu-Zhu HOU, Yan-Jun LI, Xiao-Lan ZHOU, Huijuan SU, Rong-Fang ZHANG",1984 Los Angeles,Volleyball,Women's,volleyball
+Summer,1984,Silver,USA,United States,"Rita Louise CROCKETT, Julie J. VOLLERTSEN, Kimberly Grace RUDDINS, Carolyn Marie BECKER, Rose Mary MAGERS, Linda Rae CHISHOLM, Laura Jean FLACHMEIER, Deborah GREEN, Paula Jo WEISHOFF, Flora Jean HYMAN, Jeanne Marie BEAUPREY, Susan Jean WOODSTRA",1984 Los Angeles,Volleyball,Women's,volleyball
+Summer,1984,Bronze,JPN,Japan,"Yuko MITSUYA, Kayoko SUGIYAMA, Keiko MIYAJIMA, Yoko KAGABU, Emiko ODAKA, Kyoko ISHIDA, Kimie MORITA, Miyoko HIROSE, Sachiko OTANI, Yumi EGAMI, Norie HIRO, Kumi NAKADA",1984 Los Angeles,Volleyball,Women's,volleyball
+Summer,1984,Gold,YUG,Yugoslavia,"Milorad KRIVOKAPIC, Zoran PETROVIC, Veselin DJUHO, Milivoj BEBIC, Goran SUKNO, Igor MILANOVIC, Andrija POPOVIC, Deni LUSIC, Bozo VULETIC, Zoran ROJE, Perica BUKIC, Tomislav PASKVALIN, Dragan ANDRIC",1984 Los Angeles,Water Polo,Men's,water polo
+Summer,1984,Silver,USA,United States,"Kevin George ROBERTSON, George Peter CAMPBELL, Joseph Michael VARGAS, John O'Connell SIMAN, Terence Alan SCHROEDER, Timothy Andrew SHAW, Craig Martin WILSON, Gary Lee FIGUEROA, Douglas Lambert BURKE, Jon Howard SVENDSEN, Andrew J. MCDONALD, Jodocus David CAMPBELL, Christopher Taylor DORST",1984 Los Angeles,Water Polo,Men's,water polo
+Summer,1984,Bronze,FRG,Federal Republic of Germany,"Frank OTTO, Armando FERNANDEZ, Jurgen SCHRODER, Hagen STAMM, Dirk THEISMANN, Werner OBSCHERNIKAT, Peter RÖHLE, Rainer HOPPE, Thomas HUBER, Rainer OSSELMANN, Roland FREUND, Santiago CHALMOWSKY, Thomas LOEBB",1984 Los Angeles,Water Polo,Men's,water polo
+Summer,1984,Gold,CHN,China,Guo-Qiang ZENG,1984 Los Angeles,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1984,Silver,CHN,China,Pei-Shun ZHOU,1984 Los Angeles,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1984,Bronze,JPN,Japan,Kazushito MANABE,1984 Los Angeles,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1984,Gold,CHN,China,Shu-De WU,1984 Los Angeles,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1984,Silver,CHN,China,Run-Ming LAI,1984 Los Angeles,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1984,Bronze,JPN,Japan,Masahiro KOTAKA,1984 Los Angeles,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1984,Gold,CHN,China,Wei-Qiang CHEN,1984 Los Angeles,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1984,Silver,ROU,Romania,Gelu RADU,1984 Los Angeles,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1984,Bronze,TPE,Chinese Taipei,Wen-Yee TSAI,1984 Los Angeles,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1984,Gold,CHN,China,Jing-Yuan YAO,1984 Los Angeles,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1984,Silver,ROU,Romania,Andrei SOCACI,1984 Los Angeles,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1984,Bronze,FIN,Finland,Jouni Johannes GRONMAN,1984 Los Angeles,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1984,Gold,FRG,Federal Republic of Germany,Karl-Heinz RADSCHINSKY,1984 Los Angeles,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1984,Silver,CAN,Canada,Jacques DEMERS,1984 Los Angeles,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1984,Bronze,ROU,Romania,Dragomir CIOROSLAN,1984 Los Angeles,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1984,Gold,ROU,Romania,Petre BECHERU,1984 Los Angeles,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1984,Silver,AUS,Australia,Robert KABBAS,1984 Los Angeles,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1984,Bronze,JPN,Japan,Ryoji ISAOKA,1984 Los Angeles,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1984,Gold,ROU,Romania,Nicu VLAD,1984 Los Angeles,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1984,Silver,ROU,Romania,Dumitru PETRE,1984 Los Angeles,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1984,Bronze,GBR,Great Britain,David MERCER,1984 Los Angeles,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1984,Gold,FRG,Federal Republic of Germany,Rolf MILSER,1984 Los Angeles,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1984,Silver,ROU,Romania,Vasile GROAPA,1984 Los Angeles,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1984,Bronze,FIN,Finland,Pekka NIEMI,1984 Los Angeles,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1984,Gold,ITA,Italy,Norberto OBERBURGER,1984 Los Angeles,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1984,Silver,ROU,Romania,Stefan TASNADI,1984 Los Angeles,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1984,Bronze,USA,United States,Guy Albert CARLTON,1984 Los Angeles,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1984,Gold,AUS,Australia,Dinko LUKIN,1984 Los Angeles,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1984,Silver,USA,United States,Mario MARTINEZ,1984 Los Angeles,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1984,Bronze,FRG,Federal Republic of Germany,Manfred NERLINGER,1984 Los Angeles,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1984,Gold,USA,United States,Robert Brooks WEAVER,1984 Los Angeles,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1984,Silver,JPN,Japan,Takashi IRIE,1984 Los Angeles,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1984,Bronze,KOR,Korea Republic,Gab-Do SON,1984 Los Angeles,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1984,Gold,YUG,Yugoslavia,Saban TRSTENA,1984 Los Angeles,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1984,Silver,KOR,Korea Republic,Jong-Kyu KIM,1984 Los Angeles,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1984,Bronze,JPN,Japan,Yuji TAKADA,1984 Los Angeles,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1984,Gold,JPN,Japan,Hideaki TOMIYAMA,1984 Los Angeles,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1984,Silver,USA,United States,Barry Alan DAVIS,1984 Los Angeles,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1984,Bronze,KOR,Korea Republic,Eui-Kon KIM,1984 Los Angeles,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1984,Gold,USA,United States,Randall Scott LEWIS,1984 Los Angeles,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1984,Silver,JPN,Japan,Kosei AKAISHI,1984 Los Angeles,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1984,Bronze,KOR,Korea Republic,Jung-Keun LEE,1984 Los Angeles,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1984,Gold,KOR,Korea Republic,In-Tak YOU,1984 Los Angeles,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1984,Silver,USA,United States,Andrew Roland REIN,1984 Los Angeles,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1984,Bronze,FIN,Finland,Jukka RAUHALA,1984 Los Angeles,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1984,Gold,USA,United States,David Leslie SCHULTZ,1984 Los Angeles,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1984,Silver,FRG,Federal Republic of Germany,Martin KNOSP,1984 Los Angeles,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1984,Bronze,YUG,Yugoslavia,Saban SEJDI,1984 Los Angeles,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1984,Gold,USA,United States,Mark Philip SCHULTZ,1984 Los Angeles,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1984,Silver,JPN,Japan,Hideyuki NAGASHIMA,1984 Los Angeles,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1984,Bronze,CAN,Canada,Christopher RINKE,1984 Los Angeles,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1984,Gold,USA,United States,Edward Joseph BANACH,1984 Los Angeles,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1984,Silver,JPN,Japan,Akira OTA,1984 Los Angeles,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1984,Bronze,GBR,Great Britain,Noel LOBAN,1984 Los Angeles,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1984,Gold,USA,United States,Louis David BANACH,1984 Los Angeles,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1984,Silver,SYR,Syria,Josep ATIYEH,1984 Los Angeles,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1984,Bronze,ROU,Romania,Vasile PUSCASU,1984 Los Angeles,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1984,Gold,USA,United States,Bruce Robert BAUMGARTNER,1984 Los Angeles,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1984,Silver,CAN,Canada,Robert MOLLE,1984 Los Angeles,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1984,Bronze,TUR,Turkey,Ayhan TASKIN,1984 Los Angeles,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1984,Gold,ITA,Italy,Vincenzo MAENZA,1984 Los Angeles,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1984,Silver,FRG,Federal Republic of Germany,Markus SCHERER,1984 Los Angeles,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1984,Bronze,JPN,Japan,Ikuzo SAITO,1984 Los Angeles,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1984,Gold,JPN,Japan,Atsuji MIYAHARA,1984 Los Angeles,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1984,Silver,MEX,Mexico,Daniel ACEVES,1984 Los Angeles,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1984,Bronze,KOR,Korea Republic,Dae-Du BANG,1984 Los Angeles,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1984,Gold,FRG,Federal Republic of Germany,Pasquale PASSARELLI,1984 Los Angeles,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1984,Silver,JPN,Japan,Masaki ETO,1984 Los Angeles,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1984,Bronze,GRE,Greece,Charalambos HOLIDIS,1984 Los Angeles,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1984,Gold,KOR,Korea Republic,Weon-Kee KIM,1984 Los Angeles,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1984,Silver,SWE,Sweden,Kent-Olle JOHANSSON,1984 Los Angeles,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1984,Bronze,SUI,Switzerland,Hugo DIETSCHE,1984 Los Angeles,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1984,Gold,YUG,Yugoslavia,Vlado LISJAK,1984 Los Angeles,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1984,Silver,FIN,Finland,Tapio SIPILA,1984 Los Angeles,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1984,Bronze,USA,United States,James Michael MARTINEZ,1984 Los Angeles,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1984,Gold,FIN,Finland,Jouko SALOMAKI,1984 Los Angeles,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1984,Silver,SWE,Sweden,Roger TALLROTH,1984 Los Angeles,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1984,Bronze,ROU,Romania,Stefan RUSU,1984 Los Angeles,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1984,Gold,ROU,Romania,Ion DRAICA,1984 Los Angeles,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1984,Silver,GRE,Greece,Demetrios THANOPOULOS,1984 Los Angeles,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1984,Bronze,SWE,Sweden,Soren CLAESON,1984 Los Angeles,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1984,Gold,USA,United States,Steven Howard FRASER,1984 Los Angeles,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1984,Silver,ROU,Romania,Ilie MATEI,1984 Los Angeles,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1984,Bronze,SWE,Sweden,Frank ANDERSSON,1984 Los Angeles,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1984,Gold,ROU,Romania,Vasile ANDREI,1984 Los Angeles,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1984,Silver,USA,United States,Gregory P. GIBSON,1984 Los Angeles,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1984,Bronze,YUG,Yugoslavia,Jozef TERTELIJE,1984 Los Angeles,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1984,Gold,USA,United States,Jeffrey Carl BLATNICK,1984 Los Angeles,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1984,Silver,YUG,Yugoslavia,Refik MEMISEVIC,1984 Los Angeles,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1984,Bronze,ROU,Romania,Victor DOLIPSCHI,1984 Los Angeles,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)

@@ -1,0 +1,973 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,2016,Gold,KOR,Korea Republic,KU Bonchan,2016 Rio de Janeiro,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2016,Silver,FRA,France,VALLADONT Jean-Charles,2016 Rio de Janeiro,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2016,Bronze,USA,United States,ELLISON Brady,2016 Rio de Janeiro,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2016,Gold,KOR,Korea Republic,Republic of Korea,2016 Rio de Janeiro,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2016,Silver,USA,United States,United States,2016 Rio de Janeiro,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2016,Bronze,AUS,Australia,Australia,2016 Rio de Janeiro,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2016,Gold,KOR,Korea Republic,CHANG Hyejin,2016 Rio de Janeiro,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2016,Silver,GER,Germany,UNRUH Lisa,2016 Rio de Janeiro,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2016,Bronze,KOR,Korea Republic,KI Bobae,2016 Rio de Janeiro,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2016,Gold,KOR,Korea Republic,Republic of Korea,2016 Rio de Janeiro,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2016,Silver,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2016,Bronze,TPE,Chinese Taipei,Taipei (Cn Taipei),2016 Rio de Janeiro,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2016,Gold,RUS,Russian Federation,"Ishchenko, Romashina",2016 Rio de Janeiro,Artistic Swimming,Women's,duet
+Summer,2016,Silver,CHN,China,"Huang, Sun",2016 Rio de Janeiro,Artistic Swimming,Women's,duet
+Summer,2016,Bronze,JPN,Japan,"Inui, Mitsui",2016 Rio de Janeiro,Artistic Swimming,Women's,duet
+Summer,2016,Gold,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Artistic Swimming,Women's,team
+Summer,2016,Silver,CHN,China,China,2016 Rio de Janeiro,Artistic Swimming,Women's,team
+Summer,2016,Bronze,JPN,Japan,Japan,2016 Rio de Janeiro,Artistic Swimming,Women's,team
+Summer,2016,Gold,JAM,Jamaica,BOLT Usain,2016 Rio de Janeiro,Athletics,Men's,100m
+Summer,2016,Silver,USA,United States,GATLIN Justin,2016 Rio de Janeiro,Athletics,Men's,100m
+Summer,2016,Bronze,CAN,Canada,DE GRASSE Andre,2016 Rio de Janeiro,Athletics,Men's,100m
+Summer,2016,Gold,JAM,Jamaica,BOLT Usain,2016 Rio de Janeiro,Athletics,Men's,200m
+Summer,2016,Silver,CAN,Canada,DE GRASSE Andre,2016 Rio de Janeiro,Athletics,Men's,200m
+Summer,2016,Bronze,FRA,France,LEMAITRE Christophe,2016 Rio de Janeiro,Athletics,Men's,200m
+Summer,2016,Gold,RSA,South Africa,VAN NIEKERK Wayde,2016 Rio de Janeiro,Athletics,Men's,400m
+Summer,2016,Silver,GRN,Grenada,JAMES Kirani,2016 Rio de Janeiro,Athletics,Men's,400m
+Summer,2016,Bronze,USA,United States,MERRITT Lashawn,2016 Rio de Janeiro,Athletics,Men's,400m
+Summer,2016,Gold,KEN,Kenya,RUDISHA David Lekuta,2016 Rio de Janeiro,Athletics,Men's,800m
+Summer,2016,Silver,ALG,Algeria,MAKHLOUFI Taoufik,2016 Rio de Janeiro,Athletics,Men's,800m
+Summer,2016,Bronze,USA,United States,MURPHY Clayton,2016 Rio de Janeiro,Athletics,Men's,800m
+Summer,2016,Gold,USA,United States,CENTROWITZ Matthew,2016 Rio de Janeiro,Athletics,Men's,1500m
+Summer,2016,Silver,ALG,Algeria,MAKHLOUFI Taoufik,2016 Rio de Janeiro,Athletics,Men's,1500m
+Summer,2016,Bronze,NZL,New Zealand,WILLIS Nicholas,2016 Rio de Janeiro,Athletics,Men's,1500m
+Summer,2016,Gold,GBR,Great Britain,FARAH Mohamed,2016 Rio de Janeiro,Athletics,Men's,5000m
+Summer,2016,Silver,USA,United States,CHELIMO Paul Kipkemoi,2016 Rio de Janeiro,Athletics,Men's,5000m
+Summer,2016,Bronze,ETH,Ethiopia,GEBRHIWET Hagos,2016 Rio de Janeiro,Athletics,Men's,5000m
+Summer,2016,Gold,GBR,Great Britain,FARAH Mohamed,2016 Rio de Janeiro,Athletics,Men's,10000m
+Summer,2016,Silver,KEN,Kenya,TANUI Paul Kipngetich,2016 Rio de Janeiro,Athletics,Men's,10000m
+Summer,2016,Bronze,ETH,Ethiopia,TOLA Tamirat,2016 Rio de Janeiro,Athletics,Men's,10000m
+Summer,2016,Gold,KEN,Kenya,KIPCHOGE Eliud,2016 Rio de Janeiro,Athletics,Men's,marathon
+Summer,2016,Silver,ETH,Ethiopia,LILESA Feyisa,2016 Rio de Janeiro,Athletics,Men's,marathon
+Summer,2016,Bronze,USA,United States,RUPP Galen,2016 Rio de Janeiro,Athletics,Men's,marathon
+Summer,2016,Gold,JAM,Jamaica,MCLEOD Omar,2016 Rio de Janeiro,Athletics,Men's,110m hurdles
+Summer,2016,Silver,ESP,Spain,ORTEGA Orlando,2016 Rio de Janeiro,Athletics,Men's,110m hurdles
+Summer,2016,Bronze,FRA,France,BASCOU Dimitri,2016 Rio de Janeiro,Athletics,Men's,110m hurdles
+Summer,2016,Gold,USA,United States,CLEMENT Kerron,2016 Rio de Janeiro,Athletics,Men's,400m hurdles
+Summer,2016,Silver,KEN,Kenya,TUMUTI Boniface Mucheru,2016 Rio de Janeiro,Athletics,Men's,400m hurdles
+Summer,2016,Bronze,TUR,Turkey,COPELLO Yasmani,2016 Rio de Janeiro,Athletics,Men's,400m hurdles
+Summer,2016,Gold,KEN,Kenya,KIPRUTO Conseslus,2016 Rio de Janeiro,Athletics,Men's,3000m steeplechase
+Summer,2016,Silver,USA,United States,JAGER Evan,2016 Rio de Janeiro,Athletics,Men's,3000m steeplechase
+Summer,2016,Bronze,FRA,France,MEKHISSI Mahiedine,2016 Rio de Janeiro,Athletics,Men's,3000m steeplechase
+Summer,2016,Gold,JAM,Jamaica,Jamaica,2016 Rio de Janeiro,Athletics,Men's,4x100m relay
+Summer,2016,Silver,JPN,Japan,Japan,2016 Rio de Janeiro,Athletics,Men's,4x100m relay
+Summer,2016,Bronze,CAN,Canada,Canada,2016 Rio de Janeiro,Athletics,Men's,4x100m relay
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Athletics,Men's,4x400m relay
+Summer,2016,Silver,JAM,Jamaica,Jamaica,2016 Rio de Janeiro,Athletics,Men's,4x400m relay
+Summer,2016,Bronze,BAH,Bahamas,Bahamas,2016 Rio de Janeiro,Athletics,Men's,4x400m relay
+Summer,2016,Gold,CHN,China,WANG Zhen,2016 Rio de Janeiro,Athletics,Men's,20km walk
+Summer,2016,Silver,CHN,China,CAI Zelin,2016 Rio de Janeiro,Athletics,Men's,20km walk
+Summer,2016,Bronze,AUS,Australia,BIRD-SMITH Dane,2016 Rio de Janeiro,Athletics,Men's,20km walk
+Summer,2016,Gold,SVK,Slovakia,TOTH Matej,2016 Rio de Janeiro,Athletics,Men's,50km walk
+Summer,2016,Silver,AUS,Australia,TALLENT Jared,2016 Rio de Janeiro,Athletics,Men's,50km walk
+Summer,2016,Bronze,JPN,Japan,ARAI Hirooki,2016 Rio de Janeiro,Athletics,Men's,50km walk
+Summer,2016,Gold,USA,United States,HENDERSON Jeff,2016 Rio de Janeiro,Athletics,Men's,long jump
+Summer,2016,Silver,RSA,South Africa,MANYONGA Luvo,2016 Rio de Janeiro,Athletics,Men's,long jump
+Summer,2016,Bronze,GBR,Great Britain,RUTHERFORD Greg,2016 Rio de Janeiro,Athletics,Men's,long jump
+Summer,2016,Gold,USA,United States,TAYLOR Christian,2016 Rio de Janeiro,Athletics,Men's,triple jump
+Summer,2016,Silver,USA,United States,CLAYE Will,2016 Rio de Janeiro,Athletics,Men's,triple jump
+Summer,2016,Bronze,CHN,China,DONG Bin,2016 Rio de Janeiro,Athletics,Men's,triple jump
+Summer,2016,Gold,CAN,Canada,DROUIN Derek,2016 Rio de Janeiro,Athletics,Men's,high jump
+Summer,2016,Silver,QAT,Qatar,BARSHIM Mutaz Essa,2016 Rio de Janeiro,Athletics,Men's,high jump
+Summer,2016,Bronze,UKR,Ukraine,BONDARENKO Bohdan,2016 Rio de Janeiro,Athletics,Men's,high jump
+Summer,2016,Gold,BRA,Brazil,DA SILVA Thiago Braz,2016 Rio de Janeiro,Athletics,Men's,pole vault
+Summer,2016,Silver,FRA,France,LAVILLENIE Renaud,2016 Rio de Janeiro,Athletics,Men's,pole vault
+Summer,2016,Bronze,USA,United States,KENDRICKS Sam,2016 Rio de Janeiro,Athletics,Men's,pole vault
+Summer,2016,Gold,USA,United States,CROUSER Ryan,2016 Rio de Janeiro,Athletics,Men's,shot put
+Summer,2016,Silver,USA,United States,KOVACS Joe,2016 Rio de Janeiro,Athletics,Men's,shot put
+Summer,2016,Bronze,NZL,New Zealand,WALSH Tomas,2016 Rio de Janeiro,Athletics,Men's,shot put
+Summer,2016,Gold,GER,Germany,HARTING Christoph,2016 Rio de Janeiro,Athletics,Men's,discus throw
+Summer,2016,Silver,POL,Poland,MALACHOWSKI Piotr,2016 Rio de Janeiro,Athletics,Men's,discus throw
+Summer,2016,Bronze,GER,Germany,JASINSKI Daniel,2016 Rio de Janeiro,Athletics,Men's,discus throw
+Summer,2016,Gold,GER,Germany,ROHLER Thomas,2016 Rio de Janeiro,Athletics,Men's,javelin throw
+Summer,2016,Silver,KEN,Kenya,YEGO Julius,2016 Rio de Janeiro,Athletics,Men's,javelin throw
+Summer,2016,Bronze,TTO,Trinidad and Tobago,WALCOTT Keshorn,2016 Rio de Janeiro,Athletics,Men's,javelin throw
+Summer,2016,Gold,TJK,Tajikistan,NAZAROV Dilshod,2016 Rio de Janeiro,Athletics,Men's,hammer throw
+Summer,2016,Silver,BLR,Belarus,TSIKHAN Ivan,2016 Rio de Janeiro,Athletics,Men's,hammer throw
+Summer,2016,Bronze,POL,Poland,NOWICKI Wojciech,2016 Rio de Janeiro,Athletics,Men's,hammer throw
+Summer,2016,Gold,USA,United States,EATON Ashton,2016 Rio de Janeiro,Athletics,Men's,decathlon
+Summer,2016,Silver,FRA,France,MAYER Kevin,2016 Rio de Janeiro,Athletics,Men's,decathlon
+Summer,2016,Bronze,CAN,Canada,WARNER Damian,2016 Rio de Janeiro,Athletics,Men's,decathlon
+Summer,2016,Gold,JAM,Jamaica,THOMPSON Elaine,2016 Rio de Janeiro,Athletics,Women's,100m
+Summer,2016,Silver,USA,United States,BOWIE Tori,2016 Rio de Janeiro,Athletics,Women's,100m
+Summer,2016,Bronze,JAM,Jamaica,FRASER-PRYCE Shelly-Ann,2016 Rio de Janeiro,Athletics,Women's,100m
+Summer,2016,Gold,JAM,Jamaica,THOMPSON Elaine,2016 Rio de Janeiro,Athletics,Women's,200m
+Summer,2016,Silver,NED,Netherlands,SCHIPPERS Dafne,2016 Rio de Janeiro,Athletics,Women's,200m
+Summer,2016,Bronze,USA,United States,BOWIE Tori,2016 Rio de Janeiro,Athletics,Women's,200m
+Summer,2016,Gold,BAH,Bahamas,MILLER Shaunae,2016 Rio de Janeiro,Athletics,Women's,400m
+Summer,2016,Silver,USA,United States,FELIX Allyson,2016 Rio de Janeiro,Athletics,Women's,400m
+Summer,2016,Bronze,JAM,Jamaica,JACKSON Shericka,2016 Rio de Janeiro,Athletics,Women's,400m
+Summer,2016,Gold,RSA,South Africa,SEMENYA Caster,2016 Rio de Janeiro,Athletics,Women's,800m
+Summer,2016,Silver,BDI,Burundi,NIYONSABA Francine,2016 Rio de Janeiro,Athletics,Women's,800m
+Summer,2016,Bronze,KEN,Kenya,WAMBUI Margaret Nyairera,2016 Rio de Janeiro,Athletics,Women's,800m
+Summer,2016,Gold,KEN,Kenya,KIPYEGON Faith Chepngetich,2016 Rio de Janeiro,Athletics,Women's,1500m
+Summer,2016,Silver,ETH,Ethiopia,DIBABA Genzebe,2016 Rio de Janeiro,Athletics,Women's,1500m
+Summer,2016,Bronze,USA,United States,SIMPSON Jennifer,2016 Rio de Janeiro,Athletics,Women's,1500m
+Summer,2016,Gold,KEN,Kenya,CHERUIYOT Vivian Jepkemoi,2016 Rio de Janeiro,Athletics,Women's,5000m
+Summer,2016,Silver,KEN,Kenya,OBIRI Hellen Onsando,2016 Rio de Janeiro,Athletics,Women's,5000m
+Summer,2016,Bronze,ETH,Ethiopia,AYANA Almaz,2016 Rio de Janeiro,Athletics,Women's,5000m
+Summer,2016,Gold,ETH,Ethiopia,AYANA Almaz,2016 Rio de Janeiro,Athletics,Women's,10000m
+Summer,2016,Silver,KEN,Kenya,CHERUIYOT Vivian Jepkemoi,2016 Rio de Janeiro,Athletics,Women's,10000m
+Summer,2016,Bronze,ETH,Ethiopia,DIBABA Tirunesh,2016 Rio de Janeiro,Athletics,Women's,10000m
+Summer,2016,Gold,KEN,Kenya,SUMGONG Jemima Jelagat,2016 Rio de Janeiro,Athletics,Women's,marathon
+Summer,2016,Silver,BRN,Bahrain,KIRWA Eunice Jepkirui,2016 Rio de Janeiro,Athletics,Women's,marathon
+Summer,2016,Bronze,ETH,Ethiopia,DIBABA Mare,2016 Rio de Janeiro,Athletics,Women's,marathon
+Summer,2016,Gold,USA,United States,ROLLINS Brianna,2016 Rio de Janeiro,Athletics,Women's,100m hurdles
+Summer,2016,Silver,USA,United States,ALI Nia,2016 Rio de Janeiro,Athletics,Women's,100m hurdles
+Summer,2016,Bronze,USA,United States,CASTLIN Kristi,2016 Rio de Janeiro,Athletics,Women's,100m hurdles
+Summer,2016,Gold,USA,United States,MUHAMMAD Dalilah,2016 Rio de Janeiro,Athletics,Women's,400m hurdles
+Summer,2016,Silver,DEN,Denmark,PETERSEN Sara Slott,2016 Rio de Janeiro,Athletics,Women's,400m hurdles
+Summer,2016,Bronze,USA,United States,SPENCER Ashley,2016 Rio de Janeiro,Athletics,Women's,400m hurdles
+Summer,2016,Gold,BRN,Bahrain,JEBET Ruth,2016 Rio de Janeiro,Athletics,Women's,3000m steeplechase
+Summer,2016,Silver,KEN,Kenya,JEPKEMOI Hyvin Kiyeng,2016 Rio de Janeiro,Athletics,Women's,3000m steeplechase
+Summer,2016,Bronze,USA,United States,COBURN Emma,2016 Rio de Janeiro,Athletics,Women's,3000m steeplechase
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Athletics,Women's,4x100m relay
+Summer,2016,Silver,JAM,Jamaica,Jamaica,2016 Rio de Janeiro,Athletics,Women's,4x100m relay
+Summer,2016,Bronze,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Athletics,Women's,4x100m relay
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Athletics,Women's,4x400m relay
+Summer,2016,Silver,JAM,Jamaica,Jamaica,2016 Rio de Janeiro,Athletics,Women's,4x400m relay
+Summer,2016,Bronze,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Athletics,Women's,4x400m relay
+Summer,2016,Gold,CHN,China,LIU Hong,2016 Rio de Janeiro,Athletics,Women's,20km race walk
+Summer,2016,Silver,MEX,Mexico,GONZALEZ Maria Guadalupe,2016 Rio de Janeiro,Athletics,Women's,20km race walk
+Summer,2016,Bronze,CHN,China,LU Xiuzhi,2016 Rio de Janeiro,Athletics,Women's,20km race walk
+Summer,2016,Gold,USA,United States,BARTOLETTA Tianna,2016 Rio de Janeiro,Athletics,Women's,long jump
+Summer,2016,Silver,USA,United States,REESE Brittney,2016 Rio de Janeiro,Athletics,Women's,long jump
+Summer,2016,Bronze,SRB,Serbia,SPANOVIC Ivana,2016 Rio de Janeiro,Athletics,Women's,long jump
+Summer,2016,Gold,COL,Colombia,IBARGUEN Caterine,2016 Rio de Janeiro,Athletics,Women's,triple jump
+Summer,2016,Silver,VEN,Venezuela,ROJAS Yulimar,2016 Rio de Janeiro,Athletics,Women's,triple jump
+Summer,2016,Bronze,KAZ,Kazakhstan,RYPAKOVA Olga,2016 Rio de Janeiro,Athletics,Women's,triple jump
+Summer,2016,Gold,ESP,Spain,BEITIA Ruth,2016 Rio de Janeiro,Athletics,Women's,high jump
+Summer,2016,Silver,BUL,Bulgaria,DEMIREVA Mirela,2016 Rio de Janeiro,Athletics,Women's,high jump
+Summer,2016,Bronze,CRO,Croatia,VLASIC Blanka,2016 Rio de Janeiro,Athletics,Women's,high jump
+Summer,2016,Gold,GRE,Greece,STEFANIDI Ekaterini,2016 Rio de Janeiro,Athletics,Women's,pole vault
+Summer,2016,Silver,USA,United States,MORRIS Sandi,2016 Rio de Janeiro,Athletics,Women's,pole vault
+Summer,2016,Bronze,NZL,New Zealand,MCCARTNEY Eliza,2016 Rio de Janeiro,Athletics,Women's,pole vault
+Summer,2016,Gold,USA,United States,CARTER Michelle,2016 Rio de Janeiro,Athletics,Women's,shot put
+Summer,2016,Silver,NZL,New Zealand,ADAMS Valerie,2016 Rio de Janeiro,Athletics,Women's,shot put
+Summer,2016,Bronze,HUN,Hungary,MARTON Anita,2016 Rio de Janeiro,Athletics,Women's,shot put
+Summer,2016,Gold,CRO,Croatia,PERKOVIC Sandra,2016 Rio de Janeiro,Athletics,Women's,discus throw
+Summer,2016,Silver,FRA,France,ROBERT-MICHON Melina,2016 Rio de Janeiro,Athletics,Women's,discus throw
+Summer,2016,Bronze,CUB,Cuba,CABALLERO Denia,2016 Rio de Janeiro,Athletics,Women's,discus throw
+Summer,2016,Gold,CRO,Croatia,KOLAK Sara,2016 Rio de Janeiro,Athletics,Women's,javelin throw
+Summer,2016,Silver,RSA,South Africa,VILJOEN Sunette,2016 Rio de Janeiro,Athletics,Women's,javelin throw
+Summer,2016,Bronze,CZE,Czech Republic,SPOTAKOVA Barbora,2016 Rio de Janeiro,Athletics,Women's,javelin throw
+Summer,2016,Gold,POL,Poland,WLODARCZYK Anita,2016 Rio de Janeiro,Athletics,Women's,hammer throw
+Summer,2016,Silver,CHN,China,ZHANG Wenxiu,2016 Rio de Janeiro,Athletics,Women's,hammer throw
+Summer,2016,Bronze,GBR,Great Britain,HITCHON Sophie,2016 Rio de Janeiro,Athletics,Women's,hammer throw
+Summer,2016,Gold,BEL,Belgium,THIAM Nafissatou,2016 Rio de Janeiro,Athletics,Women's,heptathlon
+Summer,2016,Silver,GBR,Great Britain,ENNIS-HILL Jessica,2016 Rio de Janeiro,Athletics,Women's,heptathlon
+Summer,2016,Bronze,CAN,Canada,THEISEN EATON Brianne,2016 Rio de Janeiro,Athletics,Women's,heptathlon
+Summer,2016,Gold,CHN,China,CHEN Long,2016 Rio de Janeiro,Badminton,Men's,singles
+Summer,2016,Silver,MAS,Malaysia,LEE Chong Wei,2016 Rio de Janeiro,Badminton,Men's,singles
+Summer,2016,Bronze,DEN,Denmark,AXELSEN Viktor,2016 Rio de Janeiro,Badminton,Men's,singles
+Summer,2016,Gold,CHN,China,"Fu, Zhang",2016 Rio de Janeiro,Badminton,Men's,doubles
+Summer,2016,Silver,MAS,Malaysia,"Tan, Goh",2016 Rio de Janeiro,Badminton,Men's,doubles
+Summer,2016,Bronze,GBR,Great Britain,"Langridge, Ellis",2016 Rio de Janeiro,Badminton,Men's,doubles
+Summer,2016,Gold,ESP,Spain,MARIN Carolina,2016 Rio de Janeiro,Badminton,Women's,singles
+Summer,2016,Silver,IND,India,PUSARLA V. Sindhu,2016 Rio de Janeiro,Badminton,Women's,singles
+Summer,2016,Bronze,JPN,Japan,OKUHARA Nozomi,2016 Rio de Janeiro,Badminton,Women's,singles
+Summer,2016,Gold,JPN,Japan,"Takahashi, Matsutomo",2016 Rio de Janeiro,Badminton,Women's,doubles
+Summer,2016,Silver,DEN,Denmark,"Rytter juhl, Pedersen",2016 Rio de Janeiro,Badminton,Women's,doubles
+Summer,2016,Bronze,KOR,Korea Republic,"Jung, Shin",2016 Rio de Janeiro,Badminton,Women's,doubles
+Summer,2016,Gold,INA,Indonesia,"Natsir, Ahmad",2016 Rio de Janeiro,Badminton,Mixed,doubles
+Summer,2016,Silver,MAS,Malaysia,"Chan, Goh",2016 Rio de Janeiro,Badminton,Mixed,doubles
+Summer,2016,Bronze,CHN,China,"Zhang, Zhao",2016 Rio de Janeiro,Badminton,Mixed,doubles
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Basketball,Men's,basketball
+Summer,2016,Silver,SRB,Serbia,Serbia,2016 Rio de Janeiro,Basketball,Men's,basketball
+Summer,2016,Bronze,ESP,Spain,Spain,2016 Rio de Janeiro,Basketball,Men's,basketball
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Basketball,Women's,basketball
+Summer,2016,Silver,ESP,Spain,Spain,2016 Rio de Janeiro,Basketball,Women's,basketball
+Summer,2016,Bronze,SRB,Serbia,Serbia,2016 Rio de Janeiro,Basketball,Women's,basketball
+Summer,2016,Gold,BRA,Brazil,"Cerutti, Oscar Schmidt",2016 Rio de Janeiro,Beach Volleyball,Men's,beach volleyball
+Summer,2016,Silver,ITA,Italy,"Nicolai, Lupo",2016 Rio de Janeiro,Beach Volleyball,Men's,beach volleyball
+Summer,2016,Bronze,NED,Netherlands,"Meeuwsen, Brouwer",2016 Rio de Janeiro,Beach Volleyball,Men's,beach volleyball
+Summer,2016,Gold,GER,Germany,"Ludwig, Walkenhorst",2016 Rio de Janeiro,Beach Volleyball,Women's,beach volleyball
+Summer,2016,Silver,BRA,Brazil,"Bednarczuk, Seixas de Freitas",2016 Rio de Janeiro,Beach Volleyball,Women's,beach volleyball
+Summer,2016,Bronze,USA,United States,"Ross, Walsh Jennings",2016 Rio de Janeiro,Beach Volleyball,Women's,beach volleyball
+Summer,2016,Gold,UZB,Uzbekistan,DUSMATOV Hasanboy,2016 Rio de Janeiro,Boxing,Men's,- 49kg (light-flyweight)
+Summer,2016,Silver,COL,Colombia,MARTINEZ Yurberjen Herney,2016 Rio de Janeiro,Boxing,Men's,- 49kg (light-flyweight)
+Summer,2016,Bronze,CUB,Cuba,ARGILAGOS Joahnys,2016 Rio de Janeiro,Boxing,Men's,- 49kg (light-flyweight)
+Summer,2016,Bronze,USA,United States,HERNANDEZ Nico Miguel,2016 Rio de Janeiro,Boxing,Men's,- 49kg (light-flyweight)
+Summer,2016,Gold,UZB,Uzbekistan,ZOIROV Shakhobidin,2016 Rio de Janeiro,Boxing,Men's,49 - 52kg (flyweight)
+Summer,2016,Silver,VEN,Venezuela,FINOL Yoel Segundo,2016 Rio de Janeiro,Boxing,Men's,49 - 52kg (flyweight)
+Summer,2016,Bronze,CHN,China,HU Jianguan,2016 Rio de Janeiro,Boxing,Men's,49 - 52kg (flyweight)
+Summer,2016,Gold,CUB,Cuba,RAMIREZ Robeisy,2016 Rio de Janeiro,Boxing,Men's,52 - 56kg (bantamweight)
+Summer,2016,Silver,USA,United States,STEVENSON Shakur,2016 Rio de Janeiro,Boxing,Men's,52 - 56kg (bantamweight)
+Summer,2016,Bronze,RUS,Russian Federation,NIKITIN Vladimir,2016 Rio de Janeiro,Boxing,Men's,52 - 56kg (bantamweight)
+Summer,2016,Bronze,UZB,Uzbekistan,AKHMADALIEV Murodjon,2016 Rio de Janeiro,Boxing,Men's,52 - 56kg (bantamweight)
+Summer,2016,Gold,BRA,Brazil,CONCEICAO Robson,2016 Rio de Janeiro,Boxing,Men's,56 - 60kg (lightweight)
+Summer,2016,Silver,FRA,France,OUMIHA Sofiane,2016 Rio de Janeiro,Boxing,Men's,56 - 60kg (lightweight)
+Summer,2016,Bronze,CUB,Cuba,ALVAREZ Lazaro Jorge,2016 Rio de Janeiro,Boxing,Men's,56 - 60kg (lightweight)
+Summer,2016,Bronze,MGL,Mongolia,DORJNYAMBUU Otgondalai,2016 Rio de Janeiro,Boxing,Men's,56 - 60kg (lightweight)
+Summer,2016,Gold,UZB,Uzbekistan,GAIBNAZAROV Fazliddin,2016 Rio de Janeiro,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2016,Silver,AZE,Azerbaijan,SOTOMAYOR COLLAZO Lorenzo,2016 Rio de Janeiro,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2016,Bronze,GER,Germany,HARUTYUNYAN Artem,2016 Rio de Janeiro,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2016,Bronze,RUS,Russian Federation,DUNAYTSEV Vitaly,2016 Rio de Janeiro,Boxing,Men's,60 - 64kg (light-welterweight)
+Summer,2016,Gold,KAZ,Kazakhstan,YELEUSSINOV Daniyar,2016 Rio de Janeiro,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2016,Silver,UZB,Uzbekistan,GIYASOV Shakhram,2016 Rio de Janeiro,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2016,Bronze,FRA,France,CISSOKHO Souleymane Diop,2016 Rio de Janeiro,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2016,Bronze,MAR,Morocco,RABII Mohammed,2016 Rio de Janeiro,Boxing,Men's,64 - 69kg (welterweight)
+Summer,2016,Gold,CUB,Cuba,LOPEZ Arlen,2016 Rio de Janeiro,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2016,Silver,UZB,Uzbekistan,MELIKUZIEV Bektemir,2016 Rio de Janeiro,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2016,Bronze,AZE,Azerbaijan,SHAKHSUVARLY Kamran,2016 Rio de Janeiro,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2016,Bronze,MEX,Mexico,RODRIGUEZ Misael Uziel,2016 Rio de Janeiro,Boxing,Men's,69 - 75kg (middleweight)
+Summer,2016,Gold,CUB,Cuba,LA CRUZ Julio Cesar,2016 Rio de Janeiro,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2016,Silver,KAZ,Kazakhstan,NIYAZYMBETOV Adilbek,2016 Rio de Janeiro,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2016,Bronze,FRA,France,BAUDERLIQUE Mathieu Albert Daniel,2016 Rio de Janeiro,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2016,Bronze,GBR,Great Britain,BUATSI Joshua,2016 Rio de Janeiro,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2016,Gold,RUS,Russian Federation,TISHCHENKO Evgeny,2016 Rio de Janeiro,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2016,Silver,KAZ,Kazakhstan,LEVIT Vassiliy,2016 Rio de Janeiro,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2016,Bronze,CUB,Cuba,SAVON Erislandy,2016 Rio de Janeiro,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2016,Bronze,UZB,Uzbekistan,TULAGANOV Rustam,2016 Rio de Janeiro,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2016,Gold,FRA,France,YOKA Tony Victor James,2016 Rio de Janeiro,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2016,Silver,GBR,Great Britain,JOYCE Joe,2016 Rio de Janeiro,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2016,Bronze,CRO,Croatia,HRGOVIC Filip,2016 Rio de Janeiro,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2016,Bronze,KAZ,Kazakhstan,DYCHKO Ivan,2016 Rio de Janeiro,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2016,Gold,GBR,Great Britain,ADAMS Nicola,2016 Rio de Janeiro,Boxing,Women's,- 51kg (flyweight)
+Summer,2016,Silver,FRA,France,OURAHMOUNE Sarah,2016 Rio de Janeiro,Boxing,Women's,- 51kg (flyweight)
+Summer,2016,Bronze,CHN,China,REN Cancan,2016 Rio de Janeiro,Boxing,Women's,- 51kg (flyweight)
+Summer,2016,Bronze,COL,Colombia,VALENCIA VICTORIA Ingrit Lorena,2016 Rio de Janeiro,Boxing,Women's,- 51kg (flyweight)
+Summer,2016,Gold,FRA,France,MOSSELY Estelle,2016 Rio de Janeiro,Boxing,Women's,51 - 60kg (lightweight)
+Summer,2016,Silver,CHN,China,YIN Junhua,2016 Rio de Janeiro,Boxing,Women's,51 - 60kg (lightweight)
+Summer,2016,Bronze,FIN,Finland,POTKONEN Mira,2016 Rio de Janeiro,Boxing,Women's,51 - 60kg (lightweight)
+Summer,2016,Bronze,RUS,Russian Federation,BELIAKOVA Anastasiia,2016 Rio de Janeiro,Boxing,Women's,51 - 60kg (lightweight)
+Summer,2016,Gold,USA,United States,SHIELDS Claressa Maria,2016 Rio de Janeiro,Boxing,Women's,60 - 75kg (middleweight)
+Summer,2016,Silver,NED,Netherlands,FONTIJN Nouchka,2016 Rio de Janeiro,Boxing,Women's,60 - 75kg (middleweight)
+Summer,2016,Bronze,CHN,China,LI Qian,2016 Rio de Janeiro,Boxing,Women's,60 - 75kg (middleweight)
+Summer,2016,Bronze,KAZ,Kazakhstan,SHAKIMOVA Dariga,2016 Rio de Janeiro,Boxing,Women's,60 - 75kg (middleweight)
+Summer,2016,Gold,GBR,Great Britain,CLARKE Joseph,2016 Rio de Janeiro,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2016,Silver,SLO,Slovenia,KAUZER Peter,2016 Rio de Janeiro,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2016,Bronze,CZE,Czech Republic,PRSKAVEC Jiri,2016 Rio de Janeiro,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2016,Gold,FRA,France,GARGAUD CHANUT Denis,2016 Rio de Janeiro,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2016,Silver,SVK,Slovakia,BENUS Matej,2016 Rio de Janeiro,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2016,Bronze,JPN,Japan,HANEDA Takuya,2016 Rio de Janeiro,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2016,Gold,SVK,Slovakia,"Skantar, Skantar",2016 Rio de Janeiro,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2016,Silver,GBR,Great Britain,"Florence, Hounslow",2016 Rio de Janeiro,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2016,Bronze,FRA,France,"Peche, Klauss",2016 Rio de Janeiro,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2016,Gold,ESP,Spain,CHOURRAUT Maialen,2016 Rio de Janeiro,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2016,Silver,NZL,New Zealand,JONES Luuka,2016 Rio de Janeiro,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2016,Bronze,AUS,Australia,FOX Jessica,2016 Rio de Janeiro,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2016,Gold,GBR,Great Britain,HEATH Liam,2016 Rio de Janeiro,Canoe Sprint,Men's,K-1 200m (kayak single)
+Summer,2016,Silver,FRA,France,BEAUMONT Maxime,2016 Rio de Janeiro,Canoe Sprint,Men's,K-1 200m (kayak single)
+Summer,2016,Bronze,GER,Germany,RAUHE Ronald,2016 Rio de Janeiro,Canoe Sprint,Men's,K-1 200m (kayak single)
+Summer,2016,Bronze,ESP,Spain,CRAVIOTTO Saul,2016 Rio de Janeiro,Canoe Sprint,Men's,K-1 200m (kayak single)
+Summer,2016,Gold,ESP,Spain,WALZ Marcus,2016 Rio de Janeiro,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2016,Silver,CZE,Czech Republic,DOSTAL Josef,2016 Rio de Janeiro,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2016,Bronze,RUS,Russian Federation,ANOSHKIN Roman,2016 Rio de Janeiro,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2016,Gold,ESP,Spain,"Craviotto, Toro",2016 Rio de Janeiro,Canoe Sprint,Men's,K-2 200m (kayak double)
+Summer,2016,Silver,GBR,Great Britain,"Heath, Schofield",2016 Rio de Janeiro,Canoe Sprint,Men's,K-2 200m (kayak double)
+Summer,2016,Bronze,LTU,Lithuania,"Ramanauskas, Lankas",2016 Rio de Janeiro,Canoe Sprint,Men's,K-2 200m (kayak double)
+Summer,2016,Gold,GER,Germany,"Gross, Rendschmidt",2016 Rio de Janeiro,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2016,Silver,SRB,Serbia,"Tomicevic, Zoric",2016 Rio de Janeiro,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2016,Bronze,AUS,Australia,"Tame, Wallace",2016 Rio de Janeiro,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2016,Gold,GER,Germany,Germany,2016 Rio de Janeiro,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2016,Silver,SVK,Slovakia,Slovakia,2016 Rio de Janeiro,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2016,Bronze,CZE,Czech Republic,Czech Republic,2016 Rio de Janeiro,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2016,Gold,UKR,Ukraine,CHEBAN Iurii,2016 Rio de Janeiro,Canoe Sprint,Men's,C-1 200m (canoe single)
+Summer,2016,Silver,AZE,Azerbaijan,DEMYANENKO Valentin,2016 Rio de Janeiro,Canoe Sprint,Men's,C-1 200m (canoe single)
+Summer,2016,Bronze,BRA,Brazil,QUEIROZ DOS SANTOS Isaquias,2016 Rio de Janeiro,Canoe Sprint,Men's,C-1 200m (canoe single)
+Summer,2016,Gold,GER,Germany,BRENDEL Sebastian,2016 Rio de Janeiro,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2016,Silver,BRA,Brazil,QUEIROZ DOS SANTOS Isaquias,2016 Rio de Janeiro,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2016,Bronze,RUS,Russian Federation,Ilia Shtokalov,2016 Rio de Janeiro,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2016,Gold,GER,Germany,"Vandrey, Brendel",2016 Rio de Janeiro,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2016,Silver,BRA,Brazil,"Queiroz dos Santos, de Souza Silva",2016 Rio de Janeiro,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2016,Bronze,UKR,Ukraine,"Mishchuk, Ianchuk",2016 Rio de Janeiro,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2016,Gold,NZL,New Zealand,CARRINGTON Lisa,2016 Rio de Janeiro,Canoe Sprint,Women's,K-1 200m (kayak single)
+Summer,2016,Silver,POL,Poland,WALCZYKIEWICZ Marta,2016 Rio de Janeiro,Canoe Sprint,Women's,K-1 200m (kayak single)
+Summer,2016,Bronze,AZE,Azerbaijan,OSIPENKO-RODOMSKA Inna,2016 Rio de Janeiro,Canoe Sprint,Women's,K-1 200m (kayak single)
+Summer,2016,Gold,HUN,Hungary,KOZAK Danuta,2016 Rio de Janeiro,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2016,Silver,DEN,Denmark,JORGENSEN Emma,2016 Rio de Janeiro,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2016,Bronze,NZL,New Zealand,CARRINGTON Lisa,2016 Rio de Janeiro,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2016,Gold,HUN,Hungary,"Szabo, Kozak",2016 Rio de Janeiro,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2016,Silver,GER,Germany,"Weber, Dietze",2016 Rio de Janeiro,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2016,Bronze,POL,Poland,"Naja, Mikolajczyk",2016 Rio de Janeiro,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2016,Gold,HUN,Hungary,Hungary,2016 Rio de Janeiro,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2016,Silver,GER,Germany,Germany,2016 Rio de Janeiro,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2016,Bronze,BLR,Belarus,Belarus,2016 Rio de Janeiro,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2016,Gold,USA,United States,FIELDS Connor,2016 Rio de Janeiro,Cycling BMX Racing,Men's,racing individual
+Summer,2016,Silver,NED,Netherlands,VAN GORKOM Jelle,2016 Rio de Janeiro,Cycling BMX Racing,Men's,racing individual
+Summer,2016,Bronze,COL,Colombia,RAMIREZ YEPES Carlos Alberto,2016 Rio de Janeiro,Cycling BMX Racing,Men's,racing individual
+Summer,2016,Gold,COL,Colombia,PAJON Mariana,2016 Rio de Janeiro,Cycling BMX Racing,Women's,racing individual
+Summer,2016,Silver,USA,United States,POST Alise,2016 Rio de Janeiro,Cycling BMX Racing,Women's,racing individual
+Summer,2016,Bronze,VEN,Venezuela,HERNANDEZ Stefany,2016 Rio de Janeiro,Cycling BMX Racing,Women's,racing individual
+Summer,2016,Gold,SUI,Switzerland,SCHURTER Nino,2016 Rio de Janeiro,Cycling Mountain Bike,Men's,cross-country
+Summer,2016,Silver,CZE,Czech Republic,KULHAVY Jaroslav,2016 Rio de Janeiro,Cycling Mountain Bike,Men's,cross-country
+Summer,2016,Bronze,ESP,Spain,COLOMA NICOLAS Carlos,2016 Rio de Janeiro,Cycling Mountain Bike,Men's,cross-country
+Summer,2016,Gold,SWE,Sweden,RISSVEDS Jenny,2016 Rio de Janeiro,Cycling Mountain Bike,Women's,cross-country
+Summer,2016,Silver,POL,Poland,WLOSZCZOWSKA Maja,2016 Rio de Janeiro,Cycling Mountain Bike,Women's,cross-country
+Summer,2016,Bronze,CAN,Canada,PENDREL Catharine,2016 Rio de Janeiro,Cycling Mountain Bike,Women's,cross-country
+Summer,2016,Gold,BEL,Belgium,VAN AVERMAET Greg,2016 Rio de Janeiro,Cycling Road,Men's,individual road race
+Summer,2016,Silver,DEN,Denmark,FUGLSANG Jakob,2016 Rio de Janeiro,Cycling Road,Men's,individual road race
+Summer,2016,Bronze,POL,Poland,MAJKA Rafal,2016 Rio de Janeiro,Cycling Road,Men's,individual road race
+Summer,2016,Gold,SUI,Switzerland,CANCELLARA Fabian,2016 Rio de Janeiro,Cycling Road,Men's,individual time trial
+Summer,2016,Silver,NED,Netherlands,DUMOULIN Tom,2016 Rio de Janeiro,Cycling Road,Men's,individual time trial
+Summer,2016,Bronze,GBR,Great Britain,FROOME Christopher,2016 Rio de Janeiro,Cycling Road,Men's,individual time trial
+Summer,2016,Gold,NED,Netherlands,VAN DER BREGGEN Anna,2016 Rio de Janeiro,Cycling Road,Women's,individual road race
+Summer,2016,Silver,SWE,Sweden,JOHANSSON Emma,2016 Rio de Janeiro,Cycling Road,Women's,individual road race
+Summer,2016,Bronze,ITA,Italy,LONGO BORGHINI Elisa,2016 Rio de Janeiro,Cycling Road,Women's,individual road race
+Summer,2016,Gold,USA,United States,ARMSTRONG Kristin,2016 Rio de Janeiro,Cycling Road,Women's,individual time trial
+Summer,2016,Silver,RUS,Russian Federation,ZABELINSKAYA Olga,2016 Rio de Janeiro,Cycling Road,Women's,individual time trial
+Summer,2016,Bronze,NED,Netherlands,VAN DER BREGGEN Anna,2016 Rio de Janeiro,Cycling Road,Women's,individual time trial
+Summer,2016,Gold,GBR,Great Britain,KENNY Jason,2016 Rio de Janeiro,Cycling Track,Men's,sprint individual
+Summer,2016,Silver,GBR,Great Britain,SKINNER Callum,2016 Rio de Janeiro,Cycling Track,Men's,sprint individual
+Summer,2016,Bronze,RUS,Russian Federation,DMITRIEV Denis,2016 Rio de Janeiro,Cycling Track,Men's,sprint individual
+Summer,2016,Gold,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2016,Silver,AUS,Australia,Australia,2016 Rio de Janeiro,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2016,Bronze,DEN,Denmark,Denmark,2016 Rio de Janeiro,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2016,Gold,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Cycling Track,Men's,Team Sprint
+Summer,2016,Silver,NZL,New Zealand,New Zealand,2016 Rio de Janeiro,Cycling Track,Men's,Team Sprint
+Summer,2016,Bronze,FRA,France,France,2016 Rio de Janeiro,Cycling Track,Men's,Team Sprint
+Summer,2016,Gold,ITA,Italy,VIVIANI Elia,2016 Rio de Janeiro,Cycling Track,Men's,Omnium
+Summer,2016,Silver,GBR,Great Britain,CAVENDISH Mark,2016 Rio de Janeiro,Cycling Track,Men's,Omnium
+Summer,2016,Bronze,DEN,Denmark,HANSEN Lasse Norman,2016 Rio de Janeiro,Cycling Track,Men's,Omnium
+Summer,2016,Gold,GBR,Great Britain,KENNY Jason,2016 Rio de Janeiro,Cycling Track,Men's,Keirin
+Summer,2016,Silver,NED,Netherlands,BUCHLI Matthijs,2016 Rio de Janeiro,Cycling Track,Men's,Keirin
+Summer,2016,Bronze,MAS,Malaysia,AWANG Azizulhasni,2016 Rio de Janeiro,Cycling Track,Men's,Keirin
+Summer,2016,Gold,GER,Germany,VOGEL Kristina,2016 Rio de Janeiro,Cycling Track,Women's,sprint individual
+Summer,2016,Silver,GBR,Great Britain,JAMES Rebecca,2016 Rio de Janeiro,Cycling Track,Women's,sprint individual
+Summer,2016,Bronze,GBR,Great Britain,MARCHANT Katy,2016 Rio de Janeiro,Cycling Track,Women's,sprint individual
+Summer,2016,Gold,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Cycling Track,Women's,Team Pursuit (3000m)
+Summer,2016,Silver,USA,United States,United States,2016 Rio de Janeiro,Cycling Track,Women's,Team Pursuit (3000m)
+Summer,2016,Bronze,CAN,Canada,Canada,2016 Rio de Janeiro,Cycling Track,Women's,Team Pursuit (3000m)
+Summer,2016,Gold,CHN,China,"Gong, Zhong",2016 Rio de Janeiro,Cycling Track,Women's,Team Sprint
+Summer,2016,Silver,RUS,Russian Federation,"Voinova, Shmeleva",2016 Rio de Janeiro,Cycling Track,Women's,Team Sprint
+Summer,2016,Bronze,GER,Germany,"Vogel, Welte",2016 Rio de Janeiro,Cycling Track,Women's,Team Sprint
+Summer,2016,Gold,GBR,Great Britain,TROTT Laura,2016 Rio de Janeiro,Cycling Track,Women's,Omnium
+Summer,2016,Silver,USA,United States,HAMMER Sarah,2016 Rio de Janeiro,Cycling Track,Women's,Omnium
+Summer,2016,Bronze,BEL,Belgium,D'HOORE Jolien,2016 Rio de Janeiro,Cycling Track,Women's,Omnium
+Summer,2016,Gold,NED,Netherlands,LIGTLEE Elis,2016 Rio de Janeiro,Cycling Track,Women's,Keirin
+Summer,2016,Silver,GBR,Great Britain,JAMES Rebecca,2016 Rio de Janeiro,Cycling Track,Women's,Keirin
+Summer,2016,Bronze,AUS,Australia,MEARES Anna,2016 Rio de Janeiro,Cycling Track,Women's,Keirin
+Summer,2016,Gold,CHN,China,CAO Yuan,2016 Rio de Janeiro,Diving,Men's,3m springboard
+Summer,2016,Silver,GBR,Great Britain,LAUGHER Jack,2016 Rio de Janeiro,Diving,Men's,3m springboard
+Summer,2016,Bronze,GER,Germany,HAUSDING Patrick,2016 Rio de Janeiro,Diving,Men's,3m springboard
+Summer,2016,Gold,CHN,China,CHEN Aisen,2016 Rio de Janeiro,Diving,Men's,10m platform
+Summer,2016,Silver,MEX,Mexico,SANCHEZ German,2016 Rio de Janeiro,Diving,Men's,10m platform
+Summer,2016,Bronze,USA,United States,BOUDIA David,2016 Rio de Janeiro,Diving,Men's,10m platform
+Summer,2016,Gold,GBR,Great Britain,"Laugher, Mears",2016 Rio de Janeiro,Diving,Men's,synchronized diving 3m springboard
+Summer,2016,Silver,USA,United States,"Dorman, Hixon",2016 Rio de Janeiro,Diving,Men's,synchronized diving 3m springboard
+Summer,2016,Bronze,CHN,China,"Cao, Qin",2016 Rio de Janeiro,Diving,Men's,synchronized diving 3m springboard
+Summer,2016,Gold,CHN,China,"Lin, Chen",2016 Rio de Janeiro,Diving,Men's,synchronized diving 10m platform
+Summer,2016,Silver,USA,United States,"Boudia, Johnson",2016 Rio de Janeiro,Diving,Men's,synchronized diving 10m platform
+Summer,2016,Bronze,GBR,Great Britain,"Daley, Goodfellow",2016 Rio de Janeiro,Diving,Men's,synchronized diving 10m platform
+Summer,2016,Gold,CHN,China,SHI Tingmao,2016 Rio de Janeiro,Diving,Women's,3m springboard
+Summer,2016,Silver,CHN,China,HE Zi,2016 Rio de Janeiro,Diving,Women's,3m springboard
+Summer,2016,Bronze,ITA,Italy,CAGNOTTO Tania,2016 Rio de Janeiro,Diving,Women's,3m springboard
+Summer,2016,Gold,CHN,China,REN Qian,2016 Rio de Janeiro,Diving,Women's,10m platform
+Summer,2016,Silver,CHN,China,SI Yajie,2016 Rio de Janeiro,Diving,Women's,10m platform
+Summer,2016,Bronze,CAN,Canada,BENFEITO Meaghan,2016 Rio de Janeiro,Diving,Women's,10m platform
+Summer,2016,Gold,CHN,China,"Wu, Shi",2016 Rio de Janeiro,Diving,Women's,synchronized diving 3m springboard
+Summer,2016,Silver,ITA,Italy,"Cagnotto, Dallape",2016 Rio de Janeiro,Diving,Women's,synchronized diving 3m springboard
+Summer,2016,Bronze,AUS,Australia,"Keeney, Smith",2016 Rio de Janeiro,Diving,Women's,synchronized diving 3m springboard
+Summer,2016,Gold,CHN,China,"Liu, Chen",2016 Rio de Janeiro,Diving,Women's,synchronized diving 10m platform
+Summer,2016,Silver,MAS,Malaysia,"Cheong, Pamg",2016 Rio de Janeiro,Diving,Women's,synchronized diving 10m platform
+Summer,2016,Bronze,CAN,Canada,"Benfeito, Filion",2016 Rio de Janeiro,Diving,Women's,synchronized diving 10m platform
+Summer,2016,Gold,GBR,Great Britain,DUJARDIN Charlotte,2016 Rio de Janeiro,Equestrian Dressage,Mixed,individual
+Summer,2016,Silver,GER,Germany,WERTH Isabell,2016 Rio de Janeiro,Equestrian Dressage,Mixed,individual
+Summer,2016,Bronze,GER,Germany,BRORING-SPREHE Kristina,2016 Rio de Janeiro,Equestrian Dressage,Mixed,individual
+Summer,2016,Gold,GER,Germany,Germany,2016 Rio de Janeiro,Equestrian Dressage,Mixed,team
+Summer,2016,Silver,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Equestrian Dressage,Mixed,team
+Summer,2016,Bronze,USA,United States,United States,2016 Rio de Janeiro,Equestrian Dressage,Mixed,team
+Summer,2016,Gold,GER,Germany,JUNG Michael,2016 Rio de Janeiro,Equestrian Eventing,Mixed,individual
+Summer,2016,Silver,FRA,France,NICOLAS Astier,2016 Rio de Janeiro,Equestrian Eventing,Mixed,individual
+Summer,2016,Bronze,USA,United States,DUTTON Phillip,2016 Rio de Janeiro,Equestrian Eventing,Mixed,individual
+Summer,2016,Gold,FRA,France,France,2016 Rio de Janeiro,Equestrian Eventing,Mixed,team
+Summer,2016,Silver,GER,Germany,Germany,2016 Rio de Janeiro,Equestrian Eventing,Mixed,team
+Summer,2016,Bronze,AUS,Australia,Australia,2016 Rio de Janeiro,Equestrian Eventing,Mixed,team
+Summer,2016,Gold,GBR,Great Britain,SKELTON Nick,2016 Rio de Janeiro,Equestrian Jumping,Mixed,individual
+Summer,2016,Silver,SWE,Sweden,FREDRICSON Peder,2016 Rio de Janeiro,Equestrian Jumping,Mixed,individual
+Summer,2016,Bronze,CAN,Canada,LAMAZE Eric,2016 Rio de Janeiro,Equestrian Jumping,Mixed,individual
+Summer,2016,Gold,FRA,France,France,2016 Rio de Janeiro,Equestrian Jumping,Mixed,team
+Summer,2016,Silver,USA,United States,United States,2016 Rio de Janeiro,Equestrian Jumping,Mixed,team
+Summer,2016,Bronze,GER,Germany,Germany,2016 Rio de Janeiro,Equestrian Jumping,Mixed,team
+Summer,2016,Gold,ITA,Italy,GAROZZO Daniele,2016 Rio de Janeiro,Fencing,Men's,foil individual
+Summer,2016,Silver,USA,United States,MASSIALAS Alexander,2016 Rio de Janeiro,Fencing,Men's,foil individual
+Summer,2016,Bronze,RUS,Russian Federation,SAFIN Timur,2016 Rio de Janeiro,Fencing,Men's,foil individual
+Summer,2016,Gold,KOR,Korea Republic,PARK Sangyoung,2016 Rio de Janeiro,Fencing,Men's,épée individual
+Summer,2016,Silver,HUN,Hungary,IMRE Geza,2016 Rio de Janeiro,Fencing,Men's,épée individual
+Summer,2016,Bronze,FRA,France,GRUMIER Gauthier,2016 Rio de Janeiro,Fencing,Men's,épée individual
+Summer,2016,Gold,HUN,Hungary,SZILAGYI Aron,2016 Rio de Janeiro,Fencing,Men's,sabre individual
+Summer,2016,Silver,USA,United States,HOMER Daryl,2016 Rio de Janeiro,Fencing,Men's,sabre individual
+Summer,2016,Bronze,KOR,Korea Republic,KIM Junghwan,2016 Rio de Janeiro,Fencing,Men's,sabre individual
+Summer,2016,Gold,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Fencing,Men's,foil team
+Summer,2016,Silver,FRA,France,France,2016 Rio de Janeiro,Fencing,Men's,foil team
+Summer,2016,Bronze,USA,United States,United States,2016 Rio de Janeiro,Fencing,Men's,foil team
+Summer,2016,Gold,FRA,France,France,2016 Rio de Janeiro,Fencing,Men's,épée team
+Summer,2016,Silver,ITA,Italy,Italy,2016 Rio de Janeiro,Fencing,Men's,épée team
+Summer,2016,Bronze,HUN,Hungary,Hungary,2016 Rio de Janeiro,Fencing,Men's,épée team
+Summer,2016,Gold,RUS,Russian Federation,DERIGLAZOVA Inna,2016 Rio de Janeiro,Fencing,Women's,foil individual
+Summer,2016,Silver,ITA,Italy,DI FRANCISCA Elisa,2016 Rio de Janeiro,Fencing,Women's,foil individual
+Summer,2016,Bronze,TUN,Tunisia,BOUBAKRI Ines,2016 Rio de Janeiro,Fencing,Women's,foil individual
+Summer,2016,Gold,HUN,Hungary,SZASZ Emese,2016 Rio de Janeiro,Fencing,Women's,épée individual
+Summer,2016,Silver,ITA,Italy,FIAMINGO Rossella,2016 Rio de Janeiro,Fencing,Women's,épée individual
+Summer,2016,Bronze,CHN,China,SUN Yiwen,2016 Rio de Janeiro,Fencing,Women's,épée individual
+Summer,2016,Gold,RUS,Russian Federation,EGORIAN Yana,2016 Rio de Janeiro,Fencing,Women's,sabre individual
+Summer,2016,Silver,RUS,Russian Federation,VELIKAYA Sofya,2016 Rio de Janeiro,Fencing,Women's,sabre individual
+Summer,2016,Bronze,UKR,Ukraine,KHARLAN Olga,2016 Rio de Janeiro,Fencing,Women's,sabre individual
+Summer,2016,Gold,ROU,Romania,Romania,2016 Rio de Janeiro,Fencing,Women's,épée team
+Summer,2016,Silver,CHN,China,China,2016 Rio de Janeiro,Fencing,Women's,épée team
+Summer,2016,Bronze,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Fencing,Women's,épée team
+Summer,2016,Gold,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Fencing,Women's,sabre team
+Summer,2016,Silver,UKR,Ukraine,Ukraine,2016 Rio de Janeiro,Fencing,Women's,sabre team
+Summer,2016,Bronze,USA,United States,United States,2016 Rio de Janeiro,Fencing,Women's,sabre team
+Summer,2016,Gold,BRA,Brazil,Brazil,2016 Rio de Janeiro,Football,Men's,football
+Summer,2016,Silver,GER,Germany,Germany,2016 Rio de Janeiro,Football,Men's,football
+Summer,2016,Bronze,NGR,Nigeria,Nigeria,2016 Rio de Janeiro,Football,Men's,football
+Summer,2016,Gold,GER,Germany,Germany,2016 Rio de Janeiro,Football,Women's,football
+Summer,2016,Silver,SWE,Sweden,Sweden,2016 Rio de Janeiro,Football,Women's,football
+Summer,2016,Bronze,CAN,Canada,Canada,2016 Rio de Janeiro,Football,Women's,football
+Summer,2016,Gold,GBR,Great Britain,ROSE Justin,2016 Rio de Janeiro,Golf,Men's,individual
+Summer,2016,Silver,SWE,Sweden,STENSON Henrik,2016 Rio de Janeiro,Golf,Men's,individual
+Summer,2016,Bronze,USA,United States,KUCHAR Matt,2016 Rio de Janeiro,Golf,Men's,individual
+Summer,2016,Gold,KOR,Korea Republic,PARK Inbee,2016 Rio de Janeiro,Golf,Women's,individual
+Summer,2016,Silver,NZL,New Zealand,KO Lydia,2016 Rio de Janeiro,Golf,Women's,individual
+Summer,2016,Bronze,CHN,China,FENG Shanshan,2016 Rio de Janeiro,Golf,Women's,individual
+Summer,2016,Gold,JPN,Japan,Japan,2016 Rio de Janeiro,Gymnastics Artistic,Men's,team competition
+Summer,2016,Silver,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Gymnastics Artistic,Men's,team competition
+Summer,2016,Bronze,CHN,China,China,2016 Rio de Janeiro,Gymnastics Artistic,Men's,team competition
+Summer,2016,Gold,JPN,Japan,UCHIMURA Kohei,2016 Rio de Janeiro,Gymnastics Artistic,Men's,individual all-round
+Summer,2016,Silver,UKR,Ukraine,VERNIAIEV Oleg,2016 Rio de Janeiro,Gymnastics Artistic,Men's,individual all-round
+Summer,2016,Bronze,GBR,Great Britain,WHITLOCK Max,2016 Rio de Janeiro,Gymnastics Artistic,Men's,individual all-round
+Summer,2016,Gold,GBR,Great Britain,WHITLOCK Max,2016 Rio de Janeiro,Gymnastics Artistic,Men's,floor exercises
+Summer,2016,Silver,BRA,Brazil,HYPOLITO Diego,2016 Rio de Janeiro,Gymnastics Artistic,Men's,floor exercises
+Summer,2016,Bronze,BRA,Brazil,MARIANO Arthur,2016 Rio de Janeiro,Gymnastics Artistic,Men's,floor exercises
+Summer,2016,Gold,UKR,Ukraine,VERNIAIEV Oleg,2016 Rio de Janeiro,Gymnastics Artistic,Men's,parallel bars
+Summer,2016,Silver,USA,United States,LEYVA Danell,2016 Rio de Janeiro,Gymnastics Artistic,Men's,parallel bars
+Summer,2016,Bronze,RUS,Russian Federation,BELYAVSKIY David,2016 Rio de Janeiro,Gymnastics Artistic,Men's,parallel bars
+Summer,2016,Gold,PRK,Korea DPR,RI Se Gwang,2016 Rio de Janeiro,Gymnastics Artistic,Men's,vault
+Summer,2016,Silver,RUS,Russian Federation,ABLIAZIN Denis,2016 Rio de Janeiro,Gymnastics Artistic,Men's,vault
+Summer,2016,Bronze,JPN,Japan,SHIRAI Kenzo,2016 Rio de Janeiro,Gymnastics Artistic,Men's,vault
+Summer,2016,Gold,GRE,Greece,PETROUNIAS Eleftherios,2016 Rio de Janeiro,Gymnastics Artistic,Men's,rings
+Summer,2016,Silver,BRA,Brazil,ZANETTI Arthur,2016 Rio de Janeiro,Gymnastics Artistic,Men's,rings
+Summer,2016,Bronze,RUS,Russian Federation,ABLIAZIN Denis,2016 Rio de Janeiro,Gymnastics Artistic,Men's,rings
+Summer,2016,Gold,GBR,Great Britain,WHITLOCK Max,2016 Rio de Janeiro,Gymnastics Artistic,Men's,pommel horse
+Summer,2016,Silver,GBR,Great Britain,SMITH Louis,2016 Rio de Janeiro,Gymnastics Artistic,Men's,pommel horse
+Summer,2016,Bronze,USA,United States,NADDOUR Alexander,2016 Rio de Janeiro,Gymnastics Artistic,Men's,pommel horse
+Summer,2016,Gold,GER,Germany,HAMBUECHEN Fabian,2016 Rio de Janeiro,Gymnastics Artistic,Men's,horizontal bar
+Summer,2016,Silver,USA,United States,LEYVA Danell,2016 Rio de Janeiro,Gymnastics Artistic,Men's,horizontal bar
+Summer,2016,Bronze,GBR,Great Britain,WILSON Nile,2016 Rio de Janeiro,Gymnastics Artistic,Men's,horizontal bar
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Gymnastics Artistic,Women's,team competition
+Summer,2016,Silver,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Gymnastics Artistic,Women's,team competition
+Summer,2016,Bronze,CHN,China,China,2016 Rio de Janeiro,Gymnastics Artistic,Women's,team competition
+Summer,2016,Gold,USA,United States,BILES Simone,2016 Rio de Janeiro,Gymnastics Artistic,Women's,individual all-round
+Summer,2016,Silver,USA,United States,RAISMAN Alexandra,2016 Rio de Janeiro,Gymnastics Artistic,Women's,individual all-round
+Summer,2016,Bronze,RUS,Russian Federation,MUSTAFINA Aliya,2016 Rio de Janeiro,Gymnastics Artistic,Women's,individual all-round
+Summer,2016,Gold,USA,United States,BILES Simone,2016 Rio de Janeiro,Gymnastics Artistic,Women's,floor exercises
+Summer,2016,Silver,USA,United States,RAISMAN Alexandra,2016 Rio de Janeiro,Gymnastics Artistic,Women's,floor exercises
+Summer,2016,Bronze,GBR,Great Britain,TINKLER Amy,2016 Rio de Janeiro,Gymnastics Artistic,Women's,floor exercises
+Summer,2016,Gold,RUS,Russian Federation,MUSTAFINA Aliya,2016 Rio de Janeiro,Gymnastics Artistic,Women's,uneven bars
+Summer,2016,Silver,USA,United States,KOCIAN Madison,2016 Rio de Janeiro,Gymnastics Artistic,Women's,uneven bars
+Summer,2016,Bronze,GER,Germany,SCHEDER Sophie,2016 Rio de Janeiro,Gymnastics Artistic,Women's,uneven bars
+Summer,2016,Gold,USA,United States,BILES Simone,2016 Rio de Janeiro,Gymnastics Artistic,Women's,vault
+Summer,2016,Silver,RUS,Russian Federation,PASEKA Maria,2016 Rio de Janeiro,Gymnastics Artistic,Women's,vault
+Summer,2016,Bronze,SUI,Switzerland,STEINGRUBER Giulia,2016 Rio de Janeiro,Gymnastics Artistic,Women's,vault
+Summer,2016,Gold,NED,Netherlands,WEVERS Sanne,2016 Rio de Janeiro,Gymnastics Artistic,Women's,balance beam
+Summer,2016,Silver,USA,United States,HERNANDEZ Lauren,2016 Rio de Janeiro,Gymnastics Artistic,Women's,balance beam
+Summer,2016,Bronze,USA,United States,BILES Simone,2016 Rio de Janeiro,Gymnastics Artistic,Women's,balance beam
+Summer,2016,Gold,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Gymnastics Rhythmic,Women's,group competition
+Summer,2016,Silver,ESP,Spain,Spain,2016 Rio de Janeiro,Gymnastics Rhythmic,Women's,group competition
+Summer,2016,Bronze,BUL,Bulgaria,Bulgaria,2016 Rio de Janeiro,Gymnastics Rhythmic,Women's,group competition
+Summer,2016,Gold,RUS,Russian Federation,MAMUN Margarita,2016 Rio de Janeiro,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2016,Silver,RUS,Russian Federation,KUDRYAVTSEVA Yana,2016 Rio de Janeiro,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2016,Bronze,UKR,Ukraine,RIZATDINOVA Ganna,2016 Rio de Janeiro,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2016,Gold,DEN,Denmark,Denmark,2016 Rio de Janeiro,Handball,Men's,handball
+Summer,2016,Silver,FRA,France,France,2016 Rio de Janeiro,Handball,Men's,handball
+Summer,2016,Bronze,GER,Germany,Germany,2016 Rio de Janeiro,Handball,Men's,handball
+Summer,2016,Gold,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Handball,Women's,handball
+Summer,2016,Silver,FRA,France,France,2016 Rio de Janeiro,Handball,Women's,handball
+Summer,2016,Bronze,NOR,Norway,Norway,2016 Rio de Janeiro,Handball,Women's,handball
+Summer,2016,Gold,ARG,Argentina,Argentina,2016 Rio de Janeiro,Hockey,Men's,hockey
+Summer,2016,Silver,BEL,Belgium,Belgium,2016 Rio de Janeiro,Hockey,Men's,hockey
+Summer,2016,Bronze,GER,Germany,Germany,2016 Rio de Janeiro,Hockey,Men's,hockey
+Summer,2016,Gold,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Hockey,Women's,hockey
+Summer,2016,Silver,NED,Netherlands,Netherlands,2016 Rio de Janeiro,Hockey,Women's,hockey
+Summer,2016,Bronze,GER,Germany,Germany,2016 Rio de Janeiro,Hockey,Women's,hockey
+Summer,2016,Gold,RUS,Russian Federation,MUDRANOV Beslan,2016 Rio de Janeiro,Judo,Men's,- 60 kg
+Summer,2016,Silver,KAZ,Kazakhstan,SMETOV Yeldos,2016 Rio de Janeiro,Judo,Men's,- 60 kg
+Summer,2016,Bronze,JPN,Japan,TAKATO Naohisa,2016 Rio de Janeiro,Judo,Men's,- 60 kg
+Summer,2016,Bronze,UZB,Uzbekistan,UROZBOEV Diyorbek,2016 Rio de Janeiro,Judo,Men's,- 60 kg
+Summer,2016,Gold,ITA,Italy,BASILE Fabio,2016 Rio de Janeiro,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2016,Silver,KOR,Korea Republic,AN Baul,2016 Rio de Janeiro,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2016,Bronze,JPN,Japan,EBINUMA Masashi,2016 Rio de Janeiro,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2016,Bronze,UZB,Uzbekistan,SOBIROV Rishod,2016 Rio de Janeiro,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2016,Gold,JPN,Japan,ONO Shohei,2016 Rio de Janeiro,Judo,Men's,66 - 73kg (lightweight)
+Summer,2016,Silver,AZE,Azerbaijan,ORUJOV Rustam,2016 Rio de Janeiro,Judo,Men's,66 - 73kg (lightweight)
+Summer,2016,Bronze,BEL,Belgium,VAN TICHELT Dirk,2016 Rio de Janeiro,Judo,Men's,66 - 73kg (lightweight)
+Summer,2016,Bronze,GEO,Georgia,SHAVDATUASHVILI Lasha,2016 Rio de Janeiro,Judo,Men's,66 - 73kg (lightweight)
+Summer,2016,Gold,RUS,Russian Federation,KHALMURZAEV Khasan,2016 Rio de Janeiro,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2016,Silver,USA,United States,STEVENS Travis,2016 Rio de Janeiro,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2016,Bronze,JPN,Japan,NAGASE Takanori,2016 Rio de Janeiro,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2016,Bronze,UAE,United Arab Emirates,TOMA Sergiu,2016 Rio de Janeiro,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2016,Gold,JPN,Japan,BAKER Mashu,2016 Rio de Janeiro,Judo,Men's,81 - 90kg (middleweight)
+Summer,2016,Silver,GEO,Georgia,LIPARTELIANI Varlam,2016 Rio de Janeiro,Judo,Men's,81 - 90kg (middleweight)
+Summer,2016,Bronze,CHN,China,CHENG Xunzhao,2016 Rio de Janeiro,Judo,Men's,81 - 90kg (middleweight)
+Summer,2016,Bronze,KOR,Korea Republic,GWAK Donghan,2016 Rio de Janeiro,Judo,Men's,81 - 90kg (middleweight)
+Summer,2016,Gold,CZE,Czech Republic,KRPALEK Lukas,2016 Rio de Janeiro,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2016,Silver,AZE,Azerbaijan,GASIMOV Elmar,2016 Rio de Janeiro,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2016,Bronze,FRA,France,MARET Cyrille,2016 Rio de Janeiro,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2016,Bronze,JPN,Japan,HAGA Ryunosuke,2016 Rio de Janeiro,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2016,Gold,FRA,France,RINER Teddy,2016 Rio de Janeiro,Judo,Men's,+ 100kg (heavyweight)
+Summer,2016,Silver,JPN,Japan,HARASAWA Hisayoshi,2016 Rio de Janeiro,Judo,Men's,+ 100kg (heavyweight)
+Summer,2016,Bronze,BRA,Brazil,SILVA Rafael,2016 Rio de Janeiro,Judo,Men's,+ 100kg (heavyweight)
+Summer,2016,Bronze,ISR,Israel,SASSON Or,2016 Rio de Janeiro,Judo,Men's,+ 100kg (heavyweight)
+Summer,2016,Gold,ARG,Argentina,PARETO Paula,2016 Rio de Janeiro,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2016,Silver,KOR,Korea Republic,JEONG Bokyeong,2016 Rio de Janeiro,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2016,Bronze,JPN,Japan,KONDO Ami,2016 Rio de Janeiro,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2016,Bronze,KAZ,Kazakhstan,GALBADRAKH Otgontsetseg,2016 Rio de Janeiro,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2016,Gold,KOS,Kosovo,KELMENDI Majlinda,2016 Rio de Janeiro,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2016,Silver,ITA,Italy,GIUFFRIDA Odette,2016 Rio de Janeiro,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2016,Bronze,JPN,Japan,NAKAMURA Misato,2016 Rio de Janeiro,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2016,Bronze,RUS,Russian Federation,KUZIUTINA Natalia,2016 Rio de Janeiro,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2016,Gold,BRA,Brazil,SILVA Rafaela,2016 Rio de Janeiro,Judo,Women's,52 - 57kg (lightweight)
+Summer,2016,Silver,MGL,Mongolia,DORJSUREN Sumiya,2016 Rio de Janeiro,Judo,Women's,52 - 57kg (lightweight)
+Summer,2016,Bronze,JPN,Japan,MATSUMOTO Kaori,2016 Rio de Janeiro,Judo,Women's,52 - 57kg (lightweight)
+Summer,2016,Bronze,POR,Portugal,MONTEIRO Telma,2016 Rio de Janeiro,Judo,Women's,52 - 57kg (lightweight)
+Summer,2016,Gold,SLO,Slovenia,TRSTENJAK Tina,2016 Rio de Janeiro,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2016,Silver,FRA,France,AGBEGNENOU Clarisse,2016 Rio de Janeiro,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2016,Bronze,ISR,Israel,GERBI Yarden,2016 Rio de Janeiro,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2016,Bronze,NED,Netherlands,VAN EMDEN Anicka,2016 Rio de Janeiro,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2016,Gold,JPN,Japan,TACHIMOTO Haruka,2016 Rio de Janeiro,Judo,Women's,63 - 70kg (middleweight)
+Summer,2016,Silver,COL,Colombia,ALVEAR Yuri,2016 Rio de Janeiro,Judo,Women's,63 - 70kg (middleweight)
+Summer,2016,Bronze,GER,Germany,VARGAS KOCH Laura,2016 Rio de Janeiro,Judo,Women's,63 - 70kg (middleweight)
+Summer,2016,Bronze,GBR,Great Britain,CONWAY Sally,2016 Rio de Janeiro,Judo,Women's,63 - 70kg (middleweight)
+Summer,2016,Gold,USA,United States,HARRISON Kayla,2016 Rio de Janeiro,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2016,Silver,FRA,France,TCHEUMEO Audrey,2016 Rio de Janeiro,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2016,Bronze,BRA,Brazil,AGUIAR Mayra,2016 Rio de Janeiro,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2016,Bronze,SLO,Slovenia,VELENSEK Anamari,2016 Rio de Janeiro,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2016,Gold,FRA,France,ANDEOL Emilie,2016 Rio de Janeiro,Judo,Women's,+ 78kg (heavyweight)
+Summer,2016,Silver,CUB,Cuba,ORTIZ Idalys,2016 Rio de Janeiro,Judo,Women's,+ 78kg (heavyweight)
+Summer,2016,Bronze,CHN,China,YU Song,2016 Rio de Janeiro,Judo,Women's,+ 78kg (heavyweight)
+Summer,2016,Bronze,JPN,Japan,YAMABE Kanae,2016 Rio de Janeiro,Judo,Women's,+ 78kg (heavyweight)
+Summer,2016,Gold,NED,Netherlands,WEERTMAN Ferry,2016 Rio de Janeiro,Marathon swimming,Men's,marathon 10km
+Summer,2016,Silver,GRE,Greece,GIANNIOTIS Spiros,2016 Rio de Janeiro,Marathon swimming,Men's,marathon 10km
+Summer,2016,Bronze,FRA,France,OLIVIER Marc-Antoine,2016 Rio de Janeiro,Marathon swimming,Men's,marathon 10km
+Summer,2016,Gold,NED,Netherlands,VAN ROUWENDAAL Sharon,2016 Rio de Janeiro,Marathon swimming,Women's,marathon 10km
+Summer,2016,Silver,ITA,Italy,BRUNI Rachele,2016 Rio de Janeiro,Marathon swimming,Women's,marathon 10km
+Summer,2016,Bronze,BRA,Brazil,OKIMOTO Poliana,2016 Rio de Janeiro,Marathon swimming,Women's,marathon 10km
+Summer,2016,Gold,RUS,Russian Federation,LESUN Alexander,2016 Rio de Janeiro,Modern Pentathlon,Men's,individual competition
+Summer,2016,Silver,UKR,Ukraine,TYMOSHCHENKO Pavlo,2016 Rio de Janeiro,Modern Pentathlon,Men's,individual competition
+Summer,2016,Bronze,MEX,Mexico,HERNANDEZ USCANGA Ismael Marcelo,2016 Rio de Janeiro,Modern Pentathlon,Men's,individual competition
+Summer,2016,Gold,AUS,Australia,ESPOSITO Chloe,2016 Rio de Janeiro,Modern Pentathlon,Women's,individual competition
+Summer,2016,Silver,FRA,France,CLOUVEL Elodie,2016 Rio de Janeiro,Modern Pentathlon,Women's,individual competition
+Summer,2016,Bronze,POL,Poland,NOWACKA Oktawia,2016 Rio de Janeiro,Modern Pentathlon,Women's,individual competition
+Summer,2016,Gold,NZL,New Zealand,DRYSDALE Mahe,2016 Rio de Janeiro,Rowing,Men's,single sculls (1x)
+Summer,2016,Silver,CRO,Croatia,MARTIN Damir,2016 Rio de Janeiro,Rowing,Men's,single sculls (1x)
+Summer,2016,Bronze,CZE,Czech Republic,SYNEK Ondrej,2016 Rio de Janeiro,Rowing,Men's,single sculls (1x)
+Summer,2016,Gold,CRO,Croatia,"Sinkovic, Sinkovic",2016 Rio de Janeiro,Rowing,Men's,double sculls (2x)
+Summer,2016,Silver,LTU,Lithuania,"Griskonis, Ritter",2016 Rio de Janeiro,Rowing,Men's,double sculls (2x)
+Summer,2016,Bronze,NOR,Norway,"Tufte, Borch",2016 Rio de Janeiro,Rowing,Men's,double sculls (2x)
+Summer,2016,Gold,FRA,France,"Houin, Azou",2016 Rio de Janeiro,Rowing,Men's,lightweight double sculls (2x)
+Summer,2016,Silver,IRL,Ireland,"O'Donovan, O'Donovan",2016 Rio de Janeiro,Rowing,Men's,lightweight double sculls (2x)
+Summer,2016,Bronze,NOR,Norway,"Brun, Strandli",2016 Rio de Janeiro,Rowing,Men's,lightweight double sculls (2x)
+Summer,2016,Gold,NZL,New Zealand,"Murray, Bond",2016 Rio de Janeiro,Rowing,Men's,pair without coxswain (2-)
+Summer,2016,Silver,RSA,South Africa,"Brittain, Keeling",2016 Rio de Janeiro,Rowing,Men's,pair without coxswain (2-)
+Summer,2016,Bronze,ITA,Italy,"Abagnale, DI COSTANZO",2016 Rio de Janeiro,Rowing,Men's,pair without coxswain (2-)
+Summer,2016,Gold,GER,Germany,Germany,2016 Rio de Janeiro,Rowing,Men's,quadruple sculls without coxswain
+Summer,2016,Silver,AUS,Australia,Australia,2016 Rio de Janeiro,Rowing,Men's,quadruple sculls without coxswain
+Summer,2016,Bronze,EST,Estonia,Estonia,2016 Rio de Janeiro,Rowing,Men's,quadruple sculls without coxswain
+Summer,2016,Gold,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Rowing,Men's,four without coxswain (4-)
+Summer,2016,Silver,AUS,Australia,Australia,2016 Rio de Janeiro,Rowing,Men's,four without coxswain (4-)
+Summer,2016,Bronze,ITA,Italy,Italy,2016 Rio de Janeiro,Rowing,Men's,four without coxswain (4-)
+Summer,2016,Gold,SUI,Switzerland,Switzerland,2016 Rio de Janeiro,Rowing,Men's,lightweight coxless four (4-)
+Summer,2016,Silver,DEN,Denmark,Denmark,2016 Rio de Janeiro,Rowing,Men's,lightweight coxless four (4-)
+Summer,2016,Bronze,FRA,France,France,2016 Rio de Janeiro,Rowing,Men's,lightweight coxless four (4-)
+Summer,2016,Gold,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Rowing,Men's,eight with coxswain (8+)
+Summer,2016,Silver,GER,Germany,Germany,2016 Rio de Janeiro,Rowing,Men's,eight with coxswain (8+)
+Summer,2016,Bronze,NED,Netherlands,Netherlands,2016 Rio de Janeiro,Rowing,Men's,eight with coxswain (8+)
+Summer,2016,Gold,AUS,Australia,BRENNAN Kimberley,2016 Rio de Janeiro,Rowing,Women's,single sculls (1x)
+Summer,2016,Silver,USA,United States,STONE Genevra,2016 Rio de Janeiro,Rowing,Women's,single sculls (1x)
+Summer,2016,Bronze,CHN,China,DUAN Jingli,2016 Rio de Janeiro,Rowing,Women's,single sculls (1x)
+Summer,2016,Gold,POL,Poland,"Madaj, Fularczyk-Kozlowska",2016 Rio de Janeiro,Rowing,Women's,double sculls (2x)
+Summer,2016,Silver,GBR,Great Britain,"Thornley, Grainger",2016 Rio de Janeiro,Rowing,Women's,double sculls (2x)
+Summer,2016,Bronze,LTU,Lithuania,"Vistartaite, Valciukaite",2016 Rio de Janeiro,Rowing,Women's,double sculls (2x)
+Summer,2016,Gold,NED,Netherlands,"Paulis, Head",2016 Rio de Janeiro,Rowing,Women's,lightweight double sculls (2x)
+Summer,2016,Silver,CAN,Canada,"Obee, Jennerich",2016 Rio de Janeiro,Rowing,Women's,lightweight double sculls (2x)
+Summer,2016,Bronze,CHN,China,"Pan, Huang",2016 Rio de Janeiro,Rowing,Women's,lightweight double sculls (2x)
+Summer,2016,Gold,GBR,Great Britain,"Stanning, Glover",2016 Rio de Janeiro,Rowing,Women's,pair without coxswain (2-)
+Summer,2016,Silver,NZL,New Zealand,"Scown, Behrent",2016 Rio de Janeiro,Rowing,Women's,pair without coxswain (2-)
+Summer,2016,Bronze,DEN,Denmark,"Rasmussen, Andersen",2016 Rio de Janeiro,Rowing,Women's,pair without coxswain (2-)
+Summer,2016,Gold,GER,Germany,Germany,2016 Rio de Janeiro,Rowing,Women's,quadruple sculls without coxswain
+Summer,2016,Silver,NED,Netherlands,Netherlands,2016 Rio de Janeiro,Rowing,Women's,quadruple sculls without coxswain
+Summer,2016,Bronze,POL,Poland,Poland,2016 Rio de Janeiro,Rowing,Women's,quadruple sculls without coxswain
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Rowing,Women's,eight with coxswain (8+)
+Summer,2016,Silver,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Rowing,Women's,eight with coxswain (8+)
+Summer,2016,Bronze,ROU,Romania,Romania,2016 Rio de Janeiro,Rowing,Women's,eight with coxswain (8+)
+Summer,2016,Gold,FIJ,Fiji,Fiji,2016 Rio de Janeiro,Rugby,Men's,rugby-7
+Summer,2016,Silver,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Rugby,Men's,rugby-7
+Summer,2016,Bronze,RSA,South Africa,South Africa,2016 Rio de Janeiro,Rugby,Men's,rugby-7
+Summer,2016,Gold,AUS,Australia,Australia,2016 Rio de Janeiro,Rugby,Women's,rugby-7
+Summer,2016,Silver,NZL,New Zealand,New Zealand,2016 Rio de Janeiro,Rugby,Women's,rugby-7
+Summer,2016,Bronze,CAN,Canada,Canada,2016 Rio de Janeiro,Rugby,Women's,rugby-7
+Summer,2016,Gold,CRO,Croatia,"Marenic, Fantela",2016 Rio de Janeiro,Sailing,Men's,470 - Two Person Dinghy
+Summer,2016,Silver,AUS,Australia,"Ryan, Belcher",2016 Rio de Janeiro,Sailing,Men's,470 - Two Person Dinghy
+Summer,2016,Bronze,GRE,Greece,"Kagialis, Mantis",2016 Rio de Janeiro,Sailing,Men's,470 - Two Person Dinghy
+Summer,2016,Gold,AUS,Australia,BURTON Tom,2016 Rio de Janeiro,Sailing,Men's,Laser - One Person Dinghy
+Summer,2016,Silver,CRO,Croatia,STIPANOVIC Tonci,2016 Rio de Janeiro,Sailing,Men's,Laser - One Person Dinghy
+Summer,2016,Bronze,NZL,New Zealand,MEECH Sam,2016 Rio de Janeiro,Sailing,Men's,Laser - One Person Dinghy
+Summer,2016,Gold,NED,Netherlands,VAN RIJSSELBERGHE Dorian,2016 Rio de Janeiro,Sailing,Men's,RS:X - Windsurfer
+Summer,2016,Silver,GBR,Great Britain,DEMPSEY Nick,2016 Rio de Janeiro,Sailing,Men's,RS:X - Windsurfer
+Summer,2016,Bronze,FRA,France,LE COQ Pierre,2016 Rio de Janeiro,Sailing,Men's,RS:X - Windsurfer
+Summer,2016,Gold,NZL,New Zealand,"Tuke, Burling",2016 Rio de Janeiro,Sailing,Men's,49er - Skiff
+Summer,2016,Silver,AUS,Australia,"Jensen, Outteridge",2016 Rio de Janeiro,Sailing,Men's,49er - Skiff
+Summer,2016,Bronze,GER,Germany,"Ploessel, Heil",2016 Rio de Janeiro,Sailing,Men's,49er - Skiff
+Summer,2016,Gold,GBR,Great Britain,SCOTT Giles,2016 Rio de Janeiro,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2016,Silver,SLO,Slovenia,ZBOGAR Vasilij,2016 Rio de Janeiro,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2016,Bronze,USA,United States,PAINE Caleb,2016 Rio de Janeiro,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2016,Gold,GBR,Great Britain,"Clark, Mills",2016 Rio de Janeiro,Sailing,Women's,470 - Two Person Dinghy
+Summer,2016,Silver,NZL,New Zealand,"Aleh, Powrie",2016 Rio de Janeiro,Sailing,Women's,470 - Two Person Dinghy
+Summer,2016,Bronze,FRA,France,"Defrance, Lecointre",2016 Rio de Janeiro,Sailing,Women's,470 - Two Person Dinghy
+Summer,2016,Gold,NED,Netherlands,BOUWMEESTER Marit,2016 Rio de Janeiro,Sailing,Women's,Laser Radial - One Person Dinghy
+Summer,2016,Silver,IRL,Ireland,MURPHY Annalise,2016 Rio de Janeiro,Sailing,Women's,Laser Radial - One Person Dinghy
+Summer,2016,Bronze,DEN,Denmark,RINDOM Anne-Marie,2016 Rio de Janeiro,Sailing,Women's,Laser Radial - One Person Dinghy
+Summer,2016,Gold,FRA,France,PICON Charline,2016 Rio de Janeiro,Sailing,Women's,RS:X - Windsurfer
+Summer,2016,Silver,CHN,China,CHEN Peina,2016 Rio de Janeiro,Sailing,Women's,RS:X - Windsurfer
+Summer,2016,Bronze,RUS,Russian Federation,ELFUTINA Stefaniya,2016 Rio de Janeiro,Sailing,Women's,RS:X - Windsurfer
+Summer,2016,Gold,BRA,Brazil,"Kunze, Grael",2016 Rio de Janeiro,Sailing,Women's,49er FX - Skiff
+Summer,2016,Silver,NZL,New Zealand,"Maloney, Meech",2016 Rio de Janeiro,Sailing,Women's,49er FX - Skiff
+Summer,2016,Bronze,DEN,Denmark,"Salskov-Iversen, Hansen",2016 Rio de Janeiro,Sailing,Women's,49er FX - Skiff
+Summer,2016,Gold,ARG,Argentina,"Lange, Carranza Saroli",2016 Rio de Janeiro,Sailing,Mixed,Nacra 17 - Multihull
+Summer,2016,Silver,AUS,Australia,"Darmanin, Waterhouse",2016 Rio de Janeiro,Sailing,Mixed,Nacra 17 - Multihull
+Summer,2016,Bronze,AUT,Austria,"Frank, Zajac",2016 Rio de Janeiro,Sailing,Mixed,Nacra 17 - Multihull
+Summer,2016,Gold,ITA,Italy,CAMPRIANI Niccolo,2016 Rio de Janeiro,Shooting,Men's,10m air rifle
+Summer,2016,Silver,UKR,Ukraine,KULISH Serhiy,2016 Rio de Janeiro,Shooting,Men's,10m air rifle
+Summer,2016,Bronze,RUS,Russian Federation,MASLENNIKOV Vladimir,2016 Rio de Janeiro,Shooting,Men's,10m air rifle
+Summer,2016,Gold,VIE,Vietnam,HOANG Xuan Vinh,2016 Rio de Janeiro,Shooting,Men's,10m air pistol
+Summer,2016,Silver,BRA,Brazil,WU Felipe Almeida,2016 Rio de Janeiro,Shooting,Men's,10m air pistol
+Summer,2016,Bronze,CHN,China,PANG Wei,2016 Rio de Janeiro,Shooting,Men's,10m air pistol
+Summer,2016,Gold,ITA,Italy,CAMPRIANI Niccolo,2016 Rio de Janeiro,Shooting,Men's,50m rifle 3 positions
+Summer,2016,Silver,RUS,Russian Federation,KAMENSKIY Sergey,2016 Rio de Janeiro,Shooting,Men's,50m rifle 3 positions
+Summer,2016,Bronze,FRA,France,RAYNAUD Alexis,2016 Rio de Janeiro,Shooting,Men's,50m rifle 3 positions
+Summer,2016,Gold,KOR,Korea Republic,JIN Jongoh,2016 Rio de Janeiro,Shooting,Men's,50m pistol
+Summer,2016,Silver,VIE,Vietnam,HOANG Xuan Vinh,2016 Rio de Janeiro,Shooting,Men's,50m pistol
+Summer,2016,Bronze,PRK,Korea DPR,KIM Song Guk,2016 Rio de Janeiro,Shooting,Men's,50m pistol
+Summer,2016,Gold,GER,Germany,JUNGHAENEL Henri,2016 Rio de Janeiro,Shooting,Men's,50m rifle prone
+Summer,2016,Silver,KOR,Korea Republic,KIM Jonghyun,2016 Rio de Janeiro,Shooting,Men's,50m rifle prone
+Summer,2016,Bronze,RUS,Russian Federation,GRIGORYAN Kirill,2016 Rio de Janeiro,Shooting,Men's,50m rifle prone
+Summer,2016,Gold,GER,Germany,REITZ Christian,2016 Rio de Janeiro,Shooting,Men's,25m rapid fire pistol
+Summer,2016,Silver,FRA,France,QUIQUAMPOIX Jean,2016 Rio de Janeiro,Shooting,Men's,25m rapid fire pistol
+Summer,2016,Bronze,CHN,China,LI Yuehong,2016 Rio de Janeiro,Shooting,Men's,25m rapid fire pistol
+Summer,2016,Gold,ITA,Italy,ROSSETTI Gabriele,2016 Rio de Janeiro,Shooting,Men's,Skeet
+Summer,2016,Silver,SWE,Sweden,SVENSSON Marcus,2016 Rio de Janeiro,Shooting,Men's,Skeet
+Summer,2016,Bronze,IOA,Independent Olympic Athletes,ALRASHIDI Abdullah,2016 Rio de Janeiro,Shooting,Men's,Skeet
+Summer,2016,Gold,CRO,Croatia,GLASNOVIC Josip,2016 Rio de Janeiro,Shooting,Men's,Trap
+Summer,2016,Silver,ITA,Italy,PELLIELO Giovanni,2016 Rio de Janeiro,Shooting,Men's,Trap
+Summer,2016,Bronze,GBR,Great Britain,LING Edward,2016 Rio de Janeiro,Shooting,Men's,Trap
+Summer,2016,Gold,IOA,Independent Olympic Athletes,ALDEEHANI Fehaid,2016 Rio de Janeiro,Shooting,Men's,Double trap
+Summer,2016,Silver,ITA,Italy,INNOCENTI Marco,2016 Rio de Janeiro,Shooting,Men's,Double trap
+Summer,2016,Bronze,GBR,Great Britain,SCOTT Steven,2016 Rio de Janeiro,Shooting,Men's,Double trap
+Summer,2016,Gold,USA,United States,THRASHER Virginia,2016 Rio de Janeiro,Shooting,Women's,10m air rifle
+Summer,2016,Silver,CHN,China,DU Li,2016 Rio de Janeiro,Shooting,Women's,10m air rifle
+Summer,2016,Bronze,CHN,China,YI Siling,2016 Rio de Janeiro,Shooting,Women's,10m air rifle
+Summer,2016,Gold,CHN,China,ZHANG Mengxue,2016 Rio de Janeiro,Shooting,Women's,10m air pistol
+Summer,2016,Silver,RUS,Russian Federation,BATSARASHKINA Vitalina,2016 Rio de Janeiro,Shooting,Women's,10m air pistol
+Summer,2016,Bronze,GRE,Greece,KORAKAKI Anna,2016 Rio de Janeiro,Shooting,Women's,10m air pistol
+Summer,2016,Gold,GER,Germany,ENGLEDER Barbara,2016 Rio de Janeiro,Shooting,Women's,50m rifle 3 positions
+Summer,2016,Silver,CHN,China,ZHANG Binbin,2016 Rio de Janeiro,Shooting,Women's,50m rifle 3 positions
+Summer,2016,Bronze,CHN,China,DU Li,2016 Rio de Janeiro,Shooting,Women's,50m rifle 3 positions
+Summer,2016,Gold,GRE,Greece,KORAKAKI Anna,2016 Rio de Janeiro,Shooting,Women's,25m pistol
+Summer,2016,Silver,GER,Germany,KARSCH Monika,2016 Rio de Janeiro,Shooting,Women's,25m pistol
+Summer,2016,Bronze,SUI,Switzerland,DIETHELM GERBER Heidi,2016 Rio de Janeiro,Shooting,Women's,25m pistol
+Summer,2016,Gold,ITA,Italy,BACOSI Diana,2016 Rio de Janeiro,Shooting,Women's,Skeet
+Summer,2016,Silver,ITA,Italy,CAINERO Chiara,2016 Rio de Janeiro,Shooting,Women's,Skeet
+Summer,2016,Bronze,USA,United States,RHODE Kimberly,2016 Rio de Janeiro,Shooting,Women's,Skeet
+Summer,2016,Gold,AUS,Australia,SKINNER Catherine,2016 Rio de Janeiro,Shooting,Women's,Trap
+Summer,2016,Silver,NZL,New Zealand,ROONEY Natalie,2016 Rio de Janeiro,Shooting,Women's,Trap
+Summer,2016,Bronze,USA,United States,COGDELL Corey,2016 Rio de Janeiro,Shooting,Women's,Trap
+Summer,2016,Gold,USA,United States,ERVIN Anthony,2016 Rio de Janeiro,Swimming,Men's,50m freestyle
+Summer,2016,Silver,FRA,France,MANAUDOU Florent,2016 Rio de Janeiro,Swimming,Men's,50m freestyle
+Summer,2016,Bronze,USA,United States,ADRIAN Nathan,2016 Rio de Janeiro,Swimming,Men's,50m freestyle
+Summer,2016,Gold,AUS,Australia,CHALMERS Kyle,2016 Rio de Janeiro,Swimming,Men's,100m freestyle
+Summer,2016,Silver,BEL,Belgium,TIMMERS Pieter,2016 Rio de Janeiro,Swimming,Men's,100m freestyle
+Summer,2016,Bronze,USA,United States,ADRIAN Nathan,2016 Rio de Janeiro,Swimming,Men's,100m freestyle
+Summer,2016,Gold,CHN,China,SUN Yang,2016 Rio de Janeiro,Swimming,Men's,200m freestyle
+Summer,2016,Silver,RSA,South Africa,LE CLOS Chad Guy Bertrand,2016 Rio de Janeiro,Swimming,Men's,200m freestyle
+Summer,2016,Bronze,USA,United States,DWYER Conor,2016 Rio de Janeiro,Swimming,Men's,200m freestyle
+Summer,2016,Gold,AUS,Australia,HORTON Mack,2016 Rio de Janeiro,Swimming,Men's,400m freestyle
+Summer,2016,Silver,CHN,China,SUN Yang,2016 Rio de Janeiro,Swimming,Men's,400m freestyle
+Summer,2016,Bronze,ITA,Italy,DETTI Gabriele,2016 Rio de Janeiro,Swimming,Men's,400m freestyle
+Summer,2016,Gold,ITA,Italy,PALTRINIERI Gregorio,2016 Rio de Janeiro,Swimming,Men's,1500m freestyle
+Summer,2016,Silver,USA,United States,JAEGER Connor,2016 Rio de Janeiro,Swimming,Men's,1500m freestyle
+Summer,2016,Bronze,ITA,Italy,DETTI Gabriele,2016 Rio de Janeiro,Swimming,Men's,1500m freestyle
+Summer,2016,Gold,USA,United States,MURPHY Ryan,2016 Rio de Janeiro,Swimming,Men's,100m backstroke
+Summer,2016,Silver,CHN,China,XU Jiayu,2016 Rio de Janeiro,Swimming,Men's,100m backstroke
+Summer,2016,Bronze,USA,United States,PLUMMER David,2016 Rio de Janeiro,Swimming,Men's,100m backstroke
+Summer,2016,Gold,USA,United States,MURPHY Ryan,2016 Rio de Janeiro,Swimming,Men's,200m backstroke
+Summer,2016,Silver,AUS,Australia,LARKIN Mitchell,2016 Rio de Janeiro,Swimming,Men's,200m backstroke
+Summer,2016,Bronze,RUS,Russian Federation,RYLOV Evgeny,2016 Rio de Janeiro,Swimming,Men's,200m backstroke
+Summer,2016,Gold,GBR,Great Britain,PEATY Adam,2016 Rio de Janeiro,Swimming,Men's,100m breaststroke
+Summer,2016,Silver,RSA,South Africa,VAN DER BURGH Cameron,2016 Rio de Janeiro,Swimming,Men's,100m breaststroke
+Summer,2016,Bronze,USA,United States,MILLER Cody,2016 Rio de Janeiro,Swimming,Men's,100m breaststroke
+Summer,2016,Gold,KAZ,Kazakhstan,BALANDIN Dmitriy,2016 Rio de Janeiro,Swimming,Men's,200m breaststroke
+Summer,2016,Silver,USA,United States,PRENOT Josh,2016 Rio de Janeiro,Swimming,Men's,200m breaststroke
+Summer,2016,Bronze,RUS,Russian Federation,CHUPKOV Anton,2016 Rio de Janeiro,Swimming,Men's,200m breaststroke
+Summer,2016,Gold,SGP,Singapore,SCHOOLING Joseph,2016 Rio de Janeiro,Swimming,Men's,100m butterfly
+Summer,2016,Silver,HUN,Hungary,CSEH Laszlo LE CLOS,2016 Rio de Janeiro,Swimming,Men's,100m butterfly
+Summer,2016,Silver,RSA,South Africa,Chad Guy Bertrand,2016 Rio de Janeiro,Swimming,Men's,100m butterfly
+Summer,2016,Silver,USA,United States,PHELPS Michael,2016 Rio de Janeiro,Swimming,Men's,100m butterfly
+Summer,2016,Gold,USA,United States,PHELPS Michael,2016 Rio de Janeiro,Swimming,Men's,200m butterfly
+Summer,2016,Silver,JPN,Japan,SAKAI Masato,2016 Rio de Janeiro,Swimming,Men's,200m butterfly
+Summer,2016,Bronze,HUN,Hungary,KENDERESI Tamas,2016 Rio de Janeiro,Swimming,Men's,200m butterfly
+Summer,2016,Gold,USA,United States,PHELPS Michael,2016 Rio de Janeiro,Swimming,Men's,200m individual medley
+Summer,2016,Silver,JPN,Japan,HAGINO Kosuke,2016 Rio de Janeiro,Swimming,Men's,200m individual medley
+Summer,2016,Bronze,CHN,China,WANG Shun,2016 Rio de Janeiro,Swimming,Men's,200m individual medley
+Summer,2016,Gold,JPN,Japan,HAGINO Kosuke,2016 Rio de Janeiro,Swimming,Men's,400m individual medley
+Summer,2016,Silver,USA,United States,KALISZ Chase,2016 Rio de Janeiro,Swimming,Men's,400m individual medley
+Summer,2016,Bronze,JPN,Japan,SETO Daiya,2016 Rio de Janeiro,Swimming,Men's,400m individual medley
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Swimming,Men's,4x100m freestyle relay
+Summer,2016,Silver,FRA,France,France,2016 Rio de Janeiro,Swimming,Men's,4x100m freestyle relay
+Summer,2016,Bronze,AUS,Australia,Australia,2016 Rio de Janeiro,Swimming,Men's,4x100m freestyle relay
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Swimming,Men's,4x200m freestyle relay
+Summer,2016,Silver,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Swimming,Men's,4x200m freestyle relay
+Summer,2016,Bronze,JPN,Japan,Japan,2016 Rio de Janeiro,Swimming,Men's,4x200m freestyle relay
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Swimming,Men's,4x100m medley relay
+Summer,2016,Silver,GBR,Great Britain,Great Britain,2016 Rio de Janeiro,Swimming,Men's,4x100m medley relay
+Summer,2016,Bronze,AUS,Australia,Australia,2016 Rio de Janeiro,Swimming,Men's,4x100m medley relay
+Summer,2016,Gold,DEN,Denmark,BLUME Pernille,2016 Rio de Janeiro,Swimming,Women's,50m freestyle
+Summer,2016,Silver,USA,United States,MANUEL Simone,2016 Rio de Janeiro,Swimming,Women's,50m freestyle
+Summer,2016,Bronze,BLR,Belarus,HERASIMENIA Aliaksandra,2016 Rio de Janeiro,Swimming,Women's,50m freestyle
+Summer,2016,Gold,CAN,Canada,OLEKSIAK Penny,2016 Rio de Janeiro,Swimming,Women's,100m freestyle
+Summer,2016,Gold,USA,United States,MANUEL Simone,2016 Rio de Janeiro,Swimming,Women's,100m freestyle
+Summer,2016,Bronze,SWE,Sweden,SJOSTROM Sarah,2016 Rio de Janeiro,Swimming,Women's,100m freestyle
+Summer,2016,Gold,USA,United States,LEDECKY Katie,2016 Rio de Janeiro,Swimming,Women's,200m freestyle
+Summer,2016,Silver,SWE,Sweden,SJOSTROM Sarah,2016 Rio de Janeiro,Swimming,Women's,200m freestyle
+Summer,2016,Bronze,AUS,Australia,MCKEON Emma,2016 Rio de Janeiro,Swimming,Women's,200m freestyle
+Summer,2016,Gold,USA,United States,LEDECKY Katie,2016 Rio de Janeiro,Swimming,Women's,400m freestyle
+Summer,2016,Silver,GBR,Great Britain,CARLIN Jazz,2016 Rio de Janeiro,Swimming,Women's,400m freestyle
+Summer,2016,Bronze,USA,United States,SMITH Leah,2016 Rio de Janeiro,Swimming,Women's,400m freestyle
+Summer,2016,Gold,USA,United States,LEDECKY Katie,2016 Rio de Janeiro,Swimming,Women's,800m freestyle
+Summer,2016,Silver,GBR,Great Britain,CARLIN Jazz,2016 Rio de Janeiro,Swimming,Women's,800m freestyle
+Summer,2016,Bronze,HUN,Hungary,KAPAS Boglarka,2016 Rio de Janeiro,Swimming,Women's,800m freestyle
+Summer,2016,Gold,HUN,Hungary,HOSSZU Katinka,2016 Rio de Janeiro,Swimming,Women's,100m backstroke
+Summer,2016,Silver,USA,United States,BAKER Kathleen,2016 Rio de Janeiro,Swimming,Women's,100m backstroke
+Summer,2016,Bronze,CAN,Canada,MASSE Kylie,2016 Rio de Janeiro,Swimming,Women's,100m backstroke
+Summer,2016,Bronze,CHN,China,FU Yuanhui,2016 Rio de Janeiro,Swimming,Women's,100m backstroke
+Summer,2016,Gold,USA,United States,DIRADO Madeline,2016 Rio de Janeiro,Swimming,Women's,200m backstroke
+Summer,2016,Silver,HUN,Hungary,HOSSZU Katinka,2016 Rio de Janeiro,Swimming,Women's,200m backstroke
+Summer,2016,Bronze,CAN,Canada,CALDWELL Hilary,2016 Rio de Janeiro,Swimming,Women's,200m backstroke
+Summer,2016,Gold,USA,United States,KING Lilly,2016 Rio de Janeiro,Swimming,Women's,100m breaststroke
+Summer,2016,Silver,RUS,Russian Federation,EFIMOVA Yulia,2016 Rio de Janeiro,Swimming,Women's,100m breaststroke
+Summer,2016,Bronze,USA,United States,MEILI Catherine,2016 Rio de Janeiro,Swimming,Women's,100m breaststroke
+Summer,2016,Gold,JPN,Japan,KANETO Rie,2016 Rio de Janeiro,Swimming,Women's,200m breaststroke
+Summer,2016,Silver,RUS,Russian Federation,EFIMOVA Yulia,2016 Rio de Janeiro,Swimming,Women's,200m breaststroke
+Summer,2016,Bronze,CHN,China,SHI Jinglin,2016 Rio de Janeiro,Swimming,Women's,200m breaststroke
+Summer,2016,Gold,SWE,Sweden,SJOSTROM Sarah,2016 Rio de Janeiro,Swimming,Women's,100m butterfly
+Summer,2016,Silver,CAN,Canada,OLEKSIAK Penny,2016 Rio de Janeiro,Swimming,Women's,100m butterfly
+Summer,2016,Bronze,USA,United States,VOLLMER Dana,2016 Rio de Janeiro,Swimming,Women's,100m butterfly
+Summer,2016,Gold,ESP,Spain,BELMONTE GARCIA Mireia,2016 Rio de Janeiro,Swimming,Women's,200m butterfly
+Summer,2016,Silver,AUS,Australia,GROVES Madeline,2016 Rio de Janeiro,Swimming,Women's,200m butterfly
+Summer,2016,Bronze,JPN,Japan,HOSHI Natsumi,2016 Rio de Janeiro,Swimming,Women's,200m butterfly
+Summer,2016,Gold,HUN,Hungary,HOSSZU Katinka,2016 Rio de Janeiro,Swimming,Women's,200m individual medley
+Summer,2016,Silver,GBR,Great Britain,O'CONNOR Siobhan-Marie,2016 Rio de Janeiro,Swimming,Women's,200m individual medley
+Summer,2016,Bronze,USA,United States,DIRADO Madeline,2016 Rio de Janeiro,Swimming,Women's,200m individual medley
+Summer,2016,Gold,HUN,Hungary,HOSSZU Katinka,2016 Rio de Janeiro,Swimming,Women's,400m individual medley
+Summer,2016,Silver,USA,United States,DIRADO Madeline,2016 Rio de Janeiro,Swimming,Women's,400m individual medley
+Summer,2016,Bronze,ESP,Spain,BELMONTE GARCIA Mireia,2016 Rio de Janeiro,Swimming,Women's,400m individual medley
+Summer,2016,Gold,AUS,Australia,Australia,2016 Rio de Janeiro,Swimming,Women's,4x100m freestyle relay
+Summer,2016,Silver,USA,United States,United States,2016 Rio de Janeiro,Swimming,Women's,4x100m freestyle relay
+Summer,2016,Bronze,CAN,Canada,Canada,2016 Rio de Janeiro,Swimming,Women's,4x100m freestyle relay
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Swimming,Women's,4x200m freestyle relay
+Summer,2016,Silver,AUS,Australia,Australia,2016 Rio de Janeiro,Swimming,Women's,4x200m freestyle relay
+Summer,2016,Bronze,CAN,Canada,Canada,2016 Rio de Janeiro,Swimming,Women's,4x200m freestyle relay
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Swimming,Women's,4x100m medley relay
+Summer,2016,Silver,AUS,Australia,Australia,2016 Rio de Janeiro,Swimming,Women's,4x100m medley relay
+Summer,2016,Bronze,DEN,Denmark,Denmark,2016 Rio de Janeiro,Swimming,Women's,4x100m medley relay
+Summer,2016,Gold,CHN,China,MA Long,2016 Rio de Janeiro,Table Tennis,Men's,singles
+Summer,2016,Silver,CHN,China,ZHANG Jike,2016 Rio de Janeiro,Table Tennis,Men's,singles
+Summer,2016,Bronze,JPN,Japan,MIZUTANI Jun,2016 Rio de Janeiro,Table Tennis,Men's,singles
+Summer,2016,Gold,CHN,China,China,2016 Rio de Janeiro,Table Tennis,Men's,team
+Summer,2016,Silver,JPN,Japan,Japan,2016 Rio de Janeiro,Table Tennis,Men's,team
+Summer,2016,Bronze,GER,Germany,Germany,2016 Rio de Janeiro,Table Tennis,Men's,team
+Summer,2016,Gold,CHN,China,DING Ning,2016 Rio de Janeiro,Table Tennis,Women's,singles
+Summer,2016,Silver,CHN,China,LI Xiaoxia,2016 Rio de Janeiro,Table Tennis,Women's,singles
+Summer,2016,Bronze,PRK,Korea DPR,KIM Song I,2016 Rio de Janeiro,Table Tennis,Women's,singles
+Summer,2016,Gold,CHN,China,China,2016 Rio de Janeiro,Table Tennis,Women's,team
+Summer,2016,Silver,GER,Germany,Germany,2016 Rio de Janeiro,Table Tennis,Women's,team
+Summer,2016,Bronze,JPN,Japan,Japan,2016 Rio de Janeiro,Table Tennis,Women's,team
+Summer,2016,Gold,CHN,China,ZHAO Shuai,2016 Rio de Janeiro,Taekwondo,Men's,- 58 kg
+Summer,2016,Silver,THA,Thailand,HANPRAB Tawin,2016 Rio de Janeiro,Taekwondo,Men's,- 58 kg
+Summer,2016,Bronze,DOM,Dominican Republic,PIE Luisito,2016 Rio de Janeiro,Taekwondo,Men's,- 58 kg
+Summer,2016,Bronze,KOR,Korea Republic,KIM Taehun,2016 Rio de Janeiro,Taekwondo,Men's,- 58 kg
+Summer,2016,Gold,JOR,Jordan,ABUGHAUSH Ahmad,2016 Rio de Janeiro,Taekwondo,Men's,58 - 68 kg
+Summer,2016,Silver,RUS,Russian Federation,DENISENKO Alexey,2016 Rio de Janeiro,Taekwondo,Men's,58 - 68 kg
+Summer,2016,Bronze,KOR,Korea Republic,LEE Daehoon,2016 Rio de Janeiro,Taekwondo,Men's,58 - 68 kg
+Summer,2016,Bronze,ESP,Spain,GONZALEZ BONILLA Joel,2016 Rio de Janeiro,Taekwondo,Men's,58 - 68 kg
+Summer,2016,Gold,CIV,Cote d'Ivoire,CISSE Cheick Sallah Junior,2016 Rio de Janeiro,Taekwondo,Men's,68 - 80 kg
+Summer,2016,Silver,GBR,Great Britain,MUHAMMAD Lutalo,2016 Rio de Janeiro,Taekwondo,Men's,68 - 80 kg
+Summer,2016,Bronze,AZE,Azerbaijan,BEIGI HARCHEGANI Milad,2016 Rio de Janeiro,Taekwondo,Men's,68 - 80 kg
+Summer,2016,Bronze,TUN,Tunisia,OUESLATI Oussama,2016 Rio de Janeiro,Taekwondo,Men's,68 - 80 kg
+Summer,2016,Gold,AZE,Azerbaijan,ISAEV Radik,2016 Rio de Janeiro,Taekwondo,Men's,+ 80 kg
+Summer,2016,Silver,NIG,Niger,ISSOUFOU ALFAGA Abdoulrazak,2016 Rio de Janeiro,Taekwondo,Men's,+ 80 kg
+Summer,2016,Bronze,BRA,Brazil,SIQUEIRA Maicon,2016 Rio de Janeiro,Taekwondo,Men's,+ 80 kg
+Summer,2016,Bronze,KOR,Korea Republic,CHA Dongmin,2016 Rio de Janeiro,Taekwondo,Men's,+ 80 kg
+Summer,2016,Gold,KOR,Korea Republic,KIM Sohui,2016 Rio de Janeiro,Taekwondo,Women's,- 49 kg
+Summer,2016,Silver,SRB,Serbia,BOGDANOVIC Tijana,2016 Rio de Janeiro,Taekwondo,Women's,- 49 kg
+Summer,2016,Bronze,AZE,Azerbaijan,ABAKAROVA Patimat,2016 Rio de Janeiro,Taekwondo,Women's,- 49 kg
+Summer,2016,Bronze,THA,Thailand,WONGPATTANAKIT Panipak,2016 Rio de Janeiro,Taekwondo,Women's,- 49 kg
+Summer,2016,Gold,GBR,Great Britain,JONES Jade,2016 Rio de Janeiro,Taekwondo,Women's,49 - 57 kg
+Summer,2016,Silver,ESP,Spain,CALVO GOMEZ Eva,2016 Rio de Janeiro,Taekwondo,Women's,49 - 57 kg
+Summer,2016,Bronze,EGY,Egypt,WAHBA Hedaya,2016 Rio de Janeiro,Taekwondo,Women's,49 - 57 kg
+Summer,2016,Bronze,IRI,Iran,ALIZADEH ZENOORIN Kimia,2016 Rio de Janeiro,Taekwondo,Women's,49 - 57 kg
+Summer,2016,Gold,KOR,Korea Republic,OH Hyeri,2016 Rio de Janeiro,Taekwondo,Women's,57 - 67 kg
+Summer,2016,Silver,FRA,France,NIARE Haby,2016 Rio de Janeiro,Taekwondo,Women's,57 - 67 kg
+Summer,2016,Bronze,CIV,Cote d'Ivoire,GBAGBI Ruth Marie Christelle,2016 Rio de Janeiro,Taekwondo,Women's,57 - 67 kg
+Summer,2016,Bronze,TUR,Turkey,TATAR Nur,2016 Rio de Janeiro,Taekwondo,Women's,57 - 67 kg
+Summer,2016,Gold,CHN,China,ZHENG Shuyin,2016 Rio de Janeiro,Taekwondo,Women's,+ 67 kg
+Summer,2016,Silver,MEX,Mexico,ESPINOZA ESPINOZA Maria del Rosario,2016 Rio de Janeiro,Taekwondo,Women's,+ 67 kg
+Summer,2016,Bronze,GBR,Great Britain,WALKDEN Bianca,2016 Rio de Janeiro,Taekwondo,Women's,+ 67 kg
+Summer,2016,Bronze,USA,United States,GALLOWAY Jackie,2016 Rio de Janeiro,Taekwondo,Women's,+ 67 kg
+Summer,2016,Gold,GBR,Great Britain,MURRAY Andy,2016 Rio de Janeiro,Tennis,Men's,singles
+Summer,2016,Silver,ARG,Argentina,DEL POTRO Juan Martin,2016 Rio de Janeiro,Tennis,Men's,singles
+Summer,2016,Bronze,JPN,Japan,NISHIKORI Kei,2016 Rio de Janeiro,Tennis,Men's,singles
+Summer,2016,Gold,ESP,Spain,"Nadal, Lopez",2016 Rio de Janeiro,Tennis,Men's,doubles
+Summer,2016,Silver,ROU,Romania,"Tecau, Mergea",2016 Rio de Janeiro,Tennis,Men's,doubles
+Summer,2016,Bronze,USA,United States,"Johnson, Sock",2016 Rio de Janeiro,Tennis,Men's,doubles
+Summer,2016,Gold,PUR,Puerto Rico,PUIG Monica,2016 Rio de Janeiro,Tennis,Women's,singles
+Summer,2016,Silver,GER,Germany,KERBER Angelique,2016 Rio de Janeiro,Tennis,Women's,singles
+Summer,2016,Bronze,CZE,Czech Republic,KVITOVA Petra,2016 Rio de Janeiro,Tennis,Women's,singles
+Summer,2016,Gold,RUS,Russian Federation,"Vesnina, Makarova",2016 Rio de Janeiro,Tennis,Women's,doubles
+Summer,2016,Silver,SUI,Switzerland,"Hingis, Bacsinszky",2016 Rio de Janeiro,Tennis,Women's,doubles
+Summer,2016,Bronze,CZE,Czech Republic,"Strycova, Safarova",2016 Rio de Janeiro,Tennis,Women's,doubles
+Summer,2016,Gold,USA,United States,"Sock, Mattek-Sands",2016 Rio de Janeiro,Tennis,Mixed,mixed doubles
+Summer,2016,Silver,USA,United States,"Williams, Ram",2016 Rio de Janeiro,Tennis,Mixed,mixed doubles
+Summer,2016,Bronze,CZE,Czech Republic,"Stepanek, Hradecka",2016 Rio de Janeiro,Tennis,Mixed,mixed doubles
+Summer,2016,Gold,BLR,Belarus,HANCHAROU Uladzislau,2016 Rio de Janeiro,Trampoline,Men's,individual
+Summer,2016,Silver,CHN,China,DONG Dong,2016 Rio de Janeiro,Trampoline,Men's,individual
+Summer,2016,Bronze,CHN,China,GAO Lei,2016 Rio de Janeiro,Trampoline,Men's,individual
+Summer,2016,Gold,CAN,Canada,MACLENNAN Rosannagh,2016 Rio de Janeiro,Trampoline,Women's,individual
+Summer,2016,Silver,GBR,Great Britain,PAGE Bryony,2016 Rio de Janeiro,Trampoline,Women's,individual
+Summer,2016,Bronze,CHN,China,LI Dan,2016 Rio de Janeiro,Trampoline,Women's,individual
+Summer,2016,Gold,GBR,Great Britain,BROWNLEE Alistair,2016 Rio de Janeiro,Triathlon,Men's,individual
+Summer,2016,Silver,GBR,Great Britain,BROWNLEE Jonathan,2016 Rio de Janeiro,Triathlon,Men's,individual
+Summer,2016,Bronze,RSA,South Africa,SCHOEMAN Henri,2016 Rio de Janeiro,Triathlon,Men's,individual
+Summer,2016,Gold,USA,United States,JORGENSEN Gwen,2016 Rio de Janeiro,Triathlon,Women's,individual
+Summer,2016,Silver,SUI,Switzerland,SPIRIG HUG Nicola,2016 Rio de Janeiro,Triathlon,Women's,individual
+Summer,2016,Bronze,GBR,Great Britain,HOLLAND Vicky,2016 Rio de Janeiro,Triathlon,Women's,individual
+Summer,2016,Gold,BRA,Brazil,Brazil,2016 Rio de Janeiro,Volleyball,Men's,volleyball
+Summer,2016,Silver,ITA,Italy,Italy,2016 Rio de Janeiro,Volleyball,Men's,volleyball
+Summer,2016,Bronze,USA,United States,United States,2016 Rio de Janeiro,Volleyball,Men's,volleyball
+Summer,2016,Gold,CHN,China,China,2016 Rio de Janeiro,Volleyball,Women's,volleyball
+Summer,2016,Silver,SRB,Serbia,Serbia,2016 Rio de Janeiro,Volleyball,Women's,volleyball
+Summer,2016,Bronze,USA,United States,United States,2016 Rio de Janeiro,Volleyball,Women's,volleyball
+Summer,2016,Gold,SRB,Serbia,Serbia,2016 Rio de Janeiro,Water Polo,Men's,water polo
+Summer,2016,Silver,CRO,Croatia,Croatia,2016 Rio de Janeiro,Water Polo,Men's,water polo
+Summer,2016,Bronze,ITA,Italy,Italy,2016 Rio de Janeiro,Water Polo,Men's,water polo
+Summer,2016,Gold,USA,United States,United States,2016 Rio de Janeiro,Water Polo,Women's,water polo
+Summer,2016,Silver,ITA,Italy,Italy,2016 Rio de Janeiro,Water Polo,Women's,water polo
+Summer,2016,Bronze,RUS,Russian Federation,Russian Federation,2016 Rio de Janeiro,Water Polo,Women's,water polo
+Summer,2016,Gold,CHN,China,LONG Qingquan,2016 Rio de Janeiro,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2016,Silver,PRK,Korea DPR,OM Yun Chol,2016 Rio de Janeiro,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2016,Bronze,THA,Thailand,KRUAITHONG Sinphet,2016 Rio de Janeiro,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2016,Gold,COL,Colombia,FIGUEROA MOSQUERA Oscar Albeiro,2016 Rio de Janeiro,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2016,Silver,INA,Indonesia,IRAWAN Eko Yuli,2016 Rio de Janeiro,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2016,Bronze,KAZ,Kazakhstan,KHARKI Farkhad,2016 Rio de Janeiro,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2016,Gold,CHN,China,SHI Zhiyong,2016 Rio de Janeiro,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2016,Silver,TUR,Turkey,ISMAYILOV Daniyar,2016 Rio de Janeiro,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2016,Bronze,COL,Colombia,MOSQUERA LOZANO Luis Javier,2016 Rio de Janeiro,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2016,Silver,CHN,China,LYU Xiaojun,2016 Rio de Janeiro,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2016,Bronze,EGY,Egypt,MAHMOUD Mohamed Ehab,2016 Rio de Janeiro,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2016,Gold,IRI,Iran,ROSTAMI Kianoush,2016 Rio de Janeiro,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2016,Silver,CHN,China,TIAN Tao,2016 Rio de Janeiro,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2016,Bronze,KAZ,Kazakhstan,Denis Ulanov,2016 Rio de Janeiro,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2016,Gold,IRI,Iran,MORADI Sohrab,2016 Rio de Janeiro,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2016,Silver,BLR,Belarus,STRALTSOU Vadzim,2016 Rio de Janeiro,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2016,Bronze,LTU,Lithuania,DIDZBALIS Aurimas,2016 Rio de Janeiro,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2016,Gold,UZB,Uzbekistan,NURUDINOV Ruslan,2016 Rio de Janeiro,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2016,Silver,ARM,Armenia,MARTIROSYAN Simon,2016 Rio de Janeiro,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2016,Bronze,KAZ,Kazakhstan,ZAICHIKOV Alexandr,2016 Rio de Janeiro,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2016,Gold,GEO,Georgia,TALAKHADZE Lasha,2016 Rio de Janeiro,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2016,Silver,ARM,Armenia,MINASYAN Gor,2016 Rio de Janeiro,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2016,Bronze,GEO,Georgia,TURMANIDZE Irakli,2016 Rio de Janeiro,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2016,Gold,THA,Thailand,TANASAN Sopita,2016 Rio de Janeiro,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2016,Silver,INA,Indonesia,AGUSTIANI Sri Wahyuni,2016 Rio de Janeiro,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2016,Bronze,JPN,Japan,MIYAKE Hiromi,2016 Rio de Janeiro,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2016,Gold,TPE,Chinese Taipei,HSU Shu-Ching,2016 Rio de Janeiro,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2016,Silver,PHI,Philippines,DIAZ Hidilyn,2016 Rio de Janeiro,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2016,Bronze,KOR,Korea Republic,YOON Jin Hee,2016 Rio de Janeiro,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2016,Gold,THA,Thailand,SRISURAT Sukanya,2016 Rio de Janeiro,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2016,Silver,THA,Thailand,SIRIKAEW Pimsiri,2016 Rio de Janeiro,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2016,Bronze,TPE,Chinese Taipei,KUO Hsing-Chun,2016 Rio de Janeiro,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2016,Gold,CHN,China,DENG Wei,2016 Rio de Janeiro,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2016,Silver,PRK,Korea DPR,CHOE Hyo Sim,2016 Rio de Janeiro,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2016,Bronze,KAZ,Kazakhstan,GORICHEVA Karina,2016 Rio de Janeiro,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2016,Gold,CHN,China,XIANG Yanmei,2016 Rio de Janeiro,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2016,Silver,KAZ,Kazakhstan,ZHAPPARKUL Zhazira,2016 Rio de Janeiro,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2016,Bronze,EGY,Egypt,AHMED Sara,2016 Rio de Janeiro,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2016,Gold,PRK,Korea DPR,RIM Jong Sim,2016 Rio de Janeiro,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2016,Silver,BLR,Belarus,NAUMAVA Darya,2016 Rio de Janeiro,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2016,Bronze,ESP,Spain,VALENTIN PEREZ Lidia,2016 Rio de Janeiro,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2016,Gold,CHN,China,MENG Suping,2016 Rio de Janeiro,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2016,Silver,PRK,Korea DPR,KIM Kuk Hyang,2016 Rio de Janeiro,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2016,Bronze,USA,United States,ROBLES Sarah Elizabeth,2016 Rio de Janeiro,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2016,Gold,GEO,Georgia,KHINCHEGASHVILI Vladimer,2016 Rio de Janeiro,Wrestling Freestyle,Men's,57kg
+Summer,2016,Silver,JPN,Japan,HIGUCHI Rei,2016 Rio de Janeiro,Wrestling Freestyle,Men's,57kg
+Summer,2016,Bronze,AZE,Azerbaijan,ALIYEV Haji,2016 Rio de Janeiro,Wrestling Freestyle,Men's,57kg
+Summer,2016,Bronze,IRI,Iran,RAHIMI Hassan Sabzali,2016 Rio de Janeiro,Wrestling Freestyle,Men's,57kg
+Summer,2016,Gold,RUS,Russian Federation,RAMONOV Soslan,2016 Rio de Janeiro,Wrestling Freestyle,Men's,65kg
+Summer,2016,Silver,AZE,Azerbaijan,ASGAROV Toghrul,2016 Rio de Janeiro,Wrestling Freestyle,Men's,65kg
+Summer,2016,Bronze,ITA,Italy,CHAMIZO MARQUEZ Frank,2016 Rio de Janeiro,Wrestling Freestyle,Men's,65kg
+Summer,2016,Bronze,UZB,Uzbekistan,NAVRUZOV Ikhtiyor,2016 Rio de Janeiro,Wrestling Freestyle,Men's,65kg
+Summer,2016,Gold,IRI,Iran,YAZDANICHARATI Hassan Aliazam,2016 Rio de Janeiro,Wrestling Freestyle,Men's,74kg
+Summer,2016,Silver,RUS,Russian Federation,GEDUEV Aniuar,2016 Rio de Janeiro,Wrestling Freestyle,Men's,74kg
+Summer,2016,Bronze,AZE,Azerbaijan,HASANOV Jabrayil,2016 Rio de Janeiro,Wrestling Freestyle,Men's,74kg
+Summer,2016,Bronze,TUR,Turkey,DEMIRTAS Soner,2016 Rio de Janeiro,Wrestling Freestyle,Men's,74kg
+Summer,2016,Gold,RUS,Russian Federation,SADULAEV Abdulrashid,2016 Rio de Janeiro,Wrestling Freestyle,Men's,86kg
+Summer,2016,Silver,TUR,Turkey,YASAR Selim,2016 Rio de Janeiro,Wrestling Freestyle,Men's,86kg
+Summer,2016,Bronze,AZE,Azerbaijan,SHARIFOV Sharif,2016 Rio de Janeiro,Wrestling Freestyle,Men's,86kg
+Summer,2016,Bronze,USA,United States,COX J'den Michael Tbory,2016 Rio de Janeiro,Wrestling Freestyle,Men's,86kg
+Summer,2016,Gold,USA,United States,SNYDER Kyle Frederick,2016 Rio de Janeiro,Wrestling Freestyle,Men's,97kg
+Summer,2016,Silver,AZE,Azerbaijan,GOZIUMOV Khetag,2016 Rio de Janeiro,Wrestling Freestyle,Men's,97kg
+Summer,2016,Bronze,ROU,Romania,SARITOV Albert,2016 Rio de Janeiro,Wrestling Freestyle,Men's,97kg
+Summer,2016,Bronze,UZB,Uzbekistan,IBRAGIMOV Magomed Idrisovitch,2016 Rio de Janeiro,Wrestling Freestyle,Men's,97kg
+Summer,2016,Gold,TUR,Turkey,AKGUL Taha,2016 Rio de Janeiro,Wrestling Freestyle,Men's,125kg
+Summer,2016,Silver,IRI,Iran,GHASEMI Komeil Nemat,2016 Rio de Janeiro,Wrestling Freestyle,Men's,125kg
+Summer,2016,Bronze,BLR,Belarus,SAIDAU Ibrahim,2016 Rio de Janeiro,Wrestling Freestyle,Men's,125kg
+Summer,2016,Bronze,GEO,Georgia,PETRIASHVILI Geno,2016 Rio de Janeiro,Wrestling Freestyle,Men's,125kg
+Summer,2016,Gold,JPN,Japan,TOSAKA Eri,2016 Rio de Janeiro,Wrestling Freestyle,Women's,- 48kg
+Summer,2016,Silver,AZE,Azerbaijan,STADNIK Mariya,2016 Rio de Janeiro,Wrestling Freestyle,Women's,- 48kg
+Summer,2016,Bronze,BUL,Bulgaria,YANKOVA Elitsa Atanasova,2016 Rio de Janeiro,Wrestling Freestyle,Women's,- 48kg
+Summer,2016,Bronze,CHN,China,SUN Yanan,2016 Rio de Janeiro,Wrestling Freestyle,Women's,- 48kg
+Summer,2016,Gold,USA,United States,MAROULIS Helen Louise,2016 Rio de Janeiro,Wrestling Freestyle,Women's,53kg
+Summer,2016,Silver,JPN,Japan,YOSHIDA Saori,2016 Rio de Janeiro,Wrestling Freestyle,Women's,53kg
+Summer,2016,Bronze,AZE,Azerbaijan,SINISHIN Natalya,2016 Rio de Janeiro,Wrestling Freestyle,Women's,53kg
+Summer,2016,Bronze,SWE,Sweden,MATTSSON Sofia Magdalena,2016 Rio de Janeiro,Wrestling Freestyle,Women's,53kg
+Summer,2016,Gold,JPN,Japan,ICHO Kaori,2016 Rio de Janeiro,Wrestling Freestyle,Women's,58kg
+Summer,2016,Silver,RUS,Russian Federation,KOBLOVA ZHOLOBOVA Valeriia,2016 Rio de Janeiro,Wrestling Freestyle,Women's,58kg
+Summer,2016,Bronze,IND,India,MALIK Sakshi,2016 Rio de Janeiro,Wrestling Freestyle,Women's,58kg
+Summer,2016,Bronze,TUN,Tunisia,AMRI Marwa,2016 Rio de Janeiro,Wrestling Freestyle,Women's,58kg
+Summer,2016,Gold,JPN,Japan,KAWAI Risako,2016 Rio de Janeiro,Wrestling Freestyle,Women's,63kg
+Summer,2016,Silver,BLR,Belarus,MAMASHUK Maryia,2016 Rio de Janeiro,Wrestling Freestyle,Women's,63kg
+Summer,2016,Bronze,KAZ,Kazakhstan,LARIONOVA Yekaterina,2016 Rio de Janeiro,Wrestling Freestyle,Women's,63kg
+Summer,2016,Bronze,POL,Poland,MICHALIK Monika Ewa,2016 Rio de Janeiro,Wrestling Freestyle,Women's,63kg
+Summer,2016,Gold,JPN,Japan,DOSHO Sara,2016 Rio de Janeiro,Wrestling Freestyle,Women's,69kg
+Summer,2016,Silver,RUS,Russian Federation,VOROBEVA Natalia,2016 Rio de Janeiro,Wrestling Freestyle,Women's,69kg
+Summer,2016,Bronze,KAZ,Kazakhstan,SYZDYKOVA Elmira,2016 Rio de Janeiro,Wrestling Freestyle,Women's,69kg
+Summer,2016,Bronze,SWE,Sweden,FRANSSON Anna Jenny,2016 Rio de Janeiro,Wrestling Freestyle,Women's,69kg
+Summer,2016,Gold,CAN,Canada,WIEBE Erica Elizabeth,2016 Rio de Janeiro,Wrestling Freestyle,Women's,75kg
+Summer,2016,Silver,KAZ,Kazakhstan,MANYUROVA Guzel,2016 Rio de Janeiro,Wrestling Freestyle,Women's,75kg
+Summer,2016,Bronze,CHN,China,ZHANG Fengliu,2016 Rio de Janeiro,Wrestling Freestyle,Women's,75kg
+Summer,2016,Bronze,RUS,Russian Federation,BUKINA Ekaterina,2016 Rio de Janeiro,Wrestling Freestyle,Women's,75kg
+Summer,2016,Gold,CUB,Cuba,BORRERO MOLINA Ismael,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,59kg
+Summer,2016,Silver,JPN,Japan,OTA Shinobu,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,59kg
+Summer,2016,Bronze,NOR,Norway,BERGE Stig-Andre,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,59kg
+Summer,2016,Bronze,UZB,Uzbekistan,TASMURADOV Elmurat,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,59kg
+Summer,2016,Gold,SRB,Serbia,STEFANEK Davor,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,66kg
+Summer,2016,Silver,ARM,Armenia,ARUTYUNYAN Migran,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,66kg
+Summer,2016,Bronze,AZE,Azerbaijan,CHUNAYEV Rasul,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,66kg
+Summer,2016,Bronze,GEO,Georgia,BOLKVADZE Shmagi,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,66kg
+Summer,2016,Gold,RUS,Russian Federation,VLASOV Roman,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,75kg
+Summer,2016,Silver,DEN,Denmark,MADSEN Mark Overgaard,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,75kg
+Summer,2016,Bronze,IRI,Iran,ABDVALI Saeid Morad,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,75kg
+Summer,2016,Bronze,KOR,Korea Republic,KIM Hyeonwoo,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,75kg
+Summer,2016,Gold,RUS,Russian Federation,CHAKVETADZE Davit,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,85kg
+Summer,2016,Silver,UKR,Ukraine,BELENIUK Zhan,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,85kg
+Summer,2016,Bronze,BLR,Belarus,HAMZATAU Javid,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,85kg
+Summer,2016,Bronze,GER,Germany,KUDLA Denis Maksymilian,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,85kg
+Summer,2016,Gold,ARM,Armenia,ALEKSANYAN Artur,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,98kg
+Summer,2016,Silver,CUB,Cuba,LUGO CABRERA Yasmany Daniel,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,98kg
+Summer,2016,Bronze,IRI,Iran,REZAEI Ghasem Gholamreza,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,98kg
+Summer,2016,Bronze,TUR,Turkey,ILDEM Cenk,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,98kg
+Summer,2016,Gold,CUB,Cuba,LOPEZ NUNEZ Mijain,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,130kg
+Summer,2016,Silver,TUR,Turkey,KAYAALP Riza,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,130kg
+Summer,2016,Bronze,AZE,Azerbaijan,SHARIATI Sabah,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,130kg
+Summer,2016,Bronze,RUS,Russian Federation,SEMENOV Sergey,2016 Rio de Janeiro,Wrestling Greco-Roman,Men's,130kg

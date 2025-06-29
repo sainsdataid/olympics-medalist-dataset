@@ -1,0 +1,259 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,2010,Gold,USA,United States,Bode MILLER,2010 Vancouver,Alpine Skiing,Men's,Alpine combined
+Winter,2010,Silver,CRO,Croatia,Ivica KOSTELIC,2010 Vancouver,Alpine Skiing,Men's,Alpine combined
+Winter,2010,Bronze,SUI,Switzerland,Silvan ZURBRIGGEN,2010 Vancouver,Alpine Skiing,Men's,Alpine combined
+Winter,2010,Gold,ITA,Italy,Giuliano RAZZOLI,2010 Vancouver,Alpine Skiing,Men's,slalom
+Winter,2010,Silver,CRO,Croatia,Ivica KOSTELIC,2010 Vancouver,Alpine Skiing,Men's,slalom
+Winter,2010,Bronze,SWE,Sweden,Andre MYHRER,2010 Vancouver,Alpine Skiing,Men's,slalom
+Winter,2010,Gold,SUI,Switzerland,Carlo JANKA,2010 Vancouver,Alpine Skiing,Men's,giant slalom
+Winter,2010,Silver,NOR,Norway,Kjetil JANSRUD,2010 Vancouver,Alpine Skiing,Men's,giant slalom
+Winter,2010,Bronze,NOR,Norway,Aksel Lund SVINDAL,2010 Vancouver,Alpine Skiing,Men's,giant slalom
+Winter,2010,Gold,NOR,Norway,Aksel Lund SVINDAL,2010 Vancouver,Alpine Skiing,Men's,super-G
+Winter,2010,Silver,USA,United States,Bode MILLER,2010 Vancouver,Alpine Skiing,Men's,super-G
+Winter,2010,Bronze,USA,United States,Andrew WEIBRECHT,2010 Vancouver,Alpine Skiing,Men's,super-G
+Winter,2010,Gold,SUI,Switzerland,Didier DEFAGO,2010 Vancouver,Alpine Skiing,Men's,downhill
+Winter,2010,Silver,NOR,Norway,Aksel Lund SVINDAL,2010 Vancouver,Alpine Skiing,Men's,downhill
+Winter,2010,Bronze,USA,United States,Bode MILLER,2010 Vancouver,Alpine Skiing,Men's,downhill
+Winter,2010,Gold,GER,Germany,Maria RIESCH,2010 Vancouver,Alpine Skiing,Women's,Alpine combined
+Winter,2010,Silver,USA,United States,Julia MANCUSO,2010 Vancouver,Alpine Skiing,Women's,Alpine combined
+Winter,2010,Bronze,SWE,Sweden,Anja PAERSON,2010 Vancouver,Alpine Skiing,Women's,Alpine combined
+Winter,2010,Gold,GER,Germany,Maria RIESCH,2010 Vancouver,Alpine Skiing,Women's,slalom
+Winter,2010,Silver,AUT,Austria,Marlies SCHILD,2010 Vancouver,Alpine Skiing,Women's,slalom
+Winter,2010,Bronze,CZE,Czech Republic,Sarka STRACHOVA,2010 Vancouver,Alpine Skiing,Women's,slalom
+Winter,2010,Gold,GER,Germany,Viktoria REBENSBURG,2010 Vancouver,Alpine Skiing,Women's,giant slalom
+Winter,2010,Silver,SLO,Slovenia,Tina MAZE,2010 Vancouver,Alpine Skiing,Women's,giant slalom
+Winter,2010,Bronze,AUT,Austria,Elisabeth GOERGL,2010 Vancouver,Alpine Skiing,Women's,giant slalom
+Winter,2010,Gold,AUT,Austria,Andrea FISCHBACHER,2010 Vancouver,Alpine Skiing,Women's,super-G
+Winter,2010,Silver,SLO,Slovenia,Tina MAZE,2010 Vancouver,Alpine Skiing,Women's,super-G
+Winter,2010,Bronze,USA,United States,Lindsey VONN,2010 Vancouver,Alpine Skiing,Women's,super-G
+Winter,2010,Gold,USA,United States,Lindsey VONN,2010 Vancouver,Alpine Skiing,Women's,downhill
+Winter,2010,Silver,USA,United States,Julia MANCUSO,2010 Vancouver,Alpine Skiing,Women's,downhill
+Winter,2010,Bronze,AUT,Austria,Elisabeth GOERGL,2010 Vancouver,Alpine Skiing,Women's,downhill
+Winter,2010,Gold,FRA,France,Vincent JAY,2010 Vancouver,Biathlon,Men's,10km sprint
+Winter,2010,Silver,NOR,Norway,Emil Hegle SVENDSEN,2010 Vancouver,Biathlon,Men's,10km sprint
+Winter,2010,Bronze,CRO,Croatia,Jakov FAK,2010 Vancouver,Biathlon,Men's,10km sprint
+Winter,2010,Gold,SWE,Sweden,Bjoern FERRY,2010 Vancouver,Biathlon,Men's,12.5km pursuit
+Winter,2010,Silver,AUT,Austria,Christoph SUMANN,2010 Vancouver,Biathlon,Men's,12.5km pursuit
+Winter,2010,Bronze,FRA,France,Vincent JAY,2010 Vancouver,Biathlon,Men's,12.5km pursuit
+Winter,2010,Gold,NOR,Norway,Emil Hegle SVENDSEN,2010 Vancouver,Biathlon,Men's,20km individual
+Winter,2010,Silver,BLR,Belarus,Sergei NOVIKOV,2010 Vancouver,Biathlon,Men's,20km individual
+Winter,2010,Silver,NOR,Norway,Ole Einar BJOERNDALEN,2010 Vancouver,Biathlon,Men's,20km individual
+Winter,2010,Gold,RUS,Russian Federation,Evgeny USTYUGOV,2010 Vancouver,Biathlon,Men's,15km mass start
+Winter,2010,Silver,FRA,France,Martin FOURCADE,2010 Vancouver,Biathlon,Men's,15km mass start
+Winter,2010,Bronze,SVK,Slovakia,Pavol HURAJT,2010 Vancouver,Biathlon,Men's,15km mass start
+Winter,2010,Gold,NOR,Norway,"Tarjei BOE, Ole Einar BJOERNDALEN, Halvard HANEVOLD, Emil Hegle SVENDSEN",2010 Vancouver,Biathlon,Men's,4x7.5km relay
+Winter,2010,Silver,AUT,Austria,"Simon EDER, Daniel MESOTITSCH, Dominik LANDERTINGER, Christoph SUMANN",2010 Vancouver,Biathlon,Men's,4x7.5km relay
+Winter,2010,Bronze,RUS,Russian Federation,"Anton SHIPULIN, Evgeny USTYUGOV, Ivan TCHEREZOV, Maxim TCHOUDOV",2010 Vancouver,Biathlon,Men's,4x7.5km relay
+Winter,2010,Gold,SVK,Slovakia,Anastazia KUZMINA,2010 Vancouver,Biathlon,Women's,7.5km sprint
+Winter,2010,Silver,GER,Germany,Magdalena NEUNER,2010 Vancouver,Biathlon,Women's,7.5km sprint
+Winter,2010,Bronze,FRA,France,Marie DORIN HABERT,2010 Vancouver,Biathlon,Women's,7.5km sprint
+Winter,2010,Gold,GER,Germany,Magdalena NEUNER,2010 Vancouver,Biathlon,Women's,10km pursuit
+Winter,2010,Silver,SVK,Slovakia,Anastazia KUZMINA,2010 Vancouver,Biathlon,Women's,10km pursuit
+Winter,2010,Bronze,FRA,France,Marie Laure BRUNET,2010 Vancouver,Biathlon,Women's,10km pursuit
+Winter,2010,Gold,NOR,Norway,Tora BERGER,2010 Vancouver,Biathlon,Women's,15km individual
+Winter,2010,Silver,KAZ,Kazakhstan,Elena KHRUSTALEVA,2010 Vancouver,Biathlon,Women's,15km individual
+Winter,2010,Bronze,BLR,Belarus,Darya DOMRACHEVA,2010 Vancouver,Biathlon,Women's,15km individual
+Winter,2010,Gold,GER,Germany,Magdalena NEUNER,2010 Vancouver,Biathlon,Women's,12.5km mass start
+Winter,2010,Silver,RUS,Russian Federation,Olga ZAITSEVA,2010 Vancouver,Biathlon,Women's,12.5km mass start
+Winter,2010,Bronze,GER,Germany,Simone HAUSWALD,2010 Vancouver,Biathlon,Women's,12.5km mass start
+Winter,2010,Gold,RUS,Russian Federation,"Svetlana SLEPTSOVA, Olga PYLEVA, Anna BOGALIY, Olga ZAITSEVA",2010 Vancouver,Biathlon,Women's,4x6km relay
+Winter,2010,Silver,FRA,France,"Marie Laure BRUNET, Marie DORIN HABERT, Sandrine BAILLY, Sylvie BECAERT",2010 Vancouver,Biathlon,Women's,4x6km relay
+Winter,2010,Bronze,GER,Germany,"Andrea HENKEL, Kati WILHELM, Martina BECK, Simone HAUSWALD",2010 Vancouver,Biathlon,Women's,4x6km relay
+Winter,2010,Gold,GER,Germany,"Andre LANGE, Kevin KUSKE",2010 Vancouver,Bobsleigh,Men's,two-man
+Winter,2010,Silver,GER,Germany,"Richard ADJEI, Thomas FLORSCHUETZ",2010 Vancouver,Bobsleigh,Men's,two-man
+Winter,2010,Bronze,RUS,Russian Federation,"Alexey VOEVODA, Alexander ZUBKOV",2010 Vancouver,Bobsleigh,Men's,two-man
+Winter,2010,Gold,USA,United States,"Justin OLSEN, Curt TOMASEVICZ, Steven HOLCOMB, Steven MESLER",2010 Vancouver,Bobsleigh,Men's,four-man
+Winter,2010,Silver,GER,Germany,"Alexander ROEDIGER, Martin PUTZE, Kevin KUSKE, Andre LANGE",2010 Vancouver,Bobsleigh,Men's,four-man
+Winter,2010,Bronze,CAN,Canada,"David BISSETT, Lascelles Oneil BROWN, Lyndon RUSH, Chris LE BIHAN",2010 Vancouver,Bobsleigh,Men's,four-man
+Winter,2010,Gold,CAN,Canada,"Kaillie HUMPHRIES, Heather MOYSE",2010 Vancouver,Bobsleigh,Women's,two-woman
+Winter,2010,Silver,CAN,Canada,"Shelley-Ann BROWN, Helen UPPERTON",2010 Vancouver,Bobsleigh,Women's,two-woman
+Winter,2010,Bronze,USA,United States,"Elana MEYERS, Erin PAC",2010 Vancouver,Bobsleigh,Women's,two-woman
+Winter,2010,Gold,RUS,Russian Federation,Nikita KRIUKOV,2010 Vancouver,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2010,Silver,RUS,Russian Federation,Alexander PANZHINSKIY,2010 Vancouver,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2010,Bronze,NOR,Norway,Petter Jr. NORTHUG,2010 Vancouver,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2010,Gold,SWE,Sweden,Marcus HELLNER,2010 Vancouver,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2010,Silver,GER,Germany,Tobias ANGERER,2010 Vancouver,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2010,Bronze,SWE,Sweden,Johan OLSSON,2010 Vancouver,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2010,Gold,SUI,Switzerland,Dario COLOGNA,2010 Vancouver,Cross Country Skiing,Men's,15km
+Winter,2010,Silver,ITA,Italy,Pietro PILLER COTTRER,2010 Vancouver,Cross Country Skiing,Men's,15km
+Winter,2010,Bronze,CZE,Czech Republic,Lukas BAUER,2010 Vancouver,Cross Country Skiing,Men's,15km
+Winter,2010,Gold,NOR,Norway,Petter Jr. NORTHUG,2010 Vancouver,Cross Country Skiing,Men's,50km mass start
+Winter,2010,Silver,GER,Germany,Axel TEICHMANN,2010 Vancouver,Cross Country Skiing,Men's,50km mass start
+Winter,2010,Bronze,SWE,Sweden,Johan OLSSON,2010 Vancouver,Cross Country Skiing,Men's,50km mass start
+Winter,2010,Gold,NOR,Norway,"Oeystein PETTERSEN, Petter Jr. NORTHUG",2010 Vancouver,Cross Country Skiing,Men's,Team Sprint
+Winter,2010,Silver,GER,Germany,"Tim TSCHARNKE, Axel TEICHMANN",2010 Vancouver,Cross Country Skiing,Men's,Team Sprint
+Winter,2010,Bronze,RUS,Russian Federation,"Nikolay MORILOV, Alexey PETUKHOV",2010 Vancouver,Cross Country Skiing,Men's,Team Sprint
+Winter,2010,Gold,SWE,Sweden,"Anders SOEDERGREN, Marcus HELLNER, Johan OLSSON, Daniel RICHARDSSON",2010 Vancouver,Cross Country Skiing,Men's,4x10km relay
+Winter,2010,Silver,NOR,Norway,"Petter Jr. NORTHUG, Martin Johnsrud SUNDBY, Odd Bjorn HJELMESET, Lars BERGER",2010 Vancouver,Cross Country Skiing,Men's,4x10km relay
+Winter,2010,Bronze,CZE,Czech Republic,"Lukas BAUER, Martin JAKS, Martin KOUKAL, Jiri MAGAL",2010 Vancouver,Cross Country Skiing,Men's,4x10km relay
+Winter,2010,Gold,NOR,Norway,Marit BJOERGEN,2010 Vancouver,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2010,Silver,POL,Poland,Justyna KOWALCZYK,2010 Vancouver,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2010,Bronze,SLO,Slovenia,Petra MAJDIC,2010 Vancouver,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2010,Gold,NOR,Norway,Marit BJOERGEN,2010 Vancouver,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2010,Silver,SWE,Sweden,Anna HAAG,2010 Vancouver,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2010,Bronze,POL,Poland,Justyna KOWALCZYK,2010 Vancouver,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2010,Gold,SWE,Sweden,Charlotte KALLA,2010 Vancouver,Cross Country Skiing,Women's,10km
+Winter,2010,Silver,EST,Estonia,Kristina SMIGUN,2010 Vancouver,Cross Country Skiing,Women's,10km
+Winter,2010,Bronze,NOR,Norway,Marit BJOERGEN,2010 Vancouver,Cross Country Skiing,Women's,10km
+Winter,2010,Gold,POL,Poland,Justyna KOWALCZYK,2010 Vancouver,Cross Country Skiing,Women's,30km mass start
+Winter,2010,Silver,NOR,Norway,Marit BJOERGEN,2010 Vancouver,Cross Country Skiing,Women's,30km mass start
+Winter,2010,Bronze,FIN,Finland,Aino Kaisa SAARINEN,2010 Vancouver,Cross Country Skiing,Women's,30km mass start
+Winter,2010,Gold,GER,Germany,"Claudia NYSTAD, Evi SACHENBACHER-STEHLE",2010 Vancouver,Cross Country Skiing,Women's,Team Sprint
+Winter,2010,Silver,SWE,Sweden,"Anna HAAG, Charlotte KALLA",2010 Vancouver,Cross Country Skiing,Women's,Team Sprint
+Winter,2010,Bronze,RUS,Russian Federation,"Irina KHAZOVA, Natalia KOROSTELEVA",2010 Vancouver,Cross Country Skiing,Women's,Team Sprint
+Winter,2010,Gold,NOR,Norway,"Vibeke SKOFTERUD, Marit BJOERGEN, Therese JOHAUG, Kristin Stormer STEIRA",2010 Vancouver,Cross Country Skiing,Women's,4x5km relay
+Winter,2010,Silver,GER,Germany,"Miriam GOSSNER, Claudia NYSTAD, Evi SACHENBACHER-STEHLE, Katrin ZELLER",2010 Vancouver,Cross Country Skiing,Women's,4x5km relay
+Winter,2010,Bronze,FIN,Finland,"Aino Kaisa SAARINEN, Riitta Liisa LASSILA, Virpi KUITUNEN, Pirjo MANNINEN",2010 Vancouver,Cross Country Skiing,Women's,4x5km relay
+Winter,2010,Gold,CAN,Canada,"John MORRIS, Adam ENRIGHT, Kevin MARTIN, Marc KENNEDY, Ben HEBERT",2010 Vancouver,Curling,Men's,curling
+Winter,2010,Silver,NOR,Norway,"Christoffer SVAE, Torger NERGAARD, Thomas LOEVOLD, Haavard Vad PETERSSON, Thomas ULSRUD",2010 Vancouver,Curling,Men's,curling
+Winter,2010,Bronze,SUI,Switzerland,"Markus EGGLER, Simon STRUEBIN, Toni MUELLER, Jan HAUSER, Ralph STOECKLI",2010 Vancouver,Curling,Men's,curling
+Winter,2010,Gold,SWE,Sweden,"Anette NORBERG, Cathrine NORBERG, Kajsa BERGSTROEM, Eva LUND, Anna SVAERD",2010 Vancouver,Curling,Women's,curling
+Winter,2010,Silver,CAN,Canada,"Carolyn DARBYSHIRE, Cheryl BERNARD, Susan O CONNOR, Kristie MOORE, Cori BARTEL",2010 Vancouver,Curling,Women's,curling
+Winter,2010,Bronze,CHN,China,"Yan ZHOU, Yin LIU, Jinli LIU, Bingyu WANG, Qingshuang YUE",2010 Vancouver,Curling,Women's,curling
+Winter,2010,Gold,USA,United States,Evan LYSACEK,2010 Vancouver,Figure skating,Men's,individual
+Winter,2010,Silver,RUS,Russian Federation,Evgeni PLUSHENKO,2010 Vancouver,Figure skating,Men's,individual
+Winter,2010,Bronze,JPN,Japan,Daisuke TAKAHASHI,2010 Vancouver,Figure skating,Men's,individual
+Winter,2010,Gold,KOR,Korea Republic,Yuna KIM,2010 Vancouver,Figure skating,Women's,individual
+Winter,2010,Silver,JPN,Japan,Mao ASADA,2010 Vancouver,Figure skating,Women's,individual
+Winter,2010,Bronze,CAN,Canada,Joannie ROCHETTE,2010 Vancouver,Figure skating,Women's,individual
+Winter,2010,Gold,CHN,China,"Hongbo ZHAO, Xue SHEN",2010 Vancouver,Figure skating,Mixed,pairs
+Winter,2010,Silver,CHN,China,"Jian TONG, Qing PANG",2010 Vancouver,Figure skating,Mixed,pairs
+Winter,2010,Bronze,GER,Germany,"Aliona SAVCHENKO, Robin SZOLKOWY",2010 Vancouver,Figure skating,Mixed,pairs
+Winter,2010,Gold,CAN,Canada,"Scott MOIR, Tessa VIRTUE",2010 Vancouver,Figure skating,Mixed,ice dancing
+Winter,2010,Silver,USA,United States,"Charlie WHITE, Meryl DAVIS",2010 Vancouver,Figure skating,Mixed,ice dancing
+Winter,2010,Bronze,RUS,Russian Federation,"Oksana DOMNINA, Maxim SHABALIN",2010 Vancouver,Figure skating,Mixed,ice dancing
+Winter,2010,Gold,BLR,Belarus,Alexei GRISHIN,2010 Vancouver,Freestyle Skiing,Men's,aerials
+Winter,2010,Silver,USA,United States,Jeret PETERSON,2010 Vancouver,Freestyle Skiing,Men's,aerials
+Winter,2010,Bronze,CHN,China,Zhongqing LIU,2010 Vancouver,Freestyle Skiing,Men's,aerials
+Winter,2010,Gold,CAN,Canada,Alexandre BILODEAU,2010 Vancouver,Freestyle Skiing,Men's,moguls
+Winter,2010,Silver,AUS,Australia,Dale BEGG-SMITH,2010 Vancouver,Freestyle Skiing,Men's,moguls
+Winter,2010,Bronze,USA,United States,Bryon WILSON,2010 Vancouver,Freestyle Skiing,Men's,moguls
+Winter,2010,Gold,SUI,Switzerland,Michael SCHMID,2010 Vancouver,Freestyle Skiing,Men's,Ski Cross
+Winter,2010,Silver,AUT,Austria,Andreas MATT,2010 Vancouver,Freestyle Skiing,Men's,Ski Cross
+Winter,2010,Bronze,NOR,Norway,Audun GROENVOLD,2010 Vancouver,Freestyle Skiing,Men's,Ski Cross
+Winter,2010,Gold,AUS,Australia,Lydia IERODIACONOU,2010 Vancouver,Freestyle Skiing,Women's,aerials
+Winter,2010,Silver,CHN,China,Nina LI,2010 Vancouver,Freestyle Skiing,Women's,aerials
+Winter,2010,Bronze,CHN,China,Xinxin GUO,2010 Vancouver,Freestyle Skiing,Women's,aerials
+Winter,2010,Gold,USA,United States,Hannah KEARNEY,2010 Vancouver,Freestyle Skiing,Women's,moguls
+Winter,2010,Silver,CAN,Canada,Jennifer HEIL,2010 Vancouver,Freestyle Skiing,Women's,moguls
+Winter,2010,Bronze,USA,United States,Shannon BAHRKE,2010 Vancouver,Freestyle Skiing,Women's,moguls
+Winter,2010,Gold,CAN,Canada,Ashleigh McIVOR,2010 Vancouver,Freestyle Skiing,Women's,Ski Cross
+Winter,2010,Silver,NOR,Norway,Hedda BERNTSEN,2010 Vancouver,Freestyle Skiing,Women's,Ski Cross
+Winter,2010,Bronze,FRA,France,Marion JOSSERAND,2010 Vancouver,Freestyle Skiing,Women's,Ski Cross
+Winter,2010,Gold,CAN,Canada,"Roberto LUONGO, Jonathan TOEWS, Corey PERRY, Sidney CROSBY, Drew DOUGHTY, Patrice BERGERON, Dany HEATLEY, Rick NASH, Jarome IGINLA, Ryan GETZLAF, Eric STAAL, Chris PRONGER, Martin BRODEUR, Marc-Andre FLEURY, Patrick MARLEAU, Joe THORNTON, Shea WEBER, Scott NIEDERMAYER, Duncan KEITH, Brent SEABROOK, Brenden MORROW, Mike RICHARDS, Dan BOYLE",2010 Vancouver,Ice Hockey,Men's,ice hockey
+Winter,2010,Silver,USA,United States,"Ryan MILLER, Tim THOMAS, Phil KESSEL, Jonathan QUICK, Bobby RYAN, Erik JOHNSON, Ryan MALONE, Ryan SUTER, Jack JOHNSON, Ryan CALLAHAN, Tim GLEASON, Brooks ORPIK, Ryan WHITNEY, Chris DRURY, Brian RAFALSKI, Joe PAVELSKI, Paul STASTNY, Patrick KANE, Ryan KESLER, David BACKES, Zach PARISE, Jamie LANGENBRUNNER, Dustin BROWN",2010 Vancouver,Ice Hockey,Men's,ice hockey
+Winter,2010,Bronze,FIN,Finland,"Toni LYDMAN, Saku KOIVU, Miikka KIPRUSOFF, Jarkko RUUTU, Jarkko IMMONEN, Antti MIETTINEN, Jere LEHTINEN, Teemu SELANNE, Janne NISKALA, Sami LEPISTO, Ville PELTONEN, Olli JOKINEN, Niko KAPANEN, Tuomo RUUTU, Kimmo TIMONEN, Niklas HAGMAN, Lasse KUKKONEN, Niklas BACKSTROM, Antero NIITTYMAKI, Sami SALO, Valtteri FILPPULA, Mikko KOIVU, Joni PITKANEN",2010 Vancouver,Ice Hockey,Men's,ice hockey
+Winter,2010,Gold,CAN,Canada,"Gina KINGSBURY, Gillian APPS, Caroline OUELLETTE, Sarah VAILLANCOURT, Jayna HEFFORD, Kim ST-PIERRE, Catherine WARD, Becky KELLAR, Meghan AGOSTA, Tessa BONHOMME, Hayley WICKENHEISER, Carla MACLEOD, Meaghan MIKKELSON, Shannon SZABADOS, Haley IRWIN, Charline LABONTE, Marie-Philip POULIN, Jennifer BOTTERILL, Rebecca JOHNSTON, Cherie PIPER, Colleen SOSTORICS",2010 Vancouver,Ice Hockey,Women's,ice hockey
+Winter,2010,Silver,USA,United States,"Brianne MCLAUGHLIN, Meghan DUGGAN, Caitlin CAHOW, Julie CHU, Kacey BELLAMY, Erika LAWLER, Kelli STACK, Natalie DARWITZ, Hilary KNIGHT, Gigi MARVIN, Angela RUGGIERO, Jinelle ZAUGG-SIERGIEJ, Jenny POTTER, Monique LAMOUREUX, Lisa CHESSON, Kerry WEILAND, Jessie VETTER, Molly ENGSTROM, Karen THATCHER, Jocelyne LAMOUREUX, Molly SCHAUS",2010 Vancouver,Ice Hockey,Women's,ice hockey
+Winter,2010,Bronze,FIN,Finland,"Rosa LINDSTEDT, Mariia POSA, Jenni HIIRIKOSKI, Anna VANHATALO, Anne HELIN, Annina RAJAHUHTA, Saija SIRVIO, Terhi MERTANEN, Nina TIKKINEN, Emma LAAKSONEN, Karoliina RANTAMAKI, Linda VALIMAKI, Michelle KARVINEN, Venla HOVI, Noora RATY, Marjo VOUTILAINEN, Heidi PELTTARI, Mira KUISMA, Minttu TUOMINEN, Mari SAARINEN, Saara TUOMINEN",2010 Vancouver,Ice Hockey,Women's,ice hockey
+Winter,2010,Gold,GER,Germany,Felix LOCH,2010 Vancouver,Luge,Men's,singles
+Winter,2010,Silver,GER,Germany,David MOELLER,2010 Vancouver,Luge,Men's,singles
+Winter,2010,Bronze,ITA,Italy,Armin ZÖGGELER,2010 Vancouver,Luge,Men's,singles
+Winter,2010,Gold,GER,Germany,Tatjana HUEFNER,2010 Vancouver,Luge,Women's,singles
+Winter,2010,Silver,AUT,Austria,Nina REITHMAYER,2010 Vancouver,Luge,Women's,singles
+Winter,2010,Bronze,GER,Germany,Natalie GEISENBERGER,2010 Vancouver,Luge,Women's,singles
+Winter,2010,Gold,AUT,Austria,"Andreas LINGER, Wolfgang LINGER",2010 Vancouver,Luge,Mixed,doubles
+Winter,2010,Silver,LAT,Latvia,"Juris SICS, Andris SICS",2010 Vancouver,Luge,Mixed,doubles
+Winter,2010,Bronze,GER,Germany,"Patric-Fritz LEITNER, Alexander RESCH",2010 Vancouver,Luge,Mixed,doubles
+Winter,2010,Gold,FRA,France,Jason LAMY CHAPPUIS,2010 Vancouver,Nordic Combined,Men's,individual
+Winter,2010,Silver,USA,United States,Johnny SPILLANE,2010 Vancouver,Nordic Combined,Men's,individual
+Winter,2010,Bronze,ITA,Italy,Alessandro PITTIN,2010 Vancouver,Nordic Combined,Men's,individual
+Winter,2010,Gold,USA,United States,Bill DEMONG,2010 Vancouver,Nordic Combined,Men's,Large Hill individual
+Winter,2010,Silver,USA,United States,Johnny SPILLANE,2010 Vancouver,Nordic Combined,Men's,Large Hill individual
+Winter,2010,Bronze,AUT,Austria,Bernhard GRUBER,2010 Vancouver,Nordic Combined,Men's,Large Hill individual
+Winter,2010,Gold,AUT,Austria,"David KREINER, Bernhard GRUBER, Felix GOTTWALD, Mario STECHER",2010 Vancouver,Nordic Combined,Men's,team
+Winter,2010,Silver,USA,United States,"Johnny SPILLANE, Brett CAMEROTA, Todd LODWICK, Bill DEMONG",2010 Vancouver,Nordic Combined,Men's,team
+Winter,2010,Bronze,GER,Germany,"Bjoern KIRCHEISEN, Eric FRENZEL, Tino EDELMANN, Johannes RYDZEK",2010 Vancouver,Nordic Combined,Men's,team
+Winter,2010,Gold,CAN,Canada,Charles HAMELIN,2010 Vancouver,Short Track Speed Skating,Men's,500m
+Winter,2010,Silver,KOR,Korea Republic,Si-Bak SUNG,2010 Vancouver,Short Track Speed Skating,Men's,500m
+Winter,2010,Bronze,CAN,Canada,Francois-Louis TREMBLAY,2010 Vancouver,Short Track Speed Skating,Men's,500m
+Winter,2010,Gold,KOR,Korea Republic,Jung-Su LEE,2010 Vancouver,Short Track Speed Skating,Men's,1000m
+Winter,2010,Silver,KOR,Korea Republic,Ho-Suk LEE,2010 Vancouver,Short Track Speed Skating,Men's,1000m
+Winter,2010,Bronze,USA,United States,Apolo Anton OHNO,2010 Vancouver,Short Track Speed Skating,Men's,1000m
+Winter,2010,Gold,KOR,Korea Republic,Jung-Su LEE,2010 Vancouver,Short Track Speed Skating,Men's,1500m
+Winter,2010,Silver,USA,United States,Apolo Anton OHNO,2010 Vancouver,Short Track Speed Skating,Men's,1500m
+Winter,2010,Bronze,USA,United States,J.R. CELSKI,2010 Vancouver,Short Track Speed Skating,Men's,1500m
+Winter,2010,Gold,CAN,Canada,"Francois-Louis TREMBLAY, Guillaume BASTILLE, Olivier JEAN, Francois HAMELIN, Charles HAMELIN",2010 Vancouver,Short Track Speed Skating,Men's,5000m relay
+Winter,2010,Silver,KOR,Korea Republic,"Seoung-Il KIM, Si-Bak SUNG, Ho-Suk LEE, Jung-Su LEE, Yoon-Gy KWAK",2010 Vancouver,Short Track Speed Skating,Men's,5000m relay
+Winter,2010,Bronze,USA,United States,"J.R. CELSKI, Jordan MALONE, Apolo Anton OHNO, Simon CHO, Travis JAYNER",2010 Vancouver,Short Track Speed Skating,Men's,5000m relay
+Winter,2010,Gold,CHN,China,Meng WANG,2010 Vancouver,Short Track Speed Skating,Women's,500m
+Winter,2010,Silver,CAN,Canada,Marianne ST-GELAIS,2010 Vancouver,Short Track Speed Skating,Women's,500m
+Winter,2010,Bronze,ITA,Italy,Arianna FONTANA,2010 Vancouver,Short Track Speed Skating,Women's,500m
+Winter,2010,Gold,CHN,China,Meng WANG,2010 Vancouver,Short Track Speed Skating,Women's,1000m
+Winter,2010,Silver,USA,United States,Katherine REUTTER,2010 Vancouver,Short Track Speed Skating,Women's,1000m
+Winter,2010,Bronze,KOR,Korea Republic,Seung-Hi PARK,2010 Vancouver,Short Track Speed Skating,Women's,1000m
+Winter,2010,Gold,CHN,China,Yang ZHOU,2010 Vancouver,Short Track Speed Skating,Women's,1500m
+Winter,2010,Silver,KOR,Korea Republic,Eun-Byul LEE,2010 Vancouver,Short Track Speed Skating,Women's,1500m
+Winter,2010,Bronze,KOR,Korea Republic,Seung-Hi PARK,2010 Vancouver,Short Track Speed Skating,Women's,1500m
+Winter,2010,Gold,CHN,China,"Meng WANG, Linlin SUN, Yang ZHOU, Hui ZHANG",2010 Vancouver,Short Track Speed Skating,Women's,3000m relay
+Winter,2010,Silver,CAN,Canada,"Tania VICENT, Kalyna ROBERGE, Jessica GREGG, Marianne ST-GELAIS",2010 Vancouver,Short Track Speed Skating,Women's,3000m relay
+Winter,2010,Bronze,USA,United States,"Kimberly DERRICK, Alyson DUDEK, Katherine REUTTER, Lana GEHRING, Allison BAVER",2010 Vancouver,Short Track Speed Skating,Women's,3000m relay
+Winter,2010,Gold,CAN,Canada,Jon MONTGOMERY,2010 Vancouver,Skeleton,Men's,individual
+Winter,2010,Silver,LAT,Latvia,Martins DUKURS,2010 Vancouver,Skeleton,Men's,individual
+Winter,2010,Bronze,RUS,Russian Federation,Alexander TRETIAKOV,2010 Vancouver,Skeleton,Men's,individual
+Winter,2010,Gold,GBR,Great Britain,Amy WILLIAMS,2010 Vancouver,Skeleton,Women's,individual
+Winter,2010,Silver,GER,Germany,Kerstin SZYMKOWIAK,2010 Vancouver,Skeleton,Women's,individual
+Winter,2010,Bronze,GER,Germany,Anja HUBER,2010 Vancouver,Skeleton,Women's,individual
+Winter,2010,Gold,SUI,Switzerland,Simon AMMANN,2010 Vancouver,Ski Jumping,Men's,Normal Hill individual
+Winter,2010,Silver,POL,Poland,Adam MALYSZ,2010 Vancouver,Ski Jumping,Men's,Normal Hill individual
+Winter,2010,Bronze,AUT,Austria,Gregor SCHLIERENZAUER,2010 Vancouver,Ski Jumping,Men's,Normal Hill individual
+Winter,2010,Gold,SUI,Switzerland,Simon AMMANN,2010 Vancouver,Ski Jumping,Men's,Large Hill individual
+Winter,2010,Silver,POL,Poland,Adam MALYSZ,2010 Vancouver,Ski Jumping,Men's,Large Hill individual
+Winter,2010,Bronze,AUT,Austria,Gregor SCHLIERENZAUER,2010 Vancouver,Ski Jumping,Men's,Large Hill individual
+Winter,2010,Gold,AUT,Austria,"Andreas KOFLER, Thomas MORGENSTERN, Gregor SCHLIERENZAUER, Wolfgang LOITZL",2010 Vancouver,Ski Jumping,Men's,Large Hill team
+Winter,2010,Silver,GER,Germany,"Michael NEUMAYER, Martin SCHMITT, Andreas WANK, Michael UHRMANN",2010 Vancouver,Ski Jumping,Men's,Large Hill team
+Winter,2010,Bronze,NOR,Norway,"Tom HILDE, Johan Remen EVENSEN, Anders BARDAL, Anders JACOBSEN",2010 Vancouver,Ski Jumping,Men's,Large Hill team
+Winter,2010,Gold,CAN,Canada,Jasey Jay ANDERSON,2010 Vancouver,Snowboard,Men's,Giant parallel slalom
+Winter,2010,Silver,AUT,Austria,Benjamin KARL,2010 Vancouver,Snowboard,Men's,Giant parallel slalom
+Winter,2010,Bronze,FRA,France,Mathieu BOZZETTO,2010 Vancouver,Snowboard,Men's,Giant parallel slalom
+Winter,2010,Gold,USA,United States,Shaun WHITE,2010 Vancouver,Snowboard,Men's,Half-pipe
+Winter,2010,Silver,FIN,Finland,Peetu PIIROINEN,2010 Vancouver,Snowboard,Men's,Half-pipe
+Winter,2010,Bronze,USA,United States,Scott LAGO,2010 Vancouver,Snowboard,Men's,Half-pipe
+Winter,2010,Gold,USA,United States,Seth WESCOTT,2010 Vancouver,Snowboard,Men's,Snowboard Cross
+Winter,2010,Silver,CAN,Canada,Mike ROBERTSON,2010 Vancouver,Snowboard,Men's,Snowboard Cross
+Winter,2010,Bronze,FRA,France,Tony RAMOIN,2010 Vancouver,Snowboard,Men's,Snowboard Cross
+Winter,2010,Gold,NED,Netherlands,Nicolien SAUERBREIJ,2010 Vancouver,Snowboard,Women's,Giant parallel slalom
+Winter,2010,Silver,RUS,Russian Federation,Ekaterina ILYUKHINA,2010 Vancouver,Snowboard,Women's,Giant parallel slalom
+Winter,2010,Bronze,AUT,Austria,Marion KREINER,2010 Vancouver,Snowboard,Women's,Giant parallel slalom
+Winter,2010,Gold,AUS,Australia,Torah BRIGHT,2010 Vancouver,Snowboard,Women's,Half-pipe
+Winter,2010,Silver,USA,United States,Hannah TETER,2010 Vancouver,Snowboard,Women's,Half-pipe
+Winter,2010,Bronze,USA,United States,Kelly CLARK,2010 Vancouver,Snowboard,Women's,Half-pipe
+Winter,2010,Gold,CAN,Canada,Maelle RICKER,2010 Vancouver,Snowboard,Women's,Snowboard Cross
+Winter,2010,Silver,FRA,France,Deborah ANTHONIOZ,2010 Vancouver,Snowboard,Women's,Snowboard Cross
+Winter,2010,Bronze,SUI,Switzerland,Olivia NOBS,2010 Vancouver,Snowboard,Women's,Snowboard Cross
+Winter,2010,Gold,KOR,Korea Republic,Tae Bum MO,2010 Vancouver,Speed skating,Men's,2x500m
+Winter,2010,Silver,JPN,Japan,Keiichiro NAGASHIMA,2010 Vancouver,Speed skating,Men's,2x500m
+Winter,2010,Bronze,JPN,Japan,Joji KATO,2010 Vancouver,Speed skating,Men's,2x500m
+Winter,2010,Gold,USA,United States,Shani DAVIS,2010 Vancouver,Speed skating,Men's,1000m
+Winter,2010,Silver,KOR,Korea Republic,Tae Bum MO,2010 Vancouver,Speed skating,Men's,1000m
+Winter,2010,Bronze,USA,United States,Chad HEDRICK,2010 Vancouver,Speed skating,Men's,1000m
+Winter,2010,Gold,NED,Netherlands,Mark TUITERT,2010 Vancouver,Speed skating,Men's,1500m
+Winter,2010,Silver,USA,United States,Shani DAVIS,2010 Vancouver,Speed skating,Men's,1500m
+Winter,2010,Bronze,NOR,Norway,Håvard BØKKO,2010 Vancouver,Speed skating,Men's,1500m
+Winter,2010,Gold,NED,Netherlands,Sven KRAMER,2010 Vancouver,Speed skating,Men's,5000m
+Winter,2010,Silver,KOR,Korea Republic,Seung-Hoon LEE,2010 Vancouver,Speed skating,Men's,5000m
+Winter,2010,Bronze,RUS,Russian Federation,Ivan SKOBREV,2010 Vancouver,Speed skating,Men's,5000m
+Winter,2010,Gold,KOR,Korea Republic,Seung-Hoon LEE,2010 Vancouver,Speed skating,Men's,10000m
+Winter,2010,Silver,RUS,Russian Federation,Ivan SKOBREV,2010 Vancouver,Speed skating,Men's,10000m
+Winter,2010,Bronze,NED,Netherlands,Bob DE JONG,2010 Vancouver,Speed skating,Men's,10000m
+Winter,2010,Gold,CAN,Canada,"Mathieu GIROUX, Lucas MAKOWSKY, Denny MORRISON",2010 Vancouver,Speed skating,Men's,Team pursuit
+Winter,2010,Silver,USA,United States,"Chad HEDRICK, Brian HANSEN, Jonathan KUCK, Trevor MARSICANO",2010 Vancouver,Speed skating,Men's,Team pursuit
+Winter,2010,Bronze,NED,Netherlands,"Jan BLOKHUIJSEN, Simon KUIPERS, Sven KRAMER, Mark TUITERT",2010 Vancouver,Speed skating,Men's,Team pursuit
+Winter,2010,Gold,KOR,Korea Republic,Sang Hwa LEE,2010 Vancouver,Speed skating,Women's,2x500m
+Winter,2010,Silver,GER,Germany,Jenny WOLF,2010 Vancouver,Speed skating,Women's,2x500m
+Winter,2010,Bronze,CHN,China,Beixing WANG,2010 Vancouver,Speed skating,Women's,2x500m
+Winter,2010,Gold,CAN,Canada,Christine NESBITT,2010 Vancouver,Speed skating,Women's,1000m
+Winter,2010,Silver,NED,Netherlands,Annette GERRITSEN,2010 Vancouver,Speed skating,Women's,1000m
+Winter,2010,Bronze,NED,Netherlands,Laurine VAN RIESSEN,2010 Vancouver,Speed skating,Women's,1000m
+Winter,2010,Gold,NED,Netherlands,Ireen WÜST,2010 Vancouver,Speed skating,Women's,1500m
+Winter,2010,Silver,CAN,Canada,Kristina GROVES,2010 Vancouver,Speed skating,Women's,1500m
+Winter,2010,Bronze,CZE,Czech Republic,Martina SABLIKOVA,2010 Vancouver,Speed skating,Women's,1500m
+Winter,2010,Gold,CZE,Czech Republic,Martina SABLIKOVA,2010 Vancouver,Speed skating,Women's,3000m
+Winter,2010,Silver,GER,Germany,Stephanie BECKERT,2010 Vancouver,Speed skating,Women's,3000m
+Winter,2010,Bronze,CAN,Canada,Kristina GROVES,2010 Vancouver,Speed skating,Women's,3000m
+Winter,2010,Gold,CZE,Czech Republic,Martina SABLIKOVA,2010 Vancouver,Speed skating,Women's,5000m
+Winter,2010,Silver,GER,Germany,Stephanie BECKERT,2010 Vancouver,Speed skating,Women's,5000m
+Winter,2010,Bronze,CAN,Canada,Clara HUGHES,2010 Vancouver,Speed skating,Women's,5000m
+Winter,2010,Gold,GER,Germany,"Anni FRIESINGER, Stephanie BECKERT, Katrin MATTSCHERODT, Daniela ANSCHUETZ THOMS",2010 Vancouver,Speed skating,Women's,Team pursuit
+Winter,2010,Silver,JPN,Japan,"Masako HOZUMI, Maki TABATA, Nao KODAIRA",2010 Vancouver,Speed skating,Women's,Team pursuit
+Winter,2010,Bronze,POL,Poland,"Katarzyna BACHLEDA-CURUS, Katarzyna WOZNIAK, Luiza ZLOTKOWSKA",2010 Vancouver,Speed skating,Women's,Team pursuit

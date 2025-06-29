@@ -1,0 +1,505 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1964,Gold,USA,United States,Bob HAYES,1964 Tokyo,Athletics,Men's,100m
+Summer,1964,Silver,CUB,Cuba,Enrique FIGUEROLA,1964 Tokyo,Athletics,Men's,100m
+Summer,1964,Bronze,CAN,Canada,Harry JEROME,1964 Tokyo,Athletics,Men's,100m
+Summer,1964,Gold,USA,United States,Henry CARR,1964 Tokyo,Athletics,Men's,200m
+Summer,1964,Silver,USA,United States,Paul DRAYTON,1964 Tokyo,Athletics,Men's,200m
+Summer,1964,Bronze,TTO,Trinidad and Tobago,Edwin ROBERTS,1964 Tokyo,Athletics,Men's,200m
+Summer,1964,Gold,USA,United States,Mike LARRABEE,1964 Tokyo,Athletics,Men's,400m
+Summer,1964,Silver,TTO,Trinidad and Tobago,Wendell MOTTLEY,1964 Tokyo,Athletics,Men's,400m
+Summer,1964,Bronze,POL,Poland,Andrzej BADENSKI,1964 Tokyo,Athletics,Men's,400m
+Summer,1964,Gold,NZL,New Zealand,Peter SNELL,1964 Tokyo,Athletics,Men's,800m
+Summer,1964,Silver,CAN,Canada,William CROTHERS,1964 Tokyo,Athletics,Men's,800m
+Summer,1964,Bronze,KEN,Kenya,Wilson KIPRUGUT,1964 Tokyo,Athletics,Men's,800m
+Summer,1964,Gold,NZL,New Zealand,Peter SNELL,1964 Tokyo,Athletics,Men's,1500m
+Summer,1964,Silver,TCH,Czechoslovakia,Josef ODLOZIL,1964 Tokyo,Athletics,Men's,1500m
+Summer,1964,Bronze,NZL,New Zealand,John DAVIES,1964 Tokyo,Athletics,Men's,1500m
+Summer,1964,Gold,USA,United States,Robert Keyser SCHUL,1964 Tokyo,Athletics,Men's,5000m
+Summer,1964,Silver,EUA,Unified Team of Germany,Harald NORPOTH,1964 Tokyo,Athletics,Men's,5000m
+Summer,1964,Bronze,USA,United States,Bill DELLINGER,1964 Tokyo,Athletics,Men's,5000m
+Summer,1964,Gold,USA,United States,Billy MILLS,1964 Tokyo,Athletics,Men's,10000m
+Summer,1964,Silver,TUN,Tunisia,Mohamed GAMMOUDI,1964 Tokyo,Athletics,Men's,10000m
+Summer,1964,Bronze,AUS,Australia,Ron CLARKE,1964 Tokyo,Athletics,Men's,10000m
+Summer,1964,Gold,ETH,Ethiopia,Abebe BIKILA,1964 Tokyo,Athletics,Men's,marathon
+Summer,1964,Silver,GBR,Great Britain,Basil HEATLEY,1964 Tokyo,Athletics,Men's,marathon
+Summer,1964,Bronze,JPN,Japan,Kokichi TSUBURAYA,1964 Tokyo,Athletics,Men's,marathon
+Summer,1964,Gold,USA,United States,Hayes JONES,1964 Tokyo,Athletics,Men's,110m hurdles
+Summer,1964,Silver,USA,United States,Blaine LINDGREN,1964 Tokyo,Athletics,Men's,110m hurdles
+Summer,1964,Bronze,URS,USSR,Anatoly MIKHAYLOV,1964 Tokyo,Athletics,Men's,110m hurdles
+Summer,1964,Gold,USA,United States,Warren (Rex) Jay CAWLEY,1964 Tokyo,Athletics,Men's,400m hurdles
+Summer,1964,Silver,GBR,Great Britain,John COOPER,1964 Tokyo,Athletics,Men's,400m hurdles
+Summer,1964,Bronze,ITA,Italy,Salvatore MORALE,1964 Tokyo,Athletics,Men's,400m hurdles
+Summer,1964,Gold,BEL,Belgium,Gaston ROELANTS,1964 Tokyo,Athletics,Men's,3000m steeplechase
+Summer,1964,Silver,GBR,Great Britain,Maurice HERRIOTT,1964 Tokyo,Athletics,Men's,3000m steeplechase
+Summer,1964,Bronze,URS,USSR,Ivan BELYAEV,1964 Tokyo,Athletics,Men's,3000m steeplechase
+Summer,1964,Gold,USA,United States,"Bob HAYES, Gerald Howard ASHWORTH, Paul DRAYTON, Richard STEBBINS",1964 Tokyo,Athletics,Men's,4x100m relay
+Summer,1964,Silver,POL,Poland,"Andrzej ZIELINSKI, Marian DUDZIAK, Marian FOIK, Wieslaw MANIAK",1964 Tokyo,Athletics,Men's,4x100m relay
+Summer,1964,Bronze,FRA,France,"Bernard LAIDEBEUR, Claude PIQUEMAL, Paul GENEVAY, Jocelyn DELECOUR",1964 Tokyo,Athletics,Men's,4x100m relay
+Summer,1964,Gold,USA,United States,"Ulis WILLIAMS, Henry CARR, Mike LARRABEE, Ollan CASSELL",1964 Tokyo,Athletics,Men's,4x400m relay
+Summer,1964,Silver,GBR,Great Britain,"Robbie BRIGHTWELL, Adrian METCALFE, John COOPER, Tim GRAHAM",1964 Tokyo,Athletics,Men's,4x400m relay
+Summer,1964,Bronze,TTO,Trinidad and Tobago,"Edwin ROBERTS, Wendell MOTTLEY, Kent BERNARD, Edwin SKINNER",1964 Tokyo,Athletics,Men's,4x400m relay
+Summer,1964,Gold,GBR,Great Britain,Kenneth Joseph MATTHEWS,1964 Tokyo,Athletics,Men's,20km walk
+Summer,1964,Silver,EUA,Unified Team of Germany,Dieter LINDNER,1964 Tokyo,Athletics,Men's,20km walk
+Summer,1964,Bronze,URS,USSR,Vladimir GOLUBNICHY,1964 Tokyo,Athletics,Men's,20km walk
+Summer,1964,Gold,ITA,Italy,Abdon PAMICH,1964 Tokyo,Athletics,Men's,50km walk
+Summer,1964,Silver,GBR,Great Britain,Paul Vincent NIHILL,1964 Tokyo,Athletics,Men's,50km walk
+Summer,1964,Bronze,SWE,Sweden,Ingvar PETTERSSON,1964 Tokyo,Athletics,Men's,50km walk
+Summer,1964,Gold,GBR,Great Britain,Lynn DAVIES,1964 Tokyo,Athletics,Men's,long jump
+Summer,1964,Silver,USA,United States,Ralph BOSTON,1964 Tokyo,Athletics,Men's,long jump
+Summer,1964,Bronze,URS,USSR,Igor TER-OVANESYAN,1964 Tokyo,Athletics,Men's,long jump
+Summer,1964,Gold,POL,Poland,Jozef SCHMIDT,1964 Tokyo,Athletics,Men's,triple jump
+Summer,1964,Silver,URS,USSR,Oleg Georgiyevich FEDOSEYEV,1964 Tokyo,Athletics,Men's,triple jump
+Summer,1964,Bronze,URS,USSR,Viktor KRAVCHENKO,1964 Tokyo,Athletics,Men's,triple jump
+Summer,1964,Gold,URS,USSR,Valeri BRUMEL,1964 Tokyo,Athletics,Men's,high jump
+Summer,1964,Silver,USA,United States,John THOMAS,1964 Tokyo,Athletics,Men's,high jump
+Summer,1964,Bronze,USA,United States,John RAMBO,1964 Tokyo,Athletics,Men's,high jump
+Summer,1964,Gold,USA,United States,Fred HANSEN,1964 Tokyo,Athletics,Men's,pole vault
+Summer,1964,Silver,EUA,Unified Team of Germany,Wolfgang REINHARDT,1964 Tokyo,Athletics,Men's,pole vault
+Summer,1964,Bronze,EUA,Unified Team of Germany,Klaus LEHNERTZ,1964 Tokyo,Athletics,Men's,pole vault
+Summer,1964,Gold,USA,United States,Dallas LONG,1964 Tokyo,Athletics,Men's,shot put
+Summer,1964,Silver,USA,United States,Randy MATSON,1964 Tokyo,Athletics,Men's,shot put
+Summer,1964,Bronze,HUN,Hungary,Vilmos VARJU,1964 Tokyo,Athletics,Men's,shot put
+Summer,1964,Gold,USA,United States,Al OERTER,1964 Tokyo,Athletics,Men's,discus throw
+Summer,1964,Silver,TCH,Czechoslovakia,Ludvík DANEK,1964 Tokyo,Athletics,Men's,discus throw
+Summer,1964,Bronze,USA,United States,David Lawson WEILL,1964 Tokyo,Athletics,Men's,discus throw
+Summer,1964,Gold,URS,USSR,Romuald KLIM,1964 Tokyo,Athletics,Men's,hammer throw
+Summer,1964,Silver,HUN,Hungary,Gyula ZSIVÓTZKY,1964 Tokyo,Athletics,Men's,hammer throw
+Summer,1964,Bronze,EUA,Unified Team of Germany,Uwe BEYER,1964 Tokyo,Athletics,Men's,hammer throw
+Summer,1964,Gold,FIN,Finland,Pauli NEVALA,1964 Tokyo,Athletics,Men's,javelin throw
+Summer,1964,Silver,HUN,Hungary,Gergely KULCSÁR,1964 Tokyo,Athletics,Men's,javelin throw
+Summer,1964,Bronze,URS,USSR,Yanis LUSIS,1964 Tokyo,Athletics,Men's,javelin throw
+Summer,1964,Gold,EUA,Unified Team of Germany,Willi HOLDORF,1964 Tokyo,Athletics,Men's,decathlon
+Summer,1964,Silver,URS,USSR,Rein AUN,1964 Tokyo,Athletics,Men's,decathlon
+Summer,1964,Bronze,EUA,Unified Team of Germany,Hans-Joachim WALDE,1964 Tokyo,Athletics,Men's,decathlon
+Summer,1964,Gold,USA,United States,Wyomia TYUS,1964 Tokyo,Athletics,Women's,100m
+Summer,1964,Silver,USA,United States,Edith MCGUIRE,1964 Tokyo,Athletics,Women's,100m
+Summer,1964,Bronze,POL,Poland,Ewa KLOBUKOWSKA,1964 Tokyo,Athletics,Women's,100m
+Summer,1964,Gold,USA,United States,Edith MCGUIRE,1964 Tokyo,Athletics,Women's,200m
+Summer,1964,Silver,POL,Poland,Irena KIRSZENSTEIN,1964 Tokyo,Athletics,Women's,200m
+Summer,1964,Bronze,AUS,Australia,Marilyn BLACK,1964 Tokyo,Athletics,Women's,200m
+Summer,1964,Gold,AUS,Australia,Betty CUTHBERT,1964 Tokyo,Athletics,Women's,400m
+Summer,1964,Silver,GBR,Great Britain,Ann PACKER,1964 Tokyo,Athletics,Women's,400m
+Summer,1964,Bronze,AUS,Australia,Judith Florence AMOORE-POLLOCK,1964 Tokyo,Athletics,Women's,400m
+Summer,1964,Gold,GBR,Great Britain,Ann PACKER,1964 Tokyo,Athletics,Women's,800m
+Summer,1964,Silver,FRA,France,Maryvonne DUPUREUR,1964 Tokyo,Athletics,Women's,800m
+Summer,1964,Bronze,NZL,New Zealand,Ann Marise CHAMBERLAIN,1964 Tokyo,Athletics,Women's,800m
+Summer,1964,Gold,EUA,Unified Team of Germany,Karin RICHERT-BALZER,1964 Tokyo,Athletics,Women's,80m hurdles
+Summer,1964,Silver,POL,Poland,Teresa WIECZOREK,1964 Tokyo,Athletics,Women's,80m hurdles
+Summer,1964,Bronze,AUS,Australia,Pamela RYAN,1964 Tokyo,Athletics,Women's,80m hurdles
+Summer,1964,Gold,POL,Poland,"Irena KIRSZENSTEIN, Halina RICHTER, Ewa KLOBUKOWSKA, Teresa WIECZOREK",1964 Tokyo,Athletics,Women's,4x100m relay
+Summer,1964,Silver,USA,United States,"Edith MCGUIRE, Wyomia TYUS, Willye WHITE, Marilyn WHITE",1964 Tokyo,Athletics,Women's,4x100m relay
+Summer,1964,Bronze,GBR,Great Britain,"Mary RAND, Daphne ARDEN, Dorothy HYMAN, Janet Mary SIMPSON",1964 Tokyo,Athletics,Women's,4x100m relay
+Summer,1964,Gold,GBR,Great Britain,Mary RAND,1964 Tokyo,Athletics,Women's,long jump
+Summer,1964,Silver,POL,Poland,Irena KIRSZENSTEIN,1964 Tokyo,Athletics,Women's,long jump
+Summer,1964,Bronze,URS,USSR,Tatyana SHCHELKANOVA,1964 Tokyo,Athletics,Women's,long jump
+Summer,1964,Gold,ROU,Romania,Iolanda BALAS,1964 Tokyo,Athletics,Women's,high jump
+Summer,1964,Silver,AUS,Australia,Michele BROWN,1964 Tokyo,Athletics,Women's,high jump
+Summer,1964,Bronze,URS,USSR,Taisiya CHENCHIK,1964 Tokyo,Athletics,Women's,high jump
+Summer,1964,Gold,URS,USSR,Tamara PRESS,1964 Tokyo,Athletics,Women's,shot put
+Summer,1964,Silver,EUA,Unified Team of Germany,Renate GARISCH-CULMBERGER-BOY,1964 Tokyo,Athletics,Women's,shot put
+Summer,1964,Bronze,URS,USSR,Galina ZYBINA,1964 Tokyo,Athletics,Women's,shot put
+Summer,1964,Gold,URS,USSR,Tamara PRESS,1964 Tokyo,Athletics,Women's,discus throw
+Summer,1964,Silver,EUA,Unified Team of Germany,Ingrid LOTZ,1964 Tokyo,Athletics,Women's,discus throw
+Summer,1964,Bronze,ROU,Romania,Lia MANOLIU,1964 Tokyo,Athletics,Women's,discus throw
+Summer,1964,Gold,ROU,Romania,Mihaela PENES,1964 Tokyo,Athletics,Women's,javelin throw
+Summer,1964,Silver,HUN,Hungary,Marta ANTAL-RUDAS,1964 Tokyo,Athletics,Women's,javelin throw
+Summer,1964,Bronze,URS,USSR,Yelena GORCHAKOVA,1964 Tokyo,Athletics,Women's,javelin throw
+Summer,1964,Gold,URS,USSR,Irina PRESS,1964 Tokyo,Athletics,Women's,pentathlon
+Summer,1964,Silver,GBR,Great Britain,Mary RAND,1964 Tokyo,Athletics,Women's,pentathlon
+Summer,1964,Bronze,URS,USSR,Galina BYSTROVA,1964 Tokyo,Athletics,Women's,pentathlon
+Summer,1964,Gold,USA,United States,"George WILSON, Walter HAZZARD, Richard DAVIES, Lucius Brown JACKSON, Jim BARNES, Jerry SHIPP, William Warren BRADLEY, John MCCAFFREY, Joe CALDWELL, Jeffry Vincent MULLINS, Lawrence Harvey BROWN, Mel COUNTS",1964 Tokyo,Basketball,Men's,basketball
+Summer,1964,Silver,URS,USSR,"Jaak LIPSO, Armenak ALACHACHYAN, Jãnis KRÜMIN?, Yury KORNEYEV, Gennady VOLNOV, Vyacheslav KHRYNIN, Valdis MUIZNIEKS, Levan MOSESHVILI, Nikolay BAGLEY, Yuris KALNYNSH, Aleksandr PETROV, Aleksandr TRAVIN",1964 Tokyo,Basketball,Men's,basketball
+Summer,1964,Bronze,BRA,Brazil,"Friedrich Wilhelm BRAUN, José Edvar SIMÕES, Sérgio MACHADO, Carlos DOMINGO MASSONI, Carmo DE SOUZA, Wlamir MARQUES, Eduardo SCHALL JATYR, Antonio PASOS AMAURY, Maciel PEREIRA UBIRATAN, Antonio SALVADOR SUCAR, Victor MIRSHAWSKA, Edson BISPO DOS SANTOS",1964 Tokyo,Basketball,Men's,basketball
+Summer,1964,Gold,ITA,Italy,Fernando ATZORI,1964 Tokyo,Boxing,Men's,- 51kg (flyweight)
+Summer,1964,Silver,POL,Poland,Artur OLECH,1964 Tokyo,Boxing,Men's,- 51kg (flyweight)
+Summer,1964,Bronze,USA,United States,Robert CARMODY,1964 Tokyo,Boxing,Men's,- 51kg (flyweight)
+Summer,1964,Bronze,URS,USSR,Stanislav SOROKIN,1964 Tokyo,Boxing,Men's,- 51kg (flyweight)
+Summer,1964,Gold,JPN,Japan,Takao SAKURAI,1964 Tokyo,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1964,Silver,KOR,Korea Republic,Shin-Cho CHUNG,1964 Tokyo,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1964,Bronze,MEX,Mexico,Juan FABILA MENDOZA,1964 Tokyo,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1964,Bronze,URU,Uruguay,Washington RODRIGUEZ,1964 Tokyo,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1964,Gold,URS,USSR,Stanislav STEPASHKIN,1964 Tokyo,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1964,Silver,PHI,Philippines,Anthony VILLANUEVA,1964 Tokyo,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1964,Bronze,EUA,Unified Team of Germany,Heinz SCHULZ,1964 Tokyo,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1964,Bronze,USA,United States,Charles BROWN,1964 Tokyo,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1964,Gold,POL,Poland,Jozef GRUDZIEN,1964 Tokyo,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1964,Silver,URS,USSR,Vellikton BARANNIKOV,1964 Tokyo,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1964,Bronze,IRL,Ireland,James MCCOURT,1964 Tokyo,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1964,Bronze,USA,United States,Ronald Allen HARRIS,1964 Tokyo,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1964,Gold,POL,Poland,Jerzy KULEJ,1964 Tokyo,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1964,Silver,URS,USSR,Yevgeny FROLOV,1964 Tokyo,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1964,Bronze,GHA,Ghana,Eddie BLAY,1964 Tokyo,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1964,Bronze,TUN,Tunisia,Habib GALHIA,1964 Tokyo,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1964,Gold,POL,Poland,Marian KASPRZYK,1964 Tokyo,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1964,Silver,URS,USSR,Rikardas TAMULIS,1964 Tokyo,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1964,Bronze,FIN,Finland,Pertti PURHONEN,1964 Tokyo,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1964,Bronze,ITA,Italy,Silvano BERTINI,1964 Tokyo,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1964,Gold,URS,USSR,Boris LAGUTIN,1964 Tokyo,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1964,Silver,FRA,France,Joseph GONZALES,1964 Tokyo,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1964,Bronze,NGR,Nigeria,Nojim MAIYEGUN,1964 Tokyo,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1964,Bronze,POL,Poland,Józef GRZESIAK,1964 Tokyo,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1964,Gold,URS,USSR,Valery POPENCHENKO,1964 Tokyo,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1964,Silver,EUA,Unified Team of Germany,Emil SCHULZ,1964 Tokyo,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1964,Bronze,ITA,Italy,Franco VALLE,1964 Tokyo,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1964,Bronze,POL,Poland,Tadeusz WALASEK,1964 Tokyo,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1964,Gold,ITA,Italy,Cosimo PINTO,1964 Tokyo,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1964,Silver,URS,USSR,Aleksy KISELEV,1964 Tokyo,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1964,Bronze,BUL,Bulgaria,Aleksandr NIKOLOV,1964 Tokyo,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1964,Bronze,POL,Poland,Zbigniew PIETRZYKOWSKI,1964 Tokyo,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1964,Gold,USA,United States,Joe FRAZIER,1964 Tokyo,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1964,Silver,EUA,Unified Team of Germany,Hans HUBER,1964 Tokyo,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1964,Bronze,ITA,Italy,Giuseppe ROS,1964 Tokyo,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1964,Bronze,URS,USSR,Vadim YEMELYANOV,1964 Tokyo,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1964,Gold,SWE,Sweden,Rolf PETERSON,1964 Tokyo,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1964,Silver,HUN,Hungary,Mihály HESZ,1964 Tokyo,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1964,Bronze,ROU,Romania,Aurel VERNESCU,1964 Tokyo,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1964,Gold,SWE,Sweden,"Sven-Olov SJÖDELIUS, Nils UTTERBERG",1964 Tokyo,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1964,Silver,NED,Netherlands,"Paulus Joan HOEKSTRA, Antonius Johannes GEURTS",1964 Tokyo,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1964,Bronze,EUA,Unified Team of Germany,"Holger ZANDER, Heinz BÜKER",1964 Tokyo,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1964,Gold,URS,USSR,"Vyacheslav IONOV, Vladimir MOROZOV, Nikolai CHUZHIKOV, Anatoli GRISHIN",1964 Tokyo,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1964,Silver,EUA,Unified Team of Germany,"Holger ZANDER, Günter PERLEBERG, Bernhard SCHULZE, Friedhelm WENTZKE",1964 Tokyo,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1964,Bronze,ROU,Romania,"Mihai TURCAS, Simion CUCIUC, Aurel VERNESCU, Atanase SCIOTNIC",1964 Tokyo,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1964,Gold,EUA,Unified Team of Germany,Jürgen ESCHERT,1964 Tokyo,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1964,Silver,ROU,Romania,Andrei IGOROV,1964 Tokyo,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1964,Bronze,URS,USSR,Yevgeni PENYAEV,1964 Tokyo,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1964,Gold,URS,USSR,"Andrei KHIMICH, Stepan OSHCHEPKOV",1964 Tokyo,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1964,Silver,FRA,France,"Jean BOUDEHEN, Michel CHAPUIS",1964 Tokyo,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1964,Bronze,DEN,Denmark,"John Rungsted SÖRENSEN, Peer Norrbohm NIELSEN",1964 Tokyo,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1964,Gold,URS,USSR,Lyudmila KHVEDOSYUK,1964 Tokyo,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1964,Silver,ROU,Romania,Hilde LAUER,1964 Tokyo,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1964,Bronze,USA,United States,Marcia JONES,1964 Tokyo,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1964,Gold,EUA,Unified Team of Germany,"Roswitha ESSER, Annemarie ZIMMERMANN",1964 Tokyo,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1964,Silver,USA,United States,"Glorianne Aurore PERRIER, Francine FOX",1964 Tokyo,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1964,Bronze,ROU,Romania,"Cornelia SIDERI, Hilde LAUER",1964 Tokyo,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1964,Gold,ITA,Italy,Mario ZANIN,1964 Tokyo,Cycling Road,Men's,individual road race
+Summer,1964,Silver,DEN,Denmark,Kjeld AKERSTRØM RODIAN,1964 Tokyo,Cycling Road,Men's,individual road race
+Summer,1964,Bronze,BEL,Belgium,Walter GODEFROOT,1964 Tokyo,Cycling Road,Men's,individual road race
+Summer,1964,Gold,NED,Netherlands,"Hubertus ZOET, Evert DOLMAN, Gerben KARSTENS, Jan PIETERSE",1964 Tokyo,Cycling Road,Men's,team time trial
+Summer,1964,Silver,ITA,Italy,"Ferruccio MANZA, Pietro GUERRA, Severino ANDREOLI, Luciano DALLA BONA",1964 Tokyo,Cycling Road,Men's,team time trial
+Summer,1964,Bronze,SWE,Sweden,"Sture FÄGLUM-PETTERSSON, Sven Helge HAMRIN, Erik FÄGLUM-PETTERSSON, Gösta PETTERSSON",1964 Tokyo,Cycling Road,Men's,team time trial
+Summer,1964,Gold,ITA,Italy,Giovanni PETTENELLA,1964 Tokyo,Cycling Track,Men's,sprint individual
+Summer,1964,Silver,ITA,Italy,Sergio BIANCHETTO,1964 Tokyo,Cycling Track,Men's,sprint individual
+Summer,1964,Bronze,FRA,France,Daniel MORELON,1964 Tokyo,Cycling Track,Men's,sprint individual
+Summer,1964,Gold,TCH,Czechoslovakia,Jiri DALER,1964 Tokyo,Cycling Track,Men's,individual pursuit
+Summer,1964,Silver,ITA,Italy,Giorgio URSI,1964 Tokyo,Cycling Track,Men's,individual pursuit
+Summer,1964,Bronze,DEN,Denmark,Preben ISAKSSON,1964 Tokyo,Cycling Track,Men's,individual pursuit
+Summer,1964,Gold,BEL,Belgium,Patrick SERCU,1964 Tokyo,Cycling Track,Men's,1km time trial
+Summer,1964,Silver,ITA,Italy,Giovanni PETTENELLA,1964 Tokyo,Cycling Track,Men's,1km time trial
+Summer,1964,Bronze,FRA,France,Pierre TRENTIN,1964 Tokyo,Cycling Track,Men's,1km time trial
+Summer,1964,Gold,ITA,Italy,"Sergio BIANCHETTO, Angelo DAMIANO",1964 Tokyo,Cycling Track,Men's,2000m tandem
+Summer,1964,Silver,URS,USSR,"Imant BODNIEKS, Viktor LOGUNOV",1964 Tokyo,Cycling Track,Men's,2000m tandem
+Summer,1964,Bronze,EUA,Unified Team of Germany,"Klaus KOBUSCH, Willy FUGGERER",1964 Tokyo,Cycling Track,Men's,2000m tandem
+Summer,1964,Gold,EUA,Unified Team of Germany,"Ernst STRENG, Karl LINK, Karlheinz HENRICHS, Lothar CLAESGES",1964 Tokyo,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1964,Silver,ITA,Italy,"Vincenzo MANTOVANI, Franco TESTA, Carlo RANCATI, Luigi RONCAGLIA",1964 Tokyo,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1964,Bronze,NED,Netherlands,"Gerard KOEL, Cornelis SCHUURING, Jacob OUDKERK, Hendrik Jan Willem CORNELISSE",1964 Tokyo,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1964,Gold,USA,United States,Kenneth SITZBERGER,1964 Tokyo,Diving,Men's,3m springboard
+Summer,1964,Silver,USA,United States,Francis GORMAN,1964 Tokyo,Diving,Men's,3m springboard
+Summer,1964,Bronze,USA,United States,Larry ANDREASEN,1964 Tokyo,Diving,Men's,3m springboard
+Summer,1964,Gold,USA,United States,Robert WEBSTER,1964 Tokyo,Diving,Men's,10m platform
+Summer,1964,Silver,ITA,Italy,Klaus DIBIASI,1964 Tokyo,Diving,Men's,10m platform
+Summer,1964,Bronze,USA,United States,Thomas GOMPF,1964 Tokyo,Diving,Men's,10m platform
+Summer,1964,Gold,EUA,Unified Team of Germany,Ingrid KRÄMER,1964 Tokyo,Diving,Women's,3m springboard
+Summer,1964,Silver,USA,United States,Jeanne COLLIER,1964 Tokyo,Diving,Women's,3m springboard
+Summer,1964,Bronze,USA,United States,Mary Patricia WILLARD,1964 Tokyo,Diving,Women's,3m springboard
+Summer,1964,Gold,USA,United States,Lesley BUSH,1964 Tokyo,Diving,Women's,10m platform
+Summer,1964,Silver,EUA,Unified Team of Germany,Ingrid KRÄMER,1964 Tokyo,Diving,Women's,10m platform
+Summer,1964,Bronze,URS,USSR,Galina ALEKSEYEVA,1964 Tokyo,Diving,Women's,10m platform
+Summer,1964,Gold,SUI,Switzerland,Henri CHAMMARTIN,1964 Tokyo,Equestrian Dressage,Mixed,individual
+Summer,1964,Silver,EUA,Unified Team of Germany,Harry BOLDT,1964 Tokyo,Equestrian Dressage,Mixed,individual
+Summer,1964,Bronze,URS,USSR,Sergei FILATOV,1964 Tokyo,Equestrian Dressage,Mixed,individual
+Summer,1964,Gold,EUA,Unified Team of Germany,"Josef NECKERMANN, Reiner KLIMKE, Harry BOLDT",1964 Tokyo,Equestrian Dressage,Mixed,team
+Summer,1964,Silver,SUI,Switzerland,"Gustav FISCHER, Henri CHAMMARTIN, Marianne GOSSWEILER",1964 Tokyo,Equestrian Dressage,Mixed,team
+Summer,1964,Bronze,URS,USSR,"Sergei FILATOV, Ivan KALITA, Ivan KIZIMOV",1964 Tokyo,Equestrian Dressage,Mixed,team
+Summer,1964,Gold,ITA,Italy,Mauro CHECCOLI,1964 Tokyo,Equestrian Eventing,Mixed,individual
+Summer,1964,Silver,ARG,Argentina,Carlos MORATORIO,1964 Tokyo,Equestrian Eventing,Mixed,individual
+Summer,1964,Bronze,EUA,Unified Team of Germany,Fritz LIGGES,1964 Tokyo,Equestrian Eventing,Mixed,individual
+Summer,1964,Gold,ITA,Italy,"Giuseppe RAVANO, Mauro CHECCOLI, Paolo ANGIONI",1964 Tokyo,Equestrian Eventing,Mixed,team
+Summer,1964,Silver,USA,United States,"Kevin FREEMAN, John Michael PLUMB, Michael PAGE",1964 Tokyo,Equestrian Eventing,Mixed,team
+Summer,1964,Bronze,EUA,Unified Team of Germany,"Fritz LIGGES, Horst KARSTEN, Gerhard SCHULZ",1964 Tokyo,Equestrian Eventing,Mixed,team
+Summer,1964,Gold,FRA,France,Pierre JONQUÈRES D'ORIOLA,1964 Tokyo,Equestrian Jumping,Mixed,individual
+Summer,1964,Silver,EUA,Unified Team of Germany,Hermann SCHRIDDE,1964 Tokyo,Equestrian Jumping,Mixed,individual
+Summer,1964,Bronze,GBR,Great Britain,Peter ROBESON,1964 Tokyo,Equestrian Jumping,Mixed,individual
+Summer,1964,Gold,EUA,Unified Team of Germany,"Hermann SCHRIDDE, Kurt JARASINSKI, Hans Günter WINKLER",1964 Tokyo,Equestrian Jumping,Mixed,team
+Summer,1964,Silver,FRA,France,"Pierre JONQUÈRES D'ORIOLA, Guy LEFRANT, Janou LEFÈBVRE",1964 Tokyo,Equestrian Jumping,Mixed,team
+Summer,1964,Bronze,ITA,Italy,"Raimondo D'INZEO, Graziano MANCINELLI, Piero D'INZEO",1964 Tokyo,Equestrian Jumping,Mixed,team
+Summer,1964,Gold,URS,USSR,Grigori KRISS,1964 Tokyo,Fencing,Men's,épée individual
+Summer,1964,Silver,GBR,Great Britain,Henry William Furse HOSKYNS,1964 Tokyo,Fencing,Men's,épée individual
+Summer,1964,Bronze,URS,USSR,Guram KOSTAVA,1964 Tokyo,Fencing,Men's,épée individual
+Summer,1964,Gold,HUN,Hungary,"István KAUSZ, Zoltán NEMERE, Árpád BÁRÁNY, Gyözö KULCSAR, Tamás GÁBOR",1964 Tokyo,Fencing,Men's,épée team
+Summer,1964,Silver,ITA,Italy,"Alberto PELLEGRINO, Giovanni BATTISTA BREDA, Gianfranco PAOLUCCI, Giuseppe DELFINO, Gianluigi SACCARO",1964 Tokyo,Fencing,Men's,épée team
+Summer,1964,Bronze,FRA,France,"Claude BRODIN, Yves DREYFUS, Claude BOURQUARD, Jacques GUITTET, Jacques BRODIN",1964 Tokyo,Fencing,Men's,épée team
+Summer,1964,Gold,POL,Poland,Egon FRANKE,1964 Tokyo,Fencing,Men's,foil individual
+Summer,1964,Silver,FRA,France,Jean-Claude MAGNAN,1964 Tokyo,Fencing,Men's,foil individual
+Summer,1964,Bronze,FRA,France,Daniel REVENU,1964 Tokyo,Fencing,Men's,foil individual
+Summer,1964,Gold,URS,USSR,"Mark MIDLER, German SVESHNIKOV, Yuri SHAROV, Yuri SISIKIN, Viktor ZHDANOVICH",1964 Tokyo,Fencing,Men's,foil team
+Summer,1964,Silver,POL,Poland,"Janusz RÓZYCKI, Zbigniew SKRUDLIK, Ryszard PARULSKI, Witold WOYDA, Egon FRANKE",1964 Tokyo,Fencing,Men's,foil team
+Summer,1964,Bronze,FRA,France,"Daniel REVENU, Pierre RODOCANACHI, Jacques COURTILLAT, Jean-Claude MAGNAN, Christian NOËL",1964 Tokyo,Fencing,Men's,foil team
+Summer,1964,Gold,HUN,Hungary,Tibor PÉZSA,1964 Tokyo,Fencing,Men's,sabre individual
+Summer,1964,Silver,FRA,France,Claude ARABO,1964 Tokyo,Fencing,Men's,sabre individual
+Summer,1964,Bronze,URS,USSR,Umyar MAVLIKHANOV,1964 Tokyo,Fencing,Men's,sabre individual
+Summer,1964,Gold,URS,USSR,"Yakov RYLSKY, Mark RAKITA, Umyar MAVLIKHANOV, Nugzar ASATIANI, Boris MELNIKOV",1964 Tokyo,Fencing,Men's,sabre team
+Summer,1964,Silver,ITA,Italy,"Mario RAVAGNAN, Cesare SALVADORI, Giampaolo CALANCHINI, Pierluigi CHICCA, Wladimiro CALARESE",1964 Tokyo,Fencing,Men's,sabre team
+Summer,1964,Bronze,POL,Poland,"Jerzy PAWLOWSKI, Ryszard ZUB, Emil OCHYRA, Wojciech ZABLOCKI, Andrzej PIATKOWSKI",1964 Tokyo,Fencing,Men's,sabre team
+Summer,1964,Gold,HUN,Hungary,Ildiko REJTO-UJLAKI,1964 Tokyo,Fencing,Women's,foil individual
+Summer,1964,Silver,EUA,Unified Team of Germany,Helga MEES,1964 Tokyo,Fencing,Women's,foil individual
+Summer,1964,Bronze,ITA,Italy,Antonella RAGNO,1964 Tokyo,Fencing,Women's,foil individual
+Summer,1964,Gold,HUN,Hungary,"Ildiko REJTO-UJLAKI, Paula MAROSI, Katalin JUHASZ-NAGY, Lidia SÁKOVICS-DÖMÖLKY, Judit MENDELÉNYI-ÁGOSTON",1964 Tokyo,Fencing,Women's,foil team
+Summer,1964,Silver,URS,USSR,"Tatyana PETRENKO, Lyudmila SHISHOVA, Valentina RASTVOROVA, Valentina PRUDSKOVA, Galina GOROKHOVA",1964 Tokyo,Fencing,Women's,foil team
+Summer,1964,Bronze,EUA,Unified Team of Germany,"Heidi SCHMID, Helga MEES, Rosemarie SCHERBERGER, Gudrun THEUERKAUFF",1964 Tokyo,Fencing,Women's,foil team
+Summer,1964,Gold,HUN,Hungary,"Arpad ORBAN, József GELEI, Tibor CSERNAI, Ferenc NÓGRÁDI, Imre KOMORA, János FARKAS, Károly PALOTAI, Zoltán VARGA, Gusztáv SZEPESI, Antal SZENTMIHÁLYI, Ferenc BENE, Kálmán IHÁSZ, Dezsö NOVAK, Sándor KATONA",1964 Tokyo,Football,Men's,football
+Summer,1964,Silver,TCH,Czechoslovakia,"Vladimír WEISS, Frantisek KNEBORT, Karel LICHTNÉGL, Karel NEPOMUCKY, Frantisek VALOSEK, Karel KNESL, Zdenek PICMAN, Anton URBAN, Stefan MATLAK, Ludevit CVETLER, Jan BRUMOWSKY, Josef VOJTA, Franti?ek SCHMUCKER, Ján GELETA, Vojtech MASNY, Ivan MRÁZ, Anton SVAJLEN",1964 Tokyo,Football,Men's,football
+Summer,1964,Bronze,EUA,Unified Team of Germany,"Werner UNGER, Henning FRENZEL, Hans-Jürgen HEINSCH, Hermann STÖCKER, Manfred GEISLER, Klaus-Dieter SEEHAUS, Herbert PANKAU, Otto FRÄSSDORF, Bernd BAUCHSPIESS, Wolfgang BARTHELS, Klaus LISIEWICZ, Klaus URBANCZYK, Peter ROCK, Jürgen NÖLDNER, Manfred WALTER, Dieter ENGELHARDT, Horst WEIGANG, Gerhard KÖRNER, Eberhard VOGEL",1964 Tokyo,Football,Men's,football
+Summer,1964,Gold,JPN,Japan,Yukio ENDO,1964 Tokyo,Gymnastics Artistic,Men's,individual all-round
+Summer,1964,Silver,JPN,Japan,Shuji TSURUMI,1964 Tokyo,Gymnastics Artistic,Men's,individual all-round
+Summer,1964,Silver,URS,USSR,Boris SHAKHLIN,1964 Tokyo,Gymnastics Artistic,Men's,individual all-round
+Summer,1964,Silver,URS,USSR,Viktor LISITSKY,1964 Tokyo,Gymnastics Artistic,Men's,individual all-round
+Summer,1964,Gold,JPN,Japan,"Yukio ENDO, Takashi MITSUKURI, Shuji TSURUMI, Takashi ONO, Takuji HAYATA, Haruhiro YAMASHITA",1964 Tokyo,Gymnastics Artistic,Men's,team competition
+Summer,1964,Silver,URS,USSR,"Viktor LEONTYEV, Viktor LISITSKY, Yuri TSAPENKO, Boris SHAKHLIN, Yuri TITOV, Sergey DIOMIDOV",1964 Tokyo,Gymnastics Artistic,Men's,team competition
+Summer,1964,Bronze,EUA,Unified Team of Germany,"Erwin KOPPE, Peter WEBER, Günter LYHS, Siegfried FÜLLE, Philipp FÜRST, Klaus KÖSTE",1964 Tokyo,Gymnastics Artistic,Men's,team competition
+Summer,1964,Gold,ITA,Italy,Franco MENICHELLI,1964 Tokyo,Gymnastics Artistic,Men's,floor exercises
+Summer,1964,Silver,JPN,Japan,Yukio ENDO,1964 Tokyo,Gymnastics Artistic,Men's,floor exercises
+Summer,1964,Silver,URS,USSR,Viktor LISITSKY,1964 Tokyo,Gymnastics Artistic,Men's,floor exercises
+Summer,1964,Gold,JPN,Japan,Yukio ENDO,1964 Tokyo,Gymnastics Artistic,Men's,parallel bars
+Summer,1964,Silver,JPN,Japan,Shuji TSURUMI,1964 Tokyo,Gymnastics Artistic,Men's,parallel bars
+Summer,1964,Bronze,ITA,Italy,Franco MENICHELLI,1964 Tokyo,Gymnastics Artistic,Men's,parallel bars
+Summer,1964,Gold,JPN,Japan,Haruhiro YAMASHITA,1964 Tokyo,Gymnastics Artistic,Men's,vault
+Summer,1964,Silver,URS,USSR,Viktor LISITSKY,1964 Tokyo,Gymnastics Artistic,Men's,vault
+Summer,1964,Bronze,FIN,Finland,Hannu RANTAKARI,1964 Tokyo,Gymnastics Artistic,Men's,vault
+Summer,1964,Gold,JPN,Japan,Takuji HAYATA,1964 Tokyo,Gymnastics Artistic,Men's,rings
+Summer,1964,Silver,ITA,Italy,Franco MENICHELLI,1964 Tokyo,Gymnastics Artistic,Men's,rings
+Summer,1964,Bronze,URS,USSR,Boris SHAKHLIN,1964 Tokyo,Gymnastics Artistic,Men's,rings
+Summer,1964,Gold,YUG,Yugoslavia,Miroslav CERAR,1964 Tokyo,Gymnastics Artistic,Men's,pommel horse
+Summer,1964,Silver,JPN,Japan,Shuji TSURUMI,1964 Tokyo,Gymnastics Artistic,Men's,pommel horse
+Summer,1964,Bronze,URS,USSR,Yuri TSAPENKO,1964 Tokyo,Gymnastics Artistic,Men's,pommel horse
+Summer,1964,Gold,URS,USSR,Boris SHAKHLIN,1964 Tokyo,Gymnastics Artistic,Men's,horizontal bar
+Summer,1964,Silver,URS,USSR,Yuri TITOV,1964 Tokyo,Gymnastics Artistic,Men's,horizontal bar
+Summer,1964,Bronze,YUG,Yugoslavia,Miroslav CERAR,1964 Tokyo,Gymnastics Artistic,Men's,horizontal bar
+Summer,1964,Gold,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1964 Tokyo,Gymnastics Artistic,Women's,individual all-round
+Summer,1964,Silver,URS,USSR,Larisa LATYNINA,1964 Tokyo,Gymnastics Artistic,Women's,individual all-round
+Summer,1964,Bronze,URS,USSR,Polina ASTAKHOVA,1964 Tokyo,Gymnastics Artistic,Women's,individual all-round
+Summer,1964,Gold,URS,USSR,"Lyudmila GROMOVA, Tamara MANINA, Tamara ZAMOTAYLOVA-LYUKHINA, Larisa LATYNINA, Polina ASTAKHOVA, Yelena VOLCHETSKAYA",1964 Tokyo,Gymnastics Artistic,Women's,team competition
+Summer,1964,Silver,TCH,Czechoslovakia,"Jana POSNEROVA-KUBICKOVA, Hana RUZICKOVA, Mariana KRAJCIROVA-NEMETHOVA, Adolfina TACOVA-TKACIKOVA, Jaroslava SEDLACKOVA, Vera CÁSLAVSKÁ",1964 Tokyo,Gymnastics Artistic,Women's,team competition
+Summer,1964,Bronze,JPN,Japan,"Hiroko TSUJI, Ginko ABUKAWA-CHIBA, Taniko NAKAMURA, Toshiko SHIRAZU-AIHARA, Keiko TANAKA, Kiyoko ONO",1964 Tokyo,Gymnastics Artistic,Women's,team competition
+Summer,1964,Gold,URS,USSR,Larisa LATYNINA,1964 Tokyo,Gymnastics Artistic,Women's,floor exercises
+Summer,1964,Silver,URS,USSR,Polina ASTAKHOVA,1964 Tokyo,Gymnastics Artistic,Women's,floor exercises
+Summer,1964,Bronze,HUN,Hungary,Aniko DUCZA,1964 Tokyo,Gymnastics Artistic,Women's,floor exercises
+Summer,1964,Gold,URS,USSR,Polina ASTAKHOVA,1964 Tokyo,Gymnastics Artistic,Women's,uneven bars
+Summer,1964,Silver,HUN,Hungary,Katalin MAKRAY,1964 Tokyo,Gymnastics Artistic,Women's,uneven bars
+Summer,1964,Bronze,URS,USSR,Larisa LATYNINA,1964 Tokyo,Gymnastics Artistic,Women's,uneven bars
+Summer,1964,Gold,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1964 Tokyo,Gymnastics Artistic,Women's,vault
+Summer,1964,Silver,EUA,Unified Team of Germany,Birgit RADOCHLA,1964 Tokyo,Gymnastics Artistic,Women's,vault
+Summer,1964,Silver,URS,USSR,Larisa LATYNINA,1964 Tokyo,Gymnastics Artistic,Women's,vault
+Summer,1964,Gold,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1964 Tokyo,Gymnastics Artistic,Women's,balance beam
+Summer,1964,Silver,URS,USSR,Tamara MANINA,1964 Tokyo,Gymnastics Artistic,Women's,balance beam
+Summer,1964,Bronze,URS,USSR,Larisa LATYNINA,1964 Tokyo,Gymnastics Artistic,Women's,balance beam
+Summer,1964,Gold,IND,India,"Mohinder LAL, Ali SAYED, Prithipal SINGH, Bandu PATIL, Joginder SINGH, Gurbux SINGH, Dharam SINGH, Shankar LAXMAN, Harbinder SINGH, Jagjit SINGH, Haripal KAUSHIK, John PETER, Charanjit SINGH, Udham SINGH, Darshan SINGH",1964 Tokyo,Hockey,Men's,hockey
+Summer,1964,Silver,PAK,Pakistan,"Aziz TARIQ, Khizar NAWAZ, Muhammad Abdul RASHID, Azam KHURSHID, Tariq NIAZI, Anwar Ahmad KHAN, Mutih ULLAH, Uddin ZAKA, Anwar SAEED, Zafar HAYAT, Mohammad Asad MALIK, Hamid ABDUL, Muhammad Afzal MANNA, Mahmud KHALID, Hussain Atif MANZOOR, Munir Ahmad DAR",1964 Tokyo,Hockey,Men's,hockey
+Summer,1964,Bronze,AUS,Australia,"John MCBRYDE, Desmond PIPER, Eric PEARCE, Graham WOOD, Donald MCWATTERS, Patrick NILAN, Mervyn CROSSMAN, Raymond EVANS, Paul DEARING, Anthony WATERS, Robin HODDER, Julian PEARCE, Brian GLENCROSS, Donald SMART",1964 Tokyo,Hockey,Men's,hockey
+Summer,1964,Gold,JPN,Japan,Takehide NAKATANI,1964 Tokyo,Judo,Men's,- 68kg (lightweight)
+Summer,1964,Silver,SUI,Switzerland,Eric HÄNNI,1964 Tokyo,Judo,Men's,- 68kg (lightweight)
+Summer,1964,Bronze,URS,USSR,Aron BOGOLYUBOV,1964 Tokyo,Judo,Men's,- 68kg (lightweight)
+Summer,1964,Bronze,URS,USSR,Oleg STEPANOV,1964 Tokyo,Judo,Men's,- 68kg (lightweight)
+Summer,1964,Gold,JPN,Japan,Isao OKANO,1964 Tokyo,Judo,Men's,68 - 80kg (middleweight)
+Summer,1964,Silver,EUA,Unified Team of Germany,Wolfgang HOFFMANN,1964 Tokyo,Judo,Men's,68 - 80kg (middleweight)
+Summer,1964,Bronze,KOR,Korea Republic,Eui-Tae KIM,1964 Tokyo,Judo,Men's,68 - 80kg (middleweight)
+Summer,1964,Bronze,USA,United States,James BREGMAN,1964 Tokyo,Judo,Men's,68 - 80kg (middleweight)
+Summer,1964,Gold,JPN,Japan,Isao INOKUMA,1964 Tokyo,Judo,Men's,+ 80kg (heavyweight)
+Summer,1964,Silver,CAN,Canada,Douglas ROGERS,1964 Tokyo,Judo,Men's,+ 80kg (heavyweight)
+Summer,1964,Bronze,URS,USSR,Anzor KIKNADZE,1964 Tokyo,Judo,Men's,+ 80kg (heavyweight)
+Summer,1964,Bronze,URS,USSR,Parnaos CHIKVILADZE,1964 Tokyo,Judo,Men's,+ 80kg (heavyweight)
+Summer,1964,Gold,NED,Netherlands,Anton GEESINK,1964 Tokyo,Judo,Men's,open category
+Summer,1964,Silver,JPN,Japan,Akio KAMINAGA,1964 Tokyo,Judo,Men's,open category
+Summer,1964,Bronze,AUS,Australia,Theodore BORONOVSKIS,1964 Tokyo,Judo,Men's,open category
+Summer,1964,Bronze,EUA,Unified Team of Germany,Klaus GLAHN,1964 Tokyo,Judo,Men's,open category
+Summer,1964,Gold,HUN,Hungary,Ferenc TÖRÖK,1964 Tokyo,Modern Pentathlon,Men's,individual competition
+Summer,1964,Silver,URS,USSR,Igor NOVIKOV,1964 Tokyo,Modern Pentathlon,Men's,individual competition
+Summer,1964,Bronze,URS,USSR,Albert MOKEYEV,1964 Tokyo,Modern Pentathlon,Men's,individual competition
+Summer,1964,Gold,URS,USSR,"Albert MOKEYEV, Viktor MINEYEV, Igor NOVIKOV",1964 Tokyo,Modern Pentathlon,Men's,team competition
+Summer,1964,Silver,USA,United States,"James MOORE, Paul PESTHY, David KIRKWOOD",1964 Tokyo,Modern Pentathlon,Men's,team competition
+Summer,1964,Bronze,HUN,Hungary,"Otto TOROK, Imre NAGY, Ferenc TÖRÖK",1964 Tokyo,Modern Pentathlon,Men's,team competition
+Summer,1964,Gold,URS,USSR,Vyacheslav IVANOV,1964 Tokyo,Rowing,Men's,single sculls (1x)
+Summer,1964,Silver,EUA,Unified Team of Germany,Achim HILL,1964 Tokyo,Rowing,Men's,single sculls (1x)
+Summer,1964,Bronze,SUI,Switzerland,Gottfried KOTTMANN,1964 Tokyo,Rowing,Men's,single sculls (1x)
+Summer,1964,Gold,URS,USSR,"Boris DUBROVSKY, Oleg TYURIN",1964 Tokyo,Rowing,Men's,double sculls (2x)
+Summer,1964,Silver,USA,United States,"James STORM, Seymour CROMWELL",1964 Tokyo,Rowing,Men's,double sculls (2x)
+Summer,1964,Bronze,TCH,Czechoslovakia,"Pavel HOFMAN, Vladimir ANDRS",1964 Tokyo,Rowing,Men's,double sculls (2x)
+Summer,1964,Gold,CAN,Canada,"Roger JACKSON, George HUNGERFORD",1964 Tokyo,Rowing,Men's,pair without coxswain (2-)
+Summer,1964,Silver,NED,Netherlands,"Steven BLAISSE, Ernst VEENEMANS",1964 Tokyo,Rowing,Men's,pair without coxswain (2-)
+Summer,1964,Bronze,EUA,Unified Team of Germany,"Wolfgang HOTTENROTT, Michael SCHWAN",1964 Tokyo,Rowing,Men's,pair without coxswain (2-)
+Summer,1964,Gold,USA,United States,"Conn FINDLAY, Henry MITCHELL, Edward FERRY",1964 Tokyo,Rowing,Men's,pair-oared shell with coxswain
+Summer,1964,Silver,FRA,France,"Georges MOREL, Jacques MOREL, Jean-Claude DAROUY",1964 Tokyo,Rowing,Men's,pair-oared shell with coxswain
+Summer,1964,Bronze,NED,Netherlands,"Jan Justus BOS, Frederik HARTSUIKER, Herman ROUWÉ",1964 Tokyo,Rowing,Men's,pair-oared shell with coxswain
+Summer,1964,Gold,DEN,Denmark,"Björn Borgen HASLOV, Erik PETERSEN, John Orsted HANSEN, Kurt HELMUDT",1964 Tokyo,Rowing,Men's,four without coxswain (4-)
+Summer,1964,Silver,GBR,Great Britain,"William BARRY, John RUSSELL, John JAMES, Hugh WARDELL-YERBURGH",1964 Tokyo,Rowing,Men's,four without coxswain (4-)
+Summer,1964,Bronze,USA,United States,"Theodore MITTET, Ted NASH, Richard LYON, Geoffrey PICARD",1964 Tokyo,Rowing,Men's,four without coxswain (4-)
+Summer,1964,Gold,EUA,Unified Team of Germany,"Egbert HIRSCHFELDER, Peter NEUSEL, Jürgen OELKE, Joachim WERNER, Bernhard BRITTING",1964 Tokyo,Rowing,Men's,four-oared shell with coxswain
+Summer,1964,Silver,ITA,Italy,"Giuseppe GALANTE, Franco DE PEDRINA, Emilio TRIVINI, Giovanni SPINOLA, Renato BOSATTA",1964 Tokyo,Rowing,Men's,four-oared shell with coxswain
+Summer,1964,Bronze,NED,Netherlands,"Frederik Robbert VAN DE GRAAFF, Marius KLUMPERBEEK, Jan VAN DE GRAAFF, Robert VAN DE GRAAF, Alex MULLINK",1964 Tokyo,Rowing,Men's,four-oared shell with coxswain
+Summer,1964,Gold,USA,United States,"William STOWE, Thomas AMLONG, Joseph AMLONG, William KNECHT, Hugh FOLEY, Emory CLARK, Harold BUDD, Robert ZIMONYI, Stanley CWIKLINSKI",1964 Tokyo,Rowing,Men's,eight with coxswain (8+)
+Summer,1964,Silver,EUA,Unified Team of Germany,"Hans-Jürgen WALLBRECHT, Thomas AHRENS, Klaus AEFFKE, Karl-Heinrich VON GRODDECK, Horst MEYER, Jürgen PLAGEMANN, Klaus BITTNER, Jürgen SCHRÖDER, Klaus BEHRENS",1964 Tokyo,Rowing,Men's,eight with coxswain (8+)
+Summer,1964,Bronze,TCH,Czechoslovakia,"Jan MRVIK, Ludek POJEZNY, Josef VENTUS, Julius TOCEK, Bohumil JANOUSEK, Jirí LUNDÁK, Petr CERMÁK, Miroslav KONICEK, Richard NOVY",1964 Tokyo,Rowing,Men's,eight with coxswain (8+)
+Summer,1964,Gold,AUS,Australia,"Peter O'DONNELL, James SARGEANT, William NORTHAM",1964 Tokyo,Sailing,Mixed,5.5m
+Summer,1964,Silver,SWE,Sweden,"Arne KARLSSON, Lars THÖRN, Sture STORK",1964 Tokyo,Sailing,Mixed,5.5m
+Summer,1964,Bronze,USA,United States,"Joseph BATCHELDER, Francis SCULLY, John MCNAMARA",1964 Tokyo,Sailing,Mixed,5.5m
+Summer,1964,Gold,DEN,Denmark,"Ole POULSEN, Christian Robert VON BÜLOW, Ole BERNTSEN",1964 Tokyo,Sailing,Mixed,dragon
+Summer,1964,Silver,EUA,Unified Team of Germany,"Wilfried LORENZ, Ulrich MENSE, Peter AHRENDT",1964 Tokyo,Sailing,Mixed,dragon
+Summer,1964,Bronze,USA,United States,"Lowell NORTH, Charles ROGERS, Richard DEAVER",1964 Tokyo,Sailing,Mixed,dragon
+Summer,1964,Gold,EUA,Unified Team of Germany,Wilhelm KUHWEIDE,1964 Tokyo,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1964,Silver,USA,United States,Peter BARRETT,1964 Tokyo,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1964,Bronze,DEN,Denmark,Henning Norgaard WIND,1964 Tokyo,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1964,Gold,BAH,Bahamas,"Cecil COOKE, Durward KNOWLES",1964 Tokyo,Sailing,Mixed,two-person keelboat (Star)
+Summer,1964,Silver,USA,United States,"Lynn WILLIAMS, Richard STEARNS",1964 Tokyo,Sailing,Mixed,two-person keelboat (Star)
+Summer,1964,Bronze,SWE,Sweden,"Holger SUNDSTRÖM, Pelle PETTERSSON",1964 Tokyo,Sailing,Mixed,two-person keelboat (Star)
+Summer,1964,Gold,NZL,New Zealand,"Helmer PEDERSEN, Earle WELLS",1964 Tokyo,Sailing,Mixed,flying dutchman
+Summer,1964,Silver,GBR,Great Britain,"Arthur MORGAN, Franklyn MUSTO",1964 Tokyo,Sailing,Mixed,flying dutchman
+Summer,1964,Bronze,USA,United States,"William BENTSEN, Buddy MELGES",1964 Tokyo,Sailing,Mixed,flying dutchman
+Summer,1964,Gold,FIN,Finland,Pentti LINNOSVUO,1964 Tokyo,Shooting,Men's,25m rapid fire pistol
+Summer,1964,Silver,ROU,Romania,Ion TRIPSA,1964 Tokyo,Shooting,Men's,25m rapid fire pistol
+Summer,1964,Bronze,TCH,Czechoslovakia,Lubomír NÁCOVSKÝ,1964 Tokyo,Shooting,Men's,25m rapid fire pistol
+Summer,1964,Gold,FIN,Finland,Väinö Johannes MARKKANEN,1964 Tokyo,Shooting,Men's,50m pistol
+Summer,1964,Silver,USA,United States,Franklin GREEN,1964 Tokyo,Shooting,Men's,50m pistol
+Summer,1964,Bronze,JPN,Japan,Yoshihisa YOSHIKAWA,1964 Tokyo,Shooting,Men's,50m pistol
+Summer,1964,Gold,HUN,Hungary,László HAMMERL,1964 Tokyo,Shooting,Men's,50m rifle prone
+Summer,1964,Silver,USA,United States,Lones WIGGER,1964 Tokyo,Shooting,Men's,50m rifle prone
+Summer,1964,Bronze,USA,United States,Tommy POOL,1964 Tokyo,Shooting,Men's,50m rifle prone
+Summer,1964,Gold,USA,United States,Lones WIGGER,1964 Tokyo,Shooting,Men's,50m rifle 3 positions
+Summer,1964,Silver,BUL,Bulgaria,Velitchko VELITCHKOV,1964 Tokyo,Shooting,Men's,50m rifle 3 positions
+Summer,1964,Bronze,HUN,Hungary,László HAMMERL,1964 Tokyo,Shooting,Men's,50m rifle 3 positions
+Summer,1964,Gold,USA,United States,Gary ANDERSON,1964 Tokyo,Shooting,Men's,300m free rifle 3 positions
+Summer,1964,Silver,URS,USSR,Shota KVELIASHVILI,1964 Tokyo,Shooting,Men's,300m free rifle 3 positions
+Summer,1964,Bronze,USA,United States,Martin GUNNARSSON,1964 Tokyo,Shooting,Men's,300m free rifle 3 positions
+Summer,1964,Gold,ITA,Italy,Ennio MATTARELLI,1964 Tokyo,Shooting,Men's,Trap
+Summer,1964,Silver,URS,USSR,Pavel SENICHEV,1964 Tokyo,Shooting,Men's,Trap
+Summer,1964,Bronze,USA,United States,William MORRIS,1964 Tokyo,Shooting,Men's,Trap
+Summer,1964,Gold,USA,United States,Don SCHOLLANDER,1964 Tokyo,Swimming,Men's,100m freestyle
+Summer,1964,Silver,GBR,Great Britain,Robert MCGREGOR,1964 Tokyo,Swimming,Men's,100m freestyle
+Summer,1964,Bronze,EUA,Unified Team of Germany,Hans-Joachim KLEIN,1964 Tokyo,Swimming,Men's,100m freestyle
+Summer,1964,Gold,USA,United States,Don SCHOLLANDER,1964 Tokyo,Swimming,Men's,400m freestyle
+Summer,1964,Silver,EUA,Unified Team of Germany,Frank WIEGAND,1964 Tokyo,Swimming,Men's,400m freestyle
+Summer,1964,Bronze,AUS,Australia,Allan WOOD,1964 Tokyo,Swimming,Men's,400m freestyle
+Summer,1964,Gold,AUS,Australia,Robert WINDLE,1964 Tokyo,Swimming,Men's,1500m freestyle
+Summer,1964,Silver,USA,United States,John NELSON,1964 Tokyo,Swimming,Men's,1500m freestyle
+Summer,1964,Bronze,AUS,Australia,Allan WOOD,1964 Tokyo,Swimming,Men's,1500m freestyle
+Summer,1964,Gold,AUS,Australia,Ian O'BRIEN,1964 Tokyo,Swimming,Men's,200m breaststroke
+Summer,1964,Silver,URS,USSR,Georgy PROKOPENKO,1964 Tokyo,Swimming,Men's,200m breaststroke
+Summer,1964,Bronze,USA,United States,Chester Andrew JASTREMSKI,1964 Tokyo,Swimming,Men's,200m breaststroke
+Summer,1964,Gold,AUS,Australia,Kevin BERRY,1964 Tokyo,Swimming,Men's,200m butterfly
+Summer,1964,Silver,USA,United States,Carl ROBIE,1964 Tokyo,Swimming,Men's,200m butterfly
+Summer,1964,Bronze,USA,United States,Frederick Weber SCHMIDT,1964 Tokyo,Swimming,Men's,200m butterfly
+Summer,1964,Gold,USA,United States,Jed GRAEF,1964 Tokyo,Swimming,Men's,200m backstroke
+Summer,1964,Silver,USA,United States,Gary DILLEY,1964 Tokyo,Swimming,Men's,200m backstroke
+Summer,1964,Bronze,USA,United States,Robert BENNETT,1964 Tokyo,Swimming,Men's,200m backstroke
+Summer,1964,Gold,USA,United States,Richard William ROTH,1964 Tokyo,Swimming,Men's,400m individual medley
+Summer,1964,Silver,USA,United States,Roy SAARI,1964 Tokyo,Swimming,Men's,400m individual medley
+Summer,1964,Bronze,EUA,Unified Team of Germany,Gerhard HETZ,1964 Tokyo,Swimming,Men's,400m individual medley
+Summer,1964,Gold,USA,United States,"Don SCHOLLANDER, Michael Mackay AUSTIN, Gary ILMAN, Steve CLARK",1964 Tokyo,Swimming,Men's,4x100m freestyle relay
+Summer,1964,Silver,EUA,Unified Team of Germany,"Uwe JACOBSEN, Horst LÖFFLER, Hans-Joachim KLEIN, Frank WIEGAND",1964 Tokyo,Swimming,Men's,4x100m freestyle relay
+Summer,1964,Bronze,AUS,Australia,"Peter DOAK, David DICKSON, John RYAN, Robert WINDLE",1964 Tokyo,Swimming,Men's,4x100m freestyle relay
+Summer,1964,Gold,USA,United States,"Gary ILMAN, Don SCHOLLANDER, Roy SAARI, Steve CLARK",1964 Tokyo,Swimming,Men's,4x200m freestyle relay
+Summer,1964,Silver,EUA,Unified Team of Germany,"Gerhard HETZ, Frank WIEGAND, Horst-Günther GREGOR, Hans-Joachim KLEIN",1964 Tokyo,Swimming,Men's,4x200m freestyle relay
+Summer,1964,Bronze,JPN,Japan,"Toshio SHOJI, Kunihiro IWASAKI, Makoto FUKUI, Yukiaki OKABE",1964 Tokyo,Swimming,Men's,4x200m freestyle relay
+Summer,1964,Gold,USA,United States,"Bill CRAIG, Steve CLARK, Frederick Weber SCHMIDT, Tom MANN",1964 Tokyo,Swimming,Men's,4x100m medley relay
+Summer,1964,Silver,EUA,Unified Team of Germany,"Horst-Günther GREGOR, Egon HENNINGER, Ernst-Joachim KÜPPERS, Hans-Joachim KLEIN",1964 Tokyo,Swimming,Men's,4x100m medley relay
+Summer,1964,Bronze,AUS,Australia,"David DICKSON, Kevin BERRY, Ian O'BRIEN, Peter REYNOLDS",1964 Tokyo,Swimming,Men's,4x100m medley relay
+Summer,1964,Gold,AUS,Australia,Dawn FRASER,1964 Tokyo,Swimming,Women's,100m freestyle
+Summer,1964,Silver,USA,United States,Sharon STOUDER,1964 Tokyo,Swimming,Women's,100m freestyle
+Summer,1964,Bronze,USA,United States,Kathleen ELLIS,1964 Tokyo,Swimming,Women's,100m freestyle
+Summer,1964,Gold,USA,United States,Virginia DUENKEL,1964 Tokyo,Swimming,Women's,400m freestyle
+Summer,1964,Silver,USA,United States,Marilyn RAMENOFSKY,1964 Tokyo,Swimming,Women's,400m freestyle
+Summer,1964,Bronze,USA,United States,Terri Lee STICKLES,1964 Tokyo,Swimming,Women's,400m freestyle
+Summer,1964,Gold,URS,USSR,Galina PROZUMENSHCHIKOVA,1964 Tokyo,Swimming,Women's,200m breaststroke
+Summer,1964,Silver,USA,United States,Claudia KOLB,1964 Tokyo,Swimming,Women's,200m breaststroke
+Summer,1964,Bronze,URS,USSR,Svetlana BABANINA,1964 Tokyo,Swimming,Women's,200m breaststroke
+Summer,1964,Gold,USA,United States,Sharon STOUDER,1964 Tokyo,Swimming,Women's,100m butterfly
+Summer,1964,Silver,NED,Netherlands,Ada KOK,1964 Tokyo,Swimming,Women's,100m butterfly
+Summer,1964,Bronze,USA,United States,Kathleen ELLIS,1964 Tokyo,Swimming,Women's,100m butterfly
+Summer,1964,Gold,USA,United States,Cathy FERGUSON,1964 Tokyo,Swimming,Women's,100m backstroke
+Summer,1964,Silver,FRA,France,Christine (Kiki) CARON,1964 Tokyo,Swimming,Women's,100m backstroke
+Summer,1964,Bronze,USA,United States,Virginia DUENKEL,1964 Tokyo,Swimming,Women's,100m backstroke
+Summer,1964,Gold,USA,United States,Donna DE VARONA,1964 Tokyo,Swimming,Women's,400m individual medley
+Summer,1964,Silver,USA,United States,Sharon FINNERAN,1964 Tokyo,Swimming,Women's,400m individual medley
+Summer,1964,Bronze,USA,United States,Martha RANDALL,1964 Tokyo,Swimming,Women's,400m individual medley
+Summer,1964,Gold,USA,United States,"Sharon STOUDER, Donna DE VARONA, Kathleen ELLIS, Lillian Debra WATSON",1964 Tokyo,Swimming,Women's,4x100m freestyle relay
+Summer,1964,Silver,AUS,Australia,"Dawn FRASER, Robyn THORN, Janice MURPHY, Lynette BELL",1964 Tokyo,Swimming,Women's,4x100m freestyle relay
+Summer,1964,Bronze,NED,Netherlands,"Paulina VAN DER WILDT, Catharina Johanna BEUMER, Erica TERPSTRA, Wilhelmina VAN WEERDENBURG",1964 Tokyo,Swimming,Women's,4x100m freestyle relay
+Summer,1964,Gold,USA,United States,"Cynthia GOYETTE, Kathleen ELLIS, Sharon STOUDER, Cathy FERGUSON",1964 Tokyo,Swimming,Women's,4x100m medley relay
+Summer,1964,Silver,NED,Netherlands,"Ada KOK, Kornelia WINKEL, Erica TERPSTRA, Clena Geertje BIMOLT",1964 Tokyo,Swimming,Women's,4x100m medley relay
+Summer,1964,Bronze,URS,USSR,"Tatyana DEVYATOVA, Tatyana SAVELYEVA, Natalya USTINOVA, Svetlana BABANINA",1964 Tokyo,Swimming,Women's,4x100m medley relay
+Summer,1964,Gold,URS,USSR,"Yuri CHESNOKOV, Nikolai BUROBIN, Vazha KATCHARAVA, Vitaly KOVALENKO, Yuri VENGEROVSKY, Stanislav LYUGAILO, Georgy MONDZOLEVSKY, Eduard SIBIRYAKOV, Valeri KALACHIKHIN, Dmitri VOSKOBOINIKOV, Ivan BUGAJENKOV, Yuri POYARKOV",1964 Tokyo,Volleyball,Men's,volleyball
+Summer,1964,Silver,TCH,Czechoslovakia,"Josef ?ORM, Josef MUSIL, Milan CUDA, Ladislav TOMAN, Vaclav SMIDL, Pavel SCHENK, Josef LABUDA, Karel PAULUS, Petr KOP, Bohumil GOLIÃ?N, Boris PERUSIC, Zdenek HUMHAL",1964 Tokyo,Volleyball,Men's,volleyball
+Summer,1964,Bronze,JPN,Japan,"Masayuki MINAMI, Tsutomu KOYAMA, Yasutaka SATO, Katsutoshi NEKODA, Toshiaki KOSEDO, Naohiro IKEDA, Yutaka DEMACHI, Takeshi TOKUTOMI, Tokihiko HIGUCHI, Yuzo NAKAMURA, Teruhisa MORIYAMA, Sadatoshi SUGAHARA",1964 Tokyo,Volleyball,Men's,volleyball
+Summer,1964,Gold,JPN,Japan,"Maseko KONDO, Yuriko HANDA, Ayano SHIBUKI, Yuko FUJIMOTO, Emiko MIYAMOTO, Yoko SHINOZAKI, Setsuko SASAKI, Sata ISOBE, Yoshiko MATSUMURA, Kuniko TANIDA, Masae KASAI, Katsumi MATSUMURA",1964 Tokyo,Volleyball,Women's,volleyball
+Summer,1964,Silver,URS,USSR,"Tamara TIKHONINA, Tatyana ROSHCHINA, Marita KATUSHEVA, Inna RYSKAL, Valentina MISHAK, Antonina RYZHOVA, Lyudmila BULDAKOVA, Nelli ABRAMOVA, Astra BILTAUERE, Ninel LUKANINA, Lyudmila GUREYEVA, Valentina VINOGRADOVA-KAMENEK",1964 Tokyo,Volleyball,Women's,volleyball
+Summer,1964,Bronze,POL,Poland,"Maria SLIWKA, Danuta KORDACZUK, Jadwiga RUTKOWSKA, Zofia SZCZESNIEWSKA, Krystyna KRUP, Krystyna CZAJKOWSKA, Jozefa LEDWIG, Barbara NIEMCZYK, Krystyna JAKUBOWSKA, Maria GOLIMOWSKA, Jadwiga MARKO, Hanna Krystyna BUSZ",1964 Tokyo,Volleyball,Women's,volleyball
+Summer,1964,Gold,HUN,Hungary,"Ottó BOROS, Miklós AMBRUS, Janos KONRAD, LÃ¡szlÃ³ FELKAI, András BODNÁR, Mihály MAYER, Zoltán DÖMÖTÖR, György KÁRPÁTI, Dénes PÓCSIK, Dezso GYARMATI, Péter RUSORÁN, Tivadar KANIZSA",1964 Tokyo,Water Polo,Men's,water polo
+Summer,1964,Silver,YUG,Yugoslavia,"Zlatko ?IMENC, Vinko ROSIC, Milan MUSKATIROVIC, Zoran JANKOVIC, Mirko SANDIC, Frane NONKOVIC, Bozidar STANISIC, Karlo STIPANIC, Ante NARDELI, Ivo TRUMBIC, Ozren BONACIC",1964 Tokyo,Water Polo,Men's,water polo
+Summer,1964,Bronze,URS,USSR,"Boris POPOV, Vladimir KUZNETSOV, Nikolay KUZNETSOV, Vladimir SEMYONOV, Leonid OSIPOV, Igor GRABOVSKY, Nikolay KALASHNIKOV, Boris GRISHIN, Viktor AGEYEV, Eduard YEGOROV, Zenon BORTKEVICH",1964 Tokyo,Water Polo,Men's,water polo
+Summer,1964,Gold,URS,USSR,Aleksey VAKHONIN,1964 Tokyo,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1964,Silver,HUN,Hungary,Imre FÖLDI,1964 Tokyo,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1964,Bronze,JPN,Japan,Shiro ICHINOSEKI,1964 Tokyo,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1964,Gold,JPN,Japan,Yoshinobu MIYAKE,1964 Tokyo,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1964,Silver,USA,United States,Isaac BERGER,1964 Tokyo,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1964,Bronze,POL,Poland,Mieczyslaw NOWAK,1964 Tokyo,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1964,Gold,POL,Poland,Waldemar BASZANOWSKI,1964 Tokyo,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1964,Silver,URS,USSR,Vladimir KAPLUNOV,1964 Tokyo,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1964,Bronze,POL,Poland,Marian ZIELINSKI,1964 Tokyo,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1964,Gold,TCH,Czechoslovakia,Hans ZDRAZILA,1964 Tokyo,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1964,Silver,URS,USSR,Viktor KURENTSOV,1964 Tokyo,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1964,Bronze,JPN,Japan,Masashi OHUCHI,1964 Tokyo,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1964,Gold,URS,USSR,Rudolf PLYUKFELDER,1964 Tokyo,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1964,Silver,HUN,Hungary,Geza TOTH,1964 Tokyo,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1964,Bronze,HUN,Hungary,Gyözö VERES,1964 Tokyo,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1964,Gold,URS,USSR,Vladimir GOLOVANOV,1964 Tokyo,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1964,Silver,GBR,Great Britain,Louis MARTIN,1964 Tokyo,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1964,Bronze,POL,Poland,Ireneusz PALINSKI,1964 Tokyo,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1964,Gold,URS,USSR,Leonid ZHABOTINSKY,1964 Tokyo,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1964,Silver,URS,USSR,Yuri VLASOV,1964 Tokyo,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1964,Bronze,USA,United States,Norbert SCHEMANSKY,1964 Tokyo,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1964,Gold,JPN,Japan,Yoshikatsu YOSHIDA,1964 Tokyo,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1964,Silver,KOR,Korea Republic,Chang-Sun CHANG,1964 Tokyo,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1964,Bronze,IRI,Iran,Said Ali Akbar HAYDARI,1964 Tokyo,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1964,Gold,JPN,Japan,Yojiro UETAKE,1964 Tokyo,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1964,Silver,TUR,Turkey,Hüseyin AKBAS,1964 Tokyo,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1964,Bronze,URS,USSR,Aidyn Ali Ogly IBRAGIMOV,1964 Tokyo,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1964,Gold,JPN,Japan,Osamu WATANABE,1964 Tokyo,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1964,Silver,BUL,Bulgaria,Stancho Ivanov KOLEV,1964 Tokyo,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1964,Bronze,URS,USSR,Nodar KHOKHASHVILI,1964 Tokyo,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1964,Gold,BUL,Bulgaria,Enyu Dimov VALTCHEV,1964 Tokyo,Wrestling Freestyle,Men's,63 - 70kg (lightweight)
+Summer,1964,Silver,EUA,Unified Team of Germany,Klaus-Jürgen ROST,1964 Tokyo,Wrestling Freestyle,Men's,63 - 70kg (lightweight)
+Summer,1964,Bronze,JPN,Japan,Iwao HORIUCHI,1964 Tokyo,Wrestling Freestyle,Men's,63 - 70kg (lightweight)
+Summer,1964,Gold,TUR,Turkey,Ismail OGAN,1964 Tokyo,Wrestling Freestyle,Men's,70 - 78kg (welterweight)
+Summer,1964,Silver,URS,USSR,Guliko SAGARADZE,1964 Tokyo,Wrestling Freestyle,Men's,70 - 78kg (welterweight)
+Summer,1964,Bronze,IRI,Iran,Mohammad Ali SANATKARAN,1964 Tokyo,Wrestling Freestyle,Men's,70 - 78kg (welterweight)
+Summer,1964,Gold,BUL,Bulgaria,Prodan Stoyanov GARDJEV,1964 Tokyo,Wrestling Freestyle,Men's,78 - 87kg (middleweight)
+Summer,1964,Silver,TUR,Turkey,Hasan GÜNGÖR,1964 Tokyo,Wrestling Freestyle,Men's,78 - 87kg (middleweight)
+Summer,1964,Bronze,USA,United States,Daniel BRAND,1964 Tokyo,Wrestling Freestyle,Men's,78 - 87kg (middleweight)
+Summer,1964,Gold,URS,USSR,Aleksandr MEDVED,1964 Tokyo,Wrestling Freestyle,Men's,87 - 97kg (light-heavyweight)
+Summer,1964,Silver,TUR,Turkey,Ahmet AYIK,1964 Tokyo,Wrestling Freestyle,Men's,87 - 97kg (light-heavyweight)
+Summer,1964,Bronze,BUL,Bulgaria,Said MUSTAFOV,1964 Tokyo,Wrestling Freestyle,Men's,87 - 97kg (light-heavyweight)
+Summer,1964,Gold,URS,USSR,Aleksandr IVANITSKY,1964 Tokyo,Wrestling Freestyle,Men's,+ 97kg (heavyweight)
+Summer,1964,Silver,BUL,Bulgaria,Liutvi Akhmedov DJIBER,1964 Tokyo,Wrestling Freestyle,Men's,+ 97kg (heavyweight)
+Summer,1964,Bronze,TUR,Turkey,Hamit KAPLAN,1964 Tokyo,Wrestling Freestyle,Men's,+ 97kg (heavyweight)
+Summer,1964,Gold,JPN,Japan,Tsutomu HANAHARA,1964 Tokyo,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1964,Silver,BUL,Bulgaria,Angel KERESOV,1964 Tokyo,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1964,Bronze,ROU,Romania,Dumitru PÎRVULESCU,1964 Tokyo,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1964,Gold,JPN,Japan,Masamitsu ICHIGUCHI,1964 Tokyo,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1964,Silver,URS,USSR,Vladlen TROSTYANSKY,1964 Tokyo,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1964,Bronze,ROU,Romania,Ion CERNEA,1964 Tokyo,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1964,Gold,HUN,Hungary,Imre POLYÁK,1964 Tokyo,Wrestling Greco-Roman,Men's,57 - 63kg (featherweight)
+Summer,1964,Silver,URS,USSR,Roman RURUA,1964 Tokyo,Wrestling Greco-Roman,Men's,57 - 63kg (featherweight)
+Summer,1964,Bronze,YUG,Yugoslavia,Branislav MARTINOVIC,1964 Tokyo,Wrestling Greco-Roman,Men's,57 - 63kg (featherweight)
+Summer,1964,Gold,TUR,Turkey,Kazim AYVAZ,1964 Tokyo,Wrestling Greco-Roman,Men's,63 - 70kg (lightweight)
+Summer,1964,Silver,ROU,Romania,Valeriu BULARCA,1964 Tokyo,Wrestling Greco-Roman,Men's,63 - 70kg (lightweight)
+Summer,1964,Bronze,URS,USSR,David GVANTELADZE,1964 Tokyo,Wrestling Greco-Roman,Men's,63 - 70kg (lightweight)
+Summer,1964,Gold,URS,USSR,Anatoli KOLESOV,1964 Tokyo,Wrestling Greco-Roman,Men's,70 - 78kg (welterweight)
+Summer,1964,Silver,BUL,Bulgaria,Kiril Petkov TODOROV,1964 Tokyo,Wrestling Greco-Roman,Men's,70 - 78kg (welterweight)
+Summer,1964,Bronze,SWE,Sweden,Bertil NYSTRÖM,1964 Tokyo,Wrestling Greco-Roman,Men's,70 - 78kg (welterweight)
+Summer,1964,Gold,YUG,Yugoslavia,Branislav SIMIC,1964 Tokyo,Wrestling Greco-Roman,Men's,78 - 87kg (middleweight)
+Summer,1964,Silver,TCH,Czechoslovakia,Jiri KORMANIK,1964 Tokyo,Wrestling Greco-Roman,Men's,78 - 87kg (middleweight)
+Summer,1964,Bronze,EUA,Unified Team of Germany,Lothar METZ,1964 Tokyo,Wrestling Greco-Roman,Men's,78 - 87kg (middleweight)
+Summer,1964,Gold,BUL,Bulgaria,Boyan Aleksandrov RADEV,1964 Tokyo,Wrestling Greco-Roman,Men's,87 - 97kg (light-heavyweight)
+Summer,1964,Silver,SWE,Sweden,Per Oskar SVENSSON,1964 Tokyo,Wrestling Greco-Roman,Men's,87 - 97kg (light-heavyweight)
+Summer,1964,Bronze,EUA,Unified Team of Germany,Heinz KIEHL,1964 Tokyo,Wrestling Greco-Roman,Men's,87 - 97kg (light-heavyweight)
+Summer,1964,Gold,HUN,Hungary,István KOZMA,1964 Tokyo,Wrestling Greco-Roman,Men's,+ 97kg (heavyweight)
+Summer,1964,Silver,URS,USSR,Anatoli ROSHCHIN,1964 Tokyo,Wrestling Greco-Roman,Men's,+ 97kg (heavyweight)
+Summer,1964,Bronze,EUA,Unified Team of Germany,Wilfried DIETRICH,1964 Tokyo,Wrestling Greco-Roman,Men's,+ 97kg (heavyweight)

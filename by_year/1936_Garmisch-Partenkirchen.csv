@@ -1,0 +1,52 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1936,Gold,GER,Germany,Franz PFNÜR,1936 Garmisch-Partenkirchen,Alpine Skiing,Men's,Alpine combined
+Winter,1936,Silver,GER,Germany,Gustav LANTSCHNER,1936 Garmisch-Partenkirchen,Alpine Skiing,Men's,Alpine combined
+Winter,1936,Bronze,FRA,France,Émile ALLAIS,1936 Garmisch-Partenkirchen,Alpine Skiing,Men's,Alpine combined
+Winter,1936,Gold,GER,Germany,Christel CRANZ,1936 Garmisch-Partenkirchen,Alpine Skiing,Women's,Alpine combined
+Winter,1936,Silver,GER,Germany,Käthe GRASEGGER,1936 Garmisch-Partenkirchen,Alpine Skiing,Women's,Alpine combined
+Winter,1936,Bronze,NOR,Norway,Laila SCHOU NILSEN,1936 Garmisch-Partenkirchen,Alpine Skiing,Women's,Alpine combined
+Winter,1936,Gold,USA,United States,"Ivan Elmore BROWN, Alan M. WASHBOND",1936 Garmisch-Partenkirchen,Bobsleigh,Men's,two-man
+Winter,1936,Silver,SUI,Switzerland,"Fritz FEIERABEND, Joseph BEERLI",1936 Garmisch-Partenkirchen,Bobsleigh,Men's,two-man
+Winter,1936,Bronze,USA,United States,"Gilbert COLGATE, Richard Webster LAWRENCE",1936 Garmisch-Partenkirchen,Bobsleigh,Men's,two-man
+Winter,1936,Gold,SUI,Switzerland,"Pierre MUSY, Joseph BEERLI, Arnold GARTMANN, Charles BOUVIER",1936 Garmisch-Partenkirchen,Bobsleigh,Men's,four-man
+Winter,1936,Silver,SUI,Switzerland,"Reto CAPADRUTT, Fritz FEIERABEND, Hans BÜTIKOFER, Hans AICHELE",1936 Garmisch-Partenkirchen,Bobsleigh,Men's,four-man
+Winter,1936,Bronze,GBR,Great Britain,"Frederick MCEVOY, Charles Patrick GREEN, Guy DUGDALE, James Farquhar CARDNO",1936 Garmisch-Partenkirchen,Bobsleigh,Men's,four-man
+Winter,1936,Gold,SWE,Sweden,Erik August LARSSON,1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,18km
+Winter,1936,Silver,NOR,Norway,Oddbjørn HAGEN,1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,18km
+Winter,1936,Bronze,FIN,Finland,Pekka NIEMI,1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,18km
+Winter,1936,Gold,SWE,Sweden,Elis WIKLUND,1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,50km
+Winter,1936,Silver,SWE,Sweden,Axel WIKSTRÖM,1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,50km
+Winter,1936,Bronze,SWE,Sweden,Nils-Joel ENGLUND,1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,50km
+Winter,1936,Gold,FIN,Finland,"Matti LÄHDE, Klaes KARPPINEN, Kalle JALKANEN, Sulo NURMELA",1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,4x10km relay
+Winter,1936,Silver,NOR,Norway,"Olaf HOFFSBAKKEN, Sverre BRODAHL, Bjarne IVERSEN, Oddbjørn HAGEN",1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,4x10km relay
+Winter,1936,Bronze,SWE,Sweden,"John BERGER, Erik August LARSSON, Martin MATSBO, Artur HÄGGBLAD",1936 Garmisch-Partenkirchen,Cross Country Skiing,Men's,4x10km relay
+Winter,1936,Gold,AUT,Austria,Karl SCHÄFER,1936 Garmisch-Partenkirchen,Figure skating,Men's,individual
+Winter,1936,Silver,GER,Germany,Ernst BAIER,1936 Garmisch-Partenkirchen,Figure skating,Men's,individual
+Winter,1936,Bronze,AUT,Austria,Felix KASPAR,1936 Garmisch-Partenkirchen,Figure skating,Men's,individual
+Winter,1936,Gold,NOR,Norway,Sonja HENIE,1936 Garmisch-Partenkirchen,Figure skating,Women's,individual
+Winter,1936,Silver,GBR,Great Britain,Cecilia COLLEDGE,1936 Garmisch-Partenkirchen,Figure skating,Women's,individual
+Winter,1936,Bronze,SWE,Sweden,Vivi-Anne HULTÉN,1936 Garmisch-Partenkirchen,Figure skating,Women's,individual
+Winter,1936,Gold,GER,Germany,"Ernst BAIER, Maxi HERBER",1936 Garmisch-Partenkirchen,Figure skating,Mixed,pairs
+Winter,1936,Silver,AUT,Austria,"Erik PAUSIN, Ilse PAUSIN",1936 Garmisch-Partenkirchen,Figure skating,Mixed,pairs
+Winter,1936,Bronze,HUN,Hungary,"László SZOLLÁS, Emília ROTTER",1936 Garmisch-Partenkirchen,Figure skating,Mixed,pairs
+Winter,1936,Gold,GBR,Great Britain,"Alexander ARCHER, Archibald STINCHCOMBE, Carl ERHARDT, John COWARD, Robert WYMAN, Gerry DAVEY, James FOSTER, Edgar BRENCHLEY, Gordon DAILLEY, John KILPATRICK, James Andrew BORLAND, James CHAPPELL",1936 Garmisch-Partenkirchen,Ice Hockey,Men's,ice hockey
+Winter,1936,Silver,CAN,Canada,"Francis MOORE, Raymond MILTON, David John NEVILLE, Arthur NASH, Ralph ST.GERMAIN, Hugh FARQUHARSON, William THOMSON, James HAGGARTY, Kenneth FARMER-HORN, Herman MURRAY, Walter KITCHEN, Alexander SINCLAIR, Maxwell DEACON",1936 Garmisch-Partenkirchen,Ice Hockey,Men's,ice hockey
+Winter,1936,Bronze,USA,United States,"Frank STUBBS, Francis John SHAUGHNESSY, Philip William LA BATTE, Thomas MOONE, Paul ROWE, John GARRISON, August KAMMER, Frank SPAIN, John LAX, Gordon SMITH, Eldridge Baker ROSS",1936 Garmisch-Partenkirchen,Ice Hockey,Men's,ice hockey
+Winter,1936,Gold,NOR,Norway,Oddbjørn HAGEN,1936 Garmisch-Partenkirchen,Nordic Combined,Men's,individual
+Winter,1936,Silver,NOR,Norway,Olaf HOFFSBAKKEN,1936 Garmisch-Partenkirchen,Nordic Combined,Men's,individual
+Winter,1936,Bronze,NOR,Norway,Sverre BRODAHL,1936 Garmisch-Partenkirchen,Nordic Combined,Men's,individual
+Winter,1936,Gold,NOR,Norway,Birger RUUD,1936 Garmisch-Partenkirchen,Ski Jumping,Men's,Normal Hill individual
+Winter,1936,Silver,SWE,Sweden,Sven ERIKSSON,1936 Garmisch-Partenkirchen,Ski Jumping,Men's,Normal Hill individual
+Winter,1936,Bronze,NOR,Norway,Reidar ANDERSEN,1936 Garmisch-Partenkirchen,Ski Jumping,Men's,Normal Hill individual
+Winter,1936,Gold,NOR,Norway,Ivar BALLANGRUD,1936 Garmisch-Partenkirchen,Speed skating,Men's,500m
+Winter,1936,Silver,NOR,Norway,Georg KROG,1936 Garmisch-Partenkirchen,Speed skating,Men's,500m
+Winter,1936,Bronze,USA,United States,Leo FREISINGER,1936 Garmisch-Partenkirchen,Speed skating,Men's,500m
+Winter,1936,Gold,NOR,Norway,Charles MATHIESEN,1936 Garmisch-Partenkirchen,Speed skating,Men's,1500m
+Winter,1936,Silver,NOR,Norway,Ivar BALLANGRUD,1936 Garmisch-Partenkirchen,Speed skating,Men's,1500m
+Winter,1936,Bronze,FIN,Finland,Birger WASENIUS,1936 Garmisch-Partenkirchen,Speed skating,Men's,1500m
+Winter,1936,Gold,NOR,Norway,Ivar BALLANGRUD,1936 Garmisch-Partenkirchen,Speed skating,Men's,5000m
+Winter,1936,Silver,FIN,Finland,Birger WASENIUS,1936 Garmisch-Partenkirchen,Speed skating,Men's,5000m
+Winter,1936,Bronze,FIN,Finland,Antero OJALA,1936 Garmisch-Partenkirchen,Speed skating,Men's,5000m
+Winter,1936,Gold,NOR,Norway,Ivar BALLANGRUD,1936 Garmisch-Partenkirchen,Speed skating,Men's,10000m
+Winter,1936,Silver,FIN,Finland,Birger WASENIUS,1936 Garmisch-Partenkirchen,Speed skating,Men's,10000m
+Winter,1936,Bronze,AUT,Austria,Max STIEPL,1936 Garmisch-Partenkirchen,Speed skating,Men's,10000m

@@ -1,0 +1,632 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1980,Gold,FIN,Finland,Tomi POIKOLAINEN,1980 Moscow,Archery,Men's,individual FITA round
+Summer,1980,Silver,URS,USSR,Boris ISACHENKO,1980 Moscow,Archery,Men's,individual FITA round
+Summer,1980,Bronze,ITA,Italy,Giancarlo FERRARI,1980 Moscow,Archery,Men's,individual FITA round
+Summer,1980,Gold,URS,USSR,Keto LOSABERIDZE,1980 Moscow,Archery,Women's,individual FITA round
+Summer,1980,Silver,URS,USSR,Natalia BUTUZOVA,1980 Moscow,Archery,Women's,individual FITA round
+Summer,1980,Bronze,FIN,Finland,Paivi MERILUOTO-AALTONEN,1980 Moscow,Archery,Women's,individual FITA round
+Summer,1980,Gold,GBR,Great Britain,Allan WELLS,1980 Moscow,Athletics,Men's,100m
+Summer,1980,Silver,CUB,Cuba,Silvio LEONARD SARRIA,1980 Moscow,Athletics,Men's,100m
+Summer,1980,Bronze,BUL,Bulgaria,Peter PETROV,1980 Moscow,Athletics,Men's,100m
+Summer,1980,Gold,ITA,Italy,Pietro MENNEA,1980 Moscow,Athletics,Men's,200m
+Summer,1980,Silver,GBR,Great Britain,Allan WELLS,1980 Moscow,Athletics,Men's,200m
+Summer,1980,Bronze,JAM,Jamaica,Donald QUARRIE,1980 Moscow,Athletics,Men's,200m
+Summer,1980,Gold,URS,USSR,Viktor MARKIN,1980 Moscow,Athletics,Men's,400m
+Summer,1980,Silver,AUS,Australia,Richard MITCHELL,1980 Moscow,Athletics,Men's,400m
+Summer,1980,Bronze,GDR,German Democratic Republic,Frank SCHAFFER,1980 Moscow,Athletics,Men's,400m
+Summer,1980,Gold,GBR,Great Britain,Steve OVETT,1980 Moscow,Athletics,Men's,800m
+Summer,1980,Silver,GBR,Great Britain,Sebastian COE,1980 Moscow,Athletics,Men's,800m
+Summer,1980,Bronze,URS,USSR,Nikolai KIROV,1980 Moscow,Athletics,Men's,800m
+Summer,1980,Gold,GBR,Great Britain,Sebastian COE,1980 Moscow,Athletics,Men's,1500m
+Summer,1980,Silver,GDR,German Democratic Republic,Jürgen STRAUB,1980 Moscow,Athletics,Men's,1500m
+Summer,1980,Bronze,GBR,Great Britain,Steve OVETT,1980 Moscow,Athletics,Men's,1500m
+Summer,1980,Gold,ETH,Ethiopia,Miruts YIFTER,1980 Moscow,Athletics,Men's,5000m
+Summer,1980,Silver,TAN,Tanzania,Suleiman NYAMBUI,1980 Moscow,Athletics,Men's,5000m
+Summer,1980,Bronze,FIN,Finland,Kaarlo MAANINKA,1980 Moscow,Athletics,Men's,5000m
+Summer,1980,Gold,ETH,Ethiopia,Miruts YIFTER,1980 Moscow,Athletics,Men's,10000m
+Summer,1980,Silver,FIN,Finland,Kaarlo MAANINKA,1980 Moscow,Athletics,Men's,10000m
+Summer,1980,Bronze,ETH,Ethiopia,Mohammed KEDIR,1980 Moscow,Athletics,Men's,10000m
+Summer,1980,Gold,GDR,German Democratic Republic,Waldemar CIERPINSKI,1980 Moscow,Athletics,Men's,marathon
+Summer,1980,Silver,NED,Netherlands,Gerard NIJBOER,1980 Moscow,Athletics,Men's,marathon
+Summer,1980,Bronze,URS,USSR,Setymkul DZHUMANAZAROV,1980 Moscow,Athletics,Men's,marathon
+Summer,1980,Gold,GDR,German Democratic Republic,Thomas MUNKELT,1980 Moscow,Athletics,Men's,110m hurdles
+Summer,1980,Silver,CUB,Cuba,Alejandro CASANAS RAMIREZ,1980 Moscow,Athletics,Men's,110m hurdles
+Summer,1980,Bronze,URS,USSR,Aleksandr PUCHKOV,1980 Moscow,Athletics,Men's,110m hurdles
+Summer,1980,Gold,GDR,German Democratic Republic,Volker BECK,1980 Moscow,Athletics,Men's,400m hurdles
+Summer,1980,Silver,URS,USSR,Vasili ARKHIPENKO,1980 Moscow,Athletics,Men's,400m hurdles
+Summer,1980,Bronze,GBR,Great Britain,Gary OAKES,1980 Moscow,Athletics,Men's,400m hurdles
+Summer,1980,Gold,POL,Poland,Bronislaw MALINOWSKI,1980 Moscow,Athletics,Men's,3000m steeplechase
+Summer,1980,Silver,TAN,Tanzania,Filbert BAYI,1980 Moscow,Athletics,Men's,3000m steeplechase
+Summer,1980,Bronze,ETH,Ethiopia,Eshetu TURA,1980 Moscow,Athletics,Men's,3000m steeplechase
+Summer,1980,Gold,URS,USSR,"Nikolai SIDOROV, Andrei PROKOFIEV, Vladimir MURAVYOV, Aleksandr AKSININ",1980 Moscow,Athletics,Men's,4x100m relay
+Summer,1980,Silver,POL,Poland,"Zenon LICZNERSKI, Marian WORONIN, Krzysztof ZWOLINSKI, Leszek DUNECKI",1980 Moscow,Athletics,Men's,4x100m relay
+Summer,1980,Bronze,FRA,France,"Pascal BARRE, Herman PANZO, Antoine RICHARD, Patrick BARRE",1980 Moscow,Athletics,Men's,4x100m relay
+Summer,1980,Gold,URS,USSR,"Mikhail LINGE, Viktor MARKIN, Remigius VALIULIS, Nikolai CHERNETSKI",1980 Moscow,Athletics,Men's,4x400m relay
+Summer,1980,Silver,GDR,German Democratic Republic,"Andreas KNEBEL, Volker BECK, Klaus THIELE, Frank SCHAFFER",1980 Moscow,Athletics,Men's,4x400m relay
+Summer,1980,Bronze,ITA,Italy,"Mauro ZULIANI, Pietro MENNEA, Stefano MALINVERNI, Roberto TOZZI",1980 Moscow,Athletics,Men's,4x400m relay
+Summer,1980,Gold,ITA,Italy,Maurizio DAMILANO,1980 Moscow,Athletics,Men's,20km walk
+Summer,1980,Silver,URS,USSR,Piotr POCHINCHUK,1980 Moscow,Athletics,Men's,20km walk
+Summer,1980,Bronze,GDR,German Democratic Republic,Roland WIESER,1980 Moscow,Athletics,Men's,20km walk
+Summer,1980,Gold,GDR,German Democratic Republic,Hartwig GAUDER,1980 Moscow,Athletics,Men's,50km walk
+Summer,1980,Silver,ESP,Spain,Jorge LLOPART RIBAS,1980 Moscow,Athletics,Men's,50km walk
+Summer,1980,Bronze,URS,USSR,Evgeni IVCHENKO,1980 Moscow,Athletics,Men's,50km walk
+Summer,1980,Gold,GDR,German Democratic Republic,Lutz DOMBROWSKI,1980 Moscow,Athletics,Men's,long jump
+Summer,1980,Silver,GDR,German Democratic Republic,Frank PASCHEK,1980 Moscow,Athletics,Men's,long jump
+Summer,1980,Bronze,URS,USSR,Valeri PODLUZHNYI,1980 Moscow,Athletics,Men's,long jump
+Summer,1980,Gold,URS,USSR,Yaak UUDMAE,1980 Moscow,Athletics,Men's,triple jump
+Summer,1980,Silver,URS,USSR,Viktor SANEEV,1980 Moscow,Athletics,Men's,triple jump
+Summer,1980,Bronze,BRA,Brazil,Joao Carlos DE OLIVEIRA,1980 Moscow,Athletics,Men's,triple jump
+Summer,1980,Gold,GDR,German Democratic Republic,Gerd WESSIG,1980 Moscow,Athletics,Men's,high jump
+Summer,1980,Silver,POL,Poland,Jacek WSZOLA,1980 Moscow,Athletics,Men's,high jump
+Summer,1980,Bronze,GDR,German Democratic Republic,Jörg FREIMUTH,1980 Moscow,Athletics,Men's,high jump
+Summer,1980,Gold,POL,Poland,Wladyslaw KOZAKIEWICZ,1980 Moscow,Athletics,Men's,pole vault
+Summer,1980,Silver,POL,Poland,Tadeusz SLUSARSKI,1980 Moscow,Athletics,Men's,pole vault
+Summer,1980,Silver,URS,USSR,Konstantin VOLKOV,1980 Moscow,Athletics,Men's,pole vault
+Summer,1980,Gold,URS,USSR,Viktor RASHCHUPKIN,1980 Moscow,Athletics,Men's,discus throw
+Summer,1980,Silver,TCH,Czechoslovakia,Imrich BUGAR,1980 Moscow,Athletics,Men's,discus throw
+Summer,1980,Bronze,CUB,Cuba,Luis DELIS,1980 Moscow,Athletics,Men's,discus throw
+Summer,1980,Gold,URS,USSR,Dainis KULA,1980 Moscow,Athletics,Men's,javelin throw
+Summer,1980,Silver,URS,USSR,Aleksandr MAKAROV,1980 Moscow,Athletics,Men's,javelin throw
+Summer,1980,Bronze,GDR,German Democratic Republic,Wolfgang HANISCH,1980 Moscow,Athletics,Men's,javelin throw
+Summer,1980,Gold,URS,USSR,Yuri SEDYKH,1980 Moscow,Athletics,Men's,hammer throw
+Summer,1980,Silver,URS,USSR,Sergei LITVINOV,1980 Moscow,Athletics,Men's,hammer throw
+Summer,1980,Bronze,URS,USSR,Yuri TAMM,1980 Moscow,Athletics,Men's,hammer throw
+Summer,1980,Gold,URS,USSR,Vladimir KISELEV,1980 Moscow,Athletics,Men's,shot put
+Summer,1980,Silver,URS,USSR,Aleksandr BARYSHNIKOV,1980 Moscow,Athletics,Men's,shot put
+Summer,1980,Bronze,GDR,German Democratic Republic,Udo BEYER,1980 Moscow,Athletics,Men's,shot put
+Summer,1980,Gold,GBR,Great Britain,Daley THOMPSON,1980 Moscow,Athletics,Men's,decathlon
+Summer,1980,Silver,URS,USSR,Yuri KUTSENKO,1980 Moscow,Athletics,Men's,decathlon
+Summer,1980,Bronze,URS,USSR,Sergei ZHELANOV,1980 Moscow,Athletics,Men's,decathlon
+Summer,1980,Gold,URS,USSR,Liudmila KONDRATIEVA,1980 Moscow,Athletics,Women's,100m
+Summer,1980,Silver,GDR,German Democratic Republic,Marlies OELSNER-GÖHR,1980 Moscow,Athletics,Women's,100m
+Summer,1980,Bronze,GDR,German Democratic Republic,Ingrid AUERSWALD-LANGE,1980 Moscow,Athletics,Women's,100m
+Summer,1980,Gold,GDR,German Democratic Republic,Bärbel ECKERT-WÖCKEL,1980 Moscow,Athletics,Women's,200m
+Summer,1980,Silver,URS,USSR,Natalia BOCHINA,1980 Moscow,Athletics,Women's,200m
+Summer,1980,Bronze,JAM,Jamaica,Merlene OTTEY-PAGE,1980 Moscow,Athletics,Women's,200m
+Summer,1980,Gold,GDR,German Democratic Republic,Marita KOCH,1980 Moscow,Athletics,Women's,400m
+Summer,1980,Silver,TCH,Czechoslovakia,Jarmila KRATOHVILOVA,1980 Moscow,Athletics,Women's,400m
+Summer,1980,Bronze,GDR,German Democratic Republic,Christina BREHMER-LATHAN,1980 Moscow,Athletics,Women's,400m
+Summer,1980,Gold,URS,USSR,Nadezhda OLIZARENKO,1980 Moscow,Athletics,Women's,800m
+Summer,1980,Silver,URS,USSR,Olga MINEEVA,1980 Moscow,Athletics,Women's,800m
+Summer,1980,Bronze,URS,USSR,Tatiana PROVIDOKHINA,1980 Moscow,Athletics,Women's,800m
+Summer,1980,Gold,URS,USSR,Tatiana KAZANKINA,1980 Moscow,Athletics,Women's,1500m
+Summer,1980,Silver,GDR,German Democratic Republic,Christiane STOLL-WARTENBERG,1980 Moscow,Athletics,Women's,1500m
+Summer,1980,Bronze,URS,USSR,Nadezhda OLIZARENKO,1980 Moscow,Athletics,Women's,1500m
+Summer,1980,Gold,URS,USSR,Vera KOMISOVA,1980 Moscow,Athletics,Women's,100m hurdles
+Summer,1980,Silver,GDR,German Democratic Republic,Johanna SCHALLER-KLIER,1980 Moscow,Athletics,Women's,100m hurdles
+Summer,1980,Bronze,POL,Poland,Lucyna LANGER,1980 Moscow,Athletics,Women's,100m hurdles
+Summer,1980,Gold,GDR,German Democratic Republic,"Romy MÜLLER, Ingrid AUERSWALD-LANGE, Bärbel ECKERT-WÖCKEL, Marlies OELSNER-GÖHR",1980 Moscow,Athletics,Women's,4x100m relay
+Summer,1980,Silver,URS,USSR,"Vera KOMISOVA, Vera ANISIMOVA, Liudmila ZHARKOVA-MASLAKOVA, Natalia BOCHINA",1980 Moscow,Athletics,Women's,4x100m relay
+Summer,1980,Bronze,GBR,Great Britain,"Heather HUNTE-OAKES, Beverley GODDARD-CALLENDER, Kathryn SMALLWOOD-COOK, Sonia LANNAMAN",1980 Moscow,Athletics,Women's,4x100m relay
+Summer,1980,Gold,URS,USSR,"Tatiana PROROCHENKO, Nina ZIUSKOVA, Tatiana GOISHCHIK, Irina NAZAROVA",1980 Moscow,Athletics,Women's,4x400m relay
+Summer,1980,Silver,GDR,German Democratic Republic,"Gabriele LÖWE, Christina BREHMER-LATHAN, Barbara KRUG, Marita KOCH",1980 Moscow,Athletics,Women's,4x400m relay
+Summer,1980,Bronze,GBR,Great Britain,"Linsey MACDONALD, Joslyn HOYTE-SMITH, Michelle PROBERT-SCUTT, Janine MACGREGOR",1980 Moscow,Athletics,Women's,4x400m relay
+Summer,1980,Gold,URS,USSR,Tatiana KOLPAKOVA,1980 Moscow,Athletics,Women's,long jump
+Summer,1980,Silver,GDR,German Democratic Republic,Brigitte WUJAK,1980 Moscow,Athletics,Women's,long jump
+Summer,1980,Bronze,URS,USSR,Tatiana SKACHKO,1980 Moscow,Athletics,Women's,long jump
+Summer,1980,Gold,ITA,Italy,Sara SIMEONI,1980 Moscow,Athletics,Women's,high jump
+Summer,1980,Silver,POL,Poland,Urszula KIELAN,1980 Moscow,Athletics,Women's,high jump
+Summer,1980,Bronze,GDR,German Democratic Republic,Jutta KIRST,1980 Moscow,Athletics,Women's,high jump
+Summer,1980,Gold,GDR,German Democratic Republic,Evelin SCHLAAK-JAHL,1980 Moscow,Athletics,Women's,discus throw
+Summer,1980,Silver,BUL,Bulgaria,Maria VERGOVA-PETKOVA,1980 Moscow,Athletics,Women's,discus throw
+Summer,1980,Bronze,URS,USSR,Tatiana LESOVAIA,1980 Moscow,Athletics,Women's,discus throw
+Summer,1980,Gold,CUB,Cuba,Maria COLON,1980 Moscow,Athletics,Women's,javelin throw
+Summer,1980,Silver,URS,USSR,Saida GUNBA,1980 Moscow,Athletics,Women's,javelin throw
+Summer,1980,Bronze,GDR,German Democratic Republic,Ute HOMMOLA,1980 Moscow,Athletics,Women's,javelin throw
+Summer,1980,Gold,GDR,German Democratic Republic,Ilona SCHOKNECHT-SLUPIANEK,1980 Moscow,Athletics,Women's,shot put
+Summer,1980,Silver,URS,USSR,Svetlana KRACHEVSKAIA,1980 Moscow,Athletics,Women's,shot put
+Summer,1980,Bronze,GDR,German Democratic Republic,Margitta DROESE-PUFE,1980 Moscow,Athletics,Women's,shot put
+Summer,1980,Gold,URS,USSR,Nadezhda TKACHENKO,1980 Moscow,Athletics,Women's,pentathlon
+Summer,1980,Silver,URS,USSR,Olga RUKAVISHNIKOVA,1980 Moscow,Athletics,Women's,pentathlon
+Summer,1980,Bronze,URS,USSR,Olga KURAGINA,1980 Moscow,Athletics,Women's,pentathlon
+Summer,1980,Gold,YUG,Yugoslavia,"Dragan KICANOVIC, Mihovil NAKIC-VOJNOVIC, Branko SKROCE, Kresimir COSIC, Duje KRSTULOVIC, Mirza DELIBASIC, Andro KNEGO, Rajko ZIZIC, Zeljko JERKOV, Zoran SLAVNIC, Ratko RADOVANOVIC, Drazen DALIPAGIC",1980 Moscow,Basketball,Men's,basketball
+Summer,1980,Silver,ITA,Italy,"Marco SOLFRINI, Dino MENEGHIN, Renzo VECCHIATIO, Pietro GENERALI, Roberto BRUNAMONTI, Enrico GILARDI, Fabrizio DELLA FIORI, Marco BONAMICO, Renato VILLALTA, Pierluigi MARZORATI, Romeo SACCHETTI, Michael SYLVESTER",1980 Moscow,Basketball,Men's,basketball
+Summer,1980,Bronze,URS,USSR,"Anatoli MYSHKIN, Aleksandr BELOSTENNYI, Valeri MILOSERDOV, Sergei TARAKANOV, Andrei LOPATOV, Sergei BELOV, Sergei IOVAISHA, Vladimir ZHIGILY, Stanislav EREMIN, Aleksandr SALNIKOV, Nikolai DERIUGIN, Vladimir TKACHENKO",1980 Moscow,Basketball,Men's,basketball
+Summer,1980,Gold,URS,USSR,"Angelia RUPSHENE, Vida BESSELENE, Tatiana OVECHKINA, Iuliana SEMENOVA, Nelli FERYABNIKOVA, Tatiana ZAKHAROVA-NADIROVA, Liubov SHARMAI, Olga BARISHEVA-KOROSTELEVA, Nadezhda SHUVAEVA-OLKHOVA, Liudmila ROGOZHINA, Olga SUKHARNOVA, Tatiana IVINSKAIA",1980 Moscow,Basketball,Women's,basketball
+Summer,1980,Silver,BUL,Bulgaria,"Nadka GOLTCHEVA, Petkana MAKAVEEVA, Vania DERMENDJIEVA, Angelina MIKHAILOVA, Evladia SLAVTCHEVA-STEFANOVA, Silvia GERMANOVA, Penka METODIEVA, Snezhana MIKHAILOVA, Krasimira BOGDANOVA, Diana BRAINOVA, Kostadinka RADKOVA, Penka STOYANOVA",1980 Moscow,Basketball,Women's,basketball
+Summer,1980,Bronze,YUG,Yugoslavia,"Vera DJURASKOVIC, Jelica KOMNENOVIC, Vukica MITIC, Sofija PEKIC, Zorica DJURKOVIC, Biljana MAJSTOROVIC, Mersada BECIRSPAHIC, Mira BJEDOV, Sanja OZEGOVIC, Marija TONKOVIC, Vesna DESPOTOVIC, Jasmina PERAZIC",1980 Moscow,Basketball,Women's,basketball
+Summer,1980,Gold,URS,USSR,Shamil SABIROV,1980 Moscow,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1980,Silver,CUB,Cuba,Hipolito RAMOS,1980 Moscow,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1980,Bronze,BUL,Bulgaria,Ismail MUSTAFOV,1980 Moscow,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1980,Bronze,PRK,Korea DPR,Byong Uk LI,1980 Moscow,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1980,Gold,BUL,Bulgaria,Petr LESOV,1980 Moscow,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1980,Silver,URS,USSR,Viktor MIROSHNICHENKO,1980 Moscow,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1980,Bronze,HUN,Hungary,Janos VARADI,1980 Moscow,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1980,Bronze,IRL,Ireland,Hugh RUSSELL,1980 Moscow,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1980,Gold,CUB,Cuba,Juan HERNANDEZ,1980 Moscow,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1980,Silver,VEN,Venezuela,Bernardo Jose PINANGO,1980 Moscow,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1980,Bronze,GUY,Guyana,Michael ANTHONY,1980 Moscow,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1980,Bronze,ROU,Romania,Dumitru CIPERE,1980 Moscow,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1980,Gold,GDR,German Democratic Republic,Rudi FINK,1980 Moscow,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1980,Silver,CUB,Cuba,Adolfo HORTA,1980 Moscow,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1980,Bronze,POL,Poland,Krzysztof KOSEDOWSKI,1980 Moscow,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1980,Bronze,URS,USSR,Viktor RYBAKOV,1980 Moscow,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1980,Gold,CUB,Cuba,Angel HERRERA VERA,1980 Moscow,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1980,Silver,URS,USSR,Viktor DEMIANENKO,1980 Moscow,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Richard NOWAKOWSKI,1980 Moscow,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1980,Bronze,POL,Poland,Kazimierz ADACH,1980 Moscow,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1980,Gold,ITA,Italy,Patrizio OLIVA,1980 Moscow,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1980,Silver,URS,USSR,Serik KONAKBAEV,1980 Moscow,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1980,Bronze,CUB,Cuba,Jose AGUILAR,1980 Moscow,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1980,Bronze,GBR,Great Britain,Anthony WILLIS,1980 Moscow,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1980,Gold,CUB,Cuba,Andres ALDAMA CABRERA,1980 Moscow,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1980,Silver,UGA,Uganda,John MUGABI,1980 Moscow,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Karl-Heinz KRÜGER,1980 Moscow,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1980,Bronze,POL,Poland,Kazimierz SZCZERBA,1980 Moscow,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1980,Gold,CUB,Cuba,Armando MARTINEZ,1980 Moscow,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1980,Silver,URS,USSR,Aleksandr KOSHKIN,1980 Moscow,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1980,Bronze,TCH,Czechoslovakia,Jan FRANEK,1980 Moscow,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Detlef KÄSTNER,1980 Moscow,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1980,Gold,CUB,Cuba,Jose GOMEZ,1980 Moscow,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1980,Silver,URS,USSR,Viktor SAVCHENKO,1980 Moscow,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1980,Bronze,POL,Poland,Jerzy RYBICKI,1980 Moscow,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1980,Bronze,ROU,Romania,Valentin SILAGHI,1980 Moscow,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1980,Gold,YUG,Yugoslavia,Slobodan KACAR,1980 Moscow,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1980,Silver,POL,Poland,Pawel SKRZECZ,1980 Moscow,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1980,Bronze,CUB,Cuba,Ricardo ROJAS,1980 Moscow,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Herbert BAUCH,1980 Moscow,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1980,Gold,CUB,Cuba,Teofilo STEVENSON,1980 Moscow,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1980,Silver,URS,USSR,Piotr ZAEV,1980 Moscow,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Jürgen FANGHÄNEL,1980 Moscow,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1980,Bronze,HUN,Hungary,Istvan LEVAI,1980 Moscow,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1980,Gold,URS,USSR,Vladimir PARFENOVICH,1980 Moscow,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1980,Silver,AUS,Australia,John SUMEGI,1980 Moscow,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1980,Bronze,ROU,Romania,Vasile DIBA,1980 Moscow,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1980,Gold,URS,USSR,"Sergei CHUKHRAI, Vladimir PARFENOVICH",1980 Moscow,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1980,Silver,ESP,Spain,"Guillermo DEL RIEGO GORDON, Herminio MENENDEZ RODRIGUEZ",1980 Moscow,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1980,Bronze,GDR,German Democratic Republic,"Bernd OLBRICHT, Rüdiger HELM",1980 Moscow,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1980,Gold,GDR,German Democratic Republic,Rüdiger HELM,1980 Moscow,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1980,Silver,FRA,France,Alain LEBAS,1980 Moscow,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1980,Bronze,ROU,Romania,Ion BIRLADEANU,1980 Moscow,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1980,Gold,URS,USSR,"Sergei CHUKHRAI, Vladimir PARFENOVICH",1980 Moscow,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1980,Silver,HUN,Hungary,"Istvan JOOS, Istvan SZABO",1980 Moscow,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1980,Bronze,ESP,Spain,"Herminio MENENDEZ RODRIGUEZ, Luis Gregorio RAMOS MISIONE",1980 Moscow,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1980,Gold,GDR,German Democratic Republic,"Bernd OLBRICHT, Bernd DUVIGNEAU, Rüdiger HELM, Harald MARG",1980 Moscow,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1980,Silver,ROU,Romania,"Vasile DIBA, Nicusor ESEANU, Mihai ZAFIU, Ion GEANTA",1980 Moscow,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1980,Bronze,BUL,Bulgaria,"Bojiar MILENKOV, Ivan MANEV, Borislav BORISOV, Lazar KHRISTOV",1980 Moscow,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1980,Gold,URS,USSR,Sergei POSTREKHIN,1980 Moscow,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1980,Silver,BUL,Bulgaria,Liubomir LIUBENOV,1980 Moscow,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1980,Bronze,GDR,German Democratic Republic,Olaf HEUKRODT,1980 Moscow,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1980,Gold,HUN,Hungary,"Istvan VASKUTI, Laszlo FOLTAN",1980 Moscow,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1980,Silver,ROU,Romania,"Petre CAPUSTA, Ivan PATZAICHIN",1980 Moscow,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1980,Bronze,BUL,Bulgaria,"Nikolai ILKOV, Borislav ANANIEV",1980 Moscow,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1980,Gold,BUL,Bulgaria,Liubomir LIUBENOV,1980 Moscow,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1980,Silver,URS,USSR,Sergei POSTREKHIN,1980 Moscow,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1980,Bronze,GDR,German Democratic Republic,Eckhard LEUE,1980 Moscow,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1980,Gold,ROU,Romania,"Toma SIMIONOV, Ivan PATZAICHIN",1980 Moscow,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1980,Silver,GDR,German Democratic Republic,"Uwe MADEJA, Olaf HEUKRODT",1980 Moscow,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1980,Bronze,URS,USSR,"Yuri LOBANOV, Vasili YURCHENKO",1980 Moscow,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1980,Gold,GDR,German Democratic Republic,Birgit FISCHER,1980 Moscow,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1980,Silver,BUL,Bulgaria,Vania GESHEVA,1980 Moscow,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1980,Bronze,URS,USSR,Antonina MELNIKOVA,1980 Moscow,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1980,Gold,GDR,German Democratic Republic,"Carsta GENÄUSS, Martina BISCHOF",1980 Moscow,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1980,Silver,URS,USSR,"Galina KREFT-ALEKSEEVA, Nina GOPOVA-TROFIMOVA",1980 Moscow,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1980,Bronze,HUN,Hungary,"Eva RAKUSZ, Maria ZAKARIAS",1980 Moscow,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1980,Gold,URS,USSR,Sergei SUKHORUCHENKOV,1980 Moscow,Cycling Road,Men's,individual road race
+Summer,1980,Silver,POL,Poland,Stanislaw LANG,1980 Moscow,Cycling Road,Men's,individual road race
+Summer,1980,Bronze,URS,USSR,Yuri BARINOV,1980 Moscow,Cycling Road,Men's,individual road race
+Summer,1980,Gold,URS,USSR,"Oleg LOGVIN, Anatoli YARKIN, Yuri KASHIRIN, Sergei SHELPAKOV",1980 Moscow,Cycling Road,Men's,team time trial
+Summer,1980,Silver,GDR,German Democratic Republic,"Bernd DROGAN, Hans-Joachim HARTNICK, Falk BODEN, Olaf LUDWIG",1980 Moscow,Cycling Road,Men's,team time trial
+Summer,1980,Bronze,TCH,Czechoslovakia,"Vlastibor KONECNY, Jiri SKODA, Michal KLASA, Alipi KOSTADINOV",1980 Moscow,Cycling Road,Men's,team time trial
+Summer,1980,Gold,SUI,Switzerland,Robert DILL-BUNDI,1980 Moscow,Cycling Track,Men's,individual pursuit
+Summer,1980,Silver,FRA,France,Alain BONDUE,1980 Moscow,Cycling Track,Men's,individual pursuit
+Summer,1980,Bronze,DEN,Denmark,Hans-Henrik ÖRSTED,1980 Moscow,Cycling Track,Men's,individual pursuit
+Summer,1980,Gold,URS,USSR,"Viktor MANAKOV, Vladimir OSOKIN, Valeri MOVCHAN, Vitali PETRAKOV",1980 Moscow,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1980,Silver,GDR,German Democratic Republic,"Gerald MORTAG, Matthias WIEGAND, Uwe UNTERWALDER, Volker WINKLER",1980 Moscow,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1980,Bronze,TCH,Czechoslovakia,"Igor SLAMA, Teodor CERNY, Jiri POKORNY, Martin PENC",1980 Moscow,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1980,Gold,GDR,German Democratic Republic,Lothar THOMS,1980 Moscow,Cycling Track,Men's,1km time trial
+Summer,1980,Silver,URS,USSR,Aleksandr PANFILOV,1980 Moscow,Cycling Track,Men's,1km time trial
+Summer,1980,Bronze,JAM,Jamaica,David WELLER,1980 Moscow,Cycling Track,Men's,1km time trial
+Summer,1980,Gold,GDR,German Democratic Republic,Lutz HESSLICH,1980 Moscow,Cycling Track,Men's,sprint individual
+Summer,1980,Silver,FRA,France,Yave CAHARD,1980 Moscow,Cycling Track,Men's,sprint individual
+Summer,1980,Bronze,URS,USSR,Sergei KOPYLOV,1980 Moscow,Cycling Track,Men's,sprint individual
+Summer,1980,Gold,GDR,German Democratic Republic,Falk HOFFMANN,1980 Moscow,Diving,Men's,10m platform
+Summer,1980,Silver,URS,USSR,Vladimir ALEINIK,1980 Moscow,Diving,Men's,10m platform
+Summer,1980,Bronze,URS,USSR,David AMBARTSUMYAN,1980 Moscow,Diving,Men's,10m platform
+Summer,1980,Gold,URS,USSR,Aleksandr PORTNOV,1980 Moscow,Diving,Men's,3m springboard
+Summer,1980,Silver,MEX,Mexico,Carlos GIRON,1980 Moscow,Diving,Men's,3m springboard
+Summer,1980,Bronze,ITA,Italy,Giorgio Franco CAGNOTTO,1980 Moscow,Diving,Men's,3m springboard
+Summer,1980,Gold,GDR,German Democratic Republic,Martina JÄSCHKE,1980 Moscow,Diving,Women's,10m platform
+Summer,1980,Silver,URS,USSR,Servard EMIRZIAN,1980 Moscow,Diving,Women's,10m platform
+Summer,1980,Bronze,URS,USSR,Liana TSOTADZE,1980 Moscow,Diving,Women's,10m platform
+Summer,1980,Gold,URS,USSR,Irina KALININA,1980 Moscow,Diving,Women's,3m springboard
+Summer,1980,Silver,GDR,German Democratic Republic,Martina PROEBER,1980 Moscow,Diving,Women's,3m springboard
+Summer,1980,Bronze,GDR,German Democratic Republic,Karin GUTHKE,1980 Moscow,Diving,Women's,3m springboard
+Summer,1980,Gold,AUT,Austria,"MON CHERIE, Elisabeth THEURER-MAX",1980 Moscow,Equestrian Dressage,Mixed,individual
+Summer,1980,Silver,URS,USSR,"IGROK, Yuri KOVSHOV",1980 Moscow,Equestrian Dressage,Mixed,individual
+Summer,1980,Bronze,URS,USSR,"SHKVAL, Viktor UGRYUMOV",1980 Moscow,Equestrian Dressage,Mixed,individual
+Summer,1980,Gold,URS,USSR,"PLOT, IGROK, SHKVAL, Yuri KOVSHOV, Viktor UGRYUMOV, Vera MISEVICH",1980 Moscow,Equestrian Dressage,Mixed,team
+Summer,1980,Silver,BUL,Bulgaria,"SCHIBOR, ALEKO, VNIMATELEN, Petr MANDADZHIEV, Svetoslav IVANOV, Georgi GADZHEV",1980 Moscow,Equestrian Dressage,Mixed,team
+Summer,1980,Bronze,ROU,Romania,"DOR, DECEBAL, DERBIST, Anghelache DONESCU, Dumitru VELIKU, Petre ROSCA",1980 Moscow,Equestrian Dressage,Mixed,team
+Summer,1980,Gold,ITA,Italy,"ROSSINAN, Federico Euro ROMAN",1980 Moscow,Equestrian Eventing,Mixed,individual
+Summer,1980,Silver,URS,USSR,"GALZUN, Aleksandr BLINOV",1980 Moscow,Equestrian Eventing,Mixed,individual
+Summer,1980,Bronze,URS,USSR,"PINTSET, Yuri SALNIKOV",1980 Moscow,Equestrian Eventing,Mixed,individual
+Summer,1980,Gold,URS,USSR,"GALZUN, PINTSET, TSKHETI, GELESPONT, Aleksandr BLINOV, Yuri SALNIKOV, Valeri VOLKOV, Sergei ROGOZHIN",1980 Moscow,Equestrian Eventing,Mixed,team
+Summer,1980,Silver,ITA,Italy,"ROSSINAN, DALEYE, DOURAKINE-4, ROHAN DE LECHEREO, Federico Euro ROMAN, Anna CASAGRANDE, Mauro ROMAN, Marina SCIOCCHETTI",1980 Moscow,Equestrian Eventing,Mixed,team
+Summer,1980,Bronze,MEX,Mexico,"REMEMBER, BOMBONA, QUELITE, COCALECO, Manuel MENDIVIL YOCUPICIO, David BARCENA RIOS, Soto Jose Luis PEREZ SOTO, Fabian VAZQUEZ",1980 Moscow,Equestrian Eventing,Mixed,team
+Summer,1980,Gold,POL,Poland,"ARTEMOR, Jan KOWALCZYK",1980 Moscow,Equestrian Jumping,Mixed,individual
+Summer,1980,Silver,URS,USSR,"ESPADRON, Nikolai KOROLKOV",1980 Moscow,Equestrian Jumping,Mixed,individual
+Summer,1980,Bronze,MEX,Mexico,"ALYMONY, Joaquin PEREZ DE LA HERAS",1980 Moscow,Equestrian Jumping,Mixed,individual
+Summer,1980,Gold,URS,USSR,"GEPATIT, TOPKI, REIS, ESPADRON, Viacheslav CHUKANOV, Viktor POGANOVSKI, Viktor ASMAEV, Nikolai KOROLKOV",1980 Moscow,Equestrian Jumping,Mixed,team
+Summer,1980,Silver,POL,Poland,"BREMEN, ARTEMOR, NORTON, SZAMPAN, Marian KOZICKI, Jan KOWALCZYK, Wieslaw HARTMAN, Janusz BOBIK",1980 Moscow,Equestrian Jumping,Mixed,team
+Summer,1980,Bronze,MEX,Mexico,"Jesus GOMEZ PORTUGAL, Valencia Gerardo TAZZER VALENCIA, Alberto VALDES LACARRA, ALYMONY, MASSACRE, CARIBE, LADY MIRKA, Joaquin PEREZ DE LA HERAS",1980 Moscow,Equestrian Jumping,Mixed,team
+Summer,1980,Gold,SWE,Sweden,Johan HARMENBERG,1980 Moscow,Fencing,Men's,épée individual
+Summer,1980,Silver,HUN,Hungary,Ernö KOLSZONAY,1980 Moscow,Fencing,Men's,épée individual
+Summer,1980,Bronze,FRA,France,Philippe RIBOUD,1980 Moscow,Fencing,Men's,épée individual
+Summer,1980,Gold,FRA,France,"Patrick PICOT, Philippe BOISSE, Philippe RIBOUD, Hubert GARDAS, Michel SALESSE",1980 Moscow,Fencing,Men's,épée team
+Summer,1980,Silver,POL,Poland,"Piotr JABLKOWSKI, Leszek SWORNOWSKI, Mariusz STRZALKA, Andrzej LIS, Ludomir CHRONOWSKI",1980 Moscow,Fencing,Men's,épée team
+Summer,1980,Bronze,URS,USSR,"Boris LUKOMSKY, Aleksandr MOZHAEV, Ashot KARAGIAN, Aleksandr ABUSHAKHMETOV",1980 Moscow,Fencing,Men's,épée team
+Summer,1980,Gold,URS,USSR,Vladimir SMIRNOV,1980 Moscow,Fencing,Men's,foil individual
+Summer,1980,Silver,FRA,France,Pascal JOLYOT,1980 Moscow,Fencing,Men's,foil individual
+Summer,1980,Bronze,URS,USSR,Aleksander ROMANKOV,1980 Moscow,Fencing,Men's,foil individual
+Summer,1980,Gold,FRA,France,"Didier FLAMENT, Bruno BOSCHERIE, Frederic PIETRUSZKA, Pascal JOLYOT, Philippe BONIN",1980 Moscow,Fencing,Men's,foil team
+Summer,1980,Silver,URS,USSR,"Vladimir SMIRNOV, Ashot KARAGIAN, Aleksander ROMANKOV, Sabirzhan RUZIEV, Vladimir LAPITSKI",1980 Moscow,Fencing,Men's,foil team
+Summer,1980,Bronze,POL,Poland,"Adam ROBAK, Lech KOZIEJOWSKI, Boguslaw ZYCH, Marian SYPNIEWSKI",1980 Moscow,Fencing,Men's,foil team
+Summer,1980,Gold,URS,USSR,Viktor KROVOPUSKOV,1980 Moscow,Fencing,Men's,sabre individual
+Summer,1980,Silver,URS,USSR,Mikhail BURTSEV,1980 Moscow,Fencing,Men's,sabre individual
+Summer,1980,Bronze,HUN,Hungary,Imre GEDOVARI,1980 Moscow,Fencing,Men's,sabre individual
+Summer,1980,Gold,URS,USSR,"Viktor KROVOPUSKOV, Vladimir NAZLYMOV, Mikhail BURTSEV, Viktor SIDYAK, Nikolai ALEKHIN",1980 Moscow,Fencing,Men's,sabre team
+Summer,1980,Silver,ITA,Italy,"Michele MAFFEI, Marco ROMANO, Giovanni SCALZO, Mario Aldo MONTANO, Ferdinando MEGLIO",1980 Moscow,Fencing,Men's,sabre team
+Summer,1980,Bronze,HUN,Hungary,"Rudolf NEBALD, Ferenc HAMMANG, Imre GEDOVARI, Pal GEREVICH, György NEBALD",1980 Moscow,Fencing,Men's,sabre team
+Summer,1980,Gold,FRA,France,Pascale TRINQUET-HACHIN,1980 Moscow,Fencing,Women's,foil individual
+Summer,1980,Silver,HUN,Hungary,Magda MAROS,1980 Moscow,Fencing,Women's,foil individual
+Summer,1980,Bronze,POL,Poland,Barbara WYSOCZANSKA,1980 Moscow,Fencing,Women's,foil individual
+Summer,1980,Gold,FRA,France,"Pascale TRINQUET-HACHIN, Veronique BROUQUIER, Brigitte LATRILLE-GAUDIN, Isabelle BEGARD, Christine MUZIO",1980 Moscow,Fencing,Women's,foil team
+Summer,1980,Silver,URS,USSR,"Valentina SIDOROVA, Elena NOVIKOVA-BELOVA, Larisa TSAGARAEVA, Nailia GILIAZOVA, Irina USHAKOVA",1980 Moscow,Fencing,Women's,foil team
+Summer,1980,Bronze,HUN,Hungary,"Magda MAROS, Zsuzsa SZOCS, Ildiko SCHWARCZENBERGER, Gertrud STEFANEK, Edit KOVACS",1980 Moscow,Fencing,Women's,foil team
+Summer,1980,Gold,TCH,Czechoslovakia,"Jaroslav NETOLICHKA, Frantisek STAMBACHR, Stanislav SEMAN, Josef MAZURA, Zdenek RYGEL, Frantisek KUNZO, Ladislav VIZEK, Jindrich SVOBODA, Werner LICKA, Oldrich ROTT, Ludek MACELA, Libor RADIMEC, Petr NEMEC, Zdenek SREINER, Jan BERGER, Lubos POKLUDA, Rostislav VACLAVICEK",1980 Moscow,Football,Men's,football
+Summer,1980,Silver,GDR,German Democratic Republic,"Frank BAUM, Frank TERLETZKI, Jurgen BAHRINGER, Dieter KUHN, Matthias MULLER, Bernd JAKUBOWSKI, Andreas TRAUTMANN, Bodo RUDWALEIT, Lothar HOUSE, Rudiger SCHNUPHASE, Wolfgang STEINBACH, Werner PETER, Norbert TRIELOFF, Matthias LIEBERS, Wolf-Rudiger NETZ, Artur ULLRICH, Frank UHLIG",1980 Moscow,Football,Men's,football
+Summer,1980,Bronze,URS,USSR,"Tengiz SULAKVELIDZE, Vagiz KHIDIATULLIN, Sergei SHAVLO, Vladimir BESSONOV, Fiodor CHERENKOV, Vladimir PILGUI, Sergei NIKULIN, Aleksandr PROKOPENKO, Rinat DASAEV, Aleksandr CHIVADZE, Oleg ROMANTSEV, Sergei ANDREEV, Yuri GAVRILOV, Valeri GAZZAEV, Sergei BALTACHA, Khoren OGANESIAN, Revaz CHELEBADZE",1980 Moscow,Football,Men's,football
+Summer,1980,Gold,URS,USSR,"Nikolay ANDRIANOV, Aleksandr DITYATIN, Vladimir MARKELOV, Eduard AZARIAN, Bogdan MAKUTS, Aleksandr TKACHEV",1980 Moscow,Gymnastics Artistic,Men's,team competition
+Summer,1980,Silver,GDR,German Democratic Republic,"Ralf-Peter HEMMANN, Lutz MACK, Andreas BRONST, Lutz HOFFMANN, Michael NIKOLAY, Roland BRÜCKNER",1980 Moscow,Gymnastics Artistic,Men's,team competition
+Summer,1980,Bronze,HUN,Hungary,"Ferenc DONATH, Zoltan KELEMEN, Zoltan MAGYAR, György GUCZOGHY, Peter KOVACS, Istvan VAMOS",1980 Moscow,Gymnastics Artistic,Men's,team competition
+Summer,1980,Gold,URS,USSR,Aleksandr DITYATIN,1980 Moscow,Gymnastics Artistic,Men's,individual all-round
+Summer,1980,Silver,URS,USSR,Nikolay ANDRIANOV,1980 Moscow,Gymnastics Artistic,Men's,individual all-round
+Summer,1980,Bronze,BUL,Bulgaria,Stoyan DELTCHEV,1980 Moscow,Gymnastics Artistic,Men's,individual all-round
+Summer,1980,Gold,GDR,German Democratic Republic,Roland BRÜCKNER,1980 Moscow,Gymnastics Artistic,Men's,floor exercises
+Summer,1980,Silver,URS,USSR,Nikolay ANDRIANOV,1980 Moscow,Gymnastics Artistic,Men's,floor exercises
+Summer,1980,Bronze,URS,USSR,Aleksandr DITYATIN,1980 Moscow,Gymnastics Artistic,Men's,floor exercises
+Summer,1980,Gold,URS,USSR,Aleksandr TKACHEV,1980 Moscow,Gymnastics Artistic,Men's,parallel bars
+Summer,1980,Silver,URS,USSR,Aleksandr DITYATIN,1980 Moscow,Gymnastics Artistic,Men's,parallel bars
+Summer,1980,Bronze,GDR,German Democratic Republic,Roland BRÜCKNER,1980 Moscow,Gymnastics Artistic,Men's,parallel bars
+Summer,1980,Gold,URS,USSR,Nikolay ANDRIANOV,1980 Moscow,Gymnastics Artistic,Men's,vault
+Summer,1980,Silver,URS,USSR,Aleksandr DITYATIN,1980 Moscow,Gymnastics Artistic,Men's,vault
+Summer,1980,Bronze,GDR,German Democratic Republic,Roland BRÜCKNER,1980 Moscow,Gymnastics Artistic,Men's,vault
+Summer,1980,Gold,URS,USSR,Aleksandr DITYATIN,1980 Moscow,Gymnastics Artistic,Men's,rings
+Summer,1980,Silver,URS,USSR,Aleksandr TKACHEV,1980 Moscow,Gymnastics Artistic,Men's,rings
+Summer,1980,Bronze,TCH,Czechoslovakia,Jiri TABAK,1980 Moscow,Gymnastics Artistic,Men's,rings
+Summer,1980,Gold,HUN,Hungary,Zoltan MAGYAR,1980 Moscow,Gymnastics Artistic,Men's,pommel horse
+Summer,1980,Silver,URS,USSR,Aleksandr DITYATIN,1980 Moscow,Gymnastics Artistic,Men's,pommel horse
+Summer,1980,Bronze,GDR,German Democratic Republic,Michael NIKOLAY,1980 Moscow,Gymnastics Artistic,Men's,pommel horse
+Summer,1980,Gold,BUL,Bulgaria,Stoyan DELTCHEV,1980 Moscow,Gymnastics Artistic,Men's,horizontal bar
+Summer,1980,Silver,URS,USSR,Aleksandr DITYATIN,1980 Moscow,Gymnastics Artistic,Men's,horizontal bar
+Summer,1980,Bronze,URS,USSR,Nikolay ANDRIANOV,1980 Moscow,Gymnastics Artistic,Men's,horizontal bar
+Summer,1980,Gold,URS,USSR,"Maria FILATOVA, Elena NAIMUSHINA, Stella ZAKHAROVA, Elena DAVYDOVA, Nelli KIM, Natalia SHAPOSHNIKOVA",1980 Moscow,Gymnastics Artistic,Women's,team competition
+Summer,1980,Silver,ROU,Romania,"Nadia COMANECI, Emilia EBERLE, Dumitrita TURNER, Rodica DUNKA, Melita RÜHN, Cristina Elena GRIGORAS",1980 Moscow,Gymnastics Artistic,Women's,team competition
+Summer,1980,Bronze,GDR,German Democratic Republic,"Maxi GNAUCK, Steffi KRÄKER, Karola SUBE, Silvia HINDORFF, Katharina RENSCH, Birgit SÜSS",1980 Moscow,Gymnastics Artistic,Women's,team competition
+Summer,1980,Gold,URS,USSR,Elena DAVYDOVA,1980 Moscow,Gymnastics Artistic,Women's,individual all-round
+Summer,1980,Silver,GDR,German Democratic Republic,Maxi GNAUCK,1980 Moscow,Gymnastics Artistic,Women's,individual all-round
+Summer,1980,Silver,ROU,Romania,Nadia COMANECI,1980 Moscow,Gymnastics Artistic,Women's,individual all-round
+Summer,1980,Gold,ROU,Romania,Nadia COMANECI,1980 Moscow,Gymnastics Artistic,Women's,floor exercises
+Summer,1980,Gold,URS,USSR,Nelli KIM,1980 Moscow,Gymnastics Artistic,Women's,floor exercises
+Summer,1980,Bronze,GDR,German Democratic Republic,Maxi GNAUCK,1980 Moscow,Gymnastics Artistic,Women's,floor exercises
+Summer,1980,Bronze,URS,USSR,Natalia SHAPOSHNIKOVA,1980 Moscow,Gymnastics Artistic,Women's,floor exercises
+Summer,1980,Gold,GDR,German Democratic Republic,Maxi GNAUCK,1980 Moscow,Gymnastics Artistic,Women's,uneven bars
+Summer,1980,Silver,ROU,Romania,Emilia EBERLE,1980 Moscow,Gymnastics Artistic,Women's,uneven bars
+Summer,1980,Bronze,GDR,German Democratic Republic,Steffi KRÄKER,1980 Moscow,Gymnastics Artistic,Women's,uneven bars
+Summer,1980,Bronze,ROU,Romania,Melita RÜHN,1980 Moscow,Gymnastics Artistic,Women's,uneven bars
+Summer,1980,Bronze,URS,USSR,Maria FILATOVA,1980 Moscow,Gymnastics Artistic,Women's,uneven bars
+Summer,1980,Gold,URS,USSR,Natalia SHAPOSHNIKOVA,1980 Moscow,Gymnastics Artistic,Women's,vault
+Summer,1980,Silver,GDR,German Democratic Republic,Steffi KRÄKER,1980 Moscow,Gymnastics Artistic,Women's,vault
+Summer,1980,Bronze,ROU,Romania,Melita RÜHN,1980 Moscow,Gymnastics Artistic,Women's,vault
+Summer,1980,Gold,ROU,Romania,Nadia COMANECI,1980 Moscow,Gymnastics Artistic,Women's,balance beam
+Summer,1980,Silver,URS,USSR,Elena DAVYDOVA,1980 Moscow,Gymnastics Artistic,Women's,balance beam
+Summer,1980,Bronze,URS,USSR,Natalia SHAPOSHNIKOVA,1980 Moscow,Gymnastics Artistic,Women's,balance beam
+Summer,1980,Gold,GDR,German Democratic Republic,"Siegfried VOIGT, Peter ROST, Hans-Georg BEYER, Hartmut KRUGER, Ernst GERLACH, Ingolf WIEGERT, Rainer HOFT, Gunter DREIBRODT, Klaus GRUNER, Dietmar SCHMIDT, Lothar DOERING, Frank-Michael WAHL, Wieland SCHMIDT, Hans-Georg JAUNICH",1980 Moscow,Handball,Men's,handball
+Summer,1980,Silver,URS,USSR,"Sergei KUSHNIRYUK, Vladimir KRAVTSOV, Anatoli FEDYUKIN, Evgeni CHERNYSHOV, Nikolai TOMIN, Vladimir REPIEV, Mikhail ISHCHENKO, Viktor MAKHORIN, Aleksandr KARSHAKEVICH, Vladimir BELOV, Aleksandr ANPILOGOV, Aleksei ZHUK, Yuri KIDYAEV, Valdemar NOVITSKI",1980 Moscow,Handball,Men's,handball
+Summer,1980,Bronze,ROU,Romania,"Nicolae MUNTEANU, Iosif BOROS, Vasile STINGA, Cezar DRAGANITA, Stefan BIRTALAN, Neculai VASILCA, Adrian COSMA, Marian DUMITRU, Maricel VOINEA, Radu VOINEA, Cornel DURAU, Alexandru FOLKER, Lucian VASILACHE, Claudiu Eugen IONESCU",1980 Moscow,Handball,Men's,handball
+Summer,1980,Gold,URS,USSR,"Natalia SHERSTYUK-TIMOSHKINA, Irina PALCHIKOVA, Tatiana MAKARETS-KOCHERGINA, Larisa SAVKINA, Yulia SAFINA, Valentina LUTAEVA, Sigita STRECHEN, Larisa KARLOVA, Zinaida TURCHINA, Liudmila BOBRUS-PARADNIK, Aldona CHESAITITE-NENENENE, Olga ZUBAREVA, Liubov BEREZHNAYA-ODINOKOVA, Natalia LUKIANENKO",1980 Moscow,Handball,Women's,handball
+Summer,1980,Silver,YUG,Yugoslavia,"Svetlana ANASTASOVSKI, Svetlana KITIC-DASIC, Biserka VISNJIC, Jasna MERDAN-KOLAR, Ana TITLIC, Zorica VOJINOVIC, Katica ILES, Rada SAVIC, Mirjana DJURICA, Vesna RADOVIC, Vesna MILOSEVIC, Slavica JEREMIC, Radmila DRLJACA, Mirjana OGNJENOVIC",1980 Moscow,Handball,Women's,handball
+Summer,1980,Bronze,GDR,German Democratic Republic,"Sabine RÖTHER, Marion TIETZ, Waltraud KRETZSCHMAR, Renate RUDOLPH, Hannelore ZOBER, Katrin KRÜGER, Roswitha KRAUSE, Petra UHLIG, Kornelia KUNISCH, Kristina RICHTER-HOCHMUT, Birgit HEINECKE, Evelyn MATZ, Christina ROST, Claudia WUNDERLICH",1980 Moscow,Handball,Women's,handball
+Summer,1980,Gold,IND,India,"Chettri CHETTRI, Singh SINGH, Singh GURMAIL, Baskaran BASKARAN, Maharaj Krishon KAUSHIK, Mervyn FERNANDES, Shahid MOHAMMAD, Singh SURINDER, Schofield ALLAN, Dung Dung SYLVANUS, Singh DEAVINDER, Singh SINGH, Somaya MANEYPANDA, Charanjit KUMAR, Singh AMARJIT RANA, Zafar ZAFAR",1980 Moscow,Hockey,Men's,hockey
+Summer,1980,Silver,ESP,Spain,"Juan AMAT FONTANALS, Rafael GARRALDA, Juan Luis COGHEN, Jaime ARBOS SERRA, Juan PELLON FERNANDEZ, Miguel CHAVES, Javier CABOT DURAN, Jaime ZUMALACARREGUI, Jose GARCIA MESSEGUER, Santiago MALGOSA MORERA, Francisco FABREGAS BOSCH, Ricardo CABOT DURAN, Carlos ROCA PORTOLES, Miguel DE PAZ PLA, Juan ARBOS PERARNAU, Paulino MONSALVE",1980 Moscow,Hockey,Men's,hockey
+Summer,1980,Bronze,URS,USSR,"Сергей Плешаков, Миннеулла Азизов, Александр Мясников, Александр Гончаров, Вячеслав Лампеев, Сос Айрапетян, Валерий Беляков, Олег Загороднев, Александр Гусев, Михаил Ничепуренко, Александр Сычёв, Виктор Депутатов, Владимир Плешаков, Леонид Павловский, Фарид Зигангиров, Сергей Клевцов",1980 Moscow,Hockey,Men's,hockey
+Summer,1980,Gold,ZIM,Zimbabwe,"Ann Marry Gwynne GRANT, Patricia Jean MCKILLOP, Patricia Joan DAVIES, Linda Margaret WATSON, Gillian Margaret COWLEY, Sandra CHICK, Christine PRINSLOO, Anthea Doreen STEWART, Sarah ENGLISH, Brenda Joan PHILLIPS, Sonia ROBERTSON, Maureen Jean GEORGE, Susan HUGGETT, Elizabeth Muriel CHASE, Helen VOLK, Arlene Nadine BOXHALL",1980 Moscow,Hockey,Women's,hockey
+Summer,1980,Silver,TCH,Czechoslovakia,"Jirina HAJKOVA, Berta HRUBA, Lenka VYMAZALOVA, Jirina KADLECOVA, Marta URBANOVA, Marie SYKOROVA, Milada BLAZKOVA, Alena KYSELICOVA, Viera PODHANYIOVA, Jarmila KRALICKOVA, Iveta SRANKOVA, Jirina KRIZOVA, Jirina CERMAKOVA, Kveta PETRICKOVA, Ida HUBACKOVA, Jana LAHODOVA",1980 Moscow,Hockey,Women's,hockey
+Summer,1980,Bronze,URS,USSR,"Galina INZHUVATOVA, Valentina ZAZDRAVNYKH, Natella KRASNIKOVA, Lidia GLUBOKOVA, Natalia BUZUNOVA, Nadezhda FILIPPOVA, Tatiana EMBAKHTOVA, Alina KHAM, Nelli GORBATKOVA, Nadezhda OVECHKINA, Natalia BYKOVA, Galina VIUZHANINA, Liailia AKHMEROVA, Elena GURYEVA, Tatiana SHVYGANOVA, Liudmila FROLOVA",1980 Moscow,Hockey,Women's,hockey
+Summer,1980,Gold,FRA,France,Thierry REY,1980 Moscow,Judo,Men's,- 60 kg
+Summer,1980,Silver,CUB,Cuba,Jose RODRIGUEZ,1980 Moscow,Judo,Men's,- 60 kg
+Summer,1980,Bronze,HUN,Hungary,Tibor KINCSES,1980 Moscow,Judo,Men's,- 60 kg
+Summer,1980,Bronze,URS,USSR,Arambi EMIZH,1980 Moscow,Judo,Men's,- 60 kg
+Summer,1980,Gold,URS,USSR,Nikolai SOLODUKHIN,1980 Moscow,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1980,Silver,MGL,Mongolia,Tsendying DAMDIN,1980 Moscow,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1980,Bronze,BUL,Bulgaria,Ilian NEDKOV,1980 Moscow,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1980,Bronze,POL,Poland,Janusz PAWLOWSKI,1980 Moscow,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1980,Gold,ITA,Italy,Ezio GAMBA,1980 Moscow,Judo,Men's,65 - 71kg (lightweight)
+Summer,1980,Silver,GBR,Great Britain,Neil ADAMS,1980 Moscow,Judo,Men's,65 - 71kg (lightweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Karl-Heinz LEHMANN,1980 Moscow,Judo,Men's,65 - 71kg (lightweight)
+Summer,1980,Bronze,MGL,Mongolia,Ravdan DAVAADALAI,1980 Moscow,Judo,Men's,65 - 71kg (lightweight)
+Summer,1980,Gold,URS,USSR,Shota KHABARELI,1980 Moscow,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1980,Silver,CUB,Cuba,Juan FERRER,1980 Moscow,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1980,Bronze,FRA,France,Bernard TCHOULLOUYAN,1980 Moscow,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Harald HEINKE,1980 Moscow,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1980,Gold,SUI,Switzerland,Jürg RÖTHLISBERGER,1980 Moscow,Judo,Men's,78 - 86kg (middleweight)
+Summer,1980,Silver,CUB,Cuba,Isaac AZCUY OLIVA,1980 Moscow,Judo,Men's,78 - 86kg (middleweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Detlef ULTSCH,1980 Moscow,Judo,Men's,78 - 86kg (middleweight)
+Summer,1980,Bronze,URS,USSR,Aleksandr YATSKEVICH,1980 Moscow,Judo,Men's,78 - 86kg (middleweight)
+Summer,1980,Gold,BEL,Belgium,Robert VAN DE WALLE,1980 Moscow,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1980,Silver,URS,USSR,Tengiz KHUBULURI,1980 Moscow,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Dietmar LORENZ,1980 Moscow,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1980,Bronze,NED,Netherlands,Henk NUMAN,1980 Moscow,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1980,Gold,FRA,France,Angelo PARISI,1980 Moscow,Judo,Men's,+ 95kg (heavyweight)
+Summer,1980,Silver,BUL,Bulgaria,Dimitar ZAPRIANOV,1980 Moscow,Judo,Men's,+ 95kg (heavyweight)
+Summer,1980,Bronze,TCH,Czechoslovakia,Vladimir KOCMAN,1980 Moscow,Judo,Men's,+ 95kg (heavyweight)
+Summer,1980,Bronze,YUG,Yugoslavia,Radomir KOVACEVIC,1980 Moscow,Judo,Men's,+ 95kg (heavyweight)
+Summer,1980,Gold,GDR,German Democratic Republic,Dietmar LORENZ,1980 Moscow,Judo,Men's,open category
+Summer,1980,Silver,FRA,France,Angelo PARISI,1980 Moscow,Judo,Men's,open category
+Summer,1980,Bronze,GBR,Great Britain,Arthur MAPP,1980 Moscow,Judo,Men's,open category
+Summer,1980,Bronze,HUN,Hungary,Andras OZSVAR,1980 Moscow,Judo,Men's,open category
+Summer,1980,Gold,URS,USSR,Anatoli STAROSTIN,1980 Moscow,Modern Pentathlon,Men's,individual competition
+Summer,1980,Silver,HUN,Hungary,Tamas SZOMBATHELYI,1980 Moscow,Modern Pentathlon,Men's,individual competition
+Summer,1980,Bronze,URS,USSR,Pavel LEDNEV,1980 Moscow,Modern Pentathlon,Men's,individual competition
+Summer,1980,Gold,URS,USSR,"Pavel LEDNEV, Anatoli STAROSTIN, Evgeni LIPEEV",1980 Moscow,Modern Pentathlon,Men's,team competition
+Summer,1980,Silver,HUN,Hungary,"Tamas SZOMBATHELYI, Laszlo HORVATH, Tibor MARACSKO",1980 Moscow,Modern Pentathlon,Men's,team competition
+Summer,1980,Bronze,SWE,Sweden,"Lennart PETTERSSON, Svante RASMUSON, George HORVATH",1980 Moscow,Modern Pentathlon,Men's,team competition
+Summer,1980,Gold,FIN,Finland,Pertti KARPPINEN,1980 Moscow,Rowing,Men's,single sculls (1x)
+Summer,1980,Silver,URS,USSR,Vasili YAKUSHA,1980 Moscow,Rowing,Men's,single sculls (1x)
+Summer,1980,Bronze,GDR,German Democratic Republic,Peter KERSTEN,1980 Moscow,Rowing,Men's,single sculls (1x)
+Summer,1980,Gold,GDR,German Democratic Republic,"Joachim DREIFKE, Klaus KRÖPPELIEN",1980 Moscow,Rowing,Men's,double sculls (2x)
+Summer,1980,Silver,YUG,Yugoslavia,"Zoran PANCIC, Milorad STANULOV",1980 Moscow,Rowing,Men's,double sculls (2x)
+Summer,1980,Bronze,TCH,Czechoslovakia,"Zdenek PECKA, Vaclav VOCHOSKA",1980 Moscow,Rowing,Men's,double sculls (2x)
+Summer,1980,Gold,GDR,German Democratic Republic,"Jörg LANDVOIGT, Bernd LANDVOIGT",1980 Moscow,Rowing,Men's,pair without coxswain (2-)
+Summer,1980,Silver,URS,USSR,"Nikolai PIMENOV, Yuri PIMENOV",1980 Moscow,Rowing,Men's,pair without coxswain (2-)
+Summer,1980,Bronze,GBR,Great Britain,"Malcolm CARMICHAEL, Charles WIGGIN",1980 Moscow,Rowing,Men's,pair without coxswain (2-)
+Summer,1980,Gold,GDR,German Democratic Republic,"Friedrich-Wilhelm ULRICH, Harald JÄHRLING, Georg SPOHR",1980 Moscow,Rowing,Men's,pair-oared shell with coxswain
+Summer,1980,Silver,URS,USSR,"Viktor PEREVERZEV, Aleksandr LUKYANOV, Gennadi KRIUCHKIN",1980 Moscow,Rowing,Men's,pair-oared shell with coxswain
+Summer,1980,Bronze,YUG,Yugoslavia,"Zlatko CELENT, Dusko MRDULJAS, Josip REIC",1980 Moscow,Rowing,Men's,pair-oared shell with coxswain
+Summer,1980,Gold,GDR,German Democratic Republic,"Frank DUNDR, Uwe HEPPNER, Karsten BUNK, Martin WINTER",1980 Moscow,Rowing,Men's,quadruple sculls without coxswain
+Summer,1980,Silver,URS,USSR,"Yuri SHAPOCHKA, Valeri KLESHNEV, Evgeni BARBAKOV, Nikolai DOVGAN",1980 Moscow,Rowing,Men's,quadruple sculls without coxswain
+Summer,1980,Bronze,BUL,Bulgaria,"Mintcho NIKOLOV, Ivo RUSEV, Liubomir PETROV, Bogdan DOBREV",1980 Moscow,Rowing,Men's,quadruple sculls without coxswain
+Summer,1980,Gold,GDR,German Democratic Republic,"Jürgen THIELE, Stefan SEMMLER, Andreas DECKER, Siegfried BRIETZKE",1980 Moscow,Rowing,Men's,four without coxswain (4-)
+Summer,1980,Silver,URS,USSR,"Aleksei KAMKIN, Aleksandr KULAGIN, Valeri DOLININ, Vitali ELISEEV",1980 Moscow,Rowing,Men's,four without coxswain (4-)
+Summer,1980,Bronze,GBR,Great Britain,"John BEATTIE, David TOWNSEND, Ian MCNUFF, Martin CROSS",1980 Moscow,Rowing,Men's,four without coxswain (4-)
+Summer,1980,Gold,GDR,German Democratic Republic,"Dieter WENDISCH, Walter DIESSNER, Andreas GREGOR, Ullrich DIESSNER, Gottfried DÖHN",1980 Moscow,Rowing,Men's,four-oared shell with coxswain
+Summer,1980,Silver,URS,USSR,"Dimant KRISHIANIS, Zhorzh TIKMERS, Artur GARONSKIS, Dzintars KRISHIANIS, Yuris BERZINSH",1980 Moscow,Rowing,Men's,four-oared shell with coxswain
+Summer,1980,Bronze,POL,Poland,"Ryszard KUBIAK, Grzegorz STELLAK, Grzegorz NOWAK, Adam TOMASIAK, Ryszard STADNIUK",1980 Moscow,Rowing,Men's,four-oared shell with coxswain
+Summer,1980,Gold,GDR,German Democratic Republic,"Klaus-Dieter LUDWIG, Bernd KRAUSS, Ulrich KONS, Jens DOBERSCHÜTZ, Uwe DÜHRING, Hans-Peter KOPPE, Jörg FRIEDRICH, Ulrich KARNATZ, Bernd HÖING",1980 Moscow,Rowing,Men's,eight with coxswain (8+)
+Summer,1980,Silver,GBR,Great Britain,"Allan WHITWELL, Chris MAHONEY, John PRITCHARD, Richard STANHOPE, Duncan MCDOUGALL, Henry CLAY, Andrew JUSTICE, Malkolm MCGOWAN, Colin MOYNIHAN",1980 Moscow,Rowing,Men's,eight with coxswain (8+)
+Summer,1980,Bronze,URS,USSR,"Viktor KOKOSHIN, Aleksandr TKACHENKO, Ionas NORMANTAS, Andrei LUGIN, Igor MAISTRENKO, Andrei TISHCHENKO, Ionas PINTSKUS, Aleksandr MANTSEVICH, Grigori DMITRIENKO",1980 Moscow,Rowing,Men's,eight with coxswain (8+)
+Summer,1980,Gold,ROU,Romania,Sanda TOMA,1980 Moscow,Rowing,Women's,single sculls (1x)
+Summer,1980,Silver,URS,USSR,Antonina DUMCHEVA,1980 Moscow,Rowing,Women's,single sculls (1x)
+Summer,1980,Bronze,GDR,German Democratic Republic,Martina SCHRÖTER,1980 Moscow,Rowing,Women's,single sculls (1x)
+Summer,1980,Gold,URS,USSR,"Larissa ALEXANDROVA-POPOVA, Elena KHLOPTSEVA",1980 Moscow,Rowing,Women's,double sculls (2x)
+Summer,1980,Silver,GDR,German Democratic Republic,"Heidi WESTPHAL, Cornelia LINSE",1980 Moscow,Rowing,Women's,double sculls (2x)
+Summer,1980,Bronze,ROU,Romania,"Valeria ROSCA-RASILA, Olga HOMEGHI-BULARDA",1980 Moscow,Rowing,Women's,double sculls (2x)
+Summer,1980,Gold,GDR,German Democratic Republic,"Ute STEINDORF, Cornelia KLIER",1980 Moscow,Rowing,Women's,pair without coxswain (2-)
+Summer,1980,Silver,POL,Poland,"Malgorzata DLUZEWSKA, Czeslawa KOSCIANSKA",1980 Moscow,Rowing,Women's,pair without coxswain (2-)
+Summer,1980,Bronze,BUL,Bulgaria,"Siika KELBETCHEVA-BARBULOVA, Stoyanka GRUITCHEVA-KUBATOVA",1980 Moscow,Rowing,Women's,pair without coxswain (2-)
+Summer,1980,Gold,GDR,German Democratic Republic,"Jutta PLOCH, Sybille REINHARD, Liane WEIGELT-BUHR, Jutta LAU, Roswietha ZOBELT",1980 Moscow,Rowing,Women's,quadruple sculls with coxswain
+Summer,1980,Silver,URS,USSR,"Elena MATIEVSKAIA, Nadezhda LIUBIMOVA, Antonina PUSTOVIT, Olga VASILCHENKO, Nina CHEREMISINA",1980 Moscow,Rowing,Women's,quadruple sculls with coxswain
+Summer,1980,Bronze,BUL,Bulgaria,"Mariana SERBEZOVA, Dolores NAKOVA, Stanka GEORGIEVA, Rumeliana BONCHEVA, Anka BAKOVA",1980 Moscow,Rowing,Women's,quadruple sculls with coxswain
+Summer,1980,Gold,GDR,German Democratic Republic,"Romy SAALFELD, Silvia FRÖHLICH, Kirsten WENZEL, Ramona KAPHEIM, Angelika NOACK",1980 Moscow,Rowing,Women's,four-oared shell with coxswain
+Summer,1980,Silver,BUL,Bulgaria,"Ginka GUROVA, Rita TODOROVA, Nadezhda FILIPOVA, Mariika MODEVA, Iskra VELINOVA",1980 Moscow,Rowing,Women's,four-oared shell with coxswain
+Summer,1980,Bronze,URS,USSR,"Galina SOVETNIKOVA, Svetlana SEMENOVA, Maria FADEEVA, Marina STUDNEVA, Nina CHEREMISINA",1980 Moscow,Rowing,Women's,four-oared shell with coxswain
+Summer,1980,Gold,GDR,German Democratic Republic,"Kersten NEISSER, Birgit SCHÜTZ, Ilona RICHTER, Karin METZE, Martina BOESLER, Christiane KNETSCH-KÖPKE, Gabriele LOHS-KUHN, Marita SANDIG, Marina WILKE",1980 Moscow,Rowing,Women's,eight with coxswain (8+)
+Summer,1980,Silver,URS,USSR,"Olga PIVOVAROVA, Nadezhda PRISHCHEPA, Tatiana STETSENKO, Nina PREOBRAZHENSKAIA, Nina FROLOVA, Nina UMANETS, Valentina ZHULINA, Elena TERESHINA, Maria PAZIUN",1980 Moscow,Rowing,Women's,eight with coxswain (8+)
+Summer,1980,Bronze,ROU,Romania,"Marlena ZAGONI, Florica BUCUR, Ana ILIUTA, Maria CONSTANTINESCU, Elena DOBRITOIU, Angelica APOSTEANU, Rodica FRINTU, Rodica PUSCATU-ARBA, Elena BONDAR",1980 Moscow,Rowing,Women's,eight with coxswain (8+)
+Summer,1980,Gold,FIN,Finland,Esko RECHARDT,1980 Moscow,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1980,Silver,AUT,Austria,Wolfgang MAYRHOFER,1980 Moscow,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1980,Bronze,URS,USSR,Andrei BALASHOV,1980 Moscow,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1980,Gold,BRA,Brazil,"Marcos Pinto Rizzo SOARES, Eduardo Henrique PENIDO",1980 Moscow,Sailing,Men's,470 - Two Person Dinghy
+Summer,1980,Silver,GDR,German Democratic Republic,"Jörn BOROWSKI, Egbert SWENSSON",1980 Moscow,Sailing,Men's,470 - Two Person Dinghy
+Summer,1980,Bronze,FIN,Finland,"Jouko LINDGREN, Georg TALLBERG",1980 Moscow,Sailing,Men's,470 - Two Person Dinghy
+Summer,1980,Gold,BRA,Brazil,"Alexandre WELTER, Lars Sigurd BJORKSTROM",1980 Moscow,Sailing,Mixed,Tornado - Multihull
+Summer,1980,Silver,DEN,Denmark,"Peter DUE, Per KJERGARD",1980 Moscow,Sailing,Mixed,Tornado - Multihull
+Summer,1980,Bronze,SWE,Sweden,"Göran MARSTRÖM, Jörgen RAGNARSSON",1980 Moscow,Sailing,Mixed,Tornado - Multihull
+Summer,1980,Gold,URS,USSR,"Valentyn MANKIN, Aleksandr MUZYCHENKO",1980 Moscow,Sailing,Mixed,two-person keelboat (Star)
+Summer,1980,Silver,AUT,Austria,"Hubert RAUDASCHL, Karl FERSTL",1980 Moscow,Sailing,Mixed,two-person keelboat (Star)
+Summer,1980,Bronze,ITA,Italy,"Giorgio GORLA, Alfio PERABONI",1980 Moscow,Sailing,Mixed,two-person keelboat (Star)
+Summer,1980,Gold,ESP,Spain,"Alejandro ABASCAL GARCIA, Miguel NOGUER CASTELLVI",1980 Moscow,Sailing,Mixed,flying dutchman
+Summer,1980,Silver,IRL,Ireland,"David WILKINS, James WILKINSON",1980 Moscow,Sailing,Mixed,flying dutchman
+Summer,1980,Bronze,HUN,Hungary,"Szabolcs DETRE, Zsolt DETRE",1980 Moscow,Sailing,Mixed,flying dutchman
+Summer,1980,Gold,DEN,Denmark,"Valdemar BANDOLOWSKI, Erik Hermann HANSEN, Poul Richard Hoj JENSEN",1980 Moscow,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1980,Silver,URS,USSR,"Boris BUDNIKOV, Nikolai POLYAKOV, Aleksandr BUDNIKOV",1980 Moscow,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1980,Bronze,GRE,Greece,"Anastassios GAVRILIS, Anastassios BOUDOURIS, Aristidis RAPANAKIS",1980 Moscow,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1980,Gold,URS,USSR,Aleksandr MELENTIEV,1980 Moscow,Shooting,Mixed,50m pistol
+Summer,1980,Silver,GDR,German Democratic Republic,Harald VOLLMAR,1980 Moscow,Shooting,Mixed,50m pistol
+Summer,1980,Bronze,BUL,Bulgaria,Lubtcho DIAKOV,1980 Moscow,Shooting,Mixed,50m pistol
+Summer,1980,Gold,URS,USSR,Viktor VLASOV,1980 Moscow,Shooting,Mixed,50m rifle 3 positions
+Summer,1980,Silver,GDR,German Democratic Republic,Bernd HARTSTEIN,1980 Moscow,Shooting,Mixed,50m rifle 3 positions
+Summer,1980,Bronze,SWE,Sweden,Sven JOHANSSON,1980 Moscow,Shooting,Mixed,50m rifle 3 positions
+Summer,1980,Gold,HUN,Hungary,Karoly VARGA,1980 Moscow,Shooting,Mixed,50m rifle prone
+Summer,1980,Silver,GDR,German Democratic Republic,Hellfried HEILFORT,1980 Moscow,Shooting,Mixed,50m rifle prone
+Summer,1980,Bronze,BUL,Bulgaria,Petar ZAPRIANOV,1980 Moscow,Shooting,Mixed,50m rifle prone
+Summer,1980,Gold,URS,USSR,Igor SOKOLOV,1980 Moscow,Shooting,Mixed,50m running target
+Summer,1980,Silver,GDR,German Democratic Republic,Thomas PFEFFER,1980 Moscow,Shooting,Mixed,50m running target
+Summer,1980,Bronze,URS,USSR,Aleksandr GAZOV,1980 Moscow,Shooting,Mixed,50m running target
+Summer,1980,Gold,ROU,Romania,Corneliu ION,1980 Moscow,Shooting,Mixed,25m rapid fire pistol
+Summer,1980,Silver,GDR,German Democratic Republic,Jürgen WIEFEL,1980 Moscow,Shooting,Mixed,25m rapid fire pistol
+Summer,1980,Bronze,AUT,Austria,Gerhard PETRITSCH,1980 Moscow,Shooting,Mixed,25m rapid fire pistol
+Summer,1980,Gold,ITA,Italy,Luciano GIOVANNETTI,1980 Moscow,Shooting,Mixed,Trap
+Summer,1980,Silver,URS,USSR,Rustam YAMBULATOV,1980 Moscow,Shooting,Mixed,Trap
+Summer,1980,Bronze,GDR,German Democratic Republic,Jörg DAMME,1980 Moscow,Shooting,Mixed,Trap
+Summer,1980,Gold,DEN,Denmark,Hans Kjeld RASMUSSEN,1980 Moscow,Shooting,Mixed,Skeet
+Summer,1980,Silver,SWE,Sweden,Lars-Göran CARLSSON,1980 Moscow,Shooting,Mixed,Skeet
+Summer,1980,Bronze,CUB,Cuba,Roberto CASTRILLO GARCIA,1980 Moscow,Shooting,Mixed,Skeet
+Summer,1980,Gold,GDR,German Democratic Republic,Jörg WOITHE,1980 Moscow,Swimming,Men's,100m freestyle
+Summer,1980,Silver,SWE,Sweden,Per HOLMERTZ,1980 Moscow,Swimming,Men's,100m freestyle
+Summer,1980,Bronze,SWE,Sweden,Per JOHANSSON,1980 Moscow,Swimming,Men's,100m freestyle
+Summer,1980,Gold,URS,USSR,Sergei KOPLYAKOV,1980 Moscow,Swimming,Men's,200m freestyle
+Summer,1980,Silver,URS,USSR,Andrei KRYLOV,1980 Moscow,Swimming,Men's,200m freestyle
+Summer,1980,Bronze,AUS,Australia,Graeme BREWER,1980 Moscow,Swimming,Men's,200m freestyle
+Summer,1980,Gold,URS,USSR,Vladimir SALNIKOV,1980 Moscow,Swimming,Men's,400m freestyle
+Summer,1980,Silver,URS,USSR,Andrei KRYLOV,1980 Moscow,Swimming,Men's,400m freestyle
+Summer,1980,Bronze,URS,USSR,Ivar STUKOLKIN,1980 Moscow,Swimming,Men's,400m freestyle
+Summer,1980,Gold,URS,USSR,Vladimir SALNIKOV,1980 Moscow,Swimming,Men's,1500m freestyle
+Summer,1980,Silver,URS,USSR,Aleksandr CHAEV,1980 Moscow,Swimming,Men's,1500m freestyle
+Summer,1980,Bronze,AUS,Australia,Maxwell METZKER,1980 Moscow,Swimming,Men's,1500m freestyle
+Summer,1980,Gold,URS,USSR,"Vladimir SALNIKOV, Andrei KRYLOV, Sergei KOPLYAKOV, Ivar STUKOLKIN",1980 Moscow,Swimming,Men's,4x200m freestyle relay
+Summer,1980,Silver,GDR,German Democratic Republic,"Jörg WOITHE, Rainer STROHBACH, Frank PFÜTZE, Detlev GRABS",1980 Moscow,Swimming,Men's,4x200m freestyle relay
+Summer,1980,Bronze,BRA,Brazil,"Marcus Laborne MATTIOLI, Djan GARRIDO MADRUGA, Jorge Luiz FERNANDES, Ciro Marques DELGADO",1980 Moscow,Swimming,Men's,4x200m freestyle relay
+Summer,1980,Gold,GBR,Great Britain,Dunkan GOODHEW,1980 Moscow,Swimming,Men's,100m breaststroke
+Summer,1980,Silver,URS,USSR,Arsen MISKAROV,1980 Moscow,Swimming,Men's,100m breaststroke
+Summer,1980,Bronze,AUS,Australia,Peter EVANS,1980 Moscow,Swimming,Men's,100m breaststroke
+Summer,1980,Gold,URS,USSR,Robertas ZHULPA,1980 Moscow,Swimming,Men's,200m breaststroke
+Summer,1980,Silver,HUN,Hungary,Alban VERMES,1980 Moscow,Swimming,Men's,200m breaststroke
+Summer,1980,Bronze,URS,USSR,Arsen MISKAROV,1980 Moscow,Swimming,Men's,200m breaststroke
+Summer,1980,Gold,SWE,Sweden,Pär ARVIDSSON,1980 Moscow,Swimming,Men's,100m butterfly
+Summer,1980,Silver,GDR,German Democratic Republic,Roger PYTTEL,1980 Moscow,Swimming,Men's,100m butterfly
+Summer,1980,Bronze,ESP,Spain,David LOPEZ-ZUBERO PURCELL,1980 Moscow,Swimming,Men's,100m butterfly
+Summer,1980,Gold,URS,USSR,Sergei FESENKO,1980 Moscow,Swimming,Men's,200m butterfly
+Summer,1980,Silver,GBR,Great Britain,Philip HUBBLE,1980 Moscow,Swimming,Men's,200m butterfly
+Summer,1980,Bronze,GDR,German Democratic Republic,Roger PYTTEL,1980 Moscow,Swimming,Men's,200m butterfly
+Summer,1980,Gold,SWE,Sweden,Bengt BARON,1980 Moscow,Swimming,Men's,100m backstroke
+Summer,1980,Silver,URS,USSR,Viktor KUZNETSOV,1980 Moscow,Swimming,Men's,100m backstroke
+Summer,1980,Bronze,URS,USSR,Vladimir DOLGOV,1980 Moscow,Swimming,Men's,100m backstroke
+Summer,1980,Gold,HUN,Hungary,Sandor WLADAR,1980 Moscow,Swimming,Men's,200m backstroke
+Summer,1980,Silver,HUN,Hungary,Zoltan VERRASZTO,1980 Moscow,Swimming,Men's,200m backstroke
+Summer,1980,Bronze,AUS,Australia,Mark KERRY,1980 Moscow,Swimming,Men's,200m backstroke
+Summer,1980,Gold,URS,USSR,Aleksandr SIDORENKO,1980 Moscow,Swimming,Men's,400m individual medley
+Summer,1980,Silver,URS,USSR,Sergei FESENKO,1980 Moscow,Swimming,Men's,400m individual medley
+Summer,1980,Bronze,HUN,Hungary,Zoltan VERRASZTO,1980 Moscow,Swimming,Men's,400m individual medley
+Summer,1980,Gold,AUS,Australia,"Peter EVANS, Neil BROOKS, Mark KERRY, Mark TONELLI",1980 Moscow,Swimming,Men's,4x100m medley relay
+Summer,1980,Silver,URS,USSR,"Arsen MISKAROV, Sergei KOPLYAKOV, Viktor KUZNETSOV, Evgeni SEREDIN",1980 Moscow,Swimming,Men's,4x100m medley relay
+Summer,1980,Bronze,GBR,Great Britain,"Dunkan GOODHEW, Martin SMITH, Gary ABRAHAM, David LOWE",1980 Moscow,Swimming,Men's,4x100m medley relay
+Summer,1980,Gold,GDR,German Democratic Republic,Barbara KRAUSE,1980 Moscow,Swimming,Women's,100m freestyle
+Summer,1980,Silver,GDR,German Democratic Republic,Caren METSCHUCK,1980 Moscow,Swimming,Women's,100m freestyle
+Summer,1980,Bronze,GDR,German Democratic Republic,Ines DIERS,1980 Moscow,Swimming,Women's,100m freestyle
+Summer,1980,Gold,GDR,German Democratic Republic,Barbara KRAUSE,1980 Moscow,Swimming,Women's,200m freestyle
+Summer,1980,Silver,GDR,German Democratic Republic,Ines DIERS,1980 Moscow,Swimming,Women's,200m freestyle
+Summer,1980,Bronze,GDR,German Democratic Republic,Carmela SCHMIDT,1980 Moscow,Swimming,Women's,200m freestyle
+Summer,1980,Gold,GDR,German Democratic Republic,Ines DIERS,1980 Moscow,Swimming,Women's,400m freestyle
+Summer,1980,Silver,GDR,German Democratic Republic,Petra SCHNEIDER,1980 Moscow,Swimming,Women's,400m freestyle
+Summer,1980,Bronze,GDR,German Democratic Republic,Carmela SCHMIDT,1980 Moscow,Swimming,Women's,400m freestyle
+Summer,1980,Gold,AUS,Australia,Michelle FORD,1980 Moscow,Swimming,Women's,800m freestyle
+Summer,1980,Silver,GDR,German Democratic Republic,Ines DIERS,1980 Moscow,Swimming,Women's,800m freestyle
+Summer,1980,Bronze,GDR,German Democratic Republic,Heike DÄHNE,1980 Moscow,Swimming,Women's,800m freestyle
+Summer,1980,Gold,GDR,German Democratic Republic,"Barbara KRAUSE, Ines DIERS, Caren METSCHUCK, Sarina HÜLSENBECK",1980 Moscow,Swimming,Women's,4x100m freestyle relay
+Summer,1980,Silver,SWE,Sweden,"Carina LJUNGDAHL, Agneta MÄRTENSSON, Tina GUSTAFSSON, Agneta ERIKSSON",1980 Moscow,Swimming,Women's,4x100m freestyle relay
+Summer,1980,Bronze,NED,Netherlands,"Conny VAN BENTUM, Reggie DE JONG, Wilma VAN VELSEN, Annelies MAAS",1980 Moscow,Swimming,Women's,4x100m freestyle relay
+Summer,1980,Gold,GDR,German Democratic Republic,Ute GEWENIGER,1980 Moscow,Swimming,Women's,100m breaststroke
+Summer,1980,Silver,URS,USSR,Elvira VASILKOVA,1980 Moscow,Swimming,Women's,100m breaststroke
+Summer,1980,Bronze,DEN,Denmark,Susanne Schultz NIELSSON,1980 Moscow,Swimming,Women's,100m breaststroke
+Summer,1980,Gold,URS,USSR,Lina KACHUSHITE,1980 Moscow,Swimming,Women's,200m breaststroke
+Summer,1980,Silver,URS,USSR,Svetlana VARGANOVA,1980 Moscow,Swimming,Women's,200m breaststroke
+Summer,1980,Bronze,URS,USSR,Yulia BOGDANOVA,1980 Moscow,Swimming,Women's,200m breaststroke
+Summer,1980,Gold,GDR,German Democratic Republic,Caren METSCHUCK,1980 Moscow,Swimming,Women's,100m butterfly
+Summer,1980,Silver,GDR,German Democratic Republic,Andrea POLLACK,1980 Moscow,Swimming,Women's,100m butterfly
+Summer,1980,Bronze,GDR,German Democratic Republic,Christiane KNACKE,1980 Moscow,Swimming,Women's,100m butterfly
+Summer,1980,Gold,GDR,German Democratic Republic,Ines GEISSLER,1980 Moscow,Swimming,Women's,200m butterfly
+Summer,1980,Silver,GDR,German Democratic Republic,Sybille SCHÖNROCK,1980 Moscow,Swimming,Women's,200m butterfly
+Summer,1980,Bronze,AUS,Australia,Michelle FORD,1980 Moscow,Swimming,Women's,200m butterfly
+Summer,1980,Gold,GDR,German Democratic Republic,Rica REINISCH,1980 Moscow,Swimming,Women's,100m backstroke
+Summer,1980,Silver,GDR,German Democratic Republic,Ina KLEBER,1980 Moscow,Swimming,Women's,100m backstroke
+Summer,1980,Bronze,GDR,German Democratic Republic,Petra RIEDEL,1980 Moscow,Swimming,Women's,100m backstroke
+Summer,1980,Gold,GDR,German Democratic Republic,Rica REINISCH,1980 Moscow,Swimming,Women's,200m backstroke
+Summer,1980,Silver,GDR,German Democratic Republic,Cornelia POLIT,1980 Moscow,Swimming,Women's,200m backstroke
+Summer,1980,Bronze,GDR,German Democratic Republic,Birgit TREIBER,1980 Moscow,Swimming,Women's,200m backstroke
+Summer,1980,Gold,GDR,German Democratic Republic,Petra SCHNEIDER,1980 Moscow,Swimming,Women's,400m individual medley
+Summer,1980,Silver,GBR,Great Britain,Sharron Elizabeth DAVIES,1980 Moscow,Swimming,Women's,400m individual medley
+Summer,1980,Bronze,POL,Poland,Agnieszka CZOPEK,1980 Moscow,Swimming,Women's,400m individual medley
+Summer,1980,Gold,GDR,German Democratic Republic,"Rica REINISCH, Andrea POLLACK, Ute GEWENIGER, Caren METSCHUCK",1980 Moscow,Swimming,Women's,4x100m medley relay
+Summer,1980,Silver,GBR,Great Britain,"Helen JAMESON, Ann OSGERBY, Margaret KELLY-HOHMANN, June CROFT",1980 Moscow,Swimming,Women's,4x100m medley relay
+Summer,1980,Bronze,URS,USSR,"Elena KRUGLOVA, Alla GRISHCHENKOVA, Elvira VASILKOVA, Natalia STRUNNIKOVA",1980 Moscow,Swimming,Women's,4x100m medley relay
+Summer,1980,Gold,URS,USSR,"Viliar LOOR, Viacheslav ZAITSEV, Vladimir DOROKHOV, Pavel SELIVANOV, Vladimir KONDRA, Fiodor LASHCHENOV, Valeri KRIVOV, Yuri PANCHENKO, Aleksandr SAVIN, Aleksandr ERMILOV, Oleg MOLIBOGA, Vladimir CHERNYSHEV",1980 Moscow,Volleyball,Men's,volleyball
+Summer,1980,Silver,BUL,Bulgaria,"Khristo STOIANOV, Dimitr DIMITROV, Stefan DIMITROV, Mitko TODOROV, Emil VALTCHEV, Yordan ANGELOV, Stoian GUNCHEV, Dimitr ZLATANOV, Tsano TSANOV, Petko PETKOV, Kaspar SIMEONOV, Khristo ILIEV",1980 Moscow,Volleyball,Men's,volleyball
+Summer,1980,Bronze,ROU,Romania,"Laurentiu DUMANOIU, Nicu STOIAN, Constantin STEREA, Günther ENESCU, Marius CATA-CHITIGA, Viorel MANOLE, Corneliu OROS, Dan GIRLEANU, Sorin MACAVEI, Neculae Vasile POP, Valter Corneliu CHIFU, Florin MINA",1980 Moscow,Volleyball,Men's,volleyball
+Summer,1980,Gold,URS,USSR,"Natalia RAZUMOVA, Elena AKHAMINOVA, Elena ANDREIUK, Liubov KOZYREVA, Liudmila CHERNYSHOVA, Lidia LOGINOVA, Nadezhda RADZEVICH, Olga SOLOVOVA, Larisa PAVLOVA, Irina MAKOGONOVA, Svetlana NIKISHINA, Svetlana BADULINA",1980 Moscow,Volleyball,Women's,volleyball
+Summer,1980,Silver,GDR,German Democratic Republic,"Karin PUSCHEL, Katharina BULLIN, Andrea HEIM, Christine MUMMHARDT, Barbara CZEKALLA, Martina SCHMIDT, Brigitte FETZER, Ute KOSTRZEWA, Annette SCHULTZ, Heike LEHMANN, Karla ROFFEIS, Anke WESTENDORF",1980 Moscow,Volleyball,Women's,volleyball
+Summer,1980,Bronze,BUL,Bulgaria,"Tania DIMITROVA, Galina STANCHEVA, Anka KHRISTOLOVA, Margarita GERASIMOVA, Maia GEORGIEVA, Tsvetana BOZHURINA, Valentina ILIEVA, Silva PETRUNOVA, Verka BORISOVA, Rumiana KAICHEVA, Tania GOGOVA, Rositsa DIMITROVA",1980 Moscow,Volleyball,Women's,volleyball
+Summer,1980,Gold,URS,USSR,"Evgeni SHARONOV, Vladimir AKIMOV, Mait RIISMAN, Aleksei BARKALOV, Georgi MSCHVENIERADZE, Viacheslav SOBCHENKO, Sergei KOTENKO, Evgeni GRISHIN, Aleksandr KABANOV, Erkin SHAGAEV, Mikhail IVANOV",1980 Moscow,Water Polo,Men's,water polo
+Summer,1980,Silver,YUG,Yugoslavia,"Zoran GOPCEVIC, Ratko RUDIC, Zoran ROJE, Slobodan TRIFUNOVIC, Predrag MANOJLOVIC, Damir POLIC, Zoran MUSTUR, Milivoj BEBIC, Bosko LOZICA, Milorad KRIVOKAPIC, Luka VEZILIC",1980 Moscow,Water Polo,Men's,water polo
+Summer,1980,Bronze,HUN,Hungary,"Endre MOLNAR, Attila SUDAR, Gyorgy HORKAI, Istvan KISS, Laszlo KUNCZ, Karoly HAUSZLER, Istvan SZIVOS, Gyorgy GERENDAS, Gabor CSAPO, Istvan UDVARDI, Tamas FARAGO",1980 Moscow,Water Polo,Men's,water polo
+Summer,1980,Gold,URS,USSR,Kanybek OSMONALIEV,1980 Moscow,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1980,Silver,PRK,Korea DPR,Bong Chol HO,1980 Moscow,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1980,Bronze,PRK,Korea DPR,Gyong Si HAN,1980 Moscow,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1980,Gold,CUB,Cuba,Daniel NUNEZ AGUIAR,1980 Moscow,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1980,Silver,URS,USSR,Yurik SARKISIAN,1980 Moscow,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1980,Bronze,POL,Poland,Tadeusz DEMBONCZYK,1980 Moscow,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1980,Gold,URS,USSR,Viktor MAZIN,1980 Moscow,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1980,Silver,BUL,Bulgaria,Stefan DIMITROV,1980 Moscow,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1980,Bronze,POL,Poland,Marek SEWERYN,1980 Moscow,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1980,Gold,BUL,Bulgaria,Yanko RUSEV,1980 Moscow,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1980,Silver,GDR,German Democratic Republic,Joachim KUNZ,1980 Moscow,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1980,Bronze,BUL,Bulgaria,Mincho PASHEV,1980 Moscow,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1980,Gold,BUL,Bulgaria,Asen ZLATEV,1980 Moscow,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1980,Silver,URS,USSR,Aleksandr PERVI,1980 Moscow,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1980,Bronze,BUL,Bulgaria,Nedelcho KOLEV,1980 Moscow,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1980,Gold,URS,USSR,Yurik VARDANIAN,1980 Moscow,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1980,Silver,BUL,Bulgaria,Blagoi BLAGOEV,1980 Moscow,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1980,Bronze,TCH,Czechoslovakia,Dusan POLIACIK,1980 Moscow,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1980,Gold,HUN,Hungary,Peter BACZAKO,1980 Moscow,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1980,Silver,BUL,Bulgaria,Rumen ALEKSANDROV,1980 Moscow,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1980,Bronze,GDR,German Democratic Republic,Frank MANTEK,1980 Moscow,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1980,Gold,TCH,Czechoslovakia,Ota ZAREMBA,1980 Moscow,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1980,Silver,URS,USSR,Igor NIKITIN,1980 Moscow,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1980,Bronze,CUB,Cuba,Alberto BLANCO FERNANDEZ,1980 Moscow,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1980,Gold,URS,USSR,Leonid TARANENKO,1980 Moscow,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1980,Silver,BUL,Bulgaria,Valentin CHRISTOV,1980 Moscow,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1980,Bronze,HUN,Hungary,György SZALAI,1980 Moscow,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1980,Gold,URS,USSR,Sultan RAKHMANOV,1980 Moscow,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1980,Silver,GDR,German Democratic Republic,Jürgen HEUSER,1980 Moscow,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1980,Bronze,POL,Poland,Tadeusz RUTKOWSKI,1980 Moscow,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1980,Gold,ITA,Italy,Claudio POLLIO,1980 Moscow,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1980,Silver,PRK,Korea DPR,Se Hong JANG,1980 Moscow,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1980,Bronze,URS,USSR,Sergei KORNILAEV,1980 Moscow,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1980,Gold,URS,USSR,Anatoli BELOGLAZOV,1980 Moscow,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1980,Silver,POL,Poland,Wladyslaw STECYK,1980 Moscow,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1980,Bronze,BUL,Bulgaria,Nermedin SELIMOV,1980 Moscow,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1980,Gold,URS,USSR,Sergei BELOGLAZOV,1980 Moscow,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1980,Silver,PRK,Korea DPR,Ho Pyong LI,1980 Moscow,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1980,Bronze,MGL,Mongolia,Dugarsuren OUINBOLD,1980 Moscow,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1980,Gold,URS,USSR,Magomedgasan ABUSHEV,1980 Moscow,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1980,Silver,BUL,Bulgaria,Mikho DOUKOV,1980 Moscow,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1980,Bronze,GRE,Greece,Georgios HADJIIOANNIDIS,1980 Moscow,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1980,Gold,URS,USSR,Saipulla ABSAIDOV,1980 Moscow,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1980,Silver,BUL,Bulgaria,Ivan YANKOV,1980 Moscow,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1980,Bronze,YUG,Yugoslavia,Saban SEJDI,1980 Moscow,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1980,Gold,BUL,Bulgaria,Valentin RAICHEV,1980 Moscow,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1980,Silver,MGL,Mongolia,Jamtsying DAVAAJAV,1980 Moscow,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1980,Bronze,TCH,Czechoslovakia,Dan KARABIN,1980 Moscow,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1980,Gold,BUL,Bulgaria,Ismail ABILOV,1980 Moscow,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1980,Silver,URS,USSR,Magomedkhan ARATSILOV,1980 Moscow,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1980,Bronze,HUN,Hungary,Istvan KOVACS,1980 Moscow,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1980,Gold,URS,USSR,Sanasar OGANISIAN,1980 Moscow,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1980,Silver,GDR,German Democratic Republic,Uwe NEUPERT,1980 Moscow,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1980,Bronze,POL,Poland,Aleksander CICHON,1980 Moscow,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1980,Gold,URS,USSR,Ilia MATE,1980 Moscow,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1980,Silver,BUL,Bulgaria,Slavcho CHERVENKOV,1980 Moscow,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1980,Bronze,TCH,Czechoslovakia,Julius STRNISKO,1980 Moscow,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1980,Gold,URS,USSR,Soslan ANDIEV,1980 Moscow,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1980,Silver,HUN,Hungary,Jozsef BALLA,1980 Moscow,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1980,Bronze,POL,Poland,Adam SANDURSKI,1980 Moscow,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1980,Gold,URS,USSR,Zhaksylyk USHKEMPIROV,1980 Moscow,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1980,Silver,ROU,Romania,Constantin ALEXANDRU,1980 Moscow,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1980,Bronze,HUN,Hungary,Ferenc SERES,1980 Moscow,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1980,Gold,URS,USSR,Vakhtang BLAGIDZE,1980 Moscow,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1980,Silver,HUN,Hungary,Lajos RACZ,1980 Moscow,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1980,Bronze,BUL,Bulgaria,Mladen MLADENOV,1980 Moscow,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1980,Gold,URS,USSR,Shamil SERIKOV,1980 Moscow,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1980,Silver,POL,Poland,Josef LIPIEN,1980 Moscow,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1980,Bronze,SWE,Sweden,Benni LJUNGBECK,1980 Moscow,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1980,Gold,GRE,Greece,Stilianos MIGIAKIS,1980 Moscow,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1980,Silver,HUN,Hungary,Istvan TOTH,1980 Moscow,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1980,Bronze,URS,USSR,Boris KRAMORENKO,1980 Moscow,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1980,Gold,ROU,Romania,Stefan RUSU,1980 Moscow,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1980,Silver,POL,Poland,Andrzej SUPRON,1980 Moscow,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1980,Bronze,SWE,Sweden,Lars-Erik SKIOLD,1980 Moscow,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1980,Gold,HUN,Hungary,Ferenc KOCSIS,1980 Moscow,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1980,Silver,URS,USSR,Anatoli BYKOV,1980 Moscow,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1980,Bronze,FIN,Finland,Mikko HUHTALA,1980 Moscow,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1980,Gold,URS,USSR,Gennadi KORBAN,1980 Moscow,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1980,Silver,POL,Poland,Jan DOLGOWICZ,1980 Moscow,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1980,Bronze,BUL,Bulgaria,Pavel PAVLOV,1980 Moscow,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1980,Gold,HUN,Hungary,Norbert NOTTNY,1980 Moscow,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1980,Silver,URS,USSR,Igor KANYGIN,1980 Moscow,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1980,Bronze,ROU,Romania,Petre DICU,1980 Moscow,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1980,Gold,BUL,Bulgaria,Georgi RAIKOV,1980 Moscow,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1980,Silver,POL,Poland,Roman BIERLA,1980 Moscow,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1980,Bronze,ROU,Romania,Vasile ANDREI,1980 Moscow,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1980,Gold,URS,USSR,Aleksandr KOLCHINSKY,1980 Moscow,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1980,Silver,BUL,Bulgaria,Aleksandr TOMOV,1980 Moscow,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1980,Bronze,LBN,Lebanon,Hassan BCHARA,1980 Moscow,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)

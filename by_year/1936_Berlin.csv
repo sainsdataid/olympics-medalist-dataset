@@ -1,0 +1,389 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1936,Gold,USA,United States,Jesse OWENS,1936 Berlin,Athletics,Men's,100m
+Summer,1936,Silver,USA,United States,Ralph METCALFE,1936 Berlin,Athletics,Men's,100m
+Summer,1936,Bronze,NED,Netherlands,Martinus OSENDARP,1936 Berlin,Athletics,Men's,100m
+Summer,1936,Gold,USA,United States,Jesse OWENS,1936 Berlin,Athletics,Men's,200m
+Summer,1936,Silver,USA,United States,Matthew Mackenzie ROBINSON,1936 Berlin,Athletics,Men's,200m
+Summer,1936,Bronze,NED,Netherlands,Martinus OSENDARP,1936 Berlin,Athletics,Men's,200m
+Summer,1936,Gold,USA,United States,Archibald Franklin WILLIAMS,1936 Berlin,Athletics,Men's,400m
+Summer,1936,Silver,GBR,Great Britain,Godfrey BROWN,1936 Berlin,Athletics,Men's,400m
+Summer,1936,Bronze,USA,United States,James Ellis LU VALLE,1936 Berlin,Athletics,Men's,400m
+Summer,1936,Gold,USA,United States,John WOODRUFF,1936 Berlin,Athletics,Men's,800m
+Summer,1936,Silver,ITA,Italy,Mario LANZI,1936 Berlin,Athletics,Men's,800m
+Summer,1936,Bronze,CAN,Canada,Philip EDWARDS,1936 Berlin,Athletics,Men's,800m
+Summer,1936,Gold,NZL,New Zealand,John LOVELOCK,1936 Berlin,Athletics,Men's,1500m
+Summer,1936,Silver,USA,United States,Glenn CUNNINGHAM,1936 Berlin,Athletics,Men's,1500m
+Summer,1936,Bronze,ITA,Italy,Luigi BECCALI,1936 Berlin,Athletics,Men's,1500m
+Summer,1936,Gold,FIN,Finland,Gunnar HÖCKERT,1936 Berlin,Athletics,Men's,5000m
+Summer,1936,Silver,FIN,Finland,Lauri LEHTINEN,1936 Berlin,Athletics,Men's,5000m
+Summer,1936,Bronze,SWE,Sweden,Henry JONSSON-KÄLARNE,1936 Berlin,Athletics,Men's,5000m
+Summer,1936,Gold,FIN,Finland,Ilmari SALMINEN,1936 Berlin,Athletics,Men's,10000m
+Summer,1936,Silver,FIN,Finland,Arvo ASKOLA,1936 Berlin,Athletics,Men's,10000m
+Summer,1936,Bronze,FIN,Finland,Volmari ISO-HOLLO,1936 Berlin,Athletics,Men's,10000m
+Summer,1936,Gold,JPN,Japan,Kitei SON,1936 Berlin,Athletics,Men's,marathon
+Summer,1936,Silver,GBR,Great Britain,Ernest HARPER,1936 Berlin,Athletics,Men's,marathon
+Summer,1936,Bronze,JPN,Japan,Shoryu NAN,1936 Berlin,Athletics,Men's,marathon
+Summer,1936,Gold,USA,United States,Forrest TOWNS,1936 Berlin,Athletics,Men's,110m hurdles
+Summer,1936,Silver,GBR,Great Britain,Donald FINLAY,1936 Berlin,Athletics,Men's,110m hurdles
+Summer,1936,Bronze,USA,United States,Fritz POLLARD,1936 Berlin,Athletics,Men's,110m hurdles
+Summer,1936,Gold,USA,United States,Glenn HARDIN,1936 Berlin,Athletics,Men's,400m hurdles
+Summer,1936,Silver,CAN,Canada,John LOARING,1936 Berlin,Athletics,Men's,400m hurdles
+Summer,1936,Bronze,PHI,Philippines,Miguel WHITE,1936 Berlin,Athletics,Men's,400m hurdles
+Summer,1936,Gold,FIN,Finland,Volmari ISO-HOLLO,1936 Berlin,Athletics,Men's,3000m steeplechase
+Summer,1936,Silver,FIN,Finland,Kaarlo Jalmari TUOMINEN,1936 Berlin,Athletics,Men's,3000m steeplechase
+Summer,1936,Bronze,GER,Germany,Alfred DOMPERT,1936 Berlin,Athletics,Men's,3000m steeplechase
+Summer,1936,Gold,USA,United States,"Ralph METCALFE, Foy DRAPER, Jesse OWENS, Frank WYKOFF",1936 Berlin,Athletics,Men's,4x100m relay
+Summer,1936,Silver,ITA,Italy,"Gianni CALDANA, Tullio GONNELLI, Orazio MARIANI, Elio RAGNI",1936 Berlin,Athletics,Men's,4x100m relay
+Summer,1936,Bronze,GER,Germany,"Gerd HORNBERGER, Wilhelm LEICHUM, Erich BORCHMEYER, Erwin GILLMEISTER",1936 Berlin,Athletics,Men's,4x100m relay
+Summer,1936,Gold,GBR,Great Britain,"Frederick Ferdinand WOLFF, Godfrey RAMPLING, Godfrey BROWN, William ROBERTS",1936 Berlin,Athletics,Men's,4x400m relay
+Summer,1936,Silver,USA,United States,"Alfred FITCH, Robert YOUNG, Harold CAGLE, Edward O'BRIEN",1936 Berlin,Athletics,Men's,4x400m relay
+Summer,1936,Bronze,GER,Germany,"Rudolf HARBIG, Harry VOIGT, Helmut HAMANN, Friedrich VON STÜLPNAGEL",1936 Berlin,Athletics,Men's,4x400m relay
+Summer,1936,Gold,GBR,Great Britain,Harold WHITLOCK,1936 Berlin,Athletics,Men's,50km walk
+Summer,1936,Silver,SUI,Switzerland,Arthur SCHWAB,1936 Berlin,Athletics,Men's,50km walk
+Summer,1936,Bronze,LAT,Latvia,Adalberts BUBENKO,1936 Berlin,Athletics,Men's,50km walk
+Summer,1936,Gold,USA,United States,Jesse OWENS,1936 Berlin,Athletics,Men's,long jump
+Summer,1936,Silver,GER,Germany,Luz LONG,1936 Berlin,Athletics,Men's,long jump
+Summer,1936,Bronze,JPN,Japan,Naoto TAJIMA,1936 Berlin,Athletics,Men's,long jump
+Summer,1936,Gold,JPN,Japan,Naoto TAJIMA,1936 Berlin,Athletics,Men's,triple jump
+Summer,1936,Silver,JPN,Japan,Masao HARADA,1936 Berlin,Athletics,Men's,triple jump
+Summer,1936,Bronze,AUS,Australia,Jack METCALFE,1936 Berlin,Athletics,Men's,triple jump
+Summer,1936,Gold,USA,United States,Cornelius JOHNSON,1936 Berlin,Athletics,Men's,high jump
+Summer,1936,Silver,USA,United States,Dave ALBRITTON,1936 Berlin,Athletics,Men's,high jump
+Summer,1936,Bronze,USA,United States,Delos THURBER,1936 Berlin,Athletics,Men's,high jump
+Summer,1936,Gold,USA,United States,Earle MEADOWS,1936 Berlin,Athletics,Men's,pole vault
+Summer,1936,Silver,JPN,Japan,Shuhei NISHIDA,1936 Berlin,Athletics,Men's,pole vault
+Summer,1936,Bronze,JPN,Japan,Sueo OE,1936 Berlin,Athletics,Men's,pole vault
+Summer,1936,Gold,GER,Germany,Hans WOELLKE,1936 Berlin,Athletics,Men's,shot put
+Summer,1936,Silver,FIN,Finland,Sulo BÄRLUND,1936 Berlin,Athletics,Men's,shot put
+Summer,1936,Bronze,GER,Germany,Gerhard STÖCK,1936 Berlin,Athletics,Men's,shot put
+Summer,1936,Gold,USA,United States,William Kenneth CARPENTER,1936 Berlin,Athletics,Men's,discus throw
+Summer,1936,Silver,USA,United States,Gordon DUNN,1936 Berlin,Athletics,Men's,discus throw
+Summer,1936,Bronze,ITA,Italy,Giorgio OBERWEGER,1936 Berlin,Athletics,Men's,discus throw
+Summer,1936,Gold,GER,Germany,Karl HEIN,1936 Berlin,Athletics,Men's,hammer throw
+Summer,1936,Silver,GER,Germany,Erwin BLASK,1936 Berlin,Athletics,Men's,hammer throw
+Summer,1936,Bronze,SWE,Sweden,Fred WARNGÅRD,1936 Berlin,Athletics,Men's,hammer throw
+Summer,1936,Gold,GER,Germany,Gerhard STÖCK,1936 Berlin,Athletics,Men's,javelin throw
+Summer,1936,Silver,FIN,Finland,Yrjö NIKKANEN,1936 Berlin,Athletics,Men's,javelin throw
+Summer,1936,Bronze,FIN,Finland,Kalervo TOIVONEN,1936 Berlin,Athletics,Men's,javelin throw
+Summer,1936,Gold,USA,United States,Glenn MORRIS,1936 Berlin,Athletics,Men's,decathlon
+Summer,1936,Silver,USA,United States,Robert Hyatt CLARK,1936 Berlin,Athletics,Men's,decathlon
+Summer,1936,Bronze,USA,United States,Jack PARKER,1936 Berlin,Athletics,Men's,decathlon
+Summer,1936,Gold,USA,United States,Helen STEPHENS,1936 Berlin,Athletics,Women's,100m
+Summer,1936,Silver,POL,Poland,Stanislawa WALASIEWICZ,1936 Berlin,Athletics,Women's,100m
+Summer,1936,Bronze,GER,Germany,Käthe KRAUSS,1936 Berlin,Athletics,Women's,100m
+Summer,1936,Gold,ITA,Italy,Ondina VALLA,1936 Berlin,Athletics,Women's,80m hurdles
+Summer,1936,Silver,GER,Germany,Anni STEUER,1936 Berlin,Athletics,Women's,80m hurdles
+Summer,1936,Bronze,CAN,Canada,Elizabeth TAYLOR,1936 Berlin,Athletics,Women's,80m hurdles
+Summer,1936,Gold,USA,United States,"Helen STEPHENS, Harriet BLAND, Annette ROGERS, Elizabeth ROBINSON",1936 Berlin,Athletics,Women's,4x100m relay
+Summer,1936,Silver,GBR,Great Britain,"Violet OLNEY, Barbara BURKE, Audrey BROWN, Eileen HISCOCK",1936 Berlin,Athletics,Women's,4x100m relay
+Summer,1936,Bronze,CAN,Canada,"Dorothy BROOKSHAW, Mildred Jeanette DOLSON-CAVILL, Hilda CAMERON, Aileen MEAGHER",1936 Berlin,Athletics,Women's,4x100m relay
+Summer,1936,Gold,HUN,Hungary,Ibolya CSÁK,1936 Berlin,Athletics,Women's,high jump
+Summer,1936,Silver,GBR,Great Britain,Dorothy ODAM,1936 Berlin,Athletics,Women's,high jump
+Summer,1936,Bronze,GER,Germany,Elfriede KAUN,1936 Berlin,Athletics,Women's,high jump
+Summer,1936,Gold,GER,Germany,Gisela MAUERMAYER,1936 Berlin,Athletics,Women's,discus throw
+Summer,1936,Silver,POL,Poland,Jadwiga WAJS,1936 Berlin,Athletics,Women's,discus throw
+Summer,1936,Bronze,GER,Germany,Paula MOLLENHAUER,1936 Berlin,Athletics,Women's,discus throw
+Summer,1936,Gold,GER,Germany,Tilly FLEISCHER,1936 Berlin,Athletics,Women's,javelin throw
+Summer,1936,Silver,GER,Germany,Luise KRÜGER,1936 Berlin,Athletics,Women's,javelin throw
+Summer,1936,Bronze,POL,Poland,Maria KWASNIEWSKA,1936 Berlin,Athletics,Women's,javelin throw
+Summer,1936,Gold,USA,United States,"Joseph Cephis FORTENBERRY, Ralph BISHOP, Duane SWANSON, John GIBBONS, Frank LUBIN, Jack RAGLAND, Carl KNOWLES, Carl SHY, Arthur Owen MOLLNER, Francis JOHNSON, William WHEATLEY, Sam BALTER, Willard SCHMIDT, Donald PIPER",1936 Berlin,Basketball,Men's,basketball
+Summer,1936,Silver,CAN,Canada,"Jan ALLISON, James STEWART, Gordon AITCHISON, Charles CHAPMAN, Malcolm WISEMAN, Arthur CHAPMAN, Irving MERETSKY, Douglas PEDEN, Edward John DAWSON",1936 Berlin,Basketball,Men's,basketball
+Summer,1936,Bronze,MEX,Mexico,"Rodolfo CHOPERENA IRIZARRI, Greer SKOUSEN SPILSBURY, Silvio HERNANDEZ DEL VALLE, Jesus OLMOZ MORENO, Francisco MARTINEZ CORDERO, Andres GOMEZ DOMINGUEZ, Carlos BORJA MORCA, Jose PAMPLONA LECUANDA, Luis Ignacio DE LA VEGA LEIJA, Raul FERNANDEZ ROBERT, Victor Hugo BORJA MORCA",1936 Berlin,Basketball,Men's,basketball
+Summer,1936,Gold,GER,Germany,Willi KAISER,1936 Berlin,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1936,Silver,ITA,Italy,Gavino MATTA,1936 Berlin,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1936,Bronze,USA,United States,Lou LAURIA,1936 Berlin,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1936,Gold,ITA,Italy,Ulderico SERGO,1936 Berlin,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1936,Silver,USA,United States,Jack WILSON,1936 Berlin,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1936,Bronze,MEX,Mexico,Fidel ORTIZ,1936 Berlin,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1936,Gold,ARG,Argentina,Oscar CASANOVAS,1936 Berlin,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1936,Silver,RSA,South Africa,Charles CATTERALL,1936 Berlin,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1936,Bronze,GER,Germany,Josef MINER,1936 Berlin,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1936,Gold,HUN,Hungary,Imre HARANGI,1936 Berlin,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1936,Silver,EST,Estonia,Nikolai STEPULOV,1936 Berlin,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1936,Bronze,SWE,Sweden,Erik AGREN,1936 Berlin,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1936,Gold,FIN,Finland,Sten SUVIO,1936 Berlin,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1936,Silver,GER,Germany,Michael MURACH,1936 Berlin,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1936,Bronze,DEN,Denmark,Gerhard PETERSEN,1936 Berlin,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1936,Gold,FRA,France,Jean DESPEAUX,1936 Berlin,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1936,Silver,NOR,Norway,Henry TILLER,1936 Berlin,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1936,Bronze,ARG,Argentina,Raul Vicente VILLAREAL,1936 Berlin,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1936,Gold,FRA,France,Roger MICHELOT,1936 Berlin,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1936,Silver,GER,Germany,Richard VOGT,1936 Berlin,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1936,Bronze,ARG,Argentina,Francisco RISIGLIONE,1936 Berlin,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1936,Gold,GER,Germany,Herbert RUNGE,1936 Berlin,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1936,Silver,ARG,Argentina,Guillermo LOVELL,1936 Berlin,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1936,Bronze,NOR,Norway,Erling NILSEN,1936 Berlin,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1936,Gold,AUT,Austria,Gregor HRADETZKY,1936 Berlin,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1936,Silver,GER,Germany,Helmut CÄMMERER,1936 Berlin,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1936,Bronze,NED,Netherlands,Jacobus KRAAIER,1936 Berlin,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1936,Gold,AUT,Austria,"Adolf KAINZ, Alfons DORFNER",1936 Berlin,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1936,Silver,GER,Germany,"Ewald TILKER, Fritz BONDROIT",1936 Berlin,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1936,Bronze,NED,Netherlands,"Nicolaas TATES, Willem VAN DER KROFT",1936 Berlin,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1936,Gold,GER,Germany,Ernst KREBS,1936 Berlin,Canoe Sprint,Men's,K-1 10000m
+Summer,1936,Silver,AUT,Austria,Fritz LANDERTINGER,1936 Berlin,Canoe Sprint,Men's,K-1 10000m
+Summer,1936,Bronze,USA,United States,Ernest RIEDEL,1936 Berlin,Canoe Sprint,Men's,K-1 10000m
+Summer,1936,Gold,GER,Germany,"Ludwig LANDEN, Paul WEVERS",1936 Berlin,Canoe Sprint,Men's,K-2 10000m
+Summer,1936,Silver,AUT,Austria,"Viktor KALISCH, Karl STEINHUBER",1936 Berlin,Canoe Sprint,Men's,K-2 10000m
+Summer,1936,Bronze,SWE,Sweden,"Tage FAHLBORG, Helge LARSSON",1936 Berlin,Canoe Sprint,Men's,K-2 10000m
+Summer,1936,Gold,AUT,Austria,Gregor HRADETZKY,1936 Berlin,Canoe Sprint,Men's,folding K-1 10000m
+Summer,1936,Silver,FRA,France,Henri EBERHARDT,1936 Berlin,Canoe Sprint,Men's,folding K-1 10000m
+Summer,1936,Bronze,GER,Germany,Xaver HÖRMANN,1936 Berlin,Canoe Sprint,Men's,folding K-1 10000m
+Summer,1936,Gold,SWE,Sweden,"Sven JOHANSSON, Erik BLADSTRÖM",1936 Berlin,Canoe Sprint,Men's,folding K-2 10000m
+Summer,1936,Silver,GER,Germany,"Willi HORN, Erich HANISCH",1936 Berlin,Canoe Sprint,Men's,folding K-2 10000m
+Summer,1936,Bronze,NED,Netherlands,"Cornelis WIJDEKOP, Pieter WIJDEKOP",1936 Berlin,Canoe Sprint,Men's,folding K-2 10000m
+Summer,1936,Gold,CAN,Canada,Francis AMYOT,1936 Berlin,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1936,Silver,TCH,Czechoslovakia,Bohuslav KARLIK,1936 Berlin,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1936,Bronze,GER,Germany,Erich KOSCHIK,1936 Berlin,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1936,Gold,TCH,Czechoslovakia,"Vladimir SYROVATKA, Jan BRZÁK-FELIX",1936 Berlin,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1936,Silver,AUT,Austria,"EDLETITSCH, KAMPFL",1936 Berlin,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1936,Bronze,CAN,Canada,"Harvey CHARTERS, Frank Warren SAKER",1936 Berlin,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1936,Gold,TCH,Czechoslovakia,"Vaclav MOTTL, Zdenek SKRLANT",1936 Berlin,Canoe Sprint,Men's,C-2 10000m
+Summer,1936,Silver,CAN,Canada,"Frank Warren SAKER, Harvey CHARTERS",1936 Berlin,Canoe Sprint,Men's,C-2 10000m
+Summer,1936,Bronze,AUT,Austria,"Rupert WEINSTABL, Karl PROISL",1936 Berlin,Canoe Sprint,Men's,C-2 10000m
+Summer,1936,Gold,FRA,France,Robert CHARPENTIER,1936 Berlin,Cycling Road,Men's,individual road race
+Summer,1936,Silver,FRA,France,Guy LAPÉBIE,1936 Berlin,Cycling Road,Men's,individual road race
+Summer,1936,Bronze,SUI,Switzerland,Ernst NIEVERGELT,1936 Berlin,Cycling Road,Men's,individual road race
+Summer,1936,Gold,FRA,France,"Robert CHARPENTIER, Guy LAPÉBIE, Robert DORGEBRAY",1936 Berlin,Cycling Road,Men's,team time trial
+Summer,1936,Silver,SUI,Switzerland,"Edgar BUCHWALDER, Kurt OTT, Ernst NIEVERGELT",1936 Berlin,Cycling Road,Men's,team time trial
+Summer,1936,Bronze,BEL,Belgium,"François VANDERMOTTE, Armand PUTZEYS, Auguste GARREBEEK",1936 Berlin,Cycling Road,Men's,team time trial
+Summer,1936,Gold,GER,Germany,Anton (Toni) MERKENS,1936 Berlin,Cycling Track,Men's,sprint individual
+Summer,1936,Silver,NED,Netherlands,Arie VAN VLIET,1936 Berlin,Cycling Track,Men's,sprint individual
+Summer,1936,Bronze,FRA,France,Louis CHAILLOT,1936 Berlin,Cycling Track,Men's,sprint individual
+Summer,1936,Gold,NED,Netherlands,Arie VAN VLIET,1936 Berlin,Cycling Track,Men's,1km time trial
+Summer,1936,Silver,FRA,France,Pierre GEORGET,1936 Berlin,Cycling Track,Men's,1km time trial
+Summer,1936,Bronze,GER,Germany,Rudolf KARSCH,1936 Berlin,Cycling Track,Men's,1km time trial
+Summer,1936,Gold,GER,Germany,"Carly LORENZ, Ernst IHBE",1936 Berlin,Cycling Track,Men's,2000m tandem
+Summer,1936,Silver,NED,Netherlands,"Hendrik OOMS, Bernardus Petrus LEENE",1936 Berlin,Cycling Track,Men's,2000m tandem
+Summer,1936,Bronze,FRA,France,"Pierre GEORGET, Georges MATON",1936 Berlin,Cycling Track,Men's,2000m tandem
+Summer,1936,Gold,FRA,France,"Guy LAPÉBIE, Robert CHARPENTIER, Jean GOUJON, Roger LE NIZERHY",1936 Berlin,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1936,Silver,ITA,Italy,"Severino RIGONI, Armando LATINI, Bianco BIANCHI, Mario GENTILI",1936 Berlin,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1936,Bronze,GBR,Great Britain,"Charles KING, Ernest JOHNSON, Harry HILL, Ernest MILLS",1936 Berlin,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1936,Gold,USA,United States,Richard DEGENER,1936 Berlin,Diving,Men's,3m springboard
+Summer,1936,Silver,USA,United States,Marshall WAYNE,1936 Berlin,Diving,Men's,3m springboard
+Summer,1936,Bronze,USA,United States,Al GREENE,1936 Berlin,Diving,Men's,3m springboard
+Summer,1936,Gold,USA,United States,Marshall WAYNE,1936 Berlin,Diving,Men's,10m platform
+Summer,1936,Silver,USA,United States,Elbert ROOT,1936 Berlin,Diving,Men's,10m platform
+Summer,1936,Bronze,GER,Germany,Hermann STORK,1936 Berlin,Diving,Men's,10m platform
+Summer,1936,Gold,USA,United States,Marjorie GESTRING,1936 Berlin,Diving,Women's,3m springboard
+Summer,1936,Silver,USA,United States,Katherine RAWLS,1936 Berlin,Diving,Women's,3m springboard
+Summer,1936,Bronze,USA,United States,Dorothy POYNTON,1936 Berlin,Diving,Women's,3m springboard
+Summer,1936,Gold,USA,United States,Dorothy POYNTON,1936 Berlin,Diving,Women's,10m platform
+Summer,1936,Silver,USA,United States,Velma DUNN,1936 Berlin,Diving,Women's,10m platform
+Summer,1936,Bronze,GER,Germany,Käthe KÖHLER,1936 Berlin,Diving,Women's,10m platform
+Summer,1936,Gold,GER,Germany,Heinz POLLAY,1936 Berlin,Equestrian Dressage,Mixed,individual
+Summer,1936,Silver,GER,Germany,Friedrich GERHARD,1936 Berlin,Equestrian Dressage,Mixed,individual
+Summer,1936,Bronze,AUT,Austria,Alois PODHAJSKY,1936 Berlin,Equestrian Dressage,Mixed,individual
+Summer,1936,Gold,GER,Germany,"Hermann VON OPPELN-BRONIKOWSKI, Friedrich GERHARD, Heinz POLLAY",1936 Berlin,Equestrian Dressage,Mixed,team
+Summer,1936,Silver,FRA,France,"André JOUSSEAUMÉ, Daniel GILLOIS, Gérard DE BALLORE",1936 Berlin,Equestrian Dressage,Mixed,team
+Summer,1936,Bronze,SWE,Sweden,"Sven COLLIANDER, Gregor ADLERCREUTZ, Folke SANDSTRÖM",1936 Berlin,Equestrian Dressage,Mixed,team
+Summer,1936,Gold,GER,Germany,Ludwig STUBBENDORFF,1936 Berlin,Equestrian Eventing,Mixed,individual
+Summer,1936,Silver,USA,United States,Earl THOMSON,1936 Berlin,Equestrian Eventing,Mixed,individual
+Summer,1936,Bronze,DEN,Denmark,Hans MATHIESEN-LUNDING,1936 Berlin,Equestrian Eventing,Mixed,individual
+Summer,1936,Gold,GER,Germany,"Ludwig STUBBENDORFF, Konrad VON WANGENHEIM, Rudolf LIPPERT",1936 Berlin,Equestrian Eventing,Mixed,team
+Summer,1936,Silver,POL,Poland,"Zdzislaw KAWECKI, Henryk ROYCEWICZ, Seweryn KULESZA",1936 Berlin,Equestrian Eventing,Mixed,team
+Summer,1936,Bronze,GBR,Great Britain,"Edward HOWARD-VYSE, Richard FANSHAWE, Alec SCOTT",1936 Berlin,Equestrian Eventing,Mixed,team
+Summer,1936,Gold,GER,Germany,Kurt HASSE,1936 Berlin,Equestrian Jumping,Mixed,individual
+Summer,1936,Silver,ROU,Romania,Henri RANG,1936 Berlin,Equestrian Jumping,Mixed,individual
+Summer,1936,Bronze,HUN,Hungary,Jozsef VON PLATTHY,1936 Berlin,Equestrian Jumping,Mixed,individual
+Summer,1936,Gold,GER,Germany,"Heinz BRANDT, Marten VON BARNEKOW, Kurt HASSE",1936 Berlin,Equestrian Jumping,Mixed,team
+Summer,1936,Silver,NED,Netherlands,"Henri VAN SCHAIK, Jan DE BRUINE, Johan Jacob GRETER",1936 Berlin,Equestrian Jumping,Mixed,team
+Summer,1936,Bronze,POR,Portugal,"Luiz SILVA, JosÃ© BELTRÃƒO, Antonio MARQUES DO FUNCHAL",1936 Berlin,Equestrian Jumping,Mixed,team
+Summer,1936,Gold,ITA,Italy,Franco RICCARDI,1936 Berlin,Fencing,Men's,épée individual
+Summer,1936,Silver,ITA,Italy,Saverio RAGNO,1936 Berlin,Fencing,Men's,épée individual
+Summer,1936,Bronze,ITA,Italy,Giancarlo CORNAGGIA-MEDICI,1936 Berlin,Fencing,Men's,épée individual
+Summer,1936,Gold,ITA,Italy,"Alfredo PEZZANA, Giancarlo BRUSATI, Edoardo MANGIAROTTI, Giancarlo CORNAGGIA-MEDICI, Saverio RAGNO, Franco RICCARDI",1936 Berlin,Fencing,Men's,épée team
+Summer,1936,Silver,SWE,Sweden,"Gustaf DYRSSEN, Sven THOFELT, Hans DRAKENBERG, Birger CEDERIN, Gösta ALMGREN, Hans GRANFELT",1936 Berlin,Fencing,Men's,épée team
+Summer,1936,Bronze,FRA,France,"Henri DULIEUX, Philippe CATTIAU, Paul WORMSER, Bernard SCHMETZ, Georges BUCHARD, Michel PÉCHEUX",1936 Berlin,Fencing,Men's,épée team
+Summer,1936,Gold,ITA,Italy,Giulio GAUDINI,1936 Berlin,Fencing,Men's,foil individual
+Summer,1936,Silver,FRA,France,Edouard GARDERE,1936 Berlin,Fencing,Men's,foil individual
+Summer,1936,Bronze,ITA,Italy,Giorgio BOCCHINO,1936 Berlin,Fencing,Men's,foil individual
+Summer,1936,Gold,ITA,Italy,"Giorgio BOCCHINO, Giulio GAUDINI, Gustavo MARZI, Manlio DI ROSA, Gioacchino GUARAGNA, Ciro VERRATTI",1936 Berlin,Fencing,Men's,foil team
+Summer,1936,Silver,FRA,France,"René BOUGNOL, René BONDOUX, René LEMOINE, André GARDÈRE, Edouard GARDERE, Jacques COUTROT",1936 Berlin,Fencing,Men's,foil team
+Summer,1936,Bronze,GER,Germany,"Erwin CASMIR, Julius EISENECKER, August HEIM, Stefan ROSENBAUER, Otto ADAM, Siegfried LERDON",1936 Berlin,Fencing,Men's,foil team
+Summer,1936,Gold,HUN,Hungary,Endre KABOS,1936 Berlin,Fencing,Men's,sabre individual
+Summer,1936,Silver,ITA,Italy,Gustavo MARZI,1936 Berlin,Fencing,Men's,sabre individual
+Summer,1936,Bronze,HUN,Hungary,Aladár GEREVICH,1936 Berlin,Fencing,Men's,sabre individual
+Summer,1936,Gold,HUN,Hungary,"Endre KABOS, Imre RAJCZY, Pál KOVÁCS, László RAJCSÁNYI, Tibor BERCZELLY, Aladár GEREVICH",1936 Berlin,Fencing,Men's,sabre team
+Summer,1936,Silver,ITA,Italy,"Vincenzo PINTON, Athos TANZINI, Aldo MASCIOTTA, Aldo MONTANO, Giulio GAUDINI, Gustavo MARZI",1936 Berlin,Fencing,Men's,sabre team
+Summer,1936,Bronze,GER,Germany,"Hans JÖRGER, Julius EISENECKER, Richard WAHL, Hans ESSER, Erwin CASMIR, August HEIM",1936 Berlin,Fencing,Men's,sabre team
+Summer,1936,Gold,HUN,Hungary,Ilona ELEK,1936 Berlin,Fencing,Women's,foil individual
+Summer,1936,Silver,GER,Germany,Helene MAYER,1936 Berlin,Fencing,Women's,foil individual
+Summer,1936,Bronze,AUT,Austria,Ellen PREIS,1936 Berlin,Fencing,Women's,foil individual
+Summer,1936,Gold,ITA,Italy,"Giuseppe BALDO, Carlo BIAGI, Alfonso NEGRO, Francesco GABRIOTTI, Annibale FROSSI, Libero MARCHINI, Giulio CAPPELLI, Sergio BERTONI, Ugo LOCATELLI, Achille PICCINI, Bruno VENTURINI, Pietro RAVA, Alfredo FONI, Luigi SCARABELLO",1936 Berlin,Football,Men's,football
+Summer,1936,Silver,AUT,Austria,"Franz FUCHSBERGER, Karl KAINBERGER, Martin KARGL, Josef KITZMÜLLER, Ernst KÜNZ, Karl WALLMÜLLER, Adolf LAUDON, Walter WERGINZ, Franz MANDL, Anton KRENN, Eduard KAINBERGER, Max HOFMEISTER, Klement STEINMETZ",1936 Berlin,Football,Men's,football
+Summer,1936,Bronze,NOR,Norway,"Magnar ISAKSEN, Jørgen JUVE, Nils ERIKSEN, Frithjof ULLEBERG, Magdalon MONSEN, Reidar KVAMMEN, Arne BRUSTAD, Rolf HOLMBERG, Sverre HANSEN, Odd FRANTZEN, Henry JOHANSEN, Alf MARTINSEN, Oivind HOLMSEN, Fredrik HORN",1936 Berlin,Football,Men's,football
+Summer,1936,Gold,GER,Germany,Alfred SCHWARZMANN,1936 Berlin,Gymnastics Artistic,Men's,individual all-round
+Summer,1936,Silver,SUI,Switzerland,Eugen MACK,1936 Berlin,Gymnastics Artistic,Men's,individual all-round
+Summer,1936,Bronze,GER,Germany,Konrad FREY,1936 Berlin,Gymnastics Artistic,Men's,individual all-round
+Summer,1936,Gold,GER,Germany,"Innozenz STANGL, Walter STEFFENS, Alfred SCHWARZMANN, Konrad FREY, Willi Friedrich STADEL, Ernst WINTER, Matthias VOLZ, Franz BECKERT",1936 Berlin,Gymnastics Artistic,Men's,team competition
+Summer,1936,Silver,SUI,Switzerland,"Josef WALTER, Albert BACHMANN, Walter BECK, Michael REUSCH, Eugen MACK, Walter BACH, Eduard STEINEMANN, Georges MIEZ",1936 Berlin,Gymnastics Artistic,Men's,team competition
+Summer,1936,Bronze,FIN,Finland,"Esa SEESTE, Veikko Ilmari PAKARINEN, Aleksanteri SAARVALA, Heikki SAVOLAINEN, Martti UOSIKKINEN, Mauri Kalervo NYBERG-NOROMA, Einari TERÄSVIRTA, Eino TUKIAINEN",1936 Berlin,Gymnastics Artistic,Men's,team competition
+Summer,1936,Gold,SUI,Switzerland,Georges MIEZ,1936 Berlin,Gymnastics Artistic,Men's,floor exercises
+Summer,1936,Silver,SUI,Switzerland,Josef WALTER,1936 Berlin,Gymnastics Artistic,Men's,floor exercises
+Summer,1936,Bronze,GER,Germany,Konrad FREY,1936 Berlin,Gymnastics Artistic,Men's,floor exercises
+Summer,1936,Bronze,SUI,Switzerland,Eugen MACK,1936 Berlin,Gymnastics Artistic,Men's,floor exercises
+Summer,1936,Gold,GER,Germany,Konrad FREY,1936 Berlin,Gymnastics Artistic,Men's,parallel bars
+Summer,1936,Silver,SUI,Switzerland,Michael REUSCH,1936 Berlin,Gymnastics Artistic,Men's,parallel bars
+Summer,1936,Bronze,GER,Germany,Alfred SCHWARZMANN,1936 Berlin,Gymnastics Artistic,Men's,parallel bars
+Summer,1936,Gold,GER,Germany,Alfred SCHWARZMANN,1936 Berlin,Gymnastics Artistic,Men's,vault
+Summer,1936,Silver,SUI,Switzerland,Eugen MACK,1936 Berlin,Gymnastics Artistic,Men's,vault
+Summer,1936,Bronze,GER,Germany,Matthias VOLZ,1936 Berlin,Gymnastics Artistic,Men's,vault
+Summer,1936,Gold,TCH,Czechoslovakia,Alois HUDEC,1936 Berlin,Gymnastics Artistic,Men's,rings
+Summer,1936,Silver,YUG,Yugoslavia,Leon ?TUKELJ,1936 Berlin,Gymnastics Artistic,Men's,rings
+Summer,1936,Bronze,GER,Germany,Matthias VOLZ,1936 Berlin,Gymnastics Artistic,Men's,rings
+Summer,1936,Gold,GER,Germany,Konrad FREY,1936 Berlin,Gymnastics Artistic,Men's,pommel horse
+Summer,1936,Silver,SUI,Switzerland,Eugen MACK,1936 Berlin,Gymnastics Artistic,Men's,pommel horse
+Summer,1936,Bronze,SUI,Switzerland,Albert BACHMANN,1936 Berlin,Gymnastics Artistic,Men's,pommel horse
+Summer,1936,Gold,FIN,Finland,Aleksanteri SAARVALA,1936 Berlin,Gymnastics Artistic,Men's,horizontal bar
+Summer,1936,Silver,GER,Germany,Konrad FREY,1936 Berlin,Gymnastics Artistic,Men's,horizontal bar
+Summer,1936,Bronze,GER,Germany,Alfred SCHWARZMANN,1936 Berlin,Gymnastics Artistic,Men's,horizontal bar
+Summer,1936,Gold,GER,Germany,"Julie SCHMITT, Käte SOHNEMANN, Anita BÄRWIRTH, Paula PÖHLSEN, Isolde FRÖLIAN, Erna BÜRGER, Gertrud MEYER, Friedl IBY",1936 Berlin,Gymnastics Artistic,Women's,team competition
+Summer,1936,Silver,TCH,Czechoslovakia,"Matylda PÁLFYOVÁ, Vlasta DEKANOVÁ, Marie BAJEROVÁ, Anna HREBRINOVÁ, Bozena DOBESOVA, Marie VETROVSKÁ, Zdenka VERMIROVSKÁ, Vlasta FOLTOVÁ",1936 Berlin,Gymnastics Artistic,Women's,team competition
+Summer,1936,Bronze,HUN,Hungary,"Judit TOTH, Olga TÖRÖS, Eszter VOIT, Gabriella MÉSZÁROS, Margit NAGY, Margit KALOCSAI, Margit CSILLIK, Ilona MADARY",1936 Berlin,Gymnastics Artistic,Women's,team competition
+Summer,1936,Gold,GER,Germany,"Günther ORTMANN, Arthur KNAUTZ, Georg DASCHER, Hermann HANSEN, Heinrich KEIMIG, Wilhelm MÜLLER, Hans THEILIG, Heinz KÖRVERS, Wilhelm BAUMANN, Helmut BERTHOLD, Willy BANDHOLZ, Erich HERRMANN, Karl KREUTZBERG, Fritz FROMM, Kurt DOSSIN, Wilhelm BRINKMANN, Hans KEITER, Edgar REINHARDT, Fritz SPENGLER, Rudolf STAHL, Helmut BRASELMANN, Alfred KLINGLER",1936 Berlin,Handball,Men's,handball
+Summer,1936,Silver,AUT,Austria,"Walter REISP, Alfred SCHMALZER, Jaroslav VOLAK, Anton PERWEIN, Ludwig SCHUBERTH, Franz BISTRICKY, Alois SCHNABEL, Fritz WURMBÖCK, Ferdinand KIEFLER, Franz BRUNNER, Otto LICHA, Leopold WOHLRAB, Hans HOUSKA, Hans ZEHETNER, Siegfried POWOLNY, Emil JURACKA, Fritz MAURER, Franz BARTL, Johann TAUSCHER, Josef KREJCI, Franz BERGHAMMER, Siegfried PURNER",1936 Berlin,Handball,Men's,handball
+Summer,1936,Bronze,SUI,Switzerland,"Erich SCHMITT, Robert STUDER, Willy SCHÄFER, Eugen SEITERLE, Edy SCHMID, Max BLOSCH, Rolf FÄS, Rudolf WIRZ, Willy HUFSCHMID, Erland HERKENRATH, Hans STREIB, Ernst HUFSCHMID, Willy GYSI, Werner MEYER, Burkhard GANTENBEIN, Werner SCHEURMANN, Georg MISCHON",1936 Berlin,Handball,Men's,handball
+Summer,1936,Gold,IND,India,"Ahsan Mohomed KHAN, Peter Paul FERNANDES, Gurcharan SINGH GAREWAL, Ahmed Sher KHAN, Sayed Mohomed HUSSAIN, Lionel EMMETT, Mirza Nasir-ud Din MASOOD, Dhyan CHAND, Carlyle TAPSELL, Earnest CULLEN, Joseph PHILLIP, Iqtidar Ali Shah DARA, Sayed Mohammed JAFFAR, Roop SINGH, Shabban SHAHAB-UD-DIN, Baboo Narsoo NIMAL, Cyril MICHIE, Joseph GALIBARDY, Richard ALLEN",1936 Berlin,Hockey,Men's,hockey
+Summer,1936,Silver,GER,Germany,"Erich ZANDER, Erwin KELLER, Heinrich PETER, Kurt WEISS, Tito WARNHOLTZ, Paul MEHLITZ, Harald HUFFMANN, Heinrich SCHMALIX, Heinz RAACK, Erich CUNTZ, Fritz MESSNER, Carl RUCK, Werner KUBITZKI, Ludwig BEISIEGEL, Werner HAMEL, Karl DRÖSE, Carl MENKE, Hermann AUF DER HEIDE, Hans SCHERBART, Detlef OKRENT, Herbert KEMMER, Alfred GERDES",1936 Berlin,Hockey,Men's,hockey
+Summer,1936,Bronze,NED,Netherlands,"Hendrik DE LOOPER, Max WESTERKAMP, Ernst VAN DEN BERG, René SPARENBERG, Pieter GUNNING, Rudolf VAN DER HAAR, Carl HEIJBROEK, Agathon DE ROOS, Reindert DE WAAL, Jan DE LOOPER, Antoine Robert VAN LIEROP, Henri SCHNITGER",1936 Berlin,Hockey,Men's,hockey
+Summer,1936,Gold,GER,Germany,Gotthard HANDRICK,1936 Berlin,Modern Pentathlon,Men's,individual competition
+Summer,1936,Silver,USA,United States,Charles LEONARD,1936 Berlin,Modern Pentathlon,Men's,individual competition
+Summer,1936,Bronze,ITA,Italy,Silvano ABBA,1936 Berlin,Modern Pentathlon,Men's,individual competition
+Summer,1936,Gold,GER,Germany,Gustav SCHÄFER,1936 Berlin,Rowing,Men's,single sculls (1x)
+Summer,1936,Silver,AUT,Austria,Josef HASENÖHRL,1936 Berlin,Rowing,Men's,single sculls (1x)
+Summer,1936,Bronze,USA,United States,Daniel BARROW,1936 Berlin,Rowing,Men's,single sculls (1x)
+Summer,1936,Gold,GBR,Great Britain,"Jack BERESFORD, Leslie SOUTHWOOD",1936 Berlin,Rowing,Men's,double sculls (2x)
+Summer,1936,Silver,GER,Germany,"Joachim PIRSCH, Willi KAIDEL",1936 Berlin,Rowing,Men's,double sculls (2x)
+Summer,1936,Bronze,POL,Poland,"Roger VEREY, Jerzy USTUPSKI",1936 Berlin,Rowing,Men's,double sculls (2x)
+Summer,1936,Gold,GER,Germany,"Hugo STRAUSS, Willi EICHHORN",1936 Berlin,Rowing,Men's,pair without coxswain (2-)
+Summer,1936,Silver,DEN,Denmark,"Richard OLSEN, Harry Julius LARSEN",1936 Berlin,Rowing,Men's,pair without coxswain (2-)
+Summer,1936,Bronze,ARG,Argentina,"Julio Pedro CURATELLA, Horacio PODESTA",1936 Berlin,Rowing,Men's,pair without coxswain (2-)
+Summer,1936,Gold,GER,Germany,"Dieter AREND, Gerhard GUSTMANN, Herbert ADAMSKI",1936 Berlin,Rowing,Men's,pair-oared shell with coxswain
+Summer,1936,Silver,ITA,Italy,"Luciano NEGRINI, Guido SANTIN, Almiro BERGAMO",1936 Berlin,Rowing,Men's,pair-oared shell with coxswain
+Summer,1936,Bronze,FRA,France,"Marceau FOURCADE, Georges TAPIE, Noël VANDERNOTTE",1936 Berlin,Rowing,Men's,pair-oared shell with coxswain
+Summer,1936,Gold,GER,Germany,"Rudolf ECKSTEIN, Martin KARL, Anton (Toni) ROM, Wilhelm MENNE",1936 Berlin,Rowing,Men's,four without coxswain (4-)
+Summer,1936,Silver,GBR,Great Britain,"Peter JACKSON, Thomas BRISTOW, John STURROCK, Alan BARRETT",1936 Berlin,Rowing,Men's,four without coxswain (4-)
+Summer,1936,Bronze,SUI,Switzerland,"Hans HOMBERGER, Hermann BETSCHART, Karl SCHMID, Alex HOMBERGER",1936 Berlin,Rowing,Men's,four without coxswain (4-)
+Summer,1936,Gold,GER,Germany,"Hans MAIER, Fritz BAUER, Ernst GABER, Paul SÖLLNER, Walter VOLLE",1936 Berlin,Rowing,Men's,four-oared shell with coxswain
+Summer,1936,Silver,SUI,Switzerland,"Karl SCHMID, Alex HOMBERGER, Rolf SPRING, Hermann BETSCHART, Hans HOMBERGER",1936 Berlin,Rowing,Men's,four-oared shell with coxswain
+Summer,1936,Bronze,FRA,France,"Fernand VANDERNOTTE, Marcel COSMAT, Marcel VANDERNOTTE, Marcel CHAUVIGNÉ, Noël VANDERNOTTE",1936 Berlin,Rowing,Men's,four-oared shell with coxswain
+Summer,1936,Gold,USA,United States,"John WHITE, Joseph RANTZ, Herbert MORRIS, George HUNT, James MCMILLIN, Robert MOCH, Donald HUME, Charles DAY, Gordon ADAM",1936 Berlin,Rowing,Men's,eight with coxswain (8+)
+Summer,1936,Silver,ITA,Italy,"Cesare MILANI, Ottorino QUAGLIERINI, Mario CHECCACCI, Dino BARSOTTI, Oreste GROSSI, Enzo BARTOLINI, Enrico GARZELLI, Guglielmo DEL BIMBO, Dante SECCHI",1936 Berlin,Rowing,Men's,eight with coxswain (8+)
+Summer,1936,Bronze,GER,Germany,"Gerd VÖLS, Helmut RADACH, Werner LOECKLE, Wilhelm MAHLOW, Heinz KAUFMANN, Alfred RIECK, Hans KUSCHKE, Hans-Joachim HANNEMANN, Herbert SCHMIDT",1936 Berlin,Rowing,Men's,eight with coxswain (8+)
+Summer,1936,Gold,GBR,Great Britain,"Miles BELLVILLE, Charles LEAF, Russell HARMER, Leonard MARTIN, Christopher BOARDMAN",1936 Berlin,Sailing,Mixed,6m
+Summer,1936,Silver,NOR,Norway,"Fredrik MEYER, Magnus KONOW, Alf TVETEN, Vaadjuv Dag NYQVIST, Karsten KONOW",1936 Berlin,Sailing,Mixed,6m
+Summer,1936,Bronze,SWE,Sweden,"Sven SALÉN, Torsten LORD, Lennart EKDAHL, Martin HINDORFF, Dagmar SALÉN",1936 Berlin,Sailing,Mixed,6m
+Summer,1936,Gold,ITA,Italy,"Luigi POGGI, Domenico MORDINI, Luigi DE MANINCOR, Bruno BIANCHI, Enrico POGGI, Giovanni REGGIO",1936 Berlin,Sailing,Mixed,8m
+Summer,1936,Silver,NOR,Norway,"Jacob Tullin THAMS, Nordahl WALLEM, John DITLEV-SIMONSEN, Olaf Christian Jr. DITLEV-SIMONSEN, Hans STRUKSNÆS, Lauritz SCHMIDT",1936 Berlin,Sailing,Mixed,8m
+Summer,1936,Bronze,GER,Germany,"Fritz BISCHOFF, Hans HOWALDT, Otto WACHS, Alfried KRUPP VON BOHLEN UND HALBACH, Felix SCHEDER-BIESCHIN, Eduard MOHR",1936 Berlin,Sailing,Mixed,8m
+Summer,1936,Gold,NED,Netherlands,Daniel Marinus J. KAGCHELLAND,1936 Berlin,Sailing,Mixed,olympic class monotype
+Summer,1936,Silver,GER,Germany,Werner Herman Otto KROGMANN,1936 Berlin,Sailing,Mixed,olympic class monotype
+Summer,1936,Bronze,GBR,Great Britain,Peter Markham SCOTT,1936 Berlin,Sailing,Mixed,olympic class monotype
+Summer,1936,Gold,GER,Germany,"Peter BISCHOFF, Hans-Joachim WEISE",1936 Berlin,Sailing,Mixed,two-person keelboat (Star)
+Summer,1936,Silver,SWE,Sweden,"Uno WALLENTIN, Arvid LAURIN",1936 Berlin,Sailing,Mixed,two-person keelboat (Star)
+Summer,1936,Bronze,NED,Netherlands,"Willem DE VRIES LENTSCH SR., Adriaan MAAS",1936 Berlin,Sailing,Mixed,two-person keelboat (Star)
+Summer,1936,Gold,GER,Germany,Cornelius VAN OYEN,1936 Berlin,Shooting,Men's,25m rapid fire pistol
+Summer,1936,Silver,GER,Germany,Heinz HAX,1936 Berlin,Shooting,Men's,25m rapid fire pistol
+Summer,1936,Bronze,SWE,Sweden,Torsten ULLMAN,1936 Berlin,Shooting,Men's,25m rapid fire pistol
+Summer,1936,Gold,SWE,Sweden,Torsten ULLMAN,1936 Berlin,Shooting,Men's,50m pistol
+Summer,1936,Silver,GER,Germany,Erich KREMPEL,1936 Berlin,Shooting,Men's,50m pistol
+Summer,1936,Bronze,FRA,France,Charles Andre DES JAMMONIERES,1936 Berlin,Shooting,Men's,50m pistol
+Summer,1936,Gold,NOR,Norway,Willy RÖGEBERG,1936 Berlin,Shooting,Men's,50m rifle prone
+Summer,1936,Silver,HUN,Hungary,Ralph BERZSENYI,1936 Berlin,Shooting,Men's,50m rifle prone
+Summer,1936,Bronze,POL,Poland,Wladyslaw KARAS,1936 Berlin,Shooting,Men's,50m rifle prone
+Summer,1936,Gold,HUN,Hungary,Ferenc CSÍK,1936 Berlin,Swimming,Men's,100m freestyle
+Summer,1936,Silver,JPN,Japan,Masanori YUSA,1936 Berlin,Swimming,Men's,100m freestyle
+Summer,1936,Bronze,JPN,Japan,Shigeo ARAI,1936 Berlin,Swimming,Men's,100m freestyle
+Summer,1936,Gold,USA,United States,Jack MEDICA,1936 Berlin,Swimming,Men's,400m freestyle
+Summer,1936,Silver,JPN,Japan,Shunpei UTO,1936 Berlin,Swimming,Men's,400m freestyle
+Summer,1936,Bronze,JPN,Japan,Shozo MAKINO,1936 Berlin,Swimming,Men's,400m freestyle
+Summer,1936,Gold,JPN,Japan,Noboru TERADA,1936 Berlin,Swimming,Men's,1500m freestyle
+Summer,1936,Silver,USA,United States,Jack MEDICA,1936 Berlin,Swimming,Men's,1500m freestyle
+Summer,1936,Bronze,JPN,Japan,Shunpei UTO,1936 Berlin,Swimming,Men's,1500m freestyle
+Summer,1936,Gold,JPN,Japan,Tetsuo HAMURO,1936 Berlin,Swimming,Men's,200m breaststroke
+Summer,1936,Silver,GER,Germany,Erwin SIETAS,1936 Berlin,Swimming,Men's,200m breaststroke
+Summer,1936,Bronze,JPN,Japan,Reizo KOIKE,1936 Berlin,Swimming,Men's,200m breaststroke
+Summer,1936,Gold,USA,United States,Adolph KIEFER,1936 Berlin,Swimming,Men's,100m backstroke
+Summer,1936,Silver,USA,United States,Albert VANDEWEGHE,1936 Berlin,Swimming,Men's,100m backstroke
+Summer,1936,Bronze,JPN,Japan,Masaji KIYOKAWA,1936 Berlin,Swimming,Men's,100m backstroke
+Summer,1936,Gold,JPN,Japan,"Masaharu TAGUCHI, Shigeo ARAI, Shigeo SUGIURA, Masanori YUSA",1936 Berlin,Swimming,Men's,4x200m freestyle relay
+Summer,1936,Silver,USA,United States,"Ralph FLANAGAN, Paul WOLF, John MACIONIS, Jack MEDICA",1936 Berlin,Swimming,Men's,4x200m freestyle relay
+Summer,1936,Bronze,HUN,Hungary,"Árpád LENGYEL, Oszkár ABAY-NEMES, Ferenc CSÍK, Ödön GRÓF",1936 Berlin,Swimming,Men's,4x200m freestyle relay
+Summer,1936,Gold,NED,Netherlands,Hendrika MASTENBROEK,1936 Berlin,Swimming,Women's,100m freestyle
+Summer,1936,Silver,ARG,Argentina,Jeanette CAMPBELL,1936 Berlin,Swimming,Women's,100m freestyle
+Summer,1936,Bronze,GER,Germany,Gisela ARENDT,1936 Berlin,Swimming,Women's,100m freestyle
+Summer,1936,Gold,NED,Netherlands,Hendrika MASTENBROEK,1936 Berlin,Swimming,Women's,400m freestyle
+Summer,1936,Silver,DEN,Denmark,Ragnhild HVEGER,1936 Berlin,Swimming,Women's,400m freestyle
+Summer,1936,Bronze,USA,United States,Lenore KIGHT,1936 Berlin,Swimming,Women's,400m freestyle
+Summer,1936,Gold,JPN,Japan,Hideko MAEHATA,1936 Berlin,Swimming,Women's,200m breaststroke
+Summer,1936,Silver,GER,Germany,Martha GENENGER,1936 Berlin,Swimming,Women's,200m breaststroke
+Summer,1936,Bronze,DEN,Denmark,Inge SØRENSEN,1936 Berlin,Swimming,Women's,200m breaststroke
+Summer,1936,Gold,NED,Netherlands,Nida SENFF,1936 Berlin,Swimming,Women's,100m backstroke
+Summer,1936,Silver,NED,Netherlands,Hendrika MASTENBROEK,1936 Berlin,Swimming,Women's,100m backstroke
+Summer,1936,Bronze,USA,United States,Alice BRIDGES,1936 Berlin,Swimming,Women's,100m backstroke
+Summer,1936,Gold,NED,Netherlands,"Hendrika MASTENBROEK, Tini WAGNER, Jopie SELBACH, Willy DEN OUDEN",1936 Berlin,Swimming,Women's,4x100m freestyle relay
+Summer,1936,Silver,GER,Germany,"Leni LOHMAR, Ingeborg SCHMITZ, Gisela ARENDT, Ruth HALBSGUTH",1936 Berlin,Swimming,Women's,4x100m freestyle relay
+Summer,1936,Bronze,USA,United States,"Mavis FREEMAN, Olive MCKEAN, Katherine RAWLS, Bernice LAPP",1936 Berlin,Swimming,Women's,4x100m freestyle relay
+Summer,1936,Gold,HUN,Hungary,"Miklós SÁRKÁNY, Sándor TARICS, Kálmán HAZAI, Márton HOMONNAI, István MOLNÁR, Olivér HALASSY, György KUTASI, János NÉMETH, Mihály BOZSI, Jenö BRANDI, György BRÓDY",1936 Berlin,Water Polo,Men's,water polo
+Summer,1936,Silver,GER,Germany,"Heinrich KRUG, Alfred KIENZLE, Bernhard BAIER, Fritz STOLZE, Helmuth SCHWENN, Josef HAUSER, Hans SCHULZE, Gustav SCHÜRGER, Paul KLINGENBURG, Fritz GUNST, Hans SCHNEIDER",1936 Berlin,Water Polo,Men's,water polo
+Summer,1936,Bronze,BEL,Belgium,"Pierre COPPIETERS, Henri DE PAUW, Edmond MICHIELS, Fernand ISSELÉ, Joseph DE COMBE, Gérard BLITZ, Albert CASTELEYNS, Henri STOELEN, Henri DISY",1936 Berlin,Water Polo,Men's,water polo
+Summer,1936,Gold,USA,United States,Anthony TERLAZZO,1936 Berlin,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1936,Silver,EGY,Egypt,Saleh Mohamed SOLIMAN,1936 Berlin,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1936,Bronze,EGY,Egypt,Ibrahim SHAMS,1936 Berlin,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1936,Gold,AUT,Austria,Robert FEIN,1936 Berlin,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1936,Gold,EGY,Egypt,Mohammed MESBAH,1936 Berlin,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1936,Bronze,GER,Germany,Karl JANSEN,1936 Berlin,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1936,Gold,EGY,Egypt,Khadr El Sayed EL TOUNY,1936 Berlin,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1936,Silver,GER,Germany,Rudolf ISMAYR,1936 Berlin,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1936,Bronze,GER,Germany,Adolf WAGNER,1936 Berlin,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1936,Gold,FRA,France,Louis HOSTIN,1936 Berlin,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1936,Silver,GER,Germany,Eugen DEUTSCH,1936 Berlin,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1936,Bronze,EGY,Egypt,Ibrahim WASIF,1936 Berlin,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1936,Gold,GER,Germany,Josef MANGER,1936 Berlin,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1936,Silver,TCH,Czechoslovakia,Václav PSENICKA SR.,1936 Berlin,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1936,Bronze,EST,Estonia,Arnold LUHAÄÄR,1936 Berlin,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1936,Gold,HUN,Hungary,Ödön ZOMBORI,1936 Berlin,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1936,Silver,USA,United States,Ross FLOOD,1936 Berlin,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1936,Bronze,GER,Germany,Johannes HERBERT,1936 Berlin,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1936,Gold,FIN,Finland,Kustaa PIHLAJAMÄKI,1936 Berlin,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1936,Silver,USA,United States,Francis Edward MILLARD,1936 Berlin,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1936,Bronze,SWE,Sweden,Gösta FRÄNDFORS-JÖNSSON,1936 Berlin,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1936,Gold,HUN,Hungary,Károly KÁRPÁTI,1936 Berlin,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1936,Silver,GER,Germany,Wolfgang EHRL,1936 Berlin,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1936,Bronze,FIN,Finland,Hermanni PIHLAJAMÄKI,1936 Berlin,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1936,Gold,USA,United States,Frank LEWIS,1936 Berlin,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1936,Silver,SWE,Sweden,Thure ANDERSSON,1936 Berlin,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1936,Bronze,CAN,Canada,Joseph SCHLEIMER,1936 Berlin,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1936,Gold,FRA,France,Emile POILVE,1936 Berlin,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1936,Silver,USA,United States,Richard VOLIVA,1936 Berlin,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1936,Bronze,TUR,Turkey,Ahmet KIREÇÇI,1936 Berlin,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1936,Gold,SWE,Sweden,Knut FRIDELL,1936 Berlin,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1936,Silver,EST,Estonia,August NEO,1936 Berlin,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1936,Bronze,GER,Germany,Erich SIEBERT,1936 Berlin,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1936,Gold,EST,Estonia,Kristjan PALUSALU,1936 Berlin,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1936,Silver,TCH,Czechoslovakia,Josef KLAPUCH,1936 Berlin,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1936,Bronze,FIN,Finland,Hjalmar Eemil NYSTRÖM,1936 Berlin,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1936,Gold,HUN,Hungary,Marton LÖRINCZ,1936 Berlin,Wrestling Greco-Roman,Men's,- 56kg (bantamweight)
+Summer,1936,Silver,SWE,Sweden,Egon SVENSSON,1936 Berlin,Wrestling Greco-Roman,Men's,- 56kg (bantamweight)
+Summer,1936,Bronze,GER,Germany,Jakob BRENDEL,1936 Berlin,Wrestling Greco-Roman,Men's,- 56kg (bantamweight)
+Summer,1936,Gold,TUR,Turkey,Yasar ERKAN,1936 Berlin,Wrestling Greco-Roman,Men's,56 - 61kg (featherweight)
+Summer,1936,Silver,FIN,Finland,Aarne Eemeli REINI,1936 Berlin,Wrestling Greco-Roman,Men's,56 - 61kg (featherweight)
+Summer,1936,Bronze,SWE,Sweden,Einar KARLSSON,1936 Berlin,Wrestling Greco-Roman,Men's,56 - 61kg (featherweight)
+Summer,1936,Gold,FIN,Finland,Lauri KOSKELA,1936 Berlin,Wrestling Greco-Roman,Men's,61 - 66kg (lightweight)
+Summer,1936,Silver,TCH,Czechoslovakia,Josef HERDA,1936 Berlin,Wrestling Greco-Roman,Men's,61 - 66kg (lightweight)
+Summer,1936,Bronze,EST,Estonia,Voldemar VÄLI,1936 Berlin,Wrestling Greco-Roman,Men's,61 - 66kg (lightweight)
+Summer,1936,Gold,SWE,Sweden,Rudolf SVEDBERG,1936 Berlin,Wrestling Greco-Roman,Men's,66 - 72kg (welterweight)
+Summer,1936,Silver,GER,Germany,Fritz SCHÄFER,1936 Berlin,Wrestling Greco-Roman,Men's,66 - 72kg (welterweight)
+Summer,1936,Bronze,FIN,Finland,Eino Mauno VIRTANEN,1936 Berlin,Wrestling Greco-Roman,Men's,66 - 72kg (welterweight)
+Summer,1936,Gold,SWE,Sweden,Ivar JOHANSSON,1936 Berlin,Wrestling Greco-Roman,Men's,72 - 79kg (middleweight)
+Summer,1936,Silver,GER,Germany,Ludwig SCHWEICKERT,1936 Berlin,Wrestling Greco-Roman,Men's,72 - 79kg (middleweight)
+Summer,1936,Bronze,HUN,Hungary,József PALOTÁS,1936 Berlin,Wrestling Greco-Roman,Men's,72 - 79kg (middleweight)
+Summer,1936,Gold,SWE,Sweden,Axel CADIER,1936 Berlin,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1936,Silver,LAT,Latvia,Edwins BIETAGS,1936 Berlin,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1936,Bronze,EST,Estonia,August NEO,1936 Berlin,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1936,Gold,EST,Estonia,Kristjan PALUSALU,1936 Berlin,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1936,Silver,SWE,Sweden,John NYMAN,1936 Berlin,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1936,Bronze,GER,Germany,Kurt HORNFISCHER,1936 Berlin,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1936,Gold,ARG,Argentina,"Andrès GAZZOTTI, Roberto CAVANAGH, Manuel ANDRADA, Luis DUGGAN",1936 Berlin,Polo,Men's,polo
+Summer,1936,Silver,GBR,Great Britain,"William HINDE, David DAWNAY, Bryan FOWLER, Humphrey GUINNESS",1936 Berlin,Polo,Men's,polo
+Summer,1936,Bronze,MEX,Mexico,"Julio MULLER LUJAN, Alberto RAMOS SESMA, Juan GRACIA ZAZUETA, Antonio NAVA CASTILLO",1936 Berlin,Polo,Men's,polo

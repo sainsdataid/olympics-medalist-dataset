@@ -1,0 +1,112 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1976,Gold,AUT,Austria,Franz KLAMMER,1976 Innsbruck,Alpine Skiing,Men's,downhill
+Winter,1976,Silver,SUI,Switzerland,Bernhard RUSSI,1976 Innsbruck,Alpine Skiing,Men's,downhill
+Winter,1976,Bronze,ITA,Italy,Herbert PLANK,1976 Innsbruck,Alpine Skiing,Men's,downhill
+Winter,1976,Gold,ITA,Italy,Piero GROS,1976 Innsbruck,Alpine Skiing,Men's,slalom
+Winter,1976,Silver,ITA,Italy,Gustavo THÖNI,1976 Innsbruck,Alpine Skiing,Men's,slalom
+Winter,1976,Bronze,LIE,Liechtenstein,Willy FROMMELT,1976 Innsbruck,Alpine Skiing,Men's,slalom
+Winter,1976,Gold,SUI,Switzerland,Heini HEMMI,1976 Innsbruck,Alpine Skiing,Men's,giant slalom
+Winter,1976,Silver,SUI,Switzerland,Ernst GOOD,1976 Innsbruck,Alpine Skiing,Men's,giant slalom
+Winter,1976,Bronze,SWE,Sweden,Ingemar STENMARK,1976 Innsbruck,Alpine Skiing,Men's,giant slalom
+Winter,1976,Gold,FRG,Federal Republic of Germany,Rosi MITTERMAIER,1976 Innsbruck,Alpine Skiing,Women's,downhill
+Winter,1976,Silver,AUT,Austria,Brigitte TOTSCHNIG,1976 Innsbruck,Alpine Skiing,Women's,downhill
+Winter,1976,Bronze,USA,United States,Cynthia NELSON,1976 Innsbruck,Alpine Skiing,Women's,downhill
+Winter,1976,Gold,FRG,Federal Republic of Germany,Rosi MITTERMAIER,1976 Innsbruck,Alpine Skiing,Women's,slalom
+Winter,1976,Silver,ITA,Italy,Claudia GIORDANI,1976 Innsbruck,Alpine Skiing,Women's,slalom
+Winter,1976,Bronze,LIE,Liechtenstein,Hanni WENZEL,1976 Innsbruck,Alpine Skiing,Women's,slalom
+Winter,1976,Gold,CAN,Canada,Kathy KREINER,1976 Innsbruck,Alpine Skiing,Women's,giant slalom
+Winter,1976,Silver,FRG,Federal Republic of Germany,Rosi MITTERMAIER,1976 Innsbruck,Alpine Skiing,Women's,giant slalom
+Winter,1976,Bronze,FRA,France,Danièle DEBERNARD,1976 Innsbruck,Alpine Skiing,Women's,giant slalom
+Winter,1976,Gold,URS,USSR,Nikolay KRUGLOV,1976 Innsbruck,Biathlon,Men's,20km individual
+Winter,1976,Silver,FIN,Finland,Heikki IKOLA,1976 Innsbruck,Biathlon,Men's,20km individual
+Winter,1976,Bronze,URS,USSR,Aleksandr YELIZAROV,1976 Innsbruck,Biathlon,Men's,20km individual
+Winter,1976,Gold,URS,USSR,"Aleksandr YELIZAROV, Ivan BYAKOV, Nikolay KRUGLOV, Aleksandr TIKHONOV",1976 Innsbruck,Biathlon,Men's,4x7.5km relay
+Winter,1976,Silver,FIN,Finland,"Esko SAIRA, Heikki IKOLA, Henrik FLÖJT, Juhani SUUTARINEN",1976 Innsbruck,Biathlon,Men's,4x7.5km relay
+Winter,1976,Bronze,GDR,German Democratic Republic,"Frank ULLRICH, Manfred GEYER, Manfred BEER, Karl-Heinz MENZ",1976 Innsbruck,Biathlon,Men's,4x7.5km relay
+Winter,1976,Gold,GDR,German Democratic Republic,"Meinhard NEHMER, Bernhard GERMESHAUSEN",1976 Innsbruck,Bobsleigh,Men's,two-man
+Winter,1976,Silver,FRG,Federal Republic of Germany,"Wolfgang ZIMMERER, Manfred SCHUMANN",1976 Innsbruck,Bobsleigh,Men's,two-man
+Winter,1976,Bronze,SUI,Switzerland,"Erich SCHÄRER, Josef BENZ",1976 Innsbruck,Bobsleigh,Men's,two-man
+Winter,1976,Gold,GDR,German Democratic Republic,"Jochen BABOCK, Meinhard NEHMER, Bernhard GERMESHAUSEN, Bernhard LEHMANN",1976 Innsbruck,Bobsleigh,Men's,four-man
+Winter,1976,Silver,SUI,Switzerland,"Rudolf MARTI, Erich SCHÄRER, Ulrich BÄCHLI, Josef BENZ",1976 Innsbruck,Bobsleigh,Men's,four-man
+Winter,1976,Bronze,FRG,Federal Republic of Germany,"Bodo BITTNER, Manfred SCHUMANN, Peter UTZSCHNEIDER, Wolfgang ZIMMERER",1976 Innsbruck,Bobsleigh,Men's,four-man
+Winter,1976,Gold,URS,USSR,Nikolay BAZHUKOV,1976 Innsbruck,Cross Country Skiing,Men's,15km
+Winter,1976,Silver,URS,USSR,Yevgeny BELYAEV,1976 Innsbruck,Cross Country Skiing,Men's,15km
+Winter,1976,Bronze,FIN,Finland,Arto KOIVISTO,1976 Innsbruck,Cross Country Skiing,Men's,15km
+Winter,1976,Gold,NOR,Norway,Ivar FORMO,1976 Innsbruck,Cross Country Skiing,Men's,50km
+Winter,1976,Silver,GDR,German Democratic Republic,Gert-Dietmar KLAUSE,1976 Innsbruck,Cross Country Skiing,Men's,50km
+Winter,1976,Bronze,SWE,Sweden,Benny SÖDERGREN,1976 Innsbruck,Cross Country Skiing,Men's,50km
+Winter,1976,Gold,URS,USSR,Sergey SAVELYEV,1976 Innsbruck,Cross Country Skiing,Men's,30km
+Winter,1976,Silver,USA,United States,Bill KOCH,1976 Innsbruck,Cross Country Skiing,Men's,30km
+Winter,1976,Bronze,URS,USSR,Ivan GARANIN,1976 Innsbruck,Cross Country Skiing,Men's,30km
+Winter,1976,Gold,FIN,Finland,"Arto KOIVISTO, Juha MIETO, Matti PITKÄNEN, Pertti TEURAJÄRVI",1976 Innsbruck,Cross Country Skiing,Men's,4x10km relay
+Winter,1976,Silver,NOR,Norway,"Odd MARTINSEN, Ivar FORMO, Pål TYLDUM, Einar SAGSTUEN",1976 Innsbruck,Cross Country Skiing,Men's,4x10km relay
+Winter,1976,Bronze,URS,USSR,"Yevgeny BELYAEV, Ivan GARANIN, Sergey SAVELYEV, Nikolay BAZHUKOV",1976 Innsbruck,Cross Country Skiing,Men's,4x10km relay
+Winter,1976,Gold,FIN,Finland,Helena TAKALO,1976 Innsbruck,Cross Country Skiing,Women's,5km
+Winter,1976,Silver,URS,USSR,Raisa SMETANINA,1976 Innsbruck,Cross Country Skiing,Women's,5km
+Winter,1976,Bronze,URS,USSR,Nina BALDYCHEVA,1976 Innsbruck,Cross Country Skiing,Women's,5km
+Winter,1976,Gold,URS,USSR,Raisa SMETANINA,1976 Innsbruck,Cross Country Skiing,Women's,10km
+Winter,1976,Silver,FIN,Finland,Helena TAKALO,1976 Innsbruck,Cross Country Skiing,Women's,10km
+Winter,1976,Bronze,URS,USSR,Galina KULAKOVA,1976 Innsbruck,Cross Country Skiing,Women's,10km
+Winter,1976,Gold,URS,USSR,"Galina KULAKOVA, Raisa SMETANINA, Zinaida AMOSOVA, Nina BALDYCHEVA",1976 Innsbruck,Cross Country Skiing,Women's,4x5km relay
+Winter,1976,Silver,FIN,Finland,"Liisa SUIHKONEN, Hilkka KUNTOLA, Marjatta KAJOSMAA, Helena TAKALO",1976 Innsbruck,Cross Country Skiing,Women's,4x5km relay
+Winter,1976,Bronze,GDR,German Democratic Republic,"Sigrun KRAUSE, Barbara PETZOLD, Monika DEBERTSHÄUSER, Veronika HESSE",1976 Innsbruck,Cross Country Skiing,Women's,4x5km relay
+Winter,1976,Gold,GBR,Great Britain,John CURRY,1976 Innsbruck,Figure skating,Men's,individual
+Winter,1976,Silver,URS,USSR,Vladimir KOVALEV,1976 Innsbruck,Figure skating,Men's,individual
+Winter,1976,Bronze,CAN,Canada,Toller CRANSTON,1976 Innsbruck,Figure skating,Men's,individual
+Winter,1976,Gold,USA,United States,Dorothy HAMILL,1976 Innsbruck,Figure skating,Women's,individual
+Winter,1976,Silver,NED,Netherlands,Dianne DE LEEUW,1976 Innsbruck,Figure skating,Women's,individual
+Winter,1976,Bronze,GDR,German Democratic Republic,Christine ERRATH,1976 Innsbruck,Figure skating,Women's,individual
+Winter,1976,Gold,URS,USSR,"Aleksandr ZAYTSEV, Irina RODNINA",1976 Innsbruck,Figure skating,Mixed,pairs
+Winter,1976,Silver,GDR,German Democratic Republic,"Rolf ÖSTERREICH, Romy KERMER",1976 Innsbruck,Figure skating,Mixed,pairs
+Winter,1976,Bronze,GDR,German Democratic Republic,"Uwe KAGELMANN, Manuela GROß",1976 Innsbruck,Figure skating,Mixed,pairs
+Winter,1976,Gold,URS,USSR,"Lyudmila PAKHOMOVA, Aleksandr GORSHKOV",1976 Innsbruck,Figure skating,Mixed,ice dancing
+Winter,1976,Silver,URS,USSR,"Andrey MINENKOV, Irina MOISEYEVA",1976 Innsbruck,Figure skating,Mixed,ice dancing
+Winter,1976,Bronze,USA,United States,"Colleen O'CONNOR, James MILLNS",1976 Innsbruck,Figure skating,Mixed,ice dancing
+Winter,1976,Gold,URS,USSR,"Gennady TSYGANKOV, Aleksandr MALTSEV, Vladimir LUTCHENKO, Valery VASILYEV, Vladislav TRETYAK, Viktor ZHLUKTOV, Boris MIKHAYLOV, Vladimir PETROV, Aleksandr GUSEV, Valery KHARLAMOV, Sergey BABINOV, Aleksandr YAKUSHEV, Vladimir SHADRIN, Aleksandr SIDELNIKOV, Boris ALEKSANDROV, Viktor SHALIMOV, Sergey KAPUSTIN, Yury LYAPKIN",1976 Innsbruck,Ice Hockey,Men's,ice hockey
+Winter,1976,Silver,TCH,Czechoslovakia,"Jaroslav POUZAR, Jirí NOVÁK, Ivan HLINKA, Oldrich MACHAC, Bohuslav STASTNY, Jirí CRHA, Milan CHALUPA, Milan KAJKL, Eduard NOVAK, Pavel SVITANA, Jiri HOLIK, Vladimír MARTINEC, Jirí BUBLA, Bohuslav EBERMANN, Frantisek POSPISIL, Jiri HOLECEK, Milan NOVÝ, Josef AUGUSTA, Miroslav DVORAK",1976 Innsbruck,Ice Hockey,Men's,ice hockey
+Winter,1976,Bronze,FRG,Federal Republic of Germany,"Erich WEIßHAUPT, Walter KÖBERLE, Martin HINTERSTOCKER, Erich KÜHNHACKL, Alois SCHLODER, Klaus AUHUBER, Rudolf THANNER, Franz REINDL, Josef VÖLK, Udo KIEßLING, Ignaz BERNDANER, Ferenc VOZAR, Stefan METZ, Rainer PHILIPP, Wolfgang BOOS, Anton KEHLE, Ernst KÖPF, Lorenz FUNK",1976 Innsbruck,Ice Hockey,Men's,ice hockey
+Winter,1976,Gold,GDR,German Democratic Republic,Dettlef GÜNTHER,1976 Innsbruck,Luge,Men's,singles
+Winter,1976,Silver,FRG,Federal Republic of Germany,Josef FENDT,1976 Innsbruck,Luge,Men's,singles
+Winter,1976,Bronze,GDR,German Democratic Republic,Hans RINN,1976 Innsbruck,Luge,Men's,singles
+Winter,1976,Gold,GDR,German Democratic Republic,Margit SCHUMANN,1976 Innsbruck,Luge,Women's,singles
+Winter,1976,Silver,GDR,German Democratic Republic,Ute RÜHROLD,1976 Innsbruck,Luge,Women's,singles
+Winter,1976,Bronze,FRG,Federal Republic of Germany,Elisabeth DEMLEITNER,1976 Innsbruck,Luge,Women's,singles
+Winter,1976,Gold,GDR,German Democratic Republic,"Norbert HAHN, Hans RINN",1976 Innsbruck,Luge,Mixed,doubles
+Winter,1976,Silver,FRG,Federal Republic of Germany,"Balthasar SCHWARM, Hans BRANDNER",1976 Innsbruck,Luge,Mixed,doubles
+Winter,1976,Bronze,AUT,Austria,"Rudolf SCHMID, Franz SCHACHNER",1976 Innsbruck,Luge,Mixed,doubles
+Winter,1976,Gold,GDR,German Democratic Republic,Ulrich WEHLING,1976 Innsbruck,Nordic Combined,Men's,individual
+Winter,1976,Silver,FRG,Federal Republic of Germany,Urban HETTICH,1976 Innsbruck,Nordic Combined,Men's,individual
+Winter,1976,Bronze,GDR,German Democratic Republic,Konrad WINKLER,1976 Innsbruck,Nordic Combined,Men's,individual
+Winter,1976,Gold,GDR,German Democratic Republic,Hans-Georg ASCHENBACH,1976 Innsbruck,Ski Jumping,Men's,Normal Hill individual
+Winter,1976,Silver,GDR,German Democratic Republic,Jochen DANNEBERG,1976 Innsbruck,Ski Jumping,Men's,Normal Hill individual
+Winter,1976,Bronze,AUT,Austria,Karl SCHNABL,1976 Innsbruck,Ski Jumping,Men's,Normal Hill individual
+Winter,1976,Gold,AUT,Austria,Karl SCHNABL,1976 Innsbruck,Ski Jumping,Men's,Large Hill individual
+Winter,1976,Silver,AUT,Austria,Anton INAUER,1976 Innsbruck,Ski Jumping,Men's,Large Hill individual
+Winter,1976,Bronze,GDR,German Democratic Republic,Henry GLASS,1976 Innsbruck,Ski Jumping,Men's,Large Hill individual
+Winter,1976,Gold,URS,USSR,Yevgeny KULIKOV,1976 Innsbruck,Speed skating,Men's,500m
+Winter,1976,Silver,URS,USSR,Valery MURATOV,1976 Innsbruck,Speed skating,Men's,500m
+Winter,1976,Bronze,USA,United States,Daniel IMMERFALL,1976 Innsbruck,Speed skating,Men's,500m
+Winter,1976,Gold,USA,United States,Peter MUELLER,1976 Innsbruck,Speed skating,Men's,1000m
+Winter,1976,Silver,NOR,Norway,Jørn DIDRIKSEN,1976 Innsbruck,Speed skating,Men's,1000m
+Winter,1976,Bronze,URS,USSR,Valery MURATOV,1976 Innsbruck,Speed skating,Men's,1000m
+Winter,1976,Gold,NOR,Norway,Jan Egil STORHOLT,1976 Innsbruck,Speed skating,Men's,1500m
+Winter,1976,Silver,URS,USSR,Yury KONDAKOV,1976 Innsbruck,Speed skating,Men's,1500m
+Winter,1976,Bronze,NED,Netherlands,Hans VAN HELDEN,1976 Innsbruck,Speed skating,Men's,1500m
+Winter,1976,Gold,NOR,Norway,Sten STENSEN,1976 Innsbruck,Speed skating,Men's,5000m
+Winter,1976,Silver,NED,Netherlands,Piet KLEINE,1976 Innsbruck,Speed skating,Men's,5000m
+Winter,1976,Bronze,NED,Netherlands,Hans VAN HELDEN,1976 Innsbruck,Speed skating,Men's,5000m
+Winter,1976,Gold,NED,Netherlands,Piet KLEINE,1976 Innsbruck,Speed skating,Men's,10000m
+Winter,1976,Silver,NOR,Norway,Sten STENSEN,1976 Innsbruck,Speed skating,Men's,10000m
+Winter,1976,Bronze,NED,Netherlands,Hans VAN HELDEN,1976 Innsbruck,Speed skating,Men's,10000m
+Winter,1976,Gold,USA,United States,Sheila YOUNG,1976 Innsbruck,Speed skating,Women's,500m
+Winter,1976,Silver,CAN,Canada,Cathy PRIESTNER,1976 Innsbruck,Speed skating,Women's,500m
+Winter,1976,Bronze,URS,USSR,Tatyana AVERINA,1976 Innsbruck,Speed skating,Women's,500m
+Winter,1976,Gold,URS,USSR,Tatyana AVERINA,1976 Innsbruck,Speed skating,Women's,1000m
+Winter,1976,Silver,USA,United States,Leah POULOS-MUELLER,1976 Innsbruck,Speed skating,Women's,1000m
+Winter,1976,Bronze,USA,United States,Sheila YOUNG,1976 Innsbruck,Speed skating,Women's,1000m
+Winter,1976,Gold,URS,USSR,Galina STEPANSKAYA,1976 Innsbruck,Speed skating,Women's,1500m
+Winter,1976,Silver,USA,United States,Sheila YOUNG,1976 Innsbruck,Speed skating,Women's,1500m
+Winter,1976,Bronze,URS,USSR,Tatyana AVERINA,1976 Innsbruck,Speed skating,Women's,1500m
+Winter,1976,Gold,URS,USSR,Tatyana AVERINA,1976 Innsbruck,Speed skating,Women's,3000m
+Winter,1976,Silver,GDR,German Democratic Republic,Andrea MITSCHERLICH,1976 Innsbruck,Speed skating,Women's,3000m
+Winter,1976,Bronze,NOR,Norway,Lisbeth BERG,1976 Innsbruck,Speed skating,Women's,3000m

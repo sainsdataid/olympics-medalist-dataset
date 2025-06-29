@@ -1,0 +1,106 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1972,Gold,SUI,Switzerland,Bernhard RUSSI,1972 Sapporo,Alpine Skiing,Men's,downhill
+Winter,1972,Silver,SUI,Switzerland,Roland COLLOMBIN,1972 Sapporo,Alpine Skiing,Men's,downhill
+Winter,1972,Bronze,AUT,Austria,Heinrich MESSNER,1972 Sapporo,Alpine Skiing,Men's,downhill
+Winter,1972,Gold,ESP,Spain,Francisco FERNÁNDEZ OCHOA,1972 Sapporo,Alpine Skiing,Men's,slalom
+Winter,1972,Silver,ITA,Italy,Gustavo THÖNI,1972 Sapporo,Alpine Skiing,Men's,slalom
+Winter,1972,Bronze,ITA,Italy,Rolando THÖNI,1972 Sapporo,Alpine Skiing,Men's,slalom
+Winter,1972,Gold,ITA,Italy,Gustavo THÖNI,1972 Sapporo,Alpine Skiing,Men's,giant slalom
+Winter,1972,Silver,SUI,Switzerland,Edmund BRUGGMANN,1972 Sapporo,Alpine Skiing,Men's,giant slalom
+Winter,1972,Bronze,SUI,Switzerland,Werner MATTLE,1972 Sapporo,Alpine Skiing,Men's,giant slalom
+Winter,1972,Gold,SUI,Switzerland,Marie-Theres NADIG,1972 Sapporo,Alpine Skiing,Women's,downhill
+Winter,1972,Silver,AUT,Austria,Annemarie PRÖLL,1972 Sapporo,Alpine Skiing,Women's,downhill
+Winter,1972,Bronze,USA,United States,Susan CORROCK,1972 Sapporo,Alpine Skiing,Women's,downhill
+Winter,1972,Gold,USA,United States,Barbara COCHRAN,1972 Sapporo,Alpine Skiing,Women's,slalom
+Winter,1972,Silver,FRA,France,Danièle DEBERNARD,1972 Sapporo,Alpine Skiing,Women's,slalom
+Winter,1972,Bronze,FRA,France,Florence STEURER,1972 Sapporo,Alpine Skiing,Women's,slalom
+Winter,1972,Gold,SUI,Switzerland,Marie-Theres NADIG,1972 Sapporo,Alpine Skiing,Women's,giant slalom
+Winter,1972,Silver,AUT,Austria,Annemarie PRÖLL,1972 Sapporo,Alpine Skiing,Women's,giant slalom
+Winter,1972,Bronze,AUT,Austria,Wiltrud DREXEL,1972 Sapporo,Alpine Skiing,Women's,giant slalom
+Winter,1972,Gold,NOR,Norway,Magnar SOLBERG,1972 Sapporo,Biathlon,Men's,20km individual
+Winter,1972,Silver,GDR,German Democratic Republic,Hansjörg KNAUTHE,1972 Sapporo,Biathlon,Men's,20km individual
+Winter,1972,Bronze,SWE,Sweden,Lars-Göran ARWIDSON,1972 Sapporo,Biathlon,Men's,20km individual
+Winter,1972,Gold,URS,USSR,"Viktor MAMATOV, Rinnat SAFIN, Aleksandr TIKHONOV, Ivan BYAKOV",1972 Sapporo,Biathlon,Men's,4x7.5km relay
+Winter,1972,Silver,FIN,Finland,"Juhani SUUTARINEN, Mauri RÖPPÄNEN, Heikki IKOLA, Esko SAIRA",1972 Sapporo,Biathlon,Men's,4x7.5km relay
+Winter,1972,Bronze,GDR,German Democratic Republic,"Hansjörg KNAUTHE, Horst KOSCHKA, Joachim MEISCHNER, Dieter SPEER",1972 Sapporo,Biathlon,Men's,4x7.5km relay
+Winter,1972,Gold,FRG,Federal Republic of Germany,"Peter UTZSCHNEIDER, Wolfgang ZIMMERER",1972 Sapporo,Bobsleigh,Men's,two-man
+Winter,1972,Silver,FRG,Federal Republic of Germany,"Horst FLOTH, Pepi BADER",1972 Sapporo,Bobsleigh,Men's,two-man
+Winter,1972,Bronze,SUI,Switzerland,"Edy HUBACHER, Jean WICKI",1972 Sapporo,Bobsleigh,Men's,two-man
+Winter,1972,Gold,SUI,Switzerland,"Hans LEUTENEGGER, Edy HUBACHER, Jean WICKI, Werner CAMICHEL",1972 Sapporo,Bobsleigh,Men's,four-man
+Winter,1972,Silver,ITA,Italy,"Nevio DE ZORDO, Gianni BONICHON, Corrado DAL FABBRO, Adriano FRASSINELLI",1972 Sapporo,Bobsleigh,Men's,four-man
+Winter,1972,Bronze,FRG,Federal Republic of Germany,"Walter STEINBAUER, Peter UTZSCHNEIDER, Stefan GAISREITER, Wolfgang ZIMMERER",1972 Sapporo,Bobsleigh,Men's,four-man
+Winter,1972,Gold,SWE,Sweden,Sven-Åke LUNDBÄCK,1972 Sapporo,Cross Country Skiing,Men's,15km
+Winter,1972,Silver,URS,USSR,Fyodor SIMASHEV,1972 Sapporo,Cross Country Skiing,Men's,15km
+Winter,1972,Bronze,NOR,Norway,Ivar FORMO,1972 Sapporo,Cross Country Skiing,Men's,15km
+Winter,1972,Gold,URS,USSR,Vyacheslav VEDENIN,1972 Sapporo,Cross Country Skiing,Men's,30km
+Winter,1972,Silver,NOR,Norway,Pål TYLDUM,1972 Sapporo,Cross Country Skiing,Men's,30km
+Winter,1972,Bronze,NOR,Norway,Johs HARVIKEN,1972 Sapporo,Cross Country Skiing,Men's,30km
+Winter,1972,Gold,NOR,Norway,Pål TYLDUM,1972 Sapporo,Cross Country Skiing,Men's,50km
+Winter,1972,Silver,NOR,Norway,Magne MYRMO,1972 Sapporo,Cross Country Skiing,Men's,50km
+Winter,1972,Bronze,URS,USSR,Vyacheslav VEDENIN,1972 Sapporo,Cross Country Skiing,Men's,50km
+Winter,1972,Gold,URS,USSR,"Vladimir VORONKOV, Vyacheslav VEDENIN, Fyodor SIMASHEV, Yuri SKOBOV",1972 Sapporo,Cross Country Skiing,Men's,4x10km relay
+Winter,1972,Silver,NOR,Norway,"Oddvar BRÅ, Pål TYLDUM, Ivar FORMO, Johs HARVIKEN",1972 Sapporo,Cross Country Skiing,Men's,4x10km relay
+Winter,1972,Bronze,SUI,Switzerland,"Alois KÄLIN, Albert GIGER, Eduard HAUSER, Alfred KÄLIN",1972 Sapporo,Cross Country Skiing,Men's,4x10km relay
+Winter,1972,Gold,URS,USSR,Galina KULAKOVA,1972 Sapporo,Cross Country Skiing,Women's,5km
+Winter,1972,Silver,FIN,Finland,Marjatta KAJOSMAA,1972 Sapporo,Cross Country Skiing,Women's,5km
+Winter,1972,Bronze,TCH,Czechoslovakia,Helena SIKOLOVA,1972 Sapporo,Cross Country Skiing,Women's,5km
+Winter,1972,Gold,URS,USSR,Galina KULAKOVA,1972 Sapporo,Cross Country Skiing,Women's,10km
+Winter,1972,Silver,URS,USSR,Alevtina OLYUNINA,1972 Sapporo,Cross Country Skiing,Women's,10km
+Winter,1972,Bronze,FIN,Finland,Marjatta KAJOSMAA,1972 Sapporo,Cross Country Skiing,Women's,10km
+Winter,1972,Gold,URS,USSR,"Galina KULAKOVA, Alevtina OLYUNINA, Lyubov MUKHACHEVA",1972 Sapporo,Cross Country Skiing,Women's,3x5km relay
+Winter,1972,Silver,FIN,Finland,"Helena TAKALO, Hilkka KUNTOLA, Marjatta KAJOSMAA",1972 Sapporo,Cross Country Skiing,Women's,3x5km relay
+Winter,1972,Bronze,NOR,Norway,"Aslaug DAHL, Inger AUFLES, Berit MØRDRE-LAMMEDAL",1972 Sapporo,Cross Country Skiing,Women's,3x5km relay
+Winter,1972,Gold,TCH,Czechoslovakia,Ondrej NEPELA,1972 Sapporo,Figure skating,Men's,individual
+Winter,1972,Silver,URS,USSR,Sergey CHETVERUKHIN,1972 Sapporo,Figure skating,Men's,individual
+Winter,1972,Bronze,FRA,France,Patrick PERA,1972 Sapporo,Figure skating,Men's,individual
+Winter,1972,Gold,AUT,Austria,Beatrix SCHUBA,1972 Sapporo,Figure skating,Women's,individual
+Winter,1972,Silver,CAN,Canada,Karen MAGNUSSEN,1972 Sapporo,Figure skating,Women's,individual
+Winter,1972,Bronze,USA,United States,Janet LYNN,1972 Sapporo,Figure skating,Women's,individual
+Winter,1972,Gold,URS,USSR,"Irina RODNINA, Aleksey ULANOV",1972 Sapporo,Figure skating,Mixed,pairs
+Winter,1972,Silver,URS,USSR,"Andrey SURAYKIN, Lyudmila SMIRNOVA",1972 Sapporo,Figure skating,Mixed,pairs
+Winter,1972,Bronze,GDR,German Democratic Republic,"Uwe KAGELMANN, Manuela GROß",1972 Sapporo,Figure skating,Mixed,pairs
+Winter,1972,Gold,URS,USSR,"Anatoli FIRSOV, Aleksandr MALTSEV, Viktor KOUSKINE, Valery KHARLAMOV, Aleksandr RAGULIN, Igor ROMICHEVSKY, Evgeni ZIMIN, Boris MIKHAYLOV, Vladimir SHADRIN, Vladislav TRETYAK, Vladimir VIKULOV, Valery VASILYEV, Aleksandr PACHKOV, Vladimir LUTCHENKO, Vitali DAVIDOV, Aleksandr YAKUSHEV, Yuri BLINOV, Evgeni MISHAKOV, Vladimir PETROV, Gennady TSYGANKOV",1972 Sapporo,Ice Hockey,Men's,ice hockey
+Winter,1972,Silver,USA,United States,"Charles Erwin BROWN, Michael CURRAN, Robbie FTOREK, Kevin Joseph AHEARN, Stuart IRVING, Walter OLDS, Mark HOWE, Peter SEARS, Ronald NÄSLUND, Richard MCGLYNN, James MCELMURY, Keith CHRISTIANSEN, Jeffrey HYMANSON, Franklynn SANDERS, Timothy SHEEHY, Henry BOUCHA, Thomas MELLOR, Craig SARNER",1972 Sapporo,Ice Hockey,Men's,ice hockey
+Winter,1972,Bronze,TCH,Czechoslovakia,"Jiri HOLECEK, Jiri KOCHTA, Vladimir BEDNAR, Rudolf TAJCNAR, Karel VOHRALIK, Vladimir DZURILLA, Vladimír MARTINEC, Bohuslav STASTNY, Josef CERNY, Vaclav NEDOMANSKY, Jiri HOLIK, Richard FARDA, Josef HORESOVSKY, Eduard NOVAK, Frantisek POSPISIL, Oldrich MACHAC, Jaroslav HOLIK, Ivan HLINKA",1972 Sapporo,Ice Hockey,Men's,ice hockey
+Winter,1972,Gold,GDR,German Democratic Republic,Wolfgang SCHEIDEL,1972 Sapporo,Luge,Men's,singles
+Winter,1972,Silver,GDR,German Democratic Republic,Harald EHRIG,1972 Sapporo,Luge,Men's,singles
+Winter,1972,Bronze,GDR,German Democratic Republic,Wolfram FIEDLER,1972 Sapporo,Luge,Men's,singles
+Winter,1972,Gold,GDR,German Democratic Republic,Anna-Maria MÜLLER,1972 Sapporo,Luge,Women's,singles
+Winter,1972,Silver,GDR,German Democratic Republic,Ute RÜHROLD,1972 Sapporo,Luge,Women's,singles
+Winter,1972,Bronze,GDR,German Democratic Republic,Margit SCHUMANN,1972 Sapporo,Luge,Women's,singles
+Winter,1972,Gold,GDR,German Democratic Republic,"Horst HÖRNLEIN, Reinhard BREDOW",1972 Sapporo,Luge,Mixed,doubles
+Winter,1972,Gold,ITA,Italy,"Walter PLAIKNER, Paul HILDGARTNER",1972 Sapporo,Luge,Mixed,doubles
+Winter,1972,Bronze,GDR,German Democratic Republic,"Wolfram FIEDLER, Klaus-Michael BONSACK",1972 Sapporo,Luge,Mixed,doubles
+Winter,1972,Gold,GDR,German Democratic Republic,Ulrich WEHLING,1972 Sapporo,Nordic Combined,Men's,individual
+Winter,1972,Silver,FIN,Finland,Rauno MIETTINEN,1972 Sapporo,Nordic Combined,Men's,individual
+Winter,1972,Bronze,GDR,German Democratic Republic,Karl-Heinz LUCK,1972 Sapporo,Nordic Combined,Men's,individual
+Winter,1972,Gold,JPN,Japan,Yukio KASAYA,1972 Sapporo,Ski Jumping,Men's,Normal Hill individual
+Winter,1972,Silver,JPN,Japan,Akitsugu KONNO,1972 Sapporo,Ski Jumping,Men's,Normal Hill individual
+Winter,1972,Bronze,JPN,Japan,Seiji AOCHI,1972 Sapporo,Ski Jumping,Men's,Normal Hill individual
+Winter,1972,Gold,POL,Poland,Wojciech FORTUNA,1972 Sapporo,Ski Jumping,Men's,Large Hill individual
+Winter,1972,Silver,SUI,Switzerland,Walter STEINER,1972 Sapporo,Ski Jumping,Men's,Large Hill individual
+Winter,1972,Bronze,GDR,German Democratic Republic,Rainer SCHMIDT,1972 Sapporo,Ski Jumping,Men's,Large Hill individual
+Winter,1972,Gold,FRG,Federal Republic of Germany,Erhard KELLER,1972 Sapporo,Speed skating,Men's,500m
+Winter,1972,Silver,SWE,Sweden,Hasse BÖRJES,1972 Sapporo,Speed skating,Men's,500m
+Winter,1972,Bronze,URS,USSR,Valery MURATOV,1972 Sapporo,Speed skating,Men's,500m
+Winter,1972,Gold,NED,Netherlands,Ard SCHENK,1972 Sapporo,Speed skating,Men's,1500m
+Winter,1972,Silver,NOR,Norway,Roar GRØNVOLD,1972 Sapporo,Speed skating,Men's,1500m
+Winter,1972,Bronze,SWE,Sweden,Göran CLAESON,1972 Sapporo,Speed skating,Men's,1500m
+Winter,1972,Gold,NED,Netherlands,Ard SCHENK,1972 Sapporo,Speed skating,Men's,5000m
+Winter,1972,Silver,NOR,Norway,Roar GRØNVOLD,1972 Sapporo,Speed skating,Men's,5000m
+Winter,1972,Bronze,NOR,Norway,Sten STENSEN,1972 Sapporo,Speed skating,Men's,5000m
+Winter,1972,Gold,NED,Netherlands,Ard SCHENK,1972 Sapporo,Speed skating,Men's,10000m
+Winter,1972,Silver,NED,Netherlands,Kees VERKERK,1972 Sapporo,Speed skating,Men's,10000m
+Winter,1972,Bronze,NOR,Norway,Sten STENSEN,1972 Sapporo,Speed skating,Men's,10000m
+Winter,1972,Gold,USA,United States,Anne HENNING,1972 Sapporo,Speed skating,Women's,500m
+Winter,1972,Silver,URS,USSR,Vera KRASNOVA,1972 Sapporo,Speed skating,Women's,500m
+Winter,1972,Bronze,URS,USSR,Lyudmila TITOVA,1972 Sapporo,Speed skating,Women's,500m
+Winter,1972,Gold,FRG,Federal Republic of Germany,Monika PFLUG,1972 Sapporo,Speed skating,Women's,1000m
+Winter,1972,Silver,NED,Netherlands,Atje KEULEN-DEELSTRA,1972 Sapporo,Speed skating,Women's,1000m
+Winter,1972,Bronze,USA,United States,Anne HENNING,1972 Sapporo,Speed skating,Women's,1000m
+Winter,1972,Gold,USA,United States,Dianne HOLUM,1972 Sapporo,Speed skating,Women's,1500m
+Winter,1972,Silver,NED,Netherlands,Stien BAAS-KAISER,1972 Sapporo,Speed skating,Women's,1500m
+Winter,1972,Bronze,NED,Netherlands,Atje KEULEN-DEELSTRA,1972 Sapporo,Speed skating,Women's,1500m
+Winter,1972,Gold,NED,Netherlands,Stien BAAS-KAISER,1972 Sapporo,Speed skating,Women's,3000m
+Winter,1972,Silver,USA,United States,Dianne HOLUM,1972 Sapporo,Speed skating,Women's,3000m
+Winter,1972,Bronze,NED,Netherlands,Atje KEULEN-DEELSTRA,1972 Sapporo,Speed skating,Women's,3000m

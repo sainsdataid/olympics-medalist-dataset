@@ -1,0 +1,740 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1988,Gold,USA,United States,Jay BARRS,1988 Seoul,Archery,Men's,individual FITA round
+Summer,1988,Silver,KOR,Korea Republic,Sung-Soo PARK,1988 Seoul,Archery,Men's,individual FITA round
+Summer,1988,Bronze,URS,USSR,Vladimir ESHEEV,1988 Seoul,Archery,Men's,individual FITA round
+Summer,1988,Gold,KOR,Korea Republic,"Han-Sup LEE, In-Soo CHUN, Sung-Soo PARK",1988 Seoul,Archery,Men's,teams FITA round
+Summer,1988,Silver,USA,United States,"Jay BARRS, Darrell Owen PACE, Richard Lee MCKINNEY",1988 Seoul,Archery,Men's,teams FITA round
+Summer,1988,Bronze,GBR,Great Britain,"Richard John PRIESTMAN, Steven HALLARD, Leroy WATSON",1988 Seoul,Archery,Men's,teams FITA round
+Summer,1988,Gold,KOR,Korea Republic,Soo-Nyung KIM,1988 Seoul,Archery,Women's,individual FITA round
+Summer,1988,Silver,KOR,Korea Republic,Hee-Kyung WANG,1988 Seoul,Archery,Women's,individual FITA round
+Summer,1988,Bronze,KOR,Korea Republic,Young-Sook YUN,1988 Seoul,Archery,Women's,individual FITA round
+Summer,1988,Gold,KOR,Korea Republic,"Hee-Kyung WANG, Soo-Nyung KIM, Young-Sook YUN",1988 Seoul,Archery,Women's,teams FITA round
+Summer,1988,Silver,INA,Indonesia,"Lilies HANDAYANI, Kusuma WARDHANI, Nurfitriyana SAIMAN",1988 Seoul,Archery,Women's,teams FITA round
+Summer,1988,Bronze,USA,United States,"Denise PARKER, Deborah Lynn OCHS, Melanie Soltysik SKILLMAN",1988 Seoul,Archery,Women's,teams FITA round
+Summer,1988,Gold,CAN,Canada,Carolyn WALDO,1988 Seoul,Artistic Swimming,Women's,solo
+Summer,1988,Silver,USA,United States,Tracie Lehuanani RUIZ-CONFORTO,1988 Seoul,Artistic Swimming,Women's,solo
+Summer,1988,Bronze,JPN,Japan,Mikako KOTANI,1988 Seoul,Artistic Swimming,Women's,solo
+Summer,1988,Gold,CAN,Canada,"Michelle CAMERON, Carolyn WALDO",1988 Seoul,Artistic Swimming,Women's,duet
+Summer,1988,Silver,USA,United States,"Sarah JOSEPHSON, Karen JOSEPHSON",1988 Seoul,Artistic Swimming,Women's,duet
+Summer,1988,Bronze,JPN,Japan,"Miyako TANAKA, Mikako KOTANI",1988 Seoul,Artistic Swimming,Women's,duet
+Summer,1988,Gold,USA,United States,Carl LEWIS,1988 Seoul,Athletics,Men's,100m
+Summer,1988,Silver,GBR,Great Britain,Linford CHRISTIE,1988 Seoul,Athletics,Men's,100m
+Summer,1988,Bronze,USA,United States,Calvin SMITH,1988 Seoul,Athletics,Men's,100m
+Summer,1988,Gold,USA,United States,Joseph Nathaniel Jr. DELOACH,1988 Seoul,Athletics,Men's,200m
+Summer,1988,Silver,USA,United States,Carl LEWIS,1988 Seoul,Athletics,Men's,200m
+Summer,1988,Bronze,BRA,Brazil,Robson DA SILVA,1988 Seoul,Athletics,Men's,200m
+Summer,1988,Gold,USA,United States,Steve LEWIS,1988 Seoul,Athletics,Men's,400m
+Summer,1988,Silver,USA,United States,Harry Butch REYNOLDS,1988 Seoul,Athletics,Men's,400m
+Summer,1988,Bronze,USA,United States,Daniel EVERETT,1988 Seoul,Athletics,Men's,400m
+Summer,1988,Gold,KEN,Kenya,Paul ERENG,1988 Seoul,Athletics,Men's,800m
+Summer,1988,Silver,BRA,Brazil,Joaquim CRUZ,1988 Seoul,Athletics,Men's,800m
+Summer,1988,Bronze,MAR,Morocco,Said AOUITA,1988 Seoul,Athletics,Men's,800m
+Summer,1988,Gold,KEN,Kenya,Peter RONO,1988 Seoul,Athletics,Men's,1500m
+Summer,1988,Silver,GBR,Great Britain,Peter ELLIOTT,1988 Seoul,Athletics,Men's,1500m
+Summer,1988,Bronze,GDR,German Democratic Republic,Jens-Peter HEROLD,1988 Seoul,Athletics,Men's,1500m
+Summer,1988,Gold,KEN,Kenya,John NGUGI,1988 Seoul,Athletics,Men's,5000m
+Summer,1988,Silver,FRG,Federal Republic of Germany,Dieter BAUMANN,1988 Seoul,Athletics,Men's,5000m
+Summer,1988,Bronze,GDR,German Democratic Republic,Hansjörg KUNZE,1988 Seoul,Athletics,Men's,5000m
+Summer,1988,Gold,MAR,Morocco,Moulay Brahim BOUTAYEB,1988 Seoul,Athletics,Men's,10000m
+Summer,1988,Silver,ITA,Italy,Salvatore ANTIBO,1988 Seoul,Athletics,Men's,10000m
+Summer,1988,Bronze,KEN,Kenya,Kipkemboi KIMELI,1988 Seoul,Athletics,Men's,10000m
+Summer,1988,Gold,ITA,Italy,Gelindo BORDIN,1988 Seoul,Athletics,Men's,marathon
+Summer,1988,Silver,KEN,Kenya,Douglas WAKIIHURI,1988 Seoul,Athletics,Men's,marathon
+Summer,1988,Bronze,DJI,Djibouti,Hussein AHMED SALAH,1988 Seoul,Athletics,Men's,marathon
+Summer,1988,Gold,USA,United States,Roger KINGDOM,1988 Seoul,Athletics,Men's,110m hurdles
+Summer,1988,Silver,GBR,Great Britain,Colin JACKSON,1988 Seoul,Athletics,Men's,110m hurdles
+Summer,1988,Bronze,USA,United States,Anthony Eugene CAMPBELL,1988 Seoul,Athletics,Men's,110m hurdles
+Summer,1988,Gold,USA,United States,Andre Lamar PHILLIPS,1988 Seoul,Athletics,Men's,400m hurdles
+Summer,1988,Silver,SEN,Senegal,El Hadji Amadou DIA BA,1988 Seoul,Athletics,Men's,400m hurdles
+Summer,1988,Bronze,USA,United States,Edwin MOSES,1988 Seoul,Athletics,Men's,400m hurdles
+Summer,1988,Gold,KEN,Kenya,Julius KARIUKI,1988 Seoul,Athletics,Men's,3000m steeplechase
+Summer,1988,Silver,KEN,Kenya,Peter KOECH,1988 Seoul,Athletics,Men's,3000m steeplechase
+Summer,1988,Bronze,GBR,Great Britain,Mark Robert ROWLAND,1988 Seoul,Athletics,Men's,3000m steeplechase
+Summer,1988,Gold,URS,USSR,"Viktor BRYZGIN, Vladimir MURAVYOV, Vladimir KRYLOV, Vitaly SAVIN",1988 Seoul,Athletics,Men's,4x100m relay
+Summer,1988,Silver,GBR,Great Britain,"Michael MC FARLANE, Elliot John BUNNEY, Linford CHRISTIE, John Paul Lyndon REGIS",1988 Seoul,Athletics,Men's,4x100m relay
+Summer,1988,Bronze,FRA,France,"Bruno MARIE-ROSE, Gilles QUENEHERVE, Daniel SANGOUMA, Max MORINIERE",1988 Seoul,Athletics,Men's,4x100m relay
+Summer,1988,Gold,USA,United States,"Daniel EVERETT, Kevin Bernard ROBINZINE, Steve LEWIS, Harry Butch REYNOLDS",1988 Seoul,Athletics,Men's,4x400m relay
+Summer,1988,Silver,JAM,Jamaica,"Howard DAVIS, Winthrop GRAHAM, Devon MORRIS, Bertland CAMERON",1988 Seoul,Athletics,Men's,4x400m relay
+Summer,1988,Bronze,FRG,Federal Republic of Germany,"Jörg VAIHINGER, Norbert DOBELEIT, Ralf LUBKE, Edgar ITT",1988 Seoul,Athletics,Men's,4x400m relay
+Summer,1988,Gold,TCH,Czechoslovakia,Jozef PRIBILINEC,1988 Seoul,Athletics,Men's,20km walk
+Summer,1988,Silver,GDR,German Democratic Republic,Ronald WEIGEL,1988 Seoul,Athletics,Men's,20km walk
+Summer,1988,Bronze,ITA,Italy,Maurizio DAMILANO,1988 Seoul,Athletics,Men's,20km walk
+Summer,1988,Gold,URS,USSR,Vyacheslav IVANENKO,1988 Seoul,Athletics,Men's,50km walk
+Summer,1988,Silver,GDR,German Democratic Republic,Ronald WEIGEL,1988 Seoul,Athletics,Men's,50km walk
+Summer,1988,Bronze,GDR,German Democratic Republic,Hartwig GAUDER,1988 Seoul,Athletics,Men's,50km walk
+Summer,1988,Gold,USA,United States,Carl LEWIS,1988 Seoul,Athletics,Men's,long jump
+Summer,1988,Silver,USA,United States,Michael Anthony POWELL,1988 Seoul,Athletics,Men's,long jump
+Summer,1988,Bronze,USA,United States,Lawrence Ellwyne MYRICKS,1988 Seoul,Athletics,Men's,long jump
+Summer,1988,Gold,BUL,Bulgaria,Kristo Gantchev MARKOV,1988 Seoul,Athletics,Men's,triple jump
+Summer,1988,Silver,URS,USSR,Igor LAPSHIN,1988 Seoul,Athletics,Men's,triple jump
+Summer,1988,Bronze,URS,USSR,Alexandre KOVALENKO,1988 Seoul,Athletics,Men's,triple jump
+Summer,1988,Gold,URS,USSR,Gennadi AVDEENKO,1988 Seoul,Athletics,Men's,high jump
+Summer,1988,Silver,USA,United States,Hollis CONWAY,1988 Seoul,Athletics,Men's,high jump
+Summer,1988,Bronze,SWE,Sweden,Patrick SJÖBERG,1988 Seoul,Athletics,Men's,high jump
+Summer,1988,Bronze,URS,USSR,Rudolf POVARNITSIN,1988 Seoul,Athletics,Men's,high jump
+Summer,1988,Gold,URS,USSR,Sergey BUBKA,1988 Seoul,Athletics,Men's,pole vault
+Summer,1988,Silver,URS,USSR,Rodion GATAULLIN,1988 Seoul,Athletics,Men's,pole vault
+Summer,1988,Bronze,URS,USSR,Grigori EGOROV,1988 Seoul,Athletics,Men's,pole vault
+Summer,1988,Gold,GDR,German Democratic Republic,Jürgen SCHULT,1988 Seoul,Athletics,Men's,discus throw
+Summer,1988,Silver,URS,USSR,Romas UBARTAS,1988 Seoul,Athletics,Men's,discus throw
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Rolf DANNEBERG,1988 Seoul,Athletics,Men's,discus throw
+Summer,1988,Gold,FIN,Finland,Tapio KORJUS,1988 Seoul,Athletics,Men's,javelin throw
+Summer,1988,Silver,TCH,Czechoslovakia,Jan ZELEZNY,1988 Seoul,Athletics,Men's,javelin throw
+Summer,1988,Bronze,FIN,Finland,Seppo Henrik RATY,1988 Seoul,Athletics,Men's,javelin throw
+Summer,1988,Gold,URS,USSR,Sergei LITVINOV,1988 Seoul,Athletics,Men's,hammer throw
+Summer,1988,Silver,URS,USSR,Yuri SEDYKH,1988 Seoul,Athletics,Men's,hammer throw
+Summer,1988,Bronze,URS,USSR,Yuri TAMM,1988 Seoul,Athletics,Men's,hammer throw
+Summer,1988,Gold,GDR,German Democratic Republic,Ulf TIMMERMANN,1988 Seoul,Athletics,Men's,shot put
+Summer,1988,Silver,USA,United States,Eric Randolph BARNES,1988 Seoul,Athletics,Men's,shot put
+Summer,1988,Bronze,SUI,Switzerland,Werner GÜNTHÖR,1988 Seoul,Athletics,Men's,shot put
+Summer,1988,Gold,GDR,German Democratic Republic,Christian SCHENK,1988 Seoul,Athletics,Men's,decathlon
+Summer,1988,Silver,GDR,German Democratic Republic,Torsten VOSS,1988 Seoul,Athletics,Men's,decathlon
+Summer,1988,Bronze,CAN,Canada,David STEEN,1988 Seoul,Athletics,Men's,decathlon
+Summer,1988,Gold,USA,United States,Florence GRIFFITH-JOYNER,1988 Seoul,Athletics,Women's,100m
+Summer,1988,Silver,USA,United States,Evelyn ASHFORD,1988 Seoul,Athletics,Women's,100m
+Summer,1988,Bronze,GDR,German Democratic Republic,Heike DRECHSLER,1988 Seoul,Athletics,Women's,100m
+Summer,1988,Gold,USA,United States,Florence GRIFFITH-JOYNER,1988 Seoul,Athletics,Women's,200m
+Summer,1988,Silver,JAM,Jamaica,Grace JACKSON SMALL,1988 Seoul,Athletics,Women's,200m
+Summer,1988,Bronze,GDR,German Democratic Republic,Heike DRECHSLER,1988 Seoul,Athletics,Women's,200m
+Summer,1988,Gold,URS,USSR,Olga BRYZGINA,1988 Seoul,Athletics,Women's,400m
+Summer,1988,Silver,GDR,German Democratic Republic,Petra MÜLLER,1988 Seoul,Athletics,Women's,400m
+Summer,1988,Bronze,URS,USSR,Olga NAZAROVA,1988 Seoul,Athletics,Women's,400m
+Summer,1988,Gold,GDR,German Democratic Republic,Sigrun WODARS,1988 Seoul,Athletics,Women's,800m
+Summer,1988,Silver,GDR,German Democratic Republic,Christine WACHTEL,1988 Seoul,Athletics,Women's,800m
+Summer,1988,Bronze,USA,United States,Kimberley Ann GALLAGHER,1988 Seoul,Athletics,Women's,800m
+Summer,1988,Gold,ROU,Romania,Paula IVAN,1988 Seoul,Athletics,Women's,1500m
+Summer,1988,Silver,URS,USSR,Lailute BAIKAUSKAITE,1988 Seoul,Athletics,Women's,1500m
+Summer,1988,Bronze,URS,USSR,Tatyana SAMOLENKO-DOROVSKIKH,1988 Seoul,Athletics,Women's,1500m
+Summer,1988,Gold,URS,USSR,Tatyana SAMOLENKO-DOROVSKIKH,1988 Seoul,Athletics,Women's,3000m
+Summer,1988,Silver,ROU,Romania,Paula IVAN,1988 Seoul,Athletics,Women's,3000m
+Summer,1988,Bronze,GBR,Great Britain,Yvonne MURRAY,1988 Seoul,Athletics,Women's,3000m
+Summer,1988,Gold,URS,USSR,Olga BONDARENKO,1988 Seoul,Athletics,Women's,10000m
+Summer,1988,Silver,GBR,Great Britain,Elizabeth MCCOLGAN-LYNCH,1988 Seoul,Athletics,Women's,10000m
+Summer,1988,Bronze,URS,USSR,Elena ZHUPEEVA,1988 Seoul,Athletics,Women's,10000m
+Summer,1988,Gold,POR,Portugal,Rosa MOTA,1988 Seoul,Athletics,Women's,marathon
+Summer,1988,Silver,AUS,Australia,Lisa MARTIN-ONDIEKI-O'DEA,1988 Seoul,Athletics,Women's,marathon
+Summer,1988,Bronze,GDR,German Democratic Republic,Katrin DÖRRE,1988 Seoul,Athletics,Women's,marathon
+Summer,1988,Gold,BUL,Bulgaria,Yordanka DONKOVA,1988 Seoul,Athletics,Women's,100m hurdles
+Summer,1988,Silver,GDR,German Democratic Republic,Gloria SIEBERT,1988 Seoul,Athletics,Women's,100m hurdles
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Claudia ZACZKIEWICZ-REIDICK,1988 Seoul,Athletics,Women's,100m hurdles
+Summer,1988,Gold,AUS,Australia,Deborah FLINTOFF-KING,1988 Seoul,Athletics,Women's,400m hurdles
+Summer,1988,Silver,URS,USSR,Tatiana LEDOVSKAYA,1988 Seoul,Athletics,Women's,400m hurdles
+Summer,1988,Bronze,GDR,German Democratic Republic,Ellen FIEDLER,1988 Seoul,Athletics,Women's,400m hurdles
+Summer,1988,Gold,USA,United States,"Sheila ECHOLS, Evelyn ASHFORD, Alice Regina BROWN, Florence GRIFFITH-JOYNER",1988 Seoul,Athletics,Women's,4x100m relay
+Summer,1988,Silver,GDR,German Democratic Republic,"Marlies OELSNER-GÖHR, Kerstin BEHRENDT, Ingrid AUERSWALD-LANGE, Silke MÖLLER",1988 Seoul,Athletics,Women's,4x100m relay
+Summer,1988,Bronze,URS,USSR,"Galina MALCHUGINA, Natalya VORONOVA, Liudmila KONDRATIEVA, Marina ZHIROVA",1988 Seoul,Athletics,Women's,4x100m relay
+Summer,1988,Gold,URS,USSR,"Olga NAZAROVA, Olga BRYZGINA, Tatiana LEDOVSKAYA, Mariya PINIGINA",1988 Seoul,Athletics,Women's,4x400m relay
+Summer,1988,Silver,USA,United States,"Florence GRIFFITH-JOYNER, Diane Lynn DIXON, Valerie Ann BRISCO-HOOKS, Denean Elizabeth HOWARD-HILL",1988 Seoul,Athletics,Women's,4x400m relay
+Summer,1988,Bronze,GDR,German Democratic Republic,"Kirsten EMMELMANN, Petra MÜLLER, Dagmar NEUBAUER, Sabine BUSCH",1988 Seoul,Athletics,Women's,4x400m relay
+Summer,1988,Gold,USA,United States,Jackie JOYNER-KERSEE,1988 Seoul,Athletics,Women's,long jump
+Summer,1988,Silver,GDR,German Democratic Republic,Heike DRECHSLER,1988 Seoul,Athletics,Women's,long jump
+Summer,1988,Bronze,URS,USSR,Galina CHISTYAKOVA,1988 Seoul,Athletics,Women's,long jump
+Summer,1988,Gold,USA,United States,Dorothy Louise RITTER,1988 Seoul,Athletics,Women's,high jump
+Summer,1988,Silver,BUL,Bulgaria,Stefka KOSTADINOVA,1988 Seoul,Athletics,Women's,high jump
+Summer,1988,Bronze,URS,USSR,Tamara BYKOVA,1988 Seoul,Athletics,Women's,high jump
+Summer,1988,Gold,GDR,German Democratic Republic,Martina HELLMANN,1988 Seoul,Athletics,Women's,discus throw
+Summer,1988,Silver,GDR,German Democratic Republic,Diana GANSKY,1988 Seoul,Athletics,Women's,discus throw
+Summer,1988,Bronze,BUL,Bulgaria,Tzvetanka Pavlova KHRISTOVA,1988 Seoul,Athletics,Women's,discus throw
+Summer,1988,Gold,GDR,German Democratic Republic,Petra FELKE-MEIER,1988 Seoul,Athletics,Women's,javelin throw
+Summer,1988,Silver,GBR,Great Britain,Fatima WHITBREAD,1988 Seoul,Athletics,Women's,javelin throw
+Summer,1988,Bronze,GDR,German Democratic Republic,Beate KOCH,1988 Seoul,Athletics,Women's,javelin throw
+Summer,1988,Gold,URS,USSR,Natalya LISOVSKAYA,1988 Seoul,Athletics,Women's,shot put
+Summer,1988,Silver,GDR,German Democratic Republic,Kathrin NEIMKE,1988 Seoul,Athletics,Women's,shot put
+Summer,1988,Bronze,CHN,China,Mei-Su LI,1988 Seoul,Athletics,Women's,shot put
+Summer,1988,Gold,USA,United States,Jackie JOYNER-KERSEE,1988 Seoul,Athletics,Women's,heptathlon
+Summer,1988,Silver,GDR,German Democratic Republic,Sabine JOHN,1988 Seoul,Athletics,Women's,heptathlon
+Summer,1988,Bronze,GDR,German Democratic Republic,Anke BEHMER,1988 Seoul,Athletics,Women's,heptathlon
+Summer,1988,Gold,URS,USSR,"Igors Miglinieks, Rimas Kurtinaitis, Viktor Pankrashkin, Aleksandr Belostennyi, Aleksandr Volkov, Sergei Tarakanov, Valeri Tikhonenko, Arvydas Sabonis, Valdemaras Chomičius, Valeri Goborov, Tiit Sokk, Šarūnas Marčiulionis",1988 Seoul,Basketball,Men's,basketball
+Summer,1988,Silver,YUG,Yugoslavia,"Drazen PETROVIC, Zoran CUTURA, Stojan VRANKOVIC, Franjo ARAPOVIC, Danko CVJETICANIN, Zarko PASPALJ, Zdravko RADULOVIC, Juri ZDOVC, Vladimir DIVAC, Dino RADJA, Toni KUKOC, Zeljko OBRADOVIC",1988 Seoul,Basketball,Men's,basketball
+Summer,1988,Bronze,USA,United States,"Mitchell J. RICHMOND, Vernell E. COLES, Stacey O. AUGMON, Hersey HAWKINS, Charles Daniel SMITH, Herman J.R. Jr. REID, Charles Edward Iv SMITH, William Lloyd ANDERSON, Daniel Lewis MAJERLE, Jeffrey GRAYER, Danniel Ricardo MANNING, David Maurice ROBINSON",1988 Seoul,Basketball,Men's,basketball
+Summer,1988,Gold,USA,United States,"Teresa EDWARDS, Cynthia Louise BROWN, Andrea Lane LLOYD, Anne Theresa DONOVAN, Bridgette C. GORDON, Cynthia Lynne COOPER, Mary Camille ETHRIDGE, Victoria BULLETT, Katrina Felicia MCCLAIN, Teresa WEATHERSPOON, Jennifer GILLOM, Suzanne MCCONNELL",1988 Seoul,Basketball,Women's,basketball
+Summer,1988,Silver,YUG,Yugoslavia,"Zana LELAS, Polona DORNIK, Eleonora WILD, Danira NAKIC, Andjelija ARBUTINA, Stojna VANGELOVSKA, Sladjana GOLIC, Razija MUJANOVIC, Kornelija KVESIC, Vesna BAJKUSA, Bojana MILOSEVIC, Mara LAKIC",1988 Seoul,Basketball,Women's,basketball
+Summer,1988,Bronze,URS,USSR,"Olga ZHEVKOVA, Olessya BAREL, Aleksandra LEONOVA, Vitaliya TUOMAITE, Galina SAVITSKAYA, Olga BURYAKINA, Irina GERLITS, Irina MINKH, Elena KUDASHOVA, Natalya ZASULSKAYA, Irina SUMNIKOVA, Olga YAKOVLEVA",1988 Seoul,Basketball,Women's,basketball
+Summer,1988,Gold,BUL,Bulgaria,Ivailo Marinov KHRISTOV,1988 Seoul,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1988,Silver,USA,United States,Michael CARBAJAL,1988 Seoul,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1988,Bronze,HUN,Hungary,Robert ISASZEGI,1988 Seoul,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1988,Bronze,PHI,Philippines,Leopoldo SERANTES,1988 Seoul,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1988,Gold,KOR,Korea Republic,Kwang-Sun KIM,1988 Seoul,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1988,Silver,GDR,German Democratic Republic,Andreas TEWS,1988 Seoul,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1988,Bronze,MEX,Mexico,Mario GONZALEZ,1988 Seoul,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1988,Bronze,URS,USSR,Timofei SKRYABIN,1988 Seoul,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1988,Gold,USA,United States,Kennedy MCKINNEY,1988 Seoul,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1988,Silver,BUL,Bulgaria,Aleksandar KRISTOV,1988 Seoul,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1988,Bronze,COL,Colombia,Jorge Eliecer JULIO ROCHA,1988 Seoul,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1988,Bronze,THA,Thailand,Phajol MOOLSAN,1988 Seoul,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1988,Gold,ITA,Italy,Giovanni PARISI,1988 Seoul,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1988,Silver,ROU,Romania,Daniel DUMITRESCU,1988 Seoul,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1988,Bronze,KOR,Korea Republic,Jae-Hyuk LEE,1988 Seoul,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1988,Bronze,MAR,Morocco,Abdelhak ACHIK,1988 Seoul,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1988,Gold,GDR,German Democratic Republic,Andreas ZÜLOW,1988 Seoul,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1988,Silver,SWE,Sweden,George CRAMNE,1988 Seoul,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1988,Bronze,MGL,Mongolia,Nerguy ENKHBAT,1988 Seoul,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1988,Bronze,USA,United States,Romallis ELLIS,1988 Seoul,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1988,Gold,URS,USSR,Vyacheslav YANOVSKI,1988 Seoul,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1988,Silver,AUS,Australia,Grahame CHENEY,1988 Seoul,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Reiner GIES,1988 Seoul,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1988,Bronze,SWE,Sweden,Lars MYRBERG,1988 Seoul,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1988,Gold,KEN,Kenya,Robert WANGILA,1988 Seoul,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1988,Silver,FRA,France,Laurent BOUDOUANI,1988 Seoul,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1988,Bronze,POL,Poland,Jan DYDAK,1988 Seoul,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1988,Bronze,USA,United States,Kenneth GOULD,1988 Seoul,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1988,Gold,KOR,Korea Republic,Si-Hun PARK,1988 Seoul,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1988,Silver,USA,United States,Roy L. Ilnd JONES,1988 Seoul,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1988,Bronze,CAN,Canada,Raymond Tyler DOWNEY,1988 Seoul,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1988,Bronze,GBR,Great Britain,Richard WOODHALL,1988 Seoul,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1988,Gold,GDR,German Democratic Republic,Henry MASKE,1988 Seoul,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1988,Silver,CAN,Canada,Egerton MARCUS,1988 Seoul,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1988,Bronze,KEN,Kenya,Christopher SANDE,1988 Seoul,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1988,Bronze,PAK,Pakistan,Hussain Shah SYED,1988 Seoul,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1988,Gold,USA,United States,Andrew Lester MAYNARD,1988 Seoul,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1988,Silver,URS,USSR,Nurmagomed SHANAVAZOV,1988 Seoul,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1988,Bronze,POL,Poland,Henryk PETRICH,1988 Seoul,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1988,Bronze,YUG,Yugoslavia,Damir SKARO,1988 Seoul,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1988,Gold,USA,United States,Raymond A. MERCER,1988 Seoul,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1988,Silver,KOR,Korea Republic,Hyun-Man BAIK,1988 Seoul,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1988,Bronze,NED,Netherlands,Arnold VANDERLIJDE,1988 Seoul,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1988,Bronze,POL,Poland,Andrzej GOLOTA,1988 Seoul,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1988,Gold,CAN,Canada,Lennox LEWIS,1988 Seoul,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1988,Silver,USA,United States,Riddick Lamont BOWE,1988 Seoul,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1988,Bronze,POL,Poland,Janusz ZARENKIEWICZ,1988 Seoul,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1988,Bronze,URS,USSR,Aleksandr MIROSHNICHENKO,1988 Seoul,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1988,Gold,HUN,Hungary,Zsolt GYULAY,1988 Seoul,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1988,Silver,GDR,German Democratic Republic,Andreas STAHLE,1988 Seoul,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1988,Bronze,NZL,New Zealand,Christopher Paul MAC DONALD,1988 Seoul,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1988,Gold,NZL,New Zealand,"Christopher Paul MAC DONALD, Ian Gordon FERGUSON",1988 Seoul,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1988,Silver,URS,USSR,"Victor DENISOV, Igor NAGAEV",1988 Seoul,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1988,Bronze,HUN,Hungary,"Ferenc CSIPES, Attila ABRAHAM",1988 Seoul,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1988,Gold,USA,United States,Gregory Mark BARTON,1988 Seoul,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1988,Silver,AUS,Australia,Grant DAVIES,1988 Seoul,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1988,Bronze,GDR,German Democratic Republic,Andre WOHLLEBE,1988 Seoul,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1988,Gold,USA,United States,"Norman Dean BELLINGHAM, Gregory Mark BARTON",1988 Seoul,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1988,Silver,NZL,New Zealand,"Christopher Paul MAC DONALD, Ian Gordon FERGUSON",1988 Seoul,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1988,Bronze,AUS,Australia,"Kelvin John GRAHAM, Peter FOSTER",1988 Seoul,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1988,Gold,HUN,Hungary,"Attila ABRAHAM, Ferenc CSIPES, Zsolt GYULAY, Sandor HODOSI",1988 Seoul,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1988,Silver,URS,USSR,"Victor DENISOV, Sergei KIRSANOV, Igor NAGAEV, Aleksandr MOTUZENKO",1988 Seoul,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1988,Bronze,GDR,German Democratic Republic,"Andre WOHLLEBE, Hans-Jorg BLIESENER, Kay BLUHM, Andreas STAHLE",1988 Seoul,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1988,Gold,GDR,German Democratic Republic,Olaf HEUKRODT,1988 Seoul,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1988,Silver,URS,USSR,Michal SLIWINSKI,1988 Seoul,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1988,Bronze,BUL,Bulgaria,Martin Guerguiev MARINOV,1988 Seoul,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1988,Gold,URS,USSR,"Nikolai JURAVSCHI, Viktor RENEYSKIY",1988 Seoul,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1988,Silver,POL,Poland,"Marek LBIK, Marek DOPIERALA",1988 Seoul,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1988,Bronze,FRA,France,"Joel BETTIN, Philippe RENAUD",1988 Seoul,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1988,Gold,URS,USSR,Ivans KLEMENTYEV,1988 Seoul,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1988,Silver,GDR,German Democratic Republic,Jorg SCHMIDT,1988 Seoul,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1988,Bronze,BUL,Bulgaria,Nikolai Petkov BUKHALOV,1988 Seoul,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1988,Gold,URS,USSR,"Nikolai JURAVSCHI, Viktor RENEYSKIY",1988 Seoul,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1988,Silver,GDR,German Democratic Republic,"Ingo SPELLY, Olaf HEUKRODT",1988 Seoul,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1988,Bronze,POL,Poland,"Marek LBIK, Marek DOPIERALA",1988 Seoul,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1988,Gold,BUL,Bulgaria,Vania GUECHEVA,1988 Seoul,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1988,Silver,GDR,German Democratic Republic,Birgit FISCHER,1988 Seoul,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1988,Bronze,POL,Poland,Izabela DYLEWSKA,1988 Seoul,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1988,Gold,GDR,German Democratic Republic,"Anke NOTHNAGEL-VON SECK, Birgit FISCHER",1988 Seoul,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1988,Silver,BUL,Bulgaria,"Diana PALIISKA, Vania GUECHEVA",1988 Seoul,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1988,Bronze,NED,Netherlands,"Annemarie COX, Annemarie DERCKX",1988 Seoul,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1988,Gold,GDR,German Democratic Republic,"Anke NOTHNAGEL-VON SECK, Heike SINGER, Birgit FISCHER, Ramona PORTWICH",1988 Seoul,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1988,Silver,HUN,Hungary,"Rita KOBAN, Erika MESZAROS, Eva RAKUSZ, Erika GECZI",1988 Seoul,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1988,Bronze,BUL,Bulgaria,"Diana PALIISKA, Borislava IVANOVA-MILKOVA, Vania GUECHEVA, Ogniana PETKOVA",1988 Seoul,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1988,Gold,GDR,German Democratic Republic,Olaf LUDWIG,1988 Seoul,Cycling Road,Men's,individual road race
+Summer,1988,Silver,FRG,Federal Republic of Germany,Bernd GRONE,1988 Seoul,Cycling Road,Men's,individual road race
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Christian HENN,1988 Seoul,Cycling Road,Men's,individual road race
+Summer,1988,Gold,GDR,German Democratic Republic,"Uwe AMPLER, Maik LANDSMANN, Mario KUMMER, Jan SCHUR",1988 Seoul,Cycling Road,Men's,team time trial
+Summer,1988,Silver,POL,Poland,"Marek LESNIEWSKI, Joachim HALUPCZOK, Andrzej SYPYTKOWSKI, Zenon JASKULA",1988 Seoul,Cycling Road,Men's,team time trial
+Summer,1988,Bronze,SWE,Sweden,"Bjorn JOHANSSON, Michel LAFIS, Jan KARLSSON, Anders JARL",1988 Seoul,Cycling Road,Men's,team time trial
+Summer,1988,Gold,NED,Netherlands,Monique KNOL,1988 Seoul,Cycling Road,Women's,individual road race
+Summer,1988,Silver,FRG,Federal Republic of Germany,Judith NIEHAUS,1988 Seoul,Cycling Road,Women's,individual road race
+Summer,1988,Bronze,URS,USSR,Laima ZILPORYTE,1988 Seoul,Cycling Road,Women's,individual road race
+Summer,1988,Gold,URS,USSR,Gintautas UMARAS,1988 Seoul,Cycling Track,Men's,individual pursuit
+Summer,1988,Silver,AUS,Australia,Dean WOODS,1988 Seoul,Cycling Track,Men's,individual pursuit
+Summer,1988,Bronze,GDR,German Democratic Republic,Bernd DITTERT,1988 Seoul,Cycling Track,Men's,individual pursuit
+Summer,1988,Gold,URS,USSR,"Arturas KASPUTIS, Gintautas UMARAS, Vyacheslav EKIMOV, Dmitri NELYUBIN",1988 Seoul,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1988,Silver,GDR,German Democratic Republic,"Carsten WOLF, Roland HENNIG, Dirk MEIER, Steffen BLOCHWITZ",1988 Seoul,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1988,Bronze,AUS,Australia,"Wayne MCCARNEY, Dean WOODS, Brett DUTTON, Stephen John MCGLEDE",1988 Seoul,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1988,Gold,URS,USSR,Aleksandr KIRICHENKO,1988 Seoul,Cycling Track,Men's,1km time trial
+Summer,1988,Silver,AUS,Australia,Martin VINNICOMBE,1988 Seoul,Cycling Track,Men's,1km time trial
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Robert LECHNER,1988 Seoul,Cycling Track,Men's,1km time trial
+Summer,1988,Gold,DEN,Denmark,Dan FROST,1988 Seoul,Cycling Track,Men's,points race
+Summer,1988,Silver,NED,Netherlands,Leo PEELEN,1988 Seoul,Cycling Track,Men's,points race
+Summer,1988,Bronze,URS,USSR,Marat GANEEV,1988 Seoul,Cycling Track,Men's,points race
+Summer,1988,Gold,GDR,German Democratic Republic,Lutz HESSLICH,1988 Seoul,Cycling Track,Men's,sprint individual
+Summer,1988,Silver,URS,USSR,Nikolai KOVSH,1988 Seoul,Cycling Track,Men's,sprint individual
+Summer,1988,Bronze,AUS,Australia,Garry Malcolm NEIWAND,1988 Seoul,Cycling Track,Men's,sprint individual
+Summer,1988,Gold,URS,USSR,Erika SALUMAE,1988 Seoul,Cycling Track,Women's,sprint individual
+Summer,1988,Silver,GDR,German Democratic Republic,Christa LUDING,1988 Seoul,Cycling Track,Women's,sprint individual
+Summer,1988,Bronze,USA,United States,Connie PARASKEVIN-YOUNG,1988 Seoul,Cycling Track,Women's,sprint individual
+Summer,1988,Gold,USA,United States,Gregory LOUGANIS,1988 Seoul,Diving,Men's,10m platform
+Summer,1988,Silver,CHN,China,Ni XIONG,1988 Seoul,Diving,Men's,10m platform
+Summer,1988,Bronze,MEX,Mexico,Jesus MENA CAMPOS,1988 Seoul,Diving,Men's,10m platform
+Summer,1988,Gold,USA,United States,Gregory LOUGANIS,1988 Seoul,Diving,Men's,3m springboard
+Summer,1988,Silver,CHN,China,Liang-De TAN,1988 Seoul,Diving,Men's,3m springboard
+Summer,1988,Bronze,CHN,China,De-Liang LI,1988 Seoul,Diving,Men's,3m springboard
+Summer,1988,Gold,CHN,China,Yan-Mei XU,1988 Seoul,Diving,Women's,10m platform
+Summer,1988,Silver,USA,United States,Michele MITCHELL,1988 Seoul,Diving,Women's,10m platform
+Summer,1988,Bronze,USA,United States,Wendy Lian WYLAND-WILLIAMS,1988 Seoul,Diving,Women's,10m platform
+Summer,1988,Gold,CHN,China,Min GAO,1988 Seoul,Diving,Women's,3m springboard
+Summer,1988,Silver,CHN,China,Qing LI,1988 Seoul,Diving,Women's,3m springboard
+Summer,1988,Bronze,USA,United States,Kelly Anne MCCORMICK,1988 Seoul,Diving,Women's,3m springboard
+Summer,1988,Gold,FRG,Federal Republic of Germany,"Nicole UPHOFF-BECKER, REMBRANDT 24",1988 Seoul,Equestrian Dressage,Mixed,individual
+Summer,1988,Silver,FRA,France,"Margit OTTO-CREPIN, CORLANDUS",1988 Seoul,Equestrian Dressage,Mixed,individual
+Summer,1988,Bronze,SUI,Switzerland,"Christine STUECKELBERGER, GAUGUIN DE LULLY CH",1988 Seoul,Equestrian Dressage,Mixed,individual
+Summer,1988,Gold,FRG,Federal Republic of Germany,"Reiner KLIMKE, Ann-Kathrin LINSENHOFF, GANIMEDES, Nicole UPHOFF-BECKER, Monica TEODORESCU, AHLERICH 2, COURAGE 10, REMBRANDT 24",1988 Seoul,Equestrian Dressage,Mixed,team
+Summer,1988,Silver,SUI,Switzerland,"ANDIAMO, RANDOM, ROCHUS, GAUGUIN DE LULLY CH, Otto Josef HOFER, Daniel RAMSEIER, Samuel SCHATZMANN, Christine STUECKELBERGER",1988 Seoul,Equestrian Dressage,Mixed,team
+Summer,1988,Bronze,CAN,Canada,"EMIRAGE, MALTE, REIPO, DYNASTY, Eva Maria PRACHT, Gina SMITH, Ashley NICOLL, Cynthia Margaret NEALE-ISHOY",1988 Seoul,Equestrian Dressage,Mixed,team
+Summer,1988,Gold,NZL,New Zealand,"CHARISMA, Mark TODD",1988 Seoul,Equestrian Eventing,Mixed,individual
+Summer,1988,Silver,GBR,Great Britain,"SIR WATTIE, Ian STARK",1988 Seoul,Equestrian Eventing,Mixed,individual
+Summer,1988,Bronze,GBR,Great Britain,"MASTER CRAFTSMAN, Virginia HOLGATE-LENG",1988 Seoul,Equestrian Eventing,Mixed,individual
+Summer,1988,Gold,FRG,Federal Republic of Germany,"UNCLE TODD, JUSTYN THYME, SHAMROCK 11, SHERRY 42, Claus ERHORN, Matthias Andreas BAUMANN, Thies KASPAREIT, Ralf EHRENBRINK",1988 Seoul,Equestrian Eventing,Mixed,team
+Summer,1988,Silver,GBR,Great Britain,"CARTIER, MASTER CRAFTSMAN, SIR WATTIE, GET SMART, Mark Anthony Peter PHILLIPS, Virginia HOLGATE-LENG, Ian STARK, Karen STRAKER",1988 Seoul,Equestrian Eventing,Mixed,team
+Summer,1988,Bronze,NZL,New Zealand,"ENTERPRISE, GRAYSHOTT, VOLUNTEER, CHARISMA, Margaret KNIGHTON, Andrew BENNIE, Tinks POTTINGER, Mark TODD",1988 Seoul,Equestrian Eventing,Mixed,team
+Summer,1988,Gold,FRA,France,"JAPPELOUP, Pierre DURAND JR.",1988 Seoul,Equestrian Jumping,Mixed,individual
+Summer,1988,Silver,USA,United States,"GEM TWIST, Gregory Alan BEST",1988 Seoul,Equestrian Jumping,Mixed,individual
+Summer,1988,Bronze,FRG,Federal Republic of Germany,"NEPOMUK 8, Karsten HUCK",1988 Seoul,Equestrian Jumping,Mixed,individual
+Summer,1988,Gold,FRG,Federal Republic of Germany,"THE FREAK, PEDRO, WALZERKONIG 19, ORCHIDEE 76, Ludger BEERBAUM, Wolfgang BRINKMANN, Franke SLOOTHAAK, Dirk HAFEMEISTER",1988 Seoul,Equestrian Jumping,Mixed,team
+Summer,1988,Silver,USA,United States,"GEM TWIST, STARMAN, MILL PEARL, FOR THE MOMENT, Gregory Alan BEST, Anne Kindig KURSINSKI, Joseph Halpin, Iv FARGIS, Lisa Ann JACQUIN",1988 Seoul,Equestrian Jumping,Mixed,team
+Summer,1988,Bronze,FRA,France,"MORGAT, FLAMBEAUC, LA FAYETTE, JAPPELOUP, Frederic COTTIER, Michel ROBERT, Pierre DURAND JR., Hubert BOURDY",1988 Seoul,Equestrian Jumping,Mixed,team
+Summer,1988,Gold,FRG,Federal Republic of Germany,Arnd Rüdiger SCHMITT,1988 Seoul,Fencing,Men's,épée individual
+Summer,1988,Silver,FRA,France,Philippe RIBOUD,1988 Seoul,Fencing,Men's,épée individual
+Summer,1988,Bronze,URS,USSR,Andrei CHOUVALOV,1988 Seoul,Fencing,Men's,épée individual
+Summer,1988,Gold,FRA,France,"Frederic DELPLA, Olivier LENGLET, Eric SRECKI, Jean-Michel HENRY, Philippe RIBOUD",1988 Seoul,Fencing,Men's,épée team
+Summer,1988,Silver,FRG,Federal Republic of Germany,"Volker FISCHER, Alexander PUSCH, Elmar BORRMANN, Thomas GERULL, Arnd Rüdiger SCHMITT",1988 Seoul,Fencing,Men's,épée team
+Summer,1988,Bronze,URS,USSR,"Andrei CHOUVALOV, Pavel KOLOBKOV, Mikhail TISHKO, Vladimir REZNITCHENKO, Igor TIKHOMIROV",1988 Seoul,Fencing,Men's,épée team
+Summer,1988,Gold,ITA,Italy,Stefano CERIONI,1988 Seoul,Fencing,Men's,foil individual
+Summer,1988,Silver,GDR,German Democratic Republic,Udo WAGNER,1988 Seoul,Fencing,Men's,foil individual
+Summer,1988,Bronze,URS,USSR,Aleksander ROMANKOV,1988 Seoul,Fencing,Men's,foil individual
+Summer,1988,Gold,URS,USSR,"Anvar IBRAGUIMOV, Ilgar MAMEDOV, Vladimir APTIAOURI, Boris KORETSKI, Aleksander ROMANKOV",1988 Seoul,Fencing,Men's,foil team
+Summer,1988,Silver,FRG,Federal Republic of Germany,"Matthias BEHR, Matthias GEY, Thorsten WEIDNER, Thomas ENDRES, Ulrich Rainer SCHRECK",1988 Seoul,Fencing,Men's,foil team
+Summer,1988,Bronze,HUN,Hungary,"Zsolt ERSEK, Pal SZEKERES, Istvan BUSA, Robert GATAI, Istvan SZELEI",1988 Seoul,Fencing,Men's,foil team
+Summer,1988,Gold,FRA,France,Jean-Francois LAMOUR,1988 Seoul,Fencing,Men's,sabre individual
+Summer,1988,Silver,POL,Poland,Janusz OLECH,1988 Seoul,Fencing,Men's,sabre individual
+Summer,1988,Bronze,ITA,Italy,Giovanni SCALZO,1988 Seoul,Fencing,Men's,sabre individual
+Summer,1988,Gold,HUN,Hungary,"Laszlo CSONGRADI, György NEBALD, Imre BUJDOSO, Imre GEDOVARI, Bence SZABO",1988 Seoul,Fencing,Men's,sabre team
+Summer,1988,Silver,URS,USSR,"Andrei ALSHAN, Sergei KORYAKIN, Gueorgui POGOSSOV, Mikhail BURTSEV, Sergei MINDIRGASOV",1988 Seoul,Fencing,Men's,sabre team
+Summer,1988,Bronze,ITA,Italy,"Gianfranco DALLA BARBA, Ferdinando MEGLIO, Massimo CAVALIERE, Marco MARIN, Giovanni SCALZO",1988 Seoul,Fencing,Men's,sabre team
+Summer,1988,Gold,FRG,Federal Republic of Germany,Anja FICHTEL-MAURITZ,1988 Seoul,Fencing,Women's,foil individual
+Summer,1988,Silver,FRG,Federal Republic of Germany,Sabine Christiane BAU,1988 Seoul,Fencing,Women's,foil individual
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Zita-Eva FUNKENHAUSER,1988 Seoul,Fencing,Women's,foil individual
+Summer,1988,Gold,FRG,Federal Republic of Germany,"Anja FICHTEL-MAURITZ, Anette KLUG, Sabine Christiane BAU, Zita-Eva FUNKENHAUSER, Christiane WEBER",1988 Seoul,Fencing,Women's,foil team
+Summer,1988,Silver,ITA,Italy,"Francesca BORTOLOZZI BORELLA, Lucia TRAVERSA, Margherita ZALAFFI, Annapia GANDOLFI, Dorina VACCARONI",1988 Seoul,Fencing,Women's,foil team
+Summer,1988,Bronze,HUN,Hungary,"Edit KOVACS, Zsuzsa SZOCS, Zsuzsanna JANOSI-NEMETH, Gertrud STEFANEK, Katalin TUSCHAK",1988 Seoul,Fencing,Women's,foil team
+Summer,1988,Gold,URS,USSR,"Dmitri KHARIN, Igor SKLYAROV, Arvidas YANONIS, Yevgeni KUZNETSOV, Aleksandr BORODYUK, Vladimir LYUTYI, Sergei FOKIN, Aleksei MIKHAILICHENKO, Viktor LOSEV, Yuri SAVICHEV, Gela KETASHVILI, Aleksei CHEREDNIK, Vadim TISHCHENKO, Igor PONOMAREV, Igor DOBROVOLSKI, Yevgeni YAROVENKO, Vladimir TATARCHUK, Aleksei PRUDNIKOV, Sergei GORLUKOVICH, Arminas NARBEKOVAS",1988 Seoul,Football,Men's,football
+Summer,1988,Silver,BRA,Brazil,"Romário, Luiz Carlos Winck, Mazinho, Zé Carlos, Ademir, Andrade, Bebeto, André Cruz, Geovani, Jorginho, Neto, Cláudio Taffarel, Ricardo Gomes, Valdo Filho, Aloísio, Batista, Careca, Edmar, João Paulo, Milton",1988 Seoul,Football,Men's,football
+Summer,1988,Bronze,FRG,Federal Republic of Germany,"Michael SCHULZ, Wolfgang FUNKEL, Olaf JANSSEN, Holger FACH, Wolfram WUTTKE, Uwe KAMPS, Thomas HASSLER, Fritz WALTER, Gerhard KLEPPINGER, Gunnar SAUER, Oliver RECK, Armin GOERTZ, Thomas HORSTER, Rudolf BOMMER, Jurgen KLINSMANN, Frank MILL, Roland GRAHAMMER, Christian SCHREIER, Ralf SIEVERS, Karlheinz RIEDLE",1988 Seoul,Football,Men's,football
+Summer,1988,Gold,URS,USSR,"Vladimir NOVIKOV, Dmitri BILOZERCHEV, Valeri LIOUKINE, Vladimir GOGOLADZE, Serguei KHARIKOV, Vladimir ARTEMOV",1988 Seoul,Gymnastics Artistic,Men's,team competition
+Summer,1988,Silver,GDR,German Democratic Republic,"Andreas WECKER, Ralf BÜCHNER, Sylvio KROLL, Ulf HOFFMANN, Sven TIPPELT, Holger BEHRENDT",1988 Seoul,Gymnastics Artistic,Men's,team competition
+Summer,1988,Bronze,JPN,Japan,"Takahiro YAMADA, Daisuke NISHIKAWA, Yukio IKETANI, Hiriyuki KONISHI, Toshiharu SATO, Koichi MIZUSHIMA",1988 Seoul,Gymnastics Artistic,Men's,team competition
+Summer,1988,Gold,URS,USSR,Vladimir ARTEMOV,1988 Seoul,Gymnastics Artistic,Men's,individual all-round
+Summer,1988,Silver,URS,USSR,Valeri LIOUKINE,1988 Seoul,Gymnastics Artistic,Men's,individual all-round
+Summer,1988,Bronze,URS,USSR,Dmitri BILOZERCHEV,1988 Seoul,Gymnastics Artistic,Men's,individual all-round
+Summer,1988,Gold,URS,USSR,Serguei KHARIKOV,1988 Seoul,Gymnastics Artistic,Men's,floor exercises
+Summer,1988,Silver,URS,USSR,Vladimir ARTEMOV,1988 Seoul,Gymnastics Artistic,Men's,floor exercises
+Summer,1988,Bronze,CHN,China,Yun LOU,1988 Seoul,Gymnastics Artistic,Men's,floor exercises
+Summer,1988,Bronze,JPN,Japan,Yukio IKETANI,1988 Seoul,Gymnastics Artistic,Men's,floor exercises
+Summer,1988,Gold,URS,USSR,Vladimir ARTEMOV,1988 Seoul,Gymnastics Artistic,Men's,parallel bars
+Summer,1988,Silver,URS,USSR,Valeri LIOUKINE,1988 Seoul,Gymnastics Artistic,Men's,parallel bars
+Summer,1988,Bronze,GDR,German Democratic Republic,Sven TIPPELT,1988 Seoul,Gymnastics Artistic,Men's,parallel bars
+Summer,1988,Gold,CHN,China,Yun LOU,1988 Seoul,Gymnastics Artistic,Men's,vault
+Summer,1988,Silver,GDR,German Democratic Republic,Sylvio KROLL,1988 Seoul,Gymnastics Artistic,Men's,vault
+Summer,1988,Bronze,KOR,Korea Republic,Jong-Hoon PARK,1988 Seoul,Gymnastics Artistic,Men's,vault
+Summer,1988,Gold,GDR,German Democratic Republic,Holger BEHRENDT,1988 Seoul,Gymnastics Artistic,Men's,rings
+Summer,1988,Gold,URS,USSR,Dmitri BILOZERCHEV,1988 Seoul,Gymnastics Artistic,Men's,rings
+Summer,1988,Bronze,GDR,German Democratic Republic,Sven TIPPELT,1988 Seoul,Gymnastics Artistic,Men's,rings
+Summer,1988,Gold,BUL,Bulgaria,Lubomir GERASKOV,1988 Seoul,Gymnastics Artistic,Men's,pommel horse
+Summer,1988,Gold,HUN,Hungary,Zsolt BORKAI,1988 Seoul,Gymnastics Artistic,Men's,pommel horse
+Summer,1988,Gold,URS,USSR,Dmitri BILOZERCHEV,1988 Seoul,Gymnastics Artistic,Men's,pommel horse
+Summer,1988,Gold,URS,USSR,Valeri LIOUKINE,1988 Seoul,Gymnastics Artistic,Men's,horizontal bar
+Summer,1988,Gold,URS,USSR,Vladimir ARTEMOV,1988 Seoul,Gymnastics Artistic,Men's,horizontal bar
+Summer,1988,Bronze,GDR,German Democratic Republic,Holger BEHRENDT,1988 Seoul,Gymnastics Artistic,Men's,horizontal bar
+Summer,1988,Bronze,ROU,Romania,Marius Costel GHERMAN,1988 Seoul,Gymnastics Artistic,Men's,horizontal bar
+Summer,1988,Gold,URS,USSR,"Svetlana BAITOVA, Olga STRAZHEVA, Natalia LACHTCHENOVA, Elena SHEVCHENKO, Svetlana BOGINSKAYA, Elena SHUSHUNOVA",1988 Seoul,Gymnastics Artistic,Women's,team competition
+Summer,1988,Silver,ROU,Romania,"Camelia VOINEA, Celestina POPA, Daniela SILIVAS, Eugenia GOLEA, Gabriela POTORAC, Aurelia DOBRE",1988 Seoul,Gymnastics Artistic,Women's,team competition
+Summer,1988,Bronze,GDR,German Democratic Republic,"Gabriele FÄHNRICH, Bettina SCHIEFERDECKER, Dagmar KERSTEN, Martina JENTSCH, Ulrike KLOTZ, Dörte THÜMMLER",1988 Seoul,Gymnastics Artistic,Women's,team competition
+Summer,1988,Gold,URS,USSR,Elena SHUSHUNOVA,1988 Seoul,Gymnastics Artistic,Women's,individual all-round
+Summer,1988,Silver,ROU,Romania,Daniela SILIVAS,1988 Seoul,Gymnastics Artistic,Women's,individual all-round
+Summer,1988,Bronze,URS,USSR,Svetlana BOGINSKAYA,1988 Seoul,Gymnastics Artistic,Women's,individual all-round
+Summer,1988,Gold,ROU,Romania,Daniela SILIVAS,1988 Seoul,Gymnastics Artistic,Women's,floor exercises
+Summer,1988,Silver,URS,USSR,Svetlana BOGINSKAYA,1988 Seoul,Gymnastics Artistic,Women's,floor exercises
+Summer,1988,Bronze,BUL,Bulgaria,Diana DOUDEVA,1988 Seoul,Gymnastics Artistic,Women's,floor exercises
+Summer,1988,Gold,ROU,Romania,Daniela SILIVAS,1988 Seoul,Gymnastics Artistic,Women's,uneven bars
+Summer,1988,Silver,GDR,German Democratic Republic,Dagmar KERSTEN,1988 Seoul,Gymnastics Artistic,Women's,uneven bars
+Summer,1988,Bronze,URS,USSR,Elena SHUSHUNOVA,1988 Seoul,Gymnastics Artistic,Women's,uneven bars
+Summer,1988,Gold,URS,USSR,Svetlana BOGINSKAYA,1988 Seoul,Gymnastics Artistic,Women's,vault
+Summer,1988,Silver,ROU,Romania,Gabriela POTORAC,1988 Seoul,Gymnastics Artistic,Women's,vault
+Summer,1988,Bronze,ROU,Romania,Daniela SILIVAS,1988 Seoul,Gymnastics Artistic,Women's,vault
+Summer,1988,Gold,ROU,Romania,Daniela SILIVAS,1988 Seoul,Gymnastics Artistic,Women's,balance beam
+Summer,1988,Silver,URS,USSR,Elena SHUSHUNOVA,1988 Seoul,Gymnastics Artistic,Women's,balance beam
+Summer,1988,Bronze,ROU,Romania,Gabriela POTORAC,1988 Seoul,Gymnastics Artistic,Women's,balance beam
+Summer,1988,Bronze,USA,United States,Phoebe Lan MILLS,1988 Seoul,Gymnastics Artistic,Women's,balance beam
+Summer,1988,Gold,URS,USSR,Marina LOBATCH,1988 Seoul,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1988,Silver,BUL,Bulgaria,Adriana DUNAVSKA,1988 Seoul,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1988,Bronze,URS,USSR,Alexandra TIMOSHENKO,1988 Seoul,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1988,Gold,URS,USSR,"Andrey LAVROV, Aleksandr RYMANOV, Andrei CHUMENTSEV, Yuri SHEVTSOV, Konstantin SHAROVAROV, Aleksandr KARSHAKEVICH, Vyacheslav ATAVIN, Alexandre TUCHKIN, Georgi SVIRIDENKO, Mikhail VASILIEV, Igor CHUMAK, Valeri GOPIN, Yuri NESTEROV, Valdemar NOVITSKI",1988 Seoul,Handball,Men's,handball
+Summer,1988,Silver,KOR,Korea Republic,"Young-Dae PARK, Hyun-Suk ROH, Sang-Hyo LEE, Jae-Hong SHIM, Yung-Suk SHIN, Suk-Jae CHOI, Tae-Il YOON, Suk-Chang KOH, Jae-Won KANG, Jin-Suk LIM, Jae-Hwan KIM, Young-Ki OH, Do-Hun PARK",1988 Seoul,Handball,Men's,handball
+Summer,1988,Bronze,YUG,Yugoslavia,"Goran PERKOVAC, Zlatko PORTNER, Alvaro NACINOVIC, Ermin VELIC, Zlatko SARACEVIC, Boris JARAK, Muhamed MEMIC, Jozef HOLPERT, Iztok PUC, Irfan SMAJLAGIC, Mirko BASIC, Slobodan KUZMANOVSKI, Momir RNIC, Rolando PUSNIK, Muhamed MEMIC, Veselin VUJOVIC",1988 Seoul,Handball,Men's,handball
+Summer,1988,Gold,KOR,Korea Republic,"Hyun-Sook HAN, Mi-Sook KIM, Mi-Ha SON, Ki-Soon LEE, Mi-Kyung LIM, Kyung-Hwa SUNG, Ji-Hyun SONG, Choon-Rye KIM, Min-Hee SUK, Myung-Soon KIM, Hyun-Mee KIM, Kyung-Soon KIM",1988 Seoul,Handball,Women's,handball
+Summer,1988,Silver,NOR,Norway,"Marthe ELIASSON, Hanne HOGNESS, Trine HALTVIK, Kjerstin ANDERSEN, Heidi SUNDAL, Ingrid STEEN, Annette SKOTVOLL, Vibeke JOHNSEN, Karin SINGSTAD, Kristin MIDTHUN, Berit DIGRE, Cathrine SVENDSEN, Hanne HEGH, Karin PETTERSEN, Susann GOKSOR",1988 Seoul,Handball,Women's,handball
+Summer,1988,Bronze,URS,USSR,"Marina BAZANOVA, Tatyana GORB, Svetlana MANKOVA, Natalya MITRYUK, Larisa KARLOVA, Olga SEMENOVA, Elina GUSEVA, Tatyana DIANDIGAVA, Natalia MORSKOVA, Natalya LAPITSKAYA, Yevgeniya TOVSTOGAN, Zinaida TURCHINA, Natalya RUSNACHENKO, Elena NEMASHKALO, Natalya ANISIMOVA",1988 Seoul,Handball,Women's,handball
+Summer,1988,Gold,GBR,Great Britain,"Martyn Andrew GRIMLEY, Sean Robin KERLY, Imran Ahmed Khan SHERWANI, Stephen Alexander. MARTIN, Richard Alexander LEMAN, Kulbir Singh BHAURA, Ian Charles Boucher TAYLOR, David Andrew Vince. FAULKNER, Steven James BATCHELOR, Robert CLIFT, Paul Jason BARBER, Jonathan Nicholas M. POTTER, James William KIRKWOOD, Russell Simon GARCIA, Veryan Guy Henry PAPPIN, Richard David Allan DODDS",1988 Seoul,Hockey,Men's,hockey
+Summer,1988,Silver,FRG,Federal Republic of Germany,"Horst-Ulrich HANEL, Andreas MOLLANDIN, Andreas KELLER, Christian SCHLIEMANN, Volker FRIED, Ekkhard SCHMIDT-OPPER, Heiner DOPP, Hans-Henning FASTRICH, Carsten FISCHER, Stefan BLÖCHER, Thomas Werner RECK, Tobias FRANK, Michael METZ, Dirk BRINKMANN, Thomas BRINKMANN, Michael HILGERS",1988 Seoul,Hockey,Men's,hockey
+Summer,1988,Bronze,NED,Netherlands,"Hendrik Jan KOOIJMAN, Floris Jan BOVELANDER, Taco VAN DEN HONERT, Marc Alexander BENNINGA, Jacques BRINKMAN, Cees Jaan DIEPEVEEN, Rene Nico Hubertus KLAASSEN, Jan Hidde KRUIZE, Timotheus Bernardus STEENS, Patrick Franciscus Maria FABER, Frank LEISTRA, Marc DELISSEN, Gert Jan SCHLATMANN, Maurits CRUCQ, Franciscus Ronaldus Maria JANSEN, Erik Robbert PARLEVLIET",1988 Seoul,Hockey,Men's,hockey
+Summer,1988,Gold,AUS,Australia,"Sally May CARBON, Tracey Lee BELBIN, Liane Marianne TOOTH, Rechelle HAWKES, Maree FISH, Lee CAPES, Kathleen Anne PARTRIDGE, Michelle Edith CAPES-HAGER, Alexandra PISANI, Jacqueline Margaret PEREIRA, Elspeth CLEMENT-DENNING, Loretta DORMAN, Sharon PATMORE, Deborah BOWMAN, Kim SMALL, Lorraine HILLAS",1988 Seoul,Hockey,Women's,hockey
+Summer,1988,Silver,KOR,Korea Republic,"Mi-Sun KIM, Eun-Jung CHANG, Won-Sim JIN, Young-Sook KIM, Kye-Sook LIM, Choon-Ok CHOI, Ki-Hyang CHO, Soon-Ja PARK, Ok-Kyung HAN, Sang-Hyun CHUNG, Keum-Sook HWANG, Hyo-Sun SEO, Gum Shil HAN, Soon-Duk KIM, Kwang-Mi SEO, Eun-Kyung CHUNG",1988 Seoul,Hockey,Women's,hockey
+Summer,1988,Bronze,NED,Netherlands,"Ingrid Imelda WOLFF, Sophie Pauline VON WEILER, Yvonne BUTER, Anne Lucia (Anneloes) NIEUWEWNHUIZEN, Carina BENNINGA, Aletta VAN MANEN, Helena Johanna LEJEUNE VAN DER BEN, Willemien AARDENBURG, Maria Yolanda C. BOLHUIS-EIJSVOGEL, Marieke Birgitta VAN DOORN, Bernadette DE BEUS, Martine OHR, Elisabeth Anne Marie LEJEUNE, Annemieke FOKKE, Eleonoor Wendeline HOLSBOER, Laurien WILLEMSE",1988 Seoul,Hockey,Women's,hockey
+Summer,1988,Gold,KOR,Korea Republic,Jae-Yup KIM,1988 Seoul,Judo,Men's,- 60 kg
+Summer,1988,Silver,USA,United States,Kevin Yoshimi ASANO,1988 Seoul,Judo,Men's,- 60 kg
+Summer,1988,Bronze,JPN,Japan,Shinji HOSOKAWA,1988 Seoul,Judo,Men's,- 60 kg
+Summer,1988,Bronze,URS,USSR,Amiran TOTIKASHVILI,1988 Seoul,Judo,Men's,- 60 kg
+Summer,1988,Gold,KOR,Korea Republic,Kyung-Keun LEE,1988 Seoul,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1988,Silver,POL,Poland,Janusz PAWLOWSKI,1988 Seoul,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1988,Bronze,FRA,France,Bruno CARABETTA,1988 Seoul,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1988,Bronze,JPN,Japan,Yosuke YAMAMOTO,1988 Seoul,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1988,Gold,FRA,France,Marc ALEXANDRE,1988 Seoul,Judo,Men's,65 - 71kg (lightweight)
+Summer,1988,Silver,GDR,German Democratic Republic,Sven LOLL,1988 Seoul,Judo,Men's,65 - 71kg (lightweight)
+Summer,1988,Bronze,USA,United States,Michael Lee SWAIN,1988 Seoul,Judo,Men's,65 - 71kg (lightweight)
+Summer,1988,Bronze,URS,USSR,Georgi TENADZE,1988 Seoul,Judo,Men's,65 - 71kg (lightweight)
+Summer,1988,Gold,POL,Poland,Waldemar LEGIEN,1988 Seoul,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1988,Silver,FRG,Federal Republic of Germany,Frank WIENEKE,1988 Seoul,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1988,Bronze,GDR,German Democratic Republic,Torsten BRECHOT,1988 Seoul,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1988,Bronze,URS,USSR,Bashir VARAEV,1988 Seoul,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1988,Gold,AUT,Austria,Peter SEISENBACHER,1988 Seoul,Judo,Men's,78 - 86kg (middleweight)
+Summer,1988,Silver,URS,USSR,Vladimir SHESTAKOV,1988 Seoul,Judo,Men's,78 - 86kg (middleweight)
+Summer,1988,Bronze,JPN,Japan,Akinobu OSAKO,1988 Seoul,Judo,Men's,78 - 86kg (middleweight)
+Summer,1988,Bronze,NED,Netherlands,Bernhard SPIJKERS,1988 Seoul,Judo,Men's,78 - 86kg (middleweight)
+Summer,1988,Gold,BRA,Brazil,Aurelio MIGUEL FERNANDEZ,1988 Seoul,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1988,Silver,FRG,Federal Republic of Germany,Marc MEILING,1988 Seoul,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1988,Bronze,BEL,Belgium,Robert VAN DE WALLE,1988 Seoul,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1988,Bronze,GBR,Great Britain,Dennis STEWART,1988 Seoul,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1988,Gold,JPN,Japan,Hitoshi SAITO,1988 Seoul,Judo,Men's,+ 95kg (heavyweight)
+Summer,1988,Silver,GDR,German Democratic Republic,Henry STÖHR,1988 Seoul,Judo,Men's,+ 95kg (heavyweight)
+Summer,1988,Bronze,KOR,Korea Republic,Yong-Chul CHO,1988 Seoul,Judo,Men's,+ 95kg (heavyweight)
+Summer,1988,Bronze,URS,USSR,Grigori VERICHEV,1988 Seoul,Judo,Men's,+ 95kg (heavyweight)
+Summer,1988,Gold,HUN,Hungary,Janos MARTINEK,1988 Seoul,Modern Pentathlon,Men's,individual competition
+Summer,1988,Silver,ITA,Italy,Carlo MASSULLO,1988 Seoul,Modern Pentathlon,Men's,individual competition
+Summer,1988,Bronze,URS,USSR,Vakhtang YAGORASHVILI,1988 Seoul,Modern Pentathlon,Men's,individual competition
+Summer,1988,Gold,HUN,Hungary,"Janos MARTINEK, Laszlo FABIAN, Attila MIZSER",1988 Seoul,Modern Pentathlon,Men's,team competition
+Summer,1988,Silver,ITA,Italy,"Daniele MASALA, Carlo MASSULLO, Gianluca TIBERTI",1988 Seoul,Modern Pentathlon,Men's,team competition
+Summer,1988,Bronze,GBR,Great Britain,"Richard Lawson PHELPS, Graham Raymond BROOKHOUSE, Dominic J.M. MAHONY",1988 Seoul,Modern Pentathlon,Men's,team competition
+Summer,1988,Gold,GDR,German Democratic Republic,Thomas LANGE,1988 Seoul,Rowing,Men's,single sculls (1x)
+Summer,1988,Silver,FRG,Federal Republic of Germany,Peter-Michael KOLBE,1988 Seoul,Rowing,Men's,single sculls (1x)
+Summer,1988,Bronze,NZL,New Zealand,Eric Franciscus VERDONK,1988 Seoul,Rowing,Men's,single sculls (1x)
+Summer,1988,Gold,NED,Netherlands,"Nico RIENKS, Ronald FLORIJN",1988 Seoul,Rowing,Men's,double sculls (2x)
+Summer,1988,Silver,SUI,Switzerland,"Ueli BODENMANN, Beat SCHWERZMANN",1988 Seoul,Rowing,Men's,double sculls (2x)
+Summer,1988,Bronze,URS,USSR,"Vasili YAKUSHA, Aleksandr MARCHENKO",1988 Seoul,Rowing,Men's,double sculls (2x)
+Summer,1988,Gold,GBR,Great Britain,"Andrew John HOLMES, Steven REDGRAVE",1988 Seoul,Rowing,Men's,pair without coxswain (2-)
+Summer,1988,Silver,ROU,Romania,"Dragos NEAGU, Danut DOBRE",1988 Seoul,Rowing,Men's,pair without coxswain (2-)
+Summer,1988,Bronze,YUG,Yugoslavia,"Bojan PRESEREN, Sadik MUJKIC",1988 Seoul,Rowing,Men's,pair without coxswain (2-)
+Summer,1988,Gold,ITA,Italy,"Carmine ABBAGNALE, Giuseppe DI CAPUA, Giuseppe ABBAGNALE",1988 Seoul,Rowing,Men's,pair-oared shell with coxswain
+Summer,1988,Silver,GDR,German Democratic Republic,"Detlef KIRCHHOFF, Mario STREIT, Rene RENSCH",1988 Seoul,Rowing,Men's,pair-oared shell with coxswain
+Summer,1988,Bronze,GBR,Great Britain,"Andrew John HOLMES, Patrick John SWEENEY, Steven REDGRAVE",1988 Seoul,Rowing,Men's,pair-oared shell with coxswain
+Summer,1988,Gold,ITA,Italy,"Gianluca FARINA, Agostino ABBAGNALE, Piero POLI, Davide TIZZANO",1988 Seoul,Rowing,Men's,quadruple sculls without coxswain
+Summer,1988,Silver,NOR,Norway,"Alf John HANSEN, Vetle VINJE, Rolf Bernt THORSEN, Lars BJÖNNESS",1988 Seoul,Rowing,Men's,quadruple sculls without coxswain
+Summer,1988,Bronze,GDR,German Democratic Republic,"Jens KOPPEN, Steffen ZÜHLKE, Heiko HABERMANN, Steffen BOGS",1988 Seoul,Rowing,Men's,quadruple sculls without coxswain
+Summer,1988,Gold,GDR,German Democratic Republic,"Roland SCHRÖDER, Ralf BRUDEL, Thomas GREINER, Olaf FÖRSTER",1988 Seoul,Rowing,Men's,four without coxswain (4-)
+Summer,1988,Silver,USA,United States,"Richard KENNELLY, Thomas Robert BOHRER, David Mattthew KRMPOTICH, Raoul Pedro, Jr. RODRIGUEZ",1988 Seoul,Rowing,Men's,four without coxswain (4-)
+Summer,1988,Bronze,FRG,Federal Republic of Germany,"Volker GRABOW, Guido GRABOW, Norbert KESSLAU, Jörg PUTTLITZ",1988 Seoul,Rowing,Men's,four without coxswain (4-)
+Summer,1988,Gold,GDR,German Democratic Republic,"Bernd EICHWURZEL, Karsten SCHMELING, Frank KLAWONN, Bernd NIESECKE, Hendrik REIHER",1988 Seoul,Rowing,Men's,four-oared shell with coxswain
+Summer,1988,Silver,ROU,Romania,"Dimitrie POPESCU, Valentin ROBU, Ladislau LOVRENSCHI, Ioan Gabor SNEP, Vasile TOMOIAGA",1988 Seoul,Rowing,Men's,four-oared shell with coxswain
+Summer,1988,Bronze,NZL,New Zealand,"Ian Andrew WRIGHT, Christopher S. WHITE, George KEYS, Gregory JOHNSTON, Andrew BIRD",1988 Seoul,Rowing,Men's,four-oared shell with coxswain
+Summer,1988,Gold,FRG,Federal Republic of Germany,"Matthias MELLINGHAUS, Ansgar WESSLING, Thomas DOMAIN, Bahne RABE, Thomas MÖLLENKAMP, Eckhardt SCHULTZ, Armin EICHHOLZ, Wolfgang MÄNNIG, Manfred Willi KLEIN",1988 Seoul,Rowing,Men's,eight with coxswain (8+)
+Summer,1988,Silver,URS,USSR,"Veniamin BUT, Vasili TIKHANOV, Pavel GURKOVSKY, Viktor OMELYANOVICH, Aleksandr LUKYANOV, Nikolai KOMAROV, Aleksandr DUMCHEV, Viktor DIDUK, Andrei VASILIEV",1988 Seoul,Rowing,Men's,eight with coxswain (8+)
+Summer,1988,Bronze,USA,United States,"Jeffrey Dean MCLAUGHLIN, John A. PESCATORE, Jonathan S. SMITH, John Dunbar, Iv RUSHER, William Douglas BURDEN, Seth David BAUER, Michael Francis TETI, Edward Bickford PATTON, Peter W. NORDELL",1988 Seoul,Rowing,Men's,eight with coxswain (8+)
+Summer,1988,Gold,GDR,German Democratic Republic,Jutta BEHRENDT,1988 Seoul,Rowing,Women's,single sculls (1x)
+Summer,1988,Silver,USA,United States,Anne R. MARDEN,1988 Seoul,Rowing,Women's,single sculls (1x)
+Summer,1988,Bronze,BUL,Bulgaria,Magdalena GEORGIEVA,1988 Seoul,Rowing,Women's,single sculls (1x)
+Summer,1988,Gold,GDR,German Democratic Republic,"Birgit PETER, Martina SCHRÖTER",1988 Seoul,Rowing,Women's,double sculls (2x)
+Summer,1988,Silver,ROU,Romania,"Elisabeta LIPA, Veronica COCHELEA",1988 Seoul,Rowing,Women's,double sculls (2x)
+Summer,1988,Bronze,BUL,Bulgaria,"Violeta NINOVA, Stefka MADINA",1988 Seoul,Rowing,Women's,double sculls (2x)
+Summer,1988,Gold,ROU,Romania,"Olga HOMEGHI-BULARDA, Rodica PUSCATU-ARBA",1988 Seoul,Rowing,Women's,pair without coxswain (2-)
+Summer,1988,Silver,BUL,Bulgaria,"Lalka Stoyanova BERBEROVA, Radka STOYANOVA",1988 Seoul,Rowing,Women's,pair without coxswain (2-)
+Summer,1988,Bronze,NZL,New Zealand,"Lynley HANNEN, Nicola PAYNE",1988 Seoul,Rowing,Women's,pair without coxswain (2-)
+Summer,1988,Gold,GDR,German Democratic Republic,"Kristina MUNDT, Jana SORGERS, Kerstin FÖRSTER, Beate SCHRAMM",1988 Seoul,Rowing,Women's,quadruple sculls without coxswain
+Summer,1988,Silver,URS,USSR,"Antonina DUMCHEVA, Svetlana MAZIY, Inna FROLOVA, Irina KALIMBET",1988 Seoul,Rowing,Women's,quadruple sculls without coxswain
+Summer,1988,Bronze,ROU,Romania,"Anisoara SOROHAN-MINEA, Elisabeta LIPA, Anisoara DOBRE, Veronica COCHELEA",1988 Seoul,Rowing,Women's,quadruple sculls without coxswain
+Summer,1988,Gold,GDR,German Democratic Republic,"Gerlinde DOBERSCHÜTZ, Birte SIECH, Martina WALTHER, Carola HORNIG, Sylvia ROSE",1988 Seoul,Rowing,Women's,four-oared shell with coxswain
+Summer,1988,Silver,CHN,China,"Ya-Dong HU, Shouying ZHOU, Xiang-Hua ZHANG, Xiao YANG, Rong-Hua LI",1988 Seoul,Rowing,Women's,four-oared shell with coxswain
+Summer,1988,Bronze,ROU,Romania,"Marioara TRASCA, Herta ANITAS, Ecaterina OANCIA, Veronica NECULA, Doina Lilian BALAN-SNEP",1988 Seoul,Rowing,Women's,four-oared shell with coxswain
+Summer,1988,Gold,GDR,German Democratic Republic,"Annegret STRAUCH, Kathrin HAACKER, Anja KLUGE, Ramona BALTHASAR, Daniela NEUNAST, Judith ZEIDLER, Ute WILD-WAGNER, Beatrix SCHRÖR, Uta STANGE",1988 Seoul,Rowing,Women's,eight with coxswain (8+)
+Summer,1988,Silver,ROU,Romania,"Marioara TRASCA, Herta ANITAS, Mihaela ARMASESCU, Olga HOMEGHI-BULARDA, Doina Lilian BALAN-SNEP, Veronica NECULA, Adriana BAZON, Rodica PUSCATU-ARBA, Ecaterina OANCIA",1988 Seoul,Rowing,Women's,eight with coxswain (8+)
+Summer,1988,Bronze,CHN,China,"Xiu-Hua ZHOU, Yanwen HE, Xiang-Hua ZHANG, Xiao YANG, Rong-Hua LI, Ya-Li ZHANG, Ya-Qin HAN, Shouying ZHOU, Ya-Dong HU",1988 Seoul,Rowing,Women's,eight with coxswain (8+)
+Summer,1988,Gold,NZL,New Zealand,Anthony Bruce KENDALL,1988 Seoul,Sailing,Men's,board (division II)
+Summer,1988,Silver,AHO,Netherlands Antilles,Jan D. BOERSMA,1988 Seoul,Sailing,Men's,board (division II)
+Summer,1988,Bronze,USA,United States,Michael William GEBHARDT,1988 Seoul,Sailing,Men's,board (division II)
+Summer,1988,Gold,ESP,Spain,Jose Luis DORESTE,1988 Seoul,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1988,Silver,ISV,"Virgin Islands, US",Peter HOLMBERG,1988 Seoul,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1988,Bronze,NZL,New Zealand,John CUTLER,1988 Seoul,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1988,Gold,FRA,France,"Thierry PEPONNET, Luc PILLOT",1988 Seoul,Sailing,Men's,470 - Two Person Dinghy
+Summer,1988,Silver,URS,USSR,"Tonu TONISTE, Toomas TONISTE",1988 Seoul,Sailing,Men's,470 - Two Person Dinghy
+Summer,1988,Bronze,USA,United States,"John Thomas SHADDEN, Charles MCKEE",1988 Seoul,Sailing,Men's,470 - Two Person Dinghy
+Summer,1988,Gold,USA,United States,"Lynne M. JEWELL, Allison Blair JOLLY",1988 Seoul,Sailing,Women's,470 - Two Person Dinghy
+Summer,1988,Silver,SWE,Sweden,"Birgitta BENGTSSON, Marit SÖDERSTRÖM",1988 Seoul,Sailing,Women's,470 - Two Person Dinghy
+Summer,1988,Bronze,URS,USSR,"Irina SHUNIKHOVSKAYA, Larisa MOSKALENKO",1988 Seoul,Sailing,Women's,470 - Two Person Dinghy
+Summer,1988,Gold,FRA,France,"Nicolas HENARD, Jean Yves LE DEROFF",1988 Seoul,Sailing,Mixed,Tornado - Multihull
+Summer,1988,Silver,NZL,New Zealand,"Rex Samuel SELLERS, Christopher TIMMS",1988 Seoul,Sailing,Mixed,Tornado - Multihull
+Summer,1988,Bronze,BRA,Brazil,"Clinio FREITAS, Lars GRAEL SCHMIDT",1988 Seoul,Sailing,Mixed,Tornado - Multihull
+Summer,1988,Gold,GBR,Great Britain,"Philip Brynolf VAILE, Michael Mackay MCINTYRE",1988 Seoul,Sailing,Mixed,two-person keelboat (Star)
+Summer,1988,Silver,USA,United States,"Harold HAENEL, Mark Jeffrey REYNOLDS",1988 Seoul,Sailing,Mixed,two-person keelboat (Star)
+Summer,1988,Bronze,BRA,Brazil,"Nelson FALCAO, Torben GRAEL",1988 Seoul,Sailing,Mixed,two-person keelboat (Star)
+Summer,1988,Gold,DEN,Denmark,"Christian GRÖNBORG, Jörgen Bojsen MÖLLER",1988 Seoul,Sailing,Mixed,flying dutchman
+Summer,1988,Silver,NOR,Norway,"Erik BJÖRKUM, Ole Petter POLLEN",1988 Seoul,Sailing,Mixed,flying dutchman
+Summer,1988,Bronze,CAN,Canada,"John Charles MILLEN, Frank Joseph MCLAUGHLIN",1988 Seoul,Sailing,Mixed,flying dutchman
+Summer,1988,Gold,GDR,German Democratic Republic,"Jochen SCHÜMANN, Bernd JÄKEL, Thomas FLACH",1988 Seoul,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1988,Silver,USA,United States,"William Henry BAYLIS, John Paul KOSTECKI, Robert Iain Colin BILLINGHAM",1988 Seoul,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1988,Bronze,DEN,Denmark,"Jesper BANK, Steen Klaaborg SECHER, Jan Dupont MATHIASEN",1988 Seoul,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1988,Gold,YUG,Yugoslavia,Goran MAKSIMOVIC,1988 Seoul,Shooting,Men's,10m air rifle
+Summer,1988,Silver,FRA,France,Nicolas BERTHELOT,1988 Seoul,Shooting,Men's,10m air rifle
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Johann RIEDERER,1988 Seoul,Shooting,Men's,10m air rifle
+Summer,1988,Gold,BUL,Bulgaria,Tanyu KIRIAKOV,1988 Seoul,Shooting,Men's,10m air pistol
+Summer,1988,Silver,USA,United States,Erich BULJUNG,1988 Seoul,Shooting,Men's,10m air pistol
+Summer,1988,Bronze,CHN,China,Haifeng XU,1988 Seoul,Shooting,Men's,10m air pistol
+Summer,1988,Gold,ROU,Romania,Sorin BABII,1988 Seoul,Shooting,Men's,50m pistol
+Summer,1988,Silver,SWE,Sweden,Ragnar SKANÄKER,1988 Seoul,Shooting,Men's,50m pistol
+Summer,1988,Bronze,URS,USSR,Igor BASINSKI,1988 Seoul,Shooting,Men's,50m pistol
+Summer,1988,Gold,GBR,Great Britain,Malcolm Douglas COOPER,1988 Seoul,Shooting,Men's,50m rifle 3 positions
+Summer,1988,Silver,GBR,Great Britain,Alister Millar ALLAN,1988 Seoul,Shooting,Men's,50m rifle 3 positions
+Summer,1988,Bronze,URS,USSR,Kirill IVANOV,1988 Seoul,Shooting,Men's,50m rifle 3 positions
+Summer,1988,Gold,TCH,Czechoslovakia,Miroslav VARGA,1988 Seoul,Shooting,Men's,50m rifle prone
+Summer,1988,Silver,KOR,Korea Republic,Young-Chul CHA,1988 Seoul,Shooting,Men's,50m rifle prone
+Summer,1988,Bronze,HUN,Hungary,Attila ZAHONYI,1988 Seoul,Shooting,Men's,50m rifle prone
+Summer,1988,Gold,NOR,Norway,Tor HEIESTAD,1988 Seoul,Shooting,Men's,50m running target
+Summer,1988,Silver,CHN,China,Shi-Ping HUANG,1988 Seoul,Shooting,Men's,50m running target
+Summer,1988,Bronze,URS,USSR,Gennadi AVRAMENKO,1988 Seoul,Shooting,Men's,50m running target
+Summer,1988,Gold,URS,USSR,Afanasijs KUZMINS,1988 Seoul,Shooting,Men's,25m rapid fire pistol
+Summer,1988,Silver,GDR,German Democratic Republic,Ralf SCHUMANN,1988 Seoul,Shooting,Men's,25m rapid fire pistol
+Summer,1988,Bronze,HUN,Hungary,Zoltan KOVACS,1988 Seoul,Shooting,Men's,25m rapid fire pistol
+Summer,1988,Gold,URS,USSR,Irina SHILOVA,1988 Seoul,Shooting,Women's,10m air rifle
+Summer,1988,Silver,FRG,Federal Republic of Germany,Silvia SPERBER,1988 Seoul,Shooting,Women's,10m air rifle
+Summer,1988,Bronze,URS,USSR,Anna MALUKHINA,1988 Seoul,Shooting,Women's,10m air rifle
+Summer,1988,Gold,YUG,Yugoslavia,Jasna SEKARIC,1988 Seoul,Shooting,Women's,10m air pistol
+Summer,1988,Silver,URS,USSR,Nino SALUKVADZE,1988 Seoul,Shooting,Women's,10m air pistol
+Summer,1988,Bronze,URS,USSR,Marina LOGVINENKO,1988 Seoul,Shooting,Women's,10m air pistol
+Summer,1988,Gold,URS,USSR,Nino SALUKVADZE,1988 Seoul,Shooting,Women's,25m pistol
+Summer,1988,Silver,JPN,Japan,Tomoko HASEGAWA,1988 Seoul,Shooting,Women's,25m pistol
+Summer,1988,Bronze,YUG,Yugoslavia,Jasna SEKARIC,1988 Seoul,Shooting,Women's,25m pistol
+Summer,1988,Gold,FRG,Federal Republic of Germany,Silvia SPERBER,1988 Seoul,Shooting,Women's,50m rifle 3 positions
+Summer,1988,Silver,BUL,Bulgaria,Vessela Nikolaeva LETCHEVA,1988 Seoul,Shooting,Women's,50m rifle 3 positions
+Summer,1988,Bronze,URS,USSR,Valentina CHERKASOVA,1988 Seoul,Shooting,Women's,50m rifle 3 positions
+Summer,1988,Gold,URS,USSR,Dmitri MONAKOV,1988 Seoul,Shooting,Mixed,Trap
+Summer,1988,Silver,TCH,Czechoslovakia,Miloslav BEDNARIK,1988 Seoul,Shooting,Mixed,Trap
+Summer,1988,Bronze,BEL,Belgium,Frans PEETERS,1988 Seoul,Shooting,Mixed,Trap
+Summer,1988,Gold,GDR,German Democratic Republic,Axel WEGNER,1988 Seoul,Shooting,Mixed,Skeet
+Summer,1988,Silver,CHI,Chile,Alfonso DE IRRUARRIZAGA,1988 Seoul,Shooting,Mixed,Skeet
+Summer,1988,Bronze,ESP,Spain,Jorge GUARDIOLA HAY,1988 Seoul,Shooting,Mixed,Skeet
+Summer,1988,Gold,USA,United States,Matthew BIONDI,1988 Seoul,Swimming,Men's,50m freestyle
+Summer,1988,Silver,USA,United States,Thomas Michael JAGER,1988 Seoul,Swimming,Men's,50m freestyle
+Summer,1988,Bronze,URS,USSR,Guennadi PRIGODA,1988 Seoul,Swimming,Men's,50m freestyle
+Summer,1988,Gold,USA,United States,Matthew BIONDI,1988 Seoul,Swimming,Men's,100m freestyle
+Summer,1988,Silver,USA,United States,Christopher Charles JACOBS,1988 Seoul,Swimming,Men's,100m freestyle
+Summer,1988,Bronze,FRA,France,Stephan CARON,1988 Seoul,Swimming,Men's,100m freestyle
+Summer,1988,Gold,AUS,Australia,Duncan John ARMSTRONG,1988 Seoul,Swimming,Men's,200m freestyle
+Summer,1988,Silver,SWE,Sweden,Anders HOLMERTZ,1988 Seoul,Swimming,Men's,200m freestyle
+Summer,1988,Bronze,USA,United States,Matthew BIONDI,1988 Seoul,Swimming,Men's,200m freestyle
+Summer,1988,Gold,GDR,German Democratic Republic,Uwe DASSLER,1988 Seoul,Swimming,Men's,400m freestyle
+Summer,1988,Silver,AUS,Australia,Duncan John ARMSTRONG,1988 Seoul,Swimming,Men's,400m freestyle
+Summer,1988,Bronze,POL,Poland,Artur WOJDAT,1988 Seoul,Swimming,Men's,400m freestyle
+Summer,1988,Gold,URS,USSR,Vladimir SALNIKOV,1988 Seoul,Swimming,Men's,1500m freestyle
+Summer,1988,Silver,FRG,Federal Republic of Germany,Stefan PFEIFFER,1988 Seoul,Swimming,Men's,1500m freestyle
+Summer,1988,Bronze,GDR,German Democratic Republic,Uwe DASSLER,1988 Seoul,Swimming,Men's,1500m freestyle
+Summer,1988,Gold,USA,United States,"Troy DALBEY, Matthew BIONDI, Christopher Charles JACOBS, Thomas Michael JAGER",1988 Seoul,Swimming,Men's,4x100m freestyle relay
+Summer,1988,Silver,URS,USSR,"Vladimir TKASHENKO, Juri BASHKATOV, Nikolai EVSEEV, Guennadi PRIGODA",1988 Seoul,Swimming,Men's,4x100m freestyle relay
+Summer,1988,Bronze,GDR,German Democratic Republic,"Thomas FLEMMING, Steffen ZESNER, Dirk RICHTER, Lars HINNEBURG",1988 Seoul,Swimming,Men's,4x100m freestyle relay
+Summer,1988,Gold,USA,United States,"Matthew J. CETLINSKI, Matthew BIONDI, Troy DALBEY, Douglas S. GJERTSEN",1988 Seoul,Swimming,Men's,4x200m freestyle relay
+Summer,1988,Silver,GDR,German Democratic Republic,"Sven Лодзиевски, Steffen ZESNER, Uwe Дасслер, Thomas Флемминг",1988 Seoul,Swimming,Men's,4x200m freestyle relay
+Summer,1988,Bronze,FRG,Federal Republic of Germany,"Erik HOCHSTEIN, Rainer HENKEL, Thomas FAHRNER, Michael GROSS",1988 Seoul,Swimming,Men's,4x200m freestyle relay
+Summer,1988,Gold,GBR,Great Britain,Adrian David MOORHOUSE,1988 Seoul,Swimming,Men's,100m breaststroke
+Summer,1988,Silver,HUN,Hungary,Karoly GUTTLER,1988 Seoul,Swimming,Men's,100m breaststroke
+Summer,1988,Bronze,URS,USSR,Dmitri VOLKOV,1988 Seoul,Swimming,Men's,100m breaststroke
+Summer,1988,Gold,HUN,Hungary,Jozsef SZABO,1988 Seoul,Swimming,Men's,200m breaststroke
+Summer,1988,Silver,GBR,Great Britain,Nick GILLINGHAM,1988 Seoul,Swimming,Men's,200m breaststroke
+Summer,1988,Bronze,ESP,Spain,Sergio LOPEZ MIRO,1988 Seoul,Swimming,Men's,200m breaststroke
+Summer,1988,Gold,SUR,Suriname,Anthony Conrad NESTY,1988 Seoul,Swimming,Men's,100m butterfly
+Summer,1988,Silver,USA,United States,Matthew BIONDI,1988 Seoul,Swimming,Men's,100m butterfly
+Summer,1988,Bronze,GBR,Great Britain,Andrew Dasvid JAMESON,1988 Seoul,Swimming,Men's,100m butterfly
+Summer,1988,Gold,FRG,Federal Republic of Germany,Michael GROSS,1988 Seoul,Swimming,Men's,200m butterfly
+Summer,1988,Silver,DEN,Denmark,Benny Leo NIELSEN,1988 Seoul,Swimming,Men's,200m butterfly
+Summer,1988,Bronze,NZL,New Zealand,Anthony MOSSE,1988 Seoul,Swimming,Men's,200m butterfly
+Summer,1988,Gold,JPN,Japan,Daichi SUZUKI,1988 Seoul,Swimming,Men's,100m backstroke
+Summer,1988,Silver,USA,United States,David Charles BERKOFF,1988 Seoul,Swimming,Men's,100m backstroke
+Summer,1988,Bronze,URS,USSR,Igor POLYANSKI,1988 Seoul,Swimming,Men's,100m backstroke
+Summer,1988,Gold,URS,USSR,Igor POLYANSKI,1988 Seoul,Swimming,Men's,200m backstroke
+Summer,1988,Silver,GDR,German Democratic Republic,Frank BALTRUSCH,1988 Seoul,Swimming,Men's,200m backstroke
+Summer,1988,Bronze,NZL,New Zealand,Paul KINGSMAN,1988 Seoul,Swimming,Men's,200m backstroke
+Summer,1988,Gold,HUN,Hungary,Tamas DARNYI,1988 Seoul,Swimming,Men's,200m individual medley
+Summer,1988,Silver,GDR,German Democratic Republic,Patrick KUHL,1988 Seoul,Swimming,Men's,200m individual medley
+Summer,1988,Bronze,URS,USSR,Vadim YAROSHCHUK,1988 Seoul,Swimming,Men's,200m individual medley
+Summer,1988,Gold,HUN,Hungary,Tamas DARNYI,1988 Seoul,Swimming,Men's,400m individual medley
+Summer,1988,Silver,USA,United States,David Lee WHARTON,1988 Seoul,Swimming,Men's,400m individual medley
+Summer,1988,Bronze,ITA,Italy,Stefano BATTISTELLI,1988 Seoul,Swimming,Men's,400m individual medley
+Summer,1988,Gold,USA,United States,"Richard Alan SCHROEDER, Christopher Charles JACOBS, David Charles BERKOFF, Matthew BIONDI",1988 Seoul,Swimming,Men's,4x100m medley relay
+Summer,1988,Silver,CAN,Canada,"Donald Alexander GOSS, Victor DAVIS, Thomas PONTING, Mark TEWKSBURY",1988 Seoul,Swimming,Men's,4x100m medley relay
+Summer,1988,Bronze,URS,USSR,"Guennadi PRIGODA, Dmitri VOLKOV, Igor POLYANSKI, Vadim YAROSHCHUK",1988 Seoul,Swimming,Men's,4x100m medley relay
+Summer,1988,Gold,GDR,German Democratic Republic,Kristin OTTO,1988 Seoul,Swimming,Women's,50m freestyle
+Summer,1988,Silver,CHN,China,Wenyi YANG,1988 Seoul,Swimming,Women's,50m freestyle
+Summer,1988,Bronze,GDR,German Democratic Republic,Katrin MEISSNER,1988 Seoul,Swimming,Women's,50m freestyle
+Summer,1988,Bronze,USA,United States,Gillian Ann STERKEL,1988 Seoul,Swimming,Women's,50m freestyle
+Summer,1988,Gold,GDR,German Democratic Republic,Kristin OTTO,1988 Seoul,Swimming,Women's,100m freestyle
+Summer,1988,Silver,CHN,China,Yong ZHUANG,1988 Seoul,Swimming,Women's,100m freestyle
+Summer,1988,Bronze,FRA,France,Catherine PLEWINSKI,1988 Seoul,Swimming,Women's,100m freestyle
+Summer,1988,Gold,GDR,German Democratic Republic,Heike FRIEDRICH,1988 Seoul,Swimming,Women's,200m freestyle
+Summer,1988,Silver,CRC,Costa Rica,Silvia POLL AHRENS,1988 Seoul,Swimming,Women's,200m freestyle
+Summer,1988,Bronze,GDR,German Democratic Republic,Manuela STELLMACH,1988 Seoul,Swimming,Women's,200m freestyle
+Summer,1988,Gold,USA,United States,Janet EVANS,1988 Seoul,Swimming,Women's,400m freestyle
+Summer,1988,Silver,GDR,German Democratic Republic,Heike FRIEDRICH,1988 Seoul,Swimming,Women's,400m freestyle
+Summer,1988,Bronze,GDR,German Democratic Republic,Anke MÖHRING,1988 Seoul,Swimming,Women's,400m freestyle
+Summer,1988,Gold,USA,United States,Janet EVANS,1988 Seoul,Swimming,Women's,800m freestyle
+Summer,1988,Silver,GDR,German Democratic Republic,Astrid STRAUSS,1988 Seoul,Swimming,Women's,800m freestyle
+Summer,1988,Bronze,AUS,Australia,Julie MCDONALD,1988 Seoul,Swimming,Women's,800m freestyle
+Summer,1988,Gold,GDR,German Democratic Republic,"Kristin OTTO, Daniela HUNGER, Katrin MEISSNER, Manuela STELLMACH",1988 Seoul,Swimming,Women's,4x100m freestyle relay
+Summer,1988,Silver,NED,Netherlands,"Conny VAN BENTUM, Marianne MUIS, Karin BRIENESSE, Mildred MUIS",1988 Seoul,Swimming,Women's,4x100m freestyle relay
+Summer,1988,Bronze,USA,United States,"Mary Alice WAYTE, Laura Anne WALKER, Mitzi Patricia KREMER, Dara TORRES",1988 Seoul,Swimming,Women's,4x100m freestyle relay
+Summer,1988,Gold,BUL,Bulgaria,Tania BOGOMILOVA-DANGALAKOVA,1988 Seoul,Swimming,Women's,100m breaststroke
+Summer,1988,Silver,BUL,Bulgaria,Antoaneta FRENKEVA,1988 Seoul,Swimming,Women's,100m breaststroke
+Summer,1988,Bronze,GDR,German Democratic Republic,Silke HÖRNER,1988 Seoul,Swimming,Women's,100m breaststroke
+Summer,1988,Gold,GDR,German Democratic Republic,Silke HÖRNER,1988 Seoul,Swimming,Women's,200m breaststroke
+Summer,1988,Silver,CHN,China,Xiao-Min HUANG,1988 Seoul,Swimming,Women's,200m breaststroke
+Summer,1988,Bronze,BUL,Bulgaria,Antoaneta FRENKEVA,1988 Seoul,Swimming,Women's,200m breaststroke
+Summer,1988,Gold,GDR,German Democratic Republic,Kristin OTTO,1988 Seoul,Swimming,Women's,100m butterfly
+Summer,1988,Silver,GDR,German Democratic Republic,Birte WEIGANG,1988 Seoul,Swimming,Women's,100m butterfly
+Summer,1988,Bronze,CHN,China,Hong QIAN,1988 Seoul,Swimming,Women's,100m butterfly
+Summer,1988,Gold,GDR,German Democratic Republic,Kathleen NORD,1988 Seoul,Swimming,Women's,200m butterfly
+Summer,1988,Silver,GDR,German Democratic Republic,Birte WEIGANG,1988 Seoul,Swimming,Women's,200m butterfly
+Summer,1988,Bronze,USA,United States,Mary T. MEAGHER,1988 Seoul,Swimming,Women's,200m butterfly
+Summer,1988,Gold,GDR,German Democratic Republic,Kristin OTTO,1988 Seoul,Swimming,Women's,100m backstroke
+Summer,1988,Silver,HUN,Hungary,Krisztina EGERSZEGI,1988 Seoul,Swimming,Women's,100m backstroke
+Summer,1988,Bronze,GDR,German Democratic Republic,Cornelia SIRCH,1988 Seoul,Swimming,Women's,100m backstroke
+Summer,1988,Gold,HUN,Hungary,Krisztina EGERSZEGI,1988 Seoul,Swimming,Women's,200m backstroke
+Summer,1988,Silver,GDR,German Democratic Republic,Kathrin ZIMMERMANN,1988 Seoul,Swimming,Women's,200m backstroke
+Summer,1988,Bronze,GDR,German Democratic Republic,Cornelia SIRCH,1988 Seoul,Swimming,Women's,200m backstroke
+Summer,1988,Gold,GDR,German Democratic Republic,Daniela HUNGER,1988 Seoul,Swimming,Women's,200m individual medley
+Summer,1988,Silver,URS,USSR,Elena DENDEBEROVA,1988 Seoul,Swimming,Women's,200m individual medley
+Summer,1988,Bronze,ROU,Romania,Noemi Ildiko LUNG,1988 Seoul,Swimming,Women's,200m individual medley
+Summer,1988,Gold,USA,United States,Janet EVANS,1988 Seoul,Swimming,Women's,400m individual medley
+Summer,1988,Silver,ROU,Romania,Noemi Ildiko LUNG,1988 Seoul,Swimming,Women's,400m individual medley
+Summer,1988,Bronze,GDR,German Democratic Republic,Daniela HUNGER,1988 Seoul,Swimming,Women's,400m individual medley
+Summer,1988,Gold,GDR,German Democratic Republic,"Kristin OTTO, Birte WEIGANG, Silke HÖRNER, Katrin MEISSNER",1988 Seoul,Swimming,Women's,4x100m medley relay
+Summer,1988,Silver,USA,United States,"Elizabeth Cynthia BARR, Janet Simone JORGENSEN, Dara TORRES, Elizabeth MITCHELL, Tracey MCFARLANE, Mary Alice WAYTE, Mary T. MEAGHER",1988 Seoul,Swimming,Women's,4x100m medley relay
+Summer,1988,Bronze,CAN,Canada,"Allison Ann HIGSON, Andrea NUGENT, Lori MELIEN, Jane KERR",1988 Seoul,Swimming,Women's,4x100m medley relay
+Summer,1988,Gold,KOR,Korea Republic,Nam-Kyu YOO,1988 Seoul,Table Tennis,Men's,singles
+Summer,1988,Silver,KOR,Korea Republic,Ki Taik KIM,1988 Seoul,Table Tennis,Men's,singles
+Summer,1988,Bronze,SWE,Sweden,Erik LINDH,1988 Seoul,Table Tennis,Men's,singles
+Summer,1988,Gold,CHN,China,"Long-Can CHEN, Qing-Guang WEI",1988 Seoul,Table Tennis,Men's,doubles
+Summer,1988,Silver,YUG,Yugoslavia,"Ilija LUPULESKU, Zoran PRIMORAC",1988 Seoul,Table Tennis,Men's,doubles
+Summer,1988,Bronze,KOR,Korea Republic,"Jae Hyung AN, Nam-Kyu YOO",1988 Seoul,Table Tennis,Men's,doubles
+Summer,1988,Gold,CHN,China,Jing CHEN,1988 Seoul,Table Tennis,Women's,singles
+Summer,1988,Silver,CHN,China,Hui-Fen LI,1988 Seoul,Table Tennis,Women's,singles
+Summer,1988,Bronze,CHN,China,Zhi-Min JIAO,1988 Seoul,Table Tennis,Women's,singles
+Summer,1988,Gold,KOR,Korea Republic,"Young-Ja YANG, Jung Hwa HYUN",1988 Seoul,Table Tennis,Women's,doubles
+Summer,1988,Silver,CHN,China,"Zhi-Min JIAO, Jing CHEN",1988 Seoul,Table Tennis,Women's,doubles
+Summer,1988,Bronze,YUG,Yugoslavia,"Gordana PERKUCIN, Jasna REED",1988 Seoul,Table Tennis,Women's,doubles
+Summer,1988,Gold,TCH,Czechoslovakia,Miloslav MECIR,1988 Seoul,Tennis,Men's,singles
+Summer,1988,Silver,USA,United States,Timothy C. MAYOTTE,1988 Seoul,Tennis,Men's,singles
+Summer,1988,Bronze,SWE,Sweden,Stefan EDBERG,1988 Seoul,Tennis,Men's,singles
+Summer,1988,Bronze,USA,United States,Bradley N. GILBERT,1988 Seoul,Tennis,Men's,singles
+Summer,1988,Gold,USA,United States,"Robert A. SEGUSO, Kenneth FLACH",1988 Seoul,Tennis,Men's,doubles
+Summer,1988,Silver,ESP,Spain,"Sergio CASAL MARTINEZ, Emilio SANCHEZ",1988 Seoul,Tennis,Men's,doubles
+Summer,1988,Bronze,TCH,Czechoslovakia,"Milan SREJBER, Miloslav MECIR",1988 Seoul,Tennis,Men's,doubles
+Summer,1988,Bronze,SWE,Sweden,"Anders JARRYD, Stefan EDBERG",1988 Seoul,Tennis,Men's,doubles
+Summer,1988,Gold,FRG,Federal Republic of Germany,Steffi GRAF,1988 Seoul,Tennis,Women's,singles
+Summer,1988,Silver,ARG,Argentina,Gabriela SABATINI,1988 Seoul,Tennis,Women's,singles
+Summer,1988,Bronze,BUL,Bulgaria,Manuela MALEEVA-FRAGNIERE,1988 Seoul,Tennis,Women's,singles
+Summer,1988,Bronze,USA,United States,Zina GARRISON,1988 Seoul,Tennis,Women's,singles
+Summer,1988,Gold,USA,United States,"Zina GARRISON, Pamela Howard SHRIVER",1988 Seoul,Tennis,Women's,doubles
+Summer,1988,Silver,TCH,Czechoslovakia,"Helena SUKOVA, Jana NOVOTNA",1988 Seoul,Tennis,Women's,doubles
+Summer,1988,Bronze,AUS,Australia,"Wendy TURNBULL, Elizabeth SMYLIE",1988 Seoul,Tennis,Women's,doubles
+Summer,1988,Bronze,FRG,Federal Republic of Germany,"Claudia KOHDE-KILSCH, Steffi GRAF",1988 Seoul,Tennis,Women's,doubles
+Summer,1988,Gold,USA,United States,"Ricci Judson LUYTIES, Robert Douglas PARTIE, Jeffrey Malcolm STORK, Charles KIRALY, David Patrick SAUNDERS, Craig Werner BUCK, Robert Jan CTVRTLIK, Steve Dennis TIMMONS, Eric SATO, Troy R. TANNER, Jonathan Edward ROOT, Scott Thomas FORTUNE",1988 Seoul,Volleyball,Men's,volleyball
+Summer,1988,Silver,URS,USSR,"Andrei KUZNETSOV, Raimundas VILDE, Yuri SAPEGA, Vladimir SHKURIKHIN, Aleksandr SOROKOLET, Yuri CHEREDNIK, Yuri PANCHENKO, Viacheslav ZAITSEV, Valeri LOSEV, Igor RUNOV, Yevgeni KRASILNIKOV, Yaroslav ANTONOV",1988 Seoul,Volleyball,Men's,volleyball
+Summer,1988,Bronze,ARG,Argentina,"Daniel Jorge CASTELLANI, Hugo Nestor CONTE, Raul Nicolas QUIROGA, Esteban DE PALMA, Alejandro DIZ, Carlos WEBER, Claudio F. ZULIANELLO, Esteban Eduardo MARTINEZ, Waldo Ariel KANTOR, Jon Emili URIARTE, Juan Carlos CUMINETTI, Daniel M. COLLA",1988 Seoul,Volleyball,Men's,volleyball
+Summer,1988,Gold,URS,USSR,"Elena VOLKOVA, Tatyana KRAINOVA, Marina NIKULINA, Olga KRIVOSHEEVA, Irina SMIRNOVA, Irina PARKHOMCHUK, Valentina OGIENKO, Marina KUMYSH, Olga SHKURNOVA, Elena OVCHINNIKOVA, Svetlana KORYTOVA, Tatyana SIDORENKO",1988 Seoul,Volleyball,Women's,volleyball
+Summer,1988,Silver,PER,Peru,"Cecilia TAIT, Denisse FAJARDO, Gabriela PEREZ DEL SOLAR, Alejandra DE LA GUERRA, Natalia MALAGA, Cenaida URIBE, Luisa CERVERA, Miriam GALLARDO, Isabel HEREDIA, Gina TORREALVA, Katherine HORNY, Rosa GARCIA",1988 Seoul,Volleyball,Women's,volleyball
+Summer,1988,Bronze,CHN,China,"Hong ZHAO, Ying JIANG, Xiao-Jun YANG, Ya-Jun WANG, Huijuan SU, Dan WU, Guo-Jun LI, Yu-Zhu HOU, Yong-Mei CUI, Xi-Lan YANG, Mei-Zhu ZHENG, Yue-Ming LI",1988 Seoul,Volleyball,Women's,volleyball
+Summer,1988,Gold,YUG,Yugoslavia,"Aleksandar SOSTAR, Dubravko SIMENC, Veselin DJUHO, Mirko VICEVIC, Mislav BEZMALINOVIC, Igor MILANOVIC, Renco POSINKOVIC, Deni LUSIC, Perica BUKIC, Dragan ANDRIC, Igor GOCANIN, Tomislav PASKVALIN, Goran RADJENOVIC",1988 Seoul,Water Polo,Men's,water polo
+Summer,1988,Silver,USA,United States,"Kevin George ROBERTSON, George Peter CAMPBELL, Edward Craig KLASS, Jeff CAMPBELL, Terence Alan SCHROEDER, Christopher DUPLANTY, Craig Martin WILSON, James Hubter BERGESON, Douglas Burns KIMBELL, Alan Edward MOUCHAWAR, Gregory Vartl BOYER, Jodocus David CAMPBELL, Michael Scott EVANS",1988 Seoul,Water Polo,Men's,water polo
+Summer,1988,Bronze,URS,USSR,"Evgeni SHARONOV, Evgeni GRISHIN, Sergey NAUMOV, Sergei KOTENKO, Georgi MSCHVENIERADZE, Sergei MARKOCH, Mikhail GIORGADZE, Nurlan MENDYGALIEV, Aleksandr KOLOTOV, Viktor BERENDYUGA, Dmitri APANASSENKO, Mikhail IVANOV, Nikolai SMIRNOV",1988 Seoul,Water Polo,Men's,water polo
+Summer,1988,Gold,BUL,Bulgaria,Sevdalin MARINOV,1988 Seoul,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1988,Silver,KOR,Korea Republic,Byung-Kwan CHUN,1988 Seoul,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1988,Bronze,CHN,China,Zhuo-Qiang HE,1988 Seoul,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1988,Gold,URS,USSR,Oksen MIRZOYAN,1988 Seoul,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1988,Silver,CHN,China,Ying-Qiang HE,1988 Seoul,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1988,Bronze,CHN,China,Shoubin LIU,1988 Seoul,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1988,Gold,TUR,Turkey,Naim SULEYMANOGLU,1988 Seoul,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1988,Silver,BUL,Bulgaria,Stefan TOPUROV,1988 Seoul,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1988,Bronze,CHN,China,Huan-Ming YE,1988 Seoul,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1988,Gold,GDR,German Democratic Republic,Joachim KUNZ,1988 Seoul,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1988,Silver,URS,USSR,Israel MILITOSIAN,1988 Seoul,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1988,Bronze,CHN,China,Jin-He LI,1988 Seoul,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1988,Gold,BUL,Bulgaria,Borislav GIDIKOV,1988 Seoul,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1988,Silver,GDR,German Democratic Republic,Ingo STEINHOEFEL,1988 Seoul,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1988,Bronze,BUL,Bulgaria,Aleksander VARBANOV,1988 Seoul,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1988,Gold,URS,USSR,Israil ARSAMAKOV,1988 Seoul,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1988,Silver,HUN,Hungary,Istvan MESSZI,1988 Seoul,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1988,Bronze,KOR,Korea Republic,Kyung-Kun LEE,1988 Seoul,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1988,Gold,URS,USSR,Anatoli KHRAPATY,1988 Seoul,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1988,Silver,URS,USSR,Nail MUKHAMEDYAROV,1988 Seoul,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1988,Bronze,POL,Poland,Slawomir ZAWADA,1988 Seoul,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1988,Gold,URS,USSR,Pavel KUZNETSOV,1988 Seoul,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1988,Silver,ROU,Romania,Nicu VLAD,1988 Seoul,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Peter IMMESBERGER,1988 Seoul,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1988,Gold,URS,USSR,Yuri ZAKHAREVICH,1988 Seoul,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1988,Silver,HUN,Hungary,Jozsef JACSO,1988 Seoul,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1988,Bronze,GDR,German Democratic Republic,Ronny WELLER,1988 Seoul,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1988,Gold,URS,USSR,Alexandre KURLOVICH,1988 Seoul,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1988,Silver,FRG,Federal Republic of Germany,Manfred NERLINGER,1988 Seoul,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1988,Bronze,FRG,Federal Republic of Germany,Martin ZAWIEJA,1988 Seoul,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1988,Gold,JPN,Japan,Takashi KOBAYASHI,1988 Seoul,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1988,Silver,BUL,Bulgaria,Ivan TZONOV,1988 Seoul,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1988,Bronze,URS,USSR,Sergei KARAMCHAKOV,1988 Seoul,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1988,Gold,JPN,Japan,Mitsuru SATO,1988 Seoul,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1988,Silver,YUG,Yugoslavia,Saban TRSTENA,1988 Seoul,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1988,Bronze,URS,USSR,Vladimir TOHUZOV,1988 Seoul,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1988,Gold,URS,USSR,Sergei BELOGLAZOV,1988 Seoul,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1988,Silver,IRI,Iran,Asgari MOHAMMADIAN,1988 Seoul,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1988,Bronze,KOR,Korea Republic,Kyung-Sun NOH,1988 Seoul,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1988,Gold,USA,United States,John SMITH,1988 Seoul,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1988,Silver,URS,USSR,Stepan SARKISYAN,1988 Seoul,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1988,Bronze,BUL,Bulgaria,Simeon CHTEREV,1988 Seoul,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1988,Gold,URS,USSR,Arsen FADZAEV,1988 Seoul,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1988,Silver,KOR,Korea Republic,Jang-Soon PARK,1988 Seoul,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1988,Bronze,USA,United States,Nathaniel CARR,1988 Seoul,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1988,Gold,USA,United States,Kenneth MONDAY,1988 Seoul,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1988,Silver,URS,USSR,Adlan VARAEV,1988 Seoul,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1988,Bronze,BUL,Bulgaria,Sukra SOFIADI-RAKHMAT,1988 Seoul,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1988,Gold,KOR,Korea Republic,Myung-Woo HAN,1988 Seoul,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1988,Silver,TUR,Turkey,Necmi GENCALP,1988 Seoul,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1988,Bronze,TCH,Czechoslovakia,Jozef LOHYNA,1988 Seoul,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1988,Gold,URS,USSR,Makharbek KHADARTSEV,1988 Seoul,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1988,Silver,JPN,Japan,Akira OTA,1988 Seoul,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1988,Bronze,KOR,Korea Republic,Tae-Woo KIM,1988 Seoul,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1988,Gold,ROU,Romania,Vasile PUSCASU,1988 Seoul,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1988,Silver,URS,USSR,Yuri KHABELOV,1988 Seoul,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1988,Bronze,USA,United States,William Edwin SCHERR,1988 Seoul,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1988,Gold,URS,USSR,David GOBEDJICHVILI,1988 Seoul,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1988,Silver,USA,United States,Bruce Robert BAUMGARTNER,1988 Seoul,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1988,Bronze,GDR,German Democratic Republic,Andreas SCHRÖDER,1988 Seoul,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1988,Gold,ITA,Italy,Vincenzo MAENZA,1988 Seoul,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1988,Silver,POL,Poland,Andrzej GLAB,1988 Seoul,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1988,Bronze,BUL,Bulgaria,Bratan Tzenov TSENOV,1988 Seoul,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1988,Gold,NOR,Norway,Jon RÖNNINGEN,1988 Seoul,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1988,Silver,JPN,Japan,Atsuji MIYAHARA,1988 Seoul,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1988,Bronze,KOR,Korea Republic,Jae-Suk LEE,1988 Seoul,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1988,Gold,HUN,Hungary,Andras SIKE,1988 Seoul,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1988,Silver,BUL,Bulgaria,Stoyan BALOV,1988 Seoul,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1988,Bronze,GRE,Greece,Charalambos HOLIDIS,1988 Seoul,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1988,Gold,URS,USSR,Kamandar MADZHIDOV,1988 Seoul,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1988,Silver,BUL,Bulgaria,Jivko VANGELOV,1988 Seoul,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1988,Bronze,KOR,Korea Republic,Dae-Hyun AN,1988 Seoul,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1988,Gold,URS,USSR,Levon DJULFALAKIAN,1988 Seoul,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1988,Silver,KOR,Korea Republic,Sung-Moon KIM,1988 Seoul,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1988,Bronze,FIN,Finland,Tapio SIPILA,1988 Seoul,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1988,Gold,KOR,Korea Republic,Young-Nam KIM,1988 Seoul,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1988,Silver,URS,USSR,Daulet TURLYKHANOV,1988 Seoul,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1988,Bronze,POL,Poland,Jozef TRACZ,1988 Seoul,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1988,Gold,URS,USSR,Mikhail MAMIASHVILI,1988 Seoul,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1988,Silver,HUN,Hungary,Tibor KOMAROMI,1988 Seoul,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1988,Bronze,KOR,Korea Republic,Sang-Kyu KIM,1988 Seoul,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1988,Gold,BUL,Bulgaria,Atanas Slavov KOMCHEV,1988 Seoul,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1988,Silver,FIN,Finland,Harri Matias KOSKELA,1988 Seoul,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1988,Bronze,URS,USSR,Vladimir POPOV,1988 Seoul,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1988,Gold,POL,Poland,Andrzej WRONSKI,1988 Seoul,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1988,Silver,FRG,Federal Republic of Germany,Gerhard HIMMEL,1988 Seoul,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1988,Bronze,USA,United States,Dennis Marvin KOSLOWSKI,1988 Seoul,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1988,Gold,URS,USSR,Aleksandr KARELIN,1988 Seoul,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1988,Silver,BUL,Bulgaria,Rangel Ivanov GEROVSKI,1988 Seoul,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1988,Bronze,SWE,Sweden,Tomas JOHANSSON,1988 Seoul,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)

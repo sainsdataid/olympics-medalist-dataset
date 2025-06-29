@@ -1,0 +1,308 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,2018,Gold,AUT,Austria,Marcel HIRSCHER,2018 Pyeongchang,Alpine Skiing,Men's,Alpine combined
+Winter,2018,Silver,FRA,France,Alexis PINTURAULT,2018 Pyeongchang,Alpine Skiing,Men's,Alpine combined
+Winter,2018,Bronze,FRA,France,Victor MUFFAT-JEANDET,2018 Pyeongchang,Alpine Skiing,Men's,Alpine combined
+Winter,2018,Gold,SWE,Sweden,Andre MYHRER,2018 Pyeongchang,Alpine Skiing,Men's,slalom
+Winter,2018,Silver,SUI,Switzerland,Ramon ZENHAEUSERN,2018 Pyeongchang,Alpine Skiing,Men's,slalom
+Winter,2018,Bronze,AUT,Austria,Michael MATT,2018 Pyeongchang,Alpine Skiing,Men's,slalom
+Winter,2018,Gold,AUT,Austria,Marcel HIRSCHER,2018 Pyeongchang,Alpine Skiing,Men's,giant slalom
+Winter,2018,Silver,NOR,Norway,Henrik KRISTOFFERSEN,2018 Pyeongchang,Alpine Skiing,Men's,giant slalom
+Winter,2018,Bronze,FRA,France,Alexis PINTURAULT,2018 Pyeongchang,Alpine Skiing,Men's,giant slalom
+Winter,2018,Gold,AUT,Austria,Matthias MAYER,2018 Pyeongchang,Alpine Skiing,Men's,super-G
+Winter,2018,Silver,SUI,Switzerland,Beat FEUZ,2018 Pyeongchang,Alpine Skiing,Men's,super-G
+Winter,2018,Bronze,NOR,Norway,Kjetil JANSRUD,2018 Pyeongchang,Alpine Skiing,Men's,super-G
+Winter,2018,Gold,NOR,Norway,Aksel Lund SVINDAL,2018 Pyeongchang,Alpine Skiing,Men's,downhill
+Winter,2018,Silver,NOR,Norway,Kjetil JANSRUD,2018 Pyeongchang,Alpine Skiing,Men's,downhill
+Winter,2018,Bronze,SUI,Switzerland,Beat FEUZ,2018 Pyeongchang,Alpine Skiing,Men's,downhill
+Winter,2018,Gold,SUI,Switzerland,Michelle GISIN,2018 Pyeongchang,Alpine Skiing,Women's,Alpine combined
+Winter,2018,Silver,USA,United States,Mikaela SHIFFRIN,2018 Pyeongchang,Alpine Skiing,Women's,Alpine combined
+Winter,2018,Bronze,SUI,Switzerland,Wendy HOLDENER,2018 Pyeongchang,Alpine Skiing,Women's,Alpine combined
+Winter,2018,Gold,SWE,Sweden,Frida HANSDOTTER,2018 Pyeongchang,Alpine Skiing,Women's,slalom
+Winter,2018,Silver,SUI,Switzerland,Wendy HOLDENER,2018 Pyeongchang,Alpine Skiing,Women's,slalom
+Winter,2018,Bronze,AUT,Austria,Katharina GALLHUBER,2018 Pyeongchang,Alpine Skiing,Women's,slalom
+Winter,2018,Gold,USA,United States,Mikaela SHIFFRIN,2018 Pyeongchang,Alpine Skiing,Women's,giant slalom
+Winter,2018,Silver,NOR,Norway,Ragnhild MOWINCKEL,2018 Pyeongchang,Alpine Skiing,Women's,giant slalom
+Winter,2018,Bronze,ITA,Italy,Federica BRIGNONE,2018 Pyeongchang,Alpine Skiing,Women's,giant slalom
+Winter,2018,Gold,CZE,Czech Republic,Ester LEDECKA,2018 Pyeongchang,Alpine Skiing,Women's,super-G
+Winter,2018,Silver,AUT,Austria,Anna VEITH,2018 Pyeongchang,Alpine Skiing,Women's,super-G
+Winter,2018,Bronze,LIE,Liechtenstein,Tina WEIRATHER,2018 Pyeongchang,Alpine Skiing,Women's,super-G
+Winter,2018,Gold,ITA,Italy,Sofia GOGGIA,2018 Pyeongchang,Alpine Skiing,Women's,downhill
+Winter,2018,Silver,NOR,Norway,Ragnhild MOWINCKEL,2018 Pyeongchang,Alpine Skiing,Women's,downhill
+Winter,2018,Bronze,USA,United States,Lindsey VONN,2018 Pyeongchang,Alpine Skiing,Women's,downhill
+Winter,2018,Gold,SUI,Switzerland,"Wendy HOLDENER, Daniel YULE, Denise FEIERABEND, Luca AERNI, Ramon ZENHAEUSERN",2018 Pyeongchang,Alpine Skiing,Mixed,team
+Winter,2018,Silver,AUT,Austria,"Michael MATT, Stephanie BRUNNER, Katharina LIENSBERGER, Marco SCHWARZ, Katharina GALLHUBER, Manuel FELLER",2018 Pyeongchang,Alpine Skiing,Mixed,team
+Winter,2018,Bronze,NOR,Norway,"Nina HAVER-LOESETH, Maren SKJOELD, Leif Kristian NESTVOLD-HAUGEN, Kristin LYSDAHL, Sebastian FOSS-SOLEVAAG, Jonathan NORDBOTTEN",2018 Pyeongchang,Alpine Skiing,Mixed,team
+Winter,2018,Gold,GER,Germany,Arnd PEIFFER,2018 Pyeongchang,Biathlon,Men's,10km sprint
+Winter,2018,Silver,CZE,Czech Republic,Michal KRCMAR,2018 Pyeongchang,Biathlon,Men's,10km sprint
+Winter,2018,Bronze,ITA,Italy,Dominik WINDISCH,2018 Pyeongchang,Biathlon,Men's,10km sprint
+Winter,2018,Gold,FRA,France,Martin FOURCADE,2018 Pyeongchang,Biathlon,Men's,12.5km pursuit
+Winter,2018,Silver,SWE,Sweden,Sebastian SAMUELSSON,2018 Pyeongchang,Biathlon,Men's,12.5km pursuit
+Winter,2018,Bronze,GER,Germany,Benedikt DOLL,2018 Pyeongchang,Biathlon,Men's,12.5km pursuit
+Winter,2018,Gold,NOR,Norway,Johannes Thingnes BOE,2018 Pyeongchang,Biathlon,Men's,20km individual
+Winter,2018,Silver,SLO,Slovenia,Jakov FAK,2018 Pyeongchang,Biathlon,Men's,20km individual
+Winter,2018,Bronze,AUT,Austria,Dominik LANDERTINGER,2018 Pyeongchang,Biathlon,Men's,20km individual
+Winter,2018,Gold,FRA,France,Martin FOURCADE,2018 Pyeongchang,Biathlon,Men's,15km mass start
+Winter,2018,Silver,GER,Germany,Simon SCHEMPP,2018 Pyeongchang,Biathlon,Men's,15km mass start
+Winter,2018,Bronze,NOR,Norway,Emil Hegle SVENDSEN,2018 Pyeongchang,Biathlon,Men's,15km mass start
+Winter,2018,Gold,SWE,Sweden,"Jesper NELIN, Fredrik LINDSTROEM, Peppe FEMLING, Sebastian SAMUELSSON",2018 Pyeongchang,Biathlon,Men's,4x7.5km relay
+Winter,2018,Silver,NOR,Norway,"Tarjei BOE, Emil Hegle SVENDSEN, Lars Helge BIRKELAND, Johannes Thingnes BOE",2018 Pyeongchang,Biathlon,Men's,4x7.5km relay
+Winter,2018,Bronze,GER,Germany,"Simon SCHEMPP, Benedikt DOLL, Erik LESSER, Arnd PEIFFER",2018 Pyeongchang,Biathlon,Men's,4x7.5km relay
+Winter,2018,Gold,GER,Germany,Laura DAHLMEIER,2018 Pyeongchang,Biathlon,Women's,7.5km sprint
+Winter,2018,Silver,NOR,Norway,Marte OLSBU,2018 Pyeongchang,Biathlon,Women's,7.5km sprint
+Winter,2018,Bronze,CZE,Czech Republic,Veronika VITKOVA,2018 Pyeongchang,Biathlon,Women's,7.5km sprint
+Winter,2018,Gold,GER,Germany,Laura DAHLMEIER,2018 Pyeongchang,Biathlon,Women's,10km pursuit
+Winter,2018,Silver,SVK,Slovakia,Anastasiya KUZMINA,2018 Pyeongchang,Biathlon,Women's,10km pursuit
+Winter,2018,Bronze,FRA,France,Anais BESCOND,2018 Pyeongchang,Biathlon,Women's,10km pursuit
+Winter,2018,Gold,SWE,Sweden,Hanna OEBERG,2018 Pyeongchang,Biathlon,Women's,15km individual
+Winter,2018,Silver,SVK,Slovakia,Anastasiya KUZMINA,2018 Pyeongchang,Biathlon,Women's,15km individual
+Winter,2018,Bronze,GER,Germany,Laura DAHLMEIER,2018 Pyeongchang,Biathlon,Women's,15km individual
+Winter,2018,Gold,SVK,Slovakia,Anastasiya KUZMINA,2018 Pyeongchang,Biathlon,Women's,12.5km mass start
+Winter,2018,Silver,BLR,Belarus,Darya DOMRACHEVA,2018 Pyeongchang,Biathlon,Women's,12.5km mass start
+Winter,2018,Bronze,NOR,Norway,Tiril ECKHOFF,2018 Pyeongchang,Biathlon,Women's,12.5km mass start
+Winter,2018,Gold,BLR,Belarus,"Iryna KRYUKO, Darya DOMRACHEVA, Nadezhda SKARDINO, Dzinara ALIMBEKAVA",2018 Pyeongchang,Biathlon,Women's,4x6km relay
+Winter,2018,Silver,SWE,Sweden,"Mona BRORSSON, Hanna OEBERG, Anna MAGNUSSON, Linn PERSSON",2018 Pyeongchang,Biathlon,Women's,4x6km relay
+Winter,2018,Bronze,FRA,France,"Marie DORIN HABERT, Anais BESCOND, Anais CHEVALIER, Justine BRAISAZ",2018 Pyeongchang,Biathlon,Women's,4x6km relay
+Winter,2018,Gold,FRA,France,"Anais BESCOND, Martin FOURCADE, Marie DORIN HABERT, Simon DESTHIEUX",2018 Pyeongchang,Biathlon,Mixed,Relay mix
+Winter,2018,Silver,NOR,Norway,"Tiril ECKHOFF, Emil Hegle SVENDSEN, Marte OLSBU, Johannes Thingnes BOE",2018 Pyeongchang,Biathlon,Mixed,Relay mix
+Winter,2018,Bronze,ITA,Italy,"Dorothea WIERER, Dominik WINDISCH, Lisa VITTOZZI, Lukas HOFER",2018 Pyeongchang,Biathlon,Mixed,Relay mix
+Winter,2018,Gold,CAN,Canada,"Justin KRIPPS, Alexander KOPACZ",2018 Pyeongchang,Bobsleigh,Men's,two-man
+Winter,2018,Gold,GER,Germany,"Thorsten MARGIS, Francesco FRIEDRICH",2018 Pyeongchang,Bobsleigh,Men's,two-man
+Winter,2018,Bronze,LAT,Latvia,"Oskars MELBARDIS, Janis STRENGA",2018 Pyeongchang,Bobsleigh,Men's,two-man
+Winter,2018,Gold,GER,Germany,"Candy BAUER, Martin GROTHKOPP, Francesco FRIEDRICH, Thorsten MARGIS",2018 Pyeongchang,Bobsleigh,Men's,four-man
+Winter,2018,Silver,GER,Germany,"Nico WALTHER, Alexander ROEDIGER, Kevin KUSKE, Eric FRANKE",2018 Pyeongchang,Bobsleigh,Men's,four-man
+Winter,2018,Silver,KOR,Korea Republic,"WON Yunjong, SEO Youngwoo, JUN Junglin, KIM Donghyun",2018 Pyeongchang,Bobsleigh,Men's,four-man
+Winter,2018,Gold,GER,Germany,"Lisa BUCKWITZ, Mariama JAMANKA",2018 Pyeongchang,Bobsleigh,Women's,two-woman
+Winter,2018,Silver,USA,United States,"Elana MEYERS TAYLOR, Lauren GIBBS",2018 Pyeongchang,Bobsleigh,Women's,two-woman
+Winter,2018,Bronze,CAN,Canada,"Kaillie HUMPHRIES, Phylicia GEORGE",2018 Pyeongchang,Bobsleigh,Women's,two-woman
+Winter,2018,Gold,NOR,Norway,Johannes Hoesflot KLAEBO,2018 Pyeongchang,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2018,Silver,ITA,Italy,Federico PELLEGRINO,2018 Pyeongchang,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Alexander BOLSHUNOV,2018 Pyeongchang,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2018,Gold,NOR,Norway,Simen Hegstad KRUEGER,2018 Pyeongchang,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2018,Silver,NOR,Norway,Martin Johnsrud SUNDBY,2018 Pyeongchang,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2018,Bronze,NOR,Norway,Hans Christer HOLUND,2018 Pyeongchang,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2018,Gold,SUI,Switzerland,Dario COLOGNA,2018 Pyeongchang,Cross Country Skiing,Men's,15km
+Winter,2018,Silver,NOR,Norway,Simen Hegstad KRUEGER,2018 Pyeongchang,Cross Country Skiing,Men's,15km
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Denis SPITSOV,2018 Pyeongchang,Cross Country Skiing,Men's,15km
+Winter,2018,Gold,FIN,Finland,Iivo NISKANEN,2018 Pyeongchang,Cross Country Skiing,Men's,50km mass start
+Winter,2018,Silver,OAR,Olympic Athletes from Russia,Alexander BOLSHUNOV,2018 Pyeongchang,Cross Country Skiing,Men's,50km mass start
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Andrey LARKOV,2018 Pyeongchang,Cross Country Skiing,Men's,50km mass start
+Winter,2018,Gold,NOR,Norway,"Martin Johnsrud SUNDBY, Johannes Hoesflot KLAEBO",2018 Pyeongchang,Cross Country Skiing,Men's,Team Sprint
+Winter,2018,Silver,OAR,Olympic Athletes from Russia,"Denis SPITSOV, Alexander BOLSHUNOV",2018 Pyeongchang,Cross Country Skiing,Men's,Team Sprint
+Winter,2018,Bronze,FRA,France,"Maurice MANIFICAT, Richard JOUVE",2018 Pyeongchang,Cross Country Skiing,Men's,Team Sprint
+Winter,2018,Gold,NOR,Norway,"Martin Johnsrud SUNDBY, Johannes Hoesflot KLAEBO, Didrik TOENSETH, Simen Hegstad KRUEGER",2018 Pyeongchang,Cross Country Skiing,Men's,4x10km relay
+Winter,2018,Silver,OAR,Olympic Athletes from Russia,"Alexander BOLSHUNOV, Denis SPITSOV, Andrey LARKOV, Alexey CHERVOTKIN",2018 Pyeongchang,Cross Country Skiing,Men's,4x10km relay
+Winter,2018,Bronze,FRA,France,"Maurice MANIFICAT, Adrien BACKSCHEIDER, Clement PARISSE, Jean Marc GAILLARD",2018 Pyeongchang,Cross Country Skiing,Men's,4x10km relay
+Winter,2018,Gold,SWE,Sweden,Stina NILSSON,2018 Pyeongchang,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2018,Silver,NOR,Norway,Maiken Caspersen FALLA,2018 Pyeongchang,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Yulia BELORUKOVA,2018 Pyeongchang,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2018,Gold,SWE,Sweden,Charlotte KALLA,2018 Pyeongchang,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2018,Silver,NOR,Norway,Marit BJOERGEN,2018 Pyeongchang,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2018,Bronze,FIN,Finland,Krista PARMAKOSKI,2018 Pyeongchang,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2018,Gold,NOR,Norway,Ragnhild HAGA,2018 Pyeongchang,Cross Country Skiing,Women's,10km
+Winter,2018,Silver,SWE,Sweden,Charlotte KALLA,2018 Pyeongchang,Cross Country Skiing,Women's,10km
+Winter,2018,Bronze,FIN,Finland,Krista PARMAKOSKI,2018 Pyeongchang,Cross Country Skiing,Women's,10km
+Winter,2018,Bronze,NOR,Norway,Marit BJOERGEN,2018 Pyeongchang,Cross Country Skiing,Women's,10km
+Winter,2018,Gold,NOR,Norway,Marit BJOERGEN,2018 Pyeongchang,Cross Country Skiing,Women's,30km mass start
+Winter,2018,Silver,FIN,Finland,Krista PARMAKOSKI,2018 Pyeongchang,Cross Country Skiing,Women's,30km mass start
+Winter,2018,Bronze,SWE,Sweden,Stina NILSSON,2018 Pyeongchang,Cross Country Skiing,Women's,30km mass start
+Winter,2018,Gold,USA,United States,"Kikkan RANDALL, Jessica DIGGINS",2018 Pyeongchang,Cross Country Skiing,Women's,Team Sprint
+Winter,2018,Silver,SWE,Sweden,"Charlotte KALLA, Stina NILSSON",2018 Pyeongchang,Cross Country Skiing,Women's,Team Sprint
+Winter,2018,Bronze,NOR,Norway,"Marit BJOERGEN, Maiken Caspersen FALLA",2018 Pyeongchang,Cross Country Skiing,Women's,Team Sprint
+Winter,2018,Gold,NOR,Norway,"Astrid Uhrenholdt JACOBSEN, Marit BJOERGEN, Ingvild Flugstad OESTBERG, Ragnhild HAGA",2018 Pyeongchang,Cross Country Skiing,Women's,4x5km relay
+Winter,2018,Silver,SWE,Sweden,"Charlotte KALLA, Stina NILSSON, Anna HAAG, Ebba ANDERSSON",2018 Pyeongchang,Cross Country Skiing,Women's,4x5km relay
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,"Yulia BELORUKOVA, Anna NECHAEVSKAYA, Natalia NEPRYAEVA, Anastasia SEDOVA",2018 Pyeongchang,Cross Country Skiing,Women's,4x5km relay
+Winter,2018,Gold,USA,United States,"John SHUSTER, Matt HAMILTON, Joe POLO, Tyler GEORGE, John LANDSTEINER",2018 Pyeongchang,Curling,Men's,curling
+Winter,2018,Silver,SWE,Sweden,"Christoffer SUNDGREN, Oskar ERIKSSON, Henrik LEEK, Niklas EDIN, Rasmus WRANAA",2018 Pyeongchang,Curling,Men's,curling
+Winter,2018,Bronze,SUI,Switzerland,"Benoit SCHWARZ, Peter DE CRUZ, Dominik MAERKI, Claudio PAETZ, Valentin TANNER",2018 Pyeongchang,Curling,Men's,curling
+Winter,2018,Gold,SWE,Sweden,"Sara MCMANUS, Sofia MABERGS, Anna HASSELBORG, Agnes KNOCHENHAUER, Jennie WAAHLIN",2018 Pyeongchang,Curling,Women's,curling
+Winter,2018,Silver,KOR,Korea Republic,"KIM EunJung, KIM SeonYeong, KIM Chohi, KIM KyeongAe, KIM YeongMi",2018 Pyeongchang,Curling,Women's,curling
+Winter,2018,Bronze,JPN,Japan,"Chinami YOSHIDA, Yurika YOSHIDA, Satsuki FUJISAWA, Yumi SUZUKI, Mari MOTOHASHI",2018 Pyeongchang,Curling,Women's,curling
+Winter,2018,Gold,CAN,Canada,"John MORRIS, Kaitlyn LAWES",2018 Pyeongchang,Curling,Mixed,Doubles
+Winter,2018,Silver,SUI,Switzerland,"Martin RIOS, Jenny PERRET",2018 Pyeongchang,Curling,Mixed,Doubles
+Winter,2018,Bronze,NOR,Norway,"Magnus NEDREGOTTEN, Kristin SKASLIEN",2018 Pyeongchang,Curling,Mixed,Doubles
+Winter,2018,Gold,JPN,Japan,Yuzuru HANYU,2018 Pyeongchang,Figure skating,Men's,individual
+Winter,2018,Silver,JPN,Japan,Shoma UNO,2018 Pyeongchang,Figure skating,Men's,individual
+Winter,2018,Bronze,ESP,Spain,Javier FERNANDEZ,2018 Pyeongchang,Figure skating,Men's,individual
+Winter,2018,Gold,OAR,Olympic Athletes from Russia,Alina ZAGITOVA,2018 Pyeongchang,Figure skating,Women's,individual
+Winter,2018,Silver,OAR,Olympic Athletes from Russia,Evgenia MEDVEDEVA,2018 Pyeongchang,Figure skating,Women's,individual
+Winter,2018,Bronze,CAN,Canada,Kaetlyn OSMOND,2018 Pyeongchang,Figure skating,Women's,individual
+Winter,2018,Gold,GER,Germany,"MASSOT Bruno, SAVCHENKO Aljona",2018 Pyeongchang,Figure skating,Mixed,pairs
+Winter,2018,Silver,CHN,China,"HAN Cong, SUI Wenjing",2018 Pyeongchang,Figure skating,Mixed,pairs
+Winter,2018,Bronze,CAN,Canada,"RADFORD Eric, DUHAMEL Meagan",2018 Pyeongchang,Figure skating,Mixed,pairs
+Winter,2018,Gold,CAN,Canada,"MOIR Scott, VIRTUE Tessa",2018 Pyeongchang,Figure skating,Mixed,ice dancing
+Winter,2018,Silver,FRA,France,"CIZERON Guillaume, PAPADAKIS Gabriella",2018 Pyeongchang,Figure skating,Mixed,ice dancing
+Winter,2018,Bronze,USA,United States,"SHIBUTANI Alex, SHIBUTANI Maia",2018 Pyeongchang,Figure skating,Mixed,ice dancing
+Winter,2018,Gold,CAN,Canada,"DUHAMEL Meagan, VIRTUE Tessa, DALEMAN Gabrielle, RADFORD Eric, MOIR Scott, CHAN Patrick, OSMOND Kaetlyn",2018 Pyeongchang,Figure skating,Mixed,team
+Winter,2018,Silver,OAR,Olympic Athletes from Russia,"KOLYADA Mikhail, ZAGITOVA Alina, MOROZOV Vladimir, ENBERT Alexander, SOLOVIEV Dmitri, MEDVEDEVA Evgenia, TARASOVA Evgenia, ZABIIAKO Natalia, BOBROVA Ekaterina",2018 Pyeongchang,Figure skating,Mixed,team
+Winter,2018,Bronze,USA,United States,"RIPPON Adam, TENNELL Bradie, KNIERIM Chris, SHIBUTANI Alex, CHEN Nathan, NAGASU Mirai, SCIMECA KNIERIM Alexa, SHIBUTANI Maia",2018 Pyeongchang,Figure skating,Mixed,team
+Winter,2018,Gold,UKR,Ukraine,Oleksandr ABRAMENKO,2018 Pyeongchang,Freestyle Skiing,Men's,aerials
+Winter,2018,Silver,CHN,China,JIA Zongyang,2018 Pyeongchang,Freestyle Skiing,Men's,aerials
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Ilia BUROV,2018 Pyeongchang,Freestyle Skiing,Men's,aerials
+Winter,2018,Gold,CAN,Canada,Mikael KINGSBURY,2018 Pyeongchang,Freestyle Skiing,Men's,moguls
+Winter,2018,Silver,AUS,Australia,Matt GRAHAM,2018 Pyeongchang,Freestyle Skiing,Men's,moguls
+Winter,2018,Bronze,JPN,Japan,Daichi HARA,2018 Pyeongchang,Freestyle Skiing,Men's,moguls
+Winter,2018,Gold,CAN,Canada,Brady LEMAN,2018 Pyeongchang,Freestyle Skiing,Men's,Ski Cross
+Winter,2018,Silver,SUI,Switzerland,Marc BISCHOFBERGER,2018 Pyeongchang,Freestyle Skiing,Men's,Ski Cross
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Sergey RIDZIK,2018 Pyeongchang,Freestyle Skiing,Men's,Ski Cross
+Winter,2018,Gold,USA,United States,David WISE,2018 Pyeongchang,Freestyle Skiing,Men's,Halfpipe
+Winter,2018,Silver,USA,United States,Alex FERREIRA,2018 Pyeongchang,Freestyle Skiing,Men's,Halfpipe
+Winter,2018,Bronze,NZL,New Zealand,Nico PORTEOUS,2018 Pyeongchang,Freestyle Skiing,Men's,Halfpipe
+Winter,2018,Gold,NOR,Norway,Oystein BRAATEN,2018 Pyeongchang,Freestyle Skiing,Men's,Slopestyle
+Winter,2018,Silver,USA,United States,Nick GOEPPER,2018 Pyeongchang,Freestyle Skiing,Men's,Slopestyle
+Winter,2018,Bronze,CAN,Canada,Alex BEAULIEU-MARCHAND,2018 Pyeongchang,Freestyle Skiing,Men's,Slopestyle
+Winter,2018,Gold,BLR,Belarus,Hanna HUSKOVA,2018 Pyeongchang,Freestyle Skiing,Women's,aerials
+Winter,2018,Silver,CHN,China,ZHANG Xin,2018 Pyeongchang,Freestyle Skiing,Women's,aerials
+Winter,2018,Bronze,CHN,China,KONG Fanyu,2018 Pyeongchang,Freestyle Skiing,Women's,aerials
+Winter,2018,Gold,FRA,France,Perrine LAFFONT,2018 Pyeongchang,Freestyle Skiing,Women's,moguls
+Winter,2018,Silver,CAN,Canada,Justine DUFOUR-LAPOINTE,2018 Pyeongchang,Freestyle Skiing,Women's,moguls
+Winter,2018,Bronze,KAZ,Kazakhstan,Yulia GALYSHEVA,2018 Pyeongchang,Freestyle Skiing,Women's,moguls
+Winter,2018,Gold,CAN,Canada,Kelsey SERWA,2018 Pyeongchang,Freestyle Skiing,Women's,Ski Cross
+Winter,2018,Silver,CAN,Canada,Brittany PHELAN,2018 Pyeongchang,Freestyle Skiing,Women's,Ski Cross
+Winter,2018,Bronze,SUI,Switzerland,Fanny SMITH,2018 Pyeongchang,Freestyle Skiing,Women's,Ski Cross
+Winter,2018,Gold,CAN,Canada,Cassie SHARPE,2018 Pyeongchang,Freestyle Skiing,Women's,Halfpipe
+Winter,2018,Silver,FRA,France,Marie MARTINOD,2018 Pyeongchang,Freestyle Skiing,Women's,Halfpipe
+Winter,2018,Bronze,USA,United States,Brita SIGOURNEY,2018 Pyeongchang,Freestyle Skiing,Women's,Halfpipe
+Winter,2018,Gold,SUI,Switzerland,Sarah HOEFFLIN,2018 Pyeongchang,Freestyle Skiing,Women's,Slopestyle
+Winter,2018,Silver,SUI,Switzerland,Mathilde GREMAUD,2018 Pyeongchang,Freestyle Skiing,Women's,Slopestyle
+Winter,2018,Bronze,GBR,Great Britain,Isabel ATKIN,2018 Pyeongchang,Freestyle Skiing,Women's,Slopestyle
+Winter,2018,Gold,OAR,Olympic Athletes from Russia,"Vladislav GAVRIKOV, Sergei MOZYAKIN, Pavel DATSYUK, Mikhail GRIGORENKO, Andrei ZUBAREV, Igor SHESTYORKIN, Yegor YAKOVLEV, Alexei MARCHENKO, Ilya KOVALCHUK, Kirill KAPRIZOV, Vadim SHIPACHYOV, Alexander BARABANOV, Artyom ZUB, Ivan TELEGIN, Sergei ANDRONOV, Sergei KALININ, Vyacheslav VOINOV, Ilya KABLUKOV, Ilya SOROKIN, Sergei SHIROKOV, Bogdan KISELEVICH, Nikolai PROKHORKIN, Vasili KOSHECHKIN, Nikita NESTEROV, Nikita GUSEV",2018 Pyeongchang,Ice Hockey,Men's,ice hockey
+Winter,2018,Silver,GER,Germany,"Gerrit FAUSER, Frank HORDLER, Timo PIELMEIER, Marcel GOC, Sinan AKDAG, David WOLF, Marcel NOEBELS, Daryl BOYLE, Brooks MACEK, Matthias PLACHTA, Danny AUS DEN BIRKEN, Patrick REIMER, Jonas MULLER, Dennis ENDRAS, Patrick HAGER, Felix SCHUTZ, Dominik KAHUN, Leonhard PFODERL, Moritz MULLER, Christian EHRHOFF, Marcus KINK, Frank MAUER, Yannic SEIDENBERG, Bjorn KRUPP, Yasin EHLIZ",2018 Pyeongchang,Ice Hockey,Men's,ice hockey
+Winter,2018,Bronze,CAN,Canada,"Mat ROBINSON, Maxim NOREAU, Christian THOMAS, Chris LEE, Gilbert BRULE, Derek ROY, Rob KLINKHAMMER, Quinton HOWDEN, Marc-Andre GRAGNANI, Mason RAYMOND, Eric O'DELL, Cody GOLOUBEF, Kevin POULIN, Maxim LAPIERRE, Linden VEY, Karl STOLLERY, Chay GENOWAY, Wojtek WOLSKI, Chris KELLY, Brandon KOZUN, Rene BOURQUE, Andrew EBBETT, Stefan ELLIOTT, Ben SCRIVENS, Justin PETERS",2018 Pyeongchang,Ice Hockey,Men's,ice hockey
+Winter,2018,Gold,USA,United States,"Cayla BARNES, Kali FLANAGAN, Emily PFALZER, Haley SKARUPA, Brianna DECKER, Gigi MARVIN, Hilary KNIGHT, Sidney MORIN, Kendall COYNE, Nicole HENSLEY, Maddie ROONEY, Lee STECKLEIN, Megan KELLER, Monique LAMOUREUX-MORANDO, Meghan DUGGAN, Kelly PANNEK, Jocelyne LAMOUREUX-DAVIDSON, Hannah BRANDT, Kacey BELLAMY, Dani CAMERANESI, Amanda KESSEL, Alex RIGSBY, Amanda PELKEY",2018 Pyeongchang,Ice Hockey,Women's,ice hockey
+Winter,2018,Silver,CAN,Canada,"Genevieve LACASSE, Blayre TURNBULL, Shannon SZABADOS, Jocelyne LAROCQUE, Lauriane ROUGEAU, Laura STACEY, Jennifer WAKEFIELD, Meaghan MIKKELSON, Melodie DAOUST, Brianne JENNER, Haley IRWIN, Emily CLARK, Marie-Philip POULIN, Ann-Renee DESBIENS, Meghan AGOSTA, Brigette LACQUETTE, Rebecca JOHNSTON, Laura FORTINO, Jillian SAULNIER, Renata FAST, Bailey BRAM, Sarah NURSE, Natalie SPOONER",2018 Pyeongchang,Ice Hockey,Women's,ice hockey
+Winter,2018,Bronze,FIN,Finland,"Isa RAHUNEN, Jenni HIIRIKOSKI, Ella VIITASUO, Linda VALIMAKI, Riikka VALILA, Meeri RAISANEN, Emma NUUTINEN, Noora TULUS, Saila SAARI, Noora RATY, Susanna TAPANI, Eveliina SUONPAA, Rosa LINDSTEDT, Mira JALOSUO, Venla HOVI, Annina RAJAHUHTA, Minnamari TUOMINEN, Petra NIEMINEN, Sanni HAKALA, Sara SAKKINEN, Michelle KARVINEN, Tanja NISKANEN, Ronja SAVOLAINEN",2018 Pyeongchang,Ice Hockey,Women's,ice hockey
+Winter,2018,Gold,AUT,Austria,David GLEIRSCHER,2018 Pyeongchang,Luge,Men's,singles
+Winter,2018,Silver,USA,United States,Chris MAZDZER,2018 Pyeongchang,Luge,Men's,singles
+Winter,2018,Bronze,GER,Germany,Johannes LUDWIG,2018 Pyeongchang,Luge,Men's,singles
+Winter,2018,Gold,GER,Germany,Natalie GEISENBERGER,2018 Pyeongchang,Luge,Women's,singles
+Winter,2018,Silver,GER,Germany,Dajana EITBERGER,2018 Pyeongchang,Luge,Women's,singles
+Winter,2018,Bronze,CAN,Canada,Alex GOUGH,2018 Pyeongchang,Luge,Women's,singles
+Winter,2018,Gold,GER,Germany,"ARLT Tobias, WENDL Tobias",2018 Pyeongchang,Luge,Mixed,doubles
+Winter,2018,Silver,AUT,Austria,"FISCHLER Georg, PENZ Peter",2018 Pyeongchang,Luge,Mixed,doubles
+Winter,2018,Bronze,GER,Germany,"BENECKEN Sascha, EGGERT Toni",2018 Pyeongchang,Luge,Mixed,doubles
+Winter,2018,Gold,GER,Germany,"Tobias WENDL, Johannes LUDWIG, Tobias ARLT, Natalie GEISENBERGER",2018 Pyeongchang,Luge,Mixed,team relay
+Winter,2018,Silver,CAN,Canada,"Alex GOUGH, Tristan WALKER, Sam EDNEY, Justin SNITH",2018 Pyeongchang,Luge,Mixed,team relay
+Winter,2018,Bronze,AUT,Austria,"Madeleine EGLE, Peter PENZ, David GLEIRSCHER, Georg FISCHLER",2018 Pyeongchang,Luge,Mixed,team relay
+Winter,2018,Gold,GER,Germany,Eric FRENZEL,2018 Pyeongchang,Nordic Combined,Men's,individual
+Winter,2018,Silver,JPN,Japan,Akito WATABE,2018 Pyeongchang,Nordic Combined,Men's,individual
+Winter,2018,Bronze,AUT,Austria,Lukas KLAPFER,2018 Pyeongchang,Nordic Combined,Men's,individual
+Winter,2018,Gold,GER,Germany,Johannes RYDZEK,2018 Pyeongchang,Nordic Combined,Men's,Large Hill individual
+Winter,2018,Silver,GER,Germany,Fabian RIESSLE,2018 Pyeongchang,Nordic Combined,Men's,Large Hill individual
+Winter,2018,Bronze,GER,Germany,Eric FRENZEL,2018 Pyeongchang,Nordic Combined,Men's,Large Hill individual
+Winter,2018,Gold,GER,Germany,"Vinzenz GEIGER, Johannes RYDZEK, Eric FRENZEL, Fabian RIESSLE",2018 Pyeongchang,Nordic Combined,Men's,team
+Winter,2018,Silver,NOR,Norway,"Jarl Magnus RIIBER, Jan SCHMID, Joergen GRAABAK, Espen ANDERSEN",2018 Pyeongchang,Nordic Combined,Men's,team
+Winter,2018,Bronze,AUT,Austria,"Bernhard GRUBER, Wilhelm DENIFL, Mario SEIDL, Lukas KLAPFER",2018 Pyeongchang,Nordic Combined,Men's,team
+Winter,2018,Gold,CHN,China,WU Dajing,2018 Pyeongchang,Short Track Speed Skating,Men's,500m
+Winter,2018,Silver,KOR,Korea Republic,HWANG Daeheon,2018 Pyeongchang,Short Track Speed Skating,Men's,500m
+Winter,2018,Bronze,KOR,Korea Republic,LIM Hyojun,2018 Pyeongchang,Short Track Speed Skating,Men's,500m
+Winter,2018,Gold,CAN,Canada,Samuel GIRARD,2018 Pyeongchang,Short Track Speed Skating,Men's,1000m
+Winter,2018,Silver,USA,United States,John-Henry KRUEGER,2018 Pyeongchang,Short Track Speed Skating,Men's,1000m
+Winter,2018,Bronze,KOR,Korea Republic,SEO Yira,2018 Pyeongchang,Short Track Speed Skating,Men's,1000m
+Winter,2018,Gold,KOR,Korea Republic,LIM Hyojun,2018 Pyeongchang,Short Track Speed Skating,Men's,1500m
+Winter,2018,Silver,NED,Netherlands,Sjinkie KNEGT,2018 Pyeongchang,Short Track Speed Skating,Men's,1500m
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Semen ELISTRATOV,2018 Pyeongchang,Short Track Speed Skating,Men's,1500m
+Winter,2018,Gold,HUN,Hungary,"Csaba BURJAN, Shaolin Sandor LIU, Bence OLAH, Shaoang LIU, Viktor KNOCH",2018 Pyeongchang,Short Track Speed Skating,Men's,5000m relay
+Winter,2018,Silver,CHN,China,"CHEN Dequan, REN Ziwei, XU Hongzhi, HAN Tianyu, WU Dajing",2018 Pyeongchang,Short Track Speed Skating,Men's,5000m relay
+Winter,2018,Bronze,CAN,Canada,"Charles HAMELIN, Pascal DION, Charle COURNOYER, Francois HAMELIN, Samuel GIRARD",2018 Pyeongchang,Short Track Speed Skating,Men's,5000m relay
+Winter,2018,Gold,ITA,Italy,Arianna FONTANA,2018 Pyeongchang,Short Track Speed Skating,Women's,500m
+Winter,2018,Silver,NED,Netherlands,Yara VAN KERKHOF,2018 Pyeongchang,Short Track Speed Skating,Women's,500m
+Winter,2018,Bronze,CAN,Canada,Kim BOUTIN,2018 Pyeongchang,Short Track Speed Skating,Women's,500m
+Winter,2018,Gold,NED,Netherlands,Suzanne SCHULTING,2018 Pyeongchang,Short Track Speed Skating,Women's,1000m
+Winter,2018,Silver,CAN,Canada,Kim BOUTIN,2018 Pyeongchang,Short Track Speed Skating,Women's,1000m
+Winter,2018,Bronze,ITA,Italy,Arianna FONTANA,2018 Pyeongchang,Short Track Speed Skating,Women's,1000m
+Winter,2018,Gold,KOR,Korea Republic,CHOI Minjeong,2018 Pyeongchang,Short Track Speed Skating,Women's,1500m
+Winter,2018,Silver,CHN,China,LI Jinyu,2018 Pyeongchang,Short Track Speed Skating,Women's,1500m
+Winter,2018,Bronze,CAN,Canada,Kim BOUTIN,2018 Pyeongchang,Short Track Speed Skating,Women's,1500m
+Winter,2018,Gold,KOR,Korea Republic,"KIM Alang, LEE Yubin, CHOI Minjeong, KIM Yejin, SHIM Sukhee",2018 Pyeongchang,Short Track Speed Skating,Women's,3000m relay
+Winter,2018,Silver,ITA,Italy,"Arianna FONTANA, Cynthia MASCITTO, Martina VALCEPINA, Cecilia MAFFEI, Lucia PERETTI",2018 Pyeongchang,Short Track Speed Skating,Women's,3000m relay
+Winter,2018,Bronze,NED,Netherlands,"Lara VAN RUIJVEN, Suzanne SCHULTING, Jorien TER MORS, Rianne DE VRIES, Yara VAN KERKHOF",2018 Pyeongchang,Short Track Speed Skating,Women's,3000m relay
+Winter,2018,Gold,KOR,Korea Republic,YUN Sungbin,2018 Pyeongchang,Skeleton,Men's,individual
+Winter,2018,Silver,OAR,Olympic Athletes from Russia,Nikita TREGUBOV,2018 Pyeongchang,Skeleton,Men's,individual
+Winter,2018,Bronze,GBR,Great Britain,Dom PARSONS,2018 Pyeongchang,Skeleton,Men's,individual
+Winter,2018,Gold,GBR,Great Britain,Lizzy YARNOLD,2018 Pyeongchang,Skeleton,Women's,individual
+Winter,2018,Silver,GER,Germany,Jacqueline LOELLING,2018 Pyeongchang,Skeleton,Women's,individual
+Winter,2018,Bronze,GBR,Great Britain,Laura DEAS,2018 Pyeongchang,Skeleton,Women's,individual
+Winter,2018,Gold,GER,Germany,Andreas WELLINGER,2018 Pyeongchang,Ski Jumping,Men's,Normal Hill individual
+Winter,2018,Silver,NOR,Norway,Johann Andre FORFANG,2018 Pyeongchang,Ski Jumping,Men's,Normal Hill individual
+Winter,2018,Bronze,NOR,Norway,Robert JOHANSSON,2018 Pyeongchang,Ski Jumping,Men's,Normal Hill individual
+Winter,2018,Gold,POL,Poland,Kamil STOCH,2018 Pyeongchang,Ski Jumping,Men's,Large Hill individual
+Winter,2018,Silver,GER,Germany,Andreas WELLINGER,2018 Pyeongchang,Ski Jumping,Men's,Large Hill individual
+Winter,2018,Bronze,NOR,Norway,Robert JOHANSSON,2018 Pyeongchang,Ski Jumping,Men's,Large Hill individual
+Winter,2018,Gold,NOR,Norway,"Daniel Andre TANDE, Johann Andre FORFANG, Andreas STJERNEN, Robert JOHANSSON",2018 Pyeongchang,Ski Jumping,Men's,Large Hill team
+Winter,2018,Silver,GER,Germany,"Karl GEIGER, Andreas WELLINGER, Richard FREITAG, Stephan LEYHE",2018 Pyeongchang,Ski Jumping,Men's,Large Hill team
+Winter,2018,Bronze,POL,Poland,"Maciej KOT, Kamil STOCH, Stefan HULA, Dawid KUBACKI",2018 Pyeongchang,Ski Jumping,Men's,Large Hill team
+Winter,2018,Gold,NOR,Norway,Maren LUNDBY,2018 Pyeongchang,Ski Jumping,Women's,Normal Hill individual
+Winter,2018,Silver,GER,Germany,Katharina ALTHAUS,2018 Pyeongchang,Ski Jumping,Women's,Normal Hill individual
+Winter,2018,Bronze,JPN,Japan,ra TAKANASHI,2018 Pyeongchang,Ski Jumping,Women's,Normal Hill individual
+Winter,2018,Gold,SUI,Switzerland,Nevin GALMARINI,2018 Pyeongchang,Snowboard,Men's,Giant parallel slalom
+Winter,2018,Silver,KOR,Korea Republic,LEE Sangho,2018 Pyeongchang,Snowboard,Men's,Giant parallel slalom
+Winter,2018,Bronze,SLO,Slovenia,Zan KOSIR,2018 Pyeongchang,Snowboard,Men's,Giant parallel slalom
+Winter,2018,Gold,USA,United States,Shaun WHITE,2018 Pyeongchang,Snowboard,Men's,Half-pipe
+Winter,2018,Silver,JPN,Japan,Ayumu HIRANO,2018 Pyeongchang,Snowboard,Men's,Half-pipe
+Winter,2018,Bronze,AUS,Australia,Scotty JAMES,2018 Pyeongchang,Snowboard,Men's,Half-pipe
+Winter,2018,Gold,USA,United States,Redmond GERARD,2018 Pyeongchang,Snowboard,Men's,Slopestyle
+Winter,2018,Silver,CAN,Canada,Max PARROT,2018 Pyeongchang,Snowboard,Men's,Slopestyle
+Winter,2018,Bronze,CAN,Canada,Mark MCMORRIS,2018 Pyeongchang,Snowboard,Men's,Slopestyle
+Winter,2018,Gold,FRA,France,Pierre VAULTIER,2018 Pyeongchang,Snowboard,Men's,Snowboard Cross
+Winter,2018,Silver,AUS,Australia,Jarryd HUGHES,2018 Pyeongchang,Snowboard,Men's,Snowboard Cross
+Winter,2018,Bronze,ESP,Spain,Regino HERNANDEZ,2018 Pyeongchang,Snowboard,Men's,Snowboard Cross
+Winter,2018,Gold,CAN,Canada,Sebastien TOUTANT,2018 Pyeongchang,Snowboard,Men's,Big air
+Winter,2018,Silver,USA,United States,Kyle MACK,2018 Pyeongchang,Snowboard,Men's,Big air
+Winter,2018,Bronze,GBR,Great Britain,Billy MORGAN,2018 Pyeongchang,Snowboard,Men's,Big air
+Winter,2018,Gold,CZE,Czech Republic,Ester LEDECKA,2018 Pyeongchang,Snowboard,Women's,Giant parallel slalom
+Winter,2018,Silver,GER,Germany,Selina JOERG,2018 Pyeongchang,Snowboard,Women's,Giant parallel slalom
+Winter,2018,Bronze,GER,Germany,Ramona Theresia HOFMEISTER,2018 Pyeongchang,Snowboard,Women's,Giant parallel slalom
+Winter,2018,Gold,USA,United States,Chloe KIM,2018 Pyeongchang,Snowboard,Women's,Half-pipe
+Winter,2018,Silver,CHN,China,LIU Jiayu,2018 Pyeongchang,Snowboard,Women's,Half-pipe
+Winter,2018,Bronze,USA,United States,Arielle GOLD,2018 Pyeongchang,Snowboard,Women's,Half-pipe
+Winter,2018,Gold,USA,United States,Jamie ANDERSON,2018 Pyeongchang,Snowboard,Women's,Slopestyle
+Winter,2018,Silver,CAN,Canada,Laurie BLOUIN,2018 Pyeongchang,Snowboard,Women's,Slopestyle
+Winter,2018,Bronze,FIN,Finland,Enni RUKAJARVI,2018 Pyeongchang,Snowboard,Women's,Slopestyle
+Winter,2018,Gold,ITA,Italy,Michela MOIOLI,2018 Pyeongchang,Snowboard,Women's,Snowboard Cross
+Winter,2018,Silver,FRA,France,Julia PEREIRA DE SOUSA MABILEAU,2018 Pyeongchang,Snowboard,Women's,Snowboard Cross
+Winter,2018,Bronze,CZE,Czech Republic,Eva SAMKOVA,2018 Pyeongchang,Snowboard,Women's,Snowboard Cross
+Winter,2018,Gold,AUT,Austria,Anna GASSER,2018 Pyeongchang,Snowboard,Women's,Big air
+Winter,2018,Silver,USA,United States,Jamie ANDERSON,2018 Pyeongchang,Snowboard,Women's,Big air
+Winter,2018,Bronze,NZL,New Zealand,Zoi SADOWSKI SYNNOTT,2018 Pyeongchang,Snowboard,Women's,Big air
+Winter,2018,Gold,NOR,Norway,Havard LORENTZEN,2018 Pyeongchang,Speed skating,Men's,500m
+Winter,2018,Silver,KOR,Korea Republic,CHA Min Kyu,2018 Pyeongchang,Speed skating,Men's,500m
+Winter,2018,Bronze,CHN,China,GAO Tingyu,2018 Pyeongchang,Speed skating,Men's,500m
+Winter,2018,Gold,NED,Netherlands,Kjeld NUIS,2018 Pyeongchang,Speed skating,Men's,1000m
+Winter,2018,Silver,NOR,Norway,Havard LORENTZEN,2018 Pyeongchang,Speed skating,Men's,1000m
+Winter,2018,Bronze,KOR,Korea Republic,KIM Tae-Yun,2018 Pyeongchang,Speed skating,Men's,1000m
+Winter,2018,Gold,NED,Netherlands,Kjeld NUIS,2018 Pyeongchang,Speed skating,Men's,1500m
+Winter,2018,Silver,NED,Netherlands,Patrick ROEST,2018 Pyeongchang,Speed skating,Men's,1500m
+Winter,2018,Bronze,KOR,Korea Republic,KIM Min Seok,2018 Pyeongchang,Speed skating,Men's,1500m
+Winter,2018,Gold,NED,Netherlands,Sven KRAMER,2018 Pyeongchang,Speed skating,Men's,5000m
+Winter,2018,Silver,CAN,Canada,Ted-Jan BLOEMEN,2018 Pyeongchang,Speed skating,Men's,5000m
+Winter,2018,Bronze,NOR,Norway,Sverre Lunde PEDERSEN,2018 Pyeongchang,Speed skating,Men's,5000m
+Winter,2018,Gold,CAN,Canada,Ted-Jan BLOEMEN,2018 Pyeongchang,Speed skating,Men's,10000m
+Winter,2018,Silver,NED,Netherlands,Jorrit BERGSMA,2018 Pyeongchang,Speed skating,Men's,10000m
+Winter,2018,Bronze,ITA,Italy,Nicola TUMOLERO,2018 Pyeongchang,Speed skating,Men's,10000m
+Winter,2018,Gold,NOR,Norway,"Sindre HENRIKSEN, Sverre Lunde PEDERSEN, Havard BOKKO, Simen Spieler NILSEN",2018 Pyeongchang,Speed skating,Men's,Team pursuit
+Winter,2018,Silver,KOR,Korea Republic,"CHUNG Jaewon, JOO Hyong-Jun, LEE Seung-Hoon, KIM Min Seok",2018 Pyeongchang,Speed skating,Men's,Team pursuit
+Winter,2018,Bronze,NED,Netherlands,"Patrick ROEST, Jan BLOKHUIJSEN, Koen VERWEIJ, Sven KRAMER",2018 Pyeongchang,Speed skating,Men's,Team pursuit
+Winter,2018,Gold,KOR,Korea Republic,LEE Seung-Hoon,2018 Pyeongchang,Speed skating,Men's,Mass start
+Winter,2018,Silver,BEL,Belgium,Bart SWINGS,2018 Pyeongchang,Speed skating,Men's,Mass start
+Winter,2018,Bronze,NED,Netherlands,Koen VERWEIJ,2018 Pyeongchang,Speed skating,Men's,Mass start
+Winter,2018,Gold,JPN,Japan,Nao KODAIRA,2018 Pyeongchang,Speed skating,Women's,500m
+Winter,2018,Silver,KOR,Korea Republic,LEE Sang-Hwa,2018 Pyeongchang,Speed skating,Women's,500m
+Winter,2018,Bronze,CZE,Czech Republic,Karolina ERBANOVA,2018 Pyeongchang,Speed skating,Women's,500m
+Winter,2018,Gold,NED,Netherlands,Jorien TER MORS,2018 Pyeongchang,Speed skating,Women's,1000m
+Winter,2018,Silver,JPN,Japan,Nao KODAIRA,2018 Pyeongchang,Speed skating,Women's,1000m
+Winter,2018,Bronze,JPN,Japan,Miho TAKAGI,2018 Pyeongchang,Speed skating,Women's,1000m
+Winter,2018,Gold,NED,Netherlands,Ireen WUST,2018 Pyeongchang,Speed skating,Women's,1500m
+Winter,2018,Silver,JPN,Japan,Miho TAKAGI,2018 Pyeongchang,Speed skating,Women's,1500m
+Winter,2018,Bronze,NED,Netherlands,Marrit LEENSTRA,2018 Pyeongchang,Speed skating,Women's,1500m
+Winter,2018,Gold,NED,Netherlands,Carlijn ACHTEREEKTE,2018 Pyeongchang,Speed skating,Women's,3000m
+Winter,2018,Silver,NED,Netherlands,Ireen WUST,2018 Pyeongchang,Speed skating,Women's,3000m
+Winter,2018,Bronze,NED,Netherlands,Antoinette DE JONG,2018 Pyeongchang,Speed skating,Women's,3000m
+Winter,2018,Gold,NED,Netherlands,Esmee VISSER,2018 Pyeongchang,Speed skating,Women's,5000m
+Winter,2018,Silver,CZE,Czech Republic,Martina SABLIKOVA,2018 Pyeongchang,Speed skating,Women's,5000m
+Winter,2018,Bronze,OAR,Olympic Athletes from Russia,Natalia VORONINA,2018 Pyeongchang,Speed skating,Women's,5000m
+Winter,2018,Gold,JPN,Japan,"Miho TAKAGI, Ayano SATO, Ayaka KIKUCHI, Nana TAKAGI",2018 Pyeongchang,Speed skating,Women's,Team pursuit
+Winter,2018,Silver,NED,Netherlands,"Marrit LEENSTRA, Lotte VAN BEEK, Antoinette DE JONG, Jorien TER MORS, Ireen WUST",2018 Pyeongchang,Speed skating,Women's,Team pursuit
+Winter,2018,Bronze,USA,United States,"Brittany BOWE, Carlijn SCHOUTENS, Mia MANGANELLO, Heather BERGSMA",2018 Pyeongchang,Speed skating,Women's,Team pursuit
+Winter,2018,Gold,JPN,Japan,Nana TAKAGI,2018 Pyeongchang,Speed skating,Women's,Mass start
+Winter,2018,Silver,KOR,Korea Republic,KIM Bo-Reum,2018 Pyeongchang,Speed skating,Women's,Mass start
+Winter,2018,Bronze,NED,Netherlands,Irene SCHOUTEN,2018 Pyeongchang,Speed skating,Women's,Mass start

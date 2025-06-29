@@ -1,0 +1,528 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1968,Gold,USA,United States,Jim HINES,1968 Mexico,Athletics,Men's,100m
+Summer,1968,Silver,JAM,Jamaica,Lennox MILLER,1968 Mexico,Athletics,Men's,100m
+Summer,1968,Bronze,USA,United States,Charlie GREENE,1968 Mexico,Athletics,Men's,100m
+Summer,1968,Gold,USA,United States,Tommie SMITH,1968 Mexico,Athletics,Men's,200m
+Summer,1968,Silver,AUS,Australia,Peter NORMAN,1968 Mexico,Athletics,Men's,200m
+Summer,1968,Bronze,USA,United States,John CARLOS,1968 Mexico,Athletics,Men's,200m
+Summer,1968,Gold,USA,United States,Lee EVANS,1968 Mexico,Athletics,Men's,400m
+Summer,1968,Silver,USA,United States,Larry JAMES,1968 Mexico,Athletics,Men's,400m
+Summer,1968,Bronze,USA,United States,Ron FREEMAN,1968 Mexico,Athletics,Men's,400m
+Summer,1968,Gold,AUS,Australia,Ralph DOUBELL,1968 Mexico,Athletics,Men's,800m
+Summer,1968,Silver,KEN,Kenya,Wilson KIPRUGUT,1968 Mexico,Athletics,Men's,800m
+Summer,1968,Bronze,USA,United States,Thomas Francis FARRELL,1968 Mexico,Athletics,Men's,800m
+Summer,1968,Gold,KEN,Kenya,Kip KEINO,1968 Mexico,Athletics,Men's,1500m
+Summer,1968,Silver,USA,United States,Jim RYUN,1968 Mexico,Athletics,Men's,1500m
+Summer,1968,Bronze,FRG,Federal Republic of Germany,Bodo TÜMMLER,1968 Mexico,Athletics,Men's,1500m
+Summer,1968,Gold,TUN,Tunisia,Mohamed GAMMOUDI,1968 Mexico,Athletics,Men's,5000m
+Summer,1968,Silver,KEN,Kenya,Kip KEINO,1968 Mexico,Athletics,Men's,5000m
+Summer,1968,Bronze,KEN,Kenya,Naftali TEMU,1968 Mexico,Athletics,Men's,5000m
+Summer,1968,Gold,KEN,Kenya,Naftali TEMU,1968 Mexico,Athletics,Men's,10000m
+Summer,1968,Silver,ETH,Ethiopia,Mamo WOLDE,1968 Mexico,Athletics,Men's,10000m
+Summer,1968,Bronze,TUN,Tunisia,Mohamed GAMMOUDI,1968 Mexico,Athletics,Men's,10000m
+Summer,1968,Gold,ETH,Ethiopia,Mamo WOLDE,1968 Mexico,Athletics,Men's,marathon
+Summer,1968,Silver,JPN,Japan,Kenji KIMIHARA,1968 Mexico,Athletics,Men's,marathon
+Summer,1968,Bronze,NZL,New Zealand,Mike RYAN,1968 Mexico,Athletics,Men's,marathon
+Summer,1968,Gold,USA,United States,Willie DAVENPORT,1968 Mexico,Athletics,Men's,110m hurdles
+Summer,1968,Silver,USA,United States,Ervin HALL,1968 Mexico,Athletics,Men's,110m hurdles
+Summer,1968,Bronze,ITA,Italy,Eddy OTTOZ,1968 Mexico,Athletics,Men's,110m hurdles
+Summer,1968,Gold,GBR,Great Britain,David HEMERY,1968 Mexico,Athletics,Men's,400m hurdles
+Summer,1968,Silver,FRG,Federal Republic of Germany,Gerhard HENNIGE,1968 Mexico,Athletics,Men's,400m hurdles
+Summer,1968,Bronze,GBR,Great Britain,John SHERWOOD,1968 Mexico,Athletics,Men's,400m hurdles
+Summer,1968,Gold,KEN,Kenya,Amos BIWOTT,1968 Mexico,Athletics,Men's,3000m steeplechase
+Summer,1968,Silver,KEN,Kenya,Benjamin KOGO,1968 Mexico,Athletics,Men's,3000m steeplechase
+Summer,1968,Bronze,USA,United States,George YOUNG,1968 Mexico,Athletics,Men's,3000m steeplechase
+Summer,1968,Gold,USA,United States,"Ronnie Ray SMITH, Charlie GREENE, Melvin Jr. PENDER, Jim HINES",1968 Mexico,Athletics,Men's,4x100m relay
+Summer,1968,Silver,CUB,Cuba,"Hermes RAMÍREZ, Enrique FIGUEROLA, Juan MORALES, Pablo MONTES",1968 Mexico,Athletics,Men's,4x100m relay
+Summer,1968,Bronze,FRA,France,"Jocelyn DELECOUR, Gerard FENOUIL, Roger BAMBUCK, Claude PIQUEMAL",1968 Mexico,Athletics,Men's,4x100m relay
+Summer,1968,Gold,USA,United States,"Lee EVANS, Vince MATTHEWS, Ron FREEMAN, Larry JAMES",1968 Mexico,Athletics,Men's,4x400m relay
+Summer,1968,Silver,KEN,Kenya,"Hezekiah Munyoro NYAMAU, Charles ASATI, Naftali BON, Daniel Matasi RUDISHA",1968 Mexico,Athletics,Men's,4x400m relay
+Summer,1968,Bronze,FRG,Federal Republic of Germany,"Martin JELLINGHAUS, Manfred KINDER, Helmar MÜLLER, Gerhard HENNIGE",1968 Mexico,Athletics,Men's,4x400m relay
+Summer,1968,Gold,URS,USSR,Vladimir GOLUBNICHY,1968 Mexico,Athletics,Men's,20km walk
+Summer,1968,Silver,MEX,Mexico,José PEDRAZA,1968 Mexico,Athletics,Men's,20km walk
+Summer,1968,Bronze,URS,USSR,Nikolay SMAGA,1968 Mexico,Athletics,Men's,20km walk
+Summer,1968,Gold,GDR,German Democratic Republic,Christoph HÖHNE,1968 Mexico,Athletics,Men's,50km walk
+Summer,1968,Silver,HUN,Hungary,Antal KISS,1968 Mexico,Athletics,Men's,50km walk
+Summer,1968,Bronze,USA,United States,Larry YOUNG,1968 Mexico,Athletics,Men's,50km walk
+Summer,1968,Gold,USA,United States,Bob BEAMON,1968 Mexico,Athletics,Men's,long jump
+Summer,1968,Silver,GDR,German Democratic Republic,Klaus BEER,1968 Mexico,Athletics,Men's,long jump
+Summer,1968,Bronze,USA,United States,Ralph BOSTON,1968 Mexico,Athletics,Men's,long jump
+Summer,1968,Gold,URS,USSR,Viktor SANEYEV,1968 Mexico,Athletics,Men's,triple jump
+Summer,1968,Silver,BRA,Brazil,Nelson PRUDENCIO,1968 Mexico,Athletics,Men's,triple jump
+Summer,1968,Bronze,ITA,Italy,Giuseppe GENTILE,1968 Mexico,Athletics,Men's,triple jump
+Summer,1968,Gold,USA,United States,Dick FOSBURY,1968 Mexico,Athletics,Men's,high jump
+Summer,1968,Silver,USA,United States,Edward J. Jr. CARUTHERS,1968 Mexico,Athletics,Men's,high jump
+Summer,1968,Bronze,URS,USSR,Valentin GAVRILOV,1968 Mexico,Athletics,Men's,high jump
+Summer,1968,Gold,USA,United States,Bob SEAGREN,1968 Mexico,Athletics,Men's,pole vault
+Summer,1968,Silver,FRG,Federal Republic of Germany,Claus SCHIPROWSKI,1968 Mexico,Athletics,Men's,pole vault
+Summer,1968,Bronze,GDR,German Democratic Republic,Wolfgang NORDWIG,1968 Mexico,Athletics,Men's,pole vault
+Summer,1968,Gold,USA,United States,Randy MATSON,1968 Mexico,Athletics,Men's,shot put
+Summer,1968,Silver,USA,United States,George WOODS,1968 Mexico,Athletics,Men's,shot put
+Summer,1968,Bronze,URS,USSR,Eduard GUSHCHIN,1968 Mexico,Athletics,Men's,shot put
+Summer,1968,Gold,USA,United States,Al OERTER,1968 Mexico,Athletics,Men's,discus throw
+Summer,1968,Silver,GDR,German Democratic Republic,Lothar MILDE,1968 Mexico,Athletics,Men's,discus throw
+Summer,1968,Bronze,TCH,Czechoslovakia,Ludvík DANEK,1968 Mexico,Athletics,Men's,discus throw
+Summer,1968,Gold,HUN,Hungary,Gyula ZSIVÓTZKY,1968 Mexico,Athletics,Men's,hammer throw
+Summer,1968,Silver,URS,USSR,Romuald KLIM,1968 Mexico,Athletics,Men's,hammer throw
+Summer,1968,Bronze,HUN,Hungary,Lázár LOVÁSZ,1968 Mexico,Athletics,Men's,hammer throw
+Summer,1968,Gold,URS,USSR,Yanis LUSIS,1968 Mexico,Athletics,Men's,javelin throw
+Summer,1968,Silver,FIN,Finland,Jorma KINNUNEN,1968 Mexico,Athletics,Men's,javelin throw
+Summer,1968,Bronze,HUN,Hungary,Gergely KULCSÁR,1968 Mexico,Athletics,Men's,javelin throw
+Summer,1968,Gold,USA,United States,Bill TOOMEY,1968 Mexico,Athletics,Men's,decathlon
+Summer,1968,Silver,FRG,Federal Republic of Germany,Hans-Joachim WALDE,1968 Mexico,Athletics,Men's,decathlon
+Summer,1968,Bronze,FRG,Federal Republic of Germany,Kurt BENDLIN,1968 Mexico,Athletics,Men's,decathlon
+Summer,1968,Gold,USA,United States,Wyomia TYUS,1968 Mexico,Athletics,Women's,100m
+Summer,1968,Silver,USA,United States,Barbara FERRELL,1968 Mexico,Athletics,Women's,100m
+Summer,1968,Bronze,POL,Poland,Irena KIRSZENSTEIN,1968 Mexico,Athletics,Women's,100m
+Summer,1968,Gold,POL,Poland,Irena KIRSZENSTEIN,1968 Mexico,Athletics,Women's,200m
+Summer,1968,Silver,AUS,Australia,Raelene Ann BOYLE,1968 Mexico,Athletics,Women's,200m
+Summer,1968,Bronze,AUS,Australia,Jennifer LAMY,1968 Mexico,Athletics,Women's,200m
+Summer,1968,Gold,FRA,France,Colette BESSON,1968 Mexico,Athletics,Women's,400m
+Summer,1968,Silver,GBR,Great Britain,Lillian BOARD,1968 Mexico,Athletics,Women's,400m
+Summer,1968,Bronze,URS,USSR,Natalya CHISTYAKOVA,1968 Mexico,Athletics,Women's,400m
+Summer,1968,Gold,USA,United States,Madeline MANNING-JACKSON,1968 Mexico,Athletics,Women's,800m
+Summer,1968,Silver,ROU,Romania,Ileana SILAI,1968 Mexico,Athletics,Women's,800m
+Summer,1968,Bronze,NED,Netherlands,Maria GOMMERS,1968 Mexico,Athletics,Women's,800m
+Summer,1968,Gold,AUS,Australia,Maureen CAIRD,1968 Mexico,Athletics,Women's,80m hurdles
+Summer,1968,Silver,AUS,Australia,Pamela RYAN,1968 Mexico,Athletics,Women's,80m hurdles
+Summer,1968,Bronze,TPE,Republic of China (Taiwan),Cheng CHI,1968 Mexico,Athletics,Women's,80m hurdles
+Summer,1968,Gold,USA,United States,"Mildrette NETTER, Barbara FERRELL, Margaret BAILES, Wyomia TYUS",1968 Mexico,Athletics,Women's,4x100m relay
+Summer,1968,Silver,CUB,Cuba,"Marlene ELEJARDE, Miguelina COBIÁN, Fulgencia ROMAY MARTINEZ, Violeta QUESADA",1968 Mexico,Athletics,Women's,4x100m relay
+Summer,1968,Bronze,URS,USSR,"Galina BUKHARINA, Lyudmila ZHARKOVA, Vera POPKOVA, Lyudmila IGNATYEVA-SAMOTESOVA",1968 Mexico,Athletics,Women's,4x100m relay
+Summer,1968,Gold,ROU,Romania,Viorica VISCOPOLEANU,1968 Mexico,Athletics,Women's,long jump
+Summer,1968,Silver,GBR,Great Britain,Sheila SHERWOOD,1968 Mexico,Athletics,Women's,long jump
+Summer,1968,Bronze,URS,USSR,Tatyana TALYSHEVA,1968 Mexico,Athletics,Women's,long jump
+Summer,1968,Gold,TCH,Czechoslovakia,Miloslava REZKOVA-HUBNER,1968 Mexico,Athletics,Women's,high jump
+Summer,1968,Silver,URS,USSR,Antonina OKOROKOVA,1968 Mexico,Athletics,Women's,high jump
+Summer,1968,Bronze,URS,USSR,Valentina KOZYR,1968 Mexico,Athletics,Women's,high jump
+Summer,1968,Gold,GDR,German Democratic Republic,Margitta HELMBOLD-GUMMEL,1968 Mexico,Athletics,Women's,shot put
+Summer,1968,Silver,GDR,German Democratic Republic,Marita LANGE,1968 Mexico,Athletics,Women's,shot put
+Summer,1968,Bronze,URS,USSR,Nadezhda CHIZHOVA,1968 Mexico,Athletics,Women's,shot put
+Summer,1968,Gold,ROU,Romania,Lia MANOLIU,1968 Mexico,Athletics,Women's,discus throw
+Summer,1968,Silver,FRG,Federal Republic of Germany,Liesel WESTERMANN,1968 Mexico,Athletics,Women's,discus throw
+Summer,1968,Bronze,HUN,Hungary,Jolan KLEIBER-KONTSEK,1968 Mexico,Athletics,Women's,discus throw
+Summer,1968,Gold,HUN,Hungary,Angela NEMETH,1968 Mexico,Athletics,Women's,javelin throw
+Summer,1968,Silver,ROU,Romania,Mihaela PENES,1968 Mexico,Athletics,Women's,javelin throw
+Summer,1968,Bronze,AUT,Austria,Eva JANKO-EGGER,1968 Mexico,Athletics,Women's,javelin throw
+Summer,1968,Gold,FRG,Federal Republic of Germany,Ingrid BECKER,1968 Mexico,Athletics,Women's,pentathlon
+Summer,1968,Silver,AUT,Austria,Liese PROKOP-SYKORA,1968 Mexico,Athletics,Women's,pentathlon
+Summer,1968,Bronze,HUN,Hungary,Annamaria TOTH,1968 Mexico,Athletics,Women's,pentathlon
+Summer,1968,Gold,USA,United States,"Michael SILLIMAN, Calvin FOWLER, Michael Thomas BARRETT, Joseph ""Jo-Jo"" WHITE, Kenneth SPAIN, James KING, Glynn SAULTERS, Donald DEE, Spencer HAYWOOD, Charles SCOTT, Wilmer Frederick HOSKETT, John CLAWSON",1968 Mexico,Basketball,Men's,basketball
+Summer,1968,Silver,YUG,Yugoslavia,"Damir ?OLMAN, Trajko RAJKOVIC, Radivoje KORAC, Vladimir CVETKOVIC, Nikola PLECAS, Kresimir COSIC, Petar SKANSI, Ivo DANEU, Zoran MAROEVIC, Aljo?a ?ORGA, Dragutin CERMAK, Dragoslav RAZNATOVIC",1968 Mexico,Basketball,Men's,basketball
+Summer,1968,Bronze,URS,USSR,"Modestas PAULAUSKAS, Jaak LIPSO, Priit TOMSON, Vadim KAPRANOV, Anatoli KRIKUN, Anatoly POLIVODA, Vladimir ANDREYEV, Gennady VOLNOV, Sergey KOVALENKO, Zurab SAKANDELIDZE, Sergey BELOV, Yury SELIKHOV",1968 Mexico,Basketball,Men's,basketball
+Summer,1968,Gold,VEN,Venezuela,Francisco RODRIGUEZ,1968 Mexico,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1968,Silver,KOR,Korea Republic,Yong-Ju JEE,1968 Mexico,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1968,Bronze,POL,Poland,Hubert SKRZYPCZAK,1968 Mexico,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1968,Bronze,USA,United States,Harlan MARBLEY,1968 Mexico,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1968,Gold,MEX,Mexico,Ricardo DELGADO,1968 Mexico,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1968,Silver,POL,Poland,Artur OLECH,1968 Mexico,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1968,Bronze,BRA,Brazil,Servilio DE OLIVEIRA,1968 Mexico,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1968,Bronze,UGA,Uganda,Leo RWABDOGO,1968 Mexico,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1968,Gold,URS,USSR,Valeri SOKOLOV,1968 Mexico,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1968,Silver,UGA,Uganda,Eridadi MUKWANGA,1968 Mexico,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1968,Bronze,JPN,Japan,Eiji MORIOKA,1968 Mexico,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1968,Bronze,KOR,Korea Republic,Kyou-Chull CHANG,1968 Mexico,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1968,Gold,MEX,Mexico,Antonio ROLDAN,1968 Mexico,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1968,Silver,USA,United States,Albert ROBINSON,1968 Mexico,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1968,Bronze,BUL,Bulgaria,Ivan MIKAILOV,1968 Mexico,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1968,Bronze,KEN,Kenya,Philip WARUINGE,1968 Mexico,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1968,Gold,USA,United States,Ronald Woodson HARRIS,1968 Mexico,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1968,Silver,POL,Poland,Jozef GRUDZIEN,1968 Mexico,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1968,Bronze,ROU,Romania,Calistrat CUTOV,1968 Mexico,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1968,Bronze,YUG,Yugoslavia,Zvonimir VUJIN,1968 Mexico,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1968,Gold,POL,Poland,Jerzy KULEJ,1968 Mexico,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1968,Silver,CUB,Cuba,Enrique REQUEIFEROS BLANCO,1968 Mexico,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1968,Bronze,FIN,Finland,Arto NILSSON,1968 Mexico,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1968,Bronze,USA,United States,James WALLINGTON,1968 Mexico,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1968,Gold,GDR,German Democratic Republic,Manfred WOLKE,1968 Mexico,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1968,Silver,CMR,Cameroon,Joseph BESSALA,1968 Mexico,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1968,Bronze,ARG,Argentina,Mario GUILLOTI,1968 Mexico,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1968,Bronze,URS,USSR,Vladimir MUSALINOV,1968 Mexico,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1968,Gold,URS,USSR,Boris LAGUTIN,1968 Mexico,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1968,Silver,CUB,Cuba,Rolando GARBEY,1968 Mexico,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1968,Bronze,FRG,Federal Republic of Germany,Günther MEIER,1968 Mexico,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1968,Bronze,USA,United States,John BALDWIN,1968 Mexico,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1968,Gold,GBR,Great Britain,Christopher FINNEGAN,1968 Mexico,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1968,Silver,URS,USSR,Aleksy KISELEV,1968 Mexico,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1968,Bronze,MEX,Mexico,Agustin ZARAGOZA,1968 Mexico,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1968,Bronze,USA,United States,Alfred JONES,1968 Mexico,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1968,Gold,URS,USSR,Daniel POZNYAK,1968 Mexico,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1968,Silver,ROU,Romania,Ion MONEA,1968 Mexico,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1968,Bronze,BUL,Bulgaria,Georghi STANKOV,1968 Mexico,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1968,Bronze,POL,Poland,Stanislaw DRAGAN,1968 Mexico,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1968,Gold,USA,United States,George FOREMAN,1968 Mexico,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1968,Silver,URS,USSR,Ionas CHEPULIS,1968 Mexico,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1968,Bronze,ITA,Italy,Giorgio BAMBINI,1968 Mexico,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1968,Bronze,MEX,Mexico,Joaquin ROCHA,1968 Mexico,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1968,Gold,HUN,Hungary,Mihály HESZ,1968 Mexico,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1968,Silver,URS,USSR,Aleksandr SHAPARENKO,1968 Mexico,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1968,Bronze,DEN,Denmark,Erik HANSEN,1968 Mexico,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1968,Gold,URS,USSR,"Vladimir MOROZOV, Aleksandr SHAPARENKO",1968 Mexico,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1968,Silver,HUN,Hungary,"Csaba GICZI, Istvan TIMAR",1968 Mexico,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1968,Bronze,AUT,Austria,"Gerhard SEIBOLD, Günther PFAFF",1968 Mexico,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1968,Gold,NOR,Norway,"Jan JOHANSEN, Steinar AMUNDSEN, Tore BERGER, Egil SÖBY",1968 Mexico,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1968,Silver,ROU,Romania,"Dimitrie IVANOV, Mihai TURCAS, Haralambie IVANOV, Anton CALENIC",1968 Mexico,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1968,Bronze,HUN,Hungary,"Csaba GICZI, István CSIZMADIA, Istvan TIMAR, Imre SZÖLLÖSI",1968 Mexico,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1968,Gold,HUN,Hungary,Tibor TATAI,1968 Mexico,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1968,Silver,FRG,Federal Republic of Germany,Detlef LEWE,1968 Mexico,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1968,Bronze,URS,USSR,Vitali GALKOV,1968 Mexico,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1968,Gold,ROU,Romania,"Serghei COVALIOV, Ivan PATZAICHIN",1968 Mexico,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1968,Silver,HUN,Hungary,"Tamás WICHMANN, Gyula PETRIKOVICS",1968 Mexico,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1968,Bronze,URS,USSR,"Mikhail ZAMOTIN, Naum PROKUPETS",1968 Mexico,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1968,Gold,URS,USSR,Lyudmila KHVEDOSYUK,1968 Mexico,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1968,Silver,FRG,Federal Republic of Germany,Renate BREUER,1968 Mexico,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1968,Bronze,ROU,Romania,Viorica DUMITRU,1968 Mexico,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1968,Gold,FRG,Federal Republic of Germany,"Roswitha ESSER, Annemarie ZIMMERMANN",1968 Mexico,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1968,Silver,HUN,Hungary,"Katalin SAGI-ROZSNYOI, Anna PFEFFER",1968 Mexico,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1968,Bronze,URS,USSR,"Lyudmila KHVEDOSYUK, Antonina SEREDINA",1968 Mexico,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1968,Gold,ITA,Italy,Pierfranco VIANELLI,1968 Mexico,Cycling Road,Men's,individual road race
+Summer,1968,Silver,DEN,Denmark,Leif MORTENSEN,1968 Mexico,Cycling Road,Men's,individual road race
+Summer,1968,Bronze,SWE,Sweden,Gösta PETTERSSON,1968 Mexico,Cycling Road,Men's,individual road race
+Summer,1968,Gold,NED,Netherlands,"Jan KREKELS, Fedor DEN HERTOG, Hendrik G. Jozef ZOETEMELK, Rene Marinus PIJNEN",1968 Mexico,Cycling Road,Men's,team time trial
+Summer,1968,Silver,SWE,Sweden,"Gösta PETTERSSON, Tomas FÄGLUM-PETTERSSON, Erik FÄGLUM-PETTERSSON, Sture FÄGLUM-PETTERSSON",1968 Mexico,Cycling Road,Men's,team time trial
+Summer,1968,Bronze,ITA,Italy,"Pierfranco VIANELLI, Mauro SIMONETTI, Vittorio MARCELLI, Giovanni BRAMUCCI",1968 Mexico,Cycling Road,Men's,team time trial
+Summer,1968,Gold,FRA,France,Daniel MORELON,1968 Mexico,Cycling Track,Men's,sprint individual
+Summer,1968,Silver,ITA,Italy,Giordano TURRINI,1968 Mexico,Cycling Track,Men's,sprint individual
+Summer,1968,Bronze,FRA,France,Pierre TRENTIN,1968 Mexico,Cycling Track,Men's,sprint individual
+Summer,1968,Gold,FRA,France,Daniel REBILLARD,1968 Mexico,Cycling Track,Men's,individual pursuit
+Summer,1968,Silver,DEN,Denmark,Mogens Frey JENSEN,1968 Mexico,Cycling Track,Men's,individual pursuit
+Summer,1968,Bronze,SUI,Switzerland,Xaver KURMANN,1968 Mexico,Cycling Track,Men's,individual pursuit
+Summer,1968,Gold,FRA,France,Pierre TRENTIN,1968 Mexico,Cycling Track,Men's,1km time trial
+Summer,1968,Silver,DEN,Denmark,Niels Christian FREDBORG,1968 Mexico,Cycling Track,Men's,1km time trial
+Summer,1968,Bronze,POL,Poland,Janusz KIERZKOWSKI,1968 Mexico,Cycling Track,Men's,1km time trial
+Summer,1968,Gold,FRA,France,"Daniel MORELON, Pierre TRENTIN",1968 Mexico,Cycling Track,Men's,2000m tandem
+Summer,1968,Silver,NED,Netherlands,"Leijn LOEVESIJN, Johannes Hendrikus JANSEN",1968 Mexico,Cycling Track,Men's,2000m tandem
+Summer,1968,Bronze,BEL,Belgium,"Robert VAN LANCKER, Daniel GOENS",1968 Mexico,Cycling Track,Men's,2000m tandem
+Summer,1968,Gold,DEN,Denmark,"Mogens Frey JENSEN, Gunnar ASMUSSEN, Per LYNGEMARK, Reno Bent OLSEN",1968 Mexico,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1968,Silver,FRG,Federal Republic of Germany,"Udo HEMPEL, Karlheinz HENRICHS, Jürgen KISSNER, Karl LINK",1968 Mexico,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1968,Bronze,ITA,Italy,"Cipriano CHEMELLO, Luigi RONCAGLIA, Giorgio MORBIATO, Lorenzo BOSISIO",1968 Mexico,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1968,Gold,USA,United States,Bernie WRIGHTSON,1968 Mexico,Diving,Men's,3m springboard
+Summer,1968,Silver,ITA,Italy,Klaus DIBIASI,1968 Mexico,Diving,Men's,3m springboard
+Summer,1968,Bronze,USA,United States,James HENRY,1968 Mexico,Diving,Men's,3m springboard
+Summer,1968,Gold,ITA,Italy,Klaus DIBIASI,1968 Mexico,Diving,Men's,10m platform
+Summer,1968,Silver,MEX,Mexico,Alvaro GAXIOLA,1968 Mexico,Diving,Men's,10m platform
+Summer,1968,Bronze,USA,United States,Edwin YOUNG,1968 Mexico,Diving,Men's,10m platform
+Summer,1968,Gold,USA,United States,Sue GOSSICK,1968 Mexico,Diving,Women's,3m springboard
+Summer,1968,Silver,URS,USSR,Tamara SAFONOVA,1968 Mexico,Diving,Women's,3m springboard
+Summer,1968,Bronze,USA,United States,Keala O'SULLIVAN,1968 Mexico,Diving,Women's,3m springboard
+Summer,1968,Gold,TCH,Czechoslovakia,Milena DUCHKOVÁ,1968 Mexico,Diving,Women's,10m platform
+Summer,1968,Silver,URS,USSR,Natalya KUZNETSOVA-LOBANOVA,1968 Mexico,Diving,Women's,10m platform
+Summer,1968,Bronze,USA,United States,Ann PETERSON,1968 Mexico,Diving,Women's,10m platform
+Summer,1968,Gold,URS,USSR,Ivan KIZIMOV,1968 Mexico,Equestrian Dressage,Mixed,individual
+Summer,1968,Silver,FRG,Federal Republic of Germany,Josef NECKERMANN,1968 Mexico,Equestrian Dressage,Mixed,individual
+Summer,1968,Bronze,FRG,Federal Republic of Germany,Reiner KLIMKE,1968 Mexico,Equestrian Dressage,Mixed,individual
+Summer,1968,Gold,FRG,Federal Republic of Germany,"Reiner KLIMKE, Josef NECKERMANN, Liselott LINSENHOFF",1968 Mexico,Equestrian Dressage,Mixed,team
+Summer,1968,Silver,URS,USSR,"Ivan KIZIMOV, Ivan KALITA, Yelena PETUSHKOVA",1968 Mexico,Equestrian Dressage,Mixed,team
+Summer,1968,Bronze,SUI,Switzerland,"Henri CHAMMARTIN, Gustav FISCHER, Marianne GOSSWEILER",1968 Mexico,Equestrian Dressage,Mixed,team
+Summer,1968,Gold,FRA,France,Jean-Jacques GUYON,1968 Mexico,Equestrian Eventing,Mixed,individual
+Summer,1968,Silver,GBR,Great Britain,Derek ALLHUSEN,1968 Mexico,Equestrian Eventing,Mixed,individual
+Summer,1968,Bronze,USA,United States,Michael PAGE,1968 Mexico,Equestrian Eventing,Mixed,individual
+Summer,1968,Gold,GBR,Great Britain,"Derek ALLHUSEN, Ben JONES, Richard MEADE",1968 Mexico,Equestrian Eventing,Mixed,team
+Summer,1968,Silver,USA,United States,"James WOFFORD, John Michael PLUMB, Michael PAGE",1968 Mexico,Equestrian Eventing,Mixed,team
+Summer,1968,Bronze,AUS,Australia,"Brian COBCROFT, Wayne ROYCROFT, Bill ROYCROFT",1968 Mexico,Equestrian Eventing,Mixed,team
+Summer,1968,Gold,USA,United States,Bill STEINKRAUS,1968 Mexico,Equestrian Jumping,Mixed,individual
+Summer,1968,Silver,GBR,Great Britain,Marion COAKES,1968 Mexico,Equestrian Jumping,Mixed,individual
+Summer,1968,Bronze,GBR,Great Britain,David BROOME,1968 Mexico,Equestrian Jumping,Mixed,individual
+Summer,1968,Gold,CAN,Canada,"Thomas GAYFORD, James ELDER, Jim DAY",1968 Mexico,Equestrian Jumping,Mixed,team
+Summer,1968,Silver,FRA,France,"Pierre JONQUÈRES D'ORIOLA, Marcel ROZIER, Janou LEFÈBVRE",1968 Mexico,Equestrian Jumping,Mixed,team
+Summer,1968,Bronze,FRG,Federal Republic of Germany,"Hermann SCHRIDDE, Hans Günter WINKLER, Alwin SCHOCKEMÖHLE",1968 Mexico,Equestrian Jumping,Mixed,team
+Summer,1968,Gold,HUN,Hungary,Gyözö KULCSAR,1968 Mexico,Fencing,Men's,épée individual
+Summer,1968,Silver,URS,USSR,Grigori KRISS,1968 Mexico,Fencing,Men's,épée individual
+Summer,1968,Bronze,ITA,Italy,Gianluigi SACCARO,1968 Mexico,Fencing,Men's,épée individual
+Summer,1968,Gold,HUN,Hungary,"Gyözö KULCSAR, Zoltán NEMERE, Pál SCHMITT, Csaba FENYVESI, Pal NAGY",1968 Mexico,Fencing,Men's,épée team
+Summer,1968,Silver,URS,USSR,"Grigori KRISS, Aleksey NIKANCHIKOV, Iosif VITEBSKY, Viktor MODZOLEVSKY, Yuri SMOLYAKOV",1968 Mexico,Fencing,Men's,épée team
+Summer,1968,Bronze,POL,Poland,"Kazimierz BARBURSKI, Bohdan ANDRZEJEWSKI, Michal BUTKIEWICZ, Henryk NIELABA, Bogdan GONSIOR",1968 Mexico,Fencing,Men's,épée team
+Summer,1968,Gold,ROU,Romania,Ion DRIMBA,1968 Mexico,Fencing,Men's,foil individual
+Summer,1968,Silver,HUN,Hungary,Jenö KAMUTI,1968 Mexico,Fencing,Men's,foil individual
+Summer,1968,Bronze,FRA,France,Daniel REVENU,1968 Mexico,Fencing,Men's,foil individual
+Summer,1968,Gold,FRA,France,"Christian NOËL, Jean-Claude MAGNAN, Jacques DIMONT, Daniel REVENU, Gilles BEROLATTI",1968 Mexico,Fencing,Men's,foil team
+Summer,1968,Silver,URS,USSR,"Yuri SISIKIN, Vasili STANKOVICH, Viktor PUTYATIN, Yuri SHAROV, German SVESHNIKOV",1968 Mexico,Fencing,Men's,foil team
+Summer,1968,Bronze,POL,Poland,"Egon FRANKE, Zbigniew SKRUDLIK, Witold WOYDA, Adam LISEWSKI, Ryszard PARULSKI",1968 Mexico,Fencing,Men's,foil team
+Summer,1968,Gold,POL,Poland,Jerzy PAWLOWSKI,1968 Mexico,Fencing,Men's,sabre individual
+Summer,1968,Silver,URS,USSR,Mark RAKITA,1968 Mexico,Fencing,Men's,sabre individual
+Summer,1968,Bronze,HUN,Hungary,Tibor PÉZSA,1968 Mexico,Fencing,Men's,sabre individual
+Summer,1968,Gold,URS,USSR,"Viktor SIDYAK, Mark RAKITA, Eduard VINOKUROV, Vladimir NAZLYMOV, Umyar MAVLIKHANOV",1968 Mexico,Fencing,Men's,sabre team
+Summer,1968,Silver,ITA,Italy,"Cesare SALVADORI, Pierluigi CHICCA, Rolando RIGOLI, Wladimiro CALARESE, Michele MAFFEI",1968 Mexico,Fencing,Men's,sabre team
+Summer,1968,Bronze,HUN,Hungary,"Tibor PÉZSA, Tamás KOVÁCS, János KALMÁR, Miklós MESZÉNA, Péter BAKONYI",1968 Mexico,Fencing,Men's,sabre team
+Summer,1968,Gold,URS,USSR,Yelena NOVIKOVA,1968 Mexico,Fencing,Women's,foil individual
+Summer,1968,Silver,MEX,Mexico,Maria DEL PILAR ROLDAN TAPIA,1968 Mexico,Fencing,Women's,foil individual
+Summer,1968,Bronze,HUN,Hungary,Ildiko REJTO-UJLAKI,1968 Mexico,Fencing,Women's,foil individual
+Summer,1968,Gold,URS,USSR,"Galina GOROKHOVA, Tatyana PETRENKO, Aleksandra ZABELINA, Svetlana CHIRKOVA, Yelena NOVIKOVA",1968 Mexico,Fencing,Women's,foil team
+Summer,1968,Silver,HUN,Hungary,"Paula MAROSI, Maria JARMY, Ildikó BÓBIS, Ildiko REJTO-UJLAKI, Lidia SÁKOVICS-DÖMÖLKY",1968 Mexico,Fencing,Women's,foil team
+Summer,1968,Bronze,ROU,Romania,"Ecaterina IENCIC, Ileana GYULAI-DRIMBA-JENEI, Olga ORBAN-SZABO, Maria VICOL, Ana DERSIDAN-ENE-PASCU",1968 Mexico,Fencing,Women's,foil team
+Summer,1968,Gold,HUN,Hungary,"Miklós PÁNCSICS, István JUHÁSZ, Zoltán SZARKA, Károly FATÉR, Gabor SARKÖZI, Antal DUNAI, Erno NOSKO, László NAGY, László KEGLOVICH, István BÁSTI, Iván MENCZEL, Lajos KOCSIS, Miklos SZALAI, Dezsö NOVAK, László FAZEKAS, Lajos DUNAI, Lajos SZUCS",1968 Mexico,Football,Men's,football
+Summer,1968,Silver,BUL,Bulgaria,"Kiril CHRISTOV, Asparukh DONEV, Atanas GEROV, Atanas CHRISTOV, Milko GAYDARSKI, Ivan ZAFIROV, Evgeni YANTCHOVSKI, Tsvetan DIMITROV, Todor NIKOLOV, Georgi CHRISTAKIEV, Stoyan YORDANOV, Georgi VASILIEV, Mikhail GIONIN, Ivailo GEORGIEV, Yancho DIMITROV, Kiril IVKOV, Petar ZHEKOV, Georghi IVANOV",1968 Mexico,Football,Men's,football
+Summer,1968,Bronze,JPN,Japan,"Ryuichi SUGIYAMA, Shigeo YAEGASHI, Eizo YUGUCHI, Teruki MIYAMOTO, Yasuyuki KUWAHARA, Takaji MORI, Mitsuo KAMATA, Ikuo MATSUMOTO, Kunishige KAMAMOTO, Masashi WATANABE, Yoshitada YAMAGUCHI, Hiroshi KATAYAMA, Kenzo YOKOYAMA, Masakatsu MIYAMOTO, Aritatsu OGI",1968 Mexico,Football,Men's,football
+Summer,1968,Gold,JPN,Japan,Sawao KATO,1968 Mexico,Gymnastics Artistic,Men's,individual all-round
+Summer,1968,Silver,URS,USSR,Mikhail VORONIN,1968 Mexico,Gymnastics Artistic,Men's,individual all-round
+Summer,1968,Bronze,JPN,Japan,Akinori NAKAYAMA,1968 Mexico,Gymnastics Artistic,Men's,individual all-round
+Summer,1968,Gold,JPN,Japan,"Akinori NAKAYAMA, Mitsuo TSUKAHARA, Yukio ENDO, Takeshi KATO, Eizo KENMOTSU, Sawao KATO",1968 Mexico,Gymnastics Artistic,Men's,team competition
+Summer,1968,Silver,URS,USSR,"Valery ILYINYKH, Viktor LISITSKY, Valeri KARASEV, Viktor KLIMENKO, Sergey DIOMIDOV, Mikhail VORONIN",1968 Mexico,Gymnastics Artistic,Men's,team competition
+Summer,1968,Bronze,GDR,German Democratic Republic,"Siegfried FÜLLE, Peter WEBER, Günter BEIER, Klaus KÖSTE, Matthias BREHME, Gerhard DIETRICH",1968 Mexico,Gymnastics Artistic,Men's,team competition
+Summer,1968,Gold,JPN,Japan,Sawao KATO,1968 Mexico,Gymnastics Artistic,Men's,floor exercises
+Summer,1968,Silver,JPN,Japan,Akinori NAKAYAMA,1968 Mexico,Gymnastics Artistic,Men's,floor exercises
+Summer,1968,Bronze,JPN,Japan,Takeshi KATO,1968 Mexico,Gymnastics Artistic,Men's,floor exercises
+Summer,1968,Gold,JPN,Japan,Akinori NAKAYAMA,1968 Mexico,Gymnastics Artistic,Men's,parallel bars
+Summer,1968,Silver,URS,USSR,Mikhail VORONIN,1968 Mexico,Gymnastics Artistic,Men's,parallel bars
+Summer,1968,Bronze,URS,USSR,Viktor KLIMENKO,1968 Mexico,Gymnastics Artistic,Men's,parallel bars
+Summer,1968,Gold,URS,USSR,Mikhail VORONIN,1968 Mexico,Gymnastics Artistic,Men's,vault
+Summer,1968,Silver,JPN,Japan,Yukio ENDO,1968 Mexico,Gymnastics Artistic,Men's,vault
+Summer,1968,Bronze,URS,USSR,Sergey DIOMIDOV,1968 Mexico,Gymnastics Artistic,Men's,vault
+Summer,1968,Gold,JPN,Japan,Akinori NAKAYAMA,1968 Mexico,Gymnastics Artistic,Men's,rings
+Summer,1968,Silver,URS,USSR,Mikhail VORONIN,1968 Mexico,Gymnastics Artistic,Men's,rings
+Summer,1968,Bronze,JPN,Japan,Sawao KATO,1968 Mexico,Gymnastics Artistic,Men's,rings
+Summer,1968,Gold,YUG,Yugoslavia,Miroslav CERAR,1968 Mexico,Gymnastics Artistic,Men's,pommel horse
+Summer,1968,Silver,FIN,Finland,Olli Eino LAIHO,1968 Mexico,Gymnastics Artistic,Men's,pommel horse
+Summer,1968,Bronze,URS,USSR,Mikhail VORONIN,1968 Mexico,Gymnastics Artistic,Men's,pommel horse
+Summer,1968,Gold,JPN,Japan,Akinori NAKAYAMA,1968 Mexico,Gymnastics Artistic,Men's,horizontal bar
+Summer,1968,Gold,URS,USSR,Mikhail VORONIN,1968 Mexico,Gymnastics Artistic,Men's,horizontal bar
+Summer,1968,Bronze,JPN,Japan,Eizo KENMOTSU,1968 Mexico,Gymnastics Artistic,Men's,horizontal bar
+Summer,1968,Gold,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1968 Mexico,Gymnastics Artistic,Women's,individual all-round
+Summer,1968,Silver,URS,USSR,Zinaida VORONINA,1968 Mexico,Gymnastics Artistic,Women's,individual all-round
+Summer,1968,Bronze,URS,USSR,Natalya KUCHINSKAYA,1968 Mexico,Gymnastics Artistic,Women's,individual all-round
+Summer,1968,Gold,URS,USSR,"Lyudmila TURISCHEVA, Lyubov BURDA, Zinaida VORONINA, Natalya KUCHINSKAYA, Olga KARASYOVA, Larisa PETRIK",1968 Mexico,Gymnastics Artistic,Women's,team competition
+Summer,1968,Silver,TCH,Czechoslovakia,"Jana POSNEROVA-KUBICKOVA, Mariana KRAJCIROVA-NEMETHOVA, Hana LISKOVA, Vera CÁSLAVSKÁ, Bohumila RIMNÁCOVÁ, Miroslava SKLENICKOVÁ",1968 Mexico,Gymnastics Artistic,Women's,team competition
+Summer,1968,Bronze,GDR,German Democratic Republic,"Maritta BAUERSCHMIDT, Marianne NOACK, Karin JANZ, Erika ZUCHOLD, Magdalena SCHMIDT, Ute STARKE",1968 Mexico,Gymnastics Artistic,Women's,team competition
+Summer,1968,Gold,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1968 Mexico,Gymnastics Artistic,Women's,floor exercises
+Summer,1968,Gold,URS,USSR,Larisa PETRIK,1968 Mexico,Gymnastics Artistic,Women's,floor exercises
+Summer,1968,Bronze,URS,USSR,Natalya KUCHINSKAYA,1968 Mexico,Gymnastics Artistic,Women's,floor exercises
+Summer,1968,Gold,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1968 Mexico,Gymnastics Artistic,Women's,uneven bars
+Summer,1968,Silver,GDR,German Democratic Republic,Karin JANZ,1968 Mexico,Gymnastics Artistic,Women's,uneven bars
+Summer,1968,Bronze,URS,USSR,Zinaida VORONINA,1968 Mexico,Gymnastics Artistic,Women's,uneven bars
+Summer,1968,Gold,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1968 Mexico,Gymnastics Artistic,Women's,vault
+Summer,1968,Silver,GDR,German Democratic Republic,Erika ZUCHOLD,1968 Mexico,Gymnastics Artistic,Women's,vault
+Summer,1968,Bronze,URS,USSR,Zinaida VORONINA,1968 Mexico,Gymnastics Artistic,Women's,vault
+Summer,1968,Gold,URS,USSR,Natalya KUCHINSKAYA,1968 Mexico,Gymnastics Artistic,Women's,balance beam
+Summer,1968,Silver,TCH,Czechoslovakia,Vera CÁSLAVSKÁ,1968 Mexico,Gymnastics Artistic,Women's,balance beam
+Summer,1968,Bronze,URS,USSR,Larisa PETRIK,1968 Mexico,Gymnastics Artistic,Women's,balance beam
+Summer,1968,Gold,PAK,Pakistan,"Ahmad RIAZ, Ashfaq MUHAMMAD, Hussain ZAKIR, Mahmud Hussain KHALID, Mohammad Asad MALIK, Rashid III ABDUL, Anwar SAEED, Ud Din RIAZ, Tanvir Ahmad DAR, Jahangir Ahmad BUTT, Akhtar GULREZ, Aziz TARIQ, Tariq NIAZI",1968 Mexico,Hockey,Men's,hockey
+Summer,1968,Silver,AUS,Australia,"Julian PEARCE, Brian GLENCROSS, Frederick QUINN, Raymond EVANS, Eric PEARCE, James MASON, Donald SMART, Paul DEARING, Robert HAIGH, Gordon PEARCE, Desmond PIPER, Patrick NILAN, Ronald RILEY, Donald MARTIN",1968 Mexico,Hockey,Men's,hockey
+Summer,1968,Bronze,IND,India,"Harmik SINGH, Rajendra Absolem CHRISTY, Ajitpal SINGH, Tarsem SINGH, John PETER, Harbinder SINGH, Balbir SINGH, Krishnamurthy PERUMAL, Gurbux SINGH, Balbir SINGH, Inamur REHAMAN, Balbir SINGH, Munir SAIT, Prithipal SINGH, Inder SINGH",1968 Mexico,Hockey,Men's,hockey
+Summer,1968,Gold,SWE,Sweden,Björn FERM,1968 Mexico,Modern Pentathlon,Men's,individual competition
+Summer,1968,Silver,HUN,Hungary,Andras BALCZO,1968 Mexico,Modern Pentathlon,Men's,individual competition
+Summer,1968,Bronze,URS,USSR,Pavel LEDNEV,1968 Mexico,Modern Pentathlon,Men's,individual competition
+Summer,1968,Gold,HUN,Hungary,"Istvan MONA, Andras BALCZO, Ferenc TÖRÖK",1968 Mexico,Modern Pentathlon,Men's,team competition
+Summer,1968,Silver,URS,USSR,"Pavel LEDNEV, Stasis SHAPARNIS, Boris ONISHENKO",1968 Mexico,Modern Pentathlon,Men's,team competition
+Summer,1968,Bronze,FRA,France,"Jean-Pierre GIUDICELLI, Raoul GUEGUEN, Lucien GUIGUET",1968 Mexico,Modern Pentathlon,Men's,team competition
+Summer,1968,Gold,NED,Netherlands,Henri-Jan WIENESE,1968 Mexico,Rowing,Men's,single sculls (1x)
+Summer,1968,Silver,FRG,Federal Republic of Germany,Jochen MEISSNER,1968 Mexico,Rowing,Men's,single sculls (1x)
+Summer,1968,Bronze,ARG,Argentina,Alberto DEMIDDI,1968 Mexico,Rowing,Men's,single sculls (1x)
+Summer,1968,Gold,URS,USSR,"Anatoli SASS, Aleksandr TIMOSHININ",1968 Mexico,Rowing,Men's,double sculls (2x)
+Summer,1968,Silver,NED,Netherlands,"Henricus DROOG, Leendert VAN DIS",1968 Mexico,Rowing,Men's,double sculls (2x)
+Summer,1968,Bronze,USA,United States,"William MAHER, John NUNN",1968 Mexico,Rowing,Men's,double sculls (2x)
+Summer,1968,Gold,GDR,German Democratic Republic,"Heinz-Jürgen BOTHE, Jörg LUCKE",1968 Mexico,Rowing,Men's,pair without coxswain (2-)
+Summer,1968,Silver,USA,United States,"Philip JOHNSON, Lawrence Alan HOUGH",1968 Mexico,Rowing,Men's,pair without coxswain (2-)
+Summer,1968,Bronze,DEN,Denmark,"Peter Fich CHRISTIANSEN, Ib Ivan LARSEN",1968 Mexico,Rowing,Men's,pair without coxswain (2-)
+Summer,1968,Gold,ITA,Italy,"Bruno CIPOLLA, Primo BARAN, Renzo SAMBO",1968 Mexico,Rowing,Men's,pair-oared shell with coxswain
+Summer,1968,Silver,NED,Netherlands,"Roderick RIJNDERS, Herman SUSELBEEK, Hadriaan VAN NES",1968 Mexico,Rowing,Men's,pair-oared shell with coxswain
+Summer,1968,Bronze,DEN,Denmark,"Harry JØRGENSEN, Jørn KRAB, Preben KRAB",1968 Mexico,Rowing,Men's,pair-oared shell with coxswain
+Summer,1968,Gold,GDR,German Democratic Republic,"Frank RÜHLE, Frank FORBERGER, Dieter GRAHN, Dieter SCHUBERT",1968 Mexico,Rowing,Men's,four without coxswain (4-)
+Summer,1968,Silver,HUN,Hungary,"József CSERMELY, Antal MELIS, Zoltán MELIS, György SARLÓS",1968 Mexico,Rowing,Men's,four without coxswain (4-)
+Summer,1968,Bronze,ITA,Italy,"Tullio BARAGLIA, Renato BOSATTA, Pier Angelo CONTI-MANZINI, Abramo ALBINI",1968 Mexico,Rowing,Men's,four without coxswain (4-)
+Summer,1968,Gold,NZL,New Zealand,"Richard JOYCE, Dudley STOREY, Warren COLE, Ross COLLINGE, Simon DICKIE",1968 Mexico,Rowing,Men's,four-oared shell with coxswain
+Summer,1968,Silver,GDR,German Democratic Republic,"Klaus JACOB, Peter KREMTZ, Roland GÖHLER, Dieter SEMETZKY, Manfred GELPKE",1968 Mexico,Rowing,Men's,four-oared shell with coxswain
+Summer,1968,Bronze,SUI,Switzerland,"Peter BOLLIGER, Hugo WASER, Jakob GROB, Denis OSWALD, Gottlieb FRÖHLICH",1968 Mexico,Rowing,Men's,four-oared shell with coxswain
+Summer,1968,Gold,FRG,Federal Republic of Germany,"Lutz ULBRICHT, Niko OTT, Jörg SIEBERT, Horst MEYER, Günther TIERSCH, Egbert HIRSCHFELDER, Wolfgang HOTTENROTT, Rüdiger HENNING, Dirk SCHREYER",1968 Mexico,Rowing,Men's,eight with coxswain (8+)
+Summer,1968,Silver,AUS,Australia,"Alfred DUVAL, Alan GROVER, John RANCH, Joseph FAZIO, Michael MORGAN, Peter DICKSON, Robert SHIRLAW, Gary PEARCE, David DOUGLAS",1968 Mexico,Rowing,Men's,eight with coxswain (8+)
+Summer,1968,Bronze,URS,USSR,"Juozas JAGELAVICIUS, Yuri LORENTSON, Aleksandr MARTYSHKIN, Vytautas BRIEDIS, Antanas BAGDONAVICIUS, Valentin KRAVCHUK, Viktor SUSLIN, Zigmas JUKNA, Vladimir STERLIK",1968 Mexico,Rowing,Men's,eight with coxswain (8+)
+Summer,1968,Gold,SWE,Sweden,"Jörgen SUNDELIN, Peter SUNDELIN, Ulf SUNDELIN",1968 Mexico,Sailing,Mixed,5.5m
+Summer,1968,Silver,SUI,Switzerland,"Bernhard DUNAND, Marcel STERN, Louis NOVERRAZ",1968 Mexico,Sailing,Mixed,5.5m
+Summer,1968,Bronze,GBR,Great Britain,"Paul ANDERSON, Robin AISHER, Adrian JARDINE",1968 Mexico,Sailing,Mixed,5.5m
+Summer,1968,Gold,USA,United States,"Gerald SCHRECK, Barton JAHNCKE, George FRIEDRICHS",1968 Mexico,Sailing,Mixed,dragon
+Summer,1968,Silver,DEN,Denmark,"Aage BIRCH, Poul Richard Hoj JENSEN, Niels MARKUSSEN",1968 Mexico,Sailing,Mixed,dragon
+Summer,1968,Bronze,GDR,German Democratic Republic,"Paul BOROWSKI, Konrad WEICHERT, Karl-Heinz THUN",1968 Mexico,Sailing,Mixed,dragon
+Summer,1968,Gold,URS,USSR,Valentin MANKIN,1968 Mexico,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1968,Silver,AUT,Austria,Hubert RAUDASCHL,1968 Mexico,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1968,Bronze,ITA,Italy,Fabio ALBARELLI,1968 Mexico,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1968,Gold,USA,United States,"Lowell NORTH, Peter BARRETT",1968 Mexico,Sailing,Mixed,two-person keelboat (Star)
+Summer,1968,Silver,NOR,Norway,"Per Olav WIKEN, Peder LUNDE JR.",1968 Mexico,Sailing,Mixed,two-person keelboat (Star)
+Summer,1968,Bronze,ITA,Italy,"Franco CAVALLO, Camillo GARGANO",1968 Mexico,Sailing,Mixed,two-person keelboat (Star)
+Summer,1968,Gold,GBR,Great Britain,"Rodney PATTISSON, Iain MACDONALD-SMITH",1968 Mexico,Sailing,Mixed,flying dutchman
+Summer,1968,Silver,FRG,Federal Republic of Germany,"Peter NAUMANN, Ullrich LIBOR",1968 Mexico,Sailing,Mixed,flying dutchman
+Summer,1968,Bronze,BRA,Brazil,"Burkhard CORDES, Reinaldo CONRAD",1968 Mexico,Sailing,Mixed,flying dutchman
+Summer,1968,Gold,POL,Poland,Józef ZAPEDZKI,1968 Mexico,Shooting,Mixed,25m rapid fire pistol
+Summer,1968,Silver,ROU,Romania,Marcel ROSCA,1968 Mexico,Shooting,Mixed,25m rapid fire pistol
+Summer,1968,Bronze,URS,USSR,Renart SULEIMANOV,1968 Mexico,Shooting,Mixed,25m rapid fire pistol
+Summer,1968,Gold,URS,USSR,Grigori KOSYKH,1968 Mexico,Shooting,Mixed,50m pistol
+Summer,1968,Silver,FRG,Federal Republic of Germany,Heinz MERTEL,1968 Mexico,Shooting,Mixed,50m pistol
+Summer,1968,Bronze,GDR,German Democratic Republic,Harald VOLLMAR,1968 Mexico,Shooting,Mixed,50m pistol
+Summer,1968,Gold,TCH,Czechoslovakia,Jan KURKA,1968 Mexico,Shooting,Mixed,50m rifle prone
+Summer,1968,Silver,HUN,Hungary,László HAMMERL,1968 Mexico,Shooting,Mixed,50m rifle prone
+Summer,1968,Bronze,NZL,New Zealand,Ian BALLINGER,1968 Mexico,Shooting,Mixed,50m rifle prone
+Summer,1968,Gold,FRG,Federal Republic of Germany,Bernd KLINGNER,1968 Mexico,Shooting,Mixed,50m rifle 3 positions
+Summer,1968,Silver,USA,United States,John WRITER,1968 Mexico,Shooting,Mixed,50m rifle 3 positions
+Summer,1968,Bronze,URS,USSR,Vitaly PARKHIMOVICH,1968 Mexico,Shooting,Mixed,50m rifle 3 positions
+Summer,1968,Gold,USA,United States,Gary ANDERSON,1968 Mexico,Shooting,Mixed,300m free rifle 3 positions
+Summer,1968,Silver,URS,USSR,Valentin KORNEV,1968 Mexico,Shooting,Mixed,300m free rifle 3 positions
+Summer,1968,Bronze,SUI,Switzerland,Kurt MÜLLER,1968 Mexico,Shooting,Mixed,300m free rifle 3 positions
+Summer,1968,Gold,GBR,Great Britain,John BRAITHWAITE,1968 Mexico,Shooting,Mixed,Trap
+Summer,1968,Silver,USA,United States,Thomas Irvin GARRIGUS,1968 Mexico,Shooting,Mixed,Trap
+Summer,1968,Bronze,GDR,German Democratic Republic,Kurt CZEKALLA,1968 Mexico,Shooting,Mixed,Trap
+Summer,1968,Gold,URS,USSR,Evgeni PETROV,1968 Mexico,Shooting,Mixed,Skeet
+Summer,1968,Silver,ITA,Italy,Romano GARAGNANI,1968 Mexico,Shooting,Mixed,Skeet
+Summer,1968,Bronze,FRG,Federal Republic of Germany,Konrad WIRNHIER,1968 Mexico,Shooting,Mixed,Skeet
+Summer,1968,Gold,AUS,Australia,Mike WENDEN,1968 Mexico,Swimming,Men's,100m freestyle
+Summer,1968,Silver,USA,United States,Kenneth Marshall WALSH,1968 Mexico,Swimming,Men's,100m freestyle
+Summer,1968,Bronze,USA,United States,Mark SPITZ,1968 Mexico,Swimming,Men's,100m freestyle
+Summer,1968,Gold,AUS,Australia,Mike WENDEN,1968 Mexico,Swimming,Men's,200m freestyle
+Summer,1968,Silver,USA,United States,Don SCHOLLANDER,1968 Mexico,Swimming,Men's,200m freestyle
+Summer,1968,Bronze,USA,United States,John NELSON,1968 Mexico,Swimming,Men's,200m freestyle
+Summer,1968,Gold,USA,United States,Michael BURTON,1968 Mexico,Swimming,Men's,400m freestyle
+Summer,1968,Silver,CAN,Canada,Ralph HUTTON,1968 Mexico,Swimming,Men's,400m freestyle
+Summer,1968,Bronze,FRA,France,Alain MOSCONI,1968 Mexico,Swimming,Men's,400m freestyle
+Summer,1968,Gold,USA,United States,Michael BURTON,1968 Mexico,Swimming,Men's,1500m freestyle
+Summer,1968,Silver,USA,United States,John KINSELLA,1968 Mexico,Swimming,Men's,1500m freestyle
+Summer,1968,Bronze,AUS,Australia,Gregory BROUGH,1968 Mexico,Swimming,Men's,1500m freestyle
+Summer,1968,Gold,USA,United States,Donald Ward Jr. MCKENZIE,1968 Mexico,Swimming,Men's,100m breaststroke
+Summer,1968,Silver,URS,USSR,Vladimir KOSINSKY,1968 Mexico,Swimming,Men's,100m breaststroke
+Summer,1968,Bronze,URS,USSR,Nikolai PANKIN,1968 Mexico,Swimming,Men's,100m breaststroke
+Summer,1968,Gold,MEX,Mexico,Felipe MUÑOZ,1968 Mexico,Swimming,Men's,200m breaststroke
+Summer,1968,Silver,URS,USSR,Vladimir KOSINSKY,1968 Mexico,Swimming,Men's,200m breaststroke
+Summer,1968,Bronze,USA,United States,Brian JOB,1968 Mexico,Swimming,Men's,200m breaststroke
+Summer,1968,Gold,USA,United States,Douglas Albert RUSSELL,1968 Mexico,Swimming,Men's,100m butterfly
+Summer,1968,Silver,USA,United States,Mark SPITZ,1968 Mexico,Swimming,Men's,100m butterfly
+Summer,1968,Bronze,USA,United States,Ross WALES,1968 Mexico,Swimming,Men's,100m butterfly
+Summer,1968,Gold,USA,United States,Carl ROBIE,1968 Mexico,Swimming,Men's,200m butterfly
+Summer,1968,Silver,GBR,Great Britain,Martin WOODROFFE,1968 Mexico,Swimming,Men's,200m butterfly
+Summer,1968,Bronze,USA,United States,John FERRIS,1968 Mexico,Swimming,Men's,200m butterfly
+Summer,1968,Gold,GDR,German Democratic Republic,Roland MATTHES,1968 Mexico,Swimming,Men's,100m backstroke
+Summer,1968,Silver,USA,United States,Charles HICKCOX,1968 Mexico,Swimming,Men's,100m backstroke
+Summer,1968,Bronze,USA,United States,Ronald P. MILLS,1968 Mexico,Swimming,Men's,100m backstroke
+Summer,1968,Gold,GDR,German Democratic Republic,Roland MATTHES,1968 Mexico,Swimming,Men's,200m backstroke
+Summer,1968,Silver,USA,United States,Mitchell IVEY,1968 Mexico,Swimming,Men's,200m backstroke
+Summer,1968,Bronze,USA,United States,Jack HORSLEY,1968 Mexico,Swimming,Men's,200m backstroke
+Summer,1968,Gold,USA,United States,Charles HICKCOX,1968 Mexico,Swimming,Men's,200m individual medley
+Summer,1968,Silver,USA,United States,Gregory F. BUCKINGHAM,1968 Mexico,Swimming,Men's,200m individual medley
+Summer,1968,Bronze,USA,United States,John FERRIS,1968 Mexico,Swimming,Men's,200m individual medley
+Summer,1968,Gold,USA,United States,Charles HICKCOX,1968 Mexico,Swimming,Men's,400m individual medley
+Summer,1968,Silver,USA,United States,Gary HALL,1968 Mexico,Swimming,Men's,400m individual medley
+Summer,1968,Bronze,FRG,Federal Republic of Germany,Michael HOLTHAUS,1968 Mexico,Swimming,Men's,400m individual medley
+Summer,1968,Gold,USA,United States,"Stephen Karl RERYCH, Mark SPITZ, Kenneth Marshall WALSH, Zachary ZORN",1968 Mexico,Swimming,Men's,4x100m freestyle relay
+Summer,1968,Silver,URS,USSR,"Semyon BELITS-GEIMAN, Georgi KULIKOV, Leonid ILYICHEV, Viktor MAZANOV",1968 Mexico,Swimming,Men's,4x100m freestyle relay
+Summer,1968,Bronze,AUS,Australia,"Gregory ROGERS, Robert WINDLE, Mike WENDEN, Robert CUSACK",1968 Mexico,Swimming,Men's,4x100m freestyle relay
+Summer,1968,Gold,USA,United States,"John NELSON, Don SCHOLLANDER, Mark SPITZ, Stephen Karl RERYCH",1968 Mexico,Swimming,Men's,4x200m freestyle relay
+Summer,1968,Silver,AUS,Australia,"Mike WENDEN, Robert WINDLE, Gregory ROGERS, Graham WHITE",1968 Mexico,Swimming,Men's,4x200m freestyle relay
+Summer,1968,Bronze,URS,USSR,"Semyon BELITS-GEIMAN, Georgi KULIKOV, Vladimir BURE, Leonid ILYICHEV",1968 Mexico,Swimming,Men's,4x200m freestyle relay
+Summer,1968,Gold,USA,United States,"Donald Ward Jr. MCKENZIE, Kenneth Marshall WALSH, Douglas Albert RUSSELL, Charles HICKCOX",1968 Mexico,Swimming,Men's,4x100m medley relay
+Summer,1968,Silver,GDR,German Democratic Republic,"Roland MATTHES, Egon HENNINGER, Frank WIEGAND, Horst-Günther GREGOR",1968 Mexico,Swimming,Men's,4x100m medley relay
+Summer,1968,Bronze,URS,USSR,"Vladimir NEMSHILOV, Vladimir KOSINSKY, Yuri GROMAK, Leonid ILYICHEV",1968 Mexico,Swimming,Men's,4x100m medley relay
+Summer,1968,Gold,USA,United States,Jan HENNE,1968 Mexico,Swimming,Women's,100m freestyle
+Summer,1968,Silver,USA,United States,Susan PEDERSEN,1968 Mexico,Swimming,Women's,100m freestyle
+Summer,1968,Bronze,USA,United States,Linda GUSTAVSON,1968 Mexico,Swimming,Women's,100m freestyle
+Summer,1968,Gold,USA,United States,Debbie MEYER,1968 Mexico,Swimming,Women's,200m freestyle
+Summer,1968,Silver,USA,United States,Jan HENNE,1968 Mexico,Swimming,Women's,200m freestyle
+Summer,1968,Bronze,USA,United States,Jane BARKMAN,1968 Mexico,Swimming,Women's,200m freestyle
+Summer,1968,Gold,USA,United States,Debbie MEYER,1968 Mexico,Swimming,Women's,400m freestyle
+Summer,1968,Silver,USA,United States,Linda GUSTAVSON,1968 Mexico,Swimming,Women's,400m freestyle
+Summer,1968,Bronze,AUS,Australia,Karen MORAS,1968 Mexico,Swimming,Women's,400m freestyle
+Summer,1968,Gold,USA,United States,Debbie MEYER,1968 Mexico,Swimming,Women's,800m freestyle
+Summer,1968,Silver,USA,United States,Pamela KRUSE,1968 Mexico,Swimming,Women's,800m freestyle
+Summer,1968,Bronze,MEX,Mexico,Maria Teresa RAMIREZ,1968 Mexico,Swimming,Women's,800m freestyle
+Summer,1968,Gold,YUG,Yugoslavia,Djurdjica BJEDOV,1968 Mexico,Swimming,Women's,100m breaststroke
+Summer,1968,Silver,URS,USSR,Galina PROZUMENSHCHIKOVA,1968 Mexico,Swimming,Women's,100m breaststroke
+Summer,1968,Bronze,USA,United States,Sharon WICHMAN,1968 Mexico,Swimming,Women's,100m breaststroke
+Summer,1968,Gold,USA,United States,Sharon WICHMAN,1968 Mexico,Swimming,Women's,200m breaststroke
+Summer,1968,Silver,YUG,Yugoslavia,Djurdjica BJEDOV,1968 Mexico,Swimming,Women's,200m breaststroke
+Summer,1968,Bronze,URS,USSR,Galina PROZUMENSHCHIKOVA,1968 Mexico,Swimming,Women's,200m breaststroke
+Summer,1968,Gold,AUS,Australia,Lynette MCCLEMENTS,1968 Mexico,Swimming,Women's,100m butterfly
+Summer,1968,Silver,USA,United States,Ellie DANIEL,1968 Mexico,Swimming,Women's,100m butterfly
+Summer,1968,Bronze,USA,United States,Susan SHIELDS,1968 Mexico,Swimming,Women's,100m butterfly
+Summer,1968,Gold,NED,Netherlands,Ada KOK,1968 Mexico,Swimming,Women's,200m butterfly
+Summer,1968,Silver,GDR,German Democratic Republic,Helga LINDNER,1968 Mexico,Swimming,Women's,200m butterfly
+Summer,1968,Bronze,USA,United States,Ellie DANIEL,1968 Mexico,Swimming,Women's,200m butterfly
+Summer,1968,Gold,USA,United States,Kaye HALL,1968 Mexico,Swimming,Women's,100m backstroke
+Summer,1968,Silver,CAN,Canada,Elaine TANNER,1968 Mexico,Swimming,Women's,100m backstroke
+Summer,1968,Bronze,USA,United States,Jane SWAGERTY,1968 Mexico,Swimming,Women's,100m backstroke
+Summer,1968,Gold,USA,United States,Lillian Debra WATSON,1968 Mexico,Swimming,Women's,200m backstroke
+Summer,1968,Silver,CAN,Canada,Elaine TANNER,1968 Mexico,Swimming,Women's,200m backstroke
+Summer,1968,Bronze,USA,United States,Kaye HALL,1968 Mexico,Swimming,Women's,200m backstroke
+Summer,1968,Gold,USA,United States,Claudia KOLB,1968 Mexico,Swimming,Women's,200m individual medley
+Summer,1968,Silver,USA,United States,Susan PEDERSEN,1968 Mexico,Swimming,Women's,200m individual medley
+Summer,1968,Bronze,USA,United States,Jan HENNE,1968 Mexico,Swimming,Women's,200m individual medley
+Summer,1968,Gold,USA,United States,Claudia KOLB,1968 Mexico,Swimming,Women's,400m individual medley
+Summer,1968,Silver,USA,United States,Lynn VIDALI,1968 Mexico,Swimming,Women's,400m individual medley
+Summer,1968,Bronze,GDR,German Democratic Republic,Sabine STEINBACH,1968 Mexico,Swimming,Women's,400m individual medley
+Summer,1968,Gold,USA,United States,"Linda GUSTAVSON, Jane BARKMAN, Jan HENNE, Susan PEDERSEN",1968 Mexico,Swimming,Women's,4x100m freestyle relay
+Summer,1968,Silver,GDR,German Democratic Republic,"Gabriele PERTHES, Gabriele WETZKO, Uta SCHMUCK, Roswitha KRAUSE",1968 Mexico,Swimming,Women's,4x100m freestyle relay
+Summer,1968,Bronze,CAN,Canada,"Marilyn CORSON, Marion LAY, Elaine TANNER, Angela COUGHLAW",1968 Mexico,Swimming,Women's,4x100m freestyle relay
+Summer,1968,Gold,USA,United States,"Kaye HALL, Ellie DANIEL, Susan PEDERSEN, Catie BALL",1968 Mexico,Swimming,Women's,4x100m medley relay
+Summer,1968,Silver,AUS,Australia,"Lynette MCCLEMENTS, Judy PLAYFAIR, Janet STEINBECK, Lynette WATSON",1968 Mexico,Swimming,Women's,4x100m medley relay
+Summer,1968,Bronze,FRG,Federal Republic of Germany,"Angelika KRAUS, Heidemarie REINECK, Uta FROMMATER, Heike HUSTEDE",1968 Mexico,Swimming,Women's,4x100m medley relay
+Summer,1968,Gold,URS,USSR,"Yuri POYARKOV, Eduard SIBIRYAKOV, Oleg ANTROPOV, Georgy MONDZOLEVSKY, Yevgeny LAPINSKY, Vladimir IVANOV, Vladimir BELYAEV, Valery KRAVCHENKO, Boris TERESHCHUK, Ivan BUGAJENKOV, Vasilijus MATU?EVAS, Viktor MIKHALCHUK",1968 Mexico,Volleyball,Men's,volleyball
+Summer,1968,Silver,JPN,Japan,"Kenji SHIMAOKA, Jungo MORITA, Katsutoshi NEKODA, Mamoru SHIRAGAMI, Yasuaki MITSUMORI, Tetsuo SATO, Naohiro IKEDA, Tadayoshi YOKOTA, Kenji KIMURA, Seiji OKO, Isao KOIZUMI, Masayuki MINAMI",1968 Mexico,Volleyball,Men's,volleyball
+Summer,1968,Bronze,TCH,Czechoslovakia,"Josef SMOLKA, Petr KOP, Vladimir PETLAK, Zdenek GROESSL, Jirí SVOBODA, Pavel SCHENK, Lubomir ZAJISEK, Franti?ek SOKOL, Drahomir KOUDELKA, Antonin PROCHAZKA, Josef MUSIL, Bohumil GOLIÃ?N",1968 Mexico,Volleyball,Men's,volleyball
+Summer,1968,Gold,URS,USSR,"Inna RYSKAL, Tatyana SARYCHEVA, Valentina VINOGRADOVA-KAMENEK, Vera LANTRATOVA, Tatyana PONYAEVA-TRETYAKOVA, Vera GALUSHKA, Galina LEONTYEVA, Tatyana VEINBERGA, Lyudmila MIKHAILOVSKAYA, Lyudmila BULDAKOVA, Roza SALIKHOVA, Nina SMOLEYEVA",1968 Mexico,Volleyball,Women's,volleyball
+Summer,1968,Silver,JPN,Japan,"Yukiyo KOJIMA, Youko KASAHARA, Keiko HAMA, Toyoko IWAHARA, Setsuko INOUE, Setsuko YOSHIDA, Sumie OINUMA, Makiko FURUKAWA, Sachiko FUKUNAKA, Kunie SHISHIKURA, Suzue TAKAYAMA, Aiko ONOZAWA",1968 Mexico,Volleyball,Women's,volleyball
+Summer,1968,Bronze,POL,Poland,"Zofia SZCZESNIEWSKA, Barbara NIEMCZYK, Wanda WIECHA, Jozefa LEDWIG, Elzbieta PORZEC, Krystyna CZAJKOWSKA, Lidia CHMIELNICKA, Krystyna JAKUBOWSKA, Krystyna OSTROMECKA, Halina ASZKIELOWICZ, Krystyna KRUP, Jadwiga MARKO",1968 Mexico,Volleyball,Women's,volleyball
+Summer,1968,Gold,YUG,Yugoslavia,"Mirko SANDIC, Zdravko HEBEL, Ozren BONACIC, Ronald LOPATNY, Zoran JANKOVIC, Karlo STIPANIC, Uro? MAROVIC, Djordje PERISIC, Dejan DABOVIC, Ivo TRUMBIC, Miroslav POLJAK",1968 Mexico,Water Polo,Men's,water polo
+Summer,1968,Silver,URS,USSR,"Yuri GRIGOROVSKY, Boris GRISHIN, Vyacheslav SKOK, Oleg BOVIN, Vadim GULYAEV, Aleksandr SHIDLOVSKY, Aleksey BARKALOV, Givi CHIKVANAYA, Leonid OSIPOV, Vladimir SEMYONOV, Aleksandr DOLGUSHIN",1968 Mexico,Water Polo,Men's,water polo
+Summer,1968,Bronze,HUN,Hungary,"Zoltán DÖMÖTÖR, László SÁROSI, Mihály MAYER, Ferenc KONRAD, Dénes PÓCSIK, Janos KONRAD, LÃ¡szlÃ³ FELKAI, János STEINMETZ, Endre MOLNÁR, Istvan SZIVOS, András BODNÁR",1968 Mexico,Water Polo,Men's,water polo
+Summer,1968,Gold,IRI,Iran,Mohammad NASSIRI-SERESHT,1968 Mexico,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1968,Silver,HUN,Hungary,Imre FÖLDI,1968 Mexico,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1968,Bronze,POL,Poland,Henryk TREBICKI,1968 Mexico,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1968,Gold,JPN,Japan,Yoshinobu MIYAKE,1968 Mexico,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1968,Silver,URS,USSR,Dito SHANIDZE,1968 Mexico,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1968,Bronze,JPN,Japan,Yoshiyuki MIYAKE,1968 Mexico,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1968,Gold,POL,Poland,Waldemar BASZANOWSKI,1968 Mexico,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1968,Silver,IRI,Iran,Parviz JALAYER,1968 Mexico,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1968,Bronze,POL,Poland,Marian ZIELINSKI,1968 Mexico,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1968,Gold,URS,USSR,Viktor KURENTSOV,1968 Mexico,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1968,Silver,JPN,Japan,Masashi OHUCHI,1968 Mexico,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1968,Bronze,HUN,Hungary,Károly BAKOS,1968 Mexico,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1968,Gold,URS,USSR,Boris SELITSKY,1968 Mexico,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1968,Silver,URS,USSR,Vladimir BELYAEV,1968 Mexico,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1968,Bronze,POL,Poland,Norbert OZIMEK,1968 Mexico,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1968,Gold,FIN,Finland,Kaarlo KANGASNIEMI,1968 Mexico,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1968,Silver,URS,USSR,Jaan TALTS,1968 Mexico,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1968,Bronze,POL,Poland,Marek GOLAB,1968 Mexico,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1968,Gold,URS,USSR,Leonid ZHABOTINSKY,1968 Mexico,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1968,Silver,BEL,Belgium,Serge REDING,1968 Mexico,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1968,Bronze,USA,United States,Joseph DUBE,1968 Mexico,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1968,Gold,JPN,Japan,Shigeo NAKATA,1968 Mexico,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1968,Silver,USA,United States,Richard SANDERS,1968 Mexico,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1968,Bronze,MGL,Mongolia,Sukhbaatar SURENJAV,1968 Mexico,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1968,Gold,JPN,Japan,Yojiro UETAKE,1968 Mexico,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1968,Silver,USA,United States,Donald BEHM,1968 Mexico,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1968,Bronze,IRI,Iran,Abutaleb TALEBI,1968 Mexico,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1968,Gold,JPN,Japan,Masaaki KANEKO,1968 Mexico,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1968,Silver,BUL,Bulgaria,Enyu Dinev TODOROV,1968 Mexico,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1968,Bronze,IRI,Iran,Shamseddin SEYED-ABBASSI,1968 Mexico,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1968,Gold,IRI,Iran,Abdollah MOVAHED-ARDABILI,1968 Mexico,Wrestling Freestyle,Men's,63 - 70kg (lightweight)
+Summer,1968,Silver,BUL,Bulgaria,Enyu Dimov VALTCHEV,1968 Mexico,Wrestling Freestyle,Men's,63 - 70kg (lightweight)
+Summer,1968,Bronze,MGL,Mongolia,Sereeter DANZANDARJAA,1968 Mexico,Wrestling Freestyle,Men's,63 - 70kg (lightweight)
+Summer,1968,Gold,TUR,Turkey,Mahmut ATALAY,1968 Mexico,Wrestling Freestyle,Men's,70 - 78kg (welterweight)
+Summer,1968,Silver,FRA,France,Daniel ROBIN,1968 Mexico,Wrestling Freestyle,Men's,70 - 78kg (welterweight)
+Summer,1968,Bronze,MGL,Mongolia,Purev DAGVASUREN,1968 Mexico,Wrestling Freestyle,Men's,70 - 78kg (welterweight)
+Summer,1968,Gold,URS,USSR,Boris GUREVICH,1968 Mexico,Wrestling Freestyle,Men's,78 - 87kg (middleweight)
+Summer,1968,Silver,MGL,Mongolia,Munkbat JIGJIDYM,1968 Mexico,Wrestling Freestyle,Men's,78 - 87kg (middleweight)
+Summer,1968,Bronze,BUL,Bulgaria,Prodan Stoyanov GARDJEV,1968 Mexico,Wrestling Freestyle,Men's,78 - 87kg (middleweight)
+Summer,1968,Gold,TUR,Turkey,Ahmet AYIK,1968 Mexico,Wrestling Freestyle,Men's,87 - 97kg (light-heavyweight)
+Summer,1968,Silver,URS,USSR,Shota LOMIDZE,1968 Mexico,Wrestling Freestyle,Men's,87 - 97kg (light-heavyweight)
+Summer,1968,Bronze,HUN,Hungary,József CSATÁRI,1968 Mexico,Wrestling Freestyle,Men's,87 - 97kg (light-heavyweight)
+Summer,1968,Gold,URS,USSR,Aleksandr MEDVED,1968 Mexico,Wrestling Freestyle,Men's,+ 97kg (heavyweight)
+Summer,1968,Silver,BUL,Bulgaria,Osman DURALIEV,1968 Mexico,Wrestling Freestyle,Men's,+ 97kg (heavyweight)
+Summer,1968,Bronze,FRG,Federal Republic of Germany,Wilfried DIETRICH,1968 Mexico,Wrestling Freestyle,Men's,+ 97kg (heavyweight)
+Summer,1968,Gold,BUL,Bulgaria,Petar KIROV,1968 Mexico,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1968,Silver,URS,USSR,Vladimir BAKULIN,1968 Mexico,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1968,Bronze,TCH,Czechoslovakia,Miroslav ZEMAN,1968 Mexico,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1968,Gold,HUN,Hungary,Janos VARGA,1968 Mexico,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1968,Silver,ROU,Romania,Ion BACIU,1968 Mexico,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1968,Bronze,URS,USSR,Ivan KOCHERGIN,1968 Mexico,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1968,Gold,URS,USSR,Roman RURUA,1968 Mexico,Wrestling Greco-Roman,Men's,57 - 63kg (featherweight)
+Summer,1968,Silver,JPN,Japan,Hideo FUJIMOTO,1968 Mexico,Wrestling Greco-Roman,Men's,57 - 63kg (featherweight)
+Summer,1968,Bronze,ROU,Romania,Simion POPESCU,1968 Mexico,Wrestling Greco-Roman,Men's,57 - 63kg (featherweight)
+Summer,1968,Gold,JPN,Japan,Munji NUMEMURA,1968 Mexico,Wrestling Greco-Roman,Men's,63 - 70kg (lightweight)
+Summer,1968,Silver,YUG,Yugoslavia,Stevan HORVAT,1968 Mexico,Wrestling Greco-Roman,Men's,63 - 70kg (lightweight)
+Summer,1968,Bronze,GRE,Greece,Petros GALAKTOPOULOS,1968 Mexico,Wrestling Greco-Roman,Men's,63 - 70kg (lightweight)
+Summer,1968,Gold,GDR,German Democratic Republic,Rudolf VESPER,1968 Mexico,Wrestling Greco-Roman,Men's,70 - 78kg (welterweight)
+Summer,1968,Silver,FRA,France,Daniel ROBIN,1968 Mexico,Wrestling Greco-Roman,Men's,70 - 78kg (welterweight)
+Summer,1968,Bronze,HUN,Hungary,Károly BAJKÓ,1968 Mexico,Wrestling Greco-Roman,Men's,70 - 78kg (welterweight)
+Summer,1968,Gold,GDR,German Democratic Republic,Lothar METZ,1968 Mexico,Wrestling Greco-Roman,Men's,78 - 87kg (middleweight)
+Summer,1968,Silver,URS,USSR,Valentin OLEINIK,1968 Mexico,Wrestling Greco-Roman,Men's,78 - 87kg (middleweight)
+Summer,1968,Bronze,YUG,Yugoslavia,Branislav SIMIC,1968 Mexico,Wrestling Greco-Roman,Men's,78 - 87kg (middleweight)
+Summer,1968,Gold,BUL,Bulgaria,Boyan Aleksandrov RADEV,1968 Mexico,Wrestling Greco-Roman,Men's,87 - 97kg (light-heavyweight)
+Summer,1968,Silver,URS,USSR,Nikolai YAKOVENKO,1968 Mexico,Wrestling Greco-Roman,Men's,87 - 97kg (light-heavyweight)
+Summer,1968,Bronze,ROU,Romania,Nicolae MARTINESCU,1968 Mexico,Wrestling Greco-Roman,Men's,87 - 97kg (light-heavyweight)
+Summer,1968,Gold,HUN,Hungary,István KOZMA,1968 Mexico,Wrestling Greco-Roman,Men's,+ 97kg (heavyweight)
+Summer,1968,Silver,URS,USSR,Anatoli ROSHCHIN,1968 Mexico,Wrestling Greco-Roman,Men's,+ 97kg (heavyweight)
+Summer,1968,Bronze,TCH,Czechoslovakia,Petr KMENT,1968 Mexico,Wrestling Greco-Roman,Men's,+ 97kg (heavyweight)

@@ -1,0 +1,928 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,2000,Gold,AUS,Australia,Саймон Фэйрвезер,2000 Sydney,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2000,Silver,USA,United States,Виктор Вандерле,2000 Sydney,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2000,Bronze,NED,Netherlands,Витзе Ван Альтен,2000 Sydney,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,2000,Gold,KOR,Korea Republic,,2000 Sydney,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2000,Silver,ITA,Italy,,2000 Sydney,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2000,Bronze,USA,United States,,2000 Sydney,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,2000,Gold,KOR,Korea Republic,Юн Ми Джин,2000 Sydney,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2000,Silver,KOR,Korea Republic,Ким Нам Сун,2000 Sydney,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2000,Bronze,KOR,Korea Republic,Ким Су Ньюнг,2000 Sydney,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,2000,Gold,KOR,Korea Republic,,2000 Sydney,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2000,Silver,UKR,Ukraine,,2000 Sydney,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Artistic Swimming,Women's,team
+Summer,2000,Silver,JPN,Japan,,2000 Sydney,Artistic Swimming,Women's,team
+Summer,2000,Bronze,CAN,Canada,,2000 Sydney,Artistic Swimming,Women's,team
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Artistic Swimming,Women's,duet
+Summer,2000,Silver,JPN,Japan,,2000 Sydney,Artistic Swimming,Women's,duet
+Summer,2000,Bronze,FRA,France,,2000 Sydney,Artistic Swimming,Women's,duet
+Summer,2000,Gold,USA,United States,Морис Грин,2000 Sydney,Athletics,Men's,100m
+Summer,2000,Silver,TTO,Trinidad and Tobago,Ато Болдон,2000 Sydney,Athletics,Men's,100m
+Summer,2000,Bronze,BAR,Barbados,Обаделе Томпсон,2000 Sydney,Athletics,Men's,100m
+Summer,2000,Gold,GRE,Greece,Константинос Кендерис,2000 Sydney,Athletics,Men's,200m
+Summer,2000,Silver,GBR,Great Britain,Дэррен Кэмпбелл,2000 Sydney,Athletics,Men's,200m
+Summer,2000,Bronze,TTO,Trinidad and Tobago,Ато Болдон,2000 Sydney,Athletics,Men's,200m
+Summer,2000,Gold,USA,United States,Майкл Джонсон,2000 Sydney,Athletics,Men's,400m
+Summer,2000,Silver,USA,United States,Элвин Харрисон,2000 Sydney,Athletics,Men's,400m
+Summer,2000,Bronze,JAM,Jamaica,Грегори Хотон,2000 Sydney,Athletics,Men's,400m
+Summer,2000,Gold,GER,Germany,Нильс Шуманн,2000 Sydney,Athletics,Men's,800m
+Summer,2000,Silver,DEN,Denmark,Уилсон Кипкетер,2000 Sydney,Athletics,Men's,800m
+Summer,2000,Bronze,ALG,Algeria,Джабир Саид-Герни,2000 Sydney,Athletics,Men's,800m
+Summer,2000,Gold,KEN,Kenya,Ноа Нгени,2000 Sydney,Athletics,Men's,1500m
+Summer,2000,Silver,MAR,Morocco,Хишам Эль-Герруж,2000 Sydney,Athletics,Men's,1500m
+Summer,2000,Bronze,KEN,Kenya,Бернард Лагат,2000 Sydney,Athletics,Men's,1500m
+Summer,2000,Gold,ETH,Ethiopia,Миллион Волде,2000 Sydney,Athletics,Men's,5000m
+Summer,2000,Silver,ALG,Algeria,Али Саид-Сиф,2000 Sydney,Athletics,Men's,5000m
+Summer,2000,Bronze,MAR,Morocco,Брахим Булами,2000 Sydney,Athletics,Men's,5000m
+Summer,2000,Gold,ETH,Ethiopia,Хайле Гебреселассие,2000 Sydney,Athletics,Men's,10000m
+Summer,2000,Silver,KEN,Kenya,Пол Тергат,2000 Sydney,Athletics,Men's,10000m
+Summer,2000,Bronze,ETH,Ethiopia,Ассефа Мезгебу,2000 Sydney,Athletics,Men's,10000m
+Summer,2000,Gold,ETH,Ethiopia,Гезагне Абера,2000 Sydney,Athletics,Men's,marathon
+Summer,2000,Silver,KEN,Kenya,Эрик Вайнайна,2000 Sydney,Athletics,Men's,marathon
+Summer,2000,Bronze,ETH,Ethiopia,Тесфайе Тола,2000 Sydney,Athletics,Men's,marathon
+Summer,2000,Gold,CUB,Cuba,Аньер Гарсия,2000 Sydney,Athletics,Men's,110m hurdles
+Summer,2000,Silver,USA,United States,Терренс Траммел,2000 Sydney,Athletics,Men's,110m hurdles
+Summer,2000,Bronze,USA,United States,Марк Крир,2000 Sydney,Athletics,Men's,110m hurdles
+Summer,2000,Gold,USA,United States,Энджело Тейлор,2000 Sydney,Athletics,Men's,400m hurdles
+Summer,2000,Silver,KSA,Saudi Arabia,Хади Аль-Сомали,2000 Sydney,Athletics,Men's,400m hurdles
+Summer,2000,Bronze,RSA,South Africa,Ллевеллин Херберт,2000 Sydney,Athletics,Men's,400m hurdles
+Summer,2000,Gold,KEN,Kenya,Рубен Косгеи,2000 Sydney,Athletics,Men's,3000m steeplechase
+Summer,2000,Silver,KEN,Kenya,Уилсон Бойт Кипкетер,2000 Sydney,Athletics,Men's,3000m steeplechase
+Summer,2000,Bronze,MAR,Morocco,Али Эззин,2000 Sydney,Athletics,Men's,3000m steeplechase
+Summer,2000,Gold,USA,United States,"Морис Грин, Кеннет Брокенбарр, Бернард Уильямс, Брайан Льюис, Тим Монтгомери, Джон Драммонд",2000 Sydney,Athletics,Men's,4x100m relay
+Summer,2000,Silver,BRA,Brazil,"Виченте де Лима, Андре Домингос Сильва, Клаудио Роберто Соуза, Эдсон Рибейро, Клаудине Сильва",2000 Sydney,Athletics,Men's,4x100m relay
+Summer,2000,Bronze,CUB,Cuba,"Хосе Анджел Цезар, Иван Гарсиа, Луис Альберто Перес, Фредди Майола",2000 Sydney,Athletics,Men's,4x100m relay
+Summer,2000,Gold,NGR,Nigeria,"Ндука Авазе, Клемент Чукву, Санди Бада, Фиделис Гадзама, Юде Моне, Энефок Юдо Обонг",2000 Sydney,Athletics,Men's,4x400m relay
+Summer,2000,Silver,JAM,Jamaica,"Майкл Блэквуд, Кристофер Уильямс, Саньи Эре, Грег Хутон, Данни Макфарлейн, Майкл Макдональд",2000 Sydney,Athletics,Men's,4x400m relay
+Summer,2000,Bronze,BAH,Bahamas,"Авард Монкур, Карл Оливер, Трой Макинтош, Кристофер Браун",2000 Sydney,Athletics,Men's,4x400m relay
+Summer,2000,Gold,POL,Poland,Роберт Корженевский,2000 Sydney,Athletics,Men's,20km walk
+Summer,2000,Silver,MEX,Mexico,Ноэ Эрнандес,2000 Sydney,Athletics,Men's,20km walk
+Summer,2000,Bronze,RUS,Russian Federation,Владимир Андреев,2000 Sydney,Athletics,Men's,20km walk
+Summer,2000,Gold,POL,Poland,Роберт Корженевский,2000 Sydney,Athletics,Men's,50km walk
+Summer,2000,Silver,LAT,Latvia,Айгарс Фадеевс,2000 Sydney,Athletics,Men's,50km walk
+Summer,2000,Bronze,MEX,Mexico,Жоэль Санчес,2000 Sydney,Athletics,Men's,50km walk
+Summer,2000,Gold,CUB,Cuba,Иван Педросо,2000 Sydney,Athletics,Men's,long jump
+Summer,2000,Silver,AUS,Australia,Джай Таурима,2000 Sydney,Athletics,Men's,long jump
+Summer,2000,Bronze,UKR,Ukraine,Роман Щуренко,2000 Sydney,Athletics,Men's,long jump
+Summer,2000,Gold,GBR,Great Britain,Джонатан Эдвардс,2000 Sydney,Athletics,Men's,triple jump
+Summer,2000,Silver,CUB,Cuba,Жоэль Гарсия,2000 Sydney,Athletics,Men's,triple jump
+Summer,2000,Bronze,RUS,Russian Federation,Денис Капустин,2000 Sydney,Athletics,Men's,triple jump
+Summer,2000,Gold,RUS,Russian Federation,Сергей Клюгин,2000 Sydney,Athletics,Men's,high jump
+Summer,2000,Silver,CUB,Cuba,Хавьер Сотомайор,2000 Sydney,Athletics,Men's,high jump
+Summer,2000,Bronze,ALG,Algeria,Абдерахман Хаммад,2000 Sydney,Athletics,Men's,high jump
+Summer,2000,Gold,USA,United States,Ник Хайсонг,2000 Sydney,Athletics,Men's,pole vault
+Summer,2000,Silver,USA,United States,Лоуренс Джонсон,2000 Sydney,Athletics,Men's,pole vault
+Summer,2000,Bronze,RUS,Russian Federation,Максим Тарасов,2000 Sydney,Athletics,Men's,pole vault
+Summer,2000,Gold,FIN,Finland,Арси Харью,2000 Sydney,Athletics,Men's,shot put
+Summer,2000,Silver,USA,United States,Эдам Нельсон,2000 Sydney,Athletics,Men's,shot put
+Summer,2000,Bronze,USA,United States,Джон Година,2000 Sydney,Athletics,Men's,shot put
+Summer,2000,Gold,LTU,Lithuania,Виргилиус Алекна,2000 Sydney,Athletics,Men's,discus throw
+Summer,2000,Silver,GER,Germany,Ларс Ридель,2000 Sydney,Athletics,Men's,discus throw
+Summer,2000,Bronze,RSA,South Africa,Франц Крюгер,2000 Sydney,Athletics,Men's,discus throw
+Summer,2000,Gold,CZE,Czech Republic,Ян Железны,2000 Sydney,Athletics,Men's,javelin throw
+Summer,2000,Silver,GBR,Great Britain,Стив Бакли,2000 Sydney,Athletics,Men's,javelin throw
+Summer,2000,Bronze,RUS,Russian Federation,Сергей Макаров,2000 Sydney,Athletics,Men's,javelin throw
+Summer,2000,Gold,POL,Poland,Симон Циолковский,2000 Sydney,Athletics,Men's,hammer throw
+Summer,2000,Silver,ITA,Italy,Никола Виццони,2000 Sydney,Athletics,Men's,hammer throw
+Summer,2000,Bronze,BLR,Belarus,Игорь Астапкович,2000 Sydney,Athletics,Men's,hammer throw
+Summer,2000,Gold,EST,Estonia,Эркки Ноол,2000 Sydney,Athletics,Men's,decathlon
+Summer,2000,Silver,CZE,Czech Republic,Роман Себрле,2000 Sydney,Athletics,Men's,decathlon
+Summer,2000,Bronze,USA,United States,Крис Хаффинс,2000 Sydney,Athletics,Men's,decathlon
+Summer,2000,Silver,GRE,Greece,Aikaterini Thanou,2000 Sydney,Athletics,Women's,100m
+Summer,2000,Silver,JAM,Jamaica,Tanya Lawrence,2000 Sydney,Athletics,Women's,100m
+Summer,2000,Bronze,JAM,Jamaica,Merlene Ottey-Page,2000 Sydney,Athletics,Women's,100m
+Summer,2000,Gold,BAH,Bahamas,Паулин Дэвис,2000 Sydney,Athletics,Women's,200m
+Summer,2000,Silver,SRI,Sri Lanka,Сусантика Джаясингх,2000 Sydney,Athletics,Women's,200m
+Summer,2000,Bronze,JAM,Jamaica,Беверли Макдональд,2000 Sydney,Athletics,Women's,200m
+Summer,2000,Gold,AUS,Australia,Кэти Фримен,2000 Sydney,Athletics,Women's,400m
+Summer,2000,Silver,JAM,Jamaica,Лоррейн Грэхэм,2000 Sydney,Athletics,Women's,400m
+Summer,2000,Bronze,GBR,Great Britain,Кэтрин Мэрри,2000 Sydney,Athletics,Women's,400m
+Summer,2000,Gold,MOZ,Mozambique,Мария Мутола,2000 Sydney,Athletics,Women's,800m
+Summer,2000,Silver,AUT,Austria,Штефани Граф,2000 Sydney,Athletics,Women's,800m
+Summer,2000,Bronze,GBR,Great Britain,Келли Холмс,2000 Sydney,Athletics,Women's,800m
+Summer,2000,Gold,ALG,Algeria,Нурия Мерах-Бенида,2000 Sydney,Athletics,Women's,1500m
+Summer,2000,Silver,ROU,Romania,Виолета Бекля-Шекели,2000 Sydney,Athletics,Women's,1500m
+Summer,2000,Bronze,ROU,Romania,Габриэла Сабо,2000 Sydney,Athletics,Women's,1500m
+Summer,2000,Gold,ROU,Romania,Габриэла Сабо,2000 Sydney,Athletics,Women's,5000m
+Summer,2000,Silver,IRL,Ireland,Соня О'Салливан,2000 Sydney,Athletics,Women's,5000m
+Summer,2000,Bronze,ETH,Ethiopia,Гете Вами,2000 Sydney,Athletics,Women's,5000m
+Summer,2000,Gold,ETH,Ethiopia,Дерарту Тулу,2000 Sydney,Athletics,Women's,10000m
+Summer,2000,Silver,ETH,Ethiopia,Гете Ваме,2000 Sydney,Athletics,Women's,10000m
+Summer,2000,Bronze,POR,Portugal,Фернанда Рибейру,2000 Sydney,Athletics,Women's,10000m
+Summer,2000,Gold,JPN,Japan,Наоко Такахаши,2000 Sydney,Athletics,Women's,marathon
+Summer,2000,Silver,ROU,Romania,Лидия Славутяну-Симон,2000 Sydney,Athletics,Women's,marathon
+Summer,2000,Bronze,KEN,Kenya,Джойс Чепчумба,2000 Sydney,Athletics,Women's,marathon
+Summer,2000,Gold,KAZ,Kazakhstan,Ольга Шишигина,2000 Sydney,Athletics,Women's,100m hurdles
+Summer,2000,Silver,NGR,Nigeria,Глория Алози,2000 Sydney,Athletics,Women's,100m hurdles
+Summer,2000,Bronze,USA,United States,Мелисса Моррисон,2000 Sydney,Athletics,Women's,100m hurdles
+Summer,2000,Gold,RUS,Russian Federation,Ирина Привалова,2000 Sydney,Athletics,Women's,400m hurdles
+Summer,2000,Silver,JAM,Jamaica,Деон Хеммингс,2000 Sydney,Athletics,Women's,400m hurdles
+Summer,2000,Bronze,MAR,Morocco,Нежа Бидуан,2000 Sydney,Athletics,Women's,400m hurdles
+Summer,2000,Gold,BAH,Bahamas,"Севатеда Файнс, Паулин Элейн Дэвис, Элдис Льюис, Чандра Старрап, Дебби Фергюсон",2000 Sydney,Athletics,Women's,4x100m relay
+Summer,2000,Silver,JAM,Jamaica,"Таня Лоуренс, Беверли Макдональд, Мерлин Фрезер, Вероника Кэмпбелл, Мерлин Отти-Пейдж",2000 Sydney,Athletics,Women's,4x100m relay
+Summer,2000,Bronze,USA,United States,"Кристи Гейнс, Нэнсин Пэрри, Торри Эдвардс, Пэшен Ричардсон",2000 Sydney,Athletics,Women's,4x100m relay
+Summer,2000,Gold,USA,United States,"Ла-Таша Коландер-Ричардсон, Джирл Майлз-Кларк, Андреа Андерсон, Моник Хеннаган",2000 Sydney,Athletics,Women's,4x400m relay
+Summer,2000,Silver,JAM,Jamaica,"Шармани Ховелл, Санди Ричардс, Дион-Мари Хеммингс, Мишель Бургер, Катрин Скотт-Помелс, Лорейн Грехем",2000 Sydney,Athletics,Women's,4x400m relay
+Summer,2000,Bronze,RUS,Russian Federation,"Юлия Сотникова, Ольга Котлярова, Наталья Назарова, Светлана Гончаренко, Ирина Привалова, Олеся Зыкина",2000 Sydney,Athletics,Women's,4x400m relay
+Summer,2000,Gold,CHN,China,Ван Липин,2000 Sydney,Athletics,Women's,20km race walk
+Summer,2000,Silver,NOR,Norway,Кьерсти Тиссе-Пильтцер,2000 Sydney,Athletics,Women's,20km race walk
+Summer,2000,Bronze,ESP,Spain,Мария Васко,2000 Sydney,Athletics,Women's,20km race walk
+Summer,2000,Gold,GER,Germany,Хайке Дрехслер,2000 Sydney,Athletics,Women's,long jump
+Summer,2000,Silver,ITA,Italy,Фиона Мэй,2000 Sydney,Athletics,Women's,long jump
+Summer,2000,Bronze,RUS,Russian Federation,Татьяна Котова,2000 Sydney,Athletics,Women's,long jump
+Summer,2000,Gold,BUL,Bulgaria,Тереса Маринова,2000 Sydney,Athletics,Women's,triple jump
+Summer,2000,Silver,RUS,Russian Federation,Татьяна Лебедева,2000 Sydney,Athletics,Women's,triple jump
+Summer,2000,Bronze,UKR,Ukraine,Елена Говорова,2000 Sydney,Athletics,Women's,triple jump
+Summer,2000,Gold,RUS,Russian Federation,Елена Елесина,2000 Sydney,Athletics,Women's,high jump
+Summer,2000,Silver,RSA,South Africa,Хестри Клоет,2000 Sydney,Athletics,Women's,high jump
+Summer,2000,Bronze,ROU,Romania,Оана Пантелимон,2000 Sydney,Athletics,Women's,high jump
+Summer,2000,Bronze,SWE,Sweden,Кайса Бергквист,2000 Sydney,Athletics,Women's,high jump
+Summer,2000,Gold,USA,United States,Стэйси Драгила,2000 Sydney,Athletics,Women's,pole vault
+Summer,2000,Silver,AUS,Australia,Татьяна Григорьева,2000 Sydney,Athletics,Women's,pole vault
+Summer,2000,Bronze,ISL,Iceland,Вала Флосадоттир,2000 Sydney,Athletics,Women's,pole vault
+Summer,2000,Gold,BLR,Belarus,Янина Корольчик,2000 Sydney,Athletics,Women's,shot put
+Summer,2000,Silver,RUS,Russian Federation,Лариса Пелешенко,2000 Sydney,Athletics,Women's,shot put
+Summer,2000,Bronze,GER,Germany,Астрид Кумбернусс,2000 Sydney,Athletics,Women's,shot put
+Summer,2000,Gold,BLR,Belarus,Эллина Зверева,2000 Sydney,Athletics,Women's,discus throw
+Summer,2000,Silver,GRE,Greece,Анастасия Келесиду,2000 Sydney,Athletics,Women's,discus throw
+Summer,2000,Bronze,BLR,Belarus,Ирина Ятченко,2000 Sydney,Athletics,Women's,discus throw
+Summer,2000,Gold,NOR,Norway,Трине Сольберг-Хаттестад,2000 Sydney,Athletics,Women's,javelin throw
+Summer,2000,Silver,GRE,Greece,Мирелла Маньяни-Целили,2000 Sydney,Athletics,Women's,javelin throw
+Summer,2000,Bronze,CUB,Cuba,Ослейдис Менендес,2000 Sydney,Athletics,Women's,javelin throw
+Summer,2000,Gold,POL,Poland,Камила Сколимовска,2000 Sydney,Athletics,Women's,hammer throw
+Summer,2000,Silver,RUS,Russian Federation,Ольга Кузенкова,2000 Sydney,Athletics,Women's,hammer throw
+Summer,2000,Bronze,GER,Germany,Кирстен Мунчоу,2000 Sydney,Athletics,Women's,hammer throw
+Summer,2000,Gold,GBR,Great Britain,Дениз Льюис,2000 Sydney,Athletics,Women's,heptathlon
+Summer,2000,Silver,RUS,Russian Federation,Елена Прохорова,2000 Sydney,Athletics,Women's,heptathlon
+Summer,2000,Bronze,BLR,Belarus,Наталья Сазанович,2000 Sydney,Athletics,Women's,heptathlon
+Summer,2000,Gold,CHN,China,Цзу Синьпен,2000 Sydney,Badminton,Men's,singles
+Summer,2000,Silver,INA,Indonesia,Хендраван,2000 Sydney,Badminton,Men's,singles
+Summer,2000,Bronze,CHN,China,Ся Сюаньцзе,2000 Sydney,Badminton,Men's,singles
+Summer,2000,Gold,INA,Indonesia,,2000 Sydney,Badminton,Men's,doubles
+Summer,2000,Silver,KOR,Korea Republic,,2000 Sydney,Badminton,Men's,doubles
+Summer,2000,Bronze,KOR,Korea Republic,,2000 Sydney,Badminton,Men's,doubles
+Summer,2000,Gold,CHN,China,Гон Чжичао,2000 Sydney,Badminton,Women's,singles
+Summer,2000,Silver,DEN,Denmark,Камилла Мартин,2000 Sydney,Badminton,Women's,singles
+Summer,2000,Bronze,CHN,China,Е Чжаочин,2000 Sydney,Badminton,Women's,singles
+Summer,2000,Gold,CHN,China,,2000 Sydney,Badminton,Women's,doubles
+Summer,2000,Silver,CHN,China,,2000 Sydney,Badminton,Women's,doubles
+Summer,2000,Bronze,CHN,China,,2000 Sydney,Badminton,Women's,doubles
+Summer,2000,Gold,CHN,China,,2000 Sydney,Badminton,Mixed,doubles
+Summer,2000,Silver,INA,Indonesia,,2000 Sydney,Badminton,Mixed,doubles
+Summer,2000,Bronze,GBR,Great Britain,,2000 Sydney,Badminton,Mixed,doubles
+Summer,2000,Gold,USA,United States,,2000 Sydney,Basketball,Men's,basketball
+Summer,2000,Silver,FRA,France,,2000 Sydney,Basketball,Men's,basketball
+Summer,2000,Bronze,LTU,Lithuania,,2000 Sydney,Basketball,Men's,basketball
+Summer,2000,Gold,USA,United States,,2000 Sydney,Basketball,Women's,basketball
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Basketball,Women's,basketball
+Summer,2000,Bronze,BRA,Brazil,,2000 Sydney,Basketball,Women's,basketball
+Summer,2000,Gold,USA,United States,,2000 Sydney,Beach Volleyball,Men's,beach volleyball
+Summer,2000,Silver,BRA,Brazil,,2000 Sydney,Beach Volleyball,Men's,beach volleyball
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Beach Volleyball,Men's,beach volleyball
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Beach Volleyball,Women's,beach volleyball
+Summer,2000,Silver,BRA,Brazil,,2000 Sydney,Beach Volleyball,Women's,beach volleyball
+Summer,2000,Bronze,BRA,Brazil,,2000 Sydney,Beach Volleyball,Women's,beach volleyball
+Summer,2000,Gold,FRA,France,Браим Аслум,2000 Sydney,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2000,Silver,ESP,Spain,Рафаэль Лоcано Муньос,2000 Sydney,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2000,Bronze,CUB,Cuba,Майкро Ромеро Эскироль,2000 Sydney,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2000,Bronze,PRK,Korea DPR,Ким Ун Чол,2000 Sydney,Boxing,Men's,- 48kg (light-flyweight)
+Summer,2000,Gold,THA,Thailand,Вийджан Понлид,2000 Sydney,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2000,Silver,KAZ,Kazakhstan,Булат Джумадилов,2000 Sydney,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2000,Bronze,FRA,France,Жером Тома,2000 Sydney,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2000,Bronze,UKR,Ukraine,Владимир Сидоренко,2000 Sydney,Boxing,Men's,48 - 51kg (flyweight)
+Summer,2000,Gold,CUB,Cuba,Гильермо Ригондо,2000 Sydney,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2000,Silver,RUS,Russian Federation,Раимкуль Малахбеков,2000 Sydney,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2000,Bronze,UKR,Ukraine,Сергей Данильченко,2000 Sydney,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2000,Bronze,USA,United States,Кларенс Винсон,2000 Sydney,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,2000,Gold,KAZ,Kazakhstan,Бекзат Саттарханов,2000 Sydney,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2000,Silver,USA,United States,Рикардо Хуарес,2000 Sydney,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2000,Bronze,MAR,Morocco,Тахар Тамсамани,2000 Sydney,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2000,Bronze,RUS,Russian Federation,Камиль Джамалутдинов,2000 Sydney,Boxing,Men's,54 - 57kg (featherweight)
+Summer,2000,Gold,CUB,Cuba,Марио Кинделан,2000 Sydney,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2000,Silver,UKR,Ukraine,Андрей Котельник,2000 Sydney,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2000,Bronze,MEX,Mexico,Кристиан Бенитес,2000 Sydney,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2000,Bronze,RUS,Russian Federation,Александр Малетин,2000 Sydney,Boxing,Men's,57 - 60kg (lightweight)
+Summer,2000,Gold,UZB,Uzbekistan,Махамадкадыз Абдуллаев,2000 Sydney,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,2000,Silver,USA,United States,Рикардо Уильямс,2000 Sydney,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,2000,Bronze,ALG,Algeria,Мохамед Аллалу,2000 Sydney,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,2000,Bronze,CUB,Cuba,Диогенес Луна Мартинес,2000 Sydney,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,2000,Gold,RUS,Russian Federation,Олег Саитов,2000 Sydney,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,2000,Silver,UKR,Ukraine,Сергей Доценко,2000 Sydney,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,2000,Bronze,MDA,Moldova,Виталий Грузач,2000 Sydney,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,2000,Bronze,ROU,Romania,Дорел Симион,2000 Sydney,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,2000,Gold,KAZ,Kazakhstan,Ермахан Ибраимов,2000 Sydney,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,2000,Silver,ROU,Romania,Марин Симион,2000 Sydney,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,2000,Bronze,THA,Thailand,Порнчай Тонгбуран,2000 Sydney,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,2000,Bronze,USA,United States,Джермэйн Тэйлор,2000 Sydney,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,2000,Gold,CUB,Cuba,Хорхе Гутьеррес,2000 Sydney,Boxing,Men's,71 - 75kg (middleweight)
+Summer,2000,Silver,RUS,Russian Federation,Гайдарбек Гайдарбеков,2000 Sydney,Boxing,Men's,71 - 75kg (middleweight)
+Summer,2000,Bronze,AZE,Azerbaijan,Вугар Алекперов,2000 Sydney,Boxing,Men's,71 - 75kg (middleweight)
+Summer,2000,Bronze,HUN,Hungary,Жолт Эрдеи,2000 Sydney,Boxing,Men's,71 - 75kg (middleweight)
+Summer,2000,Gold,RUS,Russian Federation,Александр Лебзяк,2000 Sydney,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2000,Silver,CZE,Czech Republic,Рудольф Краж,2000 Sydney,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2000,Bronze,UKR,Ukraine,Андрей Федчук,2000 Sydney,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2000,Bronze,UZB,Uzbekistan,Сергей Михайлов,2000 Sydney,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,2000,Gold,CUB,Cuba,Феликс Савон,2000 Sydney,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2000,Silver,RUS,Russian Federation,Султан Ибрагимов,2000 Sydney,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2000,Bronze,GEO,Georgia,Владимир Чантурия,2000 Sydney,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2000,Bronze,GER,Germany,Себастьян Кобер,2000 Sydney,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,2000,Gold,GBR,Great Britain,Одли Харриссон,2000 Sydney,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2000,Silver,KAZ,Kazakhstan,Мухтархан Дильдабеков,2000 Sydney,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2000,Bronze,ITA,Italy,Паоло Видоц,2000 Sydney,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2000,Bronze,UZB,Uzbekistan,Рустам Саидов,2000 Sydney,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,2000,Gold,GER,Germany,Томас Шмидт,2000 Sydney,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2000,Silver,GBR,Great Britain,Пол Рэтклифф,2000 Sydney,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2000,Bronze,ITA,Italy,Пьер Паоло Феррацци,2000 Sydney,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,2000,Gold,FRA,France,Тони Эстанжо,2000 Sydney,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2000,Silver,SVK,Slovakia,Михаил Мартикан,2000 Sydney,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2000,Bronze,SVK,Slovakia,Юрай Минчик,2000 Sydney,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,2000,Gold,SVK,Slovakia,,2000 Sydney,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2000,Silver,POL,Poland,,2000 Sydney,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2000,Bronze,CZE,Czech Republic,,2000 Sydney,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,2000,Gold,CZE,Czech Republic,Степанка Хильгертова,2000 Sydney,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2000,Silver,FRA,France,Бригитт Гуибаль,2000 Sydney,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2000,Bronze,FRA,France,Анн-Лиз Барде,2000 Sydney,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,2000,Gold,NOR,Norway,Кнут Хольманн,2000 Sydney,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2000,Silver,BUL,Bulgaria,Петар Мерков,2000 Sydney,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2000,Bronze,ISR,Israel,Михаил Колганов,2000 Sydney,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,2000,Gold,NOR,Norway,Кнут Хольманн,2000 Sydney,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2000,Silver,BUL,Bulgaria,Петар Мерков,2000 Sydney,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2000,Bronze,GBR,Great Britain,Тим Брэбэнтс,2000 Sydney,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,2000,Gold,HUN,Hungary,,2000 Sydney,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,2000,Gold,ITA,Italy,,2000 Sydney,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2000,Silver,SWE,Sweden,,2000 Sydney,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2000,Bronze,HUN,Hungary,,2000 Sydney,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,2000,Gold,HUN,Hungary,,2000 Sydney,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2000,Silver,GER,Germany,,2000 Sydney,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2000,Bronze,POL,Poland,,2000 Sydney,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,2000,Gold,HUN,Hungary,Дьердь Колонич,2000 Sydney,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2000,Silver,RUS,Russian Federation,Максим Опалев,2000 Sydney,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2000,Bronze,GER,Germany,Андреас Диттмер,2000 Sydney,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,2000,Gold,GER,Germany,Андреас Диттмер,2000 Sydney,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2000,Silver,CUB,Cuba,Ледис Франк Бальсейро,2000 Sydney,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2000,Bronze,CAN,Canada,Стив Жиль,2000 Sydney,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,2000,Gold,HUN,Hungary,,2000 Sydney,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2000,Silver,POL,Poland,,2000 Sydney,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2000,Bronze,ROU,Romania,,2000 Sydney,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,2000,Gold,ROU,Romania,,2000 Sydney,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2000,Silver,CUB,Cuba,,2000 Sydney,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,2000,Gold,ITA,Italy,Джозефа Идем Геррини,2000 Sydney,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2000,Silver,CAN,Canada,Каролин Брунет,2000 Sydney,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2000,Bronze,AUS,Australia,Катрин Борхерт,2000 Sydney,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,2000,Gold,GER,Germany,,2000 Sydney,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2000,Silver,HUN,Hungary,,2000 Sydney,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2000,Bronze,POL,Poland,,2000 Sydney,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,2000,Gold,GER,Germany,,2000 Sydney,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2000,Silver,HUN,Hungary,,2000 Sydney,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2000,Bronze,ROU,Romania,,2000 Sydney,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,2000,Gold,FRA,France,Мигель Мартинес,2000 Sydney,Cycling Mountain Bike,Men's,cross-country
+Summer,2000,Silver,BEL,Belgium,Филип Мейрхэге,2000 Sydney,Cycling Mountain Bike,Men's,cross-country
+Summer,2000,Bronze,SUI,Switzerland,Кристоф Заузер,2000 Sydney,Cycling Mountain Bike,Men's,cross-country
+Summer,2000,Gold,ITA,Italy,Паола Пеццо,2000 Sydney,Cycling Mountain Bike,Women's,cross-country
+Summer,2000,Silver,SUI,Switzerland,Барбара Блаттер,2000 Sydney,Cycling Mountain Bike,Women's,cross-country
+Summer,2000,Bronze,ESP,Spain,Маргарита Фуллана,2000 Sydney,Cycling Mountain Bike,Women's,cross-country
+Summer,2000,Gold,GER,Germany,Ян Ульрих,2000 Sydney,Cycling Road,Men's,individual road race
+Summer,2000,Silver,KAZ,Kazakhstan,Александр Винокуров,2000 Sydney,Cycling Road,Men's,individual road race
+Summer,2000,Bronze,GER,Germany,Андреас Клоден,2000 Sydney,Cycling Road,Men's,individual road race
+Summer,2000,Gold,RUS,Russian Federation,Vyacheslav Ekimov,2000 Sydney,Cycling Road,Men's,individual time trial
+Summer,2000,Silver,GER,Germany,Jan Ullrich,2000 Sydney,Cycling Road,Men's,individual time trial
+Summer,2000,Gold,NED,Netherlands,Леонтьен Ван Морсель,2000 Sydney,Cycling Road,Women's,individual road race
+Summer,2000,Silver,GER,Germany,Ханка Купфернагель,2000 Sydney,Cycling Road,Women's,individual road race
+Summer,2000,Bronze,LTU,Lithuania,Диана Жилюте,2000 Sydney,Cycling Road,Women's,individual road race
+Summer,2000,Gold,NED,Netherlands,Леонтьен Ван Морсель,2000 Sydney,Cycling Road,Women's,individual time trial
+Summer,2000,Silver,USA,United States,Мэри Холден,2000 Sydney,Cycling Road,Women's,individual time trial
+Summer,2000,Bronze,FRA,France,Жанни Лонго-Сипрелли,2000 Sydney,Cycling Road,Women's,individual time trial
+Summer,2000,Gold,USA,United States,Марти Нотштайн,2000 Sydney,Cycling Track,Men's,sprint individual
+Summer,2000,Silver,FRA,France,Флориан Руссо,2000 Sydney,Cycling Track,Men's,sprint individual
+Summer,2000,Bronze,GER,Germany,Йенс Фидлер,2000 Sydney,Cycling Track,Men's,sprint individual
+Summer,2000,Gold,GER,Germany,Роберт Барко,2000 Sydney,Cycling Track,Men's,individual pursuit
+Summer,2000,Silver,GER,Germany,Йенс Леманн,2000 Sydney,Cycling Track,Men's,individual pursuit
+Summer,2000,Bronze,AUS,Australia,Брэд Макги,2000 Sydney,Cycling Track,Men's,individual pursuit
+Summer,2000,Gold,ESP,Spain,Хуан Льянерас,2000 Sydney,Cycling Track,Men's,points race
+Summer,2000,Silver,URU,Uruguay,Милтон Винантс,2000 Sydney,Cycling Track,Men's,points race
+Summer,2000,Bronze,RUS,Russian Federation,Алексей Марков,2000 Sydney,Cycling Track,Men's,points race
+Summer,2000,Gold,GBR,Great Britain,Джейсон Куэлли,2000 Sydney,Cycling Track,Men's,1km time trial
+Summer,2000,Silver,GER,Germany,Штефан Нимке,2000 Sydney,Cycling Track,Men's,1km time trial
+Summer,2000,Bronze,AUS,Australia,Шейн Келли,2000 Sydney,Cycling Track,Men's,1km time trial
+Summer,2000,Gold,GER,Germany,,2000 Sydney,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2000,Silver,UKR,Ukraine,,2000 Sydney,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2000,Bronze,GBR,Great Britain,,2000 Sydney,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,2000,Gold,FRA,France,,2000 Sydney,Cycling Track,Men's,Team Sprint
+Summer,2000,Silver,GBR,Great Britain,,2000 Sydney,Cycling Track,Men's,Team Sprint
+Summer,2000,Bronze,AUS,Australia,,2000 Sydney,Cycling Track,Men's,Team Sprint
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Cycling Track,Men's,Madison
+Summer,2000,Silver,BEL,Belgium,,2000 Sydney,Cycling Track,Men's,Madison
+Summer,2000,Bronze,ITA,Italy,,2000 Sydney,Cycling Track,Men's,Madison
+Summer,2000,Gold,FRA,France,Флориан Руссо,2000 Sydney,Cycling Track,Men's,Keirin
+Summer,2000,Silver,AUS,Australia,Гэри Нейванд,2000 Sydney,Cycling Track,Men's,Keirin
+Summer,2000,Bronze,GER,Germany,Йенс Фидлер,2000 Sydney,Cycling Track,Men's,Keirin
+Summer,2000,Gold,FRA,France,Фелисия Балланже,2000 Sydney,Cycling Track,Women's,sprint individual
+Summer,2000,Silver,RUS,Russian Federation,Оксана Гришина,2000 Sydney,Cycling Track,Women's,sprint individual
+Summer,2000,Bronze,UKR,Ukraine,Ирина Янович,2000 Sydney,Cycling Track,Women's,sprint individual
+Summer,2000,Gold,NED,Netherlands,Леонтьен Ван Морсель,2000 Sydney,Cycling Track,Women's,individual pursuit
+Summer,2000,Silver,FRA,France,Марион Клинье,2000 Sydney,Cycling Track,Women's,individual pursuit
+Summer,2000,Bronze,GBR,Great Britain,Ивонн Макгрегор,2000 Sydney,Cycling Track,Women's,individual pursuit
+Summer,2000,Gold,ITA,Italy,Антонелла Беллутти,2000 Sydney,Cycling Track,Women's,points race
+Summer,2000,Silver,NED,Netherlands,Леонтьен Ван Морсель,2000 Sydney,Cycling Track,Women's,points race
+Summer,2000,Bronze,RUS,Russian Federation,Ольга Слюсарева,2000 Sydney,Cycling Track,Women's,points race
+Summer,2000,Gold,FRA,France,Фелисия Балланже,2000 Sydney,Cycling Track,Women's,500m time trial
+Summer,2000,Silver,AUS,Australia,Мишель Феррис,2000 Sydney,Cycling Track,Women's,500m time trial
+Summer,2000,Bronze,CHN,China,Цзян Чуйхуа,2000 Sydney,Cycling Track,Women's,500m time trial
+Summer,2000,Gold,CHN,China,Сян Ни,2000 Sydney,Diving,Men's,3m springboard
+Summer,2000,Silver,MEX,Mexico,Фернандо Платас,2000 Sydney,Diving,Men's,3m springboard
+Summer,2000,Bronze,RUS,Russian Federation,Дмитрий Саутин,2000 Sydney,Diving,Men's,3m springboard
+Summer,2000,Gold,CHN,China,Тан Лянь,2000 Sydney,Diving,Men's,10m platform
+Summer,2000,Silver,CHN,China,Цзя Ху,2000 Sydney,Diving,Men's,10m platform
+Summer,2000,Bronze,RUS,Russian Federation,Дмитрий Саутин,2000 Sydney,Diving,Men's,10m platform
+Summer,2000,Gold,CHN,China,,2000 Sydney,Diving,Men's,synchronized diving 3m springboard
+Summer,2000,Silver,RUS,Russian Federation,,2000 Sydney,Diving,Men's,synchronized diving 3m springboard
+Summer,2000,Bronze,AUS,Australia,,2000 Sydney,Diving,Men's,synchronized diving 3m springboard
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Diving,Men's,synchronized diving 10m platform
+Summer,2000,Silver,CHN,China,,2000 Sydney,Diving,Men's,synchronized diving 10m platform
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Diving,Men's,synchronized diving 10m platform
+Summer,2000,Gold,CHN,China,Фу Минся,2000 Sydney,Diving,Women's,3m springboard
+Summer,2000,Silver,CHN,China,Го Цзинцзин,2000 Sydney,Diving,Women's,3m springboard
+Summer,2000,Bronze,GER,Germany,Дорте Линднер,2000 Sydney,Diving,Women's,3m springboard
+Summer,2000,Gold,USA,United States,Лаура Уилкинсон,2000 Sydney,Diving,Women's,10m platform
+Summer,2000,Silver,CHN,China,Ли На,2000 Sydney,Diving,Women's,10m platform
+Summer,2000,Bronze,CAN,Canada,Анн Монтмини,2000 Sydney,Diving,Women's,10m platform
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Diving,Women's,synchronized diving 3m springboard
+Summer,2000,Silver,CHN,China,,2000 Sydney,Diving,Women's,synchronized diving 3m springboard
+Summer,2000,Bronze,UKR,Ukraine,,2000 Sydney,Diving,Women's,synchronized diving 3m springboard
+Summer,2000,Gold,CHN,China,,2000 Sydney,Diving,Women's,synchronized diving 10m platform
+Summer,2000,Silver,CAN,Canada,,2000 Sydney,Diving,Women's,synchronized diving 10m platform
+Summer,2000,Bronze,AUS,Australia,,2000 Sydney,Diving,Women's,synchronized diving 10m platform
+Summer,2000,Gold,NED,Netherlands,Анки Ван Грунсвен,2000 Sydney,Equestrian Dressage,Mixed,individual
+Summer,2000,Silver,GER,Germany,Изабель Верт,2000 Sydney,Equestrian Dressage,Mixed,individual
+Summer,2000,Bronze,GER,Germany,Улла Зальцгебер,2000 Sydney,Equestrian Dressage,Mixed,individual
+Summer,2000,Gold,GER,Germany,,2000 Sydney,Equestrian Dressage,Mixed,team
+Summer,2000,Silver,NED,Netherlands,,2000 Sydney,Equestrian Dressage,Mixed,team
+Summer,2000,Bronze,USA,United States,,2000 Sydney,Equestrian Dressage,Mixed,team
+Summer,2000,Gold,USA,United States,Дэвид О'Коннор,2000 Sydney,Equestrian Eventing,Mixed,individual
+Summer,2000,Silver,AUS,Australia,Эндрю Хой,2000 Sydney,Equestrian Eventing,Mixed,individual
+Summer,2000,Bronze,NZL,New Zealand,Марк Тодд,2000 Sydney,Equestrian Eventing,Mixed,individual
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Equestrian Eventing,Mixed,team
+Summer,2000,Silver,GBR,Great Britain,,2000 Sydney,Equestrian Eventing,Mixed,team
+Summer,2000,Bronze,USA,United States,,2000 Sydney,Equestrian Eventing,Mixed,team
+Summer,2000,Gold,NED,Netherlands,Йероен Дюббельдам,2000 Sydney,Equestrian Jumping,Mixed,individual
+Summer,2000,Silver,NED,Netherlands,Альберт Воорн,2000 Sydney,Equestrian Jumping,Mixed,individual
+Summer,2000,Bronze,KSA,Saudi Arabia,Халед Аль Эйд,2000 Sydney,Equestrian Jumping,Mixed,individual
+Summer,2000,Gold,GER,Germany,,2000 Sydney,Equestrian Jumping,Mixed,team
+Summer,2000,Silver,SUI,Switzerland,,2000 Sydney,Equestrian Jumping,Mixed,team
+Summer,2000,Bronze,BRA,Brazil,,2000 Sydney,Equestrian Jumping,Mixed,team
+Summer,2000,Gold,KOR,Korea Republic,Ким Юнг Хо,2000 Sydney,Fencing,Men's,foil individual
+Summer,2000,Silver,GER,Germany,Ральф Биссдорф,2000 Sydney,Fencing,Men's,foil individual
+Summer,2000,Bronze,RUS,Russian Federation,Дмитрий Шевченко,2000 Sydney,Fencing,Men's,foil individual
+Summer,2000,Gold,FRA,France,,2000 Sydney,Fencing,Men's,foil team
+Summer,2000,Silver,CHN,China,,2000 Sydney,Fencing,Men's,foil team
+Summer,2000,Bronze,ITA,Italy,,2000 Sydney,Fencing,Men's,foil team
+Summer,2000,Gold,ROU,Romania,Михай Ковалиу,2000 Sydney,Fencing,Men's,sabre individual
+Summer,2000,Silver,FRA,France,Матье Журдэн,2000 Sydney,Fencing,Men's,sabre individual
+Summer,2000,Bronze,GER,Germany,Вирадех Котны,2000 Sydney,Fencing,Men's,sabre individual
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Fencing,Men's,sabre team
+Summer,2000,Silver,FRA,France,,2000 Sydney,Fencing,Men's,sabre team
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Fencing,Men's,sabre team
+Summer,2000,Gold,RUS,Russian Federation,Павел Колобков,2000 Sydney,Fencing,Men's,épée individual
+Summer,2000,Silver,FRA,France,Юг Орби,2000 Sydney,Fencing,Men's,épée individual
+Summer,2000,Bronze,KOR,Korea Republic,Ли Санг Ки,2000 Sydney,Fencing,Men's,épée individual
+Summer,2000,Gold,ITA,Italy,,2000 Sydney,Fencing,Men's,épée team
+Summer,2000,Silver,FRA,France,,2000 Sydney,Fencing,Men's,épée team
+Summer,2000,Bronze,CUB,Cuba,,2000 Sydney,Fencing,Men's,épée team
+Summer,2000,Gold,ITA,Italy,Валентина Веццали,2000 Sydney,Fencing,Women's,foil individual
+Summer,2000,Silver,GER,Germany,Рита Кениг,2000 Sydney,Fencing,Women's,foil individual
+Summer,2000,Bronze,ITA,Italy,Джованна Триллини,2000 Sydney,Fencing,Women's,foil individual
+Summer,2000,Gold,ITA,Italy,,2000 Sydney,Fencing,Women's,foil team
+Summer,2000,Silver,POL,Poland,,2000 Sydney,Fencing,Women's,foil team
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Fencing,Women's,foil team
+Summer,2000,Gold,HUN,Hungary,Тимеа Надь,2000 Sydney,Fencing,Women's,épée individual
+Summer,2000,Silver,SUI,Switzerland,Джанна Аблетцель-Бурки,2000 Sydney,Fencing,Women's,épée individual
+Summer,2000,Bronze,FRA,France,Лаура Флессель-Коловиц,2000 Sydney,Fencing,Women's,épée individual
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Fencing,Women's,épée team
+Summer,2000,Silver,SUI,Switzerland,,2000 Sydney,Fencing,Women's,épée team
+Summer,2000,Bronze,CHN,China,,2000 Sydney,Fencing,Women's,épée team
+Summer,2000,Gold,CMR,Cameroon,,2000 Sydney,Football,Men's,football
+Summer,2000,Silver,ESP,Spain,,2000 Sydney,Football,Men's,football
+Summer,2000,Bronze,CHI,Chile,,2000 Sydney,Football,Men's,football
+Summer,2000,Gold,NOR,Norway,,2000 Sydney,Football,Women's,football
+Summer,2000,Silver,USA,United States,,2000 Sydney,Football,Women's,football
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Football,Women's,football
+Summer,2000,Gold,CHN,China,,2000 Sydney,Gymnastics Artistic,Men's,team competition
+Summer,2000,Silver,UKR,Ukraine,,2000 Sydney,Gymnastics Artistic,Men's,team competition
+Summer,2000,Bronze,RUS,Russian Federation,,2000 Sydney,Gymnastics Artistic,Men's,team competition
+Summer,2000,Gold,RUS,Russian Federation,Алексей Немов,2000 Sydney,Gymnastics Artistic,Men's,individual all-round
+Summer,2000,Silver,CHN,China,Ян Вэй,2000 Sydney,Gymnastics Artistic,Men's,individual all-round
+Summer,2000,Bronze,UKR,Ukraine,Александр Береш,2000 Sydney,Gymnastics Artistic,Men's,individual all-round
+Summer,2000,Gold,LAT,Latvia,Игорс Вихровс,2000 Sydney,Gymnastics Artistic,Men's,floor exercises
+Summer,2000,Silver,RUS,Russian Federation,Алексей Немов,2000 Sydney,Gymnastics Artistic,Men's,floor exercises
+Summer,2000,Bronze,BUL,Bulgaria,Йордан Йовчев,2000 Sydney,Gymnastics Artistic,Men's,floor exercises
+Summer,2000,Gold,CHN,China,Ли Сяопен,2000 Sydney,Gymnastics Artistic,Men's,parallel bars
+Summer,2000,Silver,KOR,Korea Republic,Ли Чжун Хун,2000 Sydney,Gymnastics Artistic,Men's,parallel bars
+Summer,2000,Bronze,RUS,Russian Federation,Алексей Немов,2000 Sydney,Gymnastics Artistic,Men's,parallel bars
+Summer,2000,Gold,ESP,Spain,Гервасио Деферр,2000 Sydney,Gymnastics Artistic,Men's,vault
+Summer,2000,Silver,RUS,Russian Federation,Алексей Бондаренко,2000 Sydney,Gymnastics Artistic,Men's,vault
+Summer,2000,Bronze,POL,Poland,Лешек Бланк,2000 Sydney,Gymnastics Artistic,Men's,vault
+Summer,2000,Gold,HUN,Hungary,Сильвестр Шоллани,2000 Sydney,Gymnastics Artistic,Men's,rings
+Summer,2000,Silver,GRE,Greece,Димосфенис Тампакос,2000 Sydney,Gymnastics Artistic,Men's,rings
+Summer,2000,Bronze,BUL,Bulgaria,Йордан Йовчев,2000 Sydney,Gymnastics Artistic,Men's,rings
+Summer,2000,Gold,ROU,Romania,Мариуш Уржица,2000 Sydney,Gymnastics Artistic,Men's,pommel horse
+Summer,2000,Silver,FRA,France,Эрик Пуяд,2000 Sydney,Gymnastics Artistic,Men's,pommel horse
+Summer,2000,Bronze,RUS,Russian Federation,Алексей Немов,2000 Sydney,Gymnastics Artistic,Men's,pommel horse
+Summer,2000,Gold,RUS,Russian Federation,Алексей Немов,2000 Sydney,Gymnastics Artistic,Men's,horizontal bar
+Summer,2000,Silver,FRA,France,Бенжамин Варанян,2000 Sydney,Gymnastics Artistic,Men's,horizontal bar
+Summer,2000,Bronze,KOR,Korea Republic,Ли Чжо Хун,2000 Sydney,Gymnastics Artistic,Men's,horizontal bar
+Summer,2000,Gold,ROU,Romania,,2000 Sydney,Gymnastics Artistic,Women's,team competition
+Summer,2000,Silver,RUS,Russian Federation,,2000 Sydney,Gymnastics Artistic,Women's,team competition
+Summer,2000,Bronze,USA,United States,,2000 Sydney,Gymnastics Artistic,Women's,team competition
+Summer,2000,Gold,ROU,Romania,Симона Аманар,2000 Sydney,Gymnastics Artistic,Women's,individual all-round
+Summer,2000,Silver,ROU,Romania,Мария Олару,2000 Sydney,Gymnastics Artistic,Women's,individual all-round
+Summer,2000,Bronze,CHN,China,Лю Сюань,2000 Sydney,Gymnastics Artistic,Women's,individual all-round
+Summer,2000,Gold,RUS,Russian Federation,Елена Замолодчикова,2000 Sydney,Gymnastics Artistic,Women's,floor exercises
+Summer,2000,Silver,RUS,Russian Federation,Светлана Хоркина,2000 Sydney,Gymnastics Artistic,Women's,floor exercises
+Summer,2000,Bronze,ROU,Romania,Симона Аманар,2000 Sydney,Gymnastics Artistic,Women's,floor exercises
+Summer,2000,Gold,RUS,Russian Federation,Светлана Хоркина,2000 Sydney,Gymnastics Artistic,Women's,uneven bars
+Summer,2000,Silver,CHN,China,Лин Цзе,2000 Sydney,Gymnastics Artistic,Women's,uneven bars
+Summer,2000,Bronze,CHN,China,Ян Юнь,2000 Sydney,Gymnastics Artistic,Women's,uneven bars
+Summer,2000,Gold,RUS,Russian Federation,Елена Замолодчикова,2000 Sydney,Gymnastics Artistic,Women's,vault
+Summer,2000,Silver,ROU,Romania,Андреа Радучан,2000 Sydney,Gymnastics Artistic,Women's,vault
+Summer,2000,Bronze,RUS,Russian Federation,Екатерина Лобзанюк,2000 Sydney,Gymnastics Artistic,Women's,vault
+Summer,2000,Gold,CHN,China,Ли Сюань,2000 Sydney,Gymnastics Artistic,Women's,balance beam
+Summer,2000,Silver,RUS,Russian Federation,Екатерина Лобзанюк,2000 Sydney,Gymnastics Artistic,Women's,balance beam
+Summer,2000,Bronze,RUS,Russian Federation,Елена Продунова,2000 Sydney,Gymnastics Artistic,Women's,balance beam
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Gymnastics Rhythmic,Women's,group competition
+Summer,2000,Silver,BLR,Belarus,,2000 Sydney,Gymnastics Rhythmic,Women's,group competition
+Summer,2000,Bronze,GRE,Greece,,2000 Sydney,Gymnastics Rhythmic,Women's,group competition
+Summer,2000,Gold,RUS,Russian Federation,Юлия Барсукова,2000 Sydney,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2000,Silver,BLR,Belarus,Юлия Раскина,2000 Sydney,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2000,Bronze,RUS,Russian Federation,Алина Кабаева,2000 Sydney,Gymnastics Rhythmic,Women's,individual all-round
+Summer,2000,Gold,RUS,Russian Federation,,2000 Sydney,Handball,Men's,handball
+Summer,2000,Silver,SWE,Sweden,,2000 Sydney,Handball,Men's,handball
+Summer,2000,Bronze,ESP,Spain,,2000 Sydney,Handball,Men's,handball
+Summer,2000,Gold,DEN,Denmark,,2000 Sydney,Handball,Women's,handball
+Summer,2000,Silver,HUN,Hungary,,2000 Sydney,Handball,Women's,handball
+Summer,2000,Bronze,NOR,Norway,,2000 Sydney,Handball,Women's,handball
+Summer,2000,Gold,NED,Netherlands,,2000 Sydney,Hockey,Men's,hockey
+Summer,2000,Silver,KOR,Korea Republic,,2000 Sydney,Hockey,Men's,hockey
+Summer,2000,Bronze,AUS,Australia,,2000 Sydney,Hockey,Men's,hockey
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Hockey,Women's,hockey
+Summer,2000,Silver,ARG,Argentina,,2000 Sydney,Hockey,Women's,hockey
+Summer,2000,Bronze,NED,Netherlands,,2000 Sydney,Hockey,Women's,hockey
+Summer,2000,Gold,JPN,Japan,Тадахиро Нимура,2000 Sydney,Judo,Men's,- 60 kg
+Summer,2000,Silver,KOR,Korea Republic,Цзюн Бу Кунг,2000 Sydney,Judo,Men's,- 60 kg
+Summer,2000,Bronze,CUB,Cuba,Маноло Пулот,2000 Sydney,Judo,Men's,- 60 kg
+Summer,2000,Bronze,KGZ,Kyrgyzstan,Айдын Смагулов,2000 Sydney,Judo,Men's,- 60 kg
+Summer,2000,Gold,TUR,Turkey,Хусейн Озкан,2000 Sydney,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2000,Silver,FRA,France,Ларби Бенбудауд,2000 Sydney,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2000,Bronze,GEO,Georgia,Гиоргий Вазагашвили,2000 Sydney,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2000,Bronze,ITA,Italy,Джилорамо Джиовинаццо,2000 Sydney,Judo,Men's,60 - 66kg (half-lightweight)
+Summer,2000,Gold,ITA,Italy,Джузеппе Маддалони,2000 Sydney,Judo,Men's,66 - 73kg (lightweight)
+Summer,2000,Silver,BRA,Brazil,Тьяго Камило,2000 Sydney,Judo,Men's,66 - 73kg (lightweight)
+Summer,2000,Bronze,BLR,Belarus,Анатолий Ларюков,2000 Sydney,Judo,Men's,66 - 73kg (lightweight)
+Summer,2000,Bronze,LAT,Latvia,Всеволод Зелойнис,2000 Sydney,Judo,Men's,66 - 73kg (lightweight)
+Summer,2000,Gold,JPN,Japan,Макото Такимото,2000 Sydney,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2000,Silver,KOR,Korea Republic,Чо Ин Чул,2000 Sydney,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2000,Bronze,EST,Estonia,Алексей Будолин,2000 Sydney,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2000,Bronze,POR,Portugal,Нуно Дельгадо,2000 Sydney,Judo,Men's,73 - 81kg (half-middleweight)
+Summer,2000,Gold,NED,Netherlands,Марк Хуцинга,2000 Sydney,Judo,Men's,81 - 90kg (middleweight)
+Summer,2000,Silver,BRA,Brazil,Карлос Онорато,2000 Sydney,Judo,Men's,81 - 90kg (middleweight)
+Summer,2000,Bronze,FRA,France,Фредерик Демонфукон,2000 Sydney,Judo,Men's,81 - 90kg (middleweight)
+Summer,2000,Bronze,UKR,Ukraine,Руслан Машуренко,2000 Sydney,Judo,Men's,81 - 90kg (middleweight)
+Summer,2000,Gold,JPN,Japan,Косеи Инуе,2000 Sydney,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2000,Silver,CAN,Canada,Николя Жилль,2000 Sydney,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2000,Bronze,FRA,France,Стефан Трэно,2000 Sydney,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2000,Bronze,RUS,Russian Federation,Юрий Степкин,2000 Sydney,Judo,Men's,90 - 100kg (half-heavyweight)
+Summer,2000,Gold,FRA,France,Давид Дуйе,2000 Sydney,Judo,Men's,+ 100kg (heavyweight)
+Summer,2000,Silver,JPN,Japan,Шиниши Шинохара,2000 Sydney,Judo,Men's,+ 100kg (heavyweight)
+Summer,2000,Bronze,EST,Estonia,Индрек Пертельсон,2000 Sydney,Judo,Men's,+ 100kg (heavyweight)
+Summer,2000,Bronze,RUS,Russian Federation,Тамерлан Тменов,2000 Sydney,Judo,Men's,+ 100kg (heavyweight)
+Summer,2000,Gold,JPN,Japan,Риоко Тамура,2000 Sydney,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2000,Silver,RUS,Russian Federation,Любовь Брулетова,2000 Sydney,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2000,Bronze,BEL,Belgium,Энн Симонс,2000 Sydney,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2000,Bronze,GER,Germany,Анна-Мария Граданте,2000 Sydney,Judo,Women's,- 48kg (extra-lightweight)
+Summer,2000,Gold,CUB,Cuba,Легна Вердессия,2000 Sydney,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2000,Silver,JPN,Japan,Норико Нарасаки,2000 Sydney,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2000,Bronze,CHN,China,Юйсян Лю,2000 Sydney,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2000,Bronze,PRK,Korea DPR,Сун Ху Ки,2000 Sydney,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,2000,Gold,ESP,Spain,Исабель Фернандес,2000 Sydney,Judo,Women's,52 - 57kg (lightweight)
+Summer,2000,Silver,CUB,Cuba,Дриулис Гонсалес,2000 Sydney,Judo,Women's,52 - 57kg (lightweight)
+Summer,2000,Bronze,AUS,Australia,Мария Пекли,2000 Sydney,Judo,Women's,52 - 57kg (lightweight)
+Summer,2000,Bronze,JPN,Japan,Киэ Кусакабе,2000 Sydney,Judo,Women's,52 - 57kg (lightweight)
+Summer,2000,Gold,FRA,France,Северин Ванденхенде,2000 Sydney,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2000,Silver,CHN,China,Ли Шуфан,2000 Sydney,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2000,Bronze,BEL,Belgium,Гелла Вандекавей,2000 Sydney,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2000,Bronze,KOR,Korea Republic,Янг Сунг Сук,2000 Sydney,Judo,Women's,57 - 63kg (half-middleweight)
+Summer,2000,Gold,CUB,Cuba,Сибелис Веранес,2000 Sydney,Judo,Women's,63 - 70kg (middleweight)
+Summer,2000,Silver,GBR,Great Britain,Кейт Хоуи,2000 Sydney,Judo,Women's,63 - 70kg (middleweight)
+Summer,2000,Bronze,ITA,Italy,Иления Скапин,2000 Sydney,Judo,Women's,63 - 70kg (middleweight)
+Summer,2000,Bronze,KOR,Korea Republic,Чо Мин Сун,2000 Sydney,Judo,Women's,63 - 70kg (middleweight)
+Summer,2000,Gold,CHN,China,Линь Тан,2000 Sydney,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2000,Silver,FRA,France,Селин Лебрюн,2000 Sydney,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2000,Bronze,ITA,Italy,Эмануэла Пьерантоцци,2000 Sydney,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2000,Bronze,ROU,Romania,Симона Рихтер,2000 Sydney,Judo,Women's,70 - 78kg (half-heavyweight)
+Summer,2000,Gold,CHN,China,Юань Хуа,2000 Sydney,Judo,Women's,+ 78kg (heavyweight)
+Summer,2000,Silver,CUB,Cuba,Дайма Бельтран,2000 Sydney,Judo,Women's,+ 78kg (heavyweight)
+Summer,2000,Bronze,JPN,Japan,Маюми Ямашита,2000 Sydney,Judo,Women's,+ 78kg (heavyweight)
+Summer,2000,Bronze,KOR,Korea Republic,Ким Сеон Юнг,2000 Sydney,Judo,Women's,+ 78kg (heavyweight)
+Summer,2000,Gold,RUS,Russian Federation,Дмитрий Сватковский,2000 Sydney,Modern Pentathlon,Men's,individual competition
+Summer,2000,Silver,HUN,Hungary,Габор Балог,2000 Sydney,Modern Pentathlon,Men's,individual competition
+Summer,2000,Bronze,BLR,Belarus,Павел Довгаль,2000 Sydney,Modern Pentathlon,Men's,individual competition
+Summer,2000,Gold,GBR,Great Britain,Стефани Кук,2000 Sydney,Modern Pentathlon,Women's,individual competition
+Summer,2000,Silver,USA,United States,Эмили Де Рейл,2000 Sydney,Modern Pentathlon,Women's,individual competition
+Summer,2000,Bronze,GBR,Great Britain,Кэйт Элленби,2000 Sydney,Modern Pentathlon,Women's,individual competition
+Summer,2000,Gold,NZL,New Zealand,Роб Уоддел,2000 Sydney,Rowing,Men's,single sculls (1x)
+Summer,2000,Silver,SUI,Switzerland,Ксено Мюллер,2000 Sydney,Rowing,Men's,single sculls (1x)
+Summer,2000,Bronze,GER,Germany,Марсел Хакер,2000 Sydney,Rowing,Men's,single sculls (1x)
+Summer,2000,Gold,SLO,Slovenia,,2000 Sydney,Rowing,Men's,double sculls (2x)
+Summer,2000,Silver,NOR,Norway,,2000 Sydney,Rowing,Men's,double sculls (2x)
+Summer,2000,Bronze,ITA,Italy,,2000 Sydney,Rowing,Men's,double sculls (2x)
+Summer,2000,Gold,ITA,Italy,,2000 Sydney,Rowing,Men's,quadruple sculls without coxswain
+Summer,2000,Silver,NED,Netherlands,,2000 Sydney,Rowing,Men's,quadruple sculls without coxswain
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Rowing,Men's,quadruple sculls without coxswain
+Summer,2000,Gold,FRA,France,,2000 Sydney,Rowing,Men's,pair without coxswain (2-)
+Summer,2000,Silver,USA,United States,,2000 Sydney,Rowing,Men's,pair without coxswain (2-)
+Summer,2000,Bronze,AUS,Australia,,2000 Sydney,Rowing,Men's,pair without coxswain (2-)
+Summer,2000,Gold,GBR,Great Britain,,2000 Sydney,Rowing,Men's,four without coxswain (4-)
+Summer,2000,Silver,ITA,Italy,,2000 Sydney,Rowing,Men's,four without coxswain (4-)
+Summer,2000,Bronze,AUS,Australia,,2000 Sydney,Rowing,Men's,four without coxswain (4-)
+Summer,2000,Gold,GBR,Great Britain,,2000 Sydney,Rowing,Men's,eight with coxswain (8+)
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Rowing,Men's,eight with coxswain (8+)
+Summer,2000,Bronze,CRO,Croatia,,2000 Sydney,Rowing,Men's,eight with coxswain (8+)
+Summer,2000,Gold,POL,Poland,,2000 Sydney,Rowing,Men's,lightweight double sculls (2x)
+Summer,2000,Silver,ITA,Italy,,2000 Sydney,Rowing,Men's,lightweight double sculls (2x)
+Summer,2000,Bronze,FRA,France,,2000 Sydney,Rowing,Men's,lightweight double sculls (2x)
+Summer,2000,Gold,FRA,France,,2000 Sydney,Rowing,Men's,lightweight coxless four (4-)
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Rowing,Men's,lightweight coxless four (4-)
+Summer,2000,Bronze,DEN,Denmark,,2000 Sydney,Rowing,Men's,lightweight coxless four (4-)
+Summer,2000,Gold,BLR,Belarus,Екатерина Карстен,2000 Sydney,Rowing,Women's,single sculls (1x)
+Summer,2000,Silver,BUL,Bulgaria,Румяна Нейкова,2000 Sydney,Rowing,Women's,single sculls (1x)
+Summer,2000,Bronze,GER,Germany,Катрин Рутшоу-Штомпоровски,2000 Sydney,Rowing,Women's,single sculls (1x)
+Summer,2000,Gold,GER,Germany,,2000 Sydney,Rowing,Women's,double sculls (2x)
+Summer,2000,Silver,NED,Netherlands,,2000 Sydney,Rowing,Women's,double sculls (2x)
+Summer,2000,Bronze,LTU,Lithuania,,2000 Sydney,Rowing,Women's,double sculls (2x)
+Summer,2000,Gold,GER,Germany,,2000 Sydney,Rowing,Women's,quadruple sculls without coxswain
+Summer,2000,Silver,GBR,Great Britain,,2000 Sydney,Rowing,Women's,quadruple sculls without coxswain
+Summer,2000,Bronze,RUS,Russian Federation,,2000 Sydney,Rowing,Women's,quadruple sculls without coxswain
+Summer,2000,Gold,ROU,Romania,,2000 Sydney,Rowing,Women's,pair without coxswain (2-)
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Rowing,Women's,pair without coxswain (2-)
+Summer,2000,Bronze,USA,United States,,2000 Sydney,Rowing,Women's,pair without coxswain (2-)
+Summer,2000,Gold,ROU,Romania,,2000 Sydney,Rowing,Women's,eight with coxswain (8+)
+Summer,2000,Silver,NED,Netherlands,,2000 Sydney,Rowing,Women's,eight with coxswain (8+)
+Summer,2000,Bronze,CAN,Canada,,2000 Sydney,Rowing,Women's,eight with coxswain (8+)
+Summer,2000,Gold,ROU,Romania,,2000 Sydney,Rowing,Women's,lightweight double sculls (2x)
+Summer,2000,Silver,GER,Germany,,2000 Sydney,Rowing,Women's,lightweight double sculls (2x)
+Summer,2000,Bronze,USA,United States,,2000 Sydney,Rowing,Women's,lightweight double sculls (2x)
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Sailing,Men's,470 - Two Person Dinghy
+Summer,2000,Silver,USA,United States,,2000 Sydney,Sailing,Men's,470 - Two Person Dinghy
+Summer,2000,Bronze,ARG,Argentina,,2000 Sydney,Sailing,Men's,470 - Two Person Dinghy
+Summer,2000,Gold,AUT,Austria,Кристоф Сайбер,2000 Sydney,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,2000,Silver,ARG,Argentina,Карлос Эспинола,2000 Sydney,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,2000,Bronze,NZL,New Zealand,Аарон Макинтош,2000 Sydney,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,2000,Gold,GBR,Great Britain,Иан Перси,2000 Sydney,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2000,Silver,ITA,Italy,Лука Девоти,2000 Sydney,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2000,Bronze,SWE,Sweden,Фредерик Лооф,2000 Sydney,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,2000,Gold,USA,United States,,2000 Sydney,Sailing,Mixed,two-person keelboat (Star)
+Summer,2000,Silver,GBR,Great Britain,,2000 Sydney,Sailing,Mixed,two-person keelboat (Star)
+Summer,2000,Bronze,BRA,Brazil,,2000 Sydney,Sailing,Mixed,two-person keelboat (Star)
+Summer,2000,Gold,GBR,Great Britain,Бен Эйнсли,2000 Sydney,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,2000,Silver,BRA,Brazil,Роберт Шейдт,2000 Sydney,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,2000,Bronze,AUS,Australia,Майкл Блэкберн,2000 Sydney,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,2000,Gold,DEN,Denmark,,2000 Sydney,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,2000,Silver,GER,Germany,,2000 Sydney,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,2000,Bronze,NOR,Norway,,2000 Sydney,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,2000,Gold,AUT,Austria,,2000 Sydney,Sailing,Mixed,Tornado - Multihull
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Sailing,Mixed,Tornado - Multihull
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Sailing,Mixed,Tornado - Multihull
+Summer,2000,Gold,FIN,Finland,,2000 Sydney,Sailing,Mixed,49er - Skiff
+Summer,2000,Silver,GBR,Great Britain,,2000 Sydney,Sailing,Mixed,49er - Skiff
+Summer,2000,Bronze,USA,United States,,2000 Sydney,Sailing,Mixed,49er - Skiff
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Sailing,Women's,470 - Two Person Dinghy
+Summer,2000,Silver,USA,United States,,2000 Sydney,Sailing,Women's,470 - Two Person Dinghy
+Summer,2000,Bronze,UKR,Ukraine,,2000 Sydney,Sailing,Women's,470 - Two Person Dinghy
+Summer,2000,Gold,ITA,Italy,Алессандра Сенсини,2000 Sydney,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,2000,Silver,GER,Germany,Амели Люкс,2000 Sydney,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,2000,Bronze,NZL,New Zealand,Барбара Кендалл,2000 Sydney,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,2000,Gold,GBR,Great Britain,Ширли Робертсон,2000 Sydney,Sailing,Women's,single-handed dinghy (Europe)
+Summer,2000,Silver,NED,Netherlands,Маргрейт Маттисс,2000 Sydney,Sailing,Women's,single-handed dinghy (Europe)
+Summer,2000,Bronze,ARG,Argentina,Серена Амато,2000 Sydney,Sailing,Women's,single-handed dinghy (Europe)
+Summer,2000,Gold,SLO,Slovenia,Раймонд Дебевеч,2000 Sydney,Shooting,Men's,50m rifle 3 positions
+Summer,2000,Silver,FIN,Finland,Юка Хирви,2000 Sydney,Shooting,Men's,50m rifle 3 positions
+Summer,2000,Bronze,NOR,Norway,Харальд Стенваг,2000 Sydney,Shooting,Men's,50m rifle 3 positions
+Summer,2000,Gold,CHN,China,Цай Ялинь,2000 Sydney,Shooting,Men's,10m air rifle
+Summer,2000,Silver,RUS,Russian Federation,Артем Хаджибеков,2000 Sydney,Shooting,Men's,10m air rifle
+Summer,2000,Bronze,RUS,Russian Federation,Евгений Алейников,2000 Sydney,Shooting,Men's,10m air rifle
+Summer,2000,Gold,BUL,Bulgaria,Тану Кириаков,2000 Sydney,Shooting,Men's,50m pistol
+Summer,2000,Silver,BLR,Belarus,Игорь Басинский,2000 Sydney,Shooting,Men's,50m pistol
+Summer,2000,Bronze,CZE,Czech Republic,Мартин Тенк,2000 Sydney,Shooting,Men's,50m pistol
+Summer,2000,Gold,FRA,France,Франк Дюмулен,2000 Sydney,Shooting,Men's,10m air pistol
+Summer,2000,Silver,CHN,China,Ван Ифу,2000 Sydney,Shooting,Men's,10m air pistol
+Summer,2000,Bronze,BLR,Belarus,Игорь Басинский,2000 Sydney,Shooting,Men's,10m air pistol
+Summer,2000,Gold,SWE,Sweden,Йонас Эдман,2000 Sydney,Shooting,Men's,50m rifle prone
+Summer,2000,Silver,DEN,Denmark,Торбен Гриммель,2000 Sydney,Shooting,Men's,50m rifle prone
+Summer,2000,Bronze,BLR,Belarus,Сергей Мартынов,2000 Sydney,Shooting,Men's,50m rifle prone
+Summer,2000,Gold,CHN,China,Ян Лин,2000 Sydney,Shooting,Men's,10m running target
+Summer,2000,Silver,MDA,Moldova,Олег Молдован,2000 Sydney,Shooting,Men's,10m running target
+Summer,2000,Bronze,CHN,China,Ню Чжиюань,2000 Sydney,Shooting,Men's,10m running target
+Summer,2000,Gold,RUS,Russian Federation,Сергей Алифиренко,2000 Sydney,Shooting,Men's,25m rapid fire pistol
+Summer,2000,Silver,SUI,Switzerland,Михаэль Ансермет,2000 Sydney,Shooting,Men's,25m rapid fire pistol
+Summer,2000,Bronze,ROU,Romania,Юлиан Райча,2000 Sydney,Shooting,Men's,25m rapid fire pistol
+Summer,2000,Gold,GBR,Great Britain,Ричард Фаулдс,2000 Sydney,Shooting,Men's,Double trap
+Summer,2000,Silver,AUS,Australia,Рассел Марк,2000 Sydney,Shooting,Men's,Double trap
+Summer,2000,Bronze,KUW,Kuwait,Фехайд Аль Дихани,2000 Sydney,Shooting,Men's,Double trap
+Summer,2000,Gold,AUS,Australia,Майкл Даймонд,2000 Sydney,Shooting,Men's,Trap
+Summer,2000,Silver,GBR,Great Britain,Иан Пил,2000 Sydney,Shooting,Men's,Trap
+Summer,2000,Bronze,ITA,Italy,Джованни Пеллиело,2000 Sydney,Shooting,Men's,Trap
+Summer,2000,Gold,UKR,Ukraine,Микола Мильчев,2000 Sydney,Shooting,Men's,Skeet
+Summer,2000,Silver,CZE,Czech Republic,Петр Малек,2000 Sydney,Shooting,Men's,Skeet
+Summer,2000,Bronze,USA,United States,Джеймс Грэйвз,2000 Sydney,Shooting,Men's,Skeet
+Summer,2000,Gold,POL,Poland,Рената Мауэр-Рожанска,2000 Sydney,Shooting,Women's,50m rifle 3 positions
+Summer,2000,Silver,RUS,Russian Federation,Татьяна Голдобина,2000 Sydney,Shooting,Women's,50m rifle 3 positions
+Summer,2000,Bronze,RUS,Russian Federation,Мария Феклистова,2000 Sydney,Shooting,Women's,50m rifle 3 positions
+Summer,2000,Gold,USA,United States,Нэнси Джонсон,2000 Sydney,Shooting,Women's,10m air rifle
+Summer,2000,Silver,KOR,Korea Republic,Канг Чо Хун,2000 Sydney,Shooting,Women's,10m air rifle
+Summer,2000,Bronze,CHN,China,Гао Цзин,2000 Sydney,Shooting,Women's,10m air rifle
+Summer,2000,Gold,BUL,Bulgaria,Мария Гроздева,2000 Sydney,Shooting,Women's,25m pistol
+Summer,2000,Silver,CHN,China,Тао Луна,2000 Sydney,Shooting,Women's,25m pistol
+Summer,2000,Bronze,BLR,Belarus,Лолита Евглевская,2000 Sydney,Shooting,Women's,25m pistol
+Summer,2000,Gold,CHN,China,Тао Луна,2000 Sydney,Shooting,Women's,10m air pistol
+Summer,2000,Silver,SCG,Yugoslavia Federal Republic,Ясна Секарич,2000 Sydney,Shooting,Women's,10m air pistol
+Summer,2000,Bronze,AUS,Australia,Эннмери Фордер,2000 Sydney,Shooting,Women's,10m air pistol
+Summer,2000,Gold,SWE,Sweden,Пиа Хансен,2000 Sydney,Shooting,Women's,Double trap
+Summer,2000,Silver,ITA,Italy,Дебора Гелизио,2000 Sydney,Shooting,Women's,Double trap
+Summer,2000,Bronze,USA,United States,Ким Род,2000 Sydney,Shooting,Women's,Double trap
+Summer,2000,Gold,LTU,Lithuania,Диана Гудзиневичюте,2000 Sydney,Shooting,Women's,Trap
+Summer,2000,Silver,FRA,France,Дельфине Расин,2000 Sydney,Shooting,Women's,Trap
+Summer,2000,Bronze,CHN,China,Гао Э,2000 Sydney,Shooting,Women's,Trap
+Summer,2000,Gold,AZE,Azerbaijan,Земфира Мефтахетдинова,2000 Sydney,Shooting,Women's,Skeet
+Summer,2000,Silver,RUS,Russian Federation,Светлана Демина,2000 Sydney,Shooting,Women's,Skeet
+Summer,2000,Bronze,HUN,Hungary,Диана Идали,2000 Sydney,Shooting,Women's,Skeet
+Summer,2000,Gold,USA,United States,Гэри Холл,2000 Sydney,Swimming,Men's,50m freestyle
+Summer,2000,Gold,USA,United States,Энтони Эрвин,2000 Sydney,Swimming,Men's,50m freestyle
+Summer,2000,Bronze,NED,Netherlands,Питер Ван Ден Хугенбанд,2000 Sydney,Swimming,Men's,50m freestyle
+Summer,2000,Gold,NED,Netherlands,Питер Ван Ден Хугенбанд,2000 Sydney,Swimming,Men's,100m freestyle
+Summer,2000,Silver,RUS,Russian Federation,Александр Попов,2000 Sydney,Swimming,Men's,100m freestyle
+Summer,2000,Bronze,USA,United States,Гэри Холл,2000 Sydney,Swimming,Men's,100m freestyle
+Summer,2000,Gold,NED,Netherlands,Питер Ван Ден Хугенбанд,2000 Sydney,Swimming,Men's,200m freestyle
+Summer,2000,Silver,AUS,Australia,Иан Торп,2000 Sydney,Swimming,Men's,200m freestyle
+Summer,2000,Bronze,ITA,Italy,Массимилиано Росолино,2000 Sydney,Swimming,Men's,200m freestyle
+Summer,2000,Gold,AUS,Australia,Иан Торп,2000 Sydney,Swimming,Men's,400m freestyle
+Summer,2000,Silver,ITA,Italy,Массимилиано Росолино,2000 Sydney,Swimming,Men's,400m freestyle
+Summer,2000,Bronze,USA,United States,Клит Келлер,2000 Sydney,Swimming,Men's,400m freestyle
+Summer,2000,Gold,AUS,Australia,Грэнт Хаккетт,2000 Sydney,Swimming,Men's,1500m freestyle
+Summer,2000,Silver,AUS,Australia,Кирен Перкинс,2000 Sydney,Swimming,Men's,1500m freestyle
+Summer,2000,Bronze,USA,United States,Крис Томпсон,2000 Sydney,Swimming,Men's,1500m freestyle
+Summer,2000,Gold,USA,United States,Ленни Крейзелбург,2000 Sydney,Swimming,Men's,100m backstroke
+Summer,2000,Silver,AUS,Australia,Мэтью Уэлш,2000 Sydney,Swimming,Men's,100m backstroke
+Summer,2000,Bronze,GER,Germany,Стив Телоке,2000 Sydney,Swimming,Men's,100m backstroke
+Summer,2000,Gold,USA,United States,Ленни Крейзелбург,2000 Sydney,Swimming,Men's,200m backstroke
+Summer,2000,Silver,USA,United States,Аарон Пирсол,2000 Sydney,Swimming,Men's,200m backstroke
+Summer,2000,Bronze,AUS,Australia,Мэтью Уэлш,2000 Sydney,Swimming,Men's,200m backstroke
+Summer,2000,Gold,ITA,Italy,Доменико Фиораванти,2000 Sydney,Swimming,Men's,100m breaststroke
+Summer,2000,Silver,USA,United States,Эд Мозес,2000 Sydney,Swimming,Men's,100m breaststroke
+Summer,2000,Bronze,RUS,Russian Federation,Роман Слуднов,2000 Sydney,Swimming,Men's,100m breaststroke
+Summer,2000,Gold,ITA,Italy,Доменико Фиораванти,2000 Sydney,Swimming,Men's,200m breaststroke
+Summer,2000,Silver,RSA,South Africa,Теренс Перкин,2000 Sydney,Swimming,Men's,200m breaststroke
+Summer,2000,Bronze,ITA,Italy,Давиде Руммоло,2000 Sydney,Swimming,Men's,200m breaststroke
+Summer,2000,Gold,SWE,Sweden,Ларс Флорандер,2000 Sydney,Swimming,Men's,100m butterfly
+Summer,2000,Silver,AUS,Australia,Майкл Клим,2000 Sydney,Swimming,Men's,100m butterfly
+Summer,2000,Bronze,AUS,Australia,Джофф Хьюджилл,2000 Sydney,Swimming,Men's,100m butterfly
+Summer,2000,Gold,USA,United States,Том Малчоу,2000 Sydney,Swimming,Men's,200m butterfly
+Summer,2000,Silver,UKR,Ukraine,Денис Силантьев,2000 Sydney,Swimming,Men's,200m butterfly
+Summer,2000,Bronze,AUS,Australia,Джастин Норрис,2000 Sydney,Swimming,Men's,200m butterfly
+Summer,2000,Gold,ITA,Italy,Массимилиано Росолино,2000 Sydney,Swimming,Men's,200m individual medley
+Summer,2000,Silver,USA,United States,Том Доулэн,2000 Sydney,Swimming,Men's,200m individual medley
+Summer,2000,Bronze,USA,United States,Том Уилкенс,2000 Sydney,Swimming,Men's,200m individual medley
+Summer,2000,Gold,USA,United States,Том Доулэн,2000 Sydney,Swimming,Men's,400m individual medley
+Summer,2000,Silver,USA,United States,Эрик Вендт,2000 Sydney,Swimming,Men's,400m individual medley
+Summer,2000,Bronze,CAN,Canada,Куртис Миден,2000 Sydney,Swimming,Men's,400m individual medley
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Swimming,Men's,4x100m freestyle relay
+Summer,2000,Silver,USA,United States,,2000 Sydney,Swimming,Men's,4x100m freestyle relay
+Summer,2000,Bronze,BRA,Brazil,,2000 Sydney,Swimming,Men's,4x100m freestyle relay
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Swimming,Men's,4x200m freestyle relay
+Summer,2000,Silver,USA,United States,,2000 Sydney,Swimming,Men's,4x200m freestyle relay
+Summer,2000,Bronze,NED,Netherlands,,2000 Sydney,Swimming,Men's,4x200m freestyle relay
+Summer,2000,Gold,USA,United States,,2000 Sydney,Swimming,Men's,4x100m medley relay
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Swimming,Men's,4x100m medley relay
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Swimming,Men's,4x100m medley relay
+Summer,2000,Gold,NED,Netherlands,Инге Де Брюин,2000 Sydney,Swimming,Women's,50m freestyle
+Summer,2000,Silver,SWE,Sweden,Тереса Альсхаммар,2000 Sydney,Swimming,Women's,50m freestyle
+Summer,2000,Bronze,USA,United States,Дара Торрес,2000 Sydney,Swimming,Women's,50m freestyle
+Summer,2000,Gold,NED,Netherlands,Инге Де Брюин,2000 Sydney,Swimming,Women's,100m freestyle
+Summer,2000,Silver,SWE,Sweden,Тереса Альсхаммар,2000 Sydney,Swimming,Women's,100m freestyle
+Summer,2000,Bronze,USA,United States,Дара Торрес,2000 Sydney,Swimming,Women's,100m freestyle
+Summer,2000,Bronze,USA,United States,Дженни Томпсон,2000 Sydney,Swimming,Women's,100m freestyle
+Summer,2000,Gold,AUS,Australia,Сьюзан О'Нейл,2000 Sydney,Swimming,Women's,200m freestyle
+Summer,2000,Silver,SVK,Slovakia,Мартина Моравцова,2000 Sydney,Swimming,Women's,200m freestyle
+Summer,2000,Bronze,CRC,Costa Rica,Клаудия Полл-Аренс,2000 Sydney,Swimming,Women's,200m freestyle
+Summer,2000,Gold,USA,United States,Брук Бенетт,2000 Sydney,Swimming,Women's,400m freestyle
+Summer,2000,Silver,USA,United States,Дайана Мюнц,2000 Sydney,Swimming,Women's,400m freestyle
+Summer,2000,Bronze,CRC,Costa Rica,Клаудия Полл-Аренс,2000 Sydney,Swimming,Women's,400m freestyle
+Summer,2000,Gold,USA,United States,Брук Бенетт,2000 Sydney,Swimming,Women's,800m freestyle
+Summer,2000,Silver,UKR,Ukraine,Яна Клочкова,2000 Sydney,Swimming,Women's,800m freestyle
+Summer,2000,Bronze,USA,United States,Кэтлин Сандено,2000 Sydney,Swimming,Women's,800m freestyle
+Summer,2000,Gold,ROU,Romania,Диана Мочану,2000 Sydney,Swimming,Women's,100m backstroke
+Summer,2000,Silver,JPN,Japan,Маи Накамура,2000 Sydney,Swimming,Women's,100m backstroke
+Summer,2000,Bronze,ESP,Spain,Нина Живаневская,2000 Sydney,Swimming,Women's,100m backstroke
+Summer,2000,Gold,ROU,Romania,Диана Мочану,2000 Sydney,Swimming,Women's,200m backstroke
+Summer,2000,Silver,FRA,France,Роксана Марасинону,2000 Sydney,Swimming,Women's,200m backstroke
+Summer,2000,Bronze,JPN,Japan,Мики Накао,2000 Sydney,Swimming,Women's,200m backstroke
+Summer,2000,Gold,USA,United States,Меган Куонн,2000 Sydney,Swimming,Women's,100m breaststroke
+Summer,2000,Silver,AUS,Australia,Лейсель Джонс,2000 Sydney,Swimming,Women's,100m breaststroke
+Summer,2000,Bronze,RSA,South Africa,Пенни Хейнс,2000 Sydney,Swimming,Women's,100m breaststroke
+Summer,2000,Gold,HUN,Hungary,Агнеш Ковач,2000 Sydney,Swimming,Women's,200m breaststroke
+Summer,2000,Silver,USA,United States,Кристи Коваль,2000 Sydney,Swimming,Women's,200m breaststroke
+Summer,2000,Bronze,USA,United States,Аманда Бирд,2000 Sydney,Swimming,Women's,200m breaststroke
+Summer,2000,Gold,NED,Netherlands,Инге Де Брюин,2000 Sydney,Swimming,Women's,100m butterfly
+Summer,2000,Silver,SVK,Slovakia,Мартина Моравцова,2000 Sydney,Swimming,Women's,100m butterfly
+Summer,2000,Bronze,USA,United States,Дара Торрес,2000 Sydney,Swimming,Women's,100m butterfly
+Summer,2000,Gold,USA,United States,Мисти Хаймэн,2000 Sydney,Swimming,Women's,200m butterfly
+Summer,2000,Silver,AUS,Australia,Сьюзан О'Нейл,2000 Sydney,Swimming,Women's,200m butterfly
+Summer,2000,Bronze,AUS,Australia,Петря Томас,2000 Sydney,Swimming,Women's,200m butterfly
+Summer,2000,Gold,UKR,Ukraine,Яна Клочкова,2000 Sydney,Swimming,Women's,200m individual medley
+Summer,2000,Silver,ROU,Romania,Беатрис Каслару,2000 Sydney,Swimming,Women's,200m individual medley
+Summer,2000,Bronze,USA,United States,Кристина Тошер,2000 Sydney,Swimming,Women's,200m individual medley
+Summer,2000,Gold,UKR,Ukraine,Яна Клочкова,2000 Sydney,Swimming,Women's,400m individual medley
+Summer,2000,Silver,JPN,Japan,Ясуко Таджима,2000 Sydney,Swimming,Women's,400m individual medley
+Summer,2000,Bronze,ROU,Romania,Беатрис Каслару,2000 Sydney,Swimming,Women's,400m individual medley
+Summer,2000,Gold,USA,United States,,2000 Sydney,Swimming,Women's,4x100m freestyle relay
+Summer,2000,Silver,NED,Netherlands,,2000 Sydney,Swimming,Women's,4x100m freestyle relay
+Summer,2000,Bronze,SWE,Sweden,,2000 Sydney,Swimming,Women's,4x100m freestyle relay
+Summer,2000,Gold,USA,United States,,2000 Sydney,Swimming,Women's,4x200m freestyle relay
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Swimming,Women's,4x200m freestyle relay
+Summer,2000,Bronze,GER,Germany,,2000 Sydney,Swimming,Women's,4x200m freestyle relay
+Summer,2000,Gold,USA,United States,,2000 Sydney,Swimming,Women's,4x100m medley relay
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Swimming,Women's,4x100m medley relay
+Summer,2000,Bronze,JPN,Japan,,2000 Sydney,Swimming,Women's,4x100m medley relay
+Summer,2000,Gold,CHN,China,Кон Линху,2000 Sydney,Table Tennis,Men's,singles
+Summer,2000,Silver,SWE,Sweden,Ян-Уве Вальднер,2000 Sydney,Table Tennis,Men's,singles
+Summer,2000,Bronze,CHN,China,Лю Гоулян,2000 Sydney,Table Tennis,Men's,singles
+Summer,2000,Gold,CHN,China,,2000 Sydney,Table Tennis,Men's,doubles
+Summer,2000,Silver,CHN,China,,2000 Sydney,Table Tennis,Men's,doubles
+Summer,2000,Bronze,FRA,France,,2000 Sydney,Table Tennis,Men's,doubles
+Summer,2000,Gold,CHN,China,Ван Нань,2000 Sydney,Table Tennis,Women's,singles
+Summer,2000,Silver,CHN,China,Ли Цзюй,2000 Sydney,Table Tennis,Women's,singles
+Summer,2000,Bronze,TPE,Chinese Taipei,Цзин Чен,2000 Sydney,Table Tennis,Women's,singles
+Summer,2000,Gold,CHN,China,,2000 Sydney,Table Tennis,Women's,doubles
+Summer,2000,Silver,CHN,China,,2000 Sydney,Table Tennis,Women's,doubles
+Summer,2000,Bronze,KOR,Korea Republic,,2000 Sydney,Table Tennis,Women's,doubles
+Summer,2000,Gold,GRE,Greece,Михаил Мурутсос,2000 Sydney,Taekwondo,Men's,- 58 kg
+Summer,2000,Silver,ESP,Spain,Габриэль Эспарса,2000 Sydney,Taekwondo,Men's,- 58 kg
+Summer,2000,Bronze,TPE,Chinese Taipei,Хуан Чи Сун,2000 Sydney,Taekwondo,Men's,- 58 kg
+Summer,2000,Gold,USA,United States,Стивен Лопес,2000 Sydney,Taekwondo,Men's,58 - 68 kg
+Summer,2000,Silver,KOR,Korea Republic,Син Чжун Сик,2000 Sydney,Taekwondo,Men's,58 - 68 kg
+Summer,2000,Bronze,IRI,Iran,Хади Сайбонехкохал,2000 Sydney,Taekwondo,Men's,58 - 68 kg
+Summer,2000,Gold,CUB,Cuba,Анхель Фуэнтес,2000 Sydney,Taekwondo,Men's,68 - 80 kg
+Summer,2000,Silver,GER,Germany,Файссаль Эбнуталиб,2000 Sydney,Taekwondo,Men's,68 - 80 kg
+Summer,2000,Bronze,MEX,Mexico,Виктор Эстрада,2000 Sydney,Taekwondo,Men's,68 - 80 kg
+Summer,2000,Gold,KOR,Korea Republic,Ким Конг Хун,2000 Sydney,Taekwondo,Men's,+ 80 kg
+Summer,2000,Silver,AUS,Australia,Дэниэль Трентон,2000 Sydney,Taekwondo,Men's,+ 80 kg
+Summer,2000,Bronze,FRA,France,Паскаль Жентиль,2000 Sydney,Taekwondo,Men's,+ 80 kg
+Summer,2000,Gold,AUS,Australia,Лорен Барнс,2000 Sydney,Taekwondo,Women's,- 49 kg
+Summer,2000,Silver,CUB,Cuba,Урбия Родригес,2000 Sydney,Taekwondo,Women's,- 49 kg
+Summer,2000,Bronze,TPE,Chinese Taipei,Чи Шу Цзюй,2000 Sydney,Taekwondo,Women's,- 49 kg
+Summer,2000,Gold,KOR,Korea Republic,Чжун Чже Юн,2000 Sydney,Taekwondo,Women's,49 - 57 kg
+Summer,2000,Silver,VIE,Vietnam,Хиу Нган Тран,2000 Sydney,Taekwondo,Women's,49 - 57 kg
+Summer,2000,Bronze,TUR,Turkey,Хамиде Бикчин,2000 Sydney,Taekwondo,Women's,49 - 57 kg
+Summer,2000,Gold,KOR,Korea Republic,Ли Сун-Хи,2000 Sydney,Taekwondo,Women's,57 - 67 kg
+Summer,2000,Silver,NOR,Norway,Труде Гундерсен,2000 Sydney,Taekwondo,Women's,57 - 67 kg
+Summer,2000,Bronze,JPN,Japan,Йорико Окамото,2000 Sydney,Taekwondo,Women's,57 - 67 kg
+Summer,2000,Gold,CHN,China,Чжон Чэн,2000 Sydney,Taekwondo,Women's,+ 67 kg
+Summer,2000,Silver,RUS,Russian Federation,Наталья Иванова,2000 Sydney,Taekwondo,Women's,+ 67 kg
+Summer,2000,Bronze,CAN,Canada,Доминик Боссхарт,2000 Sydney,Taekwondo,Women's,+ 67 kg
+Summer,2000,Gold,RUS,Russian Federation,Евгений Кафельников,2000 Sydney,Tennis,Men's,singles
+Summer,2000,Silver,GER,Germany,Томас Хаас,2000 Sydney,Tennis,Men's,singles
+Summer,2000,Bronze,FRA,France,Арно Ди Паскуале,2000 Sydney,Tennis,Men's,singles
+Summer,2000,Gold,CAN,Canada,,2000 Sydney,Tennis,Men's,doubles
+Summer,2000,Silver,AUS,Australia,,2000 Sydney,Tennis,Men's,doubles
+Summer,2000,Bronze,ESP,Spain,,2000 Sydney,Tennis,Men's,doubles
+Summer,2000,Gold,USA,United States,Винус Уильямс,2000 Sydney,Tennis,Women's,singles
+Summer,2000,Silver,RUS,Russian Federation,Елена Дементьева,2000 Sydney,Tennis,Women's,singles
+Summer,2000,Bronze,USA,United States,Моника Селеш,2000 Sydney,Tennis,Women's,singles
+Summer,2000,Gold,USA,United States,,2000 Sydney,Tennis,Women's,doubles
+Summer,2000,Silver,NED,Netherlands,,2000 Sydney,Tennis,Women's,doubles
+Summer,2000,Bronze,BEL,Belgium,,2000 Sydney,Tennis,Women's,doubles
+Summer,2000,Gold,RUS,Russian Federation,Александр Москаленко,2000 Sydney,Trampoline,Men's,individual
+Summer,2000,Silver,AUS,Australia,Джай Уоллес,2000 Sydney,Trampoline,Men's,individual
+Summer,2000,Bronze,CAN,Canada,Матье Таржен,2000 Sydney,Trampoline,Men's,individual
+Summer,2000,Gold,RUS,Russian Federation,Ирина Караваева,2000 Sydney,Trampoline,Women's,individual
+Summer,2000,Silver,UKR,Ukraine,Оксана Цыгулева,2000 Sydney,Trampoline,Women's,individual
+Summer,2000,Bronze,CAN,Canada,Карен Кокбурн,2000 Sydney,Trampoline,Women's,individual
+Summer,2000,Gold,CAN,Canada,Саймон Вайтфильд,2000 Sydney,Triathlon,Men's,individual
+Summer,2000,Silver,GER,Germany,Штефан Вукович,2000 Sydney,Triathlon,Men's,individual
+Summer,2000,Bronze,CZE,Czech Republic,Ян Рехула,2000 Sydney,Triathlon,Men's,individual
+Summer,2000,Gold,SUI,Switzerland,Бриггит Макмэхон,2000 Sydney,Triathlon,Women's,individual
+Summer,2000,Silver,AUS,Australia,Мишель Джонс,2000 Sydney,Triathlon,Women's,individual
+Summer,2000,Bronze,SUI,Switzerland,Магали Мессмер,2000 Sydney,Triathlon,Women's,individual
+Summer,2000,Gold,SCG,Yugoslavia Federal Republic,,2000 Sydney,Volleyball,Men's,volleyball
+Summer,2000,Silver,RUS,Russian Federation,,2000 Sydney,Volleyball,Men's,volleyball
+Summer,2000,Bronze,ITA,Italy,,2000 Sydney,Volleyball,Men's,volleyball
+Summer,2000,Gold,CUB,Cuba,,2000 Sydney,Volleyball,Women's,volleyball
+Summer,2000,Silver,RUS,Russian Federation,,2000 Sydney,Volleyball,Women's,volleyball
+Summer,2000,Bronze,BRA,Brazil,,2000 Sydney,Volleyball,Women's,volleyball
+Summer,2000,Gold,HUN,Hungary,,2000 Sydney,Water Polo,Men's,water polo
+Summer,2000,Silver,RUS,Russian Federation,,2000 Sydney,Water Polo,Men's,water polo
+Summer,2000,Bronze,SCG,Yugoslavia Federal Republic,,2000 Sydney,Water Polo,Men's,water polo
+Summer,2000,Gold,AUS,Australia,,2000 Sydney,Water Polo,Women's,water polo
+Summer,2000,Silver,USA,United States,,2000 Sydney,Water Polo,Women's,water polo
+Summer,2000,Bronze,RUS,Russian Federation,,2000 Sydney,Water Polo,Women's,water polo
+Summer,2000,Gold,TUR,Turkey,Халил Мутлу,2000 Sydney,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2000,Silver,CHN,China,Ву Веньсюн,2000 Sydney,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2000,Bronze,CHN,China,Чжао Сянсян,2000 Sydney,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,2000,Gold,CRO,Croatia,Никола Пешалов,2000 Sydney,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2000,Silver,GRE,Greece,Леонидас Сабанис,2000 Sydney,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2000,Bronze,BLR,Belarus,Геннадий Олещук,2000 Sydney,Weightlifting,Men's,56 - 62kg (featherweight)
+Summer,2000,Gold,BUL,Bulgaria,Галабин Боевски,2000 Sydney,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2000,Silver,BUL,Bulgaria,Георгий Марков,2000 Sydney,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2000,Bronze,BLR,Belarus,Сергей Лавренов,2000 Sydney,Weightlifting,Men's,62 - 69kg (lightweight)
+Summer,2000,Gold,CHN,China,Чжан Сюйган,2000 Sydney,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2000,Silver,GRE,Greece,Виктор Митру,2000 Sydney,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2000,Bronze,ARM,Armenia,Арсен Меликян,2000 Sydney,Weightlifting,Men's,69 - 77kg (middleweight)
+Summer,2000,Gold,GRE,Greece,Пиррос Димас,2000 Sydney,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2000,Silver,GER,Germany,Марк Хустер,2000 Sydney,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2000,Bronze,GEO,Georgia,Георгий Асанидзе,2000 Sydney,Weightlifting,Men's,77 - 85kg (light-heavyweight)
+Summer,2000,Gold,GRE,Greece,Акакиос Кахиашвилис,2000 Sydney,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2000,Silver,POL,Poland,Симон Колецкий,2000 Sydney,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2000,Bronze,RUS,Russian Federation,Алексей Петров,2000 Sydney,Weightlifting,Men's,85 - 94kg (middle-heavyweight)
+Summer,2000,Gold,IRI,Iran,Хоссейн Таваколи,2000 Sydney,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2000,Silver,BUL,Bulgaria,Алан Цагаев,2000 Sydney,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2000,Bronze,QAT,Qatar,Саид Асаад,2000 Sydney,Weightlifting,Men's,94 - 105kg (heavyweight)
+Summer,2000,Gold,IRI,Iran,Хуссейн Резазаде,2000 Sydney,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2000,Silver,GER,Germany,Ронни Веллер,2000 Sydney,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2000,Bronze,RUS,Russian Federation,Андрей Чемеркин,2000 Sydney,Weightlifting,Men's,+ 105kg (super heavyweight)
+Summer,2000,Gold,USA,United States,Тара Нотт,2000 Sydney,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2000,Silver,INA,Indonesia,Рема Лиса Румбевас,2000 Sydney,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2000,Bronze,INA,Indonesia,Шри Индрияни,2000 Sydney,Weightlifting,Women's,- 48kg (flyweight)
+Summer,2000,Gold,CHN,China,Ян Ся,2000 Sydney,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2000,Silver,TPE,Chinese Taipei,Ли Фен Ин,2000 Sydney,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2000,Bronze,INA,Indonesia,Винарни Бинти Сламет,2000 Sydney,Weightlifting,Women's,48 - 53kg (featherweight)
+Summer,2000,Gold,MEX,Mexico,Сорайя Хименес Мендивиль,2000 Sydney,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2000,Silver,PRK,Korea DPR,Жи Сонг Су,2000 Sydney,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2000,Bronze,THA,Thailand,Сута Хассарапорн,2000 Sydney,Weightlifting,Women's,53 - 58kg (lightweight)
+Summer,2000,Gold,CHN,China,Чень Сяоминь,2000 Sydney,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2000,Silver,RUS,Russian Federation,Валентина Попова,2000 Sydney,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2000,Bronze,GRE,Greece,Иоанна Чатциану,2000 Sydney,Weightlifting,Women's,58 - 63kg (middleweight)
+Summer,2000,Gold,CHN,China,Линь Вейнин,2000 Sydney,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2000,Silver,HUN,Hungary,Эржбет Маркус,2000 Sydney,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2000,Bronze,IND,India,Карнам Маллесвари,2000 Sydney,Weightlifting,Women's,63 - 69kg (light-heavyweight)
+Summer,2000,Gold,COL,Colombia,Мария Исабель Уррутиа,2000 Sydney,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2000,Silver,NGR,Nigeria,Рут Огбейфо,2000 Sydney,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2000,Bronze,TPE,Chinese Taipei,Ко И Хан,2000 Sydney,Weightlifting,Women's,69 - 75kg (heavyweight)
+Summer,2000,Gold,CHN,China,Динь Мейюань,2000 Sydney,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2000,Silver,POL,Poland,Агата Вробель,2000 Sydney,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2000,Bronze,USA,United States,Черил Хэйворт,2000 Sydney,Weightlifting,Women's,+ 75kg (super heavyweight)
+Summer,2000,Gold,AZE,Azerbaijan,Намиг Абдуллаев,2000 Sydney,Wrestling Freestyle,Men's,- 54kg
+Summer,2000,Silver,USA,United States,Самуэль Хенсон,2000 Sydney,Wrestling Freestyle,Men's,- 54kg
+Summer,2000,Bronze,GRE,Greece,Амиран Карнтанов,2000 Sydney,Wrestling Freestyle,Men's,- 54kg
+Summer,2000,Gold,IRI,Iran,Алиреза Дабир,2000 Sydney,Wrestling Freestyle,Men's,54 - 58kg
+Summer,2000,Silver,UKR,Ukraine,Евгений Буслович,2000 Sydney,Wrestling Freestyle,Men's,54 - 58kg
+Summer,2000,Bronze,USA,United States,Терри Брэндс,2000 Sydney,Wrestling Freestyle,Men's,54 - 58kg
+Summer,2000,Gold,RUS,Russian Federation,Мурад Умаханов,2000 Sydney,Wrestling Freestyle,Men's,58 - 63kg
+Summer,2000,Silver,BUL,Bulgaria,Серафим Барзаков,2000 Sydney,Wrestling Freestyle,Men's,58 - 63kg
+Summer,2000,Bronze,KOR,Korea Republic,Чже Сун Чжан,2000 Sydney,Wrestling Freestyle,Men's,58 - 63kg
+Summer,2000,Gold,CAN,Canada,Даниэль Игали,2000 Sydney,Wrestling Freestyle,Men's,63 - 69kg
+Summer,2000,Silver,RUS,Russian Federation,Арсен Гитинов,2000 Sydney,Wrestling Freestyle,Men's,63 - 69kg
+Summer,2000,Bronze,USA,United States,Линкольн Макилрави,2000 Sydney,Wrestling Freestyle,Men's,63 - 69kg
+Summer,2000,Gold,USA,United States,Брэндон Слэй,2000 Sydney,Wrestling Freestyle,Men's,69 - 76kg
+Summer,2000,Silver,KOR,Korea Republic,Ю Чже Мун,2000 Sydney,Wrestling Freestyle,Men's,69 - 76kg
+Summer,2000,Bronze,TUR,Turkey,Адем Берекет,2000 Sydney,Wrestling Freestyle,Men's,69 - 76kg
+Summer,2000,Gold,RUS,Russian Federation,Адам Сайтиев,2000 Sydney,Wrestling Freestyle,Men's,76 - 85kg
+Summer,2000,Silver,CUB,Cuba,Жоэль Ромеро,2000 Sydney,Wrestling Freestyle,Men's,76 - 85kg
+Summer,2000,Bronze,MKD,Macedonia,Могамед Ибрагимов,2000 Sydney,Wrestling Freestyle,Men's,76 - 85kg
+Summer,2000,Gold,RUS,Russian Federation,Сагид Муртазалиев,2000 Sydney,Wrestling Freestyle,Men's,85 - 97kg
+Summer,2000,Silver,KAZ,Kazakhstan,Ислам Байрамуков,2000 Sydney,Wrestling Freestyle,Men's,85 - 97kg
+Summer,2000,Bronze,GEO,Georgia,Эльдар Куртанидзе,2000 Sydney,Wrestling Freestyle,Men's,85 - 97kg
+Summer,2000,Gold,RUS,Russian Federation,Давид Мусульбес,2000 Sydney,Wrestling Freestyle,Men's,97 - 130kg
+Summer,2000,Silver,UZB,Uzbekistan,Артур Таймазов,2000 Sydney,Wrestling Freestyle,Men's,97 - 130kg
+Summer,2000,Bronze,CUB,Cuba,Алексис Родригес,2000 Sydney,Wrestling Freestyle,Men's,97 - 130kg
+Summer,2000,Gold,KOR,Korea Republic,Сим Квон Хо,2000 Sydney,Wrestling Greco-Roman,Men's,- 54kg
+Summer,2000,Silver,CUB,Cuba,Лазаро Ривас,2000 Sydney,Wrestling Greco-Roman,Men's,- 54kg
+Summer,2000,Bronze,PRK,Korea DPR,Кан Йон Гун,2000 Sydney,Wrestling Greco-Roman,Men's,- 54kg
+Summer,2000,Gold,BUL,Bulgaria,Армен Назарян,2000 Sydney,Wrestling Greco-Roman,Men's,54 - 58kg
+Summer,2000,Silver,KOR,Korea Republic,Ким Ин Суб,2000 Sydney,Wrestling Greco-Roman,Men's,54 - 58kg
+Summer,2000,Bronze,CHN,China,Шен Цзетянь,2000 Sydney,Wrestling Greco-Roman,Men's,54 - 58kg
+Summer,2000,Gold,RUS,Russian Federation,Вартерес Самургашев,2000 Sydney,Wrestling Greco-Roman,Men's,58 - 63kg
+Summer,2000,Silver,CUB,Cuba,Хуан Луис Марен,2000 Sydney,Wrestling Greco-Roman,Men's,58 - 63kg
+Summer,2000,Bronze,GEO,Georgia,Акаки Чачуа,2000 Sydney,Wrestling Greco-Roman,Men's,58 - 63kg
+Summer,2000,Gold,CUB,Cuba,Филиберто Аской,2000 Sydney,Wrestling Greco-Roman,Men's,63 - 69kg
+Summer,2000,Silver,JPN,Japan,Кацухико Нагата,2000 Sydney,Wrestling Greco-Roman,Men's,63 - 69kg
+Summer,2000,Bronze,RUS,Russian Federation,Алексей Глушков,2000 Sydney,Wrestling Greco-Roman,Men's,63 - 69kg
+Summer,2000,Gold,RUS,Russian Federation,Мурат Карданов,2000 Sydney,Wrestling Greco-Roman,Men's,69 - 76kg
+Summer,2000,Silver,USA,United States,Мэтт Джеймс Линдлэнд,2000 Sydney,Wrestling Greco-Roman,Men's,69 - 76kg
+Summer,2000,Bronze,FIN,Finland,Марко Юли-Ханнускела,2000 Sydney,Wrestling Greco-Roman,Men's,69 - 76kg
+Summer,2000,Gold,TUR,Turkey,Хамза Ерликая,2000 Sydney,Wrestling Greco-Roman,Men's,76 - 85kg
+Summer,2000,Silver,HUN,Hungary,Иштван Бардоши,2000 Sydney,Wrestling Greco-Roman,Men's,76 - 85kg
+Summer,2000,Bronze,GEO,Georgia,Мухран Вахтангадзе,2000 Sydney,Wrestling Greco-Roman,Men's,76 - 85kg
+Summer,2000,Gold,SWE,Sweden,Микаэль Люнгберг,2000 Sydney,Wrestling Greco-Roman,Men's,85 - 97kg
+Summer,2000,Silver,UKR,Ukraine,Давид Солдадзе,2000 Sydney,Wrestling Greco-Roman,Men's,85 - 97kg
+Summer,2000,Bronze,USA,United States,Гарретт Лоуни,2000 Sydney,Wrestling Greco-Roman,Men's,85 - 97kg
+Summer,2000,Gold,USA,United States,Рулон Гарднер,2000 Sydney,Wrestling Greco-Roman,Men's,97 - 130kg
+Summer,2000,Silver,RUS,Russian Federation,Александр Карелин,2000 Sydney,Wrestling Greco-Roman,Men's,97 - 130kg
+Summer,2000,Bronze,BLR,Belarus,Дмитрий Дебелка,2000 Sydney,Wrestling Greco-Roman,Men's,97 - 130kg
+Summer,2000,Gold,USA,United States,,2000 Sydney,Baseball^(1992-2008),Men's,baseball
+Summer,2000,Silver,CUB,Cuba,,2000 Sydney,Baseball^(1992-2008),Men's,baseball
+Summer,2000,Bronze,KOR,Korea Republic,,2000 Sydney,Baseball^(1992-2008),Men's,baseball
+Summer,2000,Gold,USA,United States,,2000 Sydney,Softball^(1996-2008),Women's,softball
+Summer,2000,Silver,JPN,Japan,,2000 Sydney,Softball^(1996-2008),Women's,softball
+Summer,2000,Bronze,AUS,Australia,,2000 Sydney,Softball^(1996-2008),Women's,softball

@@ -1,0 +1,206 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1998,Gold,AUT,Austria,Райтер,1998 Nagano,Alpine Skiing,Men's,Alpine combined
+Winter,1998,Silver,NOR,Norway,Кьюс,1998 Nagano,Alpine Skiing,Men's,Alpine combined
+Winter,1998,Bronze,AUT,Austria,Майер,1998 Nagano,Alpine Skiing,Men's,Alpine combined
+Winter,1998,Gold,NOR,Norway,Бураас,1998 Nagano,Alpine Skiing,Men's,slalom
+Winter,1998,Silver,NOR,Norway,Фурусет,1998 Nagano,Alpine Skiing,Men's,slalom
+Winter,1998,Bronze,AUT,Austria,Сикора,1998 Nagano,Alpine Skiing,Men's,slalom
+Winter,1998,Gold,AUT,Austria,Майер,1998 Nagano,Alpine Skiing,Men's,giant slalom
+Winter,1998,Silver,AUT,Austria,Эберхартер,1998 Nagano,Alpine Skiing,Men's,giant slalom
+Winter,1998,Bronze,SUI,Switzerland,Фон Грюниген,1998 Nagano,Alpine Skiing,Men's,giant slalom
+Winter,1998,Gold,AUT,Austria,Майер,1998 Nagano,Alpine Skiing,Men's,super-G
+Winter,1998,Silver,AUT,Austria,Кнаусс,1998 Nagano,Alpine Skiing,Men's,super-G
+Winter,1998,Silver,SUI,Switzerland,Кюш,1998 Nagano,Alpine Skiing,Men's,super-G
+Winter,1998,Gold,FRA,France,Кретье,1998 Nagano,Alpine Skiing,Men's,downhill
+Winter,1998,Silver,NOR,Norway,Кьюс,1998 Nagano,Alpine Skiing,Men's,downhill
+Winter,1998,Bronze,AUT,Austria,Тринкль,1998 Nagano,Alpine Skiing,Men's,downhill
+Winter,1998,Gold,GER,Germany,Зайцингер,1998 Nagano,Alpine Skiing,Women's,Alpine combined
+Winter,1998,Silver,GER,Germany,Эртль,1998 Nagano,Alpine Skiing,Women's,Alpine combined
+Winter,1998,Bronze,GER,Germany,Герг,1998 Nagano,Alpine Skiing,Women's,Alpine combined
+Winter,1998,Gold,GER,Germany,Герг,1998 Nagano,Alpine Skiing,Women's,slalom
+Winter,1998,Silver,ITA,Italy,Компаньони,1998 Nagano,Alpine Skiing,Women's,slalom
+Winter,1998,Bronze,AUS,Australia,Штегалль,1998 Nagano,Alpine Skiing,Women's,slalom
+Winter,1998,Gold,ITA,Italy,Компаньони,1998 Nagano,Alpine Skiing,Women's,giant slalom
+Winter,1998,Silver,AUT,Austria,Майсснитцер,1998 Nagano,Alpine Skiing,Women's,giant slalom
+Winter,1998,Bronze,GER,Germany,Зайцингер,1998 Nagano,Alpine Skiing,Women's,giant slalom
+Winter,1998,Gold,USA,United States,Стрит,1998 Nagano,Alpine Skiing,Women's,super-G
+Winter,1998,Silver,AUT,Austria,Дорфмайстер,1998 Nagano,Alpine Skiing,Women's,super-G
+Winter,1998,Bronze,AUT,Austria,Майсснитцер,1998 Nagano,Alpine Skiing,Women's,super-G
+Winter,1998,Gold,GER,Germany,Зайцингер,1998 Nagano,Alpine Skiing,Women's,downhill
+Winter,1998,Silver,SWE,Sweden,Виберг,1998 Nagano,Alpine Skiing,Women's,downhill
+Winter,1998,Bronze,FRA,France,Маснада,1998 Nagano,Alpine Skiing,Women's,downhill
+Winter,1998,Gold,NOR,Norway,Бьорндален О.-Э.,1998 Nagano,Biathlon,Men's,10km sprint
+Winter,1998,Silver,NOR,Norway,Андресен,1998 Nagano,Biathlon,Men's,10km sprint
+Winter,1998,Bronze,FIN,Finland,Ряйкконен,1998 Nagano,Biathlon,Men's,10km sprint
+Winter,1998,Gold,NOR,Norway,Ханеволд,1998 Nagano,Biathlon,Men's,20km individual
+Winter,1998,Silver,ITA,Italy,Каррара,1998 Nagano,Biathlon,Men's,20km individual
+Winter,1998,Bronze,BLR,Belarus,Айдаров,1998 Nagano,Biathlon,Men's,20km individual
+Winter,1998,Gold,GER,Germany,"Гросс, Фишер, Зендель, Лукк",1998 Nagano,Biathlon,Men's,4x7.5km relay
+Winter,1998,Silver,NOR,Norway,"Гьелланд, Бьорндален Д., Ханеволд, Бьорндален О.-Э.",1998 Nagano,Biathlon,Men's,4x7.5km relay
+Winter,1998,Bronze,RUS,Russian Federation,"Муслимов, Тарасов, Драчев, Майгуров",1998 Nagano,Biathlon,Men's,4x7.5km relay
+Winter,1998,Gold,RUS,Russian Federation,Куклева,1998 Nagano,Biathlon,Women's,7.5km sprint
+Winter,1998,Silver,GER,Germany,Дизль,1998 Nagano,Biathlon,Women's,7.5km sprint
+Winter,1998,Bronze,GER,Germany,Апель,1998 Nagano,Biathlon,Women's,7.5km sprint
+Winter,1998,Gold,BUL,Bulgaria,Дафовска,1998 Nagano,Biathlon,Women's,15km individual
+Winter,1998,Silver,UKR,Ukraine,Петрова,1998 Nagano,Biathlon,Women's,15km individual
+Winter,1998,Bronze,GER,Germany,Дизль,1998 Nagano,Biathlon,Women's,15km individual
+Winter,1998,Gold,GER,Germany,"Зелльнер, Беле, Дизль, Апель",1998 Nagano,Biathlon,Women's,4x7.5km relay
+Winter,1998,Silver,RUS,Russian Federation,"Куклева, Ромасько, Мельник, Ахатова",1998 Nagano,Biathlon,Women's,4x7.5km relay
+Winter,1998,Bronze,NOR,Norway,"Сиквеланд, Скъелбрейд Л., Скъелбрейд А., Андреассен",1998 Nagano,Biathlon,Women's,4x7.5km relay
+Winter,1998,Gold,CAN,Canada,"Людерс, Макичерн",1998 Nagano,Bobsleigh,Men's,two-man
+Winter,1998,Gold,ITA,Italy,"Хубер, Тарталья",1998 Nagano,Bobsleigh,Men's,two-man
+Winter,1998,Bronze,GER,Germany,"Ланген, Циммерманн",1998 Nagano,Bobsleigh,Men's,two-man
+Winter,1998,Gold,GER,Germany,"Ланген, Якобс, Циммерманн, Хемпель",1998 Nagano,Bobsleigh,Men's,four-man
+Winter,1998,Silver,SUI,Switzerland,"Ронер, Вассер, Нуссли, Зейц",1998 Nagano,Bobsleigh,Men's,four-man
+Winter,1998,Bronze,FRA,France,"Менжон, Ле Шанони, Осташ, Робер",1998 Nagano,Bobsleigh,Men's,four-man
+Winter,1998,Bronze,GBR,Great Britain,"Олссон, Рамбольт, Уорд, Эттвуд",1998 Nagano,Bobsleigh,Men's,four-man
+Winter,1998,Gold,NOR,Norway,Дэли,1998 Nagano,Cross Country Skiing,Men's,10km
+Winter,1998,Silver,AUT,Austria,Гандлер,1998 Nagano,Cross Country Skiing,Men's,10km
+Winter,1998,Bronze,FIN,Finland,Мюллюла,1998 Nagano,Cross Country Skiing,Men's,10km
+Winter,1998,Gold,NOR,Norway,Ольсгорд,1998 Nagano,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1998,Silver,NOR,Norway,Дэли,1998 Nagano,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1998,Bronze,KAZ,Kazakhstan,Смирнов,1998 Nagano,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1998,Gold,FIN,Finland,Мюллюла,1998 Nagano,Cross Country Skiing,Men's,30km
+Winter,1998,Silver,NOR,Norway,Йевне,1998 Nagano,Cross Country Skiing,Men's,30km
+Winter,1998,Bronze,ITA,Italy,Фаунер,1998 Nagano,Cross Country Skiing,Men's,30km
+Winter,1998,Gold,NOR,Norway,Дэли,1998 Nagano,Cross Country Skiing,Men's,50km
+Winter,1998,Silver,SWE,Sweden,Йонссон,1998 Nagano,Cross Country Skiing,Men's,50km
+Winter,1998,Bronze,AUT,Austria,Хоффманн,1998 Nagano,Cross Country Skiing,Men's,50km
+Winter,1998,Gold,NOR,Norway,"Йевне, Ольсгорд, Сивертсен, Дэли",1998 Nagano,Cross Country Skiing,Men's,4x10km relay
+Winter,1998,Silver,ITA,Italy,"Вальбуза, Фаунер, Альбарелло, Май",1998 Nagano,Cross Country Skiing,Men's,4x10km relay
+Winter,1998,Bronze,FIN,Finland,"Мюллюла, Исометса, Кирвесниеми, Репо",1998 Nagano,Cross Country Skiing,Men's,4x10km relay
+Winter,1998,Gold,RUS,Russian Federation,Лазутина,1998 Nagano,Cross Country Skiing,Women's,5km
+Winter,1998,Silver,CZE,Czech Republic,Нойманнова,1998 Nagano,Cross Country Skiing,Women's,5km
+Winter,1998,Bronze,NOR,Norway,Мартинсен,1998 Nagano,Cross Country Skiing,Women's,5km
+Winter,1998,Gold,RUS,Russian Federation,Лазутина,1998 Nagano,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1998,Silver,RUS,Russian Federation,Данилова,1998 Nagano,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1998,Bronze,CZE,Czech Republic,Нойманнова,1998 Nagano,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1998,Gold,RUS,Russian Federation,Данилова,1998 Nagano,Cross Country Skiing,Women's,15km
+Winter,1998,Silver,RUS,Russian Federation,Лазутина,1998 Nagano,Cross Country Skiing,Women's,15km
+Winter,1998,Bronze,NOR,Norway,Моен-Гуидон,1998 Nagano,Cross Country Skiing,Women's,15km
+Winter,1998,Gold,RUS,Russian Federation,Чепалова,1998 Nagano,Cross Country Skiing,Women's,30km
+Winter,1998,Silver,ITA,Italy,Бельмондо,1998 Nagano,Cross Country Skiing,Women's,30km
+Winter,1998,Bronze,RUS,Russian Federation,Лазутина,1998 Nagano,Cross Country Skiing,Women's,30km
+Winter,1998,Gold,RUS,Russian Federation,"Данилова, Лазутина, Гаврылюк, Вяльбе",1998 Nagano,Cross Country Skiing,Women's,4x5km relay
+Winter,1998,Silver,NOR,Norway,"Миккельспласс, Моен-Гуидон, Мартинсен, Нильсен",1998 Nagano,Cross Country Skiing,Women's,4x5km relay
+Winter,1998,Bronze,ITA,Italy,"Паруцци, Бельмондо, Мородер, Ди Чента",1998 Nagano,Cross Country Skiing,Women's,4x5km relay
+Winter,1998,Gold,SUI,Switzerland,"Перрен, Лертшер, Херлиманн, Мюллер, Андре",1998 Nagano,Curling,Men's,curling
+Winter,1998,Silver,CAN,Canada,"Харрис М., Митчелл, Саваж, Харрис Дж., Харт",1998 Nagano,Curling,Men's,curling
+Winter,1998,Bronze,NOR,Norway,"Рамсфьелл, Гуннестад, Грисмо, Торесен, Торвбротен",1998 Nagano,Curling,Men's,curling
+Winter,1998,Gold,CAN,Canada,"Шмирлер, Биткер, Форд, Гьюдерейт, Маккаскер",1998 Nagano,Curling,Women's,curling
+Winter,1998,Silver,DEN,Denmark,"Лаврсен, Хольм, Квист, Пертнер, Бидструп",1998 Nagano,Curling,Women's,curling
+Winter,1998,Bronze,SWE,Sweden,"Перссон, Нюберг, Линдаль, Густафссон, Мармонт",1998 Nagano,Curling,Women's,curling
+Winter,1998,Gold,RUS,Russian Federation,Кулик,1998 Nagano,Figure skating,Men's,individual
+Winter,1998,Silver,CAN,Canada,Стойко,1998 Nagano,Figure skating,Men's,individual
+Winter,1998,Bronze,FRA,France,Канделоро,1998 Nagano,Figure skating,Men's,individual
+Winter,1998,Gold,USA,United States,Липински,1998 Nagano,Figure skating,Women's,individual
+Winter,1998,Silver,USA,United States,Кван,1998 Nagano,Figure skating,Women's,individual
+Winter,1998,Bronze,CHN,China,Лю Чен,1998 Nagano,Figure skating,Women's,individual
+Winter,1998,Gold,RUS,Russian Federation,"Казакова, Дмитриев",1998 Nagano,Figure skating,Mixed,pairs
+Winter,1998,Silver,RUS,Russian Federation,"Бережная, Сихарулидзе",1998 Nagano,Figure skating,Mixed,pairs
+Winter,1998,Bronze,GER,Germany,"Ветцель, Штойер",1998 Nagano,Figure skating,Mixed,pairs
+Winter,1998,Gold,RUS,Russian Federation,"Грищук, Платов",1998 Nagano,Figure skating,Mixed,ice dancing
+Winter,1998,Silver,RUS,Russian Federation,"Крылова, Овсянников",1998 Nagano,Figure skating,Mixed,ice dancing
+Winter,1998,Bronze,FRA,France,"Анисина, Пейзера",1998 Nagano,Figure skating,Mixed,ice dancing
+Winter,1998,Gold,USA,United States,Бергуст,1998 Nagano,Freestyle Skiing,Men's,aerials
+Winter,1998,Silver,FRA,France,Фукрас,1998 Nagano,Freestyle Skiing,Men's,aerials
+Winter,1998,Bronze,BLR,Belarus,Дашинский,1998 Nagano,Freestyle Skiing,Men's,aerials
+Winter,1998,Gold,USA,United States,Мосли,1998 Nagano,Freestyle Skiing,Men's,moguls
+Winter,1998,Silver,FIN,Finland,Лахтела,1998 Nagano,Freestyle Skiing,Men's,moguls
+Winter,1998,Bronze,FIN,Finland,Мустонен,1998 Nagano,Freestyle Skiing,Men's,moguls
+Winter,1998,Gold,USA,United States,Стоун,1998 Nagano,Freestyle Skiing,Women's,aerials
+Winter,1998,Silver,CHN,China,Сюй Наньнань,1998 Nagano,Freestyle Skiing,Women's,aerials
+Winter,1998,Bronze,SUI,Switzerland,Бранд,1998 Nagano,Freestyle Skiing,Women's,aerials
+Winter,1998,Gold,JPN,Japan,Сатойя,1998 Nagano,Freestyle Skiing,Women's,moguls
+Winter,1998,Silver,GER,Germany,Миттермайер,1998 Nagano,Freestyle Skiing,Women's,moguls
+Winter,1998,Bronze,NOR,Norway,Траа,1998 Nagano,Freestyle Skiing,Women's,moguls
+Winter,1998,Gold,CZE,Czech Republic,,1998 Nagano,Ice Hockey,Men's,ice hockey
+Winter,1998,Silver,RUS,Russian Federation,,1998 Nagano,Ice Hockey,Men's,ice hockey
+Winter,1998,Bronze,FIN,Finland,,1998 Nagano,Ice Hockey,Men's,ice hockey
+Winter,1998,Gold,USA,United States,,1998 Nagano,Ice Hockey,Women's,ice hockey
+Winter,1998,Silver,CAN,Canada,,1998 Nagano,Ice Hockey,Women's,ice hockey
+Winter,1998,Bronze,FIN,Finland,,1998 Nagano,Ice Hockey,Women's,ice hockey
+Winter,1998,Gold,GER,Germany,Хакль,1998 Nagano,Luge,Men's,singles
+Winter,1998,Silver,ITA,Italy,Цоггелер,1998 Nagano,Luge,Men's,singles
+Winter,1998,Bronze,GER,Germany,Мюллер,1998 Nagano,Luge,Men's,singles
+Winter,1998,Gold,GER,Germany,Краузхаар,1998 Nagano,Luge,Women's,singles
+Winter,1998,Silver,GER,Germany,Нидернхубер,1998 Nagano,Luge,Women's,singles
+Winter,1998,Bronze,AUT,Austria,Нойнер,1998 Nagano,Luge,Women's,singles
+Winter,1998,Gold,GER,Germany,"Берендт, Краузе",1998 Nagano,Luge,Mixed,doubles
+Winter,1998,Silver,USA,United States,"Шир, Торп",1998 Nagano,Luge,Mixed,doubles
+Winter,1998,Bronze,USA,United States,"Мартин, Гримметт",1998 Nagano,Luge,Mixed,doubles
+Winter,1998,Gold,NOR,Norway,Вик,1998 Nagano,Nordic Combined,Men's,individual
+Winter,1998,Silver,FIN,Finland,Лаюнен,1998 Nagano,Nordic Combined,Men's,individual
+Winter,1998,Bronze,RUS,Russian Federation,Столяров,1998 Nagano,Nordic Combined,Men's,individual
+Winter,1998,Gold,NOR,Norway,"Бротен, Лундберг, Скард, Вик",1998 Nagano,Nordic Combined,Men's,team
+Winter,1998,Silver,FIN,Finland,"Мантила, Маннинен, Лаюнен, Нурмела",1998 Nagano,Nordic Combined,Men's,team
+Winter,1998,Bronze,FRA,France,"Баль, Ги, Гийом, Ру",1998 Nagano,Nordic Combined,Men's,team
+Winter,1998,Gold,JPN,Japan,Нишитани,1998 Nagano,Short Track Speed Skating,Men's,500m
+Winter,1998,Silver,CHN,China,Ан Юйлун,1998 Nagano,Short Track Speed Skating,Men's,500m
+Winter,1998,Bronze,JPN,Japan,Уемацу,1998 Nagano,Short Track Speed Skating,Men's,500m
+Winter,1998,Gold,KOR,Korea Republic,Ким Дон Сун,1998 Nagano,Short Track Speed Skating,Men's,1000m
+Winter,1998,Silver,CHN,China,Ли Цзяцзюнь,1998 Nagano,Short Track Speed Skating,Men's,1000m
+Winter,1998,Bronze,CAN,Canada,Бедар,1998 Nagano,Short Track Speed Skating,Men's,1000m
+Winter,1998,Gold,CAN,Canada,"Ганьон, Кэмпбелл, Дроле, Бедар",1998 Nagano,Short Track Speed Skating,Men's,5000m relay
+Winter,1998,Silver,KOR,Korea Republic,"Ким Дон Сун, Ли Юн Хван, Ли Хо Енг, Чаэ И Хун",1998 Nagano,Short Track Speed Skating,Men's,5000m relay
+Winter,1998,Bronze,CHN,China,"Ан Юйлун, Кай Фэн, Е Юань, Ли Цзяцзюнь",1998 Nagano,Short Track Speed Skating,Men's,5000m relay
+Winter,1998,Gold,CAN,Canada,Перро,1998 Nagano,Short Track Speed Skating,Women's,500m
+Winter,1998,Silver,CHN,China,Ян Ян (С),1998 Nagano,Short Track Speed Skating,Women's,500m
+Winter,1998,Bronze,KOR,Korea Republic,Чун Ли Кун,1998 Nagano,Short Track Speed Skating,Women's,500m
+Winter,1998,Gold,KOR,Korea Republic,Чун Ли Кун,1998 Nagano,Short Track Speed Skating,Women's,1000m
+Winter,1998,Silver,CHN,China,Ян Ян (С),1998 Nagano,Short Track Speed Skating,Women's,1000m
+Winter,1998,Bronze,KOR,Korea Republic,Вон Хью Кун,1998 Nagano,Short Track Speed Skating,Women's,1000m
+Winter,1998,Gold,KOR,Korea Republic,"Ан Сан Ми, Чун Ли Кун, Ким Юн Ми, Вон Хье Кун",1998 Nagano,Short Track Speed Skating,Women's,3000m relay
+Winter,1998,Silver,CHN,China,"Ян Ян (А), Ван Чуньлу, Ян Ян (С), Сун Даньдань",1998 Nagano,Short Track Speed Skating,Women's,3000m relay
+Winter,1998,Bronze,CAN,Canada,"Будрэ, Перро, Чарест, Венсан",1998 Nagano,Short Track Speed Skating,Women's,3000m relay
+Winter,1998,Gold,FIN,Finland,Сойнинен,1998 Nagano,Ski Jumping,Men's,Normal Hill individual
+Winter,1998,Silver,JPN,Japan,Фунаки,1998 Nagano,Ski Jumping,Men's,Normal Hill individual
+Winter,1998,Bronze,AUT,Austria,Видхольцль,1998 Nagano,Ski Jumping,Men's,Normal Hill individual
+Winter,1998,Gold,JPN,Japan,Фунаки,1998 Nagano,Ski Jumping,Men's,Large Hill individual
+Winter,1998,Silver,FIN,Finland,Сойнинен,1998 Nagano,Ski Jumping,Men's,Large Hill individual
+Winter,1998,Bronze,JPN,Japan,Харада,1998 Nagano,Ski Jumping,Men's,Large Hill individual
+Winter,1998,Gold,JPN,Japan,"Окабе, Харада, Сайто, Фунаки",1998 Nagano,Ski Jumping,Men's,Large Hill team
+Winter,1998,Silver,GER,Germany,"Шмитт, Тома, Ханнавальд, Якле",1998 Nagano,Ski Jumping,Men's,Large Hill team
+Winter,1998,Bronze,AUT,Austria,"Холлварт, Видхольцль, Шварценбергер, Хорнгафер",1998 Nagano,Ski Jumping,Men's,Large Hill team
+Winter,1998,Gold,CAN,Canada,Ребальяти,1998 Nagano,Snowboard,Men's,giant-slalom
+Winter,1998,Silver,ITA,Italy,Пруггер,1998 Nagano,Snowboard,Men's,giant-slalom
+Winter,1998,Bronze,SUI,Switzerland,Кестенхольц,1998 Nagano,Snowboard,Men's,giant-slalom
+Winter,1998,Gold,SUI,Switzerland,Симмен,1998 Nagano,Snowboard,Men's,Half-pipe
+Winter,1998,Silver,NOR,Norway,Франк,1998 Nagano,Snowboard,Men's,Half-pipe
+Winter,1998,Bronze,USA,United States,Пауэрс,1998 Nagano,Snowboard,Men's,Half-pipe
+Winter,1998,Gold,FRA,France,Руби,1998 Nagano,Snowboard,Women's,giant-slalom
+Winter,1998,Silver,GER,Germany,Ренот,1998 Nagano,Snowboard,Women's,giant-slalom
+Winter,1998,Bronze,AUT,Austria,Кекк,1998 Nagano,Snowboard,Women's,giant-slalom
+Winter,1998,Gold,GER,Germany,Тост,1998 Nagano,Snowboard,Women's,Half-pipe
+Winter,1998,Silver,NOR,Norway,Кьельдас,1998 Nagano,Snowboard,Women's,Half-pipe
+Winter,1998,Bronze,USA,United States,Данн,1998 Nagano,Snowboard,Women's,Half-pipe
+Winter,1998,Gold,JPN,Japan,Шимицу,1998 Nagano,Speed skating,Men's,500m
+Winter,1998,Silver,CAN,Canada,Уотерспун,1998 Nagano,Speed skating,Men's,500m
+Winter,1998,Bronze,CAN,Canada,Оверлэнд,1998 Nagano,Speed skating,Men's,500m
+Winter,1998,Gold,NED,Netherlands,Постма,1998 Nagano,Speed skating,Men's,1000m
+Winter,1998,Silver,NED,Netherlands,Бос,1998 Nagano,Speed skating,Men's,1000m
+Winter,1998,Bronze,JPN,Japan,Шимицу,1998 Nagano,Speed skating,Men's,1000m
+Winter,1998,Gold,NOR,Norway,Сундрол,1998 Nagano,Speed skating,Men's,1500m
+Winter,1998,Silver,NED,Netherlands,Постма,1998 Nagano,Speed skating,Men's,1500m
+Winter,1998,Bronze,NED,Netherlands,Рийтсма,1998 Nagano,Speed skating,Men's,1500m
+Winter,1998,Gold,NED,Netherlands,Ромме,1998 Nagano,Speed skating,Men's,5000m
+Winter,1998,Silver,NED,Netherlands,Рийтсма,1998 Nagano,Speed skating,Men's,5000m
+Winter,1998,Bronze,BEL,Belgium,Фелдкамп,1998 Nagano,Speed skating,Men's,5000m
+Winter,1998,Gold,NED,Netherlands,Ромме,1998 Nagano,Speed skating,Men's,10000m
+Winter,1998,Silver,NED,Netherlands,Де Йонг,1998 Nagano,Speed skating,Men's,10000m
+Winter,1998,Bronze,NED,Netherlands,Рийтсма,1998 Nagano,Speed skating,Men's,10000m
+Winter,1998,Gold,CAN,Canada,Ле Мэй-Доан,1998 Nagano,Speed skating,Women's,500m
+Winter,1998,Silver,CAN,Canada,Ош,1998 Nagano,Speed skating,Women's,500m
+Winter,1998,Bronze,JPN,Japan,Оказаки,1998 Nagano,Speed skating,Women's,500m
+Winter,1998,Gold,NED,Netherlands,Тиммер,1998 Nagano,Speed skating,Women's,1000m
+Winter,1998,Silver,USA,United States,Уитти,1998 Nagano,Speed skating,Women's,1000m
+Winter,1998,Bronze,CAN,Canada,Ле Мэй-Доан,1998 Nagano,Speed skating,Women's,1000m
+Winter,1998,Gold,NED,Netherlands,Тиммер,1998 Nagano,Speed skating,Women's,1500m
+Winter,1998,Silver,GER,Germany,Ниманн-Штирнеманн,1998 Nagano,Speed skating,Women's,1500m
+Winter,1998,Bronze,USA,United States,Уитти,1998 Nagano,Speed skating,Women's,1500m
+Winter,1998,Gold,GER,Germany,Ниманн-Штирнеманн,1998 Nagano,Speed skating,Women's,3000m
+Winter,1998,Silver,GER,Germany,Пехштайн,1998 Nagano,Speed skating,Women's,3000m
+Winter,1998,Bronze,GER,Germany,Фризингер,1998 Nagano,Speed skating,Women's,3000m
+Winter,1998,Gold,GER,Germany,Пехштайн,1998 Nagano,Speed skating,Women's,5000m
+Winter,1998,Silver,GER,Germany,Ниманн-Штирнеманн,1998 Nagano,Speed skating,Women's,5000m
+Winter,1998,Bronze,KAZ,Kazakhstan,Прокашева,1998 Nagano,Speed skating,Women's,5000m

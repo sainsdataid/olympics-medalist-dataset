@@ -1,0 +1,816 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1992,Gold,FRA,France,Sebastien FLUTE,1992 Barcelona,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,1992,Silver,KOR,Korea Republic,Jae-Hun CHUNG,1992 Barcelona,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,1992,Bronze,GBR,Great Britain,Simon TERRY,1992 Barcelona,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,1992,Gold,ESP,Spain,"Antonio VAZQUEZ, Juan Carlos HOLGADO ROMERO, Alfonso MENENDEZ VALLIN",1992 Barcelona,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,1992,Silver,FIN,Finland,"Tomi POIKOLAINEN, Jari LIPPONEN, Ismo Kalevi FALCK",1992 Barcelona,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,1992,Bronze,GBR,Great Britain,"Simon TERRY, Richard John PRIESTMAN, Steven HALLARD",1992 Barcelona,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,1992,Gold,KOR,Korea Republic,Youn-Jeong CHO,1992 Barcelona,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,1992,Silver,KOR,Korea Republic,Soo-Nyung KIM,1992 Barcelona,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Natalia VALEEVA,1992 Barcelona,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,1992,Gold,KOR,Korea Republic,"Youn-Jeong CHO, Soo-Nyung KIM, Eun Kyung LEE",1992 Barcelona,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,1992,Silver,CHN,China,"Xiangjun MA, Hong WANG, Xiaozhu WANG",1992 Barcelona,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),"Lyudmila ARZHANNIKOVA, Khatouna KVRIVICHVILI, Natalia VALEEVA",1992 Barcelona,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,1992,Gold,CAN,Canada,Sylvie FRECHETTE,1992 Barcelona,Artistic Swimming,Women's,solo
+Summer,1992,Gold,USA,United States,Kristen BABB-SPRAGUE,1992 Barcelona,Artistic Swimming,Women's,solo
+Summer,1992,Bronze,JPN,Japan,Fumiko OKUNO,1992 Barcelona,Artistic Swimming,Women's,solo
+Summer,1992,Gold,USA,United States,"Sarah JOSEPHSON, Karen JOSEPHSON",1992 Barcelona,Artistic Swimming,Women's,duet
+Summer,1992,Silver,CAN,Canada,"Vicky VILAGOS, Penny VILAGOS",1992 Barcelona,Artistic Swimming,Women's,duet
+Summer,1992,Bronze,JPN,Japan,"Fumiko OKUNO, Aki TAKAYAMA",1992 Barcelona,Artistic Swimming,Women's,duet
+Summer,1992,Gold,GBR,Great Britain,Linford CHRISTIE,1992 Barcelona,Athletics,Men's,100m
+Summer,1992,Silver,NAM,Namibia,Frank FREDERICKS,1992 Barcelona,Athletics,Men's,100m
+Summer,1992,Bronze,USA,United States,Dennis MITCHELL,1992 Barcelona,Athletics,Men's,100m
+Summer,1992,Gold,USA,United States,Michael MARSH,1992 Barcelona,Athletics,Men's,200m
+Summer,1992,Silver,NAM,Namibia,Frank FREDERICKS,1992 Barcelona,Athletics,Men's,200m
+Summer,1992,Bronze,USA,United States,Michael D. BATES,1992 Barcelona,Athletics,Men's,200m
+Summer,1992,Gold,USA,United States,Quincy WATTS,1992 Barcelona,Athletics,Men's,400m
+Summer,1992,Silver,USA,United States,Steve LEWIS,1992 Barcelona,Athletics,Men's,400m
+Summer,1992,Bronze,KEN,Kenya,Samson KITUR,1992 Barcelona,Athletics,Men's,400m
+Summer,1992,Gold,KEN,Kenya,William TANUI,1992 Barcelona,Athletics,Men's,800m
+Summer,1992,Silver,KEN,Kenya,Nixon KIPROTICH,1992 Barcelona,Athletics,Men's,800m
+Summer,1992,Bronze,USA,United States,Johnny Lee Jr GRAY,1992 Barcelona,Athletics,Men's,800m
+Summer,1992,Gold,ESP,Spain,Fermin CACHO RUIZ,1992 Barcelona,Athletics,Men's,1500m
+Summer,1992,Silver,MAR,Morocco,Rachid EL BASIR,1992 Barcelona,Athletics,Men's,1500m
+Summer,1992,Bronze,QAT,Qatar,Mohamed Ahmed SULAIMAN,1992 Barcelona,Athletics,Men's,1500m
+Summer,1992,Gold,GER,Germany,Dieter BAUMANN,1992 Barcelona,Athletics,Men's,5000m
+Summer,1992,Silver,KEN,Kenya,Paul BITOK,1992 Barcelona,Athletics,Men's,5000m
+Summer,1992,Bronze,ETH,Ethiopia,Fita BAYISA,1992 Barcelona,Athletics,Men's,5000m
+Summer,1992,Gold,MAR,Morocco,Khalid SKAH,1992 Barcelona,Athletics,Men's,10000m
+Summer,1992,Silver,KEN,Kenya,Richard CHELIMO,1992 Barcelona,Athletics,Men's,10000m
+Summer,1992,Bronze,ETH,Ethiopia,Addis ABEBE,1992 Barcelona,Athletics,Men's,10000m
+Summer,1992,Gold,KOR,Korea Republic,Young-Cho HWANG,1992 Barcelona,Athletics,Men's,marathon
+Summer,1992,Silver,JPN,Japan,Koichi MORISHITA,1992 Barcelona,Athletics,Men's,marathon
+Summer,1992,Bronze,GER,Germany,Stephan Timo FREIGANG,1992 Barcelona,Athletics,Men's,marathon
+Summer,1992,Gold,CAN,Canada,Mark MCKOY,1992 Barcelona,Athletics,Men's,110m hurdles
+Summer,1992,Silver,USA,United States,Tony DEES,1992 Barcelona,Athletics,Men's,110m hurdles
+Summer,1992,Bronze,USA,United States,Jack PIERCE,1992 Barcelona,Athletics,Men's,110m hurdles
+Summer,1992,Gold,USA,United States,Kevin Curtis YOUNG,1992 Barcelona,Athletics,Men's,400m hurdles
+Summer,1992,Silver,JAM,Jamaica,Winthrop GRAHAM,1992 Barcelona,Athletics,Men's,400m hurdles
+Summer,1992,Bronze,GBR,Great Britain,Kriss Kezie Uche AKABUSI,1992 Barcelona,Athletics,Men's,400m hurdles
+Summer,1992,Gold,KEN,Kenya,Mathew BIRIR,1992 Barcelona,Athletics,Men's,3000m steeplechase
+Summer,1992,Silver,KEN,Kenya,Patrick SANG,1992 Barcelona,Athletics,Men's,3000m steeplechase
+Summer,1992,Bronze,KEN,Kenya,William MUTWOL,1992 Barcelona,Athletics,Men's,3000m steeplechase
+Summer,1992,Gold,USA,United States,"Carl LEWIS, Leroy BURRELL, James JETT, Dennis MITCHELL, Michael MARSH",1992 Barcelona,Athletics,Men's,4x100m relay
+Summer,1992,Silver,NGR,Nigeria,"Davidson EZINWA, Oluyemi KAYODE, Olapade ADENIKEN, Chidi IMOH, Osmond EZINWA",1992 Barcelona,Athletics,Men's,4x100m relay
+Summer,1992,Bronze,CUB,Cuba,"Jorge Luis AGUILERA RUIZ, Andres SIMON, Joel ISASI, Joel LAMELA",1992 Barcelona,Athletics,Men's,4x100m relay
+Summer,1992,Gold,USA,United States,"Michael JOHNSON, Darnell HALL, Andrew VALMON, Steve LEWIS, Charles L. JENKINS, Quincy WATTS",1992 Barcelona,Athletics,Men's,4x400m relay
+Summer,1992,Silver,CUB,Cuba,"Norberto TELLEZ, Lazaro MARTINEZ DESPAIGNE, Roberto HERNANDEZ PRENDES, Hector HERRERA ORTIZ",1992 Barcelona,Athletics,Men's,4x400m relay
+Summer,1992,Bronze,GBR,Great Britain,"Kriss Kezie Uche AKABUSI, David Allan GRINDLEY, Duaine LADEJO, Roger BLACK, John Paul Lyndon REGIS, Mark Ashton RICHARDSON",1992 Barcelona,Athletics,Men's,4x400m relay
+Summer,1992,Gold,ESP,Spain,Daniel PLAZA MONTERO,1992 Barcelona,Athletics,Men's,20km walk
+Summer,1992,Silver,CAN,Canada,Guillaume LEBLANC,1992 Barcelona,Athletics,Men's,20km walk
+Summer,1992,Bronze,ITA,Italy,Giovanni DE BENEDICTIS,1992 Barcelona,Athletics,Men's,20km walk
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Andrey PERLOV,1992 Barcelona,Athletics,Men's,50km walk
+Summer,1992,Silver,MEX,Mexico,Carlos MERCENARIO CARBAJAL,1992 Barcelona,Athletics,Men's,50km walk
+Summer,1992,Bronze,GER,Germany,Ronald WEIGEL,1992 Barcelona,Athletics,Men's,50km walk
+Summer,1992,Gold,USA,United States,Carl LEWIS,1992 Barcelona,Athletics,Men's,long jump
+Summer,1992,Silver,USA,United States,Michael Anthony POWELL,1992 Barcelona,Athletics,Men's,long jump
+Summer,1992,Bronze,USA,United States,Joe GREENE,1992 Barcelona,Athletics,Men's,long jump
+Summer,1992,Gold,USA,United States,Mike CONLEY,1992 Barcelona,Athletics,Men's,triple jump
+Summer,1992,Silver,USA,United States,Charles SIMPKINS,1992 Barcelona,Athletics,Men's,triple jump
+Summer,1992,Bronze,BAH,Bahamas,Frank RUTHERFORD,1992 Barcelona,Athletics,Men's,triple jump
+Summer,1992,Gold,CUB,Cuba,Javier SOTOMAYOR,1992 Barcelona,Athletics,Men's,high jump
+Summer,1992,Silver,SWE,Sweden,Patrick SJÖBERG,1992 Barcelona,Athletics,Men's,high jump
+Summer,1992,Bronze,AUS,Australia,Timothy FORSYTH,1992 Barcelona,Athletics,Men's,high jump
+Summer,1992,Bronze,POL,Poland,Artur PARTYKA,1992 Barcelona,Athletics,Men's,high jump
+Summer,1992,Bronze,USA,United States,Hollis CONWAY,1992 Barcelona,Athletics,Men's,high jump
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Maksim TARASOV,1992 Barcelona,Athletics,Men's,pole vault
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Igor TRANDENKOV,1992 Barcelona,Athletics,Men's,pole vault
+Summer,1992,Bronze,ESP,Spain,Javier GARCIA CHICO,1992 Barcelona,Athletics,Men's,pole vault
+Summer,1992,Gold,LTU,Lithuania,Romas UBARTAS,1992 Barcelona,Athletics,Men's,discus throw
+Summer,1992,Silver,GER,Germany,Jürgen SCHULT,1992 Barcelona,Athletics,Men's,discus throw
+Summer,1992,Bronze,CUB,Cuba,Roberto S. MOYA,1992 Barcelona,Athletics,Men's,discus throw
+Summer,1992,Gold,TCH,Czechoslovakia,Jan ZELEZNY,1992 Barcelona,Athletics,Men's,javelin throw
+Summer,1992,Silver,FIN,Finland,Seppo Henrik RATY,1992 Barcelona,Athletics,Men's,javelin throw
+Summer,1992,Bronze,GBR,Great Britain,Steve BACKLEY,1992 Barcelona,Athletics,Men's,javelin throw
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Andrey ABDUVALIEV,1992 Barcelona,Athletics,Men's,hammer throw
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Igor ASTAPKOVICH,1992 Barcelona,Athletics,Men's,hammer throw
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Igor NIKOULINE,1992 Barcelona,Athletics,Men's,hammer throw
+Summer,1992,Gold,USA,United States,Michael D. STULCE,1992 Barcelona,Athletics,Men's,shot put
+Summer,1992,Silver,USA,United States,James DOEHRING,1992 Barcelona,Athletics,Men's,shot put
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Viatcheslav LYKHO,1992 Barcelona,Athletics,Men's,shot put
+Summer,1992,Gold,TCH,Czechoslovakia,Robert ZMELIK,1992 Barcelona,Athletics,Men's,decathlon
+Summer,1992,Silver,ESP,Spain,Antonio PENALVER ASENSIO,1992 Barcelona,Athletics,Men's,decathlon
+Summer,1992,Bronze,USA,United States,David Allan JOHNSON,1992 Barcelona,Athletics,Men's,decathlon
+Summer,1992,Gold,USA,United States,Gail DEVERS,1992 Barcelona,Athletics,Women's,100m
+Summer,1992,Silver,JAM,Jamaica,Juliet CUTHBERT,1992 Barcelona,Athletics,Women's,100m
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Irina PRIVALOVA,1992 Barcelona,Athletics,Women's,100m
+Summer,1992,Gold,USA,United States,Gwen TORRENCE,1992 Barcelona,Athletics,Women's,200m
+Summer,1992,Silver,JAM,Jamaica,Juliet CUTHBERT,1992 Barcelona,Athletics,Women's,200m
+Summer,1992,Bronze,JAM,Jamaica,Merlene OTTEY-PAGE,1992 Barcelona,Athletics,Women's,200m
+Summer,1992,Gold,FRA,France,Marie-Jose PEREC,1992 Barcelona,Athletics,Women's,400m
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Olga BRYZGINA,1992 Barcelona,Athletics,Women's,400m
+Summer,1992,Bronze,COL,Colombia,Ximena RESTREPO GAVIRIA,1992 Barcelona,Athletics,Women's,400m
+Summer,1992,Gold,NED,Netherlands,Ellen VAN LANGEN,1992 Barcelona,Athletics,Women's,800m
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Lilia NURUTDINOVA,1992 Barcelona,Athletics,Women's,800m
+Summer,1992,Bronze,CUB,Cuba,Ana Fidelia QUIROT,1992 Barcelona,Athletics,Women's,800m
+Summer,1992,Gold,ALG,Algeria,Hassiba BOULMERKA,1992 Barcelona,Athletics,Women's,1500m
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Liudmila ROGACHEVA,1992 Barcelona,Athletics,Women's,1500m
+Summer,1992,Bronze,CHN,China,Yunxia QU,1992 Barcelona,Athletics,Women's,1500m
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Elena ROMANOVA,1992 Barcelona,Athletics,Women's,3000m
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Tatiana DOROVSKIH,1992 Barcelona,Athletics,Women's,3000m
+Summer,1992,Bronze,CAN,Canada,Angela Frances CHALMERS,1992 Barcelona,Athletics,Women's,3000m
+Summer,1992,Gold,ETH,Ethiopia,Derartu TULU,1992 Barcelona,Athletics,Women's,10000m
+Summer,1992,Silver,RSA,South Africa,Elana MEYER,1992 Barcelona,Athletics,Women's,10000m
+Summer,1992,Bronze,USA,United States,Lynn A. JENNINGS,1992 Barcelona,Athletics,Women's,10000m
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Valentina YEGOROVA,1992 Barcelona,Athletics,Women's,marathon
+Summer,1992,Silver,JPN,Japan,Yuko ARIMORI,1992 Barcelona,Athletics,Women's,marathon
+Summer,1992,Bronze,NZL,New Zealand,Lorraine Mary MOLLER,1992 Barcelona,Athletics,Women's,marathon
+Summer,1992,Gold,GRE,Greece,Paraskevi Voula PATOULIDOU,1992 Barcelona,Athletics,Women's,100m hurdles
+Summer,1992,Silver,USA,United States,La Vona Ann MARTIN,1992 Barcelona,Athletics,Women's,100m hurdles
+Summer,1992,Bronze,BUL,Bulgaria,Yordanka DONKOVA,1992 Barcelona,Athletics,Women's,100m hurdles
+Summer,1992,Gold,GBR,Great Britain,Sally Janet Jane GUNNELL,1992 Barcelona,Athletics,Women's,400m hurdles
+Summer,1992,Silver,USA,United States,Sandra FARMER-PATRICK,1992 Barcelona,Athletics,Women's,400m hurdles
+Summer,1992,Bronze,USA,United States,Janeene VICKERS,1992 Barcelona,Athletics,Women's,400m hurdles
+Summer,1992,Gold,USA,United States,"Evelyn ASHFORD, Esther JONES, Gwen TORRENCE, Carlette D. GUIDRY-WHITE, Michelle FINN",1992 Barcelona,Athletics,Women's,4x100m relay
+Summer,1992,Silver,EUN,Unified Team (ex USSR),"Irina PRIVALOVA, Olga BOGOSLOVSKAYA, Marina TRANDENKOVA, Galina MALTCHOUGUINA",1992 Barcelona,Athletics,Women's,4x100m relay
+Summer,1992,Bronze,NGR,Nigeria,"Beatrice UTONDU, Mary ONYALI, Christy Thompson OPARA-THOMPSON, Faith IDEHEN",1992 Barcelona,Athletics,Women's,4x100m relay
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Olga BRYZGINA, Olga NAZAROVA, Lilia NURUTDINOVA, Lioudmila DJIGALOVA, Yelena ROUZINA, Marina CHMONINA",1992 Barcelona,Athletics,Women's,4x400m relay
+Summer,1992,Silver,USA,United States,"Gwen TORRENCE, Rochelle STEVENS, Denean HILL, Dannette YOUNG, Jearl MILES, Natasha KAISER",1992 Barcelona,Athletics,Women's,4x400m relay
+Summer,1992,Bronze,GBR,Great Britain,"Phylis SMITH, Sandra Marie DOUGLAS, Sally Janet Jane GUNNELL, Jennifer STOUTE",1992 Barcelona,Athletics,Women's,4x400m relay
+Summer,1992,Gold,CHN,China,Yueling CHEN,1992 Barcelona,Athletics,Women's,10000m walk
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Yelena NIKOLAYEVA,1992 Barcelona,Athletics,Women's,10000m walk
+Summer,1992,Bronze,CHN,China,Chunxiu LI,1992 Barcelona,Athletics,Women's,10000m walk
+Summer,1992,Gold,GER,Germany,Heike DRECHSLER,1992 Barcelona,Athletics,Women's,long jump
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Inessa KRAVETS,1992 Barcelona,Athletics,Women's,long jump
+Summer,1992,Bronze,USA,United States,Jackie JOYNER-KERSEE,1992 Barcelona,Athletics,Women's,long jump
+Summer,1992,Gold,GER,Germany,Heike HENKEL,1992 Barcelona,Athletics,Women's,high jump
+Summer,1992,Silver,ROU,Romania,Galina ASTAFEI,1992 Barcelona,Athletics,Women's,high jump
+Summer,1992,Bronze,CUB,Cuba,Joanet QUINTERO,1992 Barcelona,Athletics,Women's,high jump
+Summer,1992,Gold,CUB,Cuba,Maritza MARTEN,1992 Barcelona,Athletics,Women's,discus throw
+Summer,1992,Silver,BUL,Bulgaria,Tzvetanka Pavlova KHRISTOVA,1992 Barcelona,Athletics,Women's,discus throw
+Summer,1992,Bronze,AUS,Australia,Daniela COSTIAN,1992 Barcelona,Athletics,Women's,discus throw
+Summer,1992,Gold,GER,Germany,Silke RENK,1992 Barcelona,Athletics,Women's,javelin throw
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Natalia SHIKOLENKO,1992 Barcelona,Athletics,Women's,javelin throw
+Summer,1992,Bronze,GER,Germany,Karen FORKEL,1992 Barcelona,Athletics,Women's,javelin throw
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Svetlana KRIVELYOVA,1992 Barcelona,Athletics,Women's,shot put
+Summer,1992,Silver,CHN,China,Zhihong HUANG,1992 Barcelona,Athletics,Women's,shot put
+Summer,1992,Bronze,GER,Germany,Kathrin NEIMKE,1992 Barcelona,Athletics,Women's,shot put
+Summer,1992,Gold,USA,United States,Jackie JOYNER-KERSEE,1992 Barcelona,Athletics,Women's,heptathlon
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Irina BELOVA,1992 Barcelona,Athletics,Women's,heptathlon
+Summer,1992,Bronze,GER,Germany,Sabine BRAUN,1992 Barcelona,Athletics,Women's,heptathlon
+Summer,1992,Gold,INA,Indonesia,Alan BUDI KUSUMA,1992 Barcelona,Badminton,Men's,singles
+Summer,1992,Silver,INA,Indonesia,Ardy Bernardus WIRANATA,1992 Barcelona,Badminton,Men's,singles
+Summer,1992,Bronze,DEN,Denmark,Thomas STUER-LAURIDSEN,1992 Barcelona,Badminton,Men's,singles
+Summer,1992,Bronze,INA,Indonesia,Hermawan SUSANTO,1992 Barcelona,Badminton,Men's,singles
+Summer,1992,Gold,INA,Indonesia,Susi SUSANTI,1992 Barcelona,Badminton,Women's,singles
+Summer,1992,Silver,KOR,Korea Republic,Soo-Hyun BANG,1992 Barcelona,Badminton,Women's,singles
+Summer,1992,Bronze,CHN,China,Hua HUANG,1992 Barcelona,Badminton,Women's,singles
+Summer,1992,Bronze,CHN,China,Jiuhong TANG,1992 Barcelona,Badminton,Women's,singles
+Summer,1992,Gold,KOR,Korea Republic,"Joo-Bong PARK, Moon-Soo KIM",1992 Barcelona,Badminton,Men's,doubles
+Summer,1992,Silver,INA,Indonesia,"Rudy GUNAWAN, Eddy HARTONO",1992 Barcelona,Badminton,Men's,doubles
+Summer,1992,Bronze,CHN,China,"Bingyi TIAN, Yongbo LI",1992 Barcelona,Badminton,Men's,doubles
+Summer,1992,Bronze,MAS,Malaysia,"Razif SIDEK, Rashid SIDEK",1992 Barcelona,Badminton,Men's,doubles
+Summer,1992,Gold,KOR,Korea Republic,"So-Young CHUNG, Hae-Young HWANG",1992 Barcelona,Badminton,Women's,doubles
+Summer,1992,Silver,CHN,China,"Qunhua NONG, Weizhen GUAN",1992 Barcelona,Badminton,Women's,doubles
+Summer,1992,Bronze,CHN,China,"Fen YAO, Yanfen LIN",1992 Barcelona,Badminton,Women's,doubles
+Summer,1992,Bronze,KOR,Korea Republic,"Eun-Jung SHIM, Young-Ah GIL",1992 Barcelona,Badminton,Women's,doubles
+Summer,1992,Gold,USA,United States,"Christian D. LAETTNER, Patrick Aloysius EWING, Karl MALONE, Larry BIRD, Michael JORDAN, Charles BARKLEY, David Maurice ROBINSON, Clyde DREXLER, John Houston STOCKTON, Scottie PIPPEN, Christopher Paul MULLIN, Earvin JOHNSON",1992 Barcelona,Basketball,Men's,basketball
+Summer,1992,Silver,CRO,Croatia,"Drazen PETROVIC, Danko CVJETICANIN, Stojko VRANKOVIC, Arijan KOMAZEC, Aramis NAGLIC, Vladan ALANOVIC, Velimir PERASOVIC, Zan TABAK, Alan GREGOV, Dino RADJA, Toni KUKOC, Franjo ARAPOVIC",1992 Barcelona,Basketball,Men's,basketball
+Summer,1992,Bronze,LTU,Lithuania,"Valdemaras CHOMICIUS, Arunas VISOCKAS, Arvydas SABONIS, Darius DIMAVICIUS, Gintaras KRAPIKAS, Gintaras EINIKIS, Alvydas PAZDRAZDIS, Rimas KURTINAITIS, Arturas KARNISOVAS, Romanas BRAZDAUSKIS, Sarunas MARCIULIONIS, Sergejus JOVAISA",1992 Barcelona,Basketball,Men's,basketball
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Elena TORNIKIDOU, Marina TKACHENKO, Natalia ZASSOULSKAIA, Elena ZHIRKO, Irina GERLITS, Elena KHOUDACHOVA, Elena CHVAIBOVITCH, Elen BOUNATIANTS, Svetlana ZABOLOUEVA, Elena BARANOVA, Irina MINKH, Irina SOUMNIKOVA",1992 Barcelona,Basketball,Women's,basketball
+Summer,1992,Silver,CHN,China,"Xuedi CONG, Jun LIU, Haixia ZHENG, Fang WANG, Jun HE, Qing LIU, Xin LI, Ping PENG, Xiulin ZHENG, Dongmei ZHENG, Dongmei LI, Shuping ZHAN",1992 Barcelona,Basketball,Women's,basketball
+Summer,1992,Bronze,USA,United States,"Teresa WEATHERSPOON, Victoria ORR, Teresa EDWARDS, Clarissa DAVIS, Carolyn JONES, Medina DIXON, Suzanne MCCONNELL, Tammy JACKSON, Daedra CHARLES, Victoria BULLETT, Katrina Felicia MCCLAIN, Cynthia COOPER",1992 Barcelona,Basketball,Women's,basketball
+Summer,1992,Gold,CUB,Cuba,Rogelio MARCELO GARCIA,1992 Barcelona,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1992,Silver,BUL,Bulgaria,Daniel Petrov BOJINOV,1992 Barcelona,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1992,Bronze,GER,Germany,Jan QUAST,1992 Barcelona,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1992,Bronze,PHI,Philippines,Roel VELASCO,1992 Barcelona,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1992,Gold,PRK,Korea DPR,Chol Su CHOI,1992 Barcelona,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1992,Silver,CUB,Cuba,Raul GONZALEZ SANCHEZ,1992 Barcelona,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1992,Bronze,HUN,Hungary,Istvan KOVACS,1992 Barcelona,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1992,Bronze,USA,United States,Timothy AUSTIN,1992 Barcelona,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1992,Gold,CUB,Cuba,Joel CASAMAYOR JOHNSON,1992 Barcelona,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1992,Silver,IRL,Ireland,Wayne MCCULLOUGH,1992 Barcelona,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1992,Bronze,PRK,Korea DPR,Gwang Sik LI,1992 Barcelona,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1992,Bronze,MAR,Morocco,Mohamed ACHIK,1992 Barcelona,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1992,Gold,GER,Germany,Andreas TEWS,1992 Barcelona,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1992,Silver,ESP,Spain,Faustino REYES LOPEZ,1992 Barcelona,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1992,Bronze,ALG,Algeria,Hocine SOLTANI,1992 Barcelona,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Ramazi PALIANI,1992 Barcelona,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1992,Gold,USA,United States,Oscar DE LA HOYA,1992 Barcelona,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1992,Silver,GER,Germany,Marco RUDOLPH,1992 Barcelona,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1992,Bronze,KOR,Korea Republic,Sung Sik HONG,1992 Barcelona,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1992,Bronze,MGL,Mongolia,Namjil BAYARSAIKHAN,1992 Barcelona,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1992,Gold,CUB,Cuba,Hector VINENT,1992 Barcelona,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1992,Silver,CAN,Canada,Mark LEDUC,1992 Barcelona,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1992,Bronze,FIN,Finland,Jyri Göran KJALL,1992 Barcelona,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1992,Bronze,ROU,Romania,Leonard Dorin DOROFTEI,1992 Barcelona,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1992,Gold,IRL,Ireland,Michael CARRUTH,1992 Barcelona,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1992,Silver,CUB,Cuba,Juan HERNANDEZ SIERRA,1992 Barcelona,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1992,Bronze,PUR,Puerto Rico,Anibal ACEVEDO SANTIAGO,1992 Barcelona,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1992,Bronze,THA,Thailand,Arkom CHENGLAI,1992 Barcelona,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1992,Gold,CUB,Cuba,Juan Carlos LEMUS GARCIA,1992 Barcelona,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1992,Silver,NED,Netherlands,Orhan DELIBAS,1992 Barcelona,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1992,Bronze,GBR,Great Britain,Robin David REID,1992 Barcelona,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1992,Bronze,HUN,Hungary,Gyorgy MIZSEI,1992 Barcelona,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1992,Gold,CUB,Cuba,Ariel HERNANDEZ ASCUY,1992 Barcelona,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1992,Silver,USA,United States,Christopher BYRD,1992 Barcelona,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1992,Bronze,CAN,Canada,Christopher JOHNSON,1992 Barcelona,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1992,Bronze,KOR,Korea Republic,Seung Bae LEE,1992 Barcelona,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1992,Gold,GER,Germany,Torsten MAY,1992 Barcelona,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Rostislav ZAOULITCHNI,1992 Barcelona,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1992,Bronze,HUN,Hungary,Zoltan BERES,1992 Barcelona,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1992,Bronze,POL,Poland,Wojciech BARTNIK,1992 Barcelona,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1992,Gold,CUB,Cuba,Felix SAVON,1992 Barcelona,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1992,Silver,NGR,Nigeria,David IZONRITEI,1992 Barcelona,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1992,Bronze,NED,Netherlands,Arnold VANDERLIJDE,1992 Barcelona,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1992,Bronze,NZL,New Zealand,David TUA,1992 Barcelona,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1992,Gold,CUB,Cuba,Roberto BALADO MENDEZ,1992 Barcelona,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1992,Silver,NGR,Nigeria,Richard IGBINEGHU,1992 Barcelona,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1992,Bronze,BUL,Bulgaria,Svilen Aldinov ROUSSINOV,1992 Barcelona,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1992,Bronze,DEN,Denmark,Brian NIELSEN,1992 Barcelona,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1992,Gold,ITA,Italy,Pierpaolo FERRAZZI,1992 Barcelona,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1992,Silver,FRA,France,Sylvain CURINIER,1992 Barcelona,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1992,Bronze,GER,Germany,Jochen LETTMANN,1992 Barcelona,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1992,Gold,TCH,Czechoslovakia,Lukas POLLERT,1992 Barcelona,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1992,Silver,GBR,Great Britain,Gareth John MARRIOTT,1992 Barcelona,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1992,Bronze,FRA,France,Jacky AVRIL,1992 Barcelona,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1992,Gold,USA,United States,"Scott STRAUSBAUGH, Joe JACOBI",1992 Barcelona,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1992,Silver,TCH,Czechoslovakia,"Miroslav SIMEK, Jiri ROHAN",1992 Barcelona,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1992,Bronze,FRA,France,"Franck ADISSON, Wilfrid FORGUES",1992 Barcelona,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1992,Gold,GER,Germany,Elisabeth MICHELER-JONES,1992 Barcelona,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1992,Silver,AUS,Australia,Danielle Anne WOODWARD,1992 Barcelona,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1992,Bronze,USA,United States,Dana CHLADEK,1992 Barcelona,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1992,Gold,FIN,Finland,Mikko Yrjö KOLEHMAINEN,1992 Barcelona,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1992,Silver,HUN,Hungary,Zsolt GYULAY,1992 Barcelona,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1992,Bronze,NOR,Norway,Knut HOLMANN,1992 Barcelona,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1992,Gold,GER,Germany,"Torsten Rene GUTSCHE, Kay BLUHM",1992 Barcelona,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1992,Silver,POL,Poland,"Wojciech KURPIEWSKI, Maciej FREIMUT",1992 Barcelona,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1992,Bronze,ITA,Italy,"Antonio ROSSI, Bruno DREOSSI",1992 Barcelona,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1992,Gold,AUS,Australia,Clint ROBINSON,1992 Barcelona,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1992,Silver,NOR,Norway,Knut HOLMANN,1992 Barcelona,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1992,Bronze,USA,United States,Gregory Mark BARTON,1992 Barcelona,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1992,Gold,GER,Germany,"Kay BLUHM, Torsten Rene GUTSCHE",1992 Barcelona,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1992,Silver,SWE,Sweden,"Gunnar OLSSON, Karl SUNDQVIST",1992 Barcelona,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1992,Bronze,POL,Poland,"Dariusz BIALKOWSKI, Grzegorz KOTOWICZ",1992 Barcelona,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1992,Gold,GER,Germany,"Oliver Michael KEGEL, Andre Gerhard WOHLLEBE, Mario VON APPEN, Thomas REINECK",1992 Barcelona,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1992,Silver,HUN,Hungary,"Laszlo FIDEL, Zsolt GYULAY, Attila ABRAHAM, Ferenc CSIPES",1992 Barcelona,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1992,Bronze,AUS,Australia,"Kelvin John GRAHAM, Steven Michael WOOD, Ramon Dean ANDERSSON, Ian Mark ROWLING",1992 Barcelona,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1992,Gold,BUL,Bulgaria,Nikolai Petkov BUKHALOV,1992 Barcelona,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Michal SLIWINSKI,1992 Barcelona,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1992,Bronze,GER,Germany,Olaf HEUKRODT,1992 Barcelona,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Dmitri DOVGALYONOK, Alexandre MASSEIKOV",1992 Barcelona,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1992,Silver,GER,Germany,"Ulrich PAPKE, Ingo SPELLY",1992 Barcelona,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1992,Bronze,BUL,Bulgaria,"Martin Guerguiev MARINOV, Blagovest Nikolov STOYANOV",1992 Barcelona,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1992,Gold,BUL,Bulgaria,Nikolai Petkov BUKHALOV,1992 Barcelona,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1992,Silver,LAT,Latvia,Ivans KLEMENTYEV,1992 Barcelona,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1992,Bronze,HUN,Hungary,Gyorgy ZALA,1992 Barcelona,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1992,Gold,GER,Germany,"Ulrich PAPKE, Ingo SPELLY",1992 Barcelona,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1992,Silver,DEN,Denmark,"Christian Wigeo FREDERIKSEN, Arne NIELSSON",1992 Barcelona,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1992,Bronze,FRA,France,"Didier HOYER, Olivier BOIVIN",1992 Barcelona,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1992,Gold,GER,Germany,Birgit FISCHER,1992 Barcelona,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1992,Silver,HUN,Hungary,Rita KOBAN,1992 Barcelona,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1992,Bronze,POL,Poland,Izabella DYLEWSKA-SWIATOWIAK,1992 Barcelona,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1992,Gold,GER,Germany,"Ramona PORTWICH, Anke VON SECK",1992 Barcelona,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1992,Silver,SWE,Sweden,"Agneta ANDERSSON, Susanne GUNNARSSON",1992 Barcelona,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1992,Bronze,HUN,Hungary,"Rita KOBAN, Eva DONUSZ",1992 Barcelona,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1992,Gold,HUN,Hungary,"Rita KOBAN, Erika MESZAROS, Eva DONUSZ, Kinga CZIGANY",1992 Barcelona,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1992,Silver,GER,Germany,"Birgit FISCHER, Katrin BORCHERT, Anke VON SECK, Ramona PORTWICH",1992 Barcelona,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1992,Bronze,SWE,Sweden,"Anna OLSSON, Maria HAGLUND, Agneta ANDERSSON, Susanne ROSENQVIST",1992 Barcelona,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1992,Gold,ITA,Italy,Fabio CASARTELLI,1992 Barcelona,Cycling Road,Men's,individual road race
+Summer,1992,Silver,NED,Netherlands,Erik DEKKER,1992 Barcelona,Cycling Road,Men's,individual road race
+Summer,1992,Bronze,LAT,Latvia,Dainis OZOLS,1992 Barcelona,Cycling Road,Men's,individual road race
+Summer,1992,Gold,GER,Germany,"Christian MEYER, Michael RICH, Bernd DITTERT, Uwe PESCHEL",1992 Barcelona,Cycling Road,Men's,team time trial
+Summer,1992,Silver,ITA,Italy,"Andrea PERON, Luca COLOMBO, Gianfranco CONTRI, Flavio ANASTASIA",1992 Barcelona,Cycling Road,Men's,team time trial
+Summer,1992,Bronze,FRA,France,"Didier FAIVRE-PIERRET, Jean-Louis HAREL, Herve BOUSSARD, Philippe GAUMONT",1992 Barcelona,Cycling Road,Men's,team time trial
+Summer,1992,Gold,AUS,Australia,Kathryn Anne WATT,1992 Barcelona,Cycling Road,Women's,individual road race
+Summer,1992,Silver,FRA,France,Jeannie LONGO-CIPRELLI,1992 Barcelona,Cycling Road,Women's,individual road race
+Summer,1992,Bronze,NED,Netherlands,Monique KNOL,1992 Barcelona,Cycling Road,Women's,individual road race
+Summer,1992,Gold,GBR,Great Britain,Christopher Miles BOARDMAN,1992 Barcelona,Cycling Track,Men's,individual pursuit
+Summer,1992,Silver,GER,Germany,Jens LEHMANN,1992 Barcelona,Cycling Track,Men's,individual pursuit
+Summer,1992,Bronze,NZL,New Zealand,Gary John ANDERSON,1992 Barcelona,Cycling Track,Men's,individual pursuit
+Summer,1992,Gold,GER,Germany,"Michael GLÖCKNER, Stefan STEINWEG, Guido FULST, Jens LEHMANN, Andreas WALZER",1992 Barcelona,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1992,Silver,AUS,Australia,"Stephen John MCGLEDE, Stuart O'GRADY, Brett AITKEN, Shaun William O'BRIEN",1992 Barcelona,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1992,Bronze,DEN,Denmark,"Jimmi MADSEN, Klaus Kynde NILSEN, Ken FROST, Jan Bo PETERSEN, Michael SANDSTOD",1992 Barcelona,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1992,Gold,ESP,Spain,Jose Manuel MORENO PERINAN,1992 Barcelona,Cycling Track,Men's,1km time trial
+Summer,1992,Silver,AUS,Australia,Shane KELLY,1992 Barcelona,Cycling Track,Men's,1km time trial
+Summer,1992,Bronze,USA,United States,Erin W. HARTWELL,1992 Barcelona,Cycling Track,Men's,1km time trial
+Summer,1992,Gold,ITA,Italy,Giovanni LOMBARDI,1992 Barcelona,Cycling Track,Men's,points race
+Summer,1992,Silver,NED,Netherlands,Leon VAN BON,1992 Barcelona,Cycling Track,Men's,points race
+Summer,1992,Bronze,BEL,Belgium,Cedric MATHY,1992 Barcelona,Cycling Track,Men's,points race
+Summer,1992,Gold,GER,Germany,Jens FIEDLER,1992 Barcelona,Cycling Track,Men's,sprint individual
+Summer,1992,Silver,AUS,Australia,Garry Malcolm NEIWAND,1992 Barcelona,Cycling Track,Men's,sprint individual
+Summer,1992,Bronze,CAN,Canada,Curtis HARNETT,1992 Barcelona,Cycling Track,Men's,sprint individual
+Summer,1992,Gold,GER,Germany,Petra ROSSNER,1992 Barcelona,Cycling Track,Women's,individual pursuit
+Summer,1992,Silver,AUS,Australia,Kathryn Anne WATT,1992 Barcelona,Cycling Track,Women's,individual pursuit
+Summer,1992,Bronze,USA,United States,Rebecca Lynne TWIGG,1992 Barcelona,Cycling Track,Women's,individual pursuit
+Summer,1992,Gold,EST,Estonia,Erika SALUMAE,1992 Barcelona,Cycling Track,Women's,sprint individual
+Summer,1992,Silver,GER,Germany,Annett NEUMANN,1992 Barcelona,Cycling Track,Women's,sprint individual
+Summer,1992,Bronze,NED,Netherlands,Ingrid HARINGA,1992 Barcelona,Cycling Track,Women's,sprint individual
+Summer,1992,Gold,CHN,China,Shuwei SUN,1992 Barcelona,Diving,Men's,10m platform
+Summer,1992,Silver,USA,United States,Scott R. DONIE,1992 Barcelona,Diving,Men's,10m platform
+Summer,1992,Bronze,CHN,China,Ni XIONG,1992 Barcelona,Diving,Men's,10m platform
+Summer,1992,Gold,USA,United States,Mark Edward LENZI,1992 Barcelona,Diving,Men's,3m springboard
+Summer,1992,Silver,CHN,China,Liang-De TAN,1992 Barcelona,Diving,Men's,3m springboard
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Dmitry SAUTIN,1992 Barcelona,Diving,Men's,3m springboard
+Summer,1992,Gold,CHN,China,Mingxia FU,1992 Barcelona,Diving,Women's,10m platform
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Elena MIROCHINA,1992 Barcelona,Diving,Women's,10m platform
+Summer,1992,Bronze,USA,United States,Mary Ellen CLARK,1992 Barcelona,Diving,Women's,10m platform
+Summer,1992,Gold,CHN,China,Min GAO,1992 Barcelona,Diving,Women's,3m springboard
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Irina LACHKO,1992 Barcelona,Diving,Women's,3m springboard
+Summer,1992,Bronze,GER,Germany,Brita Pia BALDUS,1992 Barcelona,Diving,Women's,3m springboard
+Summer,1992,Gold,GER,Germany,"REMBRANDT, Nicole UPHOFF-BECKER",1992 Barcelona,Equestrian Dressage,Mixed,individual
+Summer,1992,Silver,GER,Germany,"GIGOLO, Isabell WERTH",1992 Barcelona,Equestrian Dressage,Mixed,individual
+Summer,1992,Bronze,GER,Germany,"GOLDSTERN, Klaus BALKENHOL",1992 Barcelona,Equestrian Dressage,Mixed,individual
+Summer,1992,Gold,GER,Germany,"REMBRANDT, GRUNOX, GOLDSTERN, GIGOLO, Nicole UPHOFF-BECKER, Monica TEODORESCU, Klaus BALKENHOL, Isabell WERTH",1992 Barcelona,Equestrian Dressage,Mixed,team
+Summer,1992,Silver,NED,Netherlands,"OLYMPIC BONFIRE, OLYMPIC COURAGE, OLYMPIC LARIUS, OLYMPIC MONTREU, Anky VAN GRUNSVEN, Maria Anna BARTELS DE VRIES, Ellen BONTJE, Annemarie SANDERS-KEYZER",1992 Barcelona,Equestrian Dressage,Mixed,team
+Summer,1992,Bronze,USA,United States,"GRAF GEORGE, LECTRON, GIFTED, MONSIEUR, Michael POULIN, Robert Jeffrey DOVER, Carol LAVELL, Charlotte BREDAHL",1992 Barcelona,Equestrian Dressage,Mixed,team
+Summer,1992,Gold,AUS,Australia,"KIBAH TIC TOC, Matthew Morgan RYAN",1992 Barcelona,Equestrian Eventing,Mixed,individual
+Summer,1992,Silver,GER,Germany,"FEINE DAME, Herbert BLÖCKER",1992 Barcelona,Equestrian Eventing,Mixed,individual
+Summer,1992,Bronze,NZL,New Zealand,"MESSIAH, Blyth TAIT",1992 Barcelona,Equestrian Eventing,Mixed,individual
+Summer,1992,Gold,AUS,Australia,"DUNCAN II, PEPPERMINT GROV, KIBAH TIC TOC, KIWI, David Michael GREEN, Gillian ROLTON, Matthew Morgan RYAN, Andrew HOY",1992 Barcelona,Equestrian Eventing,Mixed,team
+Summer,1992,Silver,NZL,New Zealand,"SPINNING RHOMBU, MESSIAH, WELTON GREYLAG, CHIEF, Andrew NICHOLSON, Blyth TAIT, Mark TODD, Victoria Jean LATTA",1992 Barcelona,Equestrian Eventing,Mixed,team
+Summer,1992,Bronze,GER,Germany,"RICARDO, KILDARE, FEINE DAME, ALABASTER, Cord Hermann MYSEGAES, Ralf EHRENBRINK, Herbert BLÖCKER, Matthias Andreas BAUMANN",1992 Barcelona,Equestrian Eventing,Mixed,team
+Summer,1992,Gold,GER,Germany,"CLASSIC TOUCH, Ludger BEERBAUM",1992 Barcelona,Equestrian Jumping,Mixed,individual
+Summer,1992,Silver,NED,Netherlands,"RATINA Z, Piet RAYMAKERS",1992 Barcelona,Equestrian Jumping,Mixed,individual
+Summer,1992,Bronze,USA,United States,"IRISH, Norman DELLO JOIO",1992 Barcelona,Equestrian Jumping,Mixed,individual
+Summer,1992,Gold,NED,Netherlands,"RATINA Z, WALDO E, EGANO, TOP GUN, Piet RAYMAKERS, Bert ROMP, Jos LANSINK, Jan TOPS",1992 Barcelona,Equestrian Jumping,Mixed,team
+Summer,1992,Silver,AUT,Austria,"Hugo SIMON, Thomas FRUHMANN, Joerg MUNZNER, LOVE ME TENDER, APRICOT D, GENIUS, GRAF GRANDE, Boris BOOR",1992 Barcelona,Equestrian Jumping,Mixed,team
+Summer,1992,Bronze,FRA,France,"Hubert BOURDY, Michel ROBERT, Eric NAVET, Herve GODIGNON, RAZZIA DU PONCEL, NONIX, QUITO DE BAUSSY, QUIDAM DE REVEL",1992 Barcelona,Equestrian Jumping,Mixed,team
+Summer,1992,Gold,FRA,France,Eric SRECKI,1992 Barcelona,Fencing,Men's,épée individual
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Pavel KOLOBKOV,1992 Barcelona,Fencing,Men's,épée individual
+Summer,1992,Bronze,FRA,France,Jean-Michel HENRY,1992 Barcelona,Fencing,Men's,épée individual
+Summer,1992,Gold,GER,Germany,"Robert FELISIAK, Uwe Gerhard PROSKE, Elmar BORRMANN, Arnd Rüdiger SCHMITT, Vladimir REZNITCHENKO",1992 Barcelona,Fencing,Men's,épée team
+Summer,1992,Silver,HUN,Hungary,"Ivan KOVACS, Ferenc HEGEDUS, Gabor TOTOLA, Krisztian KULCSAR, Erno KOLCZONAI",1992 Barcelona,Fencing,Men's,épée team
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),"Serguei KOSTAREV, Andrei CHOUVALOV, Valeri ZAKHAREVITCH, Pavel KOLOBKOV, Serguei KRAVTCHOUK",1992 Barcelona,Fencing,Men's,épée team
+Summer,1992,Gold,FRA,France,Philippe OMNES,1992 Barcelona,Fencing,Men's,foil individual
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Serguei GOLUBYTSKY,1992 Barcelona,Fencing,Men's,foil individual
+Summer,1992,Bronze,CUB,Cuba,Elvis GREGORY,1992 Barcelona,Fencing,Men's,foil individual
+Summer,1992,Gold,GER,Germany,"Ulrich Rainer SCHRECK, Alexander KOCH, Udo WAGNER, Thorsten WEIDNER, Ingo WEISSENBORN",1992 Barcelona,Fencing,Men's,foil team
+Summer,1992,Silver,CUB,Cuba,"Elvis GREGORY, Oscar GARCIA PEREZ, Hermenegildo GARCIA MARTURELL, Guillermo BETANCOURT SCULL, Tulio DIAZ BABIER",1992 Barcelona,Fencing,Men's,foil team
+Summer,1992,Bronze,POL,Poland,"Piotr KIELPIKOWSKI, Cezary SIESS, Marian SYPNIEWSKI, Adam KRZESINSKI, Ryszard SOBCZAK",1992 Barcelona,Fencing,Men's,foil team
+Summer,1992,Gold,HUN,Hungary,Bence SZABO,1992 Barcelona,Fencing,Men's,sabre individual
+Summer,1992,Silver,ITA,Italy,Marco MARIN,1992 Barcelona,Fencing,Men's,sabre individual
+Summer,1992,Bronze,FRA,France,Jean-Francois LAMOUR,1992 Barcelona,Fencing,Men's,sabre individual
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Aleksander CHIRCHOV, Vadim GUTTSAYT, Grigorii KIRIYENKO, Gueorgui POGOSSOV, Stanislav POZDNYAKOV",1992 Barcelona,Fencing,Men's,sabre team
+Summer,1992,Silver,HUN,Hungary,"Bence SZABO, György NEBALD, Imre BUJDOSO, Csaba KOVES, Peter ABAY",1992 Barcelona,Fencing,Men's,sabre team
+Summer,1992,Bronze,FRA,France,"Jean-Philippe DAURELLE, Herve GRANGER-VEYRON, Jean-Francois LAMOUR, Franck DUCHEIX, Pierre GUICHOT",1992 Barcelona,Fencing,Men's,sabre team
+Summer,1992,Gold,ITA,Italy,Giovanna TRILLINI,1992 Barcelona,Fencing,Women's,foil individual
+Summer,1992,Silver,CHN,China,Huifeng WANG,1992 Barcelona,Fencing,Women's,foil individual
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Tatiana SADOVSKAIA,1992 Barcelona,Fencing,Women's,foil individual
+Summer,1992,Gold,ITA,Italy,"Margherita ZALAFFI, Diana BIANCHEDI, Giovanna TRILLINI, Francesca BORTOLOZZI BORELLA, Dorina VACCARONI",1992 Barcelona,Fencing,Women's,foil team
+Summer,1992,Silver,GER,Germany,"Sabine Christiane BAU, Annette DOBMEIER, Monika WEBER-KOSZTO, Zita-Eva FUNKENHAUSER, Anja FICHTEL-MAURITZ",1992 Barcelona,Fencing,Women's,foil team
+Summer,1992,Bronze,ROU,Romania,"Claudia Laura GRIGORESCU, Laura Gabriela CARLESCU BADEA, Reka Zsofia SZABO-LAZAR, Elisabeta TUFAN, Roxana Daniela DUMITRESCU",1992 Barcelona,Fencing,Women's,foil team
+Summer,1992,Gold,ESP,Spain,"Quico NARVAEZ, Miguel Hernández, Antonio Pinilla, Gabriel Vidal, Paqui, Albert FERRER LLOPIS, Roberto SOLOZABAL VILLANUEVA, Josep GUARDIOLA SALA, Abelardo FERNANDEZ ANTUÑA, Alfonso PEREZ MUÑOZ, Jose AMAVISCA GARATE, Santiago Cañizares, Javier Manjarín, Francisco Soler, David Villabona, Mikel LASA GOICOECHEA, Luis Enrique MARTINEZ GARCIA, Antonio JIMENEZ SISTACHS, Juan LOPEZ MARTINEZ, Rafael BERGES MARIN",1992 Barcelona,Football,Men's,football
+Summer,1992,Silver,POL,Poland,"Marcin JALOCHA, Dariusz GESIOR, Jerzy BRZECZEK, Wojciech KOWALCZYK, Tomasz WALDOCH, Andrzej KOBYLANSKI, Marek Bajor, Mirosław Waligóra, Arkadiusz Onyszko, Tomasz Wieszczycki, Aleksander KLAK, Tomasz LAPINSKI, Piotr SWIERCZEWSKI, Andrzej JUSKOWIAK, Marek KOZMINSKI, Ryszard STANIEK, Dariusz Adamczuk, Grzegorz Mielcarski, Dariusz Koseła, Dariusz Szubert",1992 Barcelona,Football,Men's,football
+Summer,1992,Bronze,GHA,Ghana,"Oli Rahman, Simon Addo, Maxwell Konadu, Isaac Asare, Nii Lamptey, Kwame Ayew, Mohammed Kalilu, Samuel Osei Kuffour, Anthony Mensah, Yaw Preko, Shamo Quaye, Joachin Yaw Acheampong, Sammi Adjei, Mamood Amadu, Frank Amankwah, Bernard Aryee, Mohammed Gargo, Ibrahim Dossey, Samuel Kumah, Alex Nyarko",1992 Barcelona,Football,Men's,football
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Valeri BELENKI, Vitaly SCHERBO, Grigori MISUTIN, Roustam SHARIPOV, Igor KOROBCHINSKI, Aleksei VOROPAEV",1992 Barcelona,Gymnastics Artistic,Men's,team competition
+Summer,1992,Silver,CHN,China,"Linyao GUO, Dashuang LI, Jing LI, Chunyang LI, Ge LI, Xiaosahuang LI",1992 Barcelona,Gymnastics Artistic,Men's,team competition
+Summer,1992,Bronze,JPN,Japan,"Yukio IKETANI, Daisuke NISHIKAWA, Yutaka AIHARA, Yoshiaki HATAKEDA, Masayuki MATSUNAGA, Takashi CHINEN",1992 Barcelona,Gymnastics Artistic,Men's,team competition
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Vitaly SCHERBO,1992 Barcelona,Gymnastics Artistic,Men's,individual all-round
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Grigori MISUTIN,1992 Barcelona,Gymnastics Artistic,Men's,individual all-round
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Valeri BELENKI,1992 Barcelona,Gymnastics Artistic,Men's,individual all-round
+Summer,1992,Gold,CHN,China,Xiaosahuang LI,1992 Barcelona,Gymnastics Artistic,Men's,floor exercises
+Summer,1992,Silver,JPN,Japan,Yukio IKETANI,1992 Barcelona,Gymnastics Artistic,Men's,floor exercises
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Grigori MISUTIN,1992 Barcelona,Gymnastics Artistic,Men's,floor exercises
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Vitaly SCHERBO,1992 Barcelona,Gymnastics Artistic,Men's,parallel bars
+Summer,1992,Silver,CHN,China,Jing LI,1992 Barcelona,Gymnastics Artistic,Men's,parallel bars
+Summer,1992,Bronze,CHN,China,Linyao GUO,1992 Barcelona,Gymnastics Artistic,Men's,parallel bars
+Summer,1992,Bronze,JPN,Japan,Masayuki MATSUNAGA,1992 Barcelona,Gymnastics Artistic,Men's,parallel bars
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Igor KOROBCHINSKI,1992 Barcelona,Gymnastics Artistic,Men's,parallel bars
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Vitaly SCHERBO,1992 Barcelona,Gymnastics Artistic,Men's,vault
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Grigori MISUTIN,1992 Barcelona,Gymnastics Artistic,Men's,vault
+Summer,1992,Bronze,KOR,Korea Republic,Ok Ryul YOO,1992 Barcelona,Gymnastics Artistic,Men's,vault
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Vitaly SCHERBO,1992 Barcelona,Gymnastics Artistic,Men's,rings
+Summer,1992,Silver,CHN,China,Jing LI,1992 Barcelona,Gymnastics Artistic,Men's,rings
+Summer,1992,Bronze,CHN,China,Xiaosahuang LI,1992 Barcelona,Gymnastics Artistic,Men's,rings
+Summer,1992,Bronze,GER,Germany,Andreas WECKER,1992 Barcelona,Gymnastics Artistic,Men's,rings
+Summer,1992,Gold,PRK,Korea DPR,Gil-Su PAE,1992 Barcelona,Gymnastics Artistic,Men's,pommel horse
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Vitaly SCHERBO,1992 Barcelona,Gymnastics Artistic,Men's,pommel horse
+Summer,1992,Bronze,GER,Germany,Andreas WECKER,1992 Barcelona,Gymnastics Artistic,Men's,pommel horse
+Summer,1992,Gold,USA,United States,Trent DIMAS,1992 Barcelona,Gymnastics Artistic,Men's,horizontal bar
+Summer,1992,Silver,GER,Germany,Andreas WECKER,1992 Barcelona,Gymnastics Artistic,Men's,horizontal bar
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Grigori MISUTIN,1992 Barcelona,Gymnastics Artistic,Men's,horizontal bar
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Roza GALIEVA, Elena GROUDNEVA, Oxana. CHUSOVITINA, Svetlana BOGUINSKAIA, Tatiana GOUTSOU, Tatiana LYSSENKO",1992 Barcelona,Gymnastics Artistic,Women's,team competition
+Summer,1992,Silver,ROU,Romania,"Gina Elena GOGEAN, Lavinia Corina MILOSOVICI, Mirela Ana PASCA, Vanda Maria HADAREAN, Maria NECULITA, Cristina BONTAS",1992 Barcelona,Gymnastics Artistic,Women's,team competition
+Summer,1992,Bronze,USA,United States,"Dominique DAWES, Betty OKINO, Kim ZMESKAL, Wendy BRUCE, Shannon MILLER, Kerri STRUG",1992 Barcelona,Gymnastics Artistic,Women's,team competition
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Tatiana GOUTSOU,1992 Barcelona,Gymnastics Artistic,Women's,individual all-round
+Summer,1992,Silver,USA,United States,Shannon MILLER,1992 Barcelona,Gymnastics Artistic,Women's,individual all-round
+Summer,1992,Bronze,ROU,Romania,Lavinia Corina MILOSOVICI,1992 Barcelona,Gymnastics Artistic,Women's,individual all-round
+Summer,1992,Gold,ROU,Romania,Lavinia Corina MILOSOVICI,1992 Barcelona,Gymnastics Artistic,Women's,floor exercises
+Summer,1992,Silver,HUN,Hungary,Henrietta ONODI,1992 Barcelona,Gymnastics Artistic,Women's,floor exercises
+Summer,1992,Bronze,ROU,Romania,Cristina BONTAS,1992 Barcelona,Gymnastics Artistic,Women's,floor exercises
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Tatiana GOUTSOU,1992 Barcelona,Gymnastics Artistic,Women's,floor exercises
+Summer,1992,Bronze,USA,United States,Shannon MILLER,1992 Barcelona,Gymnastics Artistic,Women's,floor exercises
+Summer,1992,Gold,CHN,China,Li LU,1992 Barcelona,Gymnastics Artistic,Women's,uneven bars
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Tatiana GOUTSOU,1992 Barcelona,Gymnastics Artistic,Women's,uneven bars
+Summer,1992,Bronze,USA,United States,Shannon MILLER,1992 Barcelona,Gymnastics Artistic,Women's,uneven bars
+Summer,1992,Gold,HUN,Hungary,Henrietta ONODI,1992 Barcelona,Gymnastics Artistic,Women's,vault
+Summer,1992,Gold,ROU,Romania,Lavinia Corina MILOSOVICI,1992 Barcelona,Gymnastics Artistic,Women's,vault
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Tatiana LYSSENKO,1992 Barcelona,Gymnastics Artistic,Women's,vault
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Tatiana LYSSENKO,1992 Barcelona,Gymnastics Artistic,Women's,balance beam
+Summer,1992,Silver,CHN,China,Li LU,1992 Barcelona,Gymnastics Artistic,Women's,balance beam
+Summer,1992,Silver,USA,United States,Shannon MILLER,1992 Barcelona,Gymnastics Artistic,Women's,balance beam
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Alexandra TIMOSHENKO,1992 Barcelona,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1992,Silver,ESP,Spain,Carolina PASCUAL GRACIA,1992 Barcelona,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Oksana SKALDINA,1992 Barcelona,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Andrey LAVROV, Yuri GAVRILOV, Valeri GOPINE, Talant DOUICHEBAEV, Oleg KISSELEV, Andrei BARBACHINSKI, -? Андрей Миневский, -? Дмитрий Филиппов, Igor VASSILIEV, Serguei BEBECHKO, Vassili KOUDINOV, Mikhail IAKIMOVITCH, Igor TCHOUMAK, Oleg GREBNEV, -? Вячеслав Горпишин",1992 Barcelona,Handball,Men's,handball
+Summer,1992,Silver,SWE,Sweden,"Magnus ANDERSSON, Anders BACKEGREN, Tomas SVENSSON, Robert HEDIN, Ola LINDGREN, Erik HAJAS, Axel SJOEBLAD, Patrik LILJESTRAND, Tommy SUORANIEMI, Robert ANDERSSON, Mats OLSSON, Magnus WISLANDER, Per CARLEM, Magnus CATO, Pierre THORSSON, Staffan OLSSON",1992 Barcelona,Handball,Men's,handball
+Summer,1992,Bronze,FRA,France,"Pascal MAHE, Denis LATHOUD, Alain PORTES, Jean-Luc THIEBAUT, Thierry PERREUX, Frederic PEREZ, Stephane STOECKLIN, Gael MONTHUREL, Philippe MEDARD, Philippe DEBUREAU, Denis TRISTANT, Eric QUINTIN, Philippe GARDENT, Laurent MUNIER, Jackson RICHARDSON, Frederic VOLLE",1992 Barcelona,Handball,Men's,handball
+Summer,1992,Gold,KOR,Korea Republic,"Hyang-Ja MOON, Ho-Youn LEE, Mi-Young LEE, O Kyeong LIM, Jeong-Lim PARK, Hwa-Sook KIM, Jae-Kyung CHA, Eun-Young NAM, Seongok OH, Jeong-Ho HONG, Hye-Sook MIN, Ri-Ra JANG, Kap-Sook PARK",1992 Barcelona,Handball,Women's,handball
+Summer,1992,Silver,NOR,Norway,"Siri EFTEDAL, Heidi Maire TJUGUM, Heidi SUNDAL, Cathrine SVENDSEN, Henriette HENRIKSEN, Karin PETTERSEN, Kristine DUVHOLT, Tonje SAGSTUEN, Hege Kirsti FROSETH, Hanne HOGNESS, Susann GOKSOR, Mona DAHLE, Ingrid STEEN, Annette SKOTVOLL",1992 Barcelona,Handball,Women's,handball
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),"Natalia DERIOUGUINA, Tatiana GORB, Tatiana DJANDJGAVA, Natalia MORSKOVA, Svetlana PRIAHINA, ? Раиса Вераксо, Galina BORZENKOVA, Galina ONOPRIENKO, Elina GOUSSEVA, Marina BAZANOVA, Lioudmila GOUDZ, Natalya ANISIMOVA, ? Светлана Розинцева, Larissa KISSELEVA, Svetlana BOGDANOVA",1992 Barcelona,Handball,Women's,handball
+Summer,1992,Gold,GER,Germany,"Michael KNAUTH, Jan-Peter TEWES, Christian MAYERHÖFER, Stefan TEWES, Volker FRIED, Christian BLUNCK, Andreas KELLER, Andreas BECKER, Christopher REITZ, Michael METZ, Sven MEINHARDT, Klaus MICHLER, Carsten FISCHER, Stefan SALIGER, Michael HILGERS, Oliver Michael KURTZ",1992 Barcelona,Hockey,Men's,hockey
+Summer,1992,Silver,AUS,Australia,"John Roderick BESTALL, Ashley CAREY, Dean EVANS, Warren BIRMINGHAM, Kenneth WARK, Stephen DAVIES, Lachlan DREHER, Graham REID, Lee BODIMEADE, Lachlan ELMER, Gregory CORBITT, David WANSBROUGH, Michael YORK, Damon DILETTI, Paul Snowden LEWIS, Jay Jason STACEY",1992 Barcelona,Hockey,Men's,hockey
+Summer,1992,Bronze,PAK,Pakistan,"Muhammad Junaid KHAWAJA, Feroz WASIM, Ikhlaq MUHAMMAD, Bashir KHALID, Khalid MUHAMMAD, Muhammad SHAHBAZ, Asif Bajwa MUHAMMAD, Ali Khan SHAHID, Qamar Ibrahim MUHAMMAD, Ahmed MANSOOR, Mujahid Ali RANA, Saeed ANJUM, Hussain MUSADDAQ, Zaman TAHIR, Ahmed SHAHBAZ, Hasan Khan FARHAT",1992 Barcelona,Hockey,Men's,hockey
+Summer,1992,Gold,ESP,Spain,"Maria GONZALEZ, Silvia MANRIQUE, Maria RODRIGUEZ SUAREZ, Maider TELLERIA, Natalia DORADO, Maria Del Carme N BAREA, Ana MAIQUES DERN, Sonia BARRIO, Elisabeth MARAGALL VERGE, Nagore GABELLANES, Teresa MOTOS, Mercedes COGHEN ALBERDINGO, Virginia RAMIREZ MERINO, Nuria OLIVE VANCELLS, Maria MARTINEZ DE MURGUIA, Celia CORRES GINER",1992 Barcelona,Hockey,Women's,hockey
+Summer,1992,Silver,GER,Germany,"Katrin KAUSCHKE, Bianca Margot WEISS, Irina KUHNT, Franziska HENTSCHEL, Christina Stephanie FERNECK, Susanne MÜLLER, Simone Heike THOMASCHINSKI, Eva HAGENBÄUMER, Susanne WOLLSCHLAGER, Tanja Roswitha DICKENSCHEID, Anke WILD, Caren JUNGJOHANN, Heike LAETZSCH, Nadine ERNSTING-KRIENKE, Kristina PETERS, Britta BECKER",1992 Barcelona,Hockey,Women's,hockey
+Summer,1992,Bronze,GBR,Great Britain,"Karen BROWN, Sandie LISTER, Alison Gail RAMSAY, Helen Jane MORGAN, Susan Barbara FRASER, Victoria Jane DIXON, Jackie Amanda MCWILLIAMS, Mandy NICHOLLS, Lisa Jayne BAYLISS, Mary Elizabeth NEVILL, Jane Theresa SIXSMITH, Joanne Sarah THOMPSON, Kathryn Louise JOHNSON, Gillian ATKINS, Wendy Katrina FRASER, Tammy Kelly MILLER",1992 Barcelona,Hockey,Women's,hockey
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Nazim GUSEYNOV,1992 Barcelona,Judo,Men's,- 60 kg
+Summer,1992,Silver,KOR,Korea Republic,Hyun YOON,1992 Barcelona,Judo,Men's,- 60 kg
+Summer,1992,Bronze,GER,Germany,Richard TRAUTMANN,1992 Barcelona,Judo,Men's,- 60 kg
+Summer,1992,Bronze,JPN,Japan,Tadanori KOSHINO,1992 Barcelona,Judo,Men's,- 60 kg
+Summer,1992,Gold,BRA,Brazil,Rogerio SAMPAIO CARDOSO,1992 Barcelona,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1992,Silver,HUN,Hungary,Jozsef CSAK,1992 Barcelona,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1992,Bronze,CUB,Cuba,Israel HERNANDEZ PLANA,1992 Barcelona,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1992,Bronze,GER,Germany,Udo QUELLMALZ,1992 Barcelona,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1992,Gold,JPN,Japan,Toshihiko KOGA,1992 Barcelona,Judo,Men's,65 - 71kg (lightweight)
+Summer,1992,Silver,HUN,Hungary,Bertalan HAJTOS,1992 Barcelona,Judo,Men's,65 - 71kg (lightweight)
+Summer,1992,Bronze,ISR,Israel,Shay Oren SMADJA,1992 Barcelona,Judo,Men's,65 - 71kg (lightweight)
+Summer,1992,Bronze,KOR,Korea Republic,Hoon CHUNG,1992 Barcelona,Judo,Men's,65 - 71kg (lightweight)
+Summer,1992,Gold,JPN,Japan,Hidehiko YOSHIDA,1992 Barcelona,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1992,Silver,USA,United States,Jason Newth MORRIS,1992 Barcelona,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1992,Bronze,FRA,France,Bertrand DAMAISIN,1992 Barcelona,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1992,Bronze,KOR,Korea Republic,Byung Joo KIM,1992 Barcelona,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1992,Gold,POL,Poland,Waldemar LEGIEN,1992 Barcelona,Judo,Men's,78 - 86kg (middleweight)
+Summer,1992,Silver,FRA,France,Pascal TAYOT,1992 Barcelona,Judo,Men's,78 - 86kg (middleweight)
+Summer,1992,Bronze,CAN,Canada,Nicolas GILL,1992 Barcelona,Judo,Men's,78 - 86kg (middleweight)
+Summer,1992,Bronze,JPN,Japan,Hirotaka OKADA,1992 Barcelona,Judo,Men's,78 - 86kg (middleweight)
+Summer,1992,Gold,HUN,Hungary,Antal KOVACS,1992 Barcelona,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1992,Silver,GBR,Great Britain,Raymond STEVENS,1992 Barcelona,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1992,Bronze,NED,Netherlands,Theo MEIJER,1992 Barcelona,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Dmitri SERGUEEV,1992 Barcelona,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),David KHAKHALEICHVILI,1992 Barcelona,Judo,Men's,+ 95kg (heavyweight)
+Summer,1992,Silver,JPN,Japan,Naoya OGAWA,1992 Barcelona,Judo,Men's,+ 95kg (heavyweight)
+Summer,1992,Bronze,FRA,France,David DOUILLET,1992 Barcelona,Judo,Men's,+ 95kg (heavyweight)
+Summer,1992,Bronze,HUN,Hungary,Imre CSOSZ,1992 Barcelona,Judo,Men's,+ 95kg (heavyweight)
+Summer,1992,Gold,FRA,France,Cecile NOWAK,1992 Barcelona,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1992,Silver,JPN,Japan,Ryoko TANI,1992 Barcelona,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1992,Bronze,CUB,Cuba,Amarilys SAVON,1992 Barcelona,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1992,Bronze,TUR,Turkey,Hulya SENYURT,1992 Barcelona,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1992,Gold,ESP,Spain,Almudena MUNOZ MARTINEZ,1992 Barcelona,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1992,Silver,JPN,Japan,Noriko MIZOGUCHI,1992 Barcelona,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1992,Bronze,CHN,China,Zhongyun LI,1992 Barcelona,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1992,Bronze,GBR,Great Britain,Sharon Susan RENDLE,1992 Barcelona,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1992,Gold,ESP,Spain,Miriam BLASCO SOTO,1992 Barcelona,Judo,Women's,52 - 56kg (lightweight)
+Summer,1992,Silver,GBR,Great Britain,Nicola Kim FAIRBROTHER,1992 Barcelona,Judo,Women's,52 - 56kg (lightweight)
+Summer,1992,Bronze,CUB,Cuba,Driulys GONZALEZ,1992 Barcelona,Judo,Women's,52 - 56kg (lightweight)
+Summer,1992,Bronze,JPN,Japan,Chiyori TATENO,1992 Barcelona,Judo,Women's,52 - 56kg (lightweight)
+Summer,1992,Gold,FRA,France,Catherine FLEURY-VACHON,1992 Barcelona,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1992,Silver,ISR,Israel,Yael ARAD,1992 Barcelona,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1992,Bronze,CHN,China,Di ZHANG,1992 Barcelona,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Elena PETROVA,1992 Barcelona,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1992,Gold,CUB,Cuba,Odalis REVE JIMENEZ,1992 Barcelona,Judo,Women's,61 - 66kg (middleweight)
+Summer,1992,Silver,ITA,Italy,Emanuela PIERANTOZZI,1992 Barcelona,Judo,Women's,61 - 66kg (middleweight)
+Summer,1992,Bronze,BEL,Belgium,Heidi RAKELS,1992 Barcelona,Judo,Women's,61 - 66kg (middleweight)
+Summer,1992,Bronze,GBR,Great Britain,Kate HOWEY,1992 Barcelona,Judo,Women's,61 - 66kg (middleweight)
+Summer,1992,Gold,KOR,Korea Republic,Mi-Jung KIM,1992 Barcelona,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1992,Silver,JPN,Japan,Yoko TANABE,1992 Barcelona,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1992,Bronze,FRA,France,Laetitia MEIGNAN,1992 Barcelona,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1992,Bronze,NED,Netherlands,Irene DE KOK,1992 Barcelona,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1992,Gold,CHN,China,Xiaoyan ZHUANG,1992 Barcelona,Judo,Women's,+ 72kg (heavyweight)
+Summer,1992,Silver,CUB,Cuba,Estela RODRIGUEZ VILLANUEVA,1992 Barcelona,Judo,Women's,+ 72kg (heavyweight)
+Summer,1992,Bronze,FRA,France,Natalia LUPINO,1992 Barcelona,Judo,Women's,+ 72kg (heavyweight)
+Summer,1992,Bronze,JPN,Japan,Yoko SAKAUE,1992 Barcelona,Judo,Women's,+ 72kg (heavyweight)
+Summer,1992,Gold,POL,Poland,Arkadiusz SKRZYPASZEK,1992 Barcelona,Modern Pentathlon,Men's,individual competition
+Summer,1992,Silver,HUN,Hungary,Attila MIZSER,1992 Barcelona,Modern Pentathlon,Men's,individual competition
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Edouard ZENOVKA,1992 Barcelona,Modern Pentathlon,Men's,individual competition
+Summer,1992,Gold,POL,Poland,"Maciej CZYZOWICZ, Arkadiusz SKRZYPASZEK, Dariusz GOZDZIAK",1992 Barcelona,Modern Pentathlon,Men's,team competition
+Summer,1992,Silver,EUN,Unified Team (ex USSR),"Edouard ZENOVKA, Dmitri SVATKOVSKIY, Anatoli STAROSTIN",1992 Barcelona,Modern Pentathlon,Men's,team competition
+Summer,1992,Bronze,ITA,Italy,"Gianluca TIBERTI, Roberto BOMPREZZI, Carlo MASSULLO",1992 Barcelona,Modern Pentathlon,Men's,team competition
+Summer,1992,Gold,GER,Germany,Thomas LANGE,1992 Barcelona,Rowing,Men's,single sculls (1x)
+Summer,1992,Silver,TCH,Czechoslovakia,Vaclav CHALUPA,1992 Barcelona,Rowing,Men's,single sculls (1x)
+Summer,1992,Bronze,POL,Poland,Kajetan BRONIEWSKI,1992 Barcelona,Rowing,Men's,single sculls (1x)
+Summer,1992,Gold,AUS,Australia,"Peter ANTONIE, Stephen Mark HAWKINS",1992 Barcelona,Rowing,Men's,double sculls (2x)
+Summer,1992,Silver,AUT,Austria,"Arnold JONKE, Christoph ZERBST",1992 Barcelona,Rowing,Men's,double sculls (2x)
+Summer,1992,Bronze,NED,Netherlands,"Nico RIENKS, Hendrik Jan ZWOLLE",1992 Barcelona,Rowing,Men's,double sculls (2x)
+Summer,1992,Gold,GBR,Great Britain,"Matthew PINSENT, Steven REDGRAVE",1992 Barcelona,Rowing,Men's,pair without coxswain (2-)
+Summer,1992,Silver,GER,Germany,"Colin ETTINGSHAUSEN, Peter HÖLTZENBEIN",1992 Barcelona,Rowing,Men's,pair without coxswain (2-)
+Summer,1992,Bronze,SLO,Slovenia,"Iztok COP, Denis ZVEGELJ",1992 Barcelona,Rowing,Men's,pair without coxswain (2-)
+Summer,1992,Gold,GBR,Great Britain,"Gregory Mark Pascol SEARLE, Jonathan William SEARLE, Garry Gerard Paul HERBERT",1992 Barcelona,Rowing,Men's,pair-oared shell with coxswain
+Summer,1992,Silver,ITA,Italy,"Carmine ABBAGNALE, Giuseppe DI CAPUA, Giuseppe ABBAGNALE",1992 Barcelona,Rowing,Men's,pair-oared shell with coxswain
+Summer,1992,Bronze,ROU,Romania,"Nicolaie TAGA, Dumitru RADUCANU, Dimitrie POPESCU",1992 Barcelona,Rowing,Men's,pair-oared shell with coxswain
+Summer,1992,Gold,GER,Germany,"Andreas HAJEK, Stephan VOLKERT, Michael STEINBACH, Andre WILLMS",1992 Barcelona,Rowing,Men's,quadruple sculls without coxswain
+Summer,1992,Silver,NOR,Norway,"Lars BJÖNNESS, Kjetil UNDSET, Rolf Bernt THORSEN, Per Albert SÄTERSDAL",1992 Barcelona,Rowing,Men's,quadruple sculls without coxswain
+Summer,1992,Bronze,ITA,Italy,"Alessandro CORONA, Rossano GALTAROSSA, Gianluca FARINA, Filippo SOFFICI",1992 Barcelona,Rowing,Men's,quadruple sculls without coxswain
+Summer,1992,Gold,AUS,Australia,"Nicholas GREEN, James TOMKINS, Andrew COOPER, Mike MCKAY",1992 Barcelona,Rowing,Men's,four without coxswain (4-)
+Summer,1992,Silver,USA,United States,"Patrick Francis Jr. MANNING, William Douglas BURDEN, Thomas Robert BOHRER, Jeffrey Dean MCLAUGHLIN",1992 Barcelona,Rowing,Men's,four without coxswain (4-)
+Summer,1992,Bronze,SLO,Slovenia,"Sadik MUJKIC, Janez KLEMENCIC, Milan JANSA, Saso MIRJANIC",1992 Barcelona,Rowing,Men's,four without coxswain (4-)
+Summer,1992,Gold,ROU,Romania,"Viorel TALAPAN, Nicolaie TAGA, Iulica RUICAN, Dimitrie POPESCU, Dumitru RADUCANU",1992 Barcelona,Rowing,Men's,four-oared shell with coxswain
+Summer,1992,Silver,GER,Germany,"Ralf BRUDEL, Thoralf PETERS, Hendrik REIHER, Uwe Jörg KELLNER, Karsten FINGER",1992 Barcelona,Rowing,Men's,four-oared shell with coxswain
+Summer,1992,Bronze,POL,Poland,"Tomasz TOMIAK, Maciej LASICKI, Michal CIESLAK, Wojciech JANKOWSKI, Jacek STREICH",1992 Barcelona,Rowing,Men's,four-oared shell with coxswain
+Summer,1992,Gold,CAN,Canada,"Bruce ROBERTSON, Terence Michael PAUL, Darren BARBER, Michael Joseph FORGERON, Derek PORTER, Michael G. RASCHER, John William WALLACE, Andrew CROSBY, Robert Davies MARLAND",1992 Barcelona,Rowing,Men's,eight with coxswain (8+)
+Summer,1992,Silver,ROU,Romania,"Viorel TALAPAN, Claudiu Gabriel MARIN, Valentin ROBU, Ioan Iulian VIZITIU, Iulica RUICAN, Vasile Dorel NASTASE, Danut DOBRE, Vasile Ionel MASTACAN, Marin GHEORGHE",1992 Barcelona,Rowing,Men's,eight with coxswain (8+)
+Summer,1992,Bronze,GER,Germany,"Roland BAAR, Detlef KIRCHHOFF, Frank Joerg RICHTER, Thorsten STREPPELHOFF, Manfred Willi KLEIN, Armin EICHHOLZ, Bahne RABE, Hans SENNEWALD, Ansgar WESSLING",1992 Barcelona,Rowing,Men's,eight with coxswain (8+)
+Summer,1992,Gold,ROU,Romania,Elisabeta LIPA,1992 Barcelona,Rowing,Women's,single sculls (1x)
+Summer,1992,Silver,BEL,Belgium,Annelies BREDAEL,1992 Barcelona,Rowing,Women's,single sculls (1x)
+Summer,1992,Bronze,CAN,Canada,Silken Suzette LAUMANN,1992 Barcelona,Rowing,Women's,single sculls (1x)
+Summer,1992,Gold,GER,Germany,"Kerstin KÖPPEN, Kathrin BORON",1992 Barcelona,Rowing,Women's,double sculls (2x)
+Summer,1992,Silver,ROU,Romania,"Veronica COCHELEA, Elisabeta LIPA",1992 Barcelona,Rowing,Women's,double sculls (2x)
+Summer,1992,Bronze,CHN,China,"Huali LU, Xiaoli GU",1992 Barcelona,Rowing,Women's,double sculls (2x)
+Summer,1992,Gold,CAN,Canada,"Kathleen HEDDLE, Marnie Elizabeth MCBEAN",1992 Barcelona,Rowing,Women's,pair without coxswain (2-)
+Summer,1992,Silver,GER,Germany,"Ingeburg SCHWERZMANN, Stefani WERREMEIER",1992 Barcelona,Rowing,Women's,pair without coxswain (2-)
+Summer,1992,Bronze,USA,United States,"Anna B. SEATON, Stephanie MAXWELL PIERSON",1992 Barcelona,Rowing,Women's,pair without coxswain (2-)
+Summer,1992,Gold,GER,Germany,"Sybille SCHMIDT, Kerstin MÜLLER, Birgit PETER, Kristina MUNDT",1992 Barcelona,Rowing,Women's,quadruple sculls without coxswain
+Summer,1992,Silver,ROU,Romania,"Constanta BURCICA, Anisoara DOBRE, Veronica COCHELEA, Doina IGNAT",1992 Barcelona,Rowing,Women's,quadruple sculls without coxswain
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),"Antonina ZELIKOVITCH, Ekaterina KARSTEN, Tatiana USTYUZHANINA, Elena KHLOPTSEVA",1992 Barcelona,Rowing,Women's,quadruple sculls without coxswain
+Summer,1992,Gold,CAN,Canada,"Jessica MONROE, Kay Frances WORTHINGTON, Jennifer Kirsten BARNES, Brenda Susan TAYLOR",1992 Barcelona,Rowing,Women's,coxless four (4-)
+Summer,1992,Silver,USA,United States,"Amy FULLER, Cynthia L. ECKERT, Carol FEENEY, Shelagh DONOHOE",1992 Barcelona,Rowing,Women's,coxless four (4-)
+Summer,1992,Bronze,GER,Germany,"Annette HOHN, Birte SIECH, Antje FRANK, Gabriele MEHL",1992 Barcelona,Rowing,Women's,coxless four (4-)
+Summer,1992,Gold,CAN,Canada,"Shannon CRAWFORD, Kathleen HEDDLE, Jessica MONROE, Kay Frances WORTHINGTON, Jennifer Kirsten BARNES, Megan Catherine DELEHANTY, Marnie Elizabeth MCBEAN, Brenda Susan TAYLOR, Lesley Allison THOMPSON",1992 Barcelona,Rowing,Women's,eight with coxswain (8+)
+Summer,1992,Silver,ROU,Romania,"Doina ROBU, Doina Liliana SNEP, Elena GEORGESCU, Viorica NECULAI, Maria PADURARIU, Iulia BULIE, Victoria LEPADATU, Ioana OLTEANU, Adriana BAZON",1992 Barcelona,Rowing,Women's,eight with coxswain (8+)
+Summer,1992,Bronze,GER,Germany,"Kathrin HAACKER, Cerstin PETERSMANN, Annegret STRAUCH, Judith ZEIDLER, Sylvia DÖRDELMANN, Christiane HARZENDORF, Dana PYRITZ, Ute SCHELL, Daniela NEUNAST",1992 Barcelona,Rowing,Women's,eight with coxswain (8+)
+Summer,1992,Gold,FRA,France,Franck DAVID,1992 Barcelona,Sailing,Men's,board (lechner)
+Summer,1992,Silver,USA,United States,Mike GEBHARDT,1992 Barcelona,Sailing,Men's,board (lechner)
+Summer,1992,Bronze,AUS,Australia,Lars Detlef KLEPPICH,1992 Barcelona,Sailing,Men's,board (lechner)
+Summer,1992,Gold,ESP,Spain,Jose VAN DER PLOEG,1992 Barcelona,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1992,Silver,USA,United States,Brian Richard LEDBETTER,1992 Barcelona,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1992,Bronze,NZL,New Zealand,Craig John MONK,1992 Barcelona,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1992,Gold,ESP,Spain,"Francisco SANCHEZ LUNA, Jordi CALAFAT",1992 Barcelona,Sailing,Men's,470 - Two Person Dinghy
+Summer,1992,Silver,USA,United States,"Morgan REESER, Kevin BURNHAM",1992 Barcelona,Sailing,Men's,470 - Two Person Dinghy
+Summer,1992,Bronze,EST,Estonia,"Tonu TONISTE, Toomas TONISTE",1992 Barcelona,Sailing,Men's,470 - Two Person Dinghy
+Summer,1992,Gold,NZL,New Zealand,Barbara KENDALL,1992 Barcelona,Sailing,Women's,board (lechner)
+Summer,1992,Silver,CHN,China,Xiaodong ZHANG,1992 Barcelona,Sailing,Women's,board (lechner)
+Summer,1992,Bronze,NED,Netherlands,Dorien DE VRIES,1992 Barcelona,Sailing,Women's,board (lechner)
+Summer,1992,Gold,NOR,Norway,Linda ANDERSEN,1992 Barcelona,Sailing,Women's,single-handed dinghy (Europe)
+Summer,1992,Silver,ESP,Spain,Natalia VIA DUFRESNE,1992 Barcelona,Sailing,Women's,single-handed dinghy (Europe)
+Summer,1992,Bronze,USA,United States,Julia TROTMAN,1992 Barcelona,Sailing,Women's,single-handed dinghy (Europe)
+Summer,1992,Gold,ESP,Spain,"Patricia GUERRA CABRERA, Theresa ZABELL",1992 Barcelona,Sailing,Women's,470 - Two Person Dinghy
+Summer,1992,Silver,NZL,New Zealand,"Janet Lee SHEARER, Leslie Jean EGNOT",1992 Barcelona,Sailing,Women's,470 - Two Person Dinghy
+Summer,1992,Bronze,USA,United States,"Pamela HEALY, Jennifer ISLER",1992 Barcelona,Sailing,Women's,470 - Two Person Dinghy
+Summer,1992,Gold,FRA,France,"Nicolas HENARD, Yves LODAY",1992 Barcelona,Sailing,Mixed,Tornado - Multihull
+Summer,1992,Silver,USA,United States,"Keith NOTARY, Randy SMYTH",1992 Barcelona,Sailing,Mixed,Tornado - Multihull
+Summer,1992,Bronze,AUS,Australia,"John FORBES, Mitch BOOTH",1992 Barcelona,Sailing,Mixed,Tornado - Multihull
+Summer,1992,Gold,USA,United States,"Harold HAENEL, Mark Jeffrey REYNOLDS",1992 Barcelona,Sailing,Mixed,two-person keelboat (Star)
+Summer,1992,Silver,NZL,New Zealand,"Donald John COWIE, Roderick Hopkins DAVIS",1992 Barcelona,Sailing,Mixed,two-person keelboat (Star)
+Summer,1992,Bronze,CAN,Canada,"Eric Albert JESPERSEN, Ross David MACDONALD",1992 Barcelona,Sailing,Mixed,two-person keelboat (Star)
+Summer,1992,Gold,ESP,Spain,"Domingo MANRIQUE, Luis DORESTE",1992 Barcelona,Sailing,Mixed,flying dutchman
+Summer,1992,Silver,USA,United States,"Paul FOERSTER, Stephen BOURDOW",1992 Barcelona,Sailing,Mixed,flying dutchman
+Summer,1992,Bronze,DEN,Denmark,"Jorgen BOJSEN MOLLER, Jens BOJSEN-MOELLER",1992 Barcelona,Sailing,Mixed,flying dutchman
+Summer,1992,Gold,DEN,Denmark,"Jesper BANK, Jesper SEIER, Steen Klaaborg SECHER",1992 Barcelona,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1992,Silver,USA,United States,"James BRADY, Kevin MAHANEY, Douglas KERN",1992 Barcelona,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1992,Bronze,GBR,Great Britain,"Ossie STEWART, Lawrie SMITH, Robert Gordon CRUIKSHANK",1992 Barcelona,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Iouri FEDKINE,1992 Barcelona,Shooting,Men's,10m air rifle
+Summer,1992,Silver,FRA,France,Franck BADIOU,1992 Barcelona,Shooting,Men's,10m air rifle
+Summer,1992,Bronze,GER,Germany,Johann RIEDERER,1992 Barcelona,Shooting,Men's,10m air rifle
+Summer,1992,Gold,CHN,China,Yifu WANG,1992 Barcelona,Shooting,Men's,10m air pistol
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Serguei PYZHYANOV,1992 Barcelona,Shooting,Men's,10m air pistol
+Summer,1992,Bronze,ROU,Romania,Sorin BABII,1992 Barcelona,Shooting,Men's,10m air pistol
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Konstantine LOUKACHIK,1992 Barcelona,Shooting,Men's,50m pistol
+Summer,1992,Silver,CHN,China,Yifu WANG,1992 Barcelona,Shooting,Men's,50m pistol
+Summer,1992,Bronze,SWE,Sweden,Ragnar SKANÄKER,1992 Barcelona,Shooting,Men's,50m pistol
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Hrachya PETIKYAN,1992 Barcelona,Shooting,Men's,50m rifle 3 positions
+Summer,1992,Silver,USA,United States,Robert James FOTH,1992 Barcelona,Shooting,Men's,50m rifle 3 positions
+Summer,1992,Bronze,JPN,Japan,Ryohei KOBA,1992 Barcelona,Shooting,Men's,50m rifle 3 positions
+Summer,1992,Gold,KOR,Korea Republic,Eun-Chul LEE,1992 Barcelona,Shooting,Men's,50m rifle prone
+Summer,1992,Silver,NOR,Norway,Harald STENVAAG,1992 Barcelona,Shooting,Men's,50m rifle prone
+Summer,1992,Bronze,IOP,Independent Participants (ex Yugoslavia),Stevan PLETIKOSIC,1992 Barcelona,Shooting,Men's,50m rifle prone
+Summer,1992,Gold,GER,Germany,Michael JAKOSITS,1992 Barcelona,Shooting,Men's,10m running target
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Anatoli ASRABAEV,1992 Barcelona,Shooting,Men's,10m running target
+Summer,1992,Bronze,TCH,Czechoslovakia,Lubos RACANSKY,1992 Barcelona,Shooting,Men's,10m running target
+Summer,1992,Gold,GER,Germany,Ralf SCHUMANN,1992 Barcelona,Shooting,Men's,25m rapid fire pistol
+Summer,1992,Silver,LAT,Latvia,Afanasijs KUZMINS,1992 Barcelona,Shooting,Men's,25m rapid fire pistol
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Vladimir VOKHMIANINE,1992 Barcelona,Shooting,Men's,25m rapid fire pistol
+Summer,1992,Gold,KOR,Korea Republic,Kab-Soon YEO,1992 Barcelona,Shooting,Women's,10m air rifle
+Summer,1992,Silver,BUL,Bulgaria,Vessela Nikolaeva LETCHEVA,1992 Barcelona,Shooting,Women's,10m air rifle
+Summer,1992,Bronze,IOP,Independent Participants (ex Yugoslavia),Aranka BINDER,1992 Barcelona,Shooting,Women's,10m air rifle
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Marina LOGVINENKO,1992 Barcelona,Shooting,Women's,10m air pistol
+Summer,1992,Silver,IOP,Independent Participants (ex Yugoslavia),Jasna SEKARIC,1992 Barcelona,Shooting,Women's,10m air pistol
+Summer,1992,Bronze,BUL,Bulgaria,Maria GROZDEVA,1992 Barcelona,Shooting,Women's,10m air pistol
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Marina LOGVINENKO,1992 Barcelona,Shooting,Women's,25m pistol
+Summer,1992,Silver,CHN,China,Duihong LI,1992 Barcelona,Shooting,Women's,25m pistol
+Summer,1992,Bronze,MGL,Mongolia,Dorzhsuren MUNKHBAYAR,1992 Barcelona,Shooting,Women's,25m pistol
+Summer,1992,Gold,USA,United States,Launi Kay MEILI,1992 Barcelona,Shooting,Women's,50m rifle 3 positions
+Summer,1992,Silver,BUL,Bulgaria,Nonka Detcheva MATOVA,1992 Barcelona,Shooting,Women's,50m rifle 3 positions
+Summer,1992,Bronze,POL,Poland,Malgorzata KSIAZKIEWICZ,1992 Barcelona,Shooting,Women's,50m rifle 3 positions
+Summer,1992,Gold,TCH,Czechoslovakia,Petr HRDLICKA,1992 Barcelona,Shooting,Mixed,Trap
+Summer,1992,Silver,JPN,Japan,Kazumi WATANABE,1992 Barcelona,Shooting,Mixed,Trap
+Summer,1992,Bronze,ITA,Italy,Marco VENTURINI,1992 Barcelona,Shooting,Mixed,Trap
+Summer,1992,Gold,CHN,China,Shan ZHANG,1992 Barcelona,Shooting,Mixed,Skeet
+Summer,1992,Silver,PER,Peru,Juan Jorge Yarve Jr. GIHA,1992 Barcelona,Shooting,Mixed,Skeet
+Summer,1992,Bronze,ITA,Italy,Bruno Mario ROSSETTI,1992 Barcelona,Shooting,Mixed,Skeet
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Alexander POPOV,1992 Barcelona,Swimming,Men's,50m freestyle
+Summer,1992,Silver,USA,United States,Matthew BIONDI,1992 Barcelona,Swimming,Men's,50m freestyle
+Summer,1992,Bronze,USA,United States,Thomas Michael JAGER,1992 Barcelona,Swimming,Men's,50m freestyle
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Alexander POPOV,1992 Barcelona,Swimming,Men's,100m freestyle
+Summer,1992,Silver,BRA,Brazil,Gustavo BORGES,1992 Barcelona,Swimming,Men's,100m freestyle
+Summer,1992,Bronze,FRA,France,Stephan CARON,1992 Barcelona,Swimming,Men's,100m freestyle
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Evgueni SADOVYI,1992 Barcelona,Swimming,Men's,200m freestyle
+Summer,1992,Silver,SWE,Sweden,Anders HOLMERTZ,1992 Barcelona,Swimming,Men's,200m freestyle
+Summer,1992,Bronze,FIN,Finland,Antti Alexander KASVIO,1992 Barcelona,Swimming,Men's,200m freestyle
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Evgueni SADOVYI,1992 Barcelona,Swimming,Men's,400m freestyle
+Summer,1992,Silver,AUS,Australia,Kieren John PERKINS,1992 Barcelona,Swimming,Men's,400m freestyle
+Summer,1992,Bronze,SWE,Sweden,Anders HOLMERTZ,1992 Barcelona,Swimming,Men's,400m freestyle
+Summer,1992,Gold,AUS,Australia,Kieren John PERKINS,1992 Barcelona,Swimming,Men's,1500m freestyle
+Summer,1992,Silver,AUS,Australia,Glen Clifford HOUSMAN,1992 Barcelona,Swimming,Men's,1500m freestyle
+Summer,1992,Bronze,GER,Germany,Jörg HOFFMANN,1992 Barcelona,Swimming,Men's,1500m freestyle
+Summer,1992,Gold,USA,United States,"Jon OLSEN, Joel THOMAS, Joseph HUDEPOHL, Thomas Michael JAGER, Shaun JORDAN, Matthew BIONDI",1992 Barcelona,Swimming,Men's,4x100m freestyle relay
+Summer,1992,Silver,EUN,Unified Team (ex USSR),"Pavlo KHNYKIN, Alexander POPOV, Veniamin TAIANOVITCH, Guennadi PRIGODA, Juri BASHKATOV, Vladimir PYSHNENKO",1992 Barcelona,Swimming,Men's,4x100m freestyle relay
+Summer,1992,Bronze,GER,Germany,"Christian TRÖGER, Mark PINGER, Bengt ZIKARSKY, Dirk RICHTER, Steffen ZESNER, Andreas SZIGAT",1992 Barcelona,Swimming,Men's,4x100m freestyle relay
+Summer,1992,Gold,EUN,Unified Team (ex USSR),"Vladimir PYSHNENKO, Evgueni SADOVYI, Jouri MOUKHINE, Veniamin TAIANOVITCH, Dmitri LEPIKOV, Alexei KOUDRIAVTSEV",1992 Barcelona,Swimming,Men's,4x200m freestyle relay
+Summer,1992,Silver,SWE,Sweden,"Tommy WERNER, Christer WALLIN, Anders HOLMERTZ, Lars FROLANDER",1992 Barcelona,Swimming,Men's,4x200m freestyle relay
+Summer,1992,Bronze,USA,United States,"Jon OLSEN, Douglas S. GJERTSEN, Daniel Plong JORGENSEN, Melvin STEWART, Scott JAFFE, Joseph HUDEPOHL",1992 Barcelona,Swimming,Men's,4x200m freestyle relay
+Summer,1992,Gold,USA,United States,Nelson DIEBEL,1992 Barcelona,Swimming,Men's,100m breaststroke
+Summer,1992,Silver,HUN,Hungary,Norbert ROZSA,1992 Barcelona,Swimming,Men's,100m breaststroke
+Summer,1992,Bronze,AUS,Australia,Philip John ROGERS,1992 Barcelona,Swimming,Men's,100m breaststroke
+Summer,1992,Gold,USA,United States,Mike BARROWMAN,1992 Barcelona,Swimming,Men's,200m breaststroke
+Summer,1992,Silver,HUN,Hungary,Norbert ROZSA,1992 Barcelona,Swimming,Men's,200m breaststroke
+Summer,1992,Bronze,GBR,Great Britain,Nick GILLINGHAM,1992 Barcelona,Swimming,Men's,200m breaststroke
+Summer,1992,Gold,USA,United States,Pablo MORALES,1992 Barcelona,Swimming,Men's,100m butterfly
+Summer,1992,Silver,POL,Poland,Rafal SZUKALA,1992 Barcelona,Swimming,Men's,100m butterfly
+Summer,1992,Bronze,SUR,Suriname,Anthony Conrad NESTY,1992 Barcelona,Swimming,Men's,100m butterfly
+Summer,1992,Gold,USA,United States,Melvin STEWART,1992 Barcelona,Swimming,Men's,200m butterfly
+Summer,1992,Silver,NZL,New Zealand,Danyon Joseph LOADER,1992 Barcelona,Swimming,Men's,200m butterfly
+Summer,1992,Bronze,FRA,France,Franck ESPOSITO,1992 Barcelona,Swimming,Men's,200m butterfly
+Summer,1992,Gold,CAN,Canada,Mark TEWKSBURY,1992 Barcelona,Swimming,Men's,100m backstroke
+Summer,1992,Silver,USA,United States,Jeff Norman ROUSE,1992 Barcelona,Swimming,Men's,100m backstroke
+Summer,1992,Bronze,USA,United States,David Charles BERKOFF,1992 Barcelona,Swimming,Men's,100m backstroke
+Summer,1992,Gold,ESP,Spain,Martin LOPEZ-ZUBERO,1992 Barcelona,Swimming,Men's,200m backstroke
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Vladimir SELKOV,1992 Barcelona,Swimming,Men's,200m backstroke
+Summer,1992,Bronze,ITA,Italy,Stefano BATTISTELLI,1992 Barcelona,Swimming,Men's,200m backstroke
+Summer,1992,Gold,HUN,Hungary,Tamas DARNYI,1992 Barcelona,Swimming,Men's,200m individual medley
+Summer,1992,Silver,USA,United States,Gregory BURGESS,1992 Barcelona,Swimming,Men's,200m individual medley
+Summer,1992,Bronze,HUN,Hungary,Attila CZENE,1992 Barcelona,Swimming,Men's,200m individual medley
+Summer,1992,Gold,HUN,Hungary,Tamas DARNYI,1992 Barcelona,Swimming,Men's,400m individual medley
+Summer,1992,Silver,USA,United States,Eric NAMESNIK,1992 Barcelona,Swimming,Men's,400m individual medley
+Summer,1992,Bronze,ITA,Italy,Luca SACCHI,1992 Barcelona,Swimming,Men's,400m individual medley
+Summer,1992,Gold,USA,United States,"Pablo MORALES, Jeff Norman ROUSE, Hans DERSCH, Matthew BIONDI, Nelson DIEBEL, Jon OLSEN, David Charles BERKOFF, Melvin STEWART",1992 Barcelona,Swimming,Men's,4x100m medley relay
+Summer,1992,Silver,EUN,Unified Team (ex USSR),"Alexander POPOV, Pavlo KHNYKIN, Vladislav KULIKOV, Vassili IVANOV, Vladimir SELKOV, Vladimir PYSHNENKO, Dmitri VOLKOV",1992 Barcelona,Swimming,Men's,4x100m medley relay
+Summer,1992,Bronze,CAN,Canada,"Jonathan Thomas CLEVELAND, Stephen CLARKE, Thomas PONTING, Mark TEWKSBURY, Marcel GERY",1992 Barcelona,Swimming,Men's,4x100m medley relay
+Summer,1992,Gold,CHN,China,Wenyi YANG,1992 Barcelona,Swimming,Women's,50m freestyle
+Summer,1992,Silver,CHN,China,Yong ZHUANG,1992 Barcelona,Swimming,Women's,50m freestyle
+Summer,1992,Bronze,USA,United States,Angel MARTINO,1992 Barcelona,Swimming,Women's,50m freestyle
+Summer,1992,Gold,CHN,China,Yong ZHUANG,1992 Barcelona,Swimming,Women's,100m freestyle
+Summer,1992,Silver,USA,United States,Jenny THOMPSON,1992 Barcelona,Swimming,Women's,100m freestyle
+Summer,1992,Bronze,GER,Germany,Franziska VAN ALMSICK,1992 Barcelona,Swimming,Women's,100m freestyle
+Summer,1992,Gold,USA,United States,Nicole Lee HAISLETT,1992 Barcelona,Swimming,Women's,200m freestyle
+Summer,1992,Silver,GER,Germany,Franziska VAN ALMSICK,1992 Barcelona,Swimming,Women's,200m freestyle
+Summer,1992,Bronze,GER,Germany,Kerstin KIELGASS,1992 Barcelona,Swimming,Women's,200m freestyle
+Summer,1992,Gold,GER,Germany,Dagmar HASE,1992 Barcelona,Swimming,Women's,400m freestyle
+Summer,1992,Silver,USA,United States,Janet EVANS,1992 Barcelona,Swimming,Women's,400m freestyle
+Summer,1992,Bronze,AUS,Australia,Hayley Jane LEWIS,1992 Barcelona,Swimming,Women's,400m freestyle
+Summer,1992,Gold,USA,United States,Janet EVANS,1992 Barcelona,Swimming,Women's,800m freestyle
+Summer,1992,Silver,AUS,Australia,Hayley Jane LEWIS,1992 Barcelona,Swimming,Women's,800m freestyle
+Summer,1992,Bronze,GER,Germany,Jana HENKE,1992 Barcelona,Swimming,Women's,800m freestyle
+Summer,1992,Gold,USA,United States,"Nicole Lee HAISLETT, Jenny THOMPSON, Ashley T TAPPIN, Angel MARTINO, Dara TORRES, Christine AHMANN-LEIGHTON",1992 Barcelona,Swimming,Women's,4x100m freestyle relay
+Summer,1992,Silver,CHN,China,"Kun ZHAO, Wenyi YANG, Bin LU, Yong ZHUANG, Jingyi LE",1992 Barcelona,Swimming,Women's,4x100m freestyle relay
+Summer,1992,Bronze,GER,Germany,"Daniela HUNGER, Manuela STELLMACH, Annette HADDING, Franziska VAN ALMSICK, Simone OSYGUS, Kerstin KIELGASS",1992 Barcelona,Swimming,Women's,4x100m freestyle relay
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Elena RUDKOVSKAYA,1992 Barcelona,Swimming,Women's,100m breaststroke
+Summer,1992,Silver,USA,United States,Anita NALL,1992 Barcelona,Swimming,Women's,100m breaststroke
+Summer,1992,Bronze,AUS,Australia,Samantha Linette RILEY,1992 Barcelona,Swimming,Women's,100m breaststroke
+Summer,1992,Gold,JPN,Japan,Kyoko IWASAKI,1992 Barcelona,Swimming,Women's,200m breaststroke
+Summer,1992,Silver,CHN,China,Li LIN,1992 Barcelona,Swimming,Women's,200m breaststroke
+Summer,1992,Bronze,USA,United States,Anita NALL,1992 Barcelona,Swimming,Women's,200m breaststroke
+Summer,1992,Gold,CHN,China,Hong QIAN,1992 Barcelona,Swimming,Women's,100m butterfly
+Summer,1992,Silver,USA,United States,Christine AHMANN-LEIGHTON,1992 Barcelona,Swimming,Women's,100m butterfly
+Summer,1992,Bronze,FRA,France,Catherine PLEWINSKI,1992 Barcelona,Swimming,Women's,100m butterfly
+Summer,1992,Gold,USA,United States,Summer SANDERS,1992 Barcelona,Swimming,Women's,200m butterfly
+Summer,1992,Silver,CHN,China,Xiaohong WANG,1992 Barcelona,Swimming,Women's,200m butterfly
+Summer,1992,Bronze,AUS,Australia,Susan O'NEILL,1992 Barcelona,Swimming,Women's,200m butterfly
+Summer,1992,Gold,HUN,Hungary,Krisztina EGERSZEGI,1992 Barcelona,Swimming,Women's,100m backstroke
+Summer,1992,Silver,HUN,Hungary,Tunde SZABO,1992 Barcelona,Swimming,Women's,100m backstroke
+Summer,1992,Bronze,USA,United States,Lea LOVELESS,1992 Barcelona,Swimming,Women's,100m backstroke
+Summer,1992,Gold,HUN,Hungary,Krisztina EGERSZEGI,1992 Barcelona,Swimming,Women's,200m backstroke
+Summer,1992,Silver,GER,Germany,Dagmar HASE,1992 Barcelona,Swimming,Women's,200m backstroke
+Summer,1992,Bronze,AUS,Australia,Nicole Dawn STEVENSON,1992 Barcelona,Swimming,Women's,200m backstroke
+Summer,1992,Gold,CHN,China,Li LIN,1992 Barcelona,Swimming,Women's,200m individual medley
+Summer,1992,Silver,USA,United States,Summer SANDERS,1992 Barcelona,Swimming,Women's,200m individual medley
+Summer,1992,Bronze,GER,Germany,Daniela HUNGER,1992 Barcelona,Swimming,Women's,200m individual medley
+Summer,1992,Gold,HUN,Hungary,Krisztina EGERSZEGI,1992 Barcelona,Swimming,Women's,400m individual medley
+Summer,1992,Silver,CHN,China,Li LIN,1992 Barcelona,Swimming,Women's,400m individual medley
+Summer,1992,Bronze,USA,United States,Summer SANDERS,1992 Barcelona,Swimming,Women's,400m individual medley
+Summer,1992,Gold,USA,United States,"Lea LOVELESS, Jenny THOMPSON, Megan A. KLEINE, Nicole Lee HAISLETT, Christine AHMANN-LEIGHTON, Anita NALL, Elizabeth WAGSTAFF, Summer SANDERS",1992 Barcelona,Swimming,Women's,4x100m medley relay
+Summer,1992,Silver,GER,Germany,"Jana DÖRRIS, Daniela HUNGER, Bettina USTROWSKI, Franziska VAN ALMSICK, Dagmar HASE, Daniela BRENDEL, Simone OSYGUS",1992 Barcelona,Swimming,Women's,4x100m medley relay
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),"Nina Alexandrovna ZHIVANEVSKAYA, Elena RUDKOVSKAYA, Elena CHOUBINA, Natalia MESHCHERYAKOVA, Olga KIRITCHENKO",1992 Barcelona,Swimming,Women's,4x100m medley relay
+Summer,1992,Gold,SWE,Sweden,Jan-Ove WALDNER,1992 Barcelona,Table Tennis,Men's,singles
+Summer,1992,Silver,FRA,France,Jean-Philippe GATIEN,1992 Barcelona,Table Tennis,Men's,singles
+Summer,1992,Bronze,CHN,China,Wenge MA,1992 Barcelona,Table Tennis,Men's,singles
+Summer,1992,Bronze,KOR,Korea Republic,Taek Soo KIM,1992 Barcelona,Table Tennis,Men's,singles
+Summer,1992,Gold,CHN,China,"Tao WANG, Lin LU",1992 Barcelona,Table Tennis,Men's,doubles
+Summer,1992,Silver,GER,Germany,"Jörg ROSSKOPF, Steffen FETZNER",1992 Barcelona,Table Tennis,Men's,doubles
+Summer,1992,Bronze,KOR,Korea Republic,"Chul Seung LEE, Hee Chan KANG",1992 Barcelona,Table Tennis,Men's,doubles
+Summer,1992,Bronze,KOR,Korea Republic,"Nam-Kyu YOO, Taek Soo KIM",1992 Barcelona,Table Tennis,Men's,doubles
+Summer,1992,Gold,CHN,China,Yaping DENG,1992 Barcelona,Table Tennis,Women's,singles
+Summer,1992,Silver,CHN,China,Hong QIAO,1992 Barcelona,Table Tennis,Women's,singles
+Summer,1992,Bronze,PRK,Korea DPR,Bun Hui LI,1992 Barcelona,Table Tennis,Women's,singles
+Summer,1992,Bronze,KOR,Korea Republic,Jung Hwa HYUN,1992 Barcelona,Table Tennis,Women's,singles
+Summer,1992,Gold,CHN,China,"Hong QIAO, Yaping DENG",1992 Barcelona,Table Tennis,Women's,doubles
+Summer,1992,Silver,CHN,China,"Jun GAO, Zihe CHEN",1992 Barcelona,Table Tennis,Women's,doubles
+Summer,1992,Bronze,PRK,Korea DPR,"Bun Hui LI, Sun Bok YU",1992 Barcelona,Table Tennis,Women's,doubles
+Summer,1992,Bronze,KOR,Korea Republic,"Jung Hwa HYUN, Cha Ok HONG",1992 Barcelona,Table Tennis,Women's,doubles
+Summer,1992,Gold,SUI,Switzerland,Marc ROSSET,1992 Barcelona,Tennis,Men's,singles
+Summer,1992,Silver,ESP,Spain,Jordi ARRESE,1992 Barcelona,Tennis,Men's,singles
+Summer,1992,Bronze,CRO,Croatia,Goran IVANISEVIC,1992 Barcelona,Tennis,Men's,singles
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Andrei CHERKASOV,1992 Barcelona,Tennis,Men's,singles
+Summer,1992,Gold,GER,Germany,"Boris Franz BECKER, Michael STICH",1992 Barcelona,Tennis,Men's,doubles
+Summer,1992,Silver,RSA,South Africa,"Wayne FERREIRA, Piet NORVAL",1992 Barcelona,Tennis,Men's,doubles
+Summer,1992,Bronze,ARG,Argentina,"Javier FRANA, Christian Carlos MINIUSSI",1992 Barcelona,Tennis,Men's,doubles
+Summer,1992,Bronze,CRO,Croatia,"Goran IVANISEVIC, Goran PRPIC",1992 Barcelona,Tennis,Men's,doubles
+Summer,1992,Gold,USA,United States,Jennifer CAPRIATI,1992 Barcelona,Tennis,Women's,singles
+Summer,1992,Silver,GER,Germany,Steffi GRAF,1992 Barcelona,Tennis,Women's,singles
+Summer,1992,Bronze,ESP,Spain,Arantxa SANCHEZ-VICARIO,1992 Barcelona,Tennis,Women's,singles
+Summer,1992,Bronze,USA,United States,Mary Joe FERNANDEZ,1992 Barcelona,Tennis,Women's,singles
+Summer,1992,Gold,USA,United States,"Gigi FERNANDEZ, Mary Joe FERNANDEZ",1992 Barcelona,Tennis,Women's,doubles
+Summer,1992,Silver,ESP,Spain,"Conchita MARTINEZ, Arantxa SANCHEZ-VICARIO",1992 Barcelona,Tennis,Women's,doubles
+Summer,1992,Bronze,AUS,Australia,"Rachel Jane MCQUILLAN, Nicole Anne Louise BRADTKE",1992 Barcelona,Tennis,Women's,doubles
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),"Leila MESKHI, Natalya ZVEREVA",1992 Barcelona,Tennis,Women's,doubles
+Summer,1992,Gold,BRA,Brazil,"Antonio Carlos GOUVEIA, Paulo Andre SILVA, Janelson CARVALHO, Alexandre SAMUEL, Marcelo NEGRAO, Giovane GAVIO, Douglas CHIAROTTI, Talmo OLIVEIRA, Mauricio LIMA, Andre Felippe FERREIRA, Amauri RIBEIRO, Jorge Edson BRITO",1992 Barcelona,Volleyball,Men's,volleyball
+Summer,1992,Silver,NED,Netherlands,"Martin TEFFER, Ronald BOUDRIE, Olof VAN DER MEULEN, Marko KLOK, Avital SELINGER, Martin VAN DER HORST, Henk-Jan HELD, Edwin BENNE, Peter BLANGE, Ronald ZWERVER, Jan POSTHUMA, Ronald ZOODSMA",1992 Barcelona,Volleyball,Men's,volleyball
+Summer,1992,Bronze,USA,United States,"Carlos Martin BRICENO, Nick Adrian BECKER, Scott Thomas FORTUNE, Jeffrey Malcolm STORK, Robert Douglas PARTIE, Bryan Eric IVIE, Daniel Robert GREENBAUM, Brent William HILLIARD, Robert Lewis SAMUELSON, Eric SATO, Robert Jan CTVRTLIK, Steve Dennis TIMMONS",1992 Barcelona,Volleyball,Men's,volleyball
+Summer,1992,Gold,CUB,Cuba,"Tania ORTIZ CALVO, Alejandrina LUIS, Regla TORRES, Mercedes CALDERON MARTINEZ, Magaly Esther CARVAJAL, Raisa O'FARRILL, Marlenis COSTA, Regla Maritza BELL, Norka LATAMBLET DAUDINOT, Ana Ibis FERNANDEZ, Lilia IZQUIERDO, Idalmis GATO",1992 Barcelona,Volleyball,Women's,volleyball
+Summer,1992,Silver,EUN,Unified Team (ex USSR),"Marina NIKOULINA, Evgenya ARTAMONOVA, Elena TYURINA, Tatyana SIDORENKO, Elena TCHEBOUKINA, Svetlana KORITOVA, Valentina OGIENKO, Tatiana MENCHOVA, Galina LEBEDEVA, Irina SMIRNOVA, Svetlana VASSILEVSKAIA, Natalia MOROZOVA",1992 Barcelona,Volleyball,Women's,volleyball
+Summer,1992,Bronze,USA,United States,"Yoko Karin ZETTERLUND, Tammy LILEY, Janet Marie COBBS, Paula Jo WEISHOFF, Tara CROSS-BATTLE, Ruth Modupe LAWANSON, Tonya WILLIAMS, Kimberly Yvette ODEN, Elaina Joyce ODEN, Lori Ann ENDICOTT, Caren Marie Alexis KEMNER, Liane Lissa SATO",1992 Barcelona,Volleyball,Women's,volleyball
+Summer,1992,Gold,ITA,Italy,"Gianni AVERAIMO, Alessandro CAMPAGNA, Massimiliano FERRETTI, Ferdinando GANDOLFI, Carlo SILIPO, Paolo CALDARELLA, Francesco ATTOLICO, Alessandro BOVO, Marco D'ALTRUI, Mario FIORILLO, Francesco PORZIO, Giuseppe PORZIO, Amedeo POMILIO",1992 Barcelona,Water Polo,Men's,water polo
+Summer,1992,Silver,ESP,Spain,"Ruben MICHAVILA JOVER, Sergi PEDREROL, Jesus ROLLAN, Jordi SANS, Pedro GARCIA AGUADO, Daniel BALLART, Salvador GOMEZ, Miguel Angel OCA, Jose PICO LLADO, Ricardo SANCHEZ ALARCON, Manuel SILVESTRE SANCHEZ, Manuel ESTIARTE, Marco Antonio GONZALEZ JUNQUERA",1992 Barcelona,Water Polo,Men's,water polo
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),"Alexandre OGORODNIKOV, Andrei BELOFASTOV, Dmitry GORSHKOV, Aleksandr KOLOTOV, Serguei MARKOTCH, Alexandre KOVALENKO, Sergey NAUMOV, Alexandre TCHIGUIR, Evgueni CHARONOV, Vladimir KARABOUTOV, Nikolai KOZLOV, Dmitri APANASSENKO, ? Alexei Vdovin",1992 Barcelona,Water Polo,Men's,water polo
+Summer,1992,Gold,BUL,Bulgaria,Ivan Ivanov IVANOV,1992 Barcelona,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1992,Silver,CHN,China,Qisheng LIN,1992 Barcelona,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1992,Bronze,ROU,Romania,Traian Ioachim CIHAREAN,1992 Barcelona,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1992,Gold,KOR,Korea Republic,Byung-Kwan CHUN,1992 Barcelona,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1992,Silver,CHN,China,Shoubin LIU,1992 Barcelona,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1992,Bronze,CHN,China,Jianming LUO,1992 Barcelona,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1992,Gold,TUR,Turkey,Naim SULEYMANOGLU,1992 Barcelona,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1992,Silver,BUL,Bulgaria,Nikolay PECHALOV,1992 Barcelona,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1992,Bronze,CHN,China,Ying-Qiang HE,1992 Barcelona,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Israel MILITOSIAN,1992 Barcelona,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1992,Silver,BUL,Bulgaria,Yoto Vassilev YOTOV,1992 Barcelona,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1992,Bronze,GER,Germany,Andreas BEHM,1992 Barcelona,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Fedor KASSAPU,1992 Barcelona,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1992,Silver,CUB,Cuba,Pablo LARA,1992 Barcelona,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1992,Bronze,PRK,Korea DPR,Myong Nam KIM,1992 Barcelona,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1992,Gold,GRE,Greece,Pyrros DIMAS,1992 Barcelona,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1992,Silver,POL,Poland,Krzysztof SIEMION,1992 Barcelona,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Akakios KAKIASVILIS,1992 Barcelona,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Serguei SYRTSOV,1992 Barcelona,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1992,Bronze,POL,Poland,Sergiusz WOLCZANIECKI,1992 Barcelona,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Victor TREGOUBOV,1992 Barcelona,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Timour TAIMAZOV,1992 Barcelona,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1992,Bronze,POL,Poland,Waldemar MALAK,1992 Barcelona,Weightlifting,Men's,90 - 100kg (first-heavyweight)
+Summer,1992,Gold,GER,Germany,Ronny WELLER,1992 Barcelona,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Artour AKOEV,1992 Barcelona,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1992,Bronze,BUL,Bulgaria,Stefan BOTEV,1992 Barcelona,Weightlifting,Men's,100 - 110kg (heavyweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Alexandre KURLOVICH,1992 Barcelona,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Leonid TARANENKO,1992 Barcelona,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1992,Bronze,GER,Germany,Manfred NERLINGER,1992 Barcelona,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1992,Gold,PRK,Korea DPR,Il KIM,1992 Barcelona,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1992,Silver,KOR,Korea Republic,Jong-Shin KIM,1992 Barcelona,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Vougar ORUDZHOV,1992 Barcelona,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1992,Gold,PRK,Korea DPR,Hak-Son LI,1992 Barcelona,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1992,Silver,USA,United States,Larry Lee JONES,1992 Barcelona,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1992,Bronze,BUL,Bulgaria,Valentin Yordanov DIMITROV,1992 Barcelona,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1992,Gold,CUB,Cuba,Alejandro PUERTO DIAZ,1992 Barcelona,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Serguei SMAL,1992 Barcelona,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1992,Bronze,PRK,Korea DPR,Yong Sik KIM,1992 Barcelona,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1992,Gold,USA,United States,John SMITH,1992 Barcelona,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1992,Silver,IRI,Iran,Asgari MOHAMMADIAN,1992 Barcelona,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1992,Bronze,CUB,Cuba,Lazaro REINOSO MARTINEZ,1992 Barcelona,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Arsen FADZAEV,1992 Barcelona,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1992,Silver,BUL,Bulgaria,Valentin Dotchev GETZOV,1992 Barcelona,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1992,Bronze,JPN,Japan,Kosei AKAISHI,1992 Barcelona,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1992,Gold,KOR,Korea Republic,Jang-Soon PARK,1992 Barcelona,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1992,Silver,USA,United States,Kenneth MONDAY,1992 Barcelona,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1992,Bronze,IRI,Iran,Amir Reza KHADEM AZGHADI,1992 Barcelona,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1992,Gold,USA,United States,Kevin JACKSON,1992 Barcelona,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Elmadi JABRAILOV,1992 Barcelona,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1992,Bronze,IRI,Iran,Rasul KHADEM AZGHADI,1992 Barcelona,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Makharbek KHADARTSEV,1992 Barcelona,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1992,Silver,TUR,Turkey,Kenan SIMSEK,1992 Barcelona,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1992,Bronze,USA,United States,Christopher CAMPBELL,1992 Barcelona,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Leri KHABELOV,1992 Barcelona,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1992,Silver,GER,Germany,Heiko BALZ,1992 Barcelona,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1992,Bronze,TUR,Turkey,Ali KAYALI,1992 Barcelona,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1992,Gold,USA,United States,Bruce Robert BAUMGARTNER,1992 Barcelona,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1992,Silver,CAN,Canada,Jeffrey James Milton THUE,1992 Barcelona,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),David GOBEDJICHVILI,1992 Barcelona,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Oleg KOUTCHERENKO,1992 Barcelona,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1992,Silver,ITA,Italy,Vincenzo MAENZA,1992 Barcelona,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1992,Bronze,CUB,Cuba,Wilber SANCHEZ AMITA,1992 Barcelona,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1992,Gold,NOR,Norway,Jon RÖNNINGEN,1992 Barcelona,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Alfred TER-MKRTCHYAN,1992 Barcelona,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1992,Bronze,KOR,Korea Republic,Kyung-Kap MIN,1992 Barcelona,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1992,Gold,KOR,Korea Republic,Han-Bong AN,1992 Barcelona,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1992,Silver,GER,Germany,Rifat YILDIZ,1992 Barcelona,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1992,Bronze,CHN,China,Zetian SHENG,1992 Barcelona,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1992,Gold,TUR,Turkey,Akif PIRIM,1992 Barcelona,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Serguei MARTYNOV,1992 Barcelona,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1992,Bronze,CUB,Cuba,Juan Luis MAREN,1992 Barcelona,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1992,Gold,HUN,Hungary,Attila REPKA,1992 Barcelona,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1992,Silver,EUN,Unified Team (ex USSR),Islam DOUGOUTCHIEV,1992 Barcelona,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1992,Bronze,USA,United States,Rodney SMITH,1992 Barcelona,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Mnatsakan ISKANDARIAN,1992 Barcelona,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1992,Silver,POL,Poland,Jozef TRACZ,1992 Barcelona,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1992,Bronze,SWE,Sweden,Torbjoern KORNBAKK,1992 Barcelona,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1992,Gold,HUN,Hungary,Peter FARKAS,1992 Barcelona,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1992,Silver,POL,Poland,Piotr STEPIEN,1992 Barcelona,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Daoulet TOURLYKHANOV,1992 Barcelona,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1992,Gold,GER,Germany,Maik BULLMANN,1992 Barcelona,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1992,Silver,TUR,Turkey,Hakki BASAR,1992 Barcelona,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Gogui KOGOUACHVILI,1992 Barcelona,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1992,Gold,CUB,Cuba,Hector MILIAN PEREZ,1992 Barcelona,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1992,Silver,USA,United States,Dennis Marvin KOSLOWSKI,1992 Barcelona,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1992,Bronze,EUN,Unified Team (ex USSR),Serguei DEMIACHKIEVITCH,1992 Barcelona,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1992,Gold,EUN,Unified Team (ex USSR),Aleksandr KARELIN,1992 Barcelona,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1992,Silver,SWE,Sweden,Tomas JOHANSSON,1992 Barcelona,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1992,Bronze,ROU,Romania,Ioan GRIGORAS,1992 Barcelona,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1992,Gold,CUB,Cuba,"Luis ULACIA, Juan PADILLA, Jose Antonio ESTRADA, Juan Carlos PEREZ RONDON, Victor MESA MARTINEZ, Lazaro VARGAS, German MESA FRESNEDA, Rolando ARROJO AVILA, Osvaldo FERNANDEZ RODRIGUEZ, Giorge DIAZ LOREN, Ermidelio URRUTIA QUIROGA, Alberto HERNANDEZ, Lourdes GURRIEL DELGADO, Antonio PACHECO, Omar AJETE, Jorge Luis VALDES BERRIEL, Omar LINARES, Jose Raul DELGADO DIEZ, Orestes KINDELAN, Orlando HERNANDEZ PEDROSO",1992 Barcelona,Baseball^(1992-2008),Men's,baseball
+Summer,1992,Silver,TPE,Chinese Taipei,"Kun-Han LIN, Yaw-Teing CHANG, Kuo-Chong LO, Kun-Hong PAI, Ming-Hung TSAI, Wei-Chen CHEN, Shih-Hsih WU, Yeu-Jeng JONG, Chen-Jung LO, Kuo-Chian KU, Chao-Huang LIN, Kuang-Shih WANG, Ming-Hsiung LIAO, Tai-Chuan CHIANG, Chien-Fu KUO LEE, Cheng-Hsien CHANG, Wen-Po HUANG, Wen-Chung CHANG, Chung-Yi HUANG, Chi-Hsin CHEN",1992 Barcelona,Baseball^(1992-2008),Men's,baseball
+Summer,1992,Bronze,JPN,Japan,"Masahito KOHIYAMA, Masanori SUGIURA, Koichi OSHIMA, Hirotami KOJIMA, Kento SUGIYAMA, Kazutaka NISHIYAMA, Masafumi NISHI, Takashi MIWA, Hiroshi NAKAMOTO, Yasunori TAKAMI, Tomohito ITO, Shinichiro KAWABATA, Akihiro TOGO, Hiroki KOKUBO, Katsumi WATANABE, Shigeki WAKABAYASHI, Koji TOKUNAGA, Shinichi SATO, Hiroyuki SAKAGUCHI, Yasuhiro SATO",1992 Barcelona,Baseball^(1992-2008),Men's,baseball

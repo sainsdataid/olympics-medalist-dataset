@@ -1,0 +1,326 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1908,Gold,GBR,Great Britain,William DOD,1908 London,Archery,Men's,double york round (100y - 80y - 60y)
+Summer,1908,Silver,GBR,Great Britain,Reginald B. BROOKS-KING,1908 London,Archery,Men's,double york round (100y - 80y - 60y)
+Summer,1908,Bronze,USA,United States,Henry Barber RICHARDSON,1908 London,Archery,Men's,double york round (100y - 80y - 60y)
+Summer,1908,Gold,FRA,France,Eugène G. GRIZOT,1908 London,Archery,Men's,continental style 50m
+Summer,1908,Silver,FRA,France,Louis VERNET,1908 London,Archery,Men's,continental style 50m
+Summer,1908,Bronze,FRA,France,Gustave CABARET,1908 London,Archery,Men's,continental style 50m
+Summer,1908,Gold,GBR,Great Britain,Sybil Fenton Quenni NEWALL,1908 London,Archery,Women's,double national round (60y - 50y)
+Summer,1908,Silver,GBR,Great Britain,Charlotte DOD,1908 London,Archery,Women's,double national round (60y - 50y)
+Summer,1908,Bronze,GBR,Great Britain,Beatrice Geraldine HILL-LOWE,1908 London,Archery,Women's,double national round (60y - 50y)
+Summer,1908,Gold,RSA,South Africa,Reginald WALKER,1908 London,Athletics,Men's,100m
+Summer,1908,Silver,USA,United States,James RECTOR,1908 London,Athletics,Men's,100m
+Summer,1908,Bronze,CAN,Canada,Robert KERR,1908 London,Athletics,Men's,100m
+Summer,1908,Gold,CAN,Canada,Robert KERR,1908 London,Athletics,Men's,200m
+Summer,1908,Silver,USA,United States,Robert CLOUGHEN,1908 London,Athletics,Men's,200m
+Summer,1908,Bronze,USA,United States,John Nathaniel CARTMELL,1908 London,Athletics,Men's,200m
+Summer,1908,Gold,GBR,Great Britain,Wyndham HALSWELLE,1908 London,Athletics,Men's,400m
+Summer,1908,Gold,USA,United States,Melvin SHEPPARD,1908 London,Athletics,Men's,800m
+Summer,1908,Silver,ITA,Italy,Emilio LUNGHI,1908 London,Athletics,Men's,800m
+Summer,1908,Bronze,GER,Germany,Hans BRAUN,1908 London,Athletics,Men's,800m
+Summer,1908,Gold,USA,United States,Melvin SHEPPARD,1908 London,Athletics,Men's,1500m
+Summer,1908,Silver,GBR,Great Britain,Harold WILSON,1908 London,Athletics,Men's,1500m
+Summer,1908,Bronze,GBR,Great Britain,Norman HALLOWS,1908 London,Athletics,Men's,1500m
+Summer,1908,Gold,GBR,Great Britain,Emil Robert VOIGT,1908 London,Athletics,Men's,5 miles (8047m)
+Summer,1908,Silver,GBR,Great Britain,Edward OWEN,1908 London,Athletics,Men's,5 miles (8047m)
+Summer,1908,Bronze,SWE,Sweden,Johan Fritiof SVANBERG,1908 London,Athletics,Men's,5 miles (8047m)
+Summer,1908,Gold,USA,United States,John Joseph HAYES,1908 London,Athletics,Men's,marathon
+Summer,1908,Silver,RSA,South Africa,Charles A. HEFFERON,1908 London,Athletics,Men's,marathon
+Summer,1908,Bronze,USA,United States,Joseph FORSHAW,1908 London,Athletics,Men's,marathon
+Summer,1908,Gold,USA,United States,"William Frank HAMILTON, John Baxter TAYLOR, John Nathaniel CARTMELL, Melvin SHEPPARD",1908 London,Athletics,Men's,200m+200m+400m+800m medley relay
+Summer,1908,Silver,GER,Germany,"Otto P. TRIELOFF, Artur HOFFMANN, Hans BRAUN, Hans EICKE",1908 London,Athletics,Men's,200m+200m+400m+800m medley relay
+Summer,1908,Bronze,HUN,Hungary,"Pal SIMON, Jozsef NAGY, G. RACZ, Ödön BODOR",1908 London,Athletics,Men's,200m+200m+400m+800m medley relay
+Summer,1908,Gold,GBR,Great Britain,"Joseph Edmund DEAKIN, William COALES, Arthur James ROBERTSON",1908 London,Athletics,Men's,3miles team (4828m)
+Summer,1908,Silver,USA,United States,"George V. BONHAG, John Lincoln EISELE, Herbert Lawrence TRUBE",1908 London,Athletics,Men's,3miles team (4828m)
+Summer,1908,Bronze,FRA,France,"Louis N. DE FLEURAC, Paul LIJANDIER, Joseph DREHER",1908 London,Athletics,Men's,3miles team (4828m)
+Summer,1908,Gold,USA,United States,Forrest SMITHSON,1908 London,Athletics,Men's,110m hurdles
+Summer,1908,Silver,USA,United States,John Carlyle GARRELS,1908 London,Athletics,Men's,110m hurdles
+Summer,1908,Bronze,USA,United States,Arthur SHAW,1908 London,Athletics,Men's,110m hurdles
+Summer,1908,Gold,USA,United States,Charles Joseph BACON,1908 London,Athletics,Men's,400m hurdles
+Summer,1908,Silver,USA,United States,Harry HILLMAN,1908 London,Athletics,Men's,400m hurdles
+Summer,1908,Bronze,GBR,Great Britain,Leonard Francis TREMEER,1908 London,Athletics,Men's,400m hurdles
+Summer,1908,Gold,GBR,Great Britain,Arthur RUSSELL,1908 London,Athletics,Men's,3200m steeplechase
+Summer,1908,Silver,GBR,Great Britain,Arthur James ROBERTSON,1908 London,Athletics,Men's,3200m steeplechase
+Summer,1908,Bronze,USA,United States,John Lincoln EISELE,1908 London,Athletics,Men's,3200m steeplechase
+Summer,1908,Gold,GBR,Great Britain,George Edward LARNER,1908 London,Athletics,Men's,3500m walk
+Summer,1908,Silver,GBR,Great Britain,Ernest WEBB,1908 London,Athletics,Men's,3500m walk
+Summer,1908,Bronze,ANZ,Australasia,Harry E. KERR,1908 London,Athletics,Men's,3500m walk
+Summer,1908,Gold,GBR,Great Britain,George Edward LARNER,1908 London,Athletics,Men's,10miles walk (16093m)
+Summer,1908,Silver,GBR,Great Britain,Ernest WEBB,1908 London,Athletics,Men's,10miles walk (16093m)
+Summer,1908,Bronze,GBR,Great Britain,Edward Adams SPENCER,1908 London,Athletics,Men's,10miles walk (16093m)
+Summer,1908,Gold,USA,United States,Francis C. IRONS,1908 London,Athletics,Men's,long jump
+Summer,1908,Silver,USA,United States,Daniel KELLY,1908 London,Athletics,Men's,long jump
+Summer,1908,Bronze,CAN,Canada,Calvin David BRICKER,1908 London,Athletics,Men's,long jump
+Summer,1908,Gold,USA,United States,Ray EWRY,1908 London,Athletics,Men's,"long jump, standing"
+Summer,1908,Silver,GRE,Greece,Konstantinos TSICLITIRAS,1908 London,Athletics,Men's,"long jump, standing"
+Summer,1908,Bronze,USA,United States,Martin SHERIDAN,1908 London,Athletics,Men's,"long jump, standing"
+Summer,1908,Gold,GBR,Great Britain,Timoty J. AHEARNE,1908 London,Athletics,Men's,triple jump
+Summer,1908,Silver,CAN,Canada,J.Garfield MACDONALD,1908 London,Athletics,Men's,triple jump
+Summer,1908,Bronze,NOR,Norway,Edvard LARSEN,1908 London,Athletics,Men's,triple jump
+Summer,1908,Gold,USA,United States,Harry Franklin PORTER,1908 London,Athletics,Men's,high jump
+Summer,1908,Silver,FRA,France,Georges ANDRE,1908 London,Athletics,Men's,high jump
+Summer,1908,Silver,GBR,Great Britain,Cornelius LEAHY,1908 London,Athletics,Men's,high jump
+Summer,1908,Silver,HUN,Hungary,Istvan SOMODY,1908 London,Athletics,Men's,high jump
+Summer,1908,Gold,USA,United States,Ray EWRY,1908 London,Athletics,Men's,"high jump, standing"
+Summer,1908,Silver,GRE,Greece,Konstantinos TSICLITIRAS,1908 London,Athletics,Men's,"high jump, standing"
+Summer,1908,Silver,USA,United States,John BILLER,1908 London,Athletics,Men's,"high jump, standing"
+Summer,1908,Gold,USA,United States,Alfred Carleten GILBERT,1908 London,Athletics,Men's,pole vault
+Summer,1908,Gold,USA,United States,Edward Tiffin COOKE,1908 London,Athletics,Men's,pole vault
+Summer,1908,Bronze,CAN,Canada,Edward Blake ARCHIBALD,1908 London,Athletics,Men's,pole vault
+Summer,1908,Bronze,SWE,Sweden,Bruno SÖDERSTRÖM,1908 London,Athletics,Men's,pole vault
+Summer,1908,Bronze,USA,United States,Charles Sherman JACOBS,1908 London,Athletics,Men's,pole vault
+Summer,1908,Gold,USA,United States,Martin SHERIDAN,1908 London,Athletics,Men's,discus throw
+Summer,1908,Silver,USA,United States,Merritt Hayward GIFFIN,1908 London,Athletics,Men's,discus throw
+Summer,1908,Bronze,USA,United States,Marquis Franklin HORR,1908 London,Athletics,Men's,discus throw
+Summer,1908,Gold,USA,United States,Martin SHERIDAN,1908 London,Athletics,Men's,discus throw ancient style
+Summer,1908,Silver,USA,United States,Marquis Franklin HORR,1908 London,Athletics,Men's,discus throw ancient style
+Summer,1908,Bronze,FIN,Finland,Werner JÄRVINEN,1908 London,Athletics,Men's,discus throw ancient style
+Summer,1908,Gold,USA,United States,John Jesus FLANAGAN,1908 London,Athletics,Men's,hammer throw
+Summer,1908,Silver,USA,United States,Matthew J. MCGRATH,1908 London,Athletics,Men's,hammer throw
+Summer,1908,Bronze,CAN,Canada,Cornelius WALSH,1908 London,Athletics,Men's,hammer throw
+Summer,1908,Gold,USA,United States,Ralph ROSE,1908 London,Athletics,Men's,shot put
+Summer,1908,Silver,GBR,Great Britain,Dennis HORGAN,1908 London,Athletics,Men's,shot put
+Summer,1908,Bronze,USA,United States,John Carlyle GARRELS,1908 London,Athletics,Men's,shot put
+Summer,1908,Gold,SWE,Sweden,Eric LEMMING,1908 London,Athletics,Men's,javelin throw
+Summer,1908,Silver,NOR,Norway,Arne HALSE,1908 London,Athletics,Men's,javelin throw
+Summer,1908,Bronze,SWE,Sweden,Otto NILSSON,1908 London,Athletics,Men's,javelin throw
+Summer,1908,Gold,SWE,Sweden,Eric LEMMING,1908 London,Athletics,Men's,javelin throw freestyle
+Summer,1908,Silver,GRE,Greece,Mikael M. DORIZAS,1908 London,Athletics,Men's,javelin throw freestyle
+Summer,1908,Bronze,NOR,Norway,Arne HALSE,1908 London,Athletics,Men's,javelin throw freestyle
+Summer,1908,Gold,GBR,Great Britain,A. Henry THOMAS,1908 London,Boxing,Men's,- 52.62kg (bantamweight)
+Summer,1908,Silver,GBR,Great Britain,John CONDON,1908 London,Boxing,Men's,- 52.62kg (bantamweight)
+Summer,1908,Bronze,GBR,Great Britain,William WEBB,1908 London,Boxing,Men's,- 52.62kg (bantamweight)
+Summer,1908,Gold,GBR,Great Britain,Richard Kenneth GUNN,1908 London,Boxing,Men's,52.62 - 57.15kg (featherweight)
+Summer,1908,Silver,GBR,Great Britain,Charles W. MORRIS,1908 London,Boxing,Men's,52.62 - 57.15kg (featherweight)
+Summer,1908,Bronze,GBR,Great Britain,Hugh RODDIN,1908 London,Boxing,Men's,52.62 - 57.15kg (featherweight)
+Summer,1908,Gold,GBR,Great Britain,Frederick GRACE,1908 London,Boxing,Men's,57.15 - 63.5kg (lightweight)
+Summer,1908,Silver,GBR,Great Britain,M. Frederick SPILLER,1908 London,Boxing,Men's,57.15 - 63.5kg (lightweight)
+Summer,1908,Bronze,GBR,Great Britain,Harry H. JOHNSON,1908 London,Boxing,Men's,57.15 - 63.5kg (lightweight)
+Summer,1908,Gold,GBR,Great Britain,John William Henry T. DOUGLAS,1908 London,Boxing,Men's,63.5 - 71.67kg (middleweight)
+Summer,1908,Silver,ANZ,Australasia,Reginald L. BAKER,1908 London,Boxing,Men's,63.5 - 71.67kg (middleweight)
+Summer,1908,Bronze,GBR,Great Britain,William PHILO,1908 London,Boxing,Men's,63.5 - 71.67kg (middleweight)
+Summer,1908,Gold,GBR,Great Britain,Albert Leonard OLDMAN,1908 London,Boxing,Men's,+ 71.67kg (heavyweight)
+Summer,1908,Silver,GBR,Great Britain,Sydney Charles H. EVANS,1908 London,Boxing,Men's,+ 71.67kg (heavyweight)
+Summer,1908,Bronze,GBR,Great Britain,Frederick PARKS,1908 London,Boxing,Men's,+ 71.67kg (heavyweight)
+Summer,1908,Gold,GBR,Great Britain,Victor Louis JOHNSON,1908 London,Cycling Track,Men's,One lap (660y) sprint
+Summer,1908,Silver,FRA,France,Emile DEMANGEL,1908 London,Cycling Track,Men's,One lap (660y) sprint
+Summer,1908,Bronze,GER,Germany,Karl NEUMER,1908 London,Cycling Track,Men's,One lap (660y) sprint
+Summer,1908,Gold,GBR,Great Britain,Benjamin JONES,1908 London,Cycling Track,Men's,5000m
+Summer,1908,Silver,FRA,France,Maurice SCHILLES,1908 London,Cycling Track,Men's,5000m
+Summer,1908,Bronze,FRA,France,André AUFFRAY,1908 London,Cycling Track,Men's,5000m
+Summer,1908,Gold,GBR,Great Britain,Clarence Brickwood KINGSBURY,1908 London,Cycling Track,Men's,20km
+Summer,1908,Silver,GBR,Great Britain,Benjamin JONES,1908 London,Cycling Track,Men's,20km
+Summer,1908,Bronze,BEL,Belgium,Joseph WERBROECK,1908 London,Cycling Track,Men's,20km
+Summer,1908,Gold,GBR,Great Britain,Charles Henry BARTLETT,1908 London,Cycling Track,Men's,100km
+Summer,1908,Silver,GBR,Great Britain,Arthur DENNY,1908 London,Cycling Track,Men's,100km
+Summer,1908,Bronze,FRA,France,Octave LAPIZE,1908 London,Cycling Track,Men's,100km
+Summer,1908,Gold,FRA,France,"Maurice SCHILLES, André AUFFRAY",1908 London,Cycling Track,Men's,2000m tandem
+Summer,1908,Silver,GBR,Great Britain,"Frederick G. HAMLIN, Horace Thomas JOHNSON",1908 London,Cycling Track,Men's,2000m tandem
+Summer,1908,Bronze,GBR,Great Britain,"Colin BROOKS, Walter H.T. ISAACS",1908 London,Cycling Track,Men's,2000m tandem
+Summer,1908,Gold,GBR,Great Britain,"Ernest PAYNE, Benjamin JONES, Leonard Lewis MEREDITH, Clarence Brickwood KINGSBURY",1908 London,Cycling Track,Men's,"1980 yards Pursuit, Team"
+Summer,1908,Silver,GER,Germany,"Karl NEUMER, Herman MARTENS, Max GÖTZE, Rudolf KATZER",1908 London,Cycling Track,Men's,"1980 yards Pursuit, Team"
+Summer,1908,Bronze,CAN,Canada,"Frederick MCCARTHY, William MORTON, William ANDERSON, Walter ANDREWS",1908 London,Cycling Track,Men's,"1980 yards Pursuit, Team"
+Summer,1908,,,,,1908 London,Cycling Track,Men's,sprint individual
+Summer,1908,Gold,GER,Germany,Albert ZÜRNER,1908 London,Diving,Men's,3m springboard
+Summer,1908,Silver,GER,Germany,Kurt BEHRENS,1908 London,Diving,Men's,3m springboard
+Summer,1908,Bronze,GER,Germany,Gottlob WALZ,1908 London,Diving,Men's,3m springboard
+Summer,1908,Bronze,USA,United States,George William GAIDZIK,1908 London,Diving,Men's,3m springboard
+Summer,1908,Gold,SWE,Sweden,Hjalmar JOHANSSON,1908 London,Diving,Men's,10m platform
+Summer,1908,Silver,SWE,Sweden,Karl MALMSTRÖM,1908 London,Diving,Men's,10m platform
+Summer,1908,Bronze,SWE,Sweden,Arvid SPANGBERG,1908 London,Diving,Men's,10m platform
+Summer,1908,Gold,FRA,France,Gaston ALIBERT,1908 London,Fencing,Men's,épée individual
+Summer,1908,Silver,FRA,France,Alexandre LIPPMANN,1908 London,Fencing,Men's,épée individual
+Summer,1908,Bronze,FRA,France,Eugène Victor OLIVIER,1908 London,Fencing,Men's,épée individual
+Summer,1908,Gold,FRA,France,"Gaston ALIBERT, Charles COLLIGNON, Henri-Georges BERGER, Eugène Victor OLIVIER",1908 London,Fencing,Men's,épée team
+Summer,1908,Silver,GBR,Great Britain,"Cecil Henry HAIG, Robert Cecil MONTGOMERIE, Martin Drummond HOLT, Charles Leaf DANIELL",1908 London,Fencing,Men's,épée team
+Summer,1908,Bronze,BEL,Belgium,"Paul ANSPACH, Ferdinand FEYERICK, Fernand DE MONTIGNY, Désiré BEURAIN, François ROM",1908 London,Fencing,Men's,épée team
+Summer,1908,Gold,HUN,Hungary,Jenö FUCHS,1908 London,Fencing,Men's,sabre individual
+Summer,1908,Silver,HUN,Hungary,Béla ZULAWSKY,1908 London,Fencing,Men's,sabre individual
+Summer,1908,Bronze,BOH,Bohemia,Vilem GOPPOLD DE LOBSDORF,1908 London,Fencing,Men's,sabre individual
+Summer,1908,Gold,HUN,Hungary,"Jenö FUCHS, Peter TOTH, Oskar GERDE, Lajos WERKNER",1908 London,Fencing,Men's,sabre team
+Summer,1908,Silver,ITA,Italy,"Abelardo OLIVIER, Riccardo NOWAK, Alessandro PIRZIO BIROLI, Marcello BERTINETTI",1908 London,Fencing,Men's,sabre team
+Summer,1908,Bronze,BOH,Bohemia,"Frantisek TUCEK, Bedrich SCHEJBAL, Vilem GOPPOLD DE LOBSDORF, Vlastimil LADA",1908 London,Fencing,Men's,sabre team
+Summer,1908,Gold,GBR,Great Britain,"Horace Peter BAILEY, Herbert SMITH, Frederick William CHAPMAN, Arthur BERRY, Henry STAPLEY, Harold Payne HARDMAN, Walter Samuel CORBETT, Kenneth Reginald Gunnery HUNT, Robert Murray HAWKES, Vivian John WOODWARD, Clyde Honeysett PURNELL",1908 London,Football,Men's,football
+Summer,1908,Silver,DEN,Denmark,"Charles BUCHWALD, Harald August BOHR, Niels MIDDELBOE, Sofus Erhard NIELSEN, Björn Vilhelm Ravn RASMUSSEN, Ludwig DRESCHER, Harald HANSEN, Christian MIDDELBOE, Niels Oscar NIELSEN, August Ludwig LINDGREEN, Vilhelm WOLFHAGEN",1908 London,Football,Men's,football
+Summer,1908,Bronze,NED,Netherlands,"Reinier Bertus BREUWKES, Lou OTTEN, Johannes Marius DE KORVER, Jan Herman WELCKER, Gerald Simon REEMAN, George François DE BRUYN KOPS, Karel HEIJTING, Johan Eduard SOL, Emil Gustav MUNDT, Eduard SNETLAGE, Jan THOMEE",1908 London,Football,Men's,football
+Summer,1908,Gold,ITA,Italy,G. Alberto BRAGLIA,1908 London,Gymnastics Artistic,Men's,individual all-round
+Summer,1908,Silver,GBR,Great Britain,S.W. TYSAL,1908 London,Gymnastics Artistic,Men's,individual all-round
+Summer,1908,Bronze,FRA,France,B. Louis SEGURA,1908 London,Gymnastics Artistic,Men's,individual all-round
+Summer,1908,Gold,SWE,Sweden,"Gustaf ROSENQUIST, Olle LANNER, S. SANDBERG, Carl HOLMBERG, Alex SEGER, J. MÖLLER, Axel SJÖBLOM, Eric NORBERG, Yngve STIERNSPETZ, H. JONSSON, Karl Gustaf VINGQVIST, G. WIEKMAN, Haakon SÖRVIK, Carl SILFVERSTRAND, Gosta ASBRINK, Per Daniel BERTILSSON, Andreas CERVIN, C. ERIKSSON, Sven FORSSMAN, T. ANDERSSON, Carl HARLEMANN, Gunnar HÖJER, Hjalmar Axel Ritz CEDERCRONA, Hugo JAHNKE, D. NORBERG, Johan JARTEN, G. OLSEN, F. GEIDEL, H. RASSANDER, L. KJELLEN, C. RYDIN, Sven LANDBERG, Albert SEGER, Osvald MOBERG, Axel NORLING, Per Einar NILSSON, Birger SÖRVIK, Thomas NORBERG, Karl Johan SVENSSON, Sven ROSEN, David WIMAN, Nils KANTZOW, F. WIDELL, C. BERGMAN, G. Vilhelm CARLBERG, Rudolf DEGERMARK, Carl Wilhelm FOLCKER, S. FORSSEN, Erik GRANFELT, Nils Erik HELLSTEN, Arvid HOLMBERG, Osvald HOLMBERG, O. JANSSON, Lars Daniel NORLING, Gustag JOHNSSON, Leonard PETTERSON, Rolf JOHNSSON, Axel LJUNG, L. KIRISTEN",1908 London,Gymnastics Artistic,Men's,team competition
+Summer,1908,Silver,NOR,Norway,"Paul PEDERSEN, Arthur M. AMUNDSEN, P.A. BERSEN, Trygve Carlsen BOYESEN, J. FORSTENSEN, Harald HALVORSEN, Peter HOL, Ole IVERSEN, Sigurd Erhardt A. JOHANESSEN, Carl KLAETH, Rolf LEFDAHL, Anders MOEN, Carl Alfred PEDERSEN, B. SALVESEN, Harald SMEVIK, Andreas STRAND, Thor LARSEN, Olaf SYVERTSEN, Otto F. AUTHEN, Hermann BOHNE, Oscar Wilhelm BYE, Sverre GRÖNER, Harald HANSEN, Carl Albert ANDERSEN, Per Mathias JESPERSEN, Nicolai KIOER, Conrad M. CARLSRUD, Hans Schumann LEM, Fritjof OLSEN, Eugene ENGEBRETSEN, Johan SKRATAAS, Sigvard SIVERTSEN",1908 London,Gymnastics Artistic,Men's,team competition
+Summer,1908,Bronze,FIN,Finland,"Kurt Enoch STENBERG, Aarne SALOVAARA, Otto GRANSTRÖM, Livara KYYKOSKI, Edvard LINNA, Matti MARKKANEN, Veli Heikki NIEMINEN, Aarne POHJONEN, H.A. RÜPINEN, Johan LINDROTH, Einar Werner SAHLSTEIN, Viktor SMEDS, Kaarlo Kustaa PAASIA, Karl Magnus WEGELIUS, Eino Vilho FORSSTRÖM, Johan Valdemar KEMP, Heikki LEHMUSTO, Yrjö LINKO, Kaasrlo Eino MIKKOLAINEN, Arvi POHJANPÄÄ, Eino RAILIO, Arno SAARINEN, Karl Viktor Torsten SANDELIN, Eljas E. SIPILÄ, Kaarlo Kyösti SOINIO",1908 London,Gymnastics Artistic,Men's,team competition
+Summer,1908,Gold,GBR,Great Britain,"Percy Montague REES, Louischarles BAILLON, Alan H. NOBLE, Gerald LOGAN, John Yate ROBINSON, Reginald Geoge PRIDMORE, Harvey Jesse WOOD, Harry Scott FREEMAN, Stanley Howard SHOVELLER, Edgar Wells PAGE, Eric Hubert GREEN",1908 London,Hockey,Men's,hockey
+Summer,1908,Silver,GBR,Great Britain,"Walter Islay CAMPBELL, Charles F. POWER, Walter E. PETERSON, William Ernest GRAHAM, Frank L. ROBINSON, Henry Lawson MURPHY, Richard George GREGG, Edgar Peter C. HOLMES, Henry Joseph BROWN, Robert L. KENNEDY, Eric Percival ALLMAN-SMITH",1908 London,Hockey,Men's,hockey
+Summer,1908,Bronze,GBR,Great Britain,"Alexander Burt, Alastair Denniston, Hew Fraser, Ivan Laing, William Orchardson, Hugh Walker, John Burt, Charles Foulkes, James Harper-Orr, Hugh Neilson, Norman Stevenson",1908 London,Hockey,Men's,hockey
+Summer,1908,Bronze,GBR,Great Britain,"Llewellyn Evans, Richard Lyne, Frederick Phillips, Charles Shephard, Philip Turnbull, Frank Connah, Arthur Law, Wilfred Pallott, Edward Richards, Bertrand Turnbull, James Williams",1908 London,Hockey,Men's,hockey
+Summer,1908,Gold,GBR,Great Britain,Harry Thomas BLACKSTAFFE,1908 London,Rowing,Men's,single sculls (1x)
+Summer,1908,Silver,GBR,Great Britain,Alexander MCCULLOCH,1908 London,Rowing,Men's,single sculls (1x)
+Summer,1908,Bronze,GER,Germany,Bernhard VON GAZA,1908 London,Rowing,Men's,single sculls (1x)
+Summer,1908,Bronze,HUN,Hungary,Károly LEVICZKY,1908 London,Rowing,Men's,single sculls (1x)
+Summer,1908,Gold,GBR,Great Britain,"Gordon Lindsay THOMSON, John Reginald Keith FENNING",1908 London,Rowing,Men's,pair without coxswain (2-)
+Summer,1908,Silver,GBR,Great Britain,"Philip VERDON, George Eric FAIRBAIRN",1908 London,Rowing,Men's,pair without coxswain (2-)
+Summer,1908,Bronze,CAN,Canada,"Norman B. JACKES, Fred P. TOMS",1908 London,Rowing,Men's,pair without coxswain (2-)
+Summer,1908,Bronze,GER,Germany,"Willi DÜSKOW, Martin STAHNKE",1908 London,Rowing,Men's,pair without coxswain (2-)
+Summer,1908,Gold,GBR,Great Britain,"James Angus GILLAN, John Robert SOMERS-SMITH, Collier Robert CUDMORE, Duncan MACKINNON",1908 London,Rowing,Men's,four without coxswain (4-)
+Summer,1908,Silver,GBR,Great Britain,"Harold Ross BARKER, Gordon Lindsay THOMSON, Philip Rowland FILLEUL, John Reginald Keith FENNING",1908 London,Rowing,Men's,four without coxswain (4-)
+Summer,1908,Bronze,CAN,Canada,"Becher Gale, Geoffrey Taylor, Gordon Balfour, Charles Riddy",1908 London,Rowing,Men's,four without coxswain (4-)
+Summer,1908,Bronze,NED,Netherlands,"Albertus Wielsma, Bernardus Croon, Hermannus Höfte, Johan Burk",1908 London,Rowing,Men's,four without coxswain (4-)
+Summer,1908,Gold,GBR,Great Britain,"Frederick Septimus KELLY, Guy O. NICKALLS, Henry Cresswell BUCKNALL, Charles Desborough BURNELL, Albert Charles GLADSTONE, Banner Carruthers JOHNSTONE, Raymond Broadley ETHERINGTON-SMITH, Gilchrist Stanley MACLAGAN, Ronald Harcour SANDERSON",1908 London,Rowing,Men's,eight with coxswain (8+)
+Summer,1908,Silver,BEL,Belgium,"Oscar TAELMAN, François VERGUCHT, Oscar Charles DE SOMVILLE, Rémy ORBAN, Alfred VAN LANDEGHEM, Georges MIJS, Polydore VEIRMAN, Marcel MORIMONT, Rodolphe POMA",1908 London,Rowing,Men's,eight with coxswain (8+)
+Summer,1908,Bronze,CAN,Canada,"Julius A. THOMSON, Gordon Bruce BALFOUR, Charles RIDDY, Goeffrey Barron TAYLOR, Walter Aiken LEWIS, Becher Robert GALE, Douglas Edwin KERTLAND, Irvine Geale ROBERTSON, Joseph George WRIGHT",1908 London,Rowing,Men's,eight with coxswain (8+)
+Summer,1908,Bronze,GBR,Great Britain,"Richard Frederick BOYLE, Frank Harold JERWOOD, Eric Walter POWELL, Oswald Armitage CARVER, Edward Gordon WILLIAMS, John Southerden BURN, Harold Edward KITCHING, Douglas Cecil Rees STUART, Henry Mills GOLDSMITH",1908 London,Rowing,Men's,eight with coxswain (8+)
+Summer,1908,Gold,ANZ,Australasia,"Charles RUSSELL, John HICKEY, Patrick MCCUE, Frank BEDE-SMITH, Arthur J. MCCABE, Albert Sidney MIDDLETON, Emmanuel MCARTHUR, Daniel Brendan CARROLL, Jumbo BARNETT, Robert R. CRAIG, Christopher MCKIVATT, Thomas GRIFFEN, Thomas RICHARDS, Charles MCMURTRIE, Philipp CARMICHAEL",1908 London,Rugby,Men's,rugby
+Summer,1908,Silver,GBR,Great Britain,"L.F. DEAN, A. WILLCOCKS, Edward John JACKETT, Richard JACKETT, James DAVEY, Arthur James WILSON, C.R. MARSHALL, Bertram SOLOMON, J.T. JOSE, J. TREVASKIS, Thomas Greenfeld WEDGE, E.J. JONES, A. LAWREY, Nicholaos TREGURTHA, J.C Barney SOLOMON",1908 London,Rugby,Men's,rugby
+Summer,1908,Gold,GBR,Great Britain,"Thomas D. MCMEEKIN, Charles William Harry CRICHTON, Gilbert Umfreville LAWS",1908 London,Sailing,Mixed,6m
+Summer,1908,Silver,BEL,Belgium,"Léon HUYBRECHTS, Henri WEEWAUTERS, Louis HUYBRECHTS",1908 London,Sailing,Mixed,6m
+Summer,1908,Bronze,FRA,France,"Pierre RABOT, Henri ARTHUS, Louis POTHEAU",1908 London,Sailing,Mixed,6m
+Summer,1908,Gold,GBR,Great Britain,"Frances Clytie RIVETT-CARNAC, Norman BINGLEY, Richard Travers DIXON, Charles James RIVETT-CARNAC",1908 London,Sailing,Mixed,7m
+Summer,1908,Gold,GBR,Great Britain,"Charles Ralph CAMPBELL, Arthur Nicholas Lindsay WOOD, John Eastwood RHODES, Blair Onslow COCHRANE, Henry Cecil SUTTON",1908 London,Sailing,Mixed,8m
+Summer,1908,Silver,SWE,Sweden,"Edmund THORMÄHLEN, Erik SANDBERG, Harald WALLIN, Eric G. WALLERIUS, Carl Ludwig HELLSTRÖM",1908 London,Sailing,Mixed,8m
+Summer,1908,Bronze,GBR,Great Britain,"George Ernest RATSEY, Philipp HIMLOKE, Saint John Frederick HUGHES, William Dudley WARD, Collingwood Alfred HUGHES",1908 London,Sailing,Mixed,8m
+Summer,1908,Gold,GBR,Great Britain,"John BUCHANAN, Arthur Drummond DOWNES, John Symington ASPIN, John Henry DOWNES, John MACKENZIE, James Clark BUNTEN, Thomas Gerald TAIT, Thomas Coats GLEN COATS, David DUNLOP, Albert MARTIN",1908 London,Sailing,Mixed,12m
+Summer,1908,Silver,GBR,Great Britain,"Charles MACIVER, Thomas A.R. LITTLEDALE, John F.D. SPENCE, Cecil R. MACIVER, James BAXTER, John F. JELLICO, Charles MACLEOD-ROBERTSON, John M. ADAM, James G. KENION, William P. DAVIDSON",1908 London,Sailing,Mixed,12m
+Summer,1908,Gold,GBR,Great Britain,Joshua Kearney MILNER,1908 London,Shooting,Men's,"1000y free rifle, prone"
+Summer,1908,Silver,USA,United States,Kellog Kennon Venable CASEY,1908 London,Shooting,Men's,"1000y free rifle, prone"
+Summer,1908,Bronze,GBR,Great Britain,Maurice BLOOD,1908 London,Shooting,Men's,"1000y free rifle, prone"
+Summer,1908,Gold,NOR,Norway,Albert HELGERUD,1908 London,Shooting,Men's,300m free rifle 3 positions
+Summer,1908,Silver,USA,United States,Harry E. SIMON,1908 London,Shooting,Men's,300m free rifle 3 positions
+Summer,1908,Bronze,NOR,Norway,Olaf SAETHER,1908 London,Shooting,Men's,300m free rifle 3 positions
+Summer,1908,Gold,NOR,Norway,"Olaf SAETHER, Ole Andreas SAETHER, Einar LIBERG, Albert HELGERUD, Gudbrand Gudbrandsen SKATTEBOE, Julius BRAATHE",1908 London,Shooting,Men's,"free rifle, team"
+Summer,1908,Silver,SWE,Sweden,"Per Olof ARVIDSSON, Gustav Adolf SJÖBERG, Janne GUSTAFSSON, Gustaf Adolf JONSSON, Axel JANSSON, Claës RUNDBERG",1908 London,Shooting,Men's,"free rifle, team"
+Summer,1908,Bronze,FRA,France,"Eugène BALME, Albert COURQUIN, Maurice LECOQ, Léon JOHNSON, André PARMENTIER, Raoul DE BOIGNE",1908 London,Shooting,Men's,"free rifle, team"
+Summer,1908,Gold,USA,United States,"Kellog Kennon Venable CASEY, Charles Summer BENEDICT, William MARTIN, Charles B. WINDER, Albert EASTMAN, William F. LEUSHNER",1908 London,Shooting,Men's,"rifle, team"
+Summer,1908,Silver,GBR,Great Britain,"Fleetwood Ernest VARLEY, Philipp Wigam RICHARDSON, John E. MARTIN, Harcourt OMMUNDSEN, Arthur George FULTON, William G. PADGETT",1908 London,Shooting,Men's,"rifle, team"
+Summer,1908,Bronze,CAN,Canada,"Charles Robert CROWE, Dugald MCINNIS, Harry KERR, William Albert SMITH, Bruce M. WILLIAMS, William Merrill EASTCOTT",1908 London,Shooting,Men's,"rifle, team"
+Summer,1908,Gold,GBR,Great Britain,Arthur Ashton CARNELL,1908 London,Shooting,Men's,50m rifle prone
+Summer,1908,Silver,GBR,Great Britain,Harry Robinson HUMBY,1908 London,Shooting,Men's,50m rifle prone
+Summer,1908,Bronze,GBR,Great Britain,George BARNES,1908 London,Shooting,Men's,50m rifle prone
+Summer,1908,Gold,GBR,Great Britain,John Francis FLEMING,1908 London,Shooting,Men's,"25y small bore rifle, moving target"
+Summer,1908,Silver,GBR,Great Britain,Michael K. MATTHEWS,1908 London,Shooting,Men's,"25y small bore rifle, moving target"
+Summer,1908,Bronze,GBR,Great Britain,William B. MARSDEN,1908 London,Shooting,Men's,"25y small bore rifle, moving target"
+Summer,1908,Gold,GBR,Great Britain,William Kensett STYLES,1908 London,Shooting,Men's,"25y small bore rifle, disappearing target"
+Summer,1908,Silver,GBR,Great Britain,Harold I. HAWKINS,1908 London,Shooting,Men's,"25y small bore rifle, disappearing target"
+Summer,1908,Bronze,GBR,Great Britain,Edward John AMOORE,1908 London,Shooting,Men's,"25y small bore rifle, disappearing target"
+Summer,1908,Gold,GBR,Great Britain,"Michael K. MATTHEWS, William Edwin PIMM, Harry Robinson HUMBY, Edward John AMOORE",1908 London,Shooting,Men's,"50+100y small bore rifle, team"
+Summer,1908,Silver,SWE,Sweden,"G. Vilhelm CARLBERG, Johan Hübner VON HOLST, Frans Albert SCHARTAU, Eric CARLBERG",1908 London,Shooting,Men's,"50+100y small bore rifle, team"
+Summer,1908,Bronze,FRA,France,"Paul René COLAS, André REGAUD, Henri BONNEFOY, Léon LECUYER",1908 London,Shooting,Men's,"50+100y small bore rifle, team"
+Summer,1908,Gold,SWE,Sweden,Oscar SWAHN,1908 London,Shooting,Men's,"100m running deer, single shots"
+Summer,1908,Silver,GBR,Great Britain,Ted RANKEN,1908 London,Shooting,Men's,"100m running deer, single shots"
+Summer,1908,Bronze,GBR,Great Britain,Alexander Elliott ROGERS,1908 London,Shooting,Men's,"100m running deer, single shots"
+Summer,1908,Gold,USA,United States,Walter WINANS,1908 London,Shooting,Men's,"100m running deer, double shots"
+Summer,1908,Silver,GBR,Great Britain,Ted RANKEN,1908 London,Shooting,Men's,"100m running deer, double shots"
+Summer,1908,Bronze,SWE,Sweden,Oscar SWAHN,1908 London,Shooting,Men's,"100m running deer, double shots"
+Summer,1908,Gold,SWE,Sweden,"Arvid KNÖPPEL, Ernest Oscar ROSELL, Alfred SWAHN, Oscar SWAHN",1908 London,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1908,Silver,GBR,Great Britain,"William R. LANE-JOYNT, Ted RANKEN, Charles George Ashburn NIX, Walter ELLICOTT",1908 London,Shooting,Men's,"100m running deer, single shots, team"
+Summer,1908,Gold,BEL,Belgium,Paul VAN ASBROECK,1908 London,Shooting,Men's,50m pistol
+Summer,1908,Silver,BEL,Belgium,Réginald STORMS,1908 London,Shooting,Men's,50m pistol
+Summer,1908,Bronze,USA,United States,James Edward GORMAN,1908 London,Shooting,Men's,50m pistol
+Summer,1908,Gold,USA,United States,"Charles Sumner AXTELL, Irving Romaro CALKINS, James Edward GORMAN, John A. DIETZ",1908 London,Shooting,Men's,"50y army pistol, team"
+Summer,1908,Silver,BEL,Belgium,"René ENGLEBERT, Réginald STORMS, Charles PAUMIER DU VERGIER, Paul VAN ASBROECK",1908 London,Shooting,Men's,"50y army pistol, team"
+Summer,1908,Bronze,GBR,Great Britain,"Geoffrey Horsman COLES, Walter ELLICOTT, Jesse Alfred WALLINGFORD, Henry George LYNCH-STAUNTON",1908 London,Shooting,Men's,"50y army pistol, team"
+Summer,1908,Gold,CAN,Canada,Walter Henry EWING,1908 London,Shooting,Men's,Trap
+Summer,1908,Silver,CAN,Canada,George BEATTIE,1908 London,Shooting,Men's,Trap
+Summer,1908,Bronze,GBR,Great Britain,Alexander MAUNDER,1908 London,Shooting,Men's,Trap
+Summer,1908,Bronze,GRE,Greece,Anastasios Metaxas,1908 London,Shooting,Men's,Trap
+Summer,1908,Gold,GBR,Great Britain,"James F. PIKE, John M. POSTANS, Peter EASTE, Alexander MAUNDER, Charles PALMER, Frank W. MOORE",1908 London,Shooting,Men's,"clay pigeons, team"
+Summer,1908,Silver,CAN,Canada,"George BEATTIE, Mylie E. FLETCHER, Donald MCMACKON, Walter Henry EWING, Arthur W. WESTOVER, George L. VIVIAN",1908 London,Shooting,Men's,"clay pigeons, team"
+Summer,1908,Bronze,GBR,Great Britain,"Gerald H. SKINNER, William B. MORRIS, Richard HUTTON, George WHITAKER, John Hurst BUTT, Harold P. CREASEY",1908 London,Shooting,Men's,"clay pigeons, team"
+Summer,1908,Gold,USA,United States,Charles DANIELS,1908 London,Swimming,Men's,100m freestyle
+Summer,1908,Silver,HUN,Hungary,Zoltan HALMAY,1908 London,Swimming,Men's,100m freestyle
+Summer,1908,Bronze,SWE,Sweden,Harald S.A. JULIN,1908 London,Swimming,Men's,100m freestyle
+Summer,1908,Gold,GBR,Great Britain,Henry TAYLOR,1908 London,Swimming,Men's,400m freestyle
+Summer,1908,Silver,ANZ,Australasia,Frank E. BEAUREPAIRE,1908 London,Swimming,Men's,400m freestyle
+Summer,1908,Bronze,AUT,Austria,Otto SCHEFF,1908 London,Swimming,Men's,400m freestyle
+Summer,1908,Gold,GBR,Great Britain,Henry TAYLOR,1908 London,Swimming,Men's,1500m freestyle
+Summer,1908,Silver,GBR,Great Britain,Thomas Sidney BATTERSBY,1908 London,Swimming,Men's,1500m freestyle
+Summer,1908,Bronze,ANZ,Australasia,Frank E. BEAUREPAIRE,1908 London,Swimming,Men's,1500m freestyle
+Summer,1908,Gold,GER,Germany,Arno BIEBERSTEIN,1908 London,Swimming,Men's,100m backstroke
+Summer,1908,Silver,DEN,Denmark,Hans Peter Ludwig DAM,1908 London,Swimming,Men's,100m backstroke
+Summer,1908,Bronze,GBR,Great Britain,Herbert Nickall HARESNAPE,1908 London,Swimming,Men's,100m backstroke
+Summer,1908,Gold,GBR,Great Britain,Frederick HOLMAN,1908 London,Swimming,Men's,200m breaststroke
+Summer,1908,Silver,GBR,Great Britain,William Walter ROBINSON,1908 London,Swimming,Men's,200m breaststroke
+Summer,1908,Bronze,SWE,Sweden,Pontus HANSSON,1908 London,Swimming,Men's,200m breaststroke
+Summer,1908,Gold,GBR,Great Britain,"Paul RADMILOVIC, Henry TAYLOR, John Henry DERBYSHIRE, William FOSTER",1908 London,Swimming,Men's,4x200m freestyle relay
+Summer,1908,Silver,HUN,Hungary,"Imre ZACHAR, Zoltan HALMAY, Jozsef MUNK, Béla LAS TORRES",1908 London,Swimming,Men's,4x200m freestyle relay
+Summer,1908,Bronze,USA,United States,"Leo Budd GOODWIN, Leslie George RICH, Harry J. HEBNER, Charles DANIELS",1908 London,Swimming,Men's,4x200m freestyle relay
+Summer,1908,Gold,GBR,Great Britain,Josiah George RITCHIE,1908 London,Tennis,Men's,singles
+Summer,1908,Silver,GER,Germany,Otto FROITZHEIM,1908 London,Tennis,Men's,singles
+Summer,1908,Bronze,GBR,Great Britain,Wilberforce Vaughan EAVES,1908 London,Tennis,Men's,singles
+Summer,1908,Gold,GBR,Great Britain,Arthur Wentworth GORE,1908 London,Tennis,Men's,singles indoor
+Summer,1908,Silver,GBR,Great Britain,George Aristedes CARIDIA,1908 London,Tennis,Men's,singles indoor
+Summer,1908,Bronze,GBR,Great Britain,Josiah George RITCHIE,1908 London,Tennis,Men's,singles indoor
+Summer,1908,Gold,GBR,Great Britain,"Reginald Frank DOHERTY, George Whiteside HILLYARD",1908 London,Tennis,Men's,doubles
+Summer,1908,Silver,GBR,Great Britain,"James Cecil PARKE, Josiah George RITCHIE",1908 London,Tennis,Men's,doubles
+Summer,1908,Bronze,GBR,Great Britain,"Charles Percy DIXON, Clement Haughton Langston CAZALET",1908 London,Tennis,Men's,doubles
+Summer,1908,Gold,GBR,Great Britain,"Herbert Roper BARRETT, Arthur Wentworth GORE",1908 London,Tennis,Men's,doubles indoor
+Summer,1908,Silver,GBR,Great Britain,"George Aristedes CARIDIA, George Mievillle SIMOND",1908 London,Tennis,Men's,doubles indoor
+Summer,1908,Bronze,SWE,Sweden,"Wollmar BOSTRÖM, Gunnar SETTERWALL",1908 London,Tennis,Men's,doubles indoor
+Summer,1908,Gold,GBR,Great Britain,Dorothy Katherine CHAMBERS,1908 London,Tennis,Women's,singles
+Summer,1908,Silver,GBR,Great Britain,Penelope Dora Harvey BOOTHBY,1908 London,Tennis,Women's,singles
+Summer,1908,Bronze,GBR,Great Britain,Ruth Joan WINCH,1908 London,Tennis,Women's,singles
+Summer,1908,Gold,GBR,Great Britain,Gwendoline EASTLAKE-SMITH,1908 London,Tennis,Women's,singles indoor
+Summer,1908,Silver,GBR,Great Britain,Angela Nora G. GREENE,1908 London,Tennis,Women's,singles indoor
+Summer,1908,Bronze,SWE,Sweden,Märtha ADLERSTRAHLE,1908 London,Tennis,Women's,singles indoor
+Summer,1908,Gold,GBR,Great Britain,"George Wilfrid NEVINSON, Charles Eric FORSYTH, George Thomson CORNET, George WILKINSON, Paul RADMILOVIC, Charles Sydney SMITH, Thomas Henry THOULD",1908 London,Water Polo,Men's,water polo
+Summer,1908,Silver,BEL,Belgium,"Oscar GREGOIRE, Albert MICHANT, Victor BOIN, Fernand FEYAERTS, Hermann DONNERS, Herman MEYBOOM, Joseph PLETINCX",1908 London,Water Polo,Men's,water polo
+Summer,1908,Bronze,SWE,Sweden,"Pontus Hanson, Erik Bergvall, Torsten Kumfeldt, Axel Runström, Robert Andersson, Harald Julin, Gunnar Wennerström",1908 London,Water Polo,Men's,water polo
+Summer,1908,Gold,USA,United States,George Nicholas MEHNERT,1908 London,Wrestling Freestyle,Men's,- 54kg (bantamweight)
+Summer,1908,Silver,GBR,Great Britain,William J. PRESS,1908 London,Wrestling Freestyle,Men's,- 54kg (bantamweight)
+Summer,1908,Bronze,CAN,Canada,Aubert COTE,1908 London,Wrestling Freestyle,Men's,- 54kg (bantamweight)
+Summer,1908,Gold,USA,United States,George Stuart DOLE,1908 London,Wrestling Freestyle,Men's,54 - 60.3kg (featherweight)
+Summer,1908,Silver,GBR,Great Britain,James P. SLIM,1908 London,Wrestling Freestyle,Men's,54 - 60.3kg (featherweight)
+Summer,1908,Bronze,GBR,Great Britain,William MCKIE,1908 London,Wrestling Freestyle,Men's,54 - 60.3kg (featherweight)
+Summer,1908,Gold,GBR,Great Britain,George Frederick DE RELWYSKOW,1908 London,Wrestling Freestyle,Men's,60.3 - 66.6kg (lightweight)
+Summer,1908,Silver,GBR,Great Britain,William WOOD,1908 London,Wrestling Freestyle,Men's,60.3 - 66.6kg (lightweight)
+Summer,1908,Bronze,GBR,Great Britain,Albert GINGELL,1908 London,Wrestling Freestyle,Men's,60.3 - 66.6kg (lightweight)
+Summer,1908,Gold,GBR,Great Britain,Stanley Vivian BACON,1908 London,Wrestling Freestyle,Men's,66.6 - 73kg (middleweight)
+Summer,1908,Silver,GBR,Great Britain,George Frederick DE RELWYSKOW,1908 London,Wrestling Freestyle,Men's,66.6 - 73kg (middleweight)
+Summer,1908,Bronze,GBR,Great Britain,Frederick BECK,1908 London,Wrestling Freestyle,Men's,66.6 - 73kg (middleweight)
+Summer,1908,Gold,GBR,Great Britain,George Cornelius O'KELLY,1908 London,Wrestling Freestyle,Men's,+ 73kg (heavyweight)
+Summer,1908,Silver,NOR,Norway,Jacob GUNDERSON,1908 London,Wrestling Freestyle,Men's,+ 73kg (heavyweight)
+Summer,1908,Bronze,GBR,Great Britain,Edward Edmond BARRETT,1908 London,Wrestling Freestyle,Men's,+ 73kg (heavyweight)
+Summer,1908,Gold,ITA,Italy,Enrico PORRO,1908 London,Wrestling Greco-Roman,Men's,- 66.6kg (lightweight)
+Summer,1908,Silver,RU1,Russian Empire,Nikolay ORLOV,1908 London,Wrestling Greco-Roman,Men's,- 66.6kg (lightweight)
+Summer,1908,Bronze,FIN,Finland,Arvid LINDEN,1908 London,Wrestling Greco-Roman,Men's,- 66.6kg (lightweight)
+Summer,1908,Gold,SWE,Sweden,Frithiof M. MARTENSSON,1908 London,Wrestling Greco-Roman,Men's,66.6 - 73kg (middleweight)
+Summer,1908,Silver,SWE,Sweden,Mauritz ANDERSSON,1908 London,Wrestling Greco-Roman,Men's,66.6 - 73kg (middleweight)
+Summer,1908,Bronze,DEN,Denmark,Anders ANDERSEN,1908 London,Wrestling Greco-Roman,Men's,66.6 - 73kg (middleweight)
+Summer,1908,Gold,FIN,Finland,Werner WECKMAN,1908 London,Wrestling Greco-Roman,Men's,73 - 93kg (light-heavyweight)
+Summer,1908,Silver,FIN,Finland,Urjö Erik Mikael SAARELA,1908 London,Wrestling Greco-Roman,Men's,73 - 93kg (light-heavyweight)
+Summer,1908,Bronze,DEN,Denmark,Carl Marinus JENSEN,1908 London,Wrestling Greco-Roman,Men's,73 - 93kg (light-heavyweight)
+Summer,1908,Gold,HUN,Hungary,Richard WEISZ,1908 London,Wrestling Greco-Roman,Men's,+ 93kg (super heavyweight)
+Summer,1908,Silver,RU1,Russian Empire,Aleksandr PETROV,1908 London,Wrestling Greco-Roman,Men's,+ 93kg (super heavyweight)
+Summer,1908,Bronze,DEN,Denmark,Sören Marius JENSEN,1908 London,Wrestling Greco-Roman,Men's,+ 93kg (super heavyweight)
+Summer,1908,Gold,USA,United States,Jay GOULD,1908 London,Jeu de Paume,Men's,individual
+Summer,1908,Silver,GBR,Great Britain,Eustace Hamilton MILES,1908 London,Jeu de Paume,Men's,individual
+Summer,1908,Bronze,GBR,Great Britain,Neville Stephen LYTTON,1908 London,Jeu de Paume,Men's,individual
+Summer,1908,Gold,CAN,Canada,"A. MARA, Henry Frank HOOBIN, Thomas Patrick GORMAN, Ernest HAMILTON, Clarence D. MCKERROW, Richard Louis DUCKETT, Frank J. DIXON, D. MCLEOD, J. FYON, George H. CAMPBELL, Patrick BRENNAN, John BRODERICK, Alexander T. TURNBULL, George H. RENNIE, Angus F. DILLON",1908 London,Lacrosse,Men's,lacrosse
+Summer,1908,Silver,GBR,Great Britain,"Charles Hubert SCOTT, E.O. DUTTON, William Athelstan JOHNSON, S.N. HAYES, R.G.W. MARTIN, G.J. MASON, F.S. JOHNSON, H. SHORROCKS, L. BLOCKEY, G. MASON, J. PARKER-SMITH, Normnan Henry Pownall WHITLEY, Gustav Bernhard ALEXANDER, Edward Percy JONES, H.W. RAMSEY, V.G. GILBEY, J. ALEXANDER, Gerald Frederick BUCKLAND",1908 London,Lacrosse,Men's,lacrosse
+Summer,1908,Gold,GBR,Great Britain,"Herbert Haydon WILSON, George Arthur MILLER, Charles Darley MILLER, Patteson Wormesley NICKALLS",1908 London,Polo,Men's,polo
+Summer,1908,Silver,GBR,Great Britain,"John Hardress Lloyd, Percy O'Reilly, John Paul McCann, Auston Rotherham",1908 London,Polo,Men's,polo
+Summer,1908,Silver,GBR,Great Britain,"John WODEHOUSE, Percy Philip O'REILLY, John Paul MCCANN, Walter John Henry JONES, Walter Selby BUCKMASTER, Lloyd HARDRESS, Anthony Morgan ROTHERHAM, Frederick Maitland FREAKE",1908 London,Polo,Men's,polo
+Summer,1908,Gold,GBR,Great Britain,Evan Baille NOEL,1908 London,Rackets,Men's,individual
+Summer,1908,Silver,GBR,Great Britain,Henry Meredith LEAF,1908 London,Rackets,Men's,individual
+Summer,1908,Bronze,GBR,Great Britain,Henry BROUGHAM,1908 London,Rackets,Men's,individual
+Summer,1908,Bronze,GBR,Great Britain,John Jacob ASTOR,1908 London,Rackets,Men's,individual
+Summer,1908,Gold,GBR,Great Britain,"Vane Hungerford PENNELL, John Jacob ASTOR",1908 London,Rackets,Men's,double
+Summer,1908,Silver,GBR,Great Britain,"Edward William BURY, Cecil BROWNING",1908 London,Rackets,Men's,double
+Summer,1908,Bronze,GBR,Great Britain,"Henry Meredith LEAF, Evan Baille NOEL",1908 London,Rackets,Men's,double
+Summer,1908,Gold,GBR,Great Britain,"Frederick Harkness HUMPHREYS, William HIRONS, Edward Edmond BARRETT, Frederick MERRIMAN, James SHEPHERD, Edwin Archer MILLS, Frederick William GOODFELLOW, Albert IRETON, John DUKE",1908 London,Tug of War,Men's,tug of war
+Summer,1908,Silver,GBR,Great Britain,"Patrick PHILBIN, Thomas BUTLER, William GREGGAN, Alexander KIDD, Thomas SWINDLEHURST, James Michael CLARKE, Daniel MCDONALD LOWEY, Charles FODEN, George SMITH",1908 London,Tug of War,Men's,tug of war
+Summer,1908,Bronze,GBR,Great Britain,"William SLADE, Thomas HOMEWOOD, James Henry WOODGET, T.J. WILLIAMS, Alexander MUNRO, Ernest Walter EBBAGE, Walter CHAFFE, Joseph DOWLER, Walter Baldry TAMMAS",1908 London,Tug of War,Men's,tug of war
+Summer,1908,Gold,FRA,France,"Emile THUBRON, ?",1908 London,Water Motorsports,Men's,open class A
+Summer,1908,Gold,GBR,Great Britain,"Thomas THORNYCROFT, Bernard REDWOOD",1908 London,Water Motorsports,Men's,class B up to 60 feet
+Summer,1908,Gold,GBR,Great Britain,"Thomas THORNYCROFT, Bernard REDWOOD",1908 London,Water Motorsports,Men's,8m class C
+Summer,1908,Gold,SWE,Sweden,Ulrich SALCHOW,1908 London,Figure skating,Men's,individual
+Summer,1908,Silver,SWE,Sweden,Richard JOHANSSON,1908 London,Figure skating,Men's,individual
+Summer,1908,Bronze,SWE,Sweden,Per THOREN,1908 London,Figure skating,Men's,individual
+Summer,1908,Gold,RU1,Russian Empire,Nikolay PANIN-Kolomenkin,1908 London,Figure skating,Men's,special figures
+Summer,1908,Silver,GBR,Great Britain,Arthur CUMMING,1908 London,Figure skating,Men's,special figures
+Summer,1908,Bronze,GBR,Great Britain,George Norman Ernest HALL-SAY,1908 London,Figure skating,Men's,special figures
+Summer,1908,Gold,GBR,Great Britain,Florence SYERS,1908 London,Figure skating,Women's,individual
+Summer,1908,Silver,GER,Germany,Else RENDSCHMIDT,1908 London,Figure skating,Women's,individual
+Summer,1908,Bronze,GBR,Great Britain,Dorothy GREENHOUGH-SMITH,1908 London,Figure skating,Women's,individual
+Summer,1908,Gold,GER,Germany,"Heinrich BURGER, Anna HÜBLER",1908 London,Figure skating,Mixed,pairs
+Summer,1908,Silver,GBR,Great Britain,"James JOHNSON, Phyllis JOHNSON",1908 London,Figure skating,Mixed,pairs
+Summer,1908,Bronze,GBR,Great Britain,"Edgar SYERS, Florence SYERS",1908 London,Figure skating,Mixed,pairs

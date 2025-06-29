@@ -1,0 +1,69 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1948,Gold,FRA,France,Henri OREILLER,1948 St. Moritz,Alpine Skiing,Men's,Alpine combined
+Winter,1948,Silver,SUI,Switzerland,Karl MOLITOR,1948 St. Moritz,Alpine Skiing,Men's,Alpine combined
+Winter,1948,Bronze,FRA,France,James COUTTET,1948 St. Moritz,Alpine Skiing,Men's,Alpine combined
+Winter,1948,Gold,FRA,France,Henri OREILLER,1948 St. Moritz,Alpine Skiing,Men's,downhill
+Winter,1948,Silver,AUT,Austria,Franz GABL,1948 St. Moritz,Alpine Skiing,Men's,downhill
+Winter,1948,Bronze,SUI,Switzerland,Karl MOLITOR,1948 St. Moritz,Alpine Skiing,Men's,downhill
+Winter,1948,Bronze,SUI,Switzerland,Ralph OLINGER,1948 St. Moritz,Alpine Skiing,Men's,downhill
+Winter,1948,Gold,SUI,Switzerland,Edi REINALTER,1948 St. Moritz,Alpine Skiing,Men's,slalom
+Winter,1948,Silver,FRA,France,James COUTTET,1948 St. Moritz,Alpine Skiing,Men's,slalom
+Winter,1948,Bronze,FRA,France,Henri OREILLER,1948 St. Moritz,Alpine Skiing,Men's,slalom
+Winter,1948,Gold,AUT,Austria,Trude JOCHUM-BEISER,1948 St. Moritz,Alpine Skiing,Women's,Alpine combined
+Winter,1948,Silver,USA,United States,Gretchen FRASER,1948 St. Moritz,Alpine Skiing,Women's,Alpine combined
+Winter,1948,Bronze,AUT,Austria,Erika MAHRINGER,1948 St. Moritz,Alpine Skiing,Women's,Alpine combined
+Winter,1948,Gold,SUI,Switzerland,Hedy SCHLUNEGGER,1948 St. Moritz,Alpine Skiing,Women's,downhill
+Winter,1948,Silver,AUT,Austria,Trude JOCHUM-BEISER,1948 St. Moritz,Alpine Skiing,Women's,downhill
+Winter,1948,Bronze,AUT,Austria,Resi HAMMERER,1948 St. Moritz,Alpine Skiing,Women's,downhill
+Winter,1948,Gold,USA,United States,Gretchen FRASER,1948 St. Moritz,Alpine Skiing,Women's,slalom
+Winter,1948,Silver,SUI,Switzerland,Antoinette MEYER,1948 St. Moritz,Alpine Skiing,Women's,slalom
+Winter,1948,Bronze,AUT,Austria,Erika MAHRINGER,1948 St. Moritz,Alpine Skiing,Women's,slalom
+Winter,1948,Gold,SUI,Switzerland,"Fritz WALLER, Felix ENDRICH",1948 St. Moritz,Bobsleigh,Men's,two-man
+Winter,1948,Silver,SUI,Switzerland,"Fritz FEIERABEND, Paul Hans EBERHARD",1948 St. Moritz,Bobsleigh,Men's,two-man
+Winter,1948,Bronze,USA,United States,"Schuyler CARRON, Frederick Joseph FORTUNE",1948 St. Moritz,Bobsleigh,Men's,two-man
+Winter,1948,Gold,USA,United States,"Edward RIMKUS, Francis William TYLER, Patrick Henry MARTIN, William D'AMICO",1948 St. Moritz,Bobsleigh,Men's,four-man
+Winter,1948,Silver,BEL,Belgium,"Freddy MANSVELD, Jacques MOUVET, Louis-Georges NIELS, Max HOUBEN",1948 St. Moritz,Bobsleigh,Men's,four-man
+Winter,1948,Bronze,USA,United States,"Thomas HICKS, Donald DUPREE, William DUPREE, Jim ICKFORD JR.",1948 St. Moritz,Bobsleigh,Men's,four-man
+Winter,1948,Gold,SWE,Sweden,Martin LUNDSTRÖM,1948 St. Moritz,Cross Country Skiing,Men's,18km
+Winter,1948,Silver,SWE,Sweden,Nils ÖSTENSSON,1948 St. Moritz,Cross Country Skiing,Men's,18km
+Winter,1948,Bronze,SWE,Sweden,Gunnar ERIKSSON,1948 St. Moritz,Cross Country Skiing,Men's,18km
+Winter,1948,Gold,SWE,Sweden,Nils KARLSSON,1948 St. Moritz,Cross Country Skiing,Men's,50km
+Winter,1948,Silver,SWE,Sweden,Harald ERIKSSON,1948 St. Moritz,Cross Country Skiing,Men's,50km
+Winter,1948,Bronze,FIN,Finland,Benjamin VANNINEN,1948 St. Moritz,Cross Country Skiing,Men's,50km
+Winter,1948,Gold,SWE,Sweden,"Nils ÖSTENSSON, Gunnar ERIKSSON, Martin LUNDSTRÖM, Nils TÄPP",1948 St. Moritz,Cross Country Skiing,Men's,4x10km relay
+Winter,1948,Silver,FIN,Finland,"Teuvo LAUKKANEN, Lauri SILVENNOINEN, Sauli RYTKY, August KIURU",1948 St. Moritz,Cross Country Skiing,Men's,4x10km relay
+Winter,1948,Bronze,NOR,Norway,"Olav ØKERN, Erling EVENSEN, Reidar NYBORG, Olav HAGEN",1948 St. Moritz,Cross Country Skiing,Men's,4x10km relay
+Winter,1948,Gold,USA,United States,Richard BUTTON,1948 St. Moritz,Figure skating,Men's,individual
+Winter,1948,Silver,SUI,Switzerland,Hans GERSCHWILER,1948 St. Moritz,Figure skating,Men's,individual
+Winter,1948,Bronze,AUT,Austria,Edi RADA,1948 St. Moritz,Figure skating,Men's,individual
+Winter,1948,Gold,CAN,Canada,Barbara Ann SCOTT,1948 St. Moritz,Figure skating,Women's,individual
+Winter,1948,Silver,AUT,Austria,Eva PAWLIK,1948 St. Moritz,Figure skating,Women's,individual
+Winter,1948,Bronze,GBR,Great Britain,Jeannette ALTWEGG,1948 St. Moritz,Figure skating,Women's,individual
+Winter,1948,Gold,BEL,Belgium,"Micheline LANNOY, Pierre BAUGNIET",1948 St. Moritz,Figure skating,Mixed,pairs
+Winter,1948,Silver,HUN,Hungary,"Andrea KÉKESSY, Ede KIRÁLY",1948 St. Moritz,Figure skating,Mixed,pairs
+Winter,1948,Bronze,CAN,Canada,"Suzanne MORROW, Wallace DIESTELMEYER",1948 St. Moritz,Figure skating,Mixed,pairs
+Winter,1948,Gold,CAN,Canada,"H. BROOKS, Jean Orval GRAVELLE, Murray Albert DOWEY, Thomas Edward HIBBERD, R.A. FORBES, Henri-André LAPERRIERE, Albert Roméo RENAUD, Bernard Frank DUNSTER, Irving TAYLOR, John Howard LECOMPTE, J. LEICHNITZ, George Edward MARA, A. GILPIN, Walter Edwin HALDER, Ross KING, Patrick GUZZO, Reginald John SCHROETER",1948 St. Moritz,Ice Hockey,Men's,ice hockey
+Winter,1948,Silver,TCH,Czechoslovakia,"Stanislav KONOPÁSEK, Miloslav POKORNÝ, Vladimir ZABRODSKY, Vaclav ROZINAK, Bohumil MODRÝ, Gustav BUBNIK, Zdenek JARKOVSKÝ, Miroslav SLÁMA, Oldrich ZÁBRODSKÝ, Vilibald STOVIK, Josef TROUSÍLEK, Jaroslav DROBNÝ, Vladimír BOUZEK, Karel STIBOR, Premysl HAJNY, Vladimir KOBRANOV, Ladislav TROJÁK",1948 St. Moritz,Ice Hockey,Men's,ice hockey
+Winter,1948,Bronze,SUI,Switzerland,"Werner LOHRER, Heini LOHRER, Hans-Martin TREPP, Hans DÜRST, Gebhard POLTERA, Alfred BIELER, Otto SCHUBIGER, Walter Paul DURST, Hans BÄNNINGER, Beat RÜEDI, Reto PERL, Ulrich POLTERA, Heinrich BOLLER, Emil HANDSCHIN, Hans CATTINI, Ferdinand CATTINI, Richard TORRIANI",1948 St. Moritz,Ice Hockey,Men's,ice hockey
+Winter,1948,Gold,FIN,Finland,Heikki HASU,1948 St. Moritz,Nordic Combined,Men's,individual
+Winter,1948,Silver,FIN,Finland,Martti HUHTALA,1948 St. Moritz,Nordic Combined,Men's,individual
+Winter,1948,Bronze,SWE,Sweden,Sven ISRAELSSON,1948 St. Moritz,Nordic Combined,Men's,individual
+Winter,1948,Gold,ITA,Italy,Nino BIBBIA,1948 St. Moritz,Skeleton,Men's,individual
+Winter,1948,Silver,USA,United States,John HEATON,1948 St. Moritz,Skeleton,Men's,individual
+Winter,1948,Bronze,GBR,Great Britain,John CRAMMOND,1948 St. Moritz,Skeleton,Men's,individual
+Winter,1948,Gold,NOR,Norway,Petter HUGSTED,1948 St. Moritz,Ski Jumping,Men's,Normal Hill individual
+Winter,1948,Silver,NOR,Norway,Birger RUUD,1948 St. Moritz,Ski Jumping,Men's,Normal Hill individual
+Winter,1948,Bronze,NOR,Norway,Thorleif SCHJELDERUP,1948 St. Moritz,Ski Jumping,Men's,Normal Hill individual
+Winter,1948,Gold,NOR,Norway,Finn HELGESEN,1948 St. Moritz,Speed skating,Men's,500m
+Winter,1948,Silver,NOR,Norway,Thomas BYBERG,1948 St. Moritz,Speed skating,Men's,500m
+Winter,1948,Silver,USA,United States,Kenneth BARTHOLOMEW,1948 St. Moritz,Speed skating,Men's,500m
+Winter,1948,Silver,USA,United States,Robert FITZGERALD,1948 St. Moritz,Speed skating,Men's,500m
+Winter,1948,Gold,NOR,Norway,Sverre FARSTAD,1948 St. Moritz,Speed skating,Men's,1500m
+Winter,1948,Silver,SWE,Sweden,Åke SEYFFARTH,1948 St. Moritz,Speed skating,Men's,1500m
+Winter,1948,Bronze,NOR,Norway,Odd LUNDBERG,1948 St. Moritz,Speed skating,Men's,1500m
+Winter,1948,Gold,NOR,Norway,Reidar LIAKLEV,1948 St. Moritz,Speed skating,Men's,5000m
+Winter,1948,Silver,NOR,Norway,Odd LUNDBERG,1948 St. Moritz,Speed skating,Men's,5000m
+Winter,1948,Bronze,SWE,Sweden,Göthe HEDLUND,1948 St. Moritz,Speed skating,Men's,5000m
+Winter,1948,Gold,SWE,Sweden,Åke SEYFFARTH,1948 St. Moritz,Speed skating,Men's,10000m
+Winter,1948,Silver,FIN,Finland,Lassi PARKKINEN,1948 St. Moritz,Speed skating,Men's,10000m
+Winter,1948,Bronze,FIN,Finland,Pentti LAMMIO,1948 St. Moritz,Speed skating,Men's,10000m

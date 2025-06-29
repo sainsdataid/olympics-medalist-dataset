@@ -1,0 +1,614 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1976,Gold,USA,United States,Darrell Owen PACE,1976 Montreal,Archery,Men's,individual FITA round
+Summer,1976,Silver,JPN,Japan,Hiroshi MICHINAGA,1976 Montreal,Archery,Men's,individual FITA round
+Summer,1976,Bronze,ITA,Italy,Giancarlo FERRARI,1976 Montreal,Archery,Men's,individual FITA round
+Summer,1976,Gold,USA,United States,Luann Marie RYON,1976 Montreal,Archery,Women's,individual FITA round
+Summer,1976,Silver,URS,USSR,Valentina KOVPAN,1976 Montreal,Archery,Women's,individual FITA round
+Summer,1976,Bronze,URS,USSR,Zebiniso RUSTAMOVA,1976 Montreal,Archery,Women's,individual FITA round
+Summer,1976,Gold,TTO,Trinidad and Tobago,Hasely CRAWFORD,1976 Montreal,Athletics,Men's,100m
+Summer,1976,Silver,JAM,Jamaica,Donald QUARRIE,1976 Montreal,Athletics,Men's,100m
+Summer,1976,Bronze,URS,USSR,Valery BORZOV,1976 Montreal,Athletics,Men's,100m
+Summer,1976,Gold,JAM,Jamaica,Donald QUARRIE,1976 Montreal,Athletics,Men's,200m
+Summer,1976,Silver,USA,United States,Millard Frank Jr. HAMPTON,1976 Montreal,Athletics,Men's,200m
+Summer,1976,Bronze,USA,United States,Dwayne Eugene EVANS,1976 Montreal,Athletics,Men's,200m
+Summer,1976,Gold,CUB,Cuba,Alberto JUANTORENA,1976 Montreal,Athletics,Men's,400m
+Summer,1976,Silver,USA,United States,Frederick Vaughn NEWHOUSE,1976 Montreal,Athletics,Men's,400m
+Summer,1976,Bronze,USA,United States,Herman Ronald FRAZIER,1976 Montreal,Athletics,Men's,400m
+Summer,1976,Gold,CUB,Cuba,Alberto JUANTORENA,1976 Montreal,Athletics,Men's,800m
+Summer,1976,Silver,BEL,Belgium,Ivo VAN DAMME,1976 Montreal,Athletics,Men's,800m
+Summer,1976,Bronze,USA,United States,Richard Charles WOHLHUTER,1976 Montreal,Athletics,Men's,800m
+Summer,1976,Gold,NZL,New Zealand,John WALKER,1976 Montreal,Athletics,Men's,1500m
+Summer,1976,Silver,BEL,Belgium,Ivo VAN DAMME,1976 Montreal,Athletics,Men's,1500m
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Paul-Heinz WELLMANN,1976 Montreal,Athletics,Men's,1500m
+Summer,1976,Gold,FIN,Finland,Lasse VIREN,1976 Montreal,Athletics,Men's,5000m
+Summer,1976,Silver,NZL,New Zealand,Dick Theodorus QUAX,1976 Montreal,Athletics,Men's,5000m
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Klaus-Peter HILDENBRAND,1976 Montreal,Athletics,Men's,5000m
+Summer,1976,Gold,FIN,Finland,Lasse VIREN,1976 Montreal,Athletics,Men's,10000m
+Summer,1976,Silver,POR,Portugal,Carlos LOPES,1976 Montreal,Athletics,Men's,10000m
+Summer,1976,Bronze,GBR,Great Britain,Brendan FOSTER,1976 Montreal,Athletics,Men's,10000m
+Summer,1976,Gold,GDR,German Democratic Republic,Waldemar CIERPINSKI,1976 Montreal,Athletics,Men's,marathon
+Summer,1976,Silver,USA,United States,Frank Charles SHORTER,1976 Montreal,Athletics,Men's,marathon
+Summer,1976,Bronze,BEL,Belgium,Karel LISMONT,1976 Montreal,Athletics,Men's,marathon
+Summer,1976,Gold,FRA,France,Guy DRUT,1976 Montreal,Athletics,Men's,110m hurdles
+Summer,1976,Silver,CUB,Cuba,Alejandro CASAÑAS,1976 Montreal,Athletics,Men's,110m hurdles
+Summer,1976,Bronze,USA,United States,Willie DAVENPORT,1976 Montreal,Athletics,Men's,110m hurdles
+Summer,1976,Gold,USA,United States,Edwin MOSES,1976 Montreal,Athletics,Men's,400m hurdles
+Summer,1976,Silver,USA,United States,Michael Lyle SHINE,1976 Montreal,Athletics,Men's,400m hurdles
+Summer,1976,Bronze,URS,USSR,Yevgeni GAVRILENKO,1976 Montreal,Athletics,Men's,400m hurdles
+Summer,1976,Gold,SWE,Sweden,Anders GARDERUD,1976 Montreal,Athletics,Men's,3000m steeplechase
+Summer,1976,Silver,POL,Poland,Bronislaw MALINOWSKI,1976 Montreal,Athletics,Men's,3000m steeplechase
+Summer,1976,Bronze,GDR,German Democratic Republic,Frank BAUMGARTL,1976 Montreal,Athletics,Men's,3000m steeplechase
+Summer,1976,Gold,USA,United States,"Millard Frank Jr. HAMPTON, Harvey Edward GLANCE, John Wesley JONES, Steven Earl RIDDICK",1976 Montreal,Athletics,Men's,4x100m relay
+Summer,1976,Silver,GDR,German Democratic Republic,"Alexander THIEME, Klaus-Dieter KURRAT, Jörg PFEIFER, Manfred KOKOT",1976 Montreal,Athletics,Men's,4x100m relay
+Summer,1976,Bronze,URS,USSR,"Yuris SILOVS, Aleksandr AKSININ, Nikolai KOLESNIKOV, Valery BORZOV",1976 Montreal,Athletics,Men's,4x100m relay
+Summer,1976,Gold,USA,United States,"Herman Ronald FRAZIER, Frederick Vaughn NEWHOUSE, Benjamin Gene BROWN, Maxwell Lander PARKS",1976 Montreal,Athletics,Men's,4x400m relay
+Summer,1976,Silver,POL,Poland,"Jerzy PIETRZYK, Jan WERNER, Ryszard PODLAS, Zbigniew JAREMSKI",1976 Montreal,Athletics,Men's,4x400m relay
+Summer,1976,Bronze,FRG,Federal Republic of Germany,"Lothar KRIEG, Harald SCHMID, Franz-Peter HOFMEISTER, Bernd HERRMANN",1976 Montreal,Athletics,Men's,4x400m relay
+Summer,1976,Gold,MEX,Mexico,Daniel BAUTISTA ROCHA,1976 Montreal,Athletics,Men's,20km walk
+Summer,1976,Silver,GDR,German Democratic Republic,Hans REIMANN,1976 Montreal,Athletics,Men's,20km walk
+Summer,1976,Bronze,GDR,German Democratic Republic,Peter FRENKEL,1976 Montreal,Athletics,Men's,20km walk
+Summer,1976,Gold,USA,United States,Arnie ROBINSON,1976 Montreal,Athletics,Men's,long jump
+Summer,1976,Silver,USA,United States,Randel Luvelle WILLIAMS,1976 Montreal,Athletics,Men's,long jump
+Summer,1976,Bronze,GDR,German Democratic Republic,Frank WARTENBERG,1976 Montreal,Athletics,Men's,long jump
+Summer,1976,Gold,URS,USSR,Viktor SANEYEV,1976 Montreal,Athletics,Men's,triple jump
+Summer,1976,Silver,USA,United States,James BUTTS,1976 Montreal,Athletics,Men's,triple jump
+Summer,1976,Bronze,BRA,Brazil,João Carlos DE OLIVEIRA,1976 Montreal,Athletics,Men's,triple jump
+Summer,1976,Gold,POL,Poland,Jacek WSZOLA,1976 Montreal,Athletics,Men's,high jump
+Summer,1976,Silver,CAN,Canada,Greg JOY,1976 Montreal,Athletics,Men's,high jump
+Summer,1976,Bronze,USA,United States,Dwight STONES,1976 Montreal,Athletics,Men's,high jump
+Summer,1976,Gold,POL,Poland,Tadeusz SLUSARSKI,1976 Montreal,Athletics,Men's,pole vault
+Summer,1976,Silver,FIN,Finland,Antti KALLIOMÄKI,1976 Montreal,Athletics,Men's,pole vault
+Summer,1976,Bronze,USA,United States,David Luther ROBERTS,1976 Montreal,Athletics,Men's,pole vault
+Summer,1976,Gold,GDR,German Democratic Republic,Udo BEYER,1976 Montreal,Athletics,Men's,shot put
+Summer,1976,Silver,URS,USSR,Yevgeni MIRONOV,1976 Montreal,Athletics,Men's,shot put
+Summer,1976,Bronze,URS,USSR,Aleksandr BARYSHNIKOV,1976 Montreal,Athletics,Men's,shot put
+Summer,1976,Gold,USA,United States,Mac WILKINS,1976 Montreal,Athletics,Men's,discus throw
+Summer,1976,Silver,GDR,German Democratic Republic,Wolfgang SCHMIDT,1976 Montreal,Athletics,Men's,discus throw
+Summer,1976,Bronze,USA,United States,John POWELL,1976 Montreal,Athletics,Men's,discus throw
+Summer,1976,Gold,URS,USSR,Yuri SEDYKH,1976 Montreal,Athletics,Men's,hammer throw
+Summer,1976,Silver,URS,USSR,Aleksei SPIRIDONOV,1976 Montreal,Athletics,Men's,hammer throw
+Summer,1976,Bronze,URS,USSR,Anatoli BONDARCHUK,1976 Montreal,Athletics,Men's,hammer throw
+Summer,1976,Gold,HUN,Hungary,Miklos NEMETH,1976 Montreal,Athletics,Men's,javelin throw
+Summer,1976,Silver,FIN,Finland,Hannu Juhani SIITONEN,1976 Montreal,Athletics,Men's,javelin throw
+Summer,1976,Bronze,ROU,Romania,Gheorghe MEGELEA,1976 Montreal,Athletics,Men's,javelin throw
+Summer,1976,Gold,USA,United States,Bruce JENNER,1976 Montreal,Athletics,Men's,decathlon
+Summer,1976,Silver,FRG,Federal Republic of Germany,Guido KRATSCHMER,1976 Montreal,Athletics,Men's,decathlon
+Summer,1976,Bronze,URS,USSR,Nikolay AVILOV,1976 Montreal,Athletics,Men's,decathlon
+Summer,1976,Gold,FRG,Federal Republic of Germany,Annegret RICHTER-IRRGANG,1976 Montreal,Athletics,Women's,100m
+Summer,1976,Silver,GDR,German Democratic Republic,Renate STECHER,1976 Montreal,Athletics,Women's,100m
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Inge HELTEN,1976 Montreal,Athletics,Women's,100m
+Summer,1976,Gold,GDR,German Democratic Republic,Bärbel ECKERT-WÖCKEL,1976 Montreal,Athletics,Women's,200m
+Summer,1976,Silver,FRG,Federal Republic of Germany,Annegret RICHTER-IRRGANG,1976 Montreal,Athletics,Women's,200m
+Summer,1976,Bronze,GDR,German Democratic Republic,Renate STECHER,1976 Montreal,Athletics,Women's,200m
+Summer,1976,Gold,POL,Poland,Irena KIRSZENSTEIN,1976 Montreal,Athletics,Women's,400m
+Summer,1976,Silver,GDR,German Democratic Republic,Christina BREHMER-LATHAN,1976 Montreal,Athletics,Women's,400m
+Summer,1976,Bronze,GDR,German Democratic Republic,Ellen STROPAHL-STREIDT,1976 Montreal,Athletics,Women's,400m
+Summer,1976,Gold,URS,USSR,Tatiana KAZANKINA,1976 Montreal,Athletics,Women's,800m
+Summer,1976,Silver,BUL,Bulgaria,Nikolina CHTEREVA,1976 Montreal,Athletics,Women's,800m
+Summer,1976,Bronze,GDR,German Democratic Republic,Elfi ZINN,1976 Montreal,Athletics,Women's,800m
+Summer,1976,Gold,URS,USSR,Tatiana KAZANKINA,1976 Montreal,Athletics,Women's,1500m
+Summer,1976,Silver,GDR,German Democratic Republic,Gunhild HOFFMEISTER,1976 Montreal,Athletics,Women's,1500m
+Summer,1976,Bronze,GDR,German Democratic Republic,Ulrike KLAPEZYNSKI-BRUNS,1976 Montreal,Athletics,Women's,1500m
+Summer,1976,Gold,GDR,German Democratic Republic,Johanna SCHALLER-KLIER,1976 Montreal,Athletics,Women's,100m hurdles
+Summer,1976,Silver,URS,USSR,Tatiana ANISIMOVA,1976 Montreal,Athletics,Women's,100m hurdles
+Summer,1976,Bronze,URS,USSR,Natalya LEBEDEVA,1976 Montreal,Athletics,Women's,100m hurdles
+Summer,1976,Gold,GDR,German Democratic Republic,"Bärbel ECKERT-WÖCKEL, Renate STECHER, Carla BODENDORF, Marlies OELSNER-GÖHR",1976 Montreal,Athletics,Women's,4x100m relay
+Summer,1976,Silver,FRG,Federal Republic of Germany,"Elvira POSSEKEL, Inge HELTEN, Annegret KRONIGER, Annegret RICHTER-IRRGANG",1976 Montreal,Athletics,Women's,4x100m relay
+Summer,1976,Bronze,URS,USSR,"Lyudmila ZHARKOVA, Nadezhda BESFAMILNAYA, Vera ANISIMOVA, Tatiana PROROCHENKO",1976 Montreal,Athletics,Women's,4x100m relay
+Summer,1976,Gold,GDR,German Democratic Republic,"Ellen STROPAHL-STREIDT, Doris MALETZKI, Brigitte ROHDE, Christina BREHMER-LATHAN",1976 Montreal,Athletics,Women's,4x400m relay
+Summer,1976,Silver,USA,United States,"Rosalyn Evette BRYANT, Pamela GREENE-JILES, Sheila Rena INGRAM, Deborah Elaine SAPENTER",1976 Montreal,Athletics,Women's,4x400m relay
+Summer,1976,Bronze,URS,USSR,"Natalya CHISTYAKOVA-SOKOLOVA, Inta KLIMOVOCHA, Nadeshda ILYINA, Lyudmila AKSENOVA",1976 Montreal,Athletics,Women's,4x400m relay
+Summer,1976,Gold,GDR,German Democratic Republic,Angela VOIGT,1976 Montreal,Athletics,Women's,long jump
+Summer,1976,Silver,USA,United States,Catherine Laverne MCMILLAN,1976 Montreal,Athletics,Women's,long jump
+Summer,1976,Bronze,URS,USSR,Lidia ALFEEVA,1976 Montreal,Athletics,Women's,long jump
+Summer,1976,Gold,GDR,German Democratic Republic,Rosemarie WITSCHAS-ACKERMANN,1976 Montreal,Athletics,Women's,high jump
+Summer,1976,Silver,ITA,Italy,Sara SIMEONI,1976 Montreal,Athletics,Women's,high jump
+Summer,1976,Bronze,BUL,Bulgaria,Yordanka BLAGOEVA-DIMITROVA,1976 Montreal,Athletics,Women's,high jump
+Summer,1976,Gold,BUL,Bulgaria,Ivanka KHRISTOVA,1976 Montreal,Athletics,Women's,shot put
+Summer,1976,Silver,URS,USSR,Nadezhda CHIZHOVA,1976 Montreal,Athletics,Women's,shot put
+Summer,1976,Bronze,TCH,Czechoslovakia,Helena FIBINGEROVÁ,1976 Montreal,Athletics,Women's,shot put
+Summer,1976,Gold,GDR,German Democratic Republic,Evelin SCHLAAK-JAHL,1976 Montreal,Athletics,Women's,discus throw
+Summer,1976,Silver,BUL,Bulgaria,Maria VERGOVA-PETKOVA,1976 Montreal,Athletics,Women's,discus throw
+Summer,1976,Bronze,GDR,German Democratic Republic,Gabriele HINZMANN,1976 Montreal,Athletics,Women's,discus throw
+Summer,1976,Gold,GDR,German Democratic Republic,Ruth FUCHS,1976 Montreal,Athletics,Women's,javelin throw
+Summer,1976,Silver,FRG,Federal Republic of Germany,Marion BECKER-STEINER,1976 Montreal,Athletics,Women's,javelin throw
+Summer,1976,Bronze,USA,United States,Kathryn Joan SCHMIDT,1976 Montreal,Athletics,Women's,javelin throw
+Summer,1976,Gold,GDR,German Democratic Republic,Siegrun SIEGL,1976 Montreal,Athletics,Women's,pentathlon
+Summer,1976,Silver,GDR,German Democratic Republic,Christine LASER,1976 Montreal,Athletics,Women's,pentathlon
+Summer,1976,Bronze,GDR,German Democratic Republic,Burglinde POLLAK,1976 Montreal,Athletics,Women's,pentathlon
+Summer,1976,Gold,USA,United States,"Michael ARMSTRONG, Quinn BUCKNER, Mitchell KUPCHAK, Steven SHEPPARD, Scott MAY, Tom LAGARDE, Walter DAVIS, Phil FORD, Kenneth CARR, Ernie GRUNFELD, Phillip HUBBARD, Adrian DANTLEY",1976 Montreal,Basketball,Men's,basketball
+Summer,1976,Silver,YUG,Yugoslavia,"Mirza DELIBASIC, Dragan KICANOVIC, Damir ?OLMAN, Zoran SLAVNIC, Rajko ZIZIC, Andro KNEGO, ?eljko JERKOV, Kresimir COSIC, Drazen DALIPAGIC, Vinko JELOVAC, Zarko VARAJIC, Blagoje GEORGIJEVSKI",1976 Montreal,Basketball,Men's,basketball
+Summer,1976,Bronze,URS,USSR,"Andrey MAKEYEV, Vladimir TKACHENKO, Sergey BELOV, Aleksandr BELOV, Mikhail KORKIYA, Alzhan ZHARMUKHAMEDOV, Vladimir ZHIGILY, Valery MILOSERDOV, Anatoly MYSHKIN, Ivan YEDESHKO, Aleksandr SALNIKOV, Vladimir ARZAMASKOV",1976 Montreal,Basketball,Men's,basketball
+Summer,1976,Gold,URS,USSR,"Natalya KLIMOVA, Nadezhda OLKHOVA-SHUVAYEVA, Nelli FERYABNIKOVA, Tatyana NADYROVA-ZAKHAROVA, Angelia RUPSHENE, Tatyana OVECHKINA, Uljana SEMJONOVA, Nadezhda ZAKHAROVA, Olga SUKHARNOVA, Olga KOROSTELYOVA-BARYSHEVA, Tamara DAUNIENE, Raisa KURVYAKOVA",1976 Montreal,Basketball,Women's,basketball
+Summer,1976,Silver,USA,United States,"Cindy BROGDON, Lusia Mae HARRIS, Juliene SIMPSON, Nancy DUNKLE, Gail MARQUIS, Nancy LIEBERMAN, Patricia ROBERTS, Patricia HEAD, Mary Anne O'CONNOR, Ann MEYERS, Susan ROJCEWICZ, Charlotte LEWIS",1976 Montreal,Basketball,Women's,basketball
+Summer,1976,Bronze,BUL,Bulgaria,"Snezhana MIKHAILOVA, Penka METODIEVA, Maria STOYANOVA, Krasimira BOGDANOVA, Nadka GOLCHEVA, Girgina SKERLATOVA, Diana DILOVA, Petkana MAKAVEEVA, Krassimira GIUROVA, Todorka YORDANOVA, Penka STOYANOVA, Margarita SHTARKELOVA",1976 Montreal,Basketball,Women's,basketball
+Summer,1976,Gold,CUB,Cuba,Jorge HERNANDEZ PADRON,1976 Montreal,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1976,Silver,PRK,Korea DPR,Byong-Uk LI,1976 Montreal,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1976,Bronze,PUR,Puerto Rico,Orlando MALDONADO,1976 Montreal,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1976,Bronze,THA,Thailand,Payao POOLTARAT,1976 Montreal,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1976,Gold,USA,United States,Leo RANDOLPH,1976 Montreal,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1976,Silver,CUB,Cuba,Ramon DUVALON CARRION,1976 Montreal,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1976,Bronze,POL,Poland,Leszek BLAZYNSKI,1976 Montreal,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1976,Bronze,URS,USSR,David TOROSYAN,1976 Montreal,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1976,Gold,PRK,Korea DPR,Yong-Jo GU,1976 Montreal,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1976,Silver,USA,United States,Charles MOONEY,1976 Montreal,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1976,Bronze,GBR,Great Britain,Patrick COWDELL,1976 Montreal,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1976,Bronze,URS,USSR,Viktor RYBAKOV,1976 Montreal,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1976,Gold,CUB,Cuba,Angel HERRERA VERA,1976 Montreal,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1976,Silver,GDR,German Democratic Republic,Richard NOWAKOWSKI,1976 Montreal,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1976,Bronze,MEX,Mexico,Juan PAREDES,1976 Montreal,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1976,Bronze,POL,Poland,Leszek KOSEDOWSKI,1976 Montreal,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1976,Gold,USA,United States,"Howard Edward, Jr. DAVIS",1976 Montreal,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1976,Silver,ROU,Romania,Simion CUTOV,1976 Montreal,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1976,Bronze,URS,USSR,Vasili SOLOMIN,1976 Montreal,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1976,Bronze,YUG,Yugoslavia,Ace RUSEVSKI,1976 Montreal,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1976,Gold,USA,United States,Ray Charles LEONARD,1976 Montreal,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1976,Silver,CUB,Cuba,Andres ALDAMA CABRERA,1976 Montreal,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1976,Bronze,BUL,Bulgaria,Vladimir KOLEV,1976 Montreal,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1976,Bronze,POL,Poland,Kazimierz SZCZERBA,1976 Montreal,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1976,Gold,GDR,German Democratic Republic,Jochen BACHFELD,1976 Montreal,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1976,Silver,VEN,Venezuela,Pedro José GAMARRO,1976 Montreal,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Reinhard SKRICEK,1976 Montreal,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1976,Bronze,ROU,Romania,Victor ZILBERMAN,1976 Montreal,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1976,Gold,POL,Poland,Jerzy RYBICKI,1976 Montreal,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1976,Silver,YUG,Yugoslavia,Tadija KACAR,1976 Montreal,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1976,Bronze,CUB,Cuba,Rolando GARBEY,1976 Montreal,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1976,Bronze,URS,USSR,Viktor SAVCHENKO,1976 Montreal,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1976,Gold,USA,United States,Michael SPINKS,1976 Montreal,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1976,Silver,URS,USSR,Rufat RISKIYEV,1976 Montreal,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1976,Bronze,CUB,Cuba,Luis Felipe MARTINEZ SANCHEZ,1976 Montreal,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1976,Bronze,ROU,Romania,Alec NASTAC,1976 Montreal,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1976,Gold,USA,United States,"Leonard, Jr. SPINKS",1976 Montreal,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1976,Silver,CUB,Cuba,Sixto SORIA CABRERA,1976 Montreal,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1976,Bronze,POL,Poland,Janusz GORTAT,1976 Montreal,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1976,Bronze,ROU,Romania,Costica DAFINOIU,1976 Montreal,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1976,Gold,CUB,Cuba,Teófilo STEVENSON,1976 Montreal,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1976,Silver,ROU,Romania,Mircea SIMON,1976 Montreal,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1976,Bronze,BER,Bermuda,Clarence HILL,1976 Montreal,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1976,Bronze,USA,United States,Johnny TATE,1976 Montreal,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1976,Gold,ROU,Romania,Vasile DIBA,1976 Montreal,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1976,Silver,HUN,Hungary,Zoltán SZTANITY,1976 Montreal,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1976,Bronze,GDR,German Democratic Republic,Rüdiger HELM,1976 Montreal,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1976,Gold,GDR,German Democratic Republic,Rüdiger HELM,1976 Montreal,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1976,Silver,HUN,Hungary,Géza CSAPÓ,1976 Montreal,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1976,Bronze,ROU,Romania,Vasile DIBA,1976 Montreal,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1976,Gold,GDR,German Democratic Republic,"Joachim MATTERN, Bernd OLBRICHT",1976 Montreal,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1976,Silver,URS,USSR,"Sergei NAGORNYI, Vladimir ROMANOVSKY",1976 Montreal,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1976,Bronze,ROU,Romania,"Larion SERGHEI, Policarp MALIHIN",1976 Montreal,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1976,Gold,URS,USSR,"Sergei NAGORNYI, Vladimir ROMANOVSKY",1976 Montreal,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1976,Silver,GDR,German Democratic Republic,"Bernd OLBRICHT, Joachim MATTERN",1976 Montreal,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1976,Bronze,HUN,Hungary,"István SZABÓ, Zoltán BAKÓ",1976 Montreal,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1976,Gold,URS,USSR,"Vladimir MOROZOV, Aleksandr DEGTYAREV, Sergei CHUKHRAI, Yury FILATOV",1976 Montreal,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1976,Silver,ESP,Spain,"Jose Ramon LOPEZ DIAZ FLOR, Herminio MENENDEZ RODRIGUEZ, Jose Maria ESTEBAN CELLORIO, Luis Gregorio RAMOS MISIONE",1976 Montreal,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1976,Bronze,GDR,German Democratic Republic,"Rüdiger HELM, Frank-Peter BISCHOF, Jürgen LEHNERT, Bernd DUVIGNEAU",1976 Montreal,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1976,Gold,URS,USSR,Aleksandr ROGOV,1976 Montreal,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1976,Silver,CAN,Canada,John WOOD,1976 Montreal,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1976,Bronze,YUG,Yugoslavia,Matija LJUBEK,1976 Montreal,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1976,Gold,YUG,Yugoslavia,Matija LJUBEK,1976 Montreal,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1976,Silver,URS,USSR,Vasili YURCHENKO,1976 Montreal,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1976,Bronze,HUN,Hungary,Tamás WICHMANN,1976 Montreal,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1976,Gold,URS,USSR,"Aleksandr VINOGRADOV, Sergey PETRENKO",1976 Montreal,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1976,Silver,POL,Poland,"Andrzej GRONOWICZ, Jerzy OPARA",1976 Montreal,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1976,Bronze,HUN,Hungary,"Tamás BUDAY, Oszkár FREY",1976 Montreal,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1976,Gold,URS,USSR,"Aleksandr VINOGRADOV, Sergey PETRENKO",1976 Montreal,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1976,Silver,ROU,Romania,"Gheorghe DANIELOV, Gheorghe SIMIONOV",1976 Montreal,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1976,Bronze,HUN,Hungary,"Tamás BUDAY, Oszkár FREY",1976 Montreal,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1976,Gold,GDR,German Democratic Republic,Carola ZIRZOW,1976 Montreal,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1976,Silver,URS,USSR,Tatyana KORSHUNOVA,1976 Montreal,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1976,Bronze,HUN,Hungary,Klára RAJNAI,1976 Montreal,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1976,Gold,URS,USSR,"Galina KREFT, Nina GOPOVA",1976 Montreal,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1976,Silver,HUN,Hungary,"Anna PFEFFER, Klára RAJNAI",1976 Montreal,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1976,Bronze,GDR,German Democratic Republic,"Bärbel KÖSTER, Carola ZIRZOW",1976 Montreal,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1976,Gold,SWE,Sweden,Bernt JOHANSSON,1976 Montreal,Cycling Road,Men's,individual road race
+Summer,1976,Silver,ITA,Italy,Giuseppe MARTINELLI,1976 Montreal,Cycling Road,Men's,individual road race
+Summer,1976,Bronze,POL,Poland,Mieczyslaw NOWICKI,1976 Montreal,Cycling Road,Men's,individual road race
+Summer,1976,Gold,URS,USSR,"Vladimir KAMINSKY, Anatoli CHUKANOV, Aavo PIKKUUS, Valeri CHAPLYGIN",1976 Montreal,Cycling Road,Men's,team time trial
+Summer,1976,Silver,POL,Poland,"Stanislaw SZOZDA, Ryszard SZURKOWSKI, Tadeusz MYTNIK, Mieczyslaw NOWICKI",1976 Montreal,Cycling Road,Men's,team time trial
+Summer,1976,Bronze,DEN,Denmark,"Jørn LUND, Gert FRANK, Jorgen Emil HANSEN, Verner BLAUDZUN",1976 Montreal,Cycling Road,Men's,team time trial
+Summer,1976,Gold,TCH,Czechoslovakia,Anton TKÁC,1976 Montreal,Cycling Track,Men's,sprint individual
+Summer,1976,Silver,FRA,France,Daniel MORELON,1976 Montreal,Cycling Track,Men's,sprint individual
+Summer,1976,Bronze,GDR,German Democratic Republic,Hans-Jürgen GESCHKE,1976 Montreal,Cycling Track,Men's,sprint individual
+Summer,1976,Gold,FRG,Federal Republic of Germany,Gregor BRAUN,1976 Montreal,Cycling Track,Men's,individual pursuit
+Summer,1976,Silver,NED,Netherlands,Herman PONSTEEN,1976 Montreal,Cycling Track,Men's,individual pursuit
+Summer,1976,Bronze,GDR,German Democratic Republic,Thomas HUSCHKE,1976 Montreal,Cycling Track,Men's,individual pursuit
+Summer,1976,Gold,GDR,German Democratic Republic,Klaus-Jürgen GRÜNKE,1976 Montreal,Cycling Track,Men's,1km time trial
+Summer,1976,Silver,BEL,Belgium,Michel VAARTEN,1976 Montreal,Cycling Track,Men's,1km time trial
+Summer,1976,Bronze,DEN,Denmark,Niels Christian FREDBORG,1976 Montreal,Cycling Track,Men's,1km time trial
+Summer,1976,Gold,FRG,Federal Republic of Germany,"Peter VONHOF, Hans LUTZ, Günther SCHUMACHER, Gregor BRAUN",1976 Montreal,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1976,Silver,URS,USSR,"Aleksandr PEROV, Vladimir OSOKIN, Vitaly PETRAKOV, Viktor SOKOLOV",1976 Montreal,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1976,Bronze,GBR,Great Britain,"Michael BENNETT, Robin CROKER, Ian HALLAM, Ian BANBURY",1976 Montreal,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1976,Gold,USA,United States,Phil BOGGS,1976 Montreal,Diving,Men's,3m springboard
+Summer,1976,Silver,ITA,Italy,Giorgio Franco CAGNOTTO,1976 Montreal,Diving,Men's,3m springboard
+Summer,1976,Bronze,URS,USSR,Aleksandr KOSENKOV,1976 Montreal,Diving,Men's,3m springboard
+Summer,1976,Gold,ITA,Italy,Klaus DIBIASI,1976 Montreal,Diving,Men's,10m platform
+Summer,1976,Silver,USA,United States,Gregory LOUGANIS,1976 Montreal,Diving,Men's,10m platform
+Summer,1976,Bronze,URS,USSR,Vladimir ALEYNIK,1976 Montreal,Diving,Men's,10m platform
+Summer,1976,Gold,USA,United States,Jennifer CHANDLER,1976 Montreal,Diving,Women's,3m springboard
+Summer,1976,Silver,GDR,German Democratic Republic,Christa KÖHLER,1976 Montreal,Diving,Women's,3m springboard
+Summer,1976,Bronze,USA,United States,Cynthia POTTER-MCINGVALE,1976 Montreal,Diving,Women's,3m springboard
+Summer,1976,Gold,URS,USSR,Yelena VAYTSEKHOVSKAYA,1976 Montreal,Diving,Women's,10m platform
+Summer,1976,Silver,SWE,Sweden,Ulrika KNAPE,1976 Montreal,Diving,Women's,10m platform
+Summer,1976,Bronze,USA,United States,Deborah WILSON,1976 Montreal,Diving,Women's,10m platform
+Summer,1976,Gold,SUI,Switzerland,Christine STUECKELBERGER,1976 Montreal,Equestrian Dressage,Mixed,individual
+Summer,1976,Silver,FRG,Federal Republic of Germany,Harry BOLDT,1976 Montreal,Equestrian Dressage,Mixed,individual
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Reiner KLIMKE,1976 Montreal,Equestrian Dressage,Mixed,individual
+Summer,1976,Gold,FRG,Federal Republic of Germany,"Harry BOLDT, Reiner KLIMKE, Gabriela GRILLO",1976 Montreal,Equestrian Dressage,Mixed,team
+Summer,1976,Silver,SUI,Switzerland,"Christine STUECKELBERGER, Ulrich LEHMANN, Doris RAMSEIER",1976 Montreal,Equestrian Dressage,Mixed,team
+Summer,1976,Bronze,USA,United States,"Hilda GURNEY, Edith MASTER, Dorothy MORKIS",1976 Montreal,Equestrian Dressage,Mixed,team
+Summer,1976,Gold,USA,United States,Edmund Sloane COFFIN,1976 Montreal,Equestrian Eventing,Mixed,individual
+Summer,1976,Silver,USA,United States,John Michael PLUMB,1976 Montreal,Equestrian Eventing,Mixed,individual
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Karl SCHULTZ,1976 Montreal,Equestrian Eventing,Mixed,individual
+Summer,1976,Gold,USA,United States,"Bruce DAVIDSON, John Michael PLUMB, Edmund Sloane COFFIN, Mary Anne TAUSKEY",1976 Montreal,Equestrian Eventing,Mixed,team
+Summer,1976,Silver,FRG,Federal Republic of Germany,"Helmut RETHEMEIER, Herbert BLÖCKER, Karl SCHULTZ, Otto AMMERMANN",1976 Montreal,Equestrian Eventing,Mixed,team
+Summer,1976,Bronze,AUS,Australia,"Bill ROYCROFT, Denis PIGOTT, Mervyn BENNETT, Wayne ROYCROFT",1976 Montreal,Equestrian Eventing,Mixed,team
+Summer,1976,Gold,FRG,Federal Republic of Germany,Alwin SCHOCKEMÖHLE,1976 Montreal,Equestrian Jumping,Mixed,individual
+Summer,1976,Silver,CAN,Canada,Michel VAILLANCOURT,1976 Montreal,Equestrian Jumping,Mixed,individual
+Summer,1976,Bronze,BEL,Belgium,François MATHY,1976 Montreal,Equestrian Jumping,Mixed,individual
+Summer,1976,Gold,FRA,France,"Marc ROGUET, Hubert PAROT, Michel ROCHE, Marcel ROZIER",1976 Montreal,Equestrian Jumping,Mixed,team
+Summer,1976,Silver,FRG,Federal Republic of Germany,"Alwin SCHOCKEMÖHLE, Paul SCHOCKEMÖHLE, Hans Günter WINKLER, Sönke SÖNKSEN",1976 Montreal,Equestrian Jumping,Mixed,team
+Summer,1976,Bronze,BEL,Belgium,"Eric WAUTERS, Edgar-Henri CUEPPER, Stanny VAN PAESSCHEN, François MATHY",1976 Montreal,Equestrian Jumping,Mixed,team
+Summer,1976,Gold,FRG,Federal Republic of Germany,Alexander PUSCH,1976 Montreal,Fencing,Men's,épée individual
+Summer,1976,Silver,FRG,Federal Republic of Germany,Hans-Jürgen HEHN,1976 Montreal,Fencing,Men's,épée individual
+Summer,1976,Bronze,HUN,Hungary,Gyözö KULCSAR,1976 Montreal,Fencing,Men's,épée individual
+Summer,1976,Gold,SWE,Sweden,"Rolf EDLING, Göran FLODSTRÖM, Leif HÖGSTRÖM, Carl VON ESSEN, Hans JACOBSON",1976 Montreal,Fencing,Men's,épée team
+Summer,1976,Silver,FRG,Federal Republic of Germany,"Alexander PUSCH, Reinhold BEHR, Hans-Jürgen HEHN, Volker FISCHER",1976 Montreal,Fencing,Men's,épée team
+Summer,1976,Bronze,SUI,Switzerland,"Jean-Blaise EVÉQUOZ, François SUCHANECKI, Daniel GIGER, Christian KAUTER, Michel POFFET",1976 Montreal,Fencing,Men's,épée team
+Summer,1976,Gold,ITA,Italy,Fabio DAL ZOTTO,1976 Montreal,Fencing,Men's,foil individual
+Summer,1976,Silver,URS,USSR,Aleksandr ROMANKOV,1976 Montreal,Fencing,Men's,foil individual
+Summer,1976,Bronze,FRA,France,Bernard TALVARD,1976 Montreal,Fencing,Men's,foil individual
+Summer,1976,Gold,FRG,Federal Republic of Germany,"Klaus REICHERT, Thomas BACH, Erk SENS-GORIUS, Matthias BEHR, Harald HEIN",1976 Montreal,Fencing,Men's,foil team
+Summer,1976,Silver,ITA,Italy,"Fabio DAL ZOTTO, Stefano SIMONCELLI, Attilio CALATRONI, Carlo MONTANO, Giovanni Battista COLETTI",1976 Montreal,Fencing,Men's,foil team
+Summer,1976,Bronze,FRA,France,"Christian NOËL, Frédéric PIETRUSZKA, Bernard TALVARD, Didier FLAMENT, Daniel REVENU",1976 Montreal,Fencing,Men's,foil team
+Summer,1976,Gold,URS,USSR,Viktor KROVOPUSKOV,1976 Montreal,Fencing,Men's,sabre individual
+Summer,1976,Silver,URS,USSR,Vladimir NAZLYMOV,1976 Montreal,Fencing,Men's,sabre individual
+Summer,1976,Bronze,URS,USSR,Viktor SIDYAK,1976 Montreal,Fencing,Men's,sabre individual
+Summer,1976,Gold,URS,USSR,"Mikhail BURTSEV, Viktor KROVOPUSKOV, Eduard VINOKUROV, Vladimir NAZLYMOV, Viktor SIDYAK",1976 Montreal,Fencing,Men's,sabre team
+Summer,1976,Silver,ITA,Italy,"Mario Aldo MONTANO, Michele MAFFEI, Angelo ARCIDIACONO, Mario Tullio MONTANO, Tommaso MONTANO",1976 Montreal,Fencing,Men's,sabre team
+Summer,1976,Bronze,ROU,Romania,"Dan IRIMICIUC, Corneliu MARIN, Marin MUSTATA, Alexandru NILCA, Ioan POP",1976 Montreal,Fencing,Men's,sabre team
+Summer,1976,Gold,HUN,Hungary,Ildiko SCHWARCZENBERGER,1976 Montreal,Fencing,Women's,foil individual
+Summer,1976,Silver,ITA,Italy,Maria Consolata COLLINO,1976 Montreal,Fencing,Women's,foil individual
+Summer,1976,Bronze,URS,USSR,Yelena NOVIKOVA,1976 Montreal,Fencing,Women's,foil individual
+Summer,1976,Gold,URS,USSR,"Nailya GILYAZOVA, Valentina SIDOROVA, Olga KNYAZEVA, Yelena NOVIKOVA, Valentina NIKONOVA",1976 Montreal,Fencing,Women's,foil team
+Summer,1976,Silver,FRA,France,"Claudette HERBSTER, Brigitte DUMONT-GAPAIS, Véronique TRINQUET, Christine MUZIO, Brigitte LATRILLE",1976 Montreal,Fencing,Women's,foil team
+Summer,1976,Bronze,HUN,Hungary,"Ildiko SCHWARCZENBERGER, Magda MAROS, Edit KOVÁCS, Ildiko REJTO-UJLAKI, Ildikó BÓBIS",1976 Montreal,Fencing,Women's,foil team
+Summer,1976,Gold,GDR,German Democratic Republic,"Jürgen CROY, Reinhard HÄFNER, Martin HOFFMANN, Hans-Jürgen DÖRNER, Lothar KURBJUWEIT, Konrad WEISE, Hartmut SCHADE, Wilfried GRÖBNER, Hans-Ullrich GRAPENTHIN, Reinhard LAUCK, Gerd KISCHE, Wolfram LÖWE, Gerd WEBER, Hans-Jürgen RIEDIGER, Dieter RIEDEL, Gert HEIDLER, Bernd BRANSCH",1976 Montreal,Football,Men's,football
+Summer,1976,Silver,POL,Poland,"Grzegorz LATO, Kazimierz KMIECIK, Kazimierz DEYNA, Zygmunt MASZCZYK, Piotr MOWLIK, Henryk WAWROWSKI, Roman OGAZA, Henryk KASPERCZAK, Jan BENIGIER, Henryk WIECZOREK, Jan TOMASZEWSKI, Wladyslaw ZMUDA, Leslaw CMIKIEWICZ, Jerzy GORGON, Andrzej SZARMACH, Antoni SZYMANOWSKI, Wojciech RUDY",1976 Montreal,Football,Men's,football
+Summer,1976,Bronze,URS,USSR,"Viktor MATVIYENKO, Aleksandr MINAYEV, Leonid NAZARENKO, Vladimir TROSHKIN, Aleksandr PROKHOROV, Viktor ZVYAGINTSEV, Viktor KOLOTOV, Leonid BURYAK, Stefan RESHKO, Vladimir FYODOROV, Anatoli KONKOV, Vladimir VEREMEEV, David KIPIANI, Mikhail FOMENKO, Vladimir ASTAPOVSKY, Oleg BLOKHIN, Vladimir ONISHCHENKO",1976 Montreal,Football,Men's,football
+Summer,1976,Gold,URS,USSR,Nikolay ANDRIANOV,1976 Montreal,Gymnastics Artistic,Men's,individual all-round
+Summer,1976,Silver,JPN,Japan,Sawao KATO,1976 Montreal,Gymnastics Artistic,Men's,individual all-round
+Summer,1976,Bronze,JPN,Japan,Mitsuo TSUKAHARA,1976 Montreal,Gymnastics Artistic,Men's,individual all-round
+Summer,1976,Gold,JPN,Japan,"Shun FUJIMOTO, Hisato IGARASHI, Sawao KATO, Hiroshi KAJIYAMA, Eizo KENMOTSU, Mitsuo TSUKAHARA",1976 Montreal,Gymnastics Artistic,Men's,team competition
+Summer,1976,Silver,URS,USSR,"Aleksandr DITYATIN, Nikolay ANDRIANOV, Vladimir MARCHENKO, Vladimir MARKELOV, Vladimir TIKHONOV, Gennadi KRYSSIN",1976 Montreal,Gymnastics Artistic,Men's,team competition
+Summer,1976,Bronze,GDR,German Democratic Republic,"Michael NIKOLAY, Bernd JÄGER, Lutz MACK, Wolfgang KLOTZ, Rainer HANSCHKE, Roland BRÜCKNER",1976 Montreal,Gymnastics Artistic,Men's,team competition
+Summer,1976,Gold,URS,USSR,Nikolay ANDRIANOV,1976 Montreal,Gymnastics Artistic,Men's,floor exercises
+Summer,1976,Silver,URS,USSR,Vladimir MARCHENKO,1976 Montreal,Gymnastics Artistic,Men's,floor exercises
+Summer,1976,Bronze,USA,United States,Peter KORMANN,1976 Montreal,Gymnastics Artistic,Men's,floor exercises
+Summer,1976,Gold,JPN,Japan,Sawao KATO,1976 Montreal,Gymnastics Artistic,Men's,parallel bars
+Summer,1976,Silver,URS,USSR,Nikolay ANDRIANOV,1976 Montreal,Gymnastics Artistic,Men's,parallel bars
+Summer,1976,Bronze,JPN,Japan,Mitsuo TSUKAHARA,1976 Montreal,Gymnastics Artistic,Men's,parallel bars
+Summer,1976,Gold,URS,USSR,Nikolay ANDRIANOV,1976 Montreal,Gymnastics Artistic,Men's,vault
+Summer,1976,Silver,JPN,Japan,Mitsuo TSUKAHARA,1976 Montreal,Gymnastics Artistic,Men's,vault
+Summer,1976,Bronze,JPN,Japan,Hiroshi KAJIYAMA,1976 Montreal,Gymnastics Artistic,Men's,vault
+Summer,1976,Gold,URS,USSR,Nikolay ANDRIANOV,1976 Montreal,Gymnastics Artistic,Men's,rings
+Summer,1976,Silver,URS,USSR,Aleksandr DITYATIN,1976 Montreal,Gymnastics Artistic,Men's,rings
+Summer,1976,Bronze,ROU,Romania,Danut GRECU,1976 Montreal,Gymnastics Artistic,Men's,rings
+Summer,1976,Gold,HUN,Hungary,Zoltán MAGYAR,1976 Montreal,Gymnastics Artistic,Men's,pommel horse
+Summer,1976,Silver,JPN,Japan,Eizo KENMOTSU,1976 Montreal,Gymnastics Artistic,Men's,pommel horse
+Summer,1976,Bronze,GDR,German Democratic Republic,Michael NIKOLAY,1976 Montreal,Gymnastics Artistic,Men's,pommel horse
+Summer,1976,Bronze,URS,USSR,Nikolay ANDRIANOV,1976 Montreal,Gymnastics Artistic,Men's,pommel horse
+Summer,1976,Gold,JPN,Japan,Mitsuo TSUKAHARA,1976 Montreal,Gymnastics Artistic,Men's,horizontal bar
+Summer,1976,Silver,JPN,Japan,Eizo KENMOTSU,1976 Montreal,Gymnastics Artistic,Men's,horizontal bar
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Eberhard GIENGER,1976 Montreal,Gymnastics Artistic,Men's,horizontal bar
+Summer,1976,Bronze,FRA,France,Henry BOERIO,1976 Montreal,Gymnastics Artistic,Men's,horizontal bar
+Summer,1976,Gold,ROU,Romania,Nadia COMANECI,1976 Montreal,Gymnastics Artistic,Women's,individual all-round
+Summer,1976,Silver,URS,USSR,Nelli KIM,1976 Montreal,Gymnastics Artistic,Women's,individual all-round
+Summer,1976,Bronze,URS,USSR,Lyudmila TURISCHEVA,1976 Montreal,Gymnastics Artistic,Women's,individual all-round
+Summer,1976,Gold,URS,USSR,"Lyudmila TURISCHEVA, Olga KORBUT, Maria FILATOVA, Elvira SAADI, Svetlana GROZDOVA, Nelli KIM",1976 Montreal,Gymnastics Artistic,Women's,team competition
+Summer,1976,Silver,ROU,Romania,"Anca GRIGORAS, Georgeta GABOR, Teodora UNGUREANU, Nadia COMANECI, Gabriela TRUSCA, Mariana CONSTANTIN",1976 Montreal,Gymnastics Artistic,Women's,team competition
+Summer,1976,Bronze,GDR,German Democratic Republic,"Gitta ESCHER, Kerstin GERSCHAU, Angelika HELLMANN, Marion KISCHE, Steffi KRÄKER, Carola DOMBECK",1976 Montreal,Gymnastics Artistic,Women's,team competition
+Summer,1976,Gold,URS,USSR,Nelli KIM,1976 Montreal,Gymnastics Artistic,Women's,floor exercises
+Summer,1976,Silver,URS,USSR,Lyudmila TURISCHEVA,1976 Montreal,Gymnastics Artistic,Women's,floor exercises
+Summer,1976,Bronze,ROU,Romania,Nadia COMANECI,1976 Montreal,Gymnastics Artistic,Women's,floor exercises
+Summer,1976,Gold,ROU,Romania,Nadia COMANECI,1976 Montreal,Gymnastics Artistic,Women's,uneven bars
+Summer,1976,Silver,ROU,Romania,Teodora UNGUREANU,1976 Montreal,Gymnastics Artistic,Women's,uneven bars
+Summer,1976,Bronze,HUN,Hungary,Márta EGERVÁRI,1976 Montreal,Gymnastics Artistic,Women's,uneven bars
+Summer,1976,Gold,URS,USSR,Nelli KIM,1976 Montreal,Gymnastics Artistic,Women's,vault
+Summer,1976,Silver,GDR,German Democratic Republic,Carola DOMBECK,1976 Montreal,Gymnastics Artistic,Women's,vault
+Summer,1976,Silver,URS,USSR,Lyudmila TURISCHEVA,1976 Montreal,Gymnastics Artistic,Women's,vault
+Summer,1976,Gold,ROU,Romania,Nadia COMANECI,1976 Montreal,Gymnastics Artistic,Women's,balance beam
+Summer,1976,Silver,URS,USSR,Olga KORBUT,1976 Montreal,Gymnastics Artistic,Women's,balance beam
+Summer,1976,Bronze,ROU,Romania,Teodora UNGUREANU,1976 Montreal,Gymnastics Artistic,Women's,balance beam
+Summer,1976,Gold,URS,USSR,"Valery GASSY, Mikhail ISHCHENKO, Aleksandr REZANOV, Aleksandr ANPILOGOV, Vladimir KRAVTSOV, Yuri KIDYAEV, Yuri KLIMOV, Vasily ILYIN, Vladimir MAKSIMOV, Sergey KUSHNIRYUK, Yevgeny CHERNYSHOV, Nikolay TOMIN, Anatoli FEDYUKIN, Yuri LAGUTIN",1976 Montreal,Handball,Men's,handball
+Summer,1976,Silver,ROU,Romania,"Alexandru FÖLKER, Cezar DRAGANITA, Werner STÖCKL, Nicolae MUNTEANU, Radu VOINA, Constantin TUDOSIE, Cristian GATU, Cornel PENU, Mircea GRABOVSCHI, Stefan BIRTALAN, Roland GUNESCH, Gavril KICSID, Adrian COSMA, Ghita LICU",1976 Montreal,Handball,Men's,handball
+Summer,1976,Bronze,POL,Poland,"Henryk ROZMIAREK, Zygfryd KUCHTA, Alfred KALUZINSKI, Andrzej SZYMCZAK, Zdzislaw ANTCZAK, Mieczyslaw WOJCZAK, Piotr CIESLA, Jerzy MELCER, Andrzej SOKOLOWSKI, Ryszard PRZYBYSZ, Wlodzimierz ZIELINSKI, Janusz BRZOZOWSKI, Jan GMYREK, Jerzy KLEMPEL",1976 Montreal,Handball,Men's,handball
+Summer,1976,Gold,URS,USSR,"Lyudmila BOBRUS, Tatyana MAKARETS, Zinaida TURCHINA, Lyudmila PANCHUK, Mariya LITOSHENKO, Lyudmila SHUBINA, Rafiga SHABANOVA, Tatyana GLUSHCHENKO, Nina LOBOVA, Galina ZAKHAROVA, Aldona CESAITITE, Larisa KARLOVA, Natalya SHERSTYUK, Lyubov BEREZHNAYA",1976 Montreal,Handball,Women's,handball
+Summer,1976,Silver,GDR,German Democratic Republic,"Roswitha KRAUSE, Hannelore ZOBER, Petra UHLIG, Kristina RICHTER, Marion TIETZ, Silvia SIEFERT, Hannelore BUROSCH, Christina VOß, Eva PASKUY, Evelyn MATZ, Gabriele BADOREK, Waltraud KRETZSCHMAR, Christina ROST, Liane MICHAELIS",1976 Montreal,Handball,Women's,handball
+Summer,1976,Bronze,HUN,Hungary,"Ágota BUJDOSÓ, Éva ANGYAL, Klara CSIK, Marta MEGYERI, Maria VADASZ, Zsuzsa KEZI, Katalin LAKI, Ilona NAGY, Borbala TOTH-HARSANYI, Marianna NAGY, Erzsebet CSAJBOK, Amália STERBINSZKY, Mária BERZSENYI, Rozalia LELKES",1976 Montreal,Handball,Women's,handball
+Summer,1976,Gold,NZL,New Zealand,"Thurman BORREN, Barry John MAISTER, Arthur PARKIN, Tony INESON, Neil MCLEOD, Selwyn Gerald MAISTER, Gregory DAMAN, Ramesh PATEL, Alan CHESNEY, John Hansen CHRISTENSEN, Mohan PATEL, Trevor MANNING, Paul ACKERLEY, Alan Lionel MC INTYRE, Les WILSON, Jeffrey ARCHIBALD",1976 Montreal,Hockey,Men's,hockey
+Summer,1976,Silver,AUS,Australia,"Malcolm POOLE, Doug GOLDER, Graham REID, Barry DANCER, Robert HAIGH, Robert PROCTOR, David BELL, Wayne HAMMOND, Ian COOKE, James IRVINE, Richard CHARLESWORTH, Gregory BROWNING, Terry WALSH, Ronald RILEY, Trevor SMITH, Stephen MARSHALL",1976 Montreal,Hockey,Men's,hockey
+Summer,1976,Bronze,PAK,Pakistan,"Nazim SALIM, Hussain MANZOOR, Rashid III ABDUL, Iftikar Ahmed SYED, Uz-Zaman MUNAWAR, Shahnaz SHAIKH, Hassan MANZOOR, Khan HANEEF, Zia QAMAR, Ud Din ISLAH, Mudassar Ashgar SYED, Sami Ullah KHAN, Mahmood ARSHAD, Arshad Ali CHAUDHRY, Rasool AKHTAR",1976 Montreal,Hockey,Men's,hockey
+Summer,1976,Gold,CUB,Cuba,Héctor RODRÍGUEZ,1976 Montreal,Judo,Men's,- 63kg (lightweight)
+Summer,1976,Silver,KOR,Korea Republic,Eun-Kyung CHANG,1976 Montreal,Judo,Men's,- 63kg (lightweight)
+Summer,1976,Bronze,HUN,Hungary,József TUNCSIK,1976 Montreal,Judo,Men's,- 63kg (lightweight)
+Summer,1976,Bronze,ITA,Italy,Felice MARIANI,1976 Montreal,Judo,Men's,- 63kg (lightweight)
+Summer,1976,Gold,URS,USSR,Vladimir NEVZOROV,1976 Montreal,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1976,Silver,JPN,Japan,Koji KURAMOTO,1976 Montreal,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1976,Bronze,FRA,France,Patrick VIAL,1976 Montreal,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1976,Bronze,POL,Poland,Marian TALAJ,1976 Montreal,Judo,Men's,63 - 70kg (half-middleweight)
+Summer,1976,Gold,JPN,Japan,Isamu SONODA,1976 Montreal,Judo,Men's,70 - 80kg (middleweight)
+Summer,1976,Silver,URS,USSR,Valeri DVOINIKOV,1976 Montreal,Judo,Men's,70 - 80kg (middleweight)
+Summer,1976,Bronze,KOR,Korea Republic,Young-Chul PARK,1976 Montreal,Judo,Men's,70 - 80kg (middleweight)
+Summer,1976,Bronze,YUG,Yugoslavia,Slavko OBADOV,1976 Montreal,Judo,Men's,70 - 80kg (middleweight)
+Summer,1976,Gold,JPN,Japan,Kazuhiro NINOMIYA,1976 Montreal,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1976,Silver,URS,USSR,Ramaz KHARSHILADZE,1976 Montreal,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1976,Bronze,GBR,Great Britain,David STARBROOK,1976 Montreal,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1976,Bronze,SUI,Switzerland,Jürg RÖTHLISBERGER,1976 Montreal,Judo,Men's,80 - 93kg (half-heavyweight)
+Summer,1976,Gold,URS,USSR,Sergei NOVIKOV,1976 Montreal,Judo,Men's,+ 93kg (heavyweight)
+Summer,1976,Silver,FRG,Federal Republic of Germany,Günther NEUREUTHER,1976 Montreal,Judo,Men's,+ 93kg (heavyweight)
+Summer,1976,Bronze,JPN,Japan,Sumio ENDO,1976 Montreal,Judo,Men's,+ 93kg (heavyweight)
+Summer,1976,Bronze,USA,United States,Allen COAGE,1976 Montreal,Judo,Men's,+ 93kg (heavyweight)
+Summer,1976,Gold,JPN,Japan,Haruki UEMURA,1976 Montreal,Judo,Men's,open category
+Summer,1976,Silver,GBR,Great Britain,Keith REMFRY,1976 Montreal,Judo,Men's,open category
+Summer,1976,Bronze,KOR,Korea Republic,Je-Aki CHO,1976 Montreal,Judo,Men's,open category
+Summer,1976,Bronze,URS,USSR,Shota Samsonovich CHOCHISHVILI,1976 Montreal,Judo,Men's,open category
+Summer,1976,Gold,POL,Poland,Janusz PYCIAK-PECIAK,1976 Montreal,Modern Pentathlon,Men's,individual competition
+Summer,1976,Silver,URS,USSR,Pavel LEDNEV,1976 Montreal,Modern Pentathlon,Men's,individual competition
+Summer,1976,Bronze,TCH,Czechoslovakia,Jan BARTU,1976 Montreal,Modern Pentathlon,Men's,individual competition
+Summer,1976,Gold,GBR,Great Britain,"Adrian PARKER, Jeremy FOX, Robert NIGHTINGALE",1976 Montreal,Modern Pentathlon,Men's,team competition
+Summer,1976,Silver,TCH,Czechoslovakia,"Jan BARTU, Jirí ADAM, Bohumil STARNOVSKÝ",1976 Montreal,Modern Pentathlon,Men's,team competition
+Summer,1976,Bronze,HUN,Hungary,"Tibor MARACSKÓ, Szvetiszlav SASICS, Tamás KANCSAL",1976 Montreal,Modern Pentathlon,Men's,team competition
+Summer,1976,Gold,FIN,Finland,Pertti KARPPINEN,1976 Montreal,Rowing,Men's,single sculls (1x)
+Summer,1976,Silver,FRG,Federal Republic of Germany,Peter-Michael KOLBE,1976 Montreal,Rowing,Men's,single sculls (1x)
+Summer,1976,Bronze,GDR,German Democratic Republic,Joachim DREIFKE,1976 Montreal,Rowing,Men's,single sculls (1x)
+Summer,1976,Gold,NOR,Norway,"Alf HANSEN, Frank HANSEN",1976 Montreal,Rowing,Men's,double sculls (2x)
+Summer,1976,Silver,GBR,Great Britain,"Christopher BAILLIEU, Michael HART",1976 Montreal,Rowing,Men's,double sculls (2x)
+Summer,1976,Bronze,GDR,German Democratic Republic,"Jürgen BERTOW, Hans-Ulrich SCHMIED",1976 Montreal,Rowing,Men's,double sculls (2x)
+Summer,1976,Gold,GDR,German Democratic Republic,"Bernd LANDVOIGT, Jörg LANDVOIGT",1976 Montreal,Rowing,Men's,pair without coxswain (2-)
+Summer,1976,Silver,USA,United States,"Michael STAINES, Calvin COFFEY",1976 Montreal,Rowing,Men's,pair without coxswain (2-)
+Summer,1976,Bronze,FRG,Federal Republic of Germany,"Peter VANROYE, Thomas STRAUSS",1976 Montreal,Rowing,Men's,pair without coxswain (2-)
+Summer,1976,Gold,GDR,German Democratic Republic,"Harald JÄHRLING, Friedrich-Wilhelm ULRICH, Georg SPOHR",1976 Montreal,Rowing,Men's,pair-oared shell with coxswain
+Summer,1976,Silver,URS,USSR,"Dmitri BEKHTEREV, Yuri LORENTSON, Yuri SHURKALOV",1976 Montreal,Rowing,Men's,pair-oared shell with coxswain
+Summer,1976,Bronze,TCH,Czechoslovakia,"Ludvik VEBR, Oldrich SVOJANOVSKY, Pavel SVOJANOVSKY",1976 Montreal,Rowing,Men's,pair-oared shell with coxswain
+Summer,1976,Gold,GDR,German Democratic Republic,"Andreas DECKER, Siegfried BRIETZKE, Wolfgang MAGER, Stefan SEMMLER",1976 Montreal,Rowing,Men's,four without coxswain (4-)
+Summer,1976,Silver,NOR,Norway,"Arne BERGODD, Ole NAFSTAD, Finn TVETER, Rolf ANDREASSEN",1976 Montreal,Rowing,Men's,four without coxswain (4-)
+Summer,1976,Bronze,URS,USSR,"Anushavan GASAN-DZHALALOV, Raul ARNEMANN, Valeri DOLININ, Nikolay KUZNETSOV",1976 Montreal,Rowing,Men's,four without coxswain (4-)
+Summer,1976,Gold,URS,USSR,"Nikolay IVANOV, Vladimir YESHINOV, Aleksandr KLEPIKOV, Mikhail KUZNETSOV, Aleksandr LUKYANOV",1976 Montreal,Rowing,Men's,four-oared shell with coxswain
+Summer,1976,Silver,GDR,German Democratic Republic,"Andreas SCHULZ, Johannes THOMAS, Ullrich DIESSNER, Walter DIESSNER, Rüdiger KUNZE",1976 Montreal,Rowing,Men's,four-oared shell with coxswain
+Summer,1976,Bronze,FRG,Federal Republic of Germany,"Peter NIEHUSEN, Hans-Johann FÄRBER, Siegfried FRICKE, Hartmut WENZEL, Ralph KUBAIL",1976 Montreal,Rowing,Men's,four-oared shell with coxswain
+Summer,1976,Gold,GDR,German Democratic Republic,"Rüdiger REICHE, Michael WOLFGRAMM, Wolfgang GÜLDENPFENNIG, Karl-Heinz BUSSERT",1976 Montreal,Rowing,Men's,quadruple sculls without coxswain
+Summer,1976,Silver,URS,USSR,"Vytautas BUTKUS, Aivars LAZDENIEKS, Yuri YAKIMOV, Evgeni DULEEV",1976 Montreal,Rowing,Men's,quadruple sculls without coxswain
+Summer,1976,Bronze,TCH,Czechoslovakia,"Zdenek PECKA, Jaroslav HELLEBRAND, Vaclav VOCHOSKA, Vladek LACINA",1976 Montreal,Rowing,Men's,quadruple sculls without coxswain
+Summer,1976,Gold,GDR,German Democratic Republic,"Karl-Heinz PRUDÖHL, Bernd BAUMGART, Ulrich KARNATZ, Gottfried DÖHN, Dieter WENDISCH, Hans-Joachim LÜCK, Karl-Heinz DANIELOWSKI, Roland KOSTULSKI, Werner KLATT",1976 Montreal,Rowing,Men's,eight with coxswain (8+)
+Summer,1976,Silver,GBR,Great Britain,"James CLARK, David MAXWELL, Leonard ROBERTSON, Patrick SWEENEY, Timothy CROOKS, Richard LESTER, Hugh MATHESON, Frederick SMALLBONE, John YALLOP",1976 Montreal,Rowing,Men's,eight with coxswain (8+)
+Summer,1976,Bronze,NZL,New Zealand,"Tony HURT, Lindsay WILSON, Alex MCLEAN, David RODGER, Simon DICKIE, Ivan SUTHERLAND, Trevor COKER, Peter DIGNAN, Athol EARL",1976 Montreal,Rowing,Men's,eight with coxswain (8+)
+Summer,1976,Gold,GDR,German Democratic Republic,Christine SCHEIBLICH,1976 Montreal,Rowing,Women's,single sculls (1x)
+Summer,1976,Silver,USA,United States,Joan LIND,1976 Montreal,Rowing,Women's,single sculls (1x)
+Summer,1976,Bronze,URS,USSR,Yelena ANTONOVA,1976 Montreal,Rowing,Women's,single sculls (1x)
+Summer,1976,Gold,BUL,Bulgaria,"Svetla OTZETOVA, Zdravka YORDANOVA",1976 Montreal,Rowing,Women's,double sculls (2x)
+Summer,1976,Silver,GDR,German Democratic Republic,"Sabine JAHN, Petra BOESLER",1976 Montreal,Rowing,Women's,double sculls (2x)
+Summer,1976,Bronze,URS,USSR,"Genovate RAMOSHKENE, Leonora KAMINSKAITE",1976 Montreal,Rowing,Women's,double sculls (2x)
+Summer,1976,Gold,BUL,Bulgaria,"Siika KELBETCHEVA-BARBULOVA, Stoyanka GRUYCHEVA",1976 Montreal,Rowing,Women's,pair without coxswain (2-)
+Summer,1976,Silver,GDR,German Democratic Republic,"Sabine DÄHNE, Angelika NOACK",1976 Montreal,Rowing,Women's,pair without coxswain (2-)
+Summer,1976,Bronze,FRG,Federal Republic of Germany,"Edith ECKBAUER, Thea EINÖDER",1976 Montreal,Rowing,Women's,pair without coxswain (2-)
+Summer,1976,Gold,GDR,German Democratic Republic,"Sabine HESS, Andrea KURTH, Gabriele LOHS, Karin METZE, Bianka SCHWEDE",1976 Montreal,Rowing,Women's,four-oared shell with coxswain
+Summer,1976,Silver,BUL,Bulgaria,"Ginka GUROVA, Reni YORDANOVA, Mariika MODEVA, Liliana VASSEVA, Kapka GEORGIEVA",1976 Montreal,Rowing,Women's,four-oared shell with coxswain
+Summer,1976,Bronze,URS,USSR,"Anna PASOKHA, Lyudmila KROKHINA, Galina MISHENINA, Lidiya KRYLOVA, Nadezhda SEVOSTYANOVA",1976 Montreal,Rowing,Women's,four-oared shell with coxswain
+Summer,1976,Gold,GDR,German Democratic Republic,"Jutta LAU, Viola POLEY, Anke BORCHMANN, Roswietha ZOBELT, Liane BUHR-WEIGELT",1976 Montreal,Rowing,Women's,quadruple sculls with coxswain
+Summer,1976,Silver,URS,USSR,"Larisa ALEKSANDROVA, Anna KONDRASHINA, Mira BRYUNINA, Galina YERMOLAYEVA, Nadezhda CHERNYSHOVA",1976 Montreal,Rowing,Women's,quadruple sculls with coxswain
+Summer,1976,Bronze,ROU,Romania,"Maria MICSA, Ioana TUDORAN, Elisabeta LAZAR, Felicia AFRASILOAIA, Elena GIURCA",1976 Montreal,Rowing,Women's,quadruple sculls with coxswain
+Summer,1976,Gold,GDR,German Democratic Republic,"Viola GORETZKI, Henrietta EBERT, Monika KALLIES, Irina MÜLLER, Helma LEHMANN, Brigitte AHRENHOLZ, Christiane KNETSCH, Ilona RICHTER, Marina WILKE",1976 Montreal,Rowing,Women's,eight with coxswain (8+)
+Summer,1976,Silver,URS,USSR,"Nadezhda ROZGON, Olga KOLKOVA, Lyubov TALALAYEVA, Olga PUGOVSKAYA, Olga GUZENKO, Nadezhda ROSHCHINA, Nelli TARAKANOVA, Yelena ZUBKO, Klavdiya KOZENKOVA",1976 Montreal,Rowing,Women's,eight with coxswain (8+)
+Summer,1976,Bronze,USA,United States,"Jacqueline ZOCH, Lynn SILLIMAN, Peggy MCCARTHY, Carrie GRAVES, Anne WARNER, Carol BROWN, Anita DEFRANTZ, Marion GREIG, Gail RICKETSON",1976 Montreal,Rowing,Women's,eight with coxswain (8+)
+Summer,1976,Gold,SWE,Sweden,"John ALBRECHTSON, Ingvar HANSSON",1976 Montreal,Sailing,Mixed,tempest
+Summer,1976,Silver,URS,USSR,"Vladislav AKIMENKO, Valentin MANKIN",1976 Montreal,Sailing,Mixed,tempest
+Summer,1976,Bronze,USA,United States,"Conn FINDLAY, Dennis CONNER",1976 Montreal,Sailing,Mixed,tempest
+Summer,1976,Gold,GDR,German Democratic Republic,Jochen SCHÜMANN,1976 Montreal,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1976,Silver,URS,USSR,Andrei BALASHOV,1976 Montreal,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1976,Bronze,AUS,Australia,John Edwin BERTRAND,1976 Montreal,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1976,Gold,FRG,Federal Republic of Germany,"Frank HÜBNER, Harro BODE",1976 Montreal,Sailing,Men's,470 - Two Person Dinghy
+Summer,1976,Silver,ESP,Spain,"Pedro Luis MILLET SOLER, Antonio GOROSTEGUI CEBALLOS",1976 Montreal,Sailing,Men's,470 - Two Person Dinghy
+Summer,1976,Bronze,AUS,Australia,"Ian BROWN, Ian RUFF",1976 Montreal,Sailing,Men's,470 - Two Person Dinghy
+Summer,1976,Gold,GBR,Great Britain,"John OSBORN, Reginald WHITE",1976 Montreal,Sailing,Mixed,Tornado - Multihull
+Summer,1976,Silver,USA,United States,"Michael ROTHWELL, David MCFAULL",1976 Montreal,Sailing,Mixed,Tornado - Multihull
+Summer,1976,Bronze,FRG,Federal Republic of Germany,"Jörg SPENGLER, Jörg SCHMALL",1976 Montreal,Sailing,Mixed,Tornado - Multihull
+Summer,1976,Gold,FRG,Federal Republic of Germany,"Jörg DIESCH, Eckart DIESCH",1976 Montreal,Sailing,Mixed,flying dutchman
+Summer,1976,Silver,GBR,Great Britain,"Julian BROOKE-HOUGHTON, Rodney PATTISSON",1976 Montreal,Sailing,Mixed,flying dutchman
+Summer,1976,Bronze,BRA,Brazil,"Reinaldo CONRAD, Peter FICKER",1976 Montreal,Sailing,Mixed,flying dutchman
+Summer,1976,Gold,DEN,Denmark,"Poul Richard Hoj JENSEN, Valdemar BANDOLOWSKI, Erik HANSEN",1976 Montreal,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1976,Silver,USA,United States,"Richard HOEPFNER, Walter GLASGOW, John KOLIUS",1976 Montreal,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1976,Bronze,GDR,German Democratic Republic,"Dieter BELOW, Michael ZACHRIES, Olaf ENGELHARDT",1976 Montreal,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1976,Gold,GDR,German Democratic Republic,Norbert KLAAR,1976 Montreal,Shooting,Mixed,25m rapid fire pistol
+Summer,1976,Silver,GDR,German Democratic Republic,Jürgen WIEFEL,1976 Montreal,Shooting,Mixed,25m rapid fire pistol
+Summer,1976,Bronze,ITA,Italy,Roberto FERRARIS,1976 Montreal,Shooting,Mixed,25m rapid fire pistol
+Summer,1976,Gold,GDR,German Democratic Republic,Uwe POTTECK,1976 Montreal,Shooting,Mixed,50m pistol
+Summer,1976,Silver,GDR,German Democratic Republic,Harald VOLLMAR,1976 Montreal,Shooting,Mixed,50m pistol
+Summer,1976,Bronze,AUT,Austria,Rudolf DOLLINGER,1976 Montreal,Shooting,Mixed,50m pistol
+Summer,1976,Gold,FRG,Federal Republic of Germany,Karlheinz SMIESZEK,1976 Montreal,Shooting,Mixed,50m rifle prone
+Summer,1976,Silver,FRG,Federal Republic of Germany,Ulrich LIND,1976 Montreal,Shooting,Mixed,50m rifle prone
+Summer,1976,Bronze,URS,USSR,Gennady LUSHCHIKOV,1976 Montreal,Shooting,Mixed,50m rifle prone
+Summer,1976,Gold,USA,United States,Lanny BASSHAM,1976 Montreal,Shooting,Mixed,50m rifle 3 positions
+Summer,1976,Silver,USA,United States,Margaret MURDOCK,1976 Montreal,Shooting,Mixed,50m rifle 3 positions
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Werner SEIBOLD,1976 Montreal,Shooting,Mixed,50m rifle 3 positions
+Summer,1976,Gold,URS,USSR,Aleksandr GAZOV,1976 Montreal,Shooting,Mixed,50m running target
+Summer,1976,Silver,URS,USSR,Aleksandr KEDYAROV,1976 Montreal,Shooting,Mixed,50m running target
+Summer,1976,Bronze,POL,Poland,Jerzy GRESZKIEWICZ,1976 Montreal,Shooting,Mixed,50m running target
+Summer,1976,Gold,USA,United States,Donald HALDEMAN,1976 Montreal,Shooting,Mixed,Trap
+Summer,1976,Silver,POR,Portugal,Armando Da Silva MARQUES,1976 Montreal,Shooting,Mixed,Trap
+Summer,1976,Bronze,ITA,Italy,Ubaldesco BALDI,1976 Montreal,Shooting,Mixed,Trap
+Summer,1976,Gold,TCH,Czechoslovakia,Josef PANÁCEK,1976 Montreal,Shooting,Mixed,Skeet
+Summer,1976,Silver,NED,Netherlands,Eric SWINKELS,1976 Montreal,Shooting,Mixed,Skeet
+Summer,1976,Bronze,POL,Poland,Wieslaw GAWLIKOWSKI,1976 Montreal,Shooting,Mixed,Skeet
+Summer,1976,Gold,USA,United States,Jim MONTGOMERY,1976 Montreal,Swimming,Men's,100m freestyle
+Summer,1976,Silver,USA,United States,Jack BABASHOFF,1976 Montreal,Swimming,Men's,100m freestyle
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Peter NOCKE,1976 Montreal,Swimming,Men's,100m freestyle
+Summer,1976,Gold,USA,United States,Bruce FURNISS,1976 Montreal,Swimming,Men's,200m freestyle
+Summer,1976,Silver,USA,United States,John NABER,1976 Montreal,Swimming,Men's,200m freestyle
+Summer,1976,Bronze,USA,United States,Jim MONTGOMERY,1976 Montreal,Swimming,Men's,200m freestyle
+Summer,1976,Gold,USA,United States,Brian GOODELL,1976 Montreal,Swimming,Men's,400m freestyle
+Summer,1976,Silver,USA,United States,Tim SHAW,1976 Montreal,Swimming,Men's,400m freestyle
+Summer,1976,Bronze,URS,USSR,Vladimir RASKATOV,1976 Montreal,Swimming,Men's,400m freestyle
+Summer,1976,Gold,USA,United States,Brian GOODELL,1976 Montreal,Swimming,Men's,1500m freestyle
+Summer,1976,Silver,USA,United States,Bobby HACKETT,1976 Montreal,Swimming,Men's,1500m freestyle
+Summer,1976,Bronze,AUS,Australia,Stephen HOLLAND,1976 Montreal,Swimming,Men's,1500m freestyle
+Summer,1976,Gold,USA,United States,John HENCKEN,1976 Montreal,Swimming,Men's,100m breaststroke
+Summer,1976,Silver,GBR,Great Britain,David WILKIE,1976 Montreal,Swimming,Men's,100m breaststroke
+Summer,1976,Bronze,URS,USSR,Arvydas JUOZAITIS,1976 Montreal,Swimming,Men's,100m breaststroke
+Summer,1976,Gold,GBR,Great Britain,David WILKIE,1976 Montreal,Swimming,Men's,200m breaststroke
+Summer,1976,Silver,USA,United States,John HENCKEN,1976 Montreal,Swimming,Men's,200m breaststroke
+Summer,1976,Bronze,USA,United States,Rick COLELLA,1976 Montreal,Swimming,Men's,200m breaststroke
+Summer,1976,Gold,USA,United States,Matt VOGEL,1976 Montreal,Swimming,Men's,100m butterfly
+Summer,1976,Silver,USA,United States,Joseph Stuart BOTTOM,1976 Montreal,Swimming,Men's,100m butterfly
+Summer,1976,Bronze,USA,United States,Gary HALL,1976 Montreal,Swimming,Men's,100m butterfly
+Summer,1976,Gold,USA,United States,Mike BRUNER,1976 Montreal,Swimming,Men's,200m butterfly
+Summer,1976,Silver,USA,United States,Steven GREGG,1976 Montreal,Swimming,Men's,200m butterfly
+Summer,1976,Bronze,USA,United States,Bill FORRESTER,1976 Montreal,Swimming,Men's,200m butterfly
+Summer,1976,Gold,USA,United States,John NABER,1976 Montreal,Swimming,Men's,100m backstroke
+Summer,1976,Silver,USA,United States,Peter ROCCA,1976 Montreal,Swimming,Men's,100m backstroke
+Summer,1976,Bronze,GDR,German Democratic Republic,Roland MATTHES,1976 Montreal,Swimming,Men's,100m backstroke
+Summer,1976,Gold,USA,United States,John NABER,1976 Montreal,Swimming,Men's,200m backstroke
+Summer,1976,Silver,USA,United States,Peter ROCCA,1976 Montreal,Swimming,Men's,200m backstroke
+Summer,1976,Bronze,USA,United States,Dan HARRIGAN,1976 Montreal,Swimming,Men's,200m backstroke
+Summer,1976,Gold,USA,United States,Rod STRACHAN,1976 Montreal,Swimming,Men's,400m individual medley
+Summer,1976,Silver,USA,United States,Alexander Timothy MCKEE,1976 Montreal,Swimming,Men's,400m individual medley
+Summer,1976,Bronze,URS,USSR,Andrey SMIRNOV,1976 Montreal,Swimming,Men's,400m individual medley
+Summer,1976,Gold,USA,United States,"Jim MONTGOMERY, Bruce FURNISS, Mike BRUNER, John NABER",1976 Montreal,Swimming,Men's,4x200m freestyle relay
+Summer,1976,Silver,URS,USSR,"Andrey KRYLOV, Sergey KOPLYAKOV, Andrei BOGDANOV, Vladimir RASKATOV",1976 Montreal,Swimming,Men's,4x200m freestyle relay
+Summer,1976,Bronze,GBR,Great Britain,"Brian BRINKLEY, David DUNNE, Alan MCCLATCHEY, Gordon DOWNIE",1976 Montreal,Swimming,Men's,4x200m freestyle relay
+Summer,1976,Gold,USA,United States,"Matt VOGEL, Jim MONTGOMERY, John NABER, John HENCKEN",1976 Montreal,Swimming,Men's,4x100m medley relay
+Summer,1976,Silver,CAN,Canada,"Stephen PICKELL, Graham SMITH, Gary MACDONALD, Clay EVANS",1976 Montreal,Swimming,Men's,4x100m medley relay
+Summer,1976,Bronze,FRG,Federal Republic of Germany,"Walter KUSCH, Peter NOCKE, Klaus STEINBACH, Michael KRAUS",1976 Montreal,Swimming,Men's,4x100m medley relay
+Summer,1976,Gold,GDR,German Democratic Republic,Kornelia ENDER,1976 Montreal,Swimming,Women's,100m freestyle
+Summer,1976,Silver,GDR,German Democratic Republic,Petra PRIEMER,1976 Montreal,Swimming,Women's,100m freestyle
+Summer,1976,Bronze,NED,Netherlands,Enith BRIGITHA,1976 Montreal,Swimming,Women's,100m freestyle
+Summer,1976,Gold,GDR,German Democratic Republic,Kornelia ENDER,1976 Montreal,Swimming,Women's,200m freestyle
+Summer,1976,Silver,USA,United States,Shirley BABASHOFF,1976 Montreal,Swimming,Women's,200m freestyle
+Summer,1976,Bronze,NED,Netherlands,Enith BRIGITHA,1976 Montreal,Swimming,Women's,200m freestyle
+Summer,1976,Gold,GDR,German Democratic Republic,Petra THÜMER,1976 Montreal,Swimming,Women's,400m freestyle
+Summer,1976,Silver,USA,United States,Shirley BABASHOFF,1976 Montreal,Swimming,Women's,400m freestyle
+Summer,1976,Bronze,CAN,Canada,Shannon SMITH,1976 Montreal,Swimming,Women's,400m freestyle
+Summer,1976,Gold,GDR,German Democratic Republic,Petra THÜMER,1976 Montreal,Swimming,Women's,800m freestyle
+Summer,1976,Silver,USA,United States,Shirley BABASHOFF,1976 Montreal,Swimming,Women's,800m freestyle
+Summer,1976,Bronze,USA,United States,Wendy WEINBERG,1976 Montreal,Swimming,Women's,800m freestyle
+Summer,1976,Gold,GDR,German Democratic Republic,Hannelore ANKE,1976 Montreal,Swimming,Women's,100m breaststroke
+Summer,1976,Silver,URS,USSR,Lyubov RUSANOVA,1976 Montreal,Swimming,Women's,100m breaststroke
+Summer,1976,Bronze,URS,USSR,Marina KOSHEVAYA,1976 Montreal,Swimming,Women's,100m breaststroke
+Summer,1976,Gold,URS,USSR,Marina KOSHEVAYA,1976 Montreal,Swimming,Women's,200m breaststroke
+Summer,1976,Silver,URS,USSR,Marina YURCHENYA,1976 Montreal,Swimming,Women's,200m breaststroke
+Summer,1976,Bronze,URS,USSR,Lyubov RUSANOVA,1976 Montreal,Swimming,Women's,200m breaststroke
+Summer,1976,Gold,GDR,German Democratic Republic,Kornelia ENDER,1976 Montreal,Swimming,Women's,100m butterfly
+Summer,1976,Silver,GDR,German Democratic Republic,Andrea POLLACK,1976 Montreal,Swimming,Women's,100m butterfly
+Summer,1976,Bronze,USA,United States,Wendy BOGLIOLI,1976 Montreal,Swimming,Women's,100m butterfly
+Summer,1976,Gold,GDR,German Democratic Republic,Andrea POLLACK,1976 Montreal,Swimming,Women's,200m butterfly
+Summer,1976,Silver,GDR,German Democratic Republic,Ulrike TAUBER,1976 Montreal,Swimming,Women's,200m butterfly
+Summer,1976,Bronze,GDR,German Democratic Republic,Rosemarie KOTHER-GABRIEL,1976 Montreal,Swimming,Women's,200m butterfly
+Summer,1976,Gold,GDR,German Democratic Republic,Ulrike RICHTER,1976 Montreal,Swimming,Women's,100m backstroke
+Summer,1976,Silver,GDR,German Democratic Republic,Birgit TREIBER,1976 Montreal,Swimming,Women's,100m backstroke
+Summer,1976,Bronze,CAN,Canada,Nancy GARAPICK,1976 Montreal,Swimming,Women's,100m backstroke
+Summer,1976,Gold,GDR,German Democratic Republic,Ulrike RICHTER,1976 Montreal,Swimming,Women's,200m backstroke
+Summer,1976,Silver,GDR,German Democratic Republic,Birgit TREIBER,1976 Montreal,Swimming,Women's,200m backstroke
+Summer,1976,Bronze,CAN,Canada,Nancy GARAPICK,1976 Montreal,Swimming,Women's,200m backstroke
+Summer,1976,Gold,GDR,German Democratic Republic,Ulrike TAUBER,1976 Montreal,Swimming,Women's,400m individual medley
+Summer,1976,Silver,CAN,Canada,Cheryl GIBSON,1976 Montreal,Swimming,Women's,400m individual medley
+Summer,1976,Bronze,CAN,Canada,Becky SMITH,1976 Montreal,Swimming,Women's,400m individual medley
+Summer,1976,Gold,USA,United States,"Kim PEYTON, Jill STERKEL, Wendy BOGLIOLI, Shirley BABASHOFF",1976 Montreal,Swimming,Women's,4x100m freestyle relay
+Summer,1976,Silver,GDR,German Democratic Republic,"Andrea POLLACK, Claudia HEMPEL, Kornelia ENDER, Petra PRIEMER",1976 Montreal,Swimming,Women's,4x100m freestyle relay
+Summer,1976,Bronze,CAN,Canada,"Gail AMUNDRUD, Barbara CLARK, Anne JARDIN, Becky SMITH",1976 Montreal,Swimming,Women's,4x100m freestyle relay
+Summer,1976,Gold,GDR,German Democratic Republic,"Andrea POLLACK, Hannelore ANKE, Kornelia ENDER, Ulrike RICHTER",1976 Montreal,Swimming,Women's,4x100m medley relay
+Summer,1976,Silver,USA,United States,"Shirley BABASHOFF, Linda JEZEK, Camille WRIGHT, Lauri SIERING",1976 Montreal,Swimming,Women's,4x100m medley relay
+Summer,1976,Bronze,CAN,Canada,"Susan Estelle SMITH-SLOAN, Wendy COOK-HOGG, Anne JARDIN, Robin CORSIGLIA",1976 Montreal,Swimming,Women's,4x100m medley relay
+Summer,1976,Gold,POL,Poland,"Wlodzimierz STEFANSKI, Lech LASKO, Miroslaw RYBACZEWSKI, Zbigniew LUBIEJEWSKI, Marek KARBARZ, Edward SKOREK, Tomasz WÓJTOWICZ, Wlodzimierz SADALSKI, Wieslaw GAWLOWSKI, Bronislaw BEBEL, Ryszard BOSEK, Zbigniew ZARZYCKI",1976 Montreal,Volleyball,Men's,volleyball
+Summer,1976,Silver,URS,USSR,"Vladimir CHERNYSHEV, Vladimir KONDRA, Vyacheslav ZAITSEV, Yefim CHULAK, Oleg MOLIBOGA, Vladimir ULANOV, Pavel SELIVANOV, Aleksandr YERMILOV, Aleksandr SAVIN, Anatoly POLISHCHUK, Yuri STARUNSKY, Vladimir DOROKHOV",1976 Montreal,Volleyball,Men's,volleyball
+Summer,1976,Bronze,CUB,Cuba,"Jesús SAVIGNE, Victor GARCÍA, Diego LAPERA, Lorenzo MARTÍNEZ, Victoriano SARMIENTOS, Carlos SALAS, Alfredo FIGUEREDO, Ernesto MARTÍNEZ, Antonio RODRIGUEZ AGUIRRE, Leonel MARSHALL, Raul VILCHES MORE, Jorge PEREZ VENTO MACHADO",1976 Montreal,Volleyball,Men's,volleyball
+Summer,1976,Gold,JPN,Japan,"Takako IIDA, Yuko ARAKIDA, Hiromi YANO, Noriko MATSUDA, Katsuko KANESAKA, Kiyomi KATO, Takako SHIRAI, Juri YOKOYAMA, Shoko TAKAYANAGI, Echiko MAEDA, Mariko YOSHIDA, Mariko OKAMOTO",1976 Montreal,Volleyball,Women's,volleyball
+Summer,1976,Silver,URS,USSR,"Lyudmila CHERNYSHOVA, Liliya OSADCHAYA, Nina SMOLEYEVA, Olga KOZAKOVA, Lyudmila SHCHETININA, Larisa BERGEN, Zoya YUSOVA, Lyubov RUDOVSKAYA, Inna RYSKAL, Nina MURADYAN, Anna ROSTOVA, Natalya KUSHNIR",1976 Montreal,Volleyball,Women's,volleyball
+Summer,1976,Bronze,KOR,Korea Republic,"Mi-Kum PARK, Kyung-Hwa YU, Hae-Chung JO, Kyung-Ja BYON, Soo-nok LEE, Soo-nok JUNG, Jung-hye YU, Kum-Ja MA, Myung-Sun BAIK, Hee-Sook CHANG, Soon-Bok LEE, Young-nae YUN",1976 Montreal,Volleyball,Women's,volleyball
+Summer,1976,Gold,HUN,Hungary,"Attila SUDÁR, György HORKAI, Ferenc KONRAD, László SÁROSI, Gábor CSAPÓ, György GERENDÁS, Tibor CSERVENYÁK, György KENÉZ, Endre MOLNÁR, Tamás FARAGÓ, Istvan SZIVOS",1976 Montreal,Water Polo,Men's,water polo
+Summer,1976,Silver,ITA,Italy,"Alberto ALBERANI SAMARITANI, Gianni DE MAGISTRIS, Vincenzo D'ANGELO, Luigi CASTAGNOLA, Sante MARSILI, Riccardo DE MAGISTRIS, Marcello DEL DUCA, Roldano SIMEONI, Umberto PANERAI, Alessandro GHIBELLINI, Silvio BARACCHINI",1976 Montreal,Water Polo,Men's,water polo
+Summer,1976,Bronze,NED,Netherlands,"Piet DE ZWARTE, Alex BOEGSCHOTEN, Ton BUUNK, Gijze STROBOER, Hans SMITS, Andy HOEPELMAN, Nico LANDEWEERD, Evert KROON, Rik TOONEN, Jan Evert VEER, Hans VAN ZEELAND",1976 Montreal,Water Polo,Men's,water polo
+Summer,1976,Gold,URS,USSR,Aleksandr VORONIN,1976 Montreal,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1976,Silver,HUN,Hungary,György KÖSZEGI,1976 Montreal,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1976,Bronze,IRI,Iran,Mohammad NASSIRI-SERESHT,1976 Montreal,Weightlifting,Men's,- 52kg (flyweight)
+Summer,1976,Gold,BUL,Bulgaria,Norair NURIKYAN,1976 Montreal,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1976,Silver,POL,Poland,Grzegorz CZIURA,1976 Montreal,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1976,Bronze,JPN,Japan,Kenkichi ANDO,1976 Montreal,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1976,Gold,URS,USSR,Nikolai KOLESNIKOV,1976 Montreal,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1976,Silver,BUL,Bulgaria,Georgi TODOROV,1976 Montreal,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1976,Bronze,JPN,Japan,Kazumasa HIRAI,1976 Montreal,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1976,Gold,URS,USSR,Pyotr KOROL,1976 Montreal,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1976,Silver,FRA,France,Daniel SENET,1976 Montreal,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1976,Bronze,POL,Poland,Kazimierz CZARNECKI,1976 Montreal,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1976,Gold,BUL,Bulgaria,Yordan MITKOV,1976 Montreal,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1976,Silver,URS,USSR,Vartan MILITOSYAN,1976 Montreal,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1976,Bronze,GDR,German Democratic Republic,Peter WENZEL,1976 Montreal,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1976,Gold,URS,USSR,Valeri SHARY,1976 Montreal,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1976,Silver,BUL,Bulgaria,Trendafil STOITCHEV,1976 Montreal,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1976,Bronze,HUN,Hungary,Péter BACZAKÓ,1976 Montreal,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1976,Gold,URS,USSR,David RIGERT,1976 Montreal,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1976,Silver,USA,United States,Lee JAMES,1976 Montreal,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1976,Bronze,BUL,Bulgaria,Atanas SHOPOV,1976 Montreal,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1976,Gold,URS,USSR,Yuri ZAITSEV,1976 Montreal,Weightlifting,Men's,90 - 110kg (heavyweight)
+Summer,1976,Silver,BUL,Bulgaria,Krastio SEMERDJIEV,1976 Montreal,Weightlifting,Men's,90 - 110kg (heavyweight)
+Summer,1976,Bronze,POL,Poland,Tadeusz RUTKOWSKI,1976 Montreal,Weightlifting,Men's,90 - 110kg (heavyweight)
+Summer,1976,Gold,URS,USSR,Vasily ALEKSEYEV,1976 Montreal,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1976,Silver,GDR,German Democratic Republic,Gerd BONK,1976 Montreal,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1976,Bronze,GDR,German Democratic Republic,Helmut LOSCH,1976 Montreal,Weightlifting,Men's,+ 110kg (super heavyweight)
+Summer,1976,Gold,BUL,Bulgaria,Khassan Issaiev MURSELOV,1976 Montreal,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1976,Silver,URS,USSR,Roman DMITRIEV,1976 Montreal,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1976,Bronze,JPN,Japan,Akira KUDO,1976 Montreal,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1976,Gold,JPN,Japan,Yuji TAKADA,1976 Montreal,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1976,Silver,URS,USSR,Aleksandr IVANOV,1976 Montreal,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1976,Bronze,KOR,Korea Republic,Hae-Sup JEON,1976 Montreal,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1976,Gold,URS,USSR,Vladimir YUMIN,1976 Montreal,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1976,Silver,GDR,German Democratic Republic,Hans-Dieter BRÜCHERT,1976 Montreal,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1976,Bronze,JPN,Japan,Masao ARAI,1976 Montreal,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1976,Gold,KOR,Korea Republic,Jung-Mo YANG,1976 Montreal,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1976,Silver,MGL,Mongolia,Zevegying OIDOV,1976 Montreal,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1976,Bronze,USA,United States,Eugene Lee DAVIS,1976 Montreal,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1976,Gold,URS,USSR,Pavel PINIGIN,1976 Montreal,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1976,Silver,USA,United States,Lloyd KEASER,1976 Montreal,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1976,Bronze,JPN,Japan,Yasaburo SUGAWARA,1976 Montreal,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1976,Gold,JPN,Japan,Jiichiro DATE,1976 Montreal,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1976,Silver,IRI,Iran,Mansour BARZEGAR,1976 Montreal,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1976,Bronze,USA,United States,"Stanley Joseph, Jr. DZIEDZIC",1976 Montreal,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1976,Gold,USA,United States,John PETERSON,1976 Montreal,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1976,Silver,URS,USSR,Viktor NOVOZHILOV,1976 Montreal,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Adolf SEGER,1976 Montreal,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1976,Gold,URS,USSR,Levan TEDIASHVILI,1976 Montreal,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1976,Silver,USA,United States,Benjamin Lee PETERSON,1976 Montreal,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1976,Bronze,ROU,Romania,Stelica MORCOV,1976 Montreal,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1976,Gold,URS,USSR,Ivan YARYGIN,1976 Montreal,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1976,Silver,USA,United States,Russell Owen HELLICKSON,1976 Montreal,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1976,Bronze,BUL,Bulgaria,Dimov KOSTOV,1976 Montreal,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1976,Gold,URS,USSR,Soslan ANDIYEV,1976 Montreal,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1976,Silver,HUN,Hungary,József BALLA,1976 Montreal,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1976,Bronze,ROU,Romania,Ladislau SIMON,1976 Montreal,Wrestling Freestyle,Men's,+ 100kg (super heavyweight)
+Summer,1976,Gold,URS,USSR,Aleksei SHUMAKOV,1976 Montreal,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1976,Silver,ROU,Romania,Gheorghe BERCEANU,1976 Montreal,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1976,Bronze,BUL,Bulgaria,Stefan ANGELOV,1976 Montreal,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1976,Gold,URS,USSR,Vitali KONSTANTINOV,1976 Montreal,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1976,Silver,ROU,Romania,Nicu GINGA,1976 Montreal,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1976,Bronze,JPN,Japan,Koichiro HIRAYAMA,1976 Montreal,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1976,Gold,FIN,Finland,Pertti UKKOLA,1976 Montreal,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1976,Silver,YUG,Yugoslavia,Ivan FRGIC,1976 Montreal,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1976,Bronze,URS,USSR,Farkhad MUSTAFIN,1976 Montreal,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1976,Gold,POL,Poland,Kazimierz LIPIEN,1976 Montreal,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1976,Silver,URS,USSR,Nelson DAVIDYAN,1976 Montreal,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1976,Bronze,HUN,Hungary,László RÉCZI,1976 Montreal,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1976,Gold,URS,USSR,Suren NALBANDYAN,1976 Montreal,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1976,Silver,ROU,Romania,Stefan RUSU,1976 Montreal,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1976,Bronze,GDR,German Democratic Republic,Heinz-Helmut WEHLING,1976 Montreal,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1976,Gold,URS,USSR,Anatoli BYKOV,1976 Montreal,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1976,Silver,TCH,Czechoslovakia,Vitezslav MACHA,1976 Montreal,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1976,Bronze,FRG,Federal Republic of Germany,Karl-Heinz HELBING,1976 Montreal,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1976,Gold,YUG,Yugoslavia,Momir PETKOVIC,1976 Montreal,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1976,Silver,URS,USSR,Vladimir CHEBOKSAROV,1976 Montreal,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1976,Bronze,BUL,Bulgaria,Ivan KOLEV,1976 Montreal,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1976,Gold,URS,USSR,Valeri REZANTSEV,1976 Montreal,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1976,Silver,BUL,Bulgaria,Stoyan NIKOLOV,1976 Montreal,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1976,Bronze,POL,Poland,Czeslaw KWIECINSKI,1976 Montreal,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1976,Gold,URS,USSR,Nikolai BALBOSHIN,1976 Montreal,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1976,Silver,BUL,Bulgaria,Kamen GORANOV,1976 Montreal,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1976,Bronze,POL,Poland,Andrzej SKRZYDLEWSKI,1976 Montreal,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1976,Gold,URS,USSR,Aleksandr KOLCHINSKY,1976 Montreal,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1976,Silver,BUL,Bulgaria,Aleksandr TOMOV,1976 Montreal,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)
+Summer,1976,Bronze,ROU,Romania,Roman CODREANU,1976 Montreal,Wrestling Greco-Roman,Men's,+ 100kg (super heavyweight)

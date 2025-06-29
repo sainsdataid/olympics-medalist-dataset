@@ -1,0 +1,68 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1952,Gold,ITA,Italy,Zeno COLO,1952 Oslo,Alpine Skiing,Men's,downhill
+Winter,1952,Silver,AUT,Austria,Othmar SCHNEIDER,1952 Oslo,Alpine Skiing,Men's,downhill
+Winter,1952,Bronze,AUT,Austria,Christian PRAVDA,1952 Oslo,Alpine Skiing,Men's,downhill
+Winter,1952,Gold,AUT,Austria,Othmar SCHNEIDER,1952 Oslo,Alpine Skiing,Men's,slalom
+Winter,1952,Silver,NOR,Norway,Stein ERIKSEN,1952 Oslo,Alpine Skiing,Men's,slalom
+Winter,1952,Bronze,NOR,Norway,Guttorm BERGE,1952 Oslo,Alpine Skiing,Men's,slalom
+Winter,1952,Gold,NOR,Norway,Stein ERIKSEN,1952 Oslo,Alpine Skiing,Men's,giant slalom
+Winter,1952,Silver,AUT,Austria,Christian PRAVDA,1952 Oslo,Alpine Skiing,Men's,giant slalom
+Winter,1952,Bronze,AUT,Austria,Toni SPIß,1952 Oslo,Alpine Skiing,Men's,giant slalom
+Winter,1952,Gold,AUT,Austria,Trude JOCHUM-BEISER,1952 Oslo,Alpine Skiing,Women's,downhill
+Winter,1952,Silver,GER,Germany,Mirl BUCHNER,1952 Oslo,Alpine Skiing,Women's,downhill
+Winter,1952,Bronze,ITA,Italy,Giuliana CHENAL-MINUZZO,1952 Oslo,Alpine Skiing,Women's,downhill
+Winter,1952,Gold,USA,United States,Andrea MEAD-LAWRENCE,1952 Oslo,Alpine Skiing,Women's,slalom
+Winter,1952,Silver,GER,Germany,Ossi REICHERT,1952 Oslo,Alpine Skiing,Women's,slalom
+Winter,1952,Bronze,GER,Germany,Mirl BUCHNER,1952 Oslo,Alpine Skiing,Women's,slalom
+Winter,1952,Gold,USA,United States,Andrea MEAD-LAWRENCE,1952 Oslo,Alpine Skiing,Women's,giant slalom
+Winter,1952,Silver,AUT,Austria,Dagmar ROM,1952 Oslo,Alpine Skiing,Women's,giant slalom
+Winter,1952,Bronze,GER,Germany,Mirl BUCHNER,1952 Oslo,Alpine Skiing,Women's,giant slalom
+Winter,1952,Gold,GER,Germany,"Lorenz NIEBERL, Andreas OSTLER",1952 Oslo,Bobsleigh,Men's,two-man
+Winter,1952,Silver,USA,United States,"Stanley Delong BENHAM, Patrick Henry MARTIN",1952 Oslo,Bobsleigh,Men's,two-man
+Winter,1952,Bronze,SUI,Switzerland,"Fritz FEIERABEND, Stephan WASER",1952 Oslo,Bobsleigh,Men's,two-man
+Winter,1952,Gold,GER,Germany,"Friedrich KUHN, Lorenz NIEBERL, Andreas OSTLER, Franz KEMSER",1952 Oslo,Bobsleigh,Men's,four-man
+Winter,1952,Silver,USA,United States,"Stanley Delong BENHAM, James Neil ATKINSON, Patrick Henry MARTIN, Howard Wallace CROSSETT",1952 Oslo,Bobsleigh,Men's,four-man
+Winter,1952,Bronze,SUI,Switzerland,"Stephan WASER, Albert MADÖRIN, Fritz FEIERABEND, André FILIPPINI",1952 Oslo,Bobsleigh,Men's,four-man
+Winter,1952,Gold,NOR,Norway,Hallgeir BRENDEN,1952 Oslo,Cross Country Skiing,Men's,18km
+Winter,1952,Silver,FIN,Finland,Tapio MÄKELÄ,1952 Oslo,Cross Country Skiing,Men's,18km
+Winter,1952,Bronze,FIN,Finland,Paavo LONKILA,1952 Oslo,Cross Country Skiing,Men's,18km
+Winter,1952,Gold,FIN,Finland,Veikko HAKULINEN,1952 Oslo,Cross Country Skiing,Men's,50km
+Winter,1952,Silver,FIN,Finland,Eero KOLEHMAINEN,1952 Oslo,Cross Country Skiing,Men's,50km
+Winter,1952,Bronze,NOR,Norway,Magnar ESTENSTAD,1952 Oslo,Cross Country Skiing,Men's,50km
+Winter,1952,Gold,FIN,Finland,"Heikki HASU, Paavo LONKILA, Tapio MÄKELÄ, Urpo KORHONEN",1952 Oslo,Cross Country Skiing,Men's,4x10km relay
+Winter,1952,Silver,NOR,Norway,"Hallgeir BRENDEN, Mikal KIRKHOLT, Martin STOKKEN, Magnar ESTENSTAD",1952 Oslo,Cross Country Skiing,Men's,4x10km relay
+Winter,1952,Bronze,SWE,Sweden,"Enar JOSEFSSON, Martin LUNDSTRÖM, Nils TÄPP, Sigurd ANDERSSON",1952 Oslo,Cross Country Skiing,Men's,4x10km relay
+Winter,1952,Gold,FIN,Finland,Lydia WIDEMAN,1952 Oslo,Cross Country Skiing,Women's,10km
+Winter,1952,Silver,FIN,Finland,Mirja Kyllikki HIETAMIS,1952 Oslo,Cross Country Skiing,Women's,10km
+Winter,1952,Bronze,FIN,Finland,Siiri RANTANEN,1952 Oslo,Cross Country Skiing,Women's,10km
+Winter,1952,Gold,USA,United States,Richard BUTTON,1952 Oslo,Figure skating,Men's,individual
+Winter,1952,Silver,AUT,Austria,Helmut SEIBT,1952 Oslo,Figure skating,Men's,individual
+Winter,1952,Bronze,USA,United States,James GROGAN,1952 Oslo,Figure skating,Men's,individual
+Winter,1952,Gold,GBR,Great Britain,Jeannette ALTWEGG,1952 Oslo,Figure skating,Women's,individual
+Winter,1952,Silver,USA,United States,Tenley ALBRIGHT,1952 Oslo,Figure skating,Women's,individual
+Winter,1952,Bronze,FRA,France,Jacqueline DU BIEF,1952 Oslo,Figure skating,Women's,individual
+Winter,1952,Gold,GER,Germany,"Paul FALK, Ria FALK",1952 Oslo,Figure skating,Mixed,pairs
+Winter,1952,Silver,USA,United States,"Karol KENNEDY, Michael KENNEDY",1952 Oslo,Figure skating,Mixed,pairs
+Winter,1952,Bronze,HUN,Hungary,"Marianna NAGY, László NAGY",1952 Oslo,Figure skating,Mixed,pairs
+Winter,1952,Gold,CAN,Canada,"Billy GIBSON, Bruce DICKSON, Thomas Allen POLLOCK, John Francis DAVIES, Ralph HANSCH, Gordon ROBERTSON, Louis SECCO, Francis Cornelius SULLIVAN, Billy DAWE, Al PURVIS, Robert Roderick MEYERS, Eric PATERSON, Donald Valentine GAUF, Robert WATT, David MILLER, George ABEL",1952 Oslo,Ice Hockey,Men's,ice hockey
+Winter,1952,Silver,USA,United States,"Andre GAMBUCCI, John NOAH, Allen VAN, Arnold OSS, Leonard Stanley CEGLARSKI, Kenneth James YACKEL, Clifford HARRISON, Ruben BJORKMAN, John MULHERN, Gerald Walsh KILMARTIN, Donald Francis WHISTON, James Walter SEDIN, Joseph John CZARNOTA, Robert Edward ROMPRE, Richard Joseph DESMOND",1952 Oslo,Ice Hockey,Men's,ice hockey
+Winter,1952,Bronze,SWE,Sweden,"Lasse BJÖRN, Göte ALMQVIST, Erik JOHANSSON, Stig Gunnar ANDERSSON-TVILLING, Åke ANDERSSON, Hans Lennart ANDERSSON-TVILLING, Holger NURMELA, Lars PETTERSSON, Hans ÖBERG, Göte BLOMQVIST, Sven THUNMAN, Rune JOHANSSON, Lars SVENSSON, Gösta JOHANSSON, Sven JOHANSSON, Thord FLODQVIST, Åke LASSAS",1952 Oslo,Ice Hockey,Men's,ice hockey
+Winter,1952,Gold,NOR,Norway,Simon SLÅTTVIK,1952 Oslo,Nordic Combined,Men's,individual
+Winter,1952,Silver,FIN,Finland,Heikki HASU,1952 Oslo,Nordic Combined,Men's,individual
+Winter,1952,Bronze,NOR,Norway,Sverre STENERSEN,1952 Oslo,Nordic Combined,Men's,individual
+Winter,1952,Gold,NOR,Norway,Arnfinn BERGMANN,1952 Oslo,Ski Jumping,Men's,Normal Hill individual
+Winter,1952,Silver,NOR,Norway,Torbjorn FALKANGER,1952 Oslo,Ski Jumping,Men's,Normal Hill individual
+Winter,1952,Bronze,SWE,Sweden,Karl HOLMSTRÖM,1952 Oslo,Ski Jumping,Men's,Normal Hill individual
+Winter,1952,Gold,USA,United States,Kenneth HENRY,1952 Oslo,Speed skating,Men's,500m
+Winter,1952,Silver,USA,United States,Donald MCDERMOTT,1952 Oslo,Speed skating,Men's,500m
+Winter,1952,Bronze,CAN,Canada,Gordon AUDLEY,1952 Oslo,Speed skating,Men's,500m
+Winter,1952,Bronze,NOR,Norway,Arne JOHANSEN,1952 Oslo,Speed skating,Men's,500m
+Winter,1952,Gold,NOR,Norway,Hjalmar ANDERSEN,1952 Oslo,Speed skating,Men's,1500m
+Winter,1952,Silver,NED,Netherlands,Wim VAN DER VOORT,1952 Oslo,Speed skating,Men's,1500m
+Winter,1952,Bronze,NOR,Norway,Roald AAS,1952 Oslo,Speed skating,Men's,1500m
+Winter,1952,Gold,NOR,Norway,Hjalmar ANDERSEN,1952 Oslo,Speed skating,Men's,5000m
+Winter,1952,Silver,NED,Netherlands,Kees BROEKMAN,1952 Oslo,Speed skating,Men's,5000m
+Winter,1952,Bronze,NOR,Norway,Sverre HAUGLI,1952 Oslo,Speed skating,Men's,5000m
+Winter,1952,Gold,NOR,Norway,Hjalmar ANDERSEN,1952 Oslo,Speed skating,Men's,10000m
+Winter,1952,Silver,NED,Netherlands,Kees BROEKMAN,1952 Oslo,Speed skating,Men's,10000m
+Winter,1952,Bronze,SWE,Sweden,Carl-Erik ASPLUND,1952 Oslo,Speed skating,Men's,10000m

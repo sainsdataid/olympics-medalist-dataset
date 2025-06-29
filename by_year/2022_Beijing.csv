@@ -1,0 +1,329 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,2022,Gold,AUT,Austria,STROLZ Johannes,2022 Beijing,Alpine Skiing,Men's,Alpine combined
+Winter,2022,Silver,NOR,Norway,KILDE Aleksander Aamodt,2022 Beijing,Alpine Skiing,Men's,Alpine combined
+Winter,2022,Bronze,CAN,Canada,CRAWFORD James,2022 Beijing,Alpine Skiing,Men's,Alpine combined
+Winter,2022,Gold,FRA,France,NOEL Clement,2022 Beijing,Alpine Skiing,Men's,slalom
+Winter,2022,Silver,AUT,Austria,STROLZ Johannes,2022 Beijing,Alpine Skiing,Men's,slalom
+Winter,2022,Bronze,NOR,Norway,FOSS-SOLEVAAG Sebastian,2022 Beijing,Alpine Skiing,Men's,slalom
+Winter,2022,Gold,SUI,Switzerland,ODERMATT Marco,2022 Beijing,Alpine Skiing,Men's,giant slalom
+Winter,2022,Silver,SLO,Slovenia,KRANJEC Zan,2022 Beijing,Alpine Skiing,Men's,giant slalom
+Winter,2022,Bronze,FRA,France,FAIVRE Mathieu,2022 Beijing,Alpine Skiing,Men's,giant slalom
+Winter,2022,Gold,AUT,Austria,MAYER Matthias,2022 Beijing,Alpine Skiing,Men's,super-G
+Winter,2022,Silver,USA,United States,COCHRAN-SIEGLE Ryan,2022 Beijing,Alpine Skiing,Men's,super-G
+Winter,2022,Bronze,NOR,Norway,KILDE Aleksander Aamodt,2022 Beijing,Alpine Skiing,Men's,super-G
+Winter,2022,Gold,SUI,Switzerland,FEUZ Beat,2022 Beijing,Alpine Skiing,Men's,downhill
+Winter,2022,Silver,FRA,France,CLAREY Johan,2022 Beijing,Alpine Skiing,Men's,downhill
+Winter,2022,Bronze,AUT,Austria,MAYER Matthias,2022 Beijing,Alpine Skiing,Men's,downhill
+Winter,2022,Gold,SUI,Switzerland,GISIN Michelle,2022 Beijing,Alpine Skiing,Women's,Alpine combined
+Winter,2022,Silver,SUI,Switzerland,HOLDENER Wendy,2022 Beijing,Alpine Skiing,Women's,Alpine combined
+Winter,2022,Bronze,ITA,Italy,BRIGNONE Federica,2022 Beijing,Alpine Skiing,Women's,Alpine combined
+Winter,2022,Gold,SVK,Slovakia,VLHOVA Petra,2022 Beijing,Alpine Skiing,Women's,slalom
+Winter,2022,Silver,AUT,Austria,LIENSBERGER Katharina,2022 Beijing,Alpine Skiing,Women's,slalom
+Winter,2022,Bronze,SUI,Switzerland,HOLDENER Wendy,2022 Beijing,Alpine Skiing,Women's,slalom
+Winter,2022,Gold,SWE,Sweden,HECTOR Sara,2022 Beijing,Alpine Skiing,Women's,giant slalom
+Winter,2022,Silver,ITA,Italy,BRIGNONE Federica,2022 Beijing,Alpine Skiing,Women's,giant slalom
+Winter,2022,Bronze,SUI,Switzerland,GUT-BEHRAMI Lara,2022 Beijing,Alpine Skiing,Women's,giant slalom
+Winter,2022,Gold,SUI,Switzerland,GUT-BEHRAMI Lara,2022 Beijing,Alpine Skiing,Women's,super-G
+Winter,2022,Silver,AUT,Austria,PUCHNER Mirjam,2022 Beijing,Alpine Skiing,Women's,super-G
+Winter,2022,Bronze,SUI,Switzerland,GISIN Michelle,2022 Beijing,Alpine Skiing,Women's,super-G
+Winter,2022,Gold,SUI,Switzerland,SUTER Corinne,2022 Beijing,Alpine Skiing,Women's,downhill
+Winter,2022,Silver,ITA,Italy,GOGGIA Sofia,2022 Beijing,Alpine Skiing,Women's,downhill
+Winter,2022,Bronze,ITA,Italy,DELAGO Nadia,2022 Beijing,Alpine Skiing,Women's,downhill
+Winter,2022,Gold,AUT,Austria,"LIENSBERGER Katharina, BRENNSTEINER Stefan, STROLZ Johannes, HUBER Katharina, TRUPPE Katharina, MATT Michael",2022 Beijing,Alpine Skiing,Mixed,team
+Winter,2022,Silver,GER,Germany,"DUERR Lena, SCHMID Alexander, AICHER Emma, RAUCHFUSS Julian, STRASSER Linus",2022 Beijing,Alpine Skiing,Mixed,team
+Winter,2022,Bronze,NOR,Norway,"STJERNESUND Thea Louise, HOLTMANN Mina Fuerst, TVIBERG Maria Therese, WINDINGSTAD Rasmus, SOLHEIM Fabian Wilkens, HAUGAN Timon",2022 Beijing,Alpine Skiing,Mixed,team
+Winter,2022,Gold,NOR,Norway,BOE Johannes Thingnes,2022 Beijing,Biathlon,Men's,10km sprint
+Winter,2022,Silver,FRA,France,FILLON MAILLET Quentin,2022 Beijing,Biathlon,Men's,10km sprint
+Winter,2022,Bronze,NOR,Norway,BOE Tarjei,2022 Beijing,Biathlon,Men's,10km sprint
+Winter,2022,Gold,FRA,France,FILLON MAILLET Quentin,2022 Beijing,Biathlon,Men's,12.5km pursuit
+Winter,2022,Silver,NOR,Norway,BOE Tarjei,2022 Beijing,Biathlon,Men's,12.5km pursuit
+Winter,2022,Bronze,OAR,ROC,LATYPOV Eduard,2022 Beijing,Biathlon,Men's,12.5km pursuit
+Winter,2022,Gold,FRA,France,FILLON MAILLET Quentin,2022 Beijing,Biathlon,Men's,20km individual
+Winter,2022,Silver,BLR,Belarus,SMOLSKI Anton,2022 Beijing,Biathlon,Men's,20km individual
+Winter,2022,Bronze,NOR,Norway,BOE Johannes Thingnes,2022 Beijing,Biathlon,Men's,20km individual
+Winter,2022,Gold,NOR,Norway,BOE Johannes Thingnes,2022 Beijing,Biathlon,Men's,15km mass start
+Winter,2022,Silver,SWE,Sweden,PONSILUOMA Martin,2022 Beijing,Biathlon,Men's,15km mass start
+Winter,2022,Bronze,NOR,Norway,CHRISTIANSEN Vetle Sjaastad,2022 Beijing,Biathlon,Men's,15km mass start
+Winter,2022,Gold,NOR,Norway,"BOE Tarjei, CHRISTIANSEN Vetle Sjaastad, LAEGREID Sturla Holm, BOE Johannes Thingnes",2022 Beijing,Biathlon,Men's,4x7.5km relay
+Winter,2022,Silver,FRA,France,"JACQUELIN Emilien, FILLON MAILLET Quentin, CLAUDE Fabien, DESTHIEUX Simon",2022 Beijing,Biathlon,Men's,4x7.5km relay
+Winter,2022,Bronze,OAR,ROC,"LOGINOV Alexander, LATYPOV Eduard, KHALILI Said Karimulla, TSVETKOV Maxim",2022 Beijing,Biathlon,Men's,4x7.5km relay
+Winter,2022,Gold,NOR,Norway,ROEISELAND Marte Olsbu,2022 Beijing,Biathlon,Women's,7.5km sprint
+Winter,2022,Silver,SWE,Sweden,OEBERG Elvira,2022 Beijing,Biathlon,Women's,7.5km sprint
+Winter,2022,Bronze,ITA,Italy,WIERER Dorothea,2022 Beijing,Biathlon,Women's,7.5km sprint
+Winter,2022,Gold,NOR,Norway,ROEISELAND Marte Olsbu,2022 Beijing,Biathlon,Women's,10km pursuit
+Winter,2022,Silver,SWE,Sweden,OEBERG Elvira,2022 Beijing,Biathlon,Women's,10km pursuit
+Winter,2022,Bronze,NOR,Norway,ECKHOFF Tiril,2022 Beijing,Biathlon,Women's,10km pursuit
+Winter,2022,Gold,GER,Germany,HERRMANN Denise,2022 Beijing,Biathlon,Women's,15km individual
+Winter,2022,Silver,FRA,France,CHEVALIER-BOUCHET Anais,2022 Beijing,Biathlon,Women's,15km individual
+Winter,2022,Bronze,NOR,Norway,ROEISELAND Marte Olsbu,2022 Beijing,Biathlon,Women's,15km individual
+Winter,2022,Gold,FRA,France,BRAISAZ-BOUCHET Justine,2022 Beijing,Biathlon,Women's,12.5km mass start
+Winter,2022,Silver,NOR,Norway,ECKHOFF Tiril,2022 Beijing,Biathlon,Women's,12.5km mass start
+Winter,2022,Bronze,NOR,Norway,ROEISELAND Marte Olsbu,2022 Beijing,Biathlon,Women's,12.5km mass start
+Winter,2022,Gold,SWE,Sweden,"BRORSSON Mona, OEBERG Elvira, PERSSON Linn, OEBERG Hanna",2022 Beijing,Biathlon,Women's,4x6km relay
+Winter,2022,Silver,OAR,ROC,"REZTSOVA Kristina, NIGMATULLINA Uliana, KAZAKEVICH Irina, MIRONOVA Svetlana",2022 Beijing,Biathlon,Women's,4x6km relay
+Winter,2022,Bronze,GER,Germany,"HINZ Vanessa, HERRMANN Denise, VOIGT Vanessa, PREUSS Franziska",2022 Beijing,Biathlon,Women's,4x6km relay
+Winter,2022,Gold,NOR,Norway,"ECKHOFF Tiril, BOE Johannes Thingnes, ROEISELAND Marte Olsbu, BOE Tarjei",2022 Beijing,Biathlon,Mixed,Relay mix
+Winter,2022,Silver,FRA,France,"SIMON Julia, FILLON MAILLET Quentin, JACQUELIN Emilien, CHEVALIER-BOUCHET Anais",2022 Beijing,Biathlon,Mixed,Relay mix
+Winter,2022,Bronze,OAR,ROC,"REZTSOVA Kristina, LATYPOV Eduard, NIGMATULLINA Uliana, LOGINOV Alexander",2022 Beijing,Biathlon,Mixed,Relay mix
+Winter,2022,Gold,GER,Germany,"FRIEDRICH Francesco, MARGIS Thorsten",2022 Beijing,Bobsleigh,Men's,two-man
+Winter,2022,Silver,GER,Germany,"BAUER Florian, LOCHNER Johannes",2022 Beijing,Bobsleigh,Men's,two-man
+Winter,2022,Bronze,GER,Germany,"HAFER Christoph, SOMMER Matthias",2022 Beijing,Bobsleigh,Men's,two-man
+Winter,2022,Gold,GER,Germany,"BAUER Candy, MARGIS Thorsten, FRIEDRICH Francesco, SCHUELLER Alexander",2022 Beijing,Bobsleigh,Men's,four-man
+Winter,2022,Silver,GER,Germany,"BAUER Florian, RASP Christian, LOCHNER Johannes, WEBER Christopher",2022 Beijing,Bobsleigh,Men's,four-man
+Winter,2022,Bronze,CAN,Canada,"COAKWELL Benjamin, SOMMER Ryan, KRIPPS Justin, STONES Cam",2022 Beijing,Bobsleigh,Men's,four-man
+Winter,2022,Gold,USA,United States,HUMPHRIES Kaillie,2022 Beijing,Bobsleigh,Women's,monobob
+Winter,2022,Silver,USA,United States,MEYERS TAYLOR Elana,2022 Beijing,Bobsleigh,Women's,monobob
+Winter,2022,Bronze,CAN,Canada,de BRUIN Christine,2022 Beijing,Bobsleigh,Women's,monobob
+Winter,2022,Gold,GER,Germany,"NOLTE Laura, LEVI Deborah",2022 Beijing,Bobsleigh,Women's,two-woman
+Winter,2022,Silver,GER,Germany,"JAMANKA Mariama, BURGHARDT Alexandra",2022 Beijing,Bobsleigh,Women's,two-woman
+Winter,2022,Bronze,USA,United States,"MEYERS TAYLOR Elana, HOFFMAN Sylvia",2022 Beijing,Bobsleigh,Women's,two-woman
+Winter,2022,Gold,NOR,Norway,KLAEBO Johannes Hoesflot,2022 Beijing,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2022,Silver,ITA,Italy,PELLEGRINO Federico,2022 Beijing,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2022,Bronze,OAR,ROC,TERENTEV Alexander,2022 Beijing,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2022,Gold,OAR,ROC,BOLSHUNOV Alexander,2022 Beijing,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2022,Silver,OAR,ROC,SPITSOV Denis,2022 Beijing,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2022,Bronze,FIN,Finland,NISKANEN Iivo,2022 Beijing,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2022,Gold,FIN,Finland,NISKANEN Iivo,2022 Beijing,Cross Country Skiing,Men's,15km
+Winter,2022,Silver,OAR,ROC,BOLSHUNOV Alexander,2022 Beijing,Cross Country Skiing,Men's,15km
+Winter,2022,Bronze,NOR,Norway,KLAEBO Johannes Hoesflot,2022 Beijing,Cross Country Skiing,Men's,15km
+Winter,2022,Gold,OAR,ROC,BOLSHUNOV Alexander,2022 Beijing,Cross Country Skiing,Men's,50km mass start
+Winter,2022,Silver,OAR,ROC,YAKIMUSHKIN Ivan,2022 Beijing,Cross Country Skiing,Men's,50km mass start
+Winter,2022,Bronze,NOR,Norway,KRUEGER Simen Hegstad,2022 Beijing,Cross Country Skiing,Men's,50km mass start
+Winter,2022,Gold,NOR,Norway,"KLAEBO Johannes Hoesflot, VALNES Erik",2022 Beijing,Cross Country Skiing,Men's,Team Sprint
+Winter,2022,Silver,FIN,Finland,"MAKI Joni, NISKANEN Iivo",2022 Beijing,Cross Country Skiing,Men's,Team Sprint
+Winter,2022,Bronze,OAR,ROC,"TERENTEV Alexander, BOLSHUNOV Alexander",2022 Beijing,Cross Country Skiing,Men's,Team Sprint
+Winter,2022,Gold,OAR,ROC,"CHERVOTKIN Alexey, SPITSOV Denis, BOLSHUNOV Alexander, USTIUGOV Sergey",2022 Beijing,Cross Country Skiing,Men's,4x10km relay
+Winter,2022,Silver,NOR,Norway,"IVERSEN Emil, HOLUND Hans Christer, GOLBERG Paal, KLAEBO Johannes Hoesflot",2022 Beijing,Cross Country Skiing,Men's,4x10km relay
+Winter,2022,Bronze,FRA,France,"JOUVE Richard, PARISSE Clement, LAPALUS Hugo, MANIFICAT Maurice",2022 Beijing,Cross Country Skiing,Men's,4x10km relay
+Winter,2022,Gold,SWE,Sweden,SUNDLING Jonna,2022 Beijing,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2022,Silver,SWE,Sweden,DAHLQVIST Maja,2022 Beijing,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2022,Bronze,USA,United States,DIGGINS Jessie,2022 Beijing,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2022,Gold,NOR,Norway,JOHAUG Therese,2022 Beijing,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2022,Silver,OAR,ROC,NEPRYAEVA Natalia,2022 Beijing,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2022,Bronze,AUT,Austria,STADLOBER Teresa,2022 Beijing,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2022,Gold,NOR,Norway,JOHAUG Therese,2022 Beijing,Cross Country Skiing,Women's,10km
+Winter,2022,Silver,FIN,Finland,NISKANEN Kerttu,2022 Beijing,Cross Country Skiing,Women's,10km
+Winter,2022,Bronze,FIN,Finland,PARMAKOSKI Krista,2022 Beijing,Cross Country Skiing,Women's,10km
+Winter,2022,Gold,NOR,Norway,JOHAUG Therese,2022 Beijing,Cross Country Skiing,Women's,30km mass start
+Winter,2022,Silver,USA,United States,DIGGINS Jessie,2022 Beijing,Cross Country Skiing,Women's,30km mass start
+Winter,2022,Bronze,FIN,Finland,NISKANEN Kerttu,2022 Beijing,Cross Country Skiing,Women's,30km mass start
+Winter,2022,Gold,GER,Germany,"HENNIG Katharina, CARL Victoria",2022 Beijing,Cross Country Skiing,Women's,Team Sprint
+Winter,2022,Silver,SWE,Sweden,"DAHLQVIST Maja, SUNDLING Jonna",2022 Beijing,Cross Country Skiing,Women's,Team Sprint
+Winter,2022,Bronze,OAR,ROC,"STUPAK Yulia, NEPRYAEVA Natalia",2022 Beijing,Cross Country Skiing,Women's,Team Sprint
+Winter,2022,Gold,OAR,ROC,"NEPRYAEVA Natalia, STEPANOVA Veronika, STUPAK Yulia, SORINA Tatiana",2022 Beijing,Cross Country Skiing,Women's,4x5km relay
+Winter,2022,Silver,GER,Germany,"HENNIG Katharina, KREHL Sofie, SAUERBREY Katherine, CARL Victoria",2022 Beijing,Cross Country Skiing,Women's,4x5km relay
+Winter,2022,Bronze,SWE,Sweden,"ANDERSSON Ebba, SUNDLING Jonna, DAHLQVIST Maja, KARLSSON Frida",2022 Beijing,Cross Country Skiing,Women's,4x5km relay
+Winter,2022,Gold,SWE,Sweden,"EDIN Niklas, MAGNUSSON Daniel, WRANAA Rasmus, ERIKSSON Oskar, SUNDGREN Christoffer",2022 Beijing,Curling,Men's,curling
+Winter,2022,Silver,GBR,Great Britain,"LAMMIE Bobby, MOUAT Bruce, HARDIE Grant, McMILLAN Hammy, WHYTE Ross",2022 Beijing,Curling,Men's,curling
+Winter,2022,Bronze,CAN,Canada,"GALLANT Brett, KENNEDY Marc, WALKER Geoff, GUSHUE Brad, NICHOLS Mark",2022 Beijing,Curling,Men's,curling
+Winter,2022,Gold,GBR,Great Britain,"DUFF Hailey, SMITH Mili, DODDS Jennifer, MUIRHEAD Eve, WRIGHT Vicky",2022 Beijing,Curling,Women's,curling
+Winter,2022,Silver,JPN,Japan,"FUJISAWA Satsuki, SUZUKI Yumi, YOSHIDA Yurika, ISHIZAKI Kotomi, YOSHIDA Chinami",2022 Beijing,Curling,Women's,curling
+Winter,2022,Bronze,SWE,Sweden,"HELDIN Johanna, MABERGS Sofia, HASSELBORG Anna, KNOCHENHAUER Agnes, McMANUS Sara",2022 Beijing,Curling,Women's,curling
+Winter,2022,Gold,ITA,Italy,"MOSANER Amos, CONSTANTINI Stefania",2022 Beijing,Curling,Mixed,Doubles
+Winter,2022,Silver,NOR,Norway,"NEDREGOTTEN Magnus, SKASLIEN Kristin",2022 Beijing,Curling,Mixed,Doubles
+Winter,2022,Bronze,SWE,Sweden,"ERIKSSON Oskar, DE VAL Almida",2022 Beijing,Curling,Mixed,Doubles
+Winter,2022,Gold,USA,United States,CHEN Nathan,2022 Beijing,Figure skating,Men's,individual
+Winter,2022,Silver,JPN,Japan,KAGIYAMA Yuma,2022 Beijing,Figure skating,Men's,individual
+Winter,2022,Bronze,JPN,Japan,UNO Shoma,2022 Beijing,Figure skating,Men's,individual
+Winter,2022,Gold,OAR,ROC,SHCHERBAKOVA Anna,2022 Beijing,Figure skating,Women's,individual
+Winter,2022,Silver,OAR,ROC,TRUSOVA Alexandra,2022 Beijing,Figure skating,Women's,individual
+Winter,2022,Bronze,JPN,Japan,SAKAMOTO Kaori,2022 Beijing,Figure skating,Women's,individual
+Winter,2022,Gold,CHN,China,"HAN Cong, SUI Wenjing",2022 Beijing,Figure skating,Mixed,pairs
+Winter,2022,Silver,OAR,ROC,"MOROZOV Vladimir, TARASOVA Evgenia",2022 Beijing,Figure skating,Mixed,pairs
+Winter,2022,Bronze,OAR,ROC,"GALLIAMOV Aleksandr, MISHINA Anastasia",2022 Beijing,Figure skating,Mixed,pairs
+Winter,2022,Gold,FRA,France,"CIZERON Guillaume, PAPADAKIS Gabriella",2022 Beijing,Figure skating,Mixed,ice dancing
+Winter,2022,Silver,OAR,ROC,"KATSALAPOV Nikita, SINITSINA Victoria",2022 Beijing,Figure skating,Mixed,ice dancing
+Winter,2022,Bronze,USA,United States,"DONOHUE Zachary, HUBBELL Madison",2022 Beijing,Figure skating,Mixed,ice dancing
+Winter,2022,Gold,USA,United States,"CHEN Karen, CHOCK Madison, FRAZIER Brandon, KNIERIM Alexa, BATES Evan, CHEN Nathan, DONOHUE Zachary, HUBBELL Madison, ZHOU Vincent",2022 Beijing,Figure skating,Mixed,team
+Winter,2022,Silver,JPN,Japan,"KOMATSUBARA Misato, SAKAMOTO Kaori, HIGUCHI Wakaba, KIHARA Ryuichi, MIURA Riku, UNO Shoma, KAGIYAMA Yuma, KOLETO Tim",2022 Beijing,Figure skating,Mixed,team
+Winter,2022,Bronze,OAR,ROC,"GALLIAMOV Aleksandr, KONDRATIUK Mark, SINITSINA Victoria, KATSALAPOV Nikita, MISHINA Anastasia",2022 Beijing,Figure skating,Mixed,team
+Winter,2022,Gold,CHN,China,QI Guangpu,2022 Beijing,Freestyle Skiing,Men's,aerials
+Winter,2022,Silver,UKR,Ukraine,ABRAMENKO Oleksandr,2022 Beijing,Freestyle Skiing,Men's,aerials
+Winter,2022,Bronze,OAR,ROC,BUROV Ilia,2022 Beijing,Freestyle Skiing,Men's,aerials
+Winter,2022,Gold,NOR,Norway,RUUD Birk,2022 Beijing,Freestyle Skiing,Men's,Big air
+Winter,2022,Silver,USA,United States,STEVENSON Colby,2022 Beijing,Freestyle Skiing,Men's,Big air
+Winter,2022,Bronze,SWE,Sweden,HARLAUT Henrik,2022 Beijing,Freestyle Skiing,Men's,Big air
+Winter,2022,Gold,SWE,Sweden,WALLBERG Walter,2022 Beijing,Freestyle Skiing,Men's,moguls
+Winter,2022,Silver,CAN,Canada,KINGSBURY Mikael,2022 Beijing,Freestyle Skiing,Men's,moguls
+Winter,2022,Bronze,JPN,Japan,HORISHIMA Ikuma,2022 Beijing,Freestyle Skiing,Men's,moguls
+Winter,2022,Gold,SUI,Switzerland,REGEZ Ryan,2022 Beijing,Freestyle Skiing,Men's,Ski Cross
+Winter,2022,Silver,SUI,Switzerland,FIVA Alex,2022 Beijing,Freestyle Skiing,Men's,Ski Cross
+Winter,2022,Bronze,OAR,ROC,RIDZIK Sergey,2022 Beijing,Freestyle Skiing,Men's,Ski Cross
+Winter,2022,Gold,NZL,New Zealand,PORTEOUS Nico,2022 Beijing,Freestyle Skiing,Men's,Halfpipe
+Winter,2022,Silver,USA,United States,WISE David,2022 Beijing,Freestyle Skiing,Men's,Halfpipe
+Winter,2022,Bronze,USA,United States,FERREIRA Alex,2022 Beijing,Freestyle Skiing,Men's,Halfpipe
+Winter,2022,Gold,USA,United States,HALL Alexander,2022 Beijing,Freestyle Skiing,Men's,Slopestyle
+Winter,2022,Silver,USA,United States,GOEPPER Nicholas,2022 Beijing,Freestyle Skiing,Men's,Slopestyle
+Winter,2022,Bronze,SWE,Sweden,TJADER Jesper,2022 Beijing,Freestyle Skiing,Men's,Slopestyle
+Winter,2022,Gold,CHN,China,XU Mengtao,2022 Beijing,Freestyle Skiing,Women's,aerials
+Winter,2022,Silver,BLR,Belarus,HUSKOVA Hanna,2022 Beijing,Freestyle Skiing,Women's,aerials
+Winter,2022,Bronze,USA,United States,NICK Megan,2022 Beijing,Freestyle Skiing,Women's,aerials
+Winter,2022,Gold,CHN,China,GU Ailing Eileen,2022 Beijing,Freestyle Skiing,Women's,Big air
+Winter,2022,Silver,FRA,France,LEDEUX Tess,2022 Beijing,Freestyle Skiing,Women's,Big air
+Winter,2022,Bronze,SUI,Switzerland,GREMAUD Mathilde,2022 Beijing,Freestyle Skiing,Women's,Big air
+Winter,2022,Gold,AUS,Australia,ANTHONY Jakara,2022 Beijing,Freestyle Skiing,Women's,moguls
+Winter,2022,Silver,USA,United States,KAUF Jaelin,2022 Beijing,Freestyle Skiing,Women's,moguls
+Winter,2022,Bronze,OAR,ROC,SMIRNOVA Anastasiia,2022 Beijing,Freestyle Skiing,Women's,moguls
+Winter,2022,Gold,SWE,Sweden,NAESLUND Sandra,2022 Beijing,Freestyle Skiing,Women's,Ski Cross
+Winter,2022,Silver,CAN,Canada,THOMPSON Marielle,2022 Beijing,Freestyle Skiing,Women's,Ski Cross
+Winter,2022,Bronze,GER,Germany,MAIER Daniela,2022 Beijing,Freestyle Skiing,Women's,Ski Cross
+Winter,2022,Bronze,SUI,Switzerland,SMITH Fanny,2022 Beijing,Freestyle Skiing,Women's,Ski Cross
+Winter,2022,Gold,CHN,China,GU Ailing Eileen,2022 Beijing,Freestyle Skiing,Women's,Halfpipe
+Winter,2022,Silver,CAN,Canada,SHARPE Cassie,2022 Beijing,Freestyle Skiing,Women's,Halfpipe
+Winter,2022,Bronze,CAN,Canada,KARKER Rachael,2022 Beijing,Freestyle Skiing,Women's,Halfpipe
+Winter,2022,Gold,SUI,Switzerland,GREMAUD Mathilde,2022 Beijing,Freestyle Skiing,Women's,Slopestyle
+Winter,2022,Silver,CHN,China,GU Ailing Eileen,2022 Beijing,Freestyle Skiing,Women's,Slopestyle
+Winter,2022,Bronze,EST,Estonia,SILDARU Kelly,2022 Beijing,Freestyle Skiing,Women's,Slopestyle
+Winter,2022,Gold,USA,United States,"LILLIS Christopher, CALDWELL Ashley, SCHOENEFELD Justin",2022 Beijing,Freestyle Skiing,Mixed,Aerials Team
+Winter,2022,Silver,CHN,China,"XU Mengtao, QI Guangpu, JIA Zongyang",2022 Beijing,Freestyle Skiing,Mixed,Aerials Team
+Winter,2022,Bronze,CAN,Canada,"FONTAINE Miha, THENAULT Marion, IRVING Lewis",2022 Beijing,Freestyle Skiing,Mixed,Aerials Team
+Winter,2022,Gold,FIN,Finland,"ANTTILA Marko, FILPPULA Valtteri, GRANLUND Markus, HIETANEN Juuso, KOMAROV Leo, LINDBOHM Petteri, MANNINEN Sakari, OHTAMAA Atte, OLKINUORA Jussi, PESONEN Harri, RAJALA Toni, TUOHIMAA Frans, AALTONEN Miro, BJORNINEN Hannes, FRIMAN Niklas, HARTIKAINEN Teemu, KEMILAINEN Valtteri, LEHTONEN Mikko, MAENALANEN Saku, NATTINEN Joonas, OJAMAKI Niko, PAKARINEN Iiro, POKKA Ville, SATERI Harri, VATANEN Sami",2022 Beijing,Ice Hockey,Men's,ice hockey
+Winter,2022,Silver,OAR,ROC,"YAKOVLEV Yegor, TKACHYOV Vladimir, VORONKOV Dmitri, ANDRONOV Sergei, CHIBISOV Andrei, GALIEV Stanislav, GRITSYUK Arseni, KARNAUKHOV Pavel, MINULIN Artyom, NIKISHIN Alexander, SAMONOV Alexander, SHARIPZYANOV Damir, SLEPYSHEV Anton, YELESIN Alexander, VOINOV Vyacheslav, BILYALOV Timur, FEDOTOV Ivan, GRIGORENKO Mikhail, GUSEV Nikita, KAYUMOV Artur, NESTEROV Nikita, PLOTNIKOV Sergei, SEMYONOV Kirill, SHIPACHYOV Vadim, TELEGIN Sergei",2022 Beijing,Ice Hockey,Men's,ice hockey
+Winter,2022,Bronze,SVK,Slovakia,"CAJKOVSKY Michal, CERESNAK Peter, DANO Marko, HOLESINSKY Adrian, HUDACEK Libor, KELEMEN Milos, KONRAD Branislav, MARINCIN Martin, POSPISIL Kristian, ROMAN Milos, RYBAR Patrik, TAKAC Samuel, ZUZIN Peter, CEHLARIK Peter, DALOGA Marek, GERNAT Martin, HRIVIK Marek, JURCO Tomas, KNAZKO Samuel, KRISTOF Michal, NEMEC Simon, REGENDA Pavol, ROSANDIC Mislav, SLAFKOVSKY Juraj, TOMEK Matej",2022 Beijing,Ice Hockey,Men's,ice hockey
+Winter,2022,Gold,CAN,Canada,"TURNBULL Blayre, BELL Ashton, CLARK Emily, DESBIENS Ann-Renee, FILLIER Sarah, JOHNSTON Rebecca, MALTAIS Emma, NURSE Sarah, RATTRAY Jamie Lee, SHELTON Ella, STACEY Laura, THOMPSON Claire, ZANDEE-HART Micah, AMBROSE Erin, CAMPBELL Kristen, DAOUST Melodie, FAST Renata, JENNER Brianne, LAROCQUE Jocelyne, MASCHMEYER Emerance, POULIN Marie-Philip, SAULNIER Jill, SPOONER Natalie",2022 Beijing,Ice Hockey,Women's,ice hockey
+Winter,2022,Silver,USA,United States,"BARNES Cayla, BRANDT Hannah, CARPENTER Alex, COMPHER Jesse, DECKER Brianna, HARMON Savannah, HENSLEY Nicole, KESSEL Amanda, MURPHY Abbey, ROONEY Maddie, SCAMURRA Hayley, ZUMWINKLE Grace, BOZEK Megan, CAMERANESI Dani, CAVALLINI Alex, COYNE SCHOFIELD Kendall, DUNNE Jincy, HARVEY Caroline, KELLER Megan, KNIGHT Hilary, PANNEK Kelly, ROQUE Abby, STECKLEIN Lee",2022 Beijing,Ice Hockey,Women's,ice hockey
+Winter,2022,Bronze,FIN,Finland,"TUOMINEN Minnamari, VANHANEN Sanni, VIITASUO Ella, HIIRIKOSKI Jenni, KARJALAINEN Sini, KEISALA Anni, LIIKALA Julia, NIEMINEN Petra, NYLUND Jenniina, RANTALA Sanni, SUNDELIN Sofianna, TULUS Noora, VAINIKKA Viivi, VESA Emilia, HAKALA Sanni, HOLOPAINEN Elisa, KARVINEN Michelle, LAITINEN Nelli, MAKINEN Eveliina, NISKANEN Tanja, RAISANEN Meeri, SAVOLAINEN Ronja, TAPANI Susanna",2022 Beijing,Ice Hockey,Women's,ice hockey
+Winter,2022,Gold,GER,Germany,LUDWIG Johannes,2022 Beijing,Luge,Men's,singles
+Winter,2022,Silver,AUT,Austria,KINDL Wolfgang,2022 Beijing,Luge,Men's,singles
+Winter,2022,Bronze,ITA,Italy,FISCHNALLER Dominik,2022 Beijing,Luge,Men's,singles
+Winter,2022,Gold,GER,Germany,GEISENBERGER Natalie,2022 Beijing,Luge,Women's,singles
+Winter,2022,Silver,GER,Germany,BERREITER Anna,2022 Beijing,Luge,Women's,singles
+Winter,2022,Bronze,OAR,ROC,IVANOVA Tatyana,2022 Beijing,Luge,Women's,singles
+Winter,2022,Gold,GER,Germany,"ARLT Tobias, WENDL Tobias",2022 Beijing,Luge,Mixed,doubles
+Winter,2022,Silver,GER,Germany,"BENECKEN Sascha, EGGERT Toni",2022 Beijing,Luge,Mixed,doubles
+Winter,2022,Bronze,AUT,Austria,"KOLLER Lorenz, STEU Thomas",2022 Beijing,Luge,Mixed,doubles
+Winter,2022,Gold,GER,Germany,"GEISENBERGER Natalie, LUDWIG Johannes, ARLT Tobias, WENDL Tobias",2022 Beijing,Luge,Mixed,team relay
+Winter,2022,Silver,AUT,Austria,"EGLE Madeleine, KOLLER Lorenz, KINDL Wolfgang, STEU Thomas",2022 Beijing,Luge,Mixed,team relay
+Winter,2022,Bronze,LAT,Latvia,"TIRUMA Eliza, BOTS Martins, APARJODS Kristers, PLUME Roberts",2022 Beijing,Luge,Mixed,team relay
+Winter,2022,Gold,GER,Germany,GEIGER Vinzenz,2022 Beijing,Nordic Combined,Men's,individual
+Winter,2022,Silver,NOR,Norway,GRAABAK Joergen,2022 Beijing,Nordic Combined,Men's,individual
+Winter,2022,Bronze,AUT,Austria,GREIDERER Lukas,2022 Beijing,Nordic Combined,Men's,individual
+Winter,2022,Gold,NOR,Norway,GRAABAK Joergen,2022 Beijing,Nordic Combined,Men's,Large Hill individual
+Winter,2022,Silver,NOR,Norway,OFTEBRO Jens Luraas,2022 Beijing,Nordic Combined,Men's,Large Hill individual
+Winter,2022,Bronze,JPN,Japan,WATABE Akito,2022 Beijing,Nordic Combined,Men's,Large Hill individual
+Winter,2022,Gold,NOR,Norway,"OFTEBRO Jens Luraas, ANDERSEN Espen, GRAABAK Joergen, BJOERNSTAD Espen",2022 Beijing,Nordic Combined,Men's,team
+Winter,2022,Silver,GER,Germany,"FRENZEL Eric, SCHMID Julian, FAISST Manuel, GEIGER Vinzenz",2022 Beijing,Nordic Combined,Men's,team
+Winter,2022,Bronze,JPN,Japan,"WATABE Yoshito, YAMAMOTO Ryota, WATABE Akito, NAGAI Hideaki",2022 Beijing,Nordic Combined,Men's,team
+Winter,2022,Gold,HUN,Hungary,LIU Shaoang,2022 Beijing,Short Track Speed Skating,Men's,500m
+Winter,2022,Silver,OAR,ROC,IVLIEV Konstantin,2022 Beijing,Short Track Speed Skating,Men's,500m
+Winter,2022,Bronze,CAN,Canada,DUBOIS Steven,2022 Beijing,Short Track Speed Skating,Men's,500m
+Winter,2022,Gold,CHN,China,REN Ziwei,2022 Beijing,Short Track Speed Skating,Men's,1000m
+Winter,2022,Silver,CHN,China,LI Wenlong,2022 Beijing,Short Track Speed Skating,Men's,1000m
+Winter,2022,Bronze,HUN,Hungary,LIU Shaoang,2022 Beijing,Short Track Speed Skating,Men's,1000m
+Winter,2022,Gold,KOR,Korea Republic,HWANG Daeheon,2022 Beijing,Short Track Speed Skating,Men's,1500m
+Winter,2022,Silver,CAN,Canada,DUBOIS Steven,2022 Beijing,Short Track Speed Skating,Men's,1500m
+Winter,2022,Bronze,OAR,ROC,ELISTRATOV Semen,2022 Beijing,Short Track Speed Skating,Men's,1500m
+Winter,2022,Gold,CAN,Canada,"DUBOIS Steven, LAOUN Maxime, DION Pascal, HAMELIN Charles, PIERRE-GILLES Jordan",2022 Beijing,Short Track Speed Skating,Men's,5000m relay
+Winter,2022,Silver,KOR,Korea Republic,"HWANG Daeheon, KWAK Yoongy, PARK Janghyuk, KIM Dongwook, LEE Juneseo",2022 Beijing,Short Track Speed Skating,Men's,5000m relay
+Winter,2022,Bronze,ITA,Italy,"CONFORTOLA Yuri, SIGHEL Pietro, CASSINELLI Andrea, DOTTI Tommaso",2022 Beijing,Short Track Speed Skating,Men's,5000m relay
+Winter,2022,Gold,ITA,Italy,FONTANA Arianna,2022 Beijing,Short Track Speed Skating,Women's,500m
+Winter,2022,Silver,NED,Netherlands,SCHULTING Suzanne,2022 Beijing,Short Track Speed Skating,Women's,500m
+Winter,2022,Bronze,CAN,Canada,BOUTIN Kim,2022 Beijing,Short Track Speed Skating,Women's,500m
+Winter,2022,Gold,NED,Netherlands,SCHULTING Suzanne,2022 Beijing,Short Track Speed Skating,Women's,1000m
+Winter,2022,Silver,KOR,Korea Republic,CHOI Minjeong,2022 Beijing,Short Track Speed Skating,Women's,1000m
+Winter,2022,Bronze,BEL,Belgium,DESMET Hanne,2022 Beijing,Short Track Speed Skating,Women's,1000m
+Winter,2022,Gold,KOR,Korea Republic,CHOI Minjeong,2022 Beijing,Short Track Speed Skating,Women's,1500m
+Winter,2022,Silver,ITA,Italy,FONTANA Arianna,2022 Beijing,Short Track Speed Skating,Women's,1500m
+Winter,2022,Bronze,NED,Netherlands,SCHULTING Suzanne,2022 Beijing,Short Track Speed Skating,Women's,1500m
+Winter,2022,Gold,NED,Netherlands,"POUTSMA Selma, van KERKHOF Yara, SCHULTING Suzanne, VELZEBOER Xandra",2022 Beijing,Short Track Speed Skating,Women's,3000m relay
+Winter,2022,Silver,KOR,Korea Republic,"CHOI Minjeong, LEE Yubin, KIM A Lang, SEO Whimin",2022 Beijing,Short Track Speed Skating,Women's,3000m relay
+Winter,2022,Bronze,CHN,China,"ZHANG Yuting, QU Chunyu, ZHANG Chutong, FAN Kexin, HAN Yutong",2022 Beijing,Short Track Speed Skating,Women's,3000m relay
+Winter,2022,Gold,CHN,China,"QU Chunyu, WU Dajing, ZHANG Yuting, FAN Kexin, REN Ziwei",2022 Beijing,Short Track Speed Skating,Mixed,2000m relay
+Winter,2022,Silver,ITA,Italy,"SIGHEL Pietro, CONFORTOLA Yuri, VALCEPINA Arianna, VALCEPINA Martina, CASSINELLI Andrea, FONTANA Arianna",2022 Beijing,Short Track Speed Skating,Mixed,2000m relay
+Winter,2022,Bronze,HUN,Hungary,"LIU Shaolin Sandor, KONYA Zsofia, LIU Shaoang, JASZAPATI Petra, KRUEGER John-Henry",2022 Beijing,Short Track Speed Skating,Mixed,2000m relay
+Winter,2022,Gold,GER,Germany,GROTHEER Christopher,2022 Beijing,Skeleton,Men's,individual
+Winter,2022,Silver,GER,Germany,JUNGK Axel,2022 Beijing,Skeleton,Men's,individual
+Winter,2022,Bronze,CHN,China,YAN Wengang,2022 Beijing,Skeleton,Men's,individual
+Winter,2022,Gold,GER,Germany,NEISE Hannah,2022 Beijing,Skeleton,Women's,individual
+Winter,2022,Silver,AUS,Australia,NARRACOTT Jaclyn,2022 Beijing,Skeleton,Women's,individual
+Winter,2022,Bronze,NED,Netherlands,BOS Kimberley,2022 Beijing,Skeleton,Women's,individual
+Winter,2022,Gold,JPN,Japan,KOBAYASHI Ryoyu,2022 Beijing,Ski Jumping,Men's,Normal Hill individual
+Winter,2022,Silver,AUT,Austria,FETTNER Manuel,2022 Beijing,Ski Jumping,Men's,Normal Hill individual
+Winter,2022,Bronze,POL,Poland,KUBACKI Dawid,2022 Beijing,Ski Jumping,Men's,Normal Hill individual
+Winter,2022,Gold,NOR,Norway,LINDVIK Marius,2022 Beijing,Ski Jumping,Men's,Large Hill individual
+Winter,2022,Silver,JPN,Japan,KOBAYASHI Ryoyu,2022 Beijing,Ski Jumping,Men's,Large Hill individual
+Winter,2022,Bronze,GER,Germany,GEIGER Karl,2022 Beijing,Ski Jumping,Men's,Large Hill individual
+Winter,2022,Gold,AUT,Austria,"FETTNER Manuel, HUBER Daniel, HOERL Jan, KRAFT Stefan",2022 Beijing,Ski Jumping,Men's,Large Hill team
+Winter,2022,Silver,SLO,Slovenia,"KOS Lovro, PREVC Peter, PREVC Cene, ZAJC Timi",2022 Beijing,Ski Jumping,Men's,Large Hill team
+Winter,2022,Bronze,GER,Germany,"EISENBICHLER Markus, LEYHE Stephan, GEIGER Karl, SCHMID Constantin",2022 Beijing,Ski Jumping,Men's,Large Hill team
+Winter,2022,Gold,SLO,Slovenia,BOGATAJ Ursa,2022 Beijing,Ski Jumping,Women's,Normal Hill individual
+Winter,2022,Silver,GER,Germany,ALTHAUS Katharina,2022 Beijing,Ski Jumping,Women's,Normal Hill individual
+Winter,2022,Bronze,SLO,Slovenia,KRIZNAR Nika,2022 Beijing,Ski Jumping,Women's,Normal Hill individual
+Winter,2022,Gold,SLO,Slovenia,"KRIZNAR Nika, ZAJC Timi, BOGATAJ Ursa, PREVC Peter",2022 Beijing,Ski Jumping,Mixed,Normal Hill team
+Winter,2022,Silver,OAR,ROC,"KLIMOV Evgeniy, SADREEV Danil, AVVAKUMOVA Irina, MAKHINIA Irma",2022 Beijing,Ski Jumping,Mixed,Normal Hill team
+Winter,2022,Bronze,CAN,Canada,"LOUTITT Alexandria, STRATE Abigail, BOYD-CLOWES Mackenzie, SOUKUP Matthew",2022 Beijing,Ski Jumping,Mixed,Normal Hill team
+Winter,2022,Gold,AUT,Austria,KARL Benjamin,2022 Beijing,Snowboard,Men's,Giant parallel slalom
+Winter,2022,Silver,SLO,Slovenia,MASTNAK Tim,2022 Beijing,Snowboard,Men's,Giant parallel slalom
+Winter,2022,Bronze,OAR,ROC,WILD Victor,2022 Beijing,Snowboard,Men's,Giant parallel slalom
+Winter,2022,Gold,JPN,Japan,HIRANO Ayumu,2022 Beijing,Snowboard,Men's,Half-pipe
+Winter,2022,Silver,AUS,Australia,JAMES Scotty,2022 Beijing,Snowboard,Men's,Half-pipe
+Winter,2022,Bronze,SUI,Switzerland,SCHERRER Jan,2022 Beijing,Snowboard,Men's,Half-pipe
+Winter,2022,Gold,CAN,Canada,PARROT Max,2022 Beijing,Snowboard,Men's,Slopestyle
+Winter,2022,Silver,CHN,China,SU Yiming,2022 Beijing,Snowboard,Men's,Slopestyle
+Winter,2022,Bronze,CAN,Canada,McMORRIS Mark,2022 Beijing,Snowboard,Men's,Slopestyle
+Winter,2022,Gold,AUT,Austria,HAEMMERLE Alessandro,2022 Beijing,Snowboard,Men's,Snowboard Cross
+Winter,2022,Silver,CAN,Canada,GRONDIN Eliot,2022 Beijing,Snowboard,Men's,Snowboard Cross
+Winter,2022,Bronze,ITA,Italy,VISINTIN Omar,2022 Beijing,Snowboard,Men's,Snowboard Cross
+Winter,2022,Gold,CHN,China,SU Yiming,2022 Beijing,Snowboard,Men's,Big air
+Winter,2022,Silver,NOR,Norway,ROISLAND Mons,2022 Beijing,Snowboard,Men's,Big air
+Winter,2022,Bronze,CAN,Canada,PARROT Max,2022 Beijing,Snowboard,Men's,Big air
+Winter,2022,Gold,CZE,Czech Republic,LEDECKA Ester,2022 Beijing,Snowboard,Women's,Giant parallel slalom
+Winter,2022,Silver,AUT,Austria,ULBING Daniela,2022 Beijing,Snowboard,Women's,Giant parallel slalom
+Winter,2022,Bronze,SLO,Slovenia,KOTNIK Gloria,2022 Beijing,Snowboard,Women's,Giant parallel slalom
+Winter,2022,Gold,USA,United States,KIM Chloe,2022 Beijing,Snowboard,Women's,Half-pipe
+Winter,2022,Silver,ESP,Spain,CASTELLET Queralt,2022 Beijing,Snowboard,Women's,Half-pipe
+Winter,2022,Bronze,JPN,Japan,TOMITA Sena,2022 Beijing,Snowboard,Women's,Half-pipe
+Winter,2022,Gold,NZL,New Zealand,SADOWSKI SYNNOTT Zoi,2022 Beijing,Snowboard,Women's,Slopestyle
+Winter,2022,Silver,USA,United States,MARINO Julia,2022 Beijing,Snowboard,Women's,Slopestyle
+Winter,2022,Bronze,AUS,Australia,COADY Tess,2022 Beijing,Snowboard,Women's,Slopestyle
+Winter,2022,Gold,USA,United States,JACOBELLIS Lindsey,2022 Beijing,Snowboard,Women's,Snowboard Cross
+Winter,2022,Silver,FRA,France,TRESPEUCH Chloe,2022 Beijing,Snowboard,Women's,Snowboard Cross
+Winter,2022,Bronze,CAN,Canada,ODINE Meryeta,2022 Beijing,Snowboard,Women's,Snowboard Cross
+Winter,2022,Gold,AUT,Austria,GASSER Anna,2022 Beijing,Snowboard,Women's,Big air
+Winter,2022,Silver,NZL,New Zealand,SADOWSKI SYNNOTT Zoi,2022 Beijing,Snowboard,Women's,Big air
+Winter,2022,Bronze,JPN,Japan,MURASE Kokomo,2022 Beijing,Snowboard,Women's,Big air
+Winter,2022,Gold,USA,United States,"BAUMGARTNER Nick, JACOBELLIS Lindsey",2022 Beijing,Snowboard,Mixed,Team Snowboard Cross
+Winter,2022,Silver,ITA,Italy,"VISINTIN Omar, MOIOLI Michela",2022 Beijing,Snowboard,Mixed,Team Snowboard Cross
+Winter,2022,Bronze,CAN,Canada,"GRONDIN Eliot, ODINE Meryeta",2022 Beijing,Snowboard,Mixed,Team Snowboard Cross
+Winter,2022,Gold,CHN,China,GAO Tingyu,2022 Beijing,Speed skating,Men's,500m
+Winter,2022,Silver,KOR,Korea Republic,CHA Min Kyu,2022 Beijing,Speed skating,Men's,500m
+Winter,2022,Bronze,JPN,Japan,MORISHIGE Wataru,2022 Beijing,Speed skating,Men's,500m
+Winter,2022,Gold,NED,Netherlands,KROL Thomas,2022 Beijing,Speed skating,Men's,1000m
+Winter,2022,Silver,CAN,Canada,DUBREUIL Laurent,2022 Beijing,Speed skating,Men's,1000m
+Winter,2022,Bronze,NOR,Norway,LORENTZEN Haavard Holmefjord,2022 Beijing,Speed skating,Men's,1000m
+Winter,2022,Gold,NED,Netherlands,NUIS Kjeld,2022 Beijing,Speed skating,Men's,1500m
+Winter,2022,Silver,NED,Netherlands,KROL Thomas,2022 Beijing,Speed skating,Men's,1500m
+Winter,2022,Bronze,KOR,Korea Republic,KIM Minseok,2022 Beijing,Speed skating,Men's,1500m
+Winter,2022,Gold,SWE,Sweden,van der POEL Nils,2022 Beijing,Speed skating,Men's,5000m
+Winter,2022,Silver,NED,Netherlands,ROEST Patrick,2022 Beijing,Speed skating,Men's,5000m
+Winter,2022,Bronze,NOR,Norway,ENGEBRAATEN Hallgeir,2022 Beijing,Speed skating,Men's,5000m
+Winter,2022,Gold,SWE,Sweden,van der POEL Nils,2022 Beijing,Speed skating,Men's,10000m
+Winter,2022,Silver,NED,Netherlands,ROEST Patrick,2022 Beijing,Speed skating,Men's,10000m
+Winter,2022,Bronze,ITA,Italy,GHIOTTO Davide,2022 Beijing,Speed skating,Men's,10000m
+Winter,2022,Gold,NOR,Norway,"KONGSHAUG Peder, ENGEBRAATEN Hallgeir, PEDERSEN Sverre Lunde",2022 Beijing,Speed skating,Men's,Team pursuit
+Winter,2022,Silver,OAR,ROC,"ALDOSHKIN Daniil, ZAKHAROV Ruslan, TROFIMOV Sergei",2022 Beijing,Speed skating,Men's,Team pursuit
+Winter,2022,Bronze,USA,United States,"DAWSON Casey, MANTIA Joey, CEPURAN Ethan, LEHMAN Emery",2022 Beijing,Speed skating,Men's,Team pursuit
+Winter,2022,Gold,BEL,Belgium,SWINGS Bart,2022 Beijing,Speed skating,Men's,Mass start
+Winter,2022,Silver,KOR,Korea Republic,CHUNG Jae Won,2022 Beijing,Speed skating,Men's,Mass start
+Winter,2022,Bronze,KOR,Korea Republic,LEE Seung Hoon,2022 Beijing,Speed skating,Men's,Mass start
+Winter,2022,Gold,USA,United States,JACKSON Erin,2022 Beijing,Speed skating,Women's,500m
+Winter,2022,Silver,JPN,Japan,TAKAGI Miho,2022 Beijing,Speed skating,Women's,500m
+Winter,2022,Bronze,OAR,ROC,GOLIKOVA Angelina,2022 Beijing,Speed skating,Women's,500m
+Winter,2022,Gold,JPN,Japan,TAKAGI Miho,2022 Beijing,Speed skating,Women's,1000m
+Winter,2022,Silver,NED,Netherlands,LEERDAM Jutta,2022 Beijing,Speed skating,Women's,1000m
+Winter,2022,Bronze,USA,United States,BOWE Brittany,2022 Beijing,Speed skating,Women's,1000m
+Winter,2022,Gold,NED,Netherlands,WUST Ireen,2022 Beijing,Speed skating,Women's,1500m
+Winter,2022,Silver,JPN,Japan,TAKAGI Miho,2022 Beijing,Speed skating,Women's,1500m
+Winter,2022,Bronze,NED,Netherlands,de JONG Antoinette,2022 Beijing,Speed skating,Women's,1500m
+Winter,2022,Gold,NED,Netherlands,SCHOUTEN Irene,2022 Beijing,Speed skating,Women's,3000m
+Winter,2022,Silver,ITA,Italy,LOLLOBRIGIDA Francesca,2022 Beijing,Speed skating,Women's,3000m
+Winter,2022,Bronze,CAN,Canada,WEIDEMANN Isabelle,2022 Beijing,Speed skating,Women's,3000m
+Winter,2022,Gold,NED,Netherlands,SCHOUTEN Irene,2022 Beijing,Speed skating,Women's,5000m
+Winter,2022,Silver,CAN,Canada,WEIDEMANN Isabelle,2022 Beijing,Speed skating,Women's,5000m
+Winter,2022,Bronze,CZE,Czech Republic,SABLIKOVA Martina,2022 Beijing,Speed skating,Women's,5000m
+Winter,2022,Gold,CAN,Canada,"MALTAIS Valerie, BLONDIN Ivanie, WEIDEMANN Isabelle",2022 Beijing,Speed skating,Women's,Team pursuit
+Winter,2022,Silver,JPN,Japan,"SATO Ayano, TAKAGI Nana, TAKAGI Miho",2022 Beijing,Speed skating,Women's,Team pursuit
+Winter,2022,Bronze,NED,Netherlands,"GROENEWOUD Marijke, WUST Ireen, de JONG Antoinette, SCHOUTEN Irene",2022 Beijing,Speed skating,Women's,Team pursuit
+Winter,2022,Gold,NED,Netherlands,SCHOUTEN Irene,2022 Beijing,Speed skating,Women's,Mass start
+Winter,2022,Silver,CAN,Canada,BLONDIN Ivanie,2022 Beijing,Speed skating,Women's,Mass start
+Winter,2022,Bronze,ITA,Italy,LOLLOBRIGIDA Francesca,2022 Beijing,Speed skating,Women's,Mass start

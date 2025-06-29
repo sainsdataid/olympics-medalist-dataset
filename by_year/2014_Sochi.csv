@@ -1,0 +1,295 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,2014,Gold,SUI,Switzerland,Sandro VILETTA,2014 Sochi,Alpine Skiing,Men's,Alpine combined
+Winter,2014,Silver,CRO,Croatia,Ivica KOSTELIC,2014 Sochi,Alpine Skiing,Men's,Alpine combined
+Winter,2014,Bronze,ITA,Italy,Christof INNERHOFER,2014 Sochi,Alpine Skiing,Men's,Alpine combined
+Winter,2014,Gold,AUT,Austria,Mario MATT,2014 Sochi,Alpine Skiing,Men's,slalom
+Winter,2014,Silver,AUT,Austria,Marcel HIRSCHER,2014 Sochi,Alpine Skiing,Men's,slalom
+Winter,2014,Bronze,NOR,Norway,Henrik KRISTOFFERSEN,2014 Sochi,Alpine Skiing,Men's,slalom
+Winter,2014,Gold,USA,United States,Ted LIGETY,2014 Sochi,Alpine Skiing,Men's,giant slalom
+Winter,2014,Silver,FRA,France,Steve MISSILLIER,2014 Sochi,Alpine Skiing,Men's,giant slalom
+Winter,2014,Bronze,FRA,France,Alexis PINTURAULT,2014 Sochi,Alpine Skiing,Men's,giant slalom
+Winter,2014,Gold,NOR,Norway,Kjetil JANSRUD,2014 Sochi,Alpine Skiing,Men's,super-G
+Winter,2014,Silver,USA,United States,Andrew WEIBRECHT,2014 Sochi,Alpine Skiing,Men's,super-G
+Winter,2014,Bronze,CAN,Canada,Jan HUDEC,2014 Sochi,Alpine Skiing,Men's,super-G
+Winter,2014,Bronze,USA,United States,Bode MILLER,2014 Sochi,Alpine Skiing,Men's,super-G
+Winter,2014,Gold,AUT,Austria,Matthias MAYER,2014 Sochi,Alpine Skiing,Men's,downhill
+Winter,2014,Silver,ITA,Italy,Christof INNERHOFER,2014 Sochi,Alpine Skiing,Men's,downhill
+Winter,2014,Bronze,NOR,Norway,Kjetil JANSRUD,2014 Sochi,Alpine Skiing,Men's,downhill
+Winter,2014,Gold,GER,Germany,Maria RIESCH,2014 Sochi,Alpine Skiing,Women's,Alpine combined
+Winter,2014,Silver,AUT,Austria,Nicole HOSP,2014 Sochi,Alpine Skiing,Women's,Alpine combined
+Winter,2014,Bronze,USA,United States,Julia MANCUSO,2014 Sochi,Alpine Skiing,Women's,Alpine combined
+Winter,2014,Gold,USA,United States,Mikaela SHIFFRIN,2014 Sochi,Alpine Skiing,Women's,slalom
+Winter,2014,Silver,AUT,Austria,Marlies SCHILD,2014 Sochi,Alpine Skiing,Women's,slalom
+Winter,2014,Bronze,AUT,Austria,Kathrin ZETTEL,2014 Sochi,Alpine Skiing,Women's,slalom
+Winter,2014,Gold,SLO,Slovenia,Tina MAZE,2014 Sochi,Alpine Skiing,Women's,giant slalom
+Winter,2014,Silver,AUT,Austria,Anna FENNINGER,2014 Sochi,Alpine Skiing,Women's,giant slalom
+Winter,2014,Bronze,GER,Germany,Viktoria REBENSBURG,2014 Sochi,Alpine Skiing,Women's,giant slalom
+Winter,2014,Gold,AUT,Austria,Anna FENNINGER,2014 Sochi,Alpine Skiing,Women's,super-G
+Winter,2014,Silver,GER,Germany,Maria RIESCH,2014 Sochi,Alpine Skiing,Women's,super-G
+Winter,2014,Bronze,AUT,Austria,Nicole HOSP,2014 Sochi,Alpine Skiing,Women's,super-G
+Winter,2014,Gold,SLO,Slovenia,Tina MAZE,2014 Sochi,Alpine Skiing,Women's,downhill
+Winter,2014,Gold,SUI,Switzerland,Dominique GISIN,2014 Sochi,Alpine Skiing,Women's,downhill
+Winter,2014,Bronze,SUI,Switzerland,Lara GUT,2014 Sochi,Alpine Skiing,Women's,downhill
+Winter,2014,Gold,NOR,Norway,Ole Einar BJOERNDALEN,2014 Sochi,Biathlon,Men's,10km sprint
+Winter,2014,Silver,AUT,Austria,Dominik LANDERTINGER,2014 Sochi,Biathlon,Men's,10km sprint
+Winter,2014,Bronze,CZE,Czech Republic,Jaroslav SOUKUP,2014 Sochi,Biathlon,Men's,10km sprint
+Winter,2014,Gold,FRA,France,Martin FOURCADE,2014 Sochi,Biathlon,Men's,12.5km pursuit
+Winter,2014,Silver,CZE,Czech Republic,Ondrej MORAVEC,2014 Sochi,Biathlon,Men's,12.5km pursuit
+Winter,2014,Bronze,FRA,France,Jean Guillaume BEATRIX,2014 Sochi,Biathlon,Men's,12.5km pursuit
+Winter,2014,Gold,FRA,France,Martin FOURCADE,2014 Sochi,Biathlon,Men's,20km individual
+Winter,2014,Silver,GER,Germany,Erik LESSER,2014 Sochi,Biathlon,Men's,20km individual
+Winter,2014,Bronze,RUS,Russian Federation,Evgeniy GARANICHEV,2014 Sochi,Biathlon,Men's,20km individual
+Winter,2014,Gold,NOR,Norway,Emil Hegle SVENDSEN,2014 Sochi,Biathlon,Men's,15km mass start
+Winter,2014,Silver,FRA,France,Martin FOURCADE,2014 Sochi,Biathlon,Men's,15km mass start
+Winter,2014,Bronze,CZE,Czech Republic,Ondrej MORAVEC,2014 Sochi,Biathlon,Men's,15km mass start
+Winter,2014,Silver,GER,Germany,"Daniel BOEHM, Arnd PEIFFER, Erik LESSER, Simon SCHEMPP",2014 Sochi,Biathlon,Men's,4x7.5km relay
+Winter,2014,Bronze,AUT,Austria,"Simon EDER, Daniel MESOTITSCH, Dominik LANDERTINGER, Christoph SUMANN",2014 Sochi,Biathlon,Men's,4x7.5km relay
+Winter,2014,Gold,SVK,Slovakia,Anastazia KUZMINA,2014 Sochi,Biathlon,Women's,7.5km sprint
+Winter,2014,Silver,RUS,Russian Federation,Olga VILUKHINA,2014 Sochi,Biathlon,Women's,7.5km sprint
+Winter,2014,Bronze,UKR,Ukraine,Vita SEMERENKO,2014 Sochi,Biathlon,Women's,7.5km sprint
+Winter,2014,Gold,BLR,Belarus,Darya DOMRACHEVA,2014 Sochi,Biathlon,Women's,10km pursuit
+Winter,2014,Silver,NOR,Norway,Tora BERGER,2014 Sochi,Biathlon,Women's,10km pursuit
+Winter,2014,Bronze,SLO,Slovenia,Teja GREGORIN,2014 Sochi,Biathlon,Women's,10km pursuit
+Winter,2014,Gold,BLR,Belarus,Darya DOMRACHEVA,2014 Sochi,Biathlon,Women's,15km individual
+Winter,2014,Silver,SUI,Switzerland,Selina GASPARIN,2014 Sochi,Biathlon,Women's,15km individual
+Winter,2014,Bronze,BLR,Belarus,Nadezhda SKARDINO,2014 Sochi,Biathlon,Women's,15km individual
+Winter,2014,Gold,BLR,Belarus,Darya DOMRACHEVA,2014 Sochi,Biathlon,Women's,12.5km mass start
+Winter,2014,Silver,CZE,Czech Republic,Gabriela SOUKALOVA,2014 Sochi,Biathlon,Women's,12.5km mass start
+Winter,2014,Bronze,NOR,Norway,Tiril ECKHOFF,2014 Sochi,Biathlon,Women's,12.5km mass start
+Winter,2014,Gold,UKR,Ukraine,"Vita SEMERENKO, Olena PIDHRUSHNA, Valj SEMERENKO, Juliya DZHYMA",2014 Sochi,Biathlon,Women's,4x6km relay
+Winter,2014,Silver,NOR,Norway,"Ann Kristin FLATLAND, Fanny Welle-Strand HORN, Tiril ECKHOFF, Tora BERGER",2014 Sochi,Biathlon,Women's,4x6km relay
+Winter,2014,Bronze,CZE,Czech Republic,"Eva Puskarčíková, Jitka Landová, Gabriela Soukalová, Veronika Vítková",2014 Sochi,Biathlon,Women's,4x6km relay
+Winter,2014,Gold,NOR,Norway,"Tiril ECKHOFF, Emil Hegle SVENDSEN, Ole Einar BJOERNDALEN, Tora BERGER",2014 Sochi,Biathlon,Mixed,Relay mix
+Winter,2014,Silver,CZE,Czech Republic,"Veronika VITKOVA, Gabriela SOUKALOVA, Jaroslav SOUKUP, Ondrej MORAVEC",2014 Sochi,Biathlon,Mixed,Relay mix
+Winter,2014,Bronze,ITA,Italy,"Lukas HOFER, Dorothea WIERER, Karin OBERHOFER, Dominik WINDISCH",2014 Sochi,Biathlon,Mixed,Relay mix
+Winter,2014,Gold,SUI,Switzerland,"Beat HEFTI, Alex BAUMANN",2014 Sochi,Bobsleigh,Men's,two-man
+Winter,2014,Silver,USA,United States,"Steven HOLCOMB, Steven LANGTON",2014 Sochi,Bobsleigh,Men's,two-man
+Winter,2014,Bronze,LAT,Latvia,"Melbardis Oskars, Dreiskens Daumants",2014 Sochi,Bobsleigh,Men's,two-man
+Winter,2014,Gold,LAT,Latvia,"Janis STRENGA, Daumants DREISHKENS, Arvis VILKASTE, Oskars MELBARDIS",2014 Sochi,Bobsleigh,Men's,four-man
+Winter,2014,Silver,USA,United States,"Steven LANGTON, Christopher FOGT, Steven HOLCOMB, Curt TOMASEVICZ",2014 Sochi,Bobsleigh,Men's,four-man
+Winter,2014,Bronze,GBR,Great Britain,"Jackson John James, Fearon Joel, Benson Stuart, Tasker Bruce",2014 Sochi,Bobsleigh,Men's,four-man
+Winter,2014,Gold,CAN,Canada,"Kaillie HUMPHRIES, Heather MOYSE",2014 Sochi,Bobsleigh,Women's,two-woman
+Winter,2014,Silver,USA,United States,"Elana MEYERS, Lauryn WILLIAMS",2014 Sochi,Bobsleigh,Women's,two-woman
+Winter,2014,Bronze,USA,United States,"Aja EVANS, Jamie GREUBEL",2014 Sochi,Bobsleigh,Women's,two-woman
+Winter,2014,Gold,NOR,Norway,Ola Vigen HATTESTAD,2014 Sochi,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2014,Silver,SWE,Sweden,Teodor PETERSON,2014 Sochi,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2014,Bronze,SWE,Sweden,Emil JOENSSON,2014 Sochi,Cross Country Skiing,Men's,sprint 1.5km
+Winter,2014,Gold,SUI,Switzerland,Dario COLOGNA,2014 Sochi,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2014,Silver,SWE,Sweden,Marcus HELLNER,2014 Sochi,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2014,Bronze,NOR,Norway,Martin Johnsrud SUNDBY,2014 Sochi,Cross Country Skiing,Men's,Combined 15km + 15km mass start
+Winter,2014,Gold,SUI,Switzerland,Dario COLOGNA,2014 Sochi,Cross Country Skiing,Men's,15km
+Winter,2014,Silver,SWE,Sweden,Johan OLSSON,2014 Sochi,Cross Country Skiing,Men's,15km
+Winter,2014,Bronze,SWE,Sweden,Daniel RICHARDSSON,2014 Sochi,Cross Country Skiing,Men's,15km
+Winter,2014,Gold,RUS,Russian Federation,Alexander LEGKOV,2014 Sochi,Cross Country Skiing,Men's,50km mass start
+Winter,2014,Silver,RUS,Russian Federation,Maxim VYLEGZHANIN,2014 Sochi,Cross Country Skiing,Men's,50km mass start
+Winter,2014,Bronze,RUS,Russian Federation,Ilia CHERNOUSOV,2014 Sochi,Cross Country Skiing,Men's,50km mass start
+Winter,2014,Gold,FIN,Finland,"Iivo NISKANEN, Sami JAUHOJARVI",2014 Sochi,Cross Country Skiing,Men's,Team Sprint
+Winter,2014,Silver,RUS,Russian Federation,"Maxim VYLEGZHANIN, Nikita KRIUKOV",2014 Sochi,Cross Country Skiing,Men's,Team Sprint
+Winter,2014,Bronze,SWE,Sweden,"Emil JOENSSON, Teodor PETERSON",2014 Sochi,Cross Country Skiing,Men's,Team Sprint
+Winter,2014,Gold,SWE,Sweden,"Daniel RICHARDSSON, Marcus HELLNER, Lars NELSON, Johan OLSSON",2014 Sochi,Cross Country Skiing,Men's,4x10km relay
+Winter,2014,Silver,RUS,Russian Federation,"Alexander BESSMERTNYKH, Dmitriy JAPAROV, Maxim VYLEGZHANIN, Alexander LEGKOV",2014 Sochi,Cross Country Skiing,Men's,4x10km relay
+Winter,2014,Bronze,FRA,France,"Ivan PERRILLAT BOITEUX, Robin DUVILLARD, Maurice MANIFICAT, Jean Marc GAILLARD",2014 Sochi,Cross Country Skiing,Men's,4x10km relay
+Winter,2014,Gold,NOR,Norway,Maiken Caspersen FALLA,2014 Sochi,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2014,Silver,NOR,Norway,Ingvild Flugstad OESTBERG,2014 Sochi,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2014,Bronze,SLO,Slovenia,Vesna FABJAN,2014 Sochi,Cross Country Skiing,Women's,sprint 1.5km
+Winter,2014,Gold,NOR,Norway,Marit BJOERGEN,2014 Sochi,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2014,Silver,SWE,Sweden,Charlotte KALLA,2014 Sochi,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2014,Bronze,NOR,Norway,Heidi WENG,2014 Sochi,Cross Country Skiing,Women's,Combined 7.5km + 7.5km mass start
+Winter,2014,Gold,POL,Poland,Justyna KOWALCZYK,2014 Sochi,Cross Country Skiing,Women's,10km
+Winter,2014,Silver,SWE,Sweden,Charlotte KALLA,2014 Sochi,Cross Country Skiing,Women's,10km
+Winter,2014,Bronze,NOR,Norway,Therese JOHAUG,2014 Sochi,Cross Country Skiing,Women's,10km
+Winter,2014,Gold,NOR,Norway,Marit BJOERGEN,2014 Sochi,Cross Country Skiing,Women's,30km mass start
+Winter,2014,Silver,NOR,Norway,Therese JOHAUG,2014 Sochi,Cross Country Skiing,Women's,30km mass start
+Winter,2014,Bronze,NOR,Norway,Kristin Stormer STEIRA,2014 Sochi,Cross Country Skiing,Women's,30km mass start
+Winter,2014,Gold,NOR,Norway,"Marit BJOERGEN, Ingvild Flugstad OESTBERG",2014 Sochi,Cross Country Skiing,Women's,Team Sprint
+Winter,2014,Silver,FIN,Finland,"Aino Kaisa SAARINEN, Kerttu NISKANEN",2014 Sochi,Cross Country Skiing,Women's,Team Sprint
+Winter,2014,Bronze,SWE,Sweden,"Stina NILSSON, Ida INGEMARSDOTTER",2014 Sochi,Cross Country Skiing,Women's,Team Sprint
+Winter,2014,Gold,SWE,Sweden,"Emma WIKEN, Anna HAAG, Charlotte KALLA, Ida INGEMARSDOTTER",2014 Sochi,Cross Country Skiing,Women's,4x5km relay
+Winter,2014,Silver,FIN,Finland,"Anne KYLLOENEN, Kerttu NISKANEN, Krista LAHTEENMAKI, Aino Kaisa SAARINEN",2014 Sochi,Cross Country Skiing,Women's,4x5km relay
+Winter,2014,Bronze,GER,Germany,"Stefanie BOEHLER, Nicole FESSEL, Claudia NYSTAD, Denise HERRMANN",2014 Sochi,Cross Country Skiing,Women's,4x5km relay
+Winter,2014,Gold,CAN,Canada,"Ryan HARNDEN, E.J. HARNDEN, Brad JACOBS, Caleb FLAXEY, Ryan FRY",2014 Sochi,Curling,Men's,curling
+Winter,2014,Silver,GBR,Great Britain,"Scott ANDREWS, David MURDOCH, Greg DRUMMOND, Michael GOODFELLOW, Tom BREWSTER",2014 Sochi,Curling,Men's,curling
+Winter,2014,Bronze,SWE,Sweden,"Fredrik LINDBERG, Sebastian KRAUPP, Niklas EDIN, Oskar ERIKSSON, Viktor KJAELL",2014 Sochi,Curling,Men's,curling
+Winter,2014,Gold,CAN,Canada,"Jill OFFICER, Jennifer JONES, Kaitlyn LAWES, Dawn MCEWEN, Kirsten WALL",2014 Sochi,Curling,Women's,curling
+Winter,2014,Silver,SWE,Sweden,"Agnes KNOCHENHAUER, Maria PRYTZ, Christina BERTRUP, Margaretha SIGFRIDSSON, Maria WENNERSTROEM",2014 Sochi,Curling,Women's,curling
+Winter,2014,Bronze,GBR,Great Britain,"Vicki ADAMS, Anna SLOAN, Claire HAMILTON, Eve MUIRHEAD, Lauren GRAY",2014 Sochi,Curling,Women's,curling
+Winter,2014,Gold,JPN,Japan,Yuzuru HANYU,2014 Sochi,Figure skating,Men's,individual
+Winter,2014,Silver,CAN,Canada,Patrick CHAN,2014 Sochi,Figure skating,Men's,individual
+Winter,2014,Bronze,KAZ,Kazakhstan,Denis TEN,2014 Sochi,Figure skating,Men's,individual
+Winter,2014,Gold,RUS,Russian Federation,Adelina SOTNIKOVA,2014 Sochi,Figure skating,Women's,individual
+Winter,2014,Silver,KOR,Korea Republic,Yuna KIM,2014 Sochi,Figure skating,Women's,individual
+Winter,2014,Bronze,ITA,Italy,Carolina KOSTNER,2014 Sochi,Figure skating,Women's,individual
+Winter,2014,Gold,RUS,Russian Federation,"Tatiana VOLOSOZHAR, Maksim TRANKOV",2014 Sochi,Figure skating,Mixed,pairs
+Winter,2014,Silver,RUS,Russian Federation,"Fedor KLIMOV, Ksenia STOLBOVA",2014 Sochi,Figure skating,Mixed,pairs
+Winter,2014,Bronze,GER,Germany,"Robin SZOLKOWY, Aliona SAVCHENKO",2014 Sochi,Figure skating,Mixed,pairs
+Winter,2014,Gold,USA,United States,"Meryl DAVIS, Charlie WHITE",2014 Sochi,Figure skating,Mixed,ice dancing
+Winter,2014,Silver,CAN,Canada,"Scott MOIR, Tessa VIRTUE",2014 Sochi,Figure skating,Mixed,ice dancing
+Winter,2014,Bronze,RUS,Russian Federation,"Elena ILINYKH, Nikita KATSALAPOV",2014 Sochi,Figure skating,Mixed,ice dancing
+Winter,2014,Gold,RUS,Russian Federation,"Ksenia STOLBOVA, Tatiana VOLOSOZHAR, Elena ILINYKH, Yulia LIPNITSKAYA, Nikita KATSALAPOV, Ekaterina BOBROVA, Evgeni PLUSHENKO, Fedor KLIMOV, Maksim TRANKOV, Dmitri SOLOVIEV",2014 Sochi,Figure skating,Mixed,team
+Winter,2014,Silver,CAN,Canada,"Eric RADFORD, Kirsten MOORE-TOWERS, Dylan MOSCOVITCH, Scott MOIR, Kaetlyn OSMOND, Meagan DUHAMEL, Tessa VIRTUE, Kevin REYNOLDS, Patrick CHAN",2014 Sochi,Figure skating,Mixed,team
+Winter,2014,Bronze,USA,United States,"Simon SHNAPIR, Jason BROWN, Ashley WAGNER, Jeremy ABBOTT, Charlie WHITE, Marissa CASTELLI, Meryl DAVIS, Gracie GOLD",2014 Sochi,Figure skating,Mixed,team
+Winter,2014,Gold,BLR,Belarus,Anton KUSHNIR,2014 Sochi,Freestyle Skiing,Men's,aerials
+Winter,2014,Silver,AUS,Australia,David MORRIS,2014 Sochi,Freestyle Skiing,Men's,aerials
+Winter,2014,Bronze,CHN,China,Zongyang JIA,2014 Sochi,Freestyle Skiing,Men's,aerials
+Winter,2014,Gold,CAN,Canada,Alexandre BILODEAU,2014 Sochi,Freestyle Skiing,Men's,moguls
+Winter,2014,Silver,CAN,Canada,Mikael KINGSBURY,2014 Sochi,Freestyle Skiing,Men's,moguls
+Winter,2014,Bronze,RUS,Russian Federation,Alexandr SMYSHLYAEV,2014 Sochi,Freestyle Skiing,Men's,moguls
+Winter,2014,Gold,FRA,France,Jean Frederic CHAPUIS,2014 Sochi,Freestyle Skiing,Men's,Ski Cross
+Winter,2014,Silver,FRA,France,Arnaud BOVOLENTA,2014 Sochi,Freestyle Skiing,Men's,Ski Cross
+Winter,2014,Bronze,FRA,France,Jonathan MIDOL,2014 Sochi,Freestyle Skiing,Men's,Ski Cross
+Winter,2014,Gold,USA,United States,David WISE,2014 Sochi,Freestyle Skiing,Men's,Halfpipe
+Winter,2014,Silver,CAN,Canada,Mike RIDDLE,2014 Sochi,Freestyle Skiing,Men's,Halfpipe
+Winter,2014,Bronze,FRA,France,Kevin ROLLAND,2014 Sochi,Freestyle Skiing,Men's,Halfpipe
+Winter,2014,Gold,USA,United States,Joss CHRISTENSEN,2014 Sochi,Freestyle Skiing,Men's,Slopestyle
+Winter,2014,Silver,USA,United States,Gus KENWORTHY,2014 Sochi,Freestyle Skiing,Men's,Slopestyle
+Winter,2014,Bronze,USA,United States,Nicholas GOEPPER,2014 Sochi,Freestyle Skiing,Men's,Slopestyle
+Winter,2014,Gold,BLR,Belarus,Alla TSUPER,2014 Sochi,Freestyle Skiing,Women's,aerials
+Winter,2014,Silver,CHN,China,Mengtao XU,2014 Sochi,Freestyle Skiing,Women's,aerials
+Winter,2014,Bronze,AUS,Australia,Lydia IERODIACONOU,2014 Sochi,Freestyle Skiing,Women's,aerials
+Winter,2014,Gold,CAN,Canada,Justine DUFOUR-LAPOINTE,2014 Sochi,Freestyle Skiing,Women's,moguls
+Winter,2014,Silver,CAN,Canada,Chloe DUFOUR-LAPOINTE,2014 Sochi,Freestyle Skiing,Women's,moguls
+Winter,2014,Bronze,USA,United States,Hannah KEARNEY,2014 Sochi,Freestyle Skiing,Women's,moguls
+Winter,2014,Gold,CAN,Canada,Marielle THOMPSON,2014 Sochi,Freestyle Skiing,Women's,Ski Cross
+Winter,2014,Silver,CAN,Canada,Kelsey SERWA,2014 Sochi,Freestyle Skiing,Women's,Ski Cross
+Winter,2014,Bronze,SWE,Sweden,Anna HOLMLUND,2014 Sochi,Freestyle Skiing,Women's,Ski Cross
+Winter,2014,Gold,USA,United States,Maddie BOWMAN,2014 Sochi,Freestyle Skiing,Women's,Halfpipe
+Winter,2014,Silver,FRA,France,Marie MARTINOD,2014 Sochi,Freestyle Skiing,Women's,Halfpipe
+Winter,2014,Bronze,JPN,Japan,Ayana ONOZUKA,2014 Sochi,Freestyle Skiing,Women's,Halfpipe
+Winter,2014,Gold,CAN,Canada,Dara HOWELL,2014 Sochi,Freestyle Skiing,Women's,Slopestyle
+Winter,2014,Silver,USA,United States,Devin LOGAN,2014 Sochi,Freestyle Skiing,Women's,Slopestyle
+Winter,2014,Bronze,CAN,Canada,Kim LAMARRE,2014 Sochi,Freestyle Skiing,Women's,Slopestyle
+Winter,2014,Gold,CAN,Canada,"Patrice BERGERON, Dan HAMHUIS, Jamie BENN, Carey PRICE, Rick NASH, Patrick MARLEAU, Jeff CARTER, Alex PIETRANGELO, Mike SMITH, John TAVARES, Patrick SHARP, Shea WEBER, Duncan KEITH, Ryan GETZLAF, Pk SUBBAN, Martin ST-LOUIS, Matt DUCHENE, Jonathan TOEWS, Sidney CROSBY, Chris KUNITZ, Corey PERRY, Marc-Edouard VLASIC, Jay BOUWMEESTER, Roberto LUONGO, Drew DOUGHTY",2014 Sochi,Ice Hockey,Men's,ice hockey
+Winter,2014,Silver,SWE,Sweden,"Niklas HJALMARSSON, Alexander STEEN, Jonathan ERICSSON, Jimmie ERICSSON, Henrik TALLINDER, Johnny ODUYA, Carl HAGELIN, Henrik ZETTERBERG, Alexander EDLER, Niklas KRONWALL, Loui ERIKSSON, Henrik LUNDQVIST, Nicklas BACKSTROM, Daniel ALFREDSSON, Jakob SILFVERBERG, Marcus KRUGER, Patrik BERGLUND, Erik KARLSSON, Marcus JOHANSSON, Gabriel LANDESKOG, Gustav NYQUIST, Daniel SEDIN, Oliver EKMAN LARSSON, Jonas GUSTAVSSON, Jhonas ENROTH",2014 Sochi,Ice Hockey,Men's,ice hockey
+Winter,2014,Bronze,FIN,Finland,"Petri KONTIOLA, Jussi JOKINEN, Kari LEHTONEN, Juuso HIETANEN, Olli JOKINEN, Juhamatti AALTONEN, Tuukka RASK, Lauri KORPIKOSKI, Tuomo RUUTU, Antti PIHLSTROM, Teemu SELANNE, Sami LEPISTO, Sami SALO, Kimmo TIMONEN, Mikael GRANLUND, Sakari SALMINEN, Olli MAATTA, Aleksander BARKOV, Lasse KUKKONEN, Jarkko IMMONEN, Sami VATANEN, Antti NIEMI, Ossi VAANANEN, Leo KOMAROV, Jori LEHTERA",2014 Sochi,Ice Hockey,Men's,ice hockey
+Winter,2014,Gold,CAN,Canada,"Laura FORTINO, Haley IRWIN, Jocelyne LAROCQUE, Meghan AGOSTA, Melodie DAOUST, Marie-Philip POULIN, Tara WATCHORN, Lauriane ROUGEAU, Jennifer WAKEFIELD, Gillian APPS, Natalie SPOONER, Catherine WARD, Genevieve LACASSE, Caroline OUELLETTE, Meaghan MIKKELSON, Shannon SZABADOS, Brianne JENNER, Jayna HEFFORD, Hayley WICKENHEISER, Rebecca JOHNSTON, Charline LABONTE",2014 Sochi,Ice Hockey,Women's,ice hockey
+Winter,2014,Silver,USA,United States,"Megan BOZEK, Alex CARPENTER, Kacey BELLAMY, Julie CHU, Kelli STACK, Brianna DECKER, Jocelyne LAMOUREUX, Amanda KESSEL, Lyndsey FRY, Meghan DUGGAN, Kendall COYNE, Anne SCHLEPER, Hilary KNIGHT, Brianne MCLAUGHLIN, Michelle PICARD, Josephine PUCCI, Molly SCHAUS, Jessie VETTER, Lee STECKLEIN, Gigi MARVIN, Monique LAMOUREUX",2014 Sochi,Ice Hockey,Women's,ice hockey
+Winter,2014,Bronze,SUI,Switzerland,"Phoebe STAENZ, Sara BENZ, Florence SCHELLING, Evelina RASELLI, Romy EGGIMANN, Jessica LUTZ, Alina MULLER, Sophie ANTHAMATTEN, Julia MARTY, Nicole BULLO, Lara STALDER, Nina WAIDACHER, Angela FRAUTSCHI, Laura BENZ, Sandra THALMANN, Livia ALTMANN, Stefanie MARTY, Katrin NABHOLZ, Sarah FORSTER, Anja STIEFEL, Janine ALDER",2014 Sochi,Ice Hockey,Women's,ice hockey
+Winter,2014,Gold,GER,Germany,Felix LOCH,2014 Sochi,Luge,Men's,singles
+Winter,2014,Silver,RUS,Russian Federation,Albert DEMTSCHENKO,2014 Sochi,Luge,Men's,singles
+Winter,2014,Bronze,ITA,Italy,Armin ZÖGGELER,2014 Sochi,Luge,Men's,singles
+Winter,2014,Gold,GER,Germany,Natalie GEISENBERGER,2014 Sochi,Luge,Women's,singles
+Winter,2014,Silver,GER,Germany,Tatjana HUEFNER,2014 Sochi,Luge,Women's,singles
+Winter,2014,Bronze,USA,United States,Erin HAMLIN,2014 Sochi,Luge,Women's,singles
+Winter,2014,Gold,GER,Germany,"Tobias ARLT, Tobias WENDL",2014 Sochi,Luge,Mixed,doubles
+Winter,2014,Silver,AUT,Austria,"Wolfgang LINGER, Andreas LINGER",2014 Sochi,Luge,Mixed,doubles
+Winter,2014,Bronze,LAT,Latvia,"Juris SICS, Andris SICS",2014 Sochi,Luge,Mixed,doubles
+Winter,2014,Gold,GER,Germany,"Tobias ARLT, Natalie GEISENBERGER, Felix LOCH, Tobias WENDL",2014 Sochi,Luge,Mixed,team relay
+Winter,2014,Silver,RUS,Russian Federation,"Vladislav ANTONOV, Tatiana IVANOVA, Alexander DENISYEV, Albert DEMTSCHENKO",2014 Sochi,Luge,Mixed,team relay
+Winter,2014,Bronze,LAT,Latvia,"Eliza TIRUMA, Martins RUBENIS, Juris SICS, Andris SICS",2014 Sochi,Luge,Mixed,team relay
+Winter,2014,Gold,GER,Germany,Eric FRENZEL,2014 Sochi,Nordic Combined,Men's,individual
+Winter,2014,Silver,JPN,Japan,Akito WATABE,2014 Sochi,Nordic Combined,Men's,individual
+Winter,2014,Bronze,NOR,Norway,Magnus KROG,2014 Sochi,Nordic Combined,Men's,individual
+Winter,2014,Gold,NOR,Norway,Joergen GRAABAK,2014 Sochi,Nordic Combined,Men's,Large Hill individual
+Winter,2014,Silver,NOR,Norway,Magnus Hovdal MOAN,2014 Sochi,Nordic Combined,Men's,Large Hill individual
+Winter,2014,Bronze,GER,Germany,Fabian RIESSLE,2014 Sochi,Nordic Combined,Men's,Large Hill individual
+Winter,2014,Gold,NOR,Norway,"Magnus Hovdal MOAN, Magnus KROG, Haavard KLEMETSEN, Joergen GRAABAK",2014 Sochi,Nordic Combined,Men's,team
+Winter,2014,Silver,GER,Germany,"Bjoern KIRCHEISEN, Johannes RYDZEK, Fabian RIESSLE, Eric FRENZEL",2014 Sochi,Nordic Combined,Men's,team
+Winter,2014,Bronze,AUT,Austria,"Christoph BIELER, Lukas KLAPFER, Bernhard GRUBER, Mario STECHER",2014 Sochi,Nordic Combined,Men's,team
+Winter,2014,Gold,RUS,Russian Federation,Victor AN,2014 Sochi,Short Track Speed Skating,Men's,500m
+Winter,2014,Silver,CHN,China,Dajing WU,2014 Sochi,Short Track Speed Skating,Men's,500m
+Winter,2014,Bronze,CAN,Canada,Charle COURNOYER,2014 Sochi,Short Track Speed Skating,Men's,500m
+Winter,2014,Gold,RUS,Russian Federation,Victor AN,2014 Sochi,Short Track Speed Skating,Men's,1000m
+Winter,2014,Silver,RUS,Russian Federation,Vladimir GRIGOREV,2014 Sochi,Short Track Speed Skating,Men's,1000m
+Winter,2014,Bronze,NED,Netherlands,Sjinkie KNEGT,2014 Sochi,Short Track Speed Skating,Men's,1000m
+Winter,2014,Gold,CAN,Canada,Charles HAMELIN,2014 Sochi,Short Track Speed Skating,Men's,1500m
+Winter,2014,Silver,CHN,China,Tianyu HAN,2014 Sochi,Short Track Speed Skating,Men's,1500m
+Winter,2014,Bronze,RUS,Russian Federation,Victor AN,2014 Sochi,Short Track Speed Skating,Men's,1500m
+Winter,2014,Gold,RUS,Russian Federation,"Victor AN, Semion ELISTRATOV, Vladimir GRIGOREV, Ruslan ZAKHAROV",2014 Sochi,Short Track Speed Skating,Men's,5000m relay
+Winter,2014,Silver,USA,United States,"Chris CREVELING, Eduardo ALVAREZ, Jordan MALONE, J.R. CELSKI",2014 Sochi,Short Track Speed Skating,Men's,5000m relay
+Winter,2014,Bronze,CHN,China,"Tianyu HAN, Dequan CHEN, Dajing WU, Jingnan SHI",2014 Sochi,Short Track Speed Skating,Men's,5000m relay
+Winter,2014,Gold,CHN,China,Jianrou LI,2014 Sochi,Short Track Speed Skating,Women's,500m
+Winter,2014,Silver,ITA,Italy,Arianna FONTANA,2014 Sochi,Short Track Speed Skating,Women's,500m
+Winter,2014,Bronze,KOR,Korea Republic,Seung-Hi PARK,2014 Sochi,Short Track Speed Skating,Women's,500m
+Winter,2014,Gold,KOR,Korea Republic,Seung-Hi PARK,2014 Sochi,Short Track Speed Skating,Women's,1000m
+Winter,2014,Silver,CHN,China,Kexin FAN,2014 Sochi,Short Track Speed Skating,Women's,1000m
+Winter,2014,Bronze,KOR,Korea Republic,Suk Hee SHIM,2014 Sochi,Short Track Speed Skating,Women's,1000m
+Winter,2014,Gold,CHN,China,Yang ZHOU,2014 Sochi,Short Track Speed Skating,Women's,1500m
+Winter,2014,Silver,KOR,Korea Republic,Suk Hee SHIM,2014 Sochi,Short Track Speed Skating,Women's,1500m
+Winter,2014,Bronze,ITA,Italy,Arianna FONTANA,2014 Sochi,Short Track Speed Skating,Women's,1500m
+Winter,2014,Gold,KOR,Korea Republic,"Seung-Hi PARK, Ha-Ri CHO, Alang KIM, Sangjeong KONG, Suk Hee SHIM",2014 Sochi,Short Track Speed Skating,Women's,3000m relay
+Winter,2014,Silver,CAN,Canada,"Valerie MALTAIS, Marie-Eve DROLET, Jessica HEWITT, Marianne ST-GELAIS",2014 Sochi,Short Track Speed Skating,Women's,3000m relay
+Winter,2014,Bronze,ITA,Italy,"Lucia PERETTI, Elena VIVIANI, Arianna FONTANA, Martina VALCEPINA",2014 Sochi,Short Track Speed Skating,Women's,3000m relay
+Winter,2014,Gold,RUS,Russian Federation,Alexander TRETIAKOV,2014 Sochi,Skeleton,Men's,individual
+Winter,2014,Silver,LAT,Latvia,Martins DUKURS,2014 Sochi,Skeleton,Men's,individual
+Winter,2014,Bronze,USA,United States,Matthew ANTOINE,2014 Sochi,Skeleton,Men's,individual
+Winter,2014,Gold,GBR,Great Britain,Elizabeth YARNOLD,2014 Sochi,Skeleton,Women's,individual
+Winter,2014,Silver,USA,United States,Noelle PIKUS-PACE,2014 Sochi,Skeleton,Women's,individual
+Winter,2014,Bronze,RUS,Russian Federation,Elena NIKITINA,2014 Sochi,Skeleton,Women's,individual
+Winter,2014,Gold,POL,Poland,Kamil STOCH,2014 Sochi,Ski Jumping,Men's,Normal Hill individual
+Winter,2014,Silver,SLO,Slovenia,Peter PREVC,2014 Sochi,Ski Jumping,Men's,Normal Hill individual
+Winter,2014,Bronze,NOR,Norway,Anders BARDAL,2014 Sochi,Ski Jumping,Men's,Normal Hill individual
+Winter,2014,Gold,POL,Poland,Kamil STOCH,2014 Sochi,Ski Jumping,Men's,Large Hill individual
+Winter,2014,Silver,JPN,Japan,Noriaki KASAI,2014 Sochi,Ski Jumping,Men's,Large Hill individual
+Winter,2014,Bronze,SLO,Slovenia,Peter PREVC,2014 Sochi,Ski Jumping,Men's,Large Hill individual
+Winter,2014,Gold,GER,Germany,"Severin FREUND, Andreas WANK, Marinus KRAUS, Andreas WELLINGER",2014 Sochi,Ski Jumping,Men's,Large Hill team
+Winter,2014,Silver,AUT,Austria,"Michael HAYBOECK, Gregor SCHLIERENZAUER, Thomas MORGENSTERN, Thomas DIETHART",2014 Sochi,Ski Jumping,Men's,Large Hill team
+Winter,2014,Bronze,JPN,Japan,"Daiki ITO, Reruhi SHIMIZU, Noriaki KASAI, Taku TAKEUCHI",2014 Sochi,Ski Jumping,Men's,Large Hill team
+Winter,2014,Gold,GER,Germany,Carina VOGT,2014 Sochi,Ski Jumping,Women's,Normal Hill individual
+Winter,2014,Silver,AUT,Austria,Daniela IRASCHKO-STOLZ,2014 Sochi,Ski Jumping,Women's,Normal Hill individual
+Winter,2014,Bronze,FRA,France,Coline MATTEL,2014 Sochi,Ski Jumping,Women's,Normal Hill individual
+Winter,2014,Gold,RUS,Russian Federation,Vic WILD,2014 Sochi,Snowboard,Men's,Giant parallel slalom
+Winter,2014,Silver,SUI,Switzerland,Nevin GALMARINI,2014 Sochi,Snowboard,Men's,Giant parallel slalom
+Winter,2014,Bronze,SLO,Slovenia,Zan KOSIR,2014 Sochi,Snowboard,Men's,Giant parallel slalom
+Winter,2014,Gold,RUS,Russian Federation,Vic WILD,2014 Sochi,Snowboard,Men's,parallel slalom
+Winter,2014,Silver,SLO,Slovenia,Zan KOSIR,2014 Sochi,Snowboard,Men's,parallel slalom
+Winter,2014,Bronze,AUT,Austria,Benjamin KARL,2014 Sochi,Snowboard,Men's,parallel slalom
+Winter,2014,Gold,SUI,Switzerland,Iouri PODLADTCHIKOV,2014 Sochi,Snowboard,Men's,Half-pipe
+Winter,2014,Silver,JPN,Japan,Ayumu HIRANO,2014 Sochi,Snowboard,Men's,Half-pipe
+Winter,2014,Bronze,JPN,Japan,Taku HIRAOKA,2014 Sochi,Snowboard,Men's,Half-pipe
+Winter,2014,Gold,USA,United States,Sage KOTSENBURG,2014 Sochi,Snowboard,Men's,Slopestyle
+Winter,2014,Silver,NOR,Norway,Staale SANDBECH,2014 Sochi,Snowboard,Men's,Slopestyle
+Winter,2014,Bronze,CAN,Canada,Mark MCMORRIS,2014 Sochi,Snowboard,Men's,Slopestyle
+Winter,2014,Gold,FRA,France,Pierre VAULTIER,2014 Sochi,Snowboard,Men's,Snowboard Cross
+Winter,2014,Silver,RUS,Russian Federation,Nikolay OLYUNIN,2014 Sochi,Snowboard,Men's,Snowboard Cross
+Winter,2014,Bronze,USA,United States,Alex DEIBOLD,2014 Sochi,Snowboard,Men's,Snowboard Cross
+Winter,2014,Gold,SUI,Switzerland,Patrizia KUMMER,2014 Sochi,Snowboard,Women's,Giant parallel slalom
+Winter,2014,Silver,JPN,Japan,Tomoka TAKEUCHI,2014 Sochi,Snowboard,Women's,Giant parallel slalom
+Winter,2014,Bronze,RUS,Russian Federation,Alena ZAVARZINA,2014 Sochi,Snowboard,Women's,Giant parallel slalom
+Winter,2014,Gold,AUT,Austria,Julia DUJMOVITS,2014 Sochi,Snowboard,Women's,parallel slalom
+Winter,2014,Silver,GER,Germany,Anke KARSTENS,2014 Sochi,Snowboard,Women's,parallel slalom
+Winter,2014,Bronze,GER,Germany,Amelie KOBER,2014 Sochi,Snowboard,Women's,parallel slalom
+Winter,2014,Gold,USA,United States,Kaitlyn FARRINGTON,2014 Sochi,Snowboard,Women's,Half-pipe
+Winter,2014,Silver,AUS,Australia,Torah BRIGHT,2014 Sochi,Snowboard,Women's,Half-pipe
+Winter,2014,Bronze,USA,United States,Kelly CLARK,2014 Sochi,Snowboard,Women's,Half-pipe
+Winter,2014,Gold,USA,United States,Jamie ANDERSON,2014 Sochi,Snowboard,Women's,Slopestyle
+Winter,2014,Silver,FIN,Finland,Enni RUKAJARVI,2014 Sochi,Snowboard,Women's,Slopestyle
+Winter,2014,Bronze,GBR,Great Britain,Jenny JONES,2014 Sochi,Snowboard,Women's,Slopestyle
+Winter,2014,Gold,CZE,Czech Republic,Eva SAMKOVA,2014 Sochi,Snowboard,Women's,Snowboard Cross
+Winter,2014,Silver,CAN,Canada,Dominique MALTAIS,2014 Sochi,Snowboard,Women's,Snowboard Cross
+Winter,2014,Bronze,FRA,France,Chloe TRESPEUCH,2014 Sochi,Snowboard,Women's,Snowboard Cross
+Winter,2014,Gold,NED,Netherlands,Michel MULDER,2014 Sochi,Speed skating,Men's,2x500m
+Winter,2014,Silver,NED,Netherlands,Jan SMEEKENS,2014 Sochi,Speed skating,Men's,2x500m
+Winter,2014,Bronze,NED,Netherlands,Ronald MULDER,2014 Sochi,Speed skating,Men's,2x500m
+Winter,2014,Gold,NED,Netherlands,Stefan GROOTHUIS,2014 Sochi,Speed skating,Men's,1000m
+Winter,2014,Silver,CAN,Canada,Denny MORRISON,2014 Sochi,Speed skating,Men's,1000m
+Winter,2014,Bronze,NED,Netherlands,Michel MULDER,2014 Sochi,Speed skating,Men's,1000m
+Winter,2014,Gold,POL,Poland,Zbigniew BRODKA,2014 Sochi,Speed skating,Men's,1500m
+Winter,2014,Silver,NED,Netherlands,Koen VERWEIJ,2014 Sochi,Speed skating,Men's,1500m
+Winter,2014,Bronze,CAN,Canada,Denny MORRISON,2014 Sochi,Speed skating,Men's,1500m
+Winter,2014,Gold,NED,Netherlands,Sven KRAMER,2014 Sochi,Speed skating,Men's,5000m
+Winter,2014,Silver,NED,Netherlands,Jan BLOKHUIJSEN,2014 Sochi,Speed skating,Men's,5000m
+Winter,2014,Bronze,NED,Netherlands,Jorrit BERGSMA,2014 Sochi,Speed skating,Men's,5000m
+Winter,2014,Gold,NED,Netherlands,Jorrit BERGSMA,2014 Sochi,Speed skating,Men's,10000m
+Winter,2014,Silver,NED,Netherlands,Sven KRAMER,2014 Sochi,Speed skating,Men's,10000m
+Winter,2014,Bronze,NED,Netherlands,Bob DE JONG,2014 Sochi,Speed skating,Men's,10000m
+Winter,2014,Gold,NED,Netherlands,"Koen VERWEIJ, Sven KRAMER, Jan BLOKHUIJSEN",2014 Sochi,Speed skating,Men's,Team pursuit
+Winter,2014,Silver,KOR,Korea Republic,"Seung Hoon LEE, Hyong Jun JOO, Cheol Min KIM",2014 Sochi,Speed skating,Men's,Team pursuit
+Winter,2014,Bronze,POL,Poland,"Jan SZYMANSKI, Zbigniew BRODKA, Konrad NIEDZWIEDZKI",2014 Sochi,Speed skating,Men's,Team pursuit
+Winter,2014,Gold,KOR,Korea Republic,Sang Hwa LEE,2014 Sochi,Speed skating,Women's,2x500m
+Winter,2014,Silver,RUS,Russian Federation,Olga FATKULINA,2014 Sochi,Speed skating,Women's,2x500m
+Winter,2014,Bronze,NED,Netherlands,Margot BOER,2014 Sochi,Speed skating,Women's,2x500m
+Winter,2014,Gold,CHN,China,Hong ZHANG,2014 Sochi,Speed skating,Women's,1000m
+Winter,2014,Silver,NED,Netherlands,Ireen WÜST,2014 Sochi,Speed skating,Women's,1000m
+Winter,2014,Bronze,NED,Netherlands,Margot BOER,2014 Sochi,Speed skating,Women's,1000m
+Winter,2014,Gold,NED,Netherlands,Jorien TER MORS,2014 Sochi,Speed skating,Women's,1500m
+Winter,2014,Silver,NED,Netherlands,Ireen WÜST,2014 Sochi,Speed skating,Women's,1500m
+Winter,2014,Bronze,NED,Netherlands,Lotte van BEEK,2014 Sochi,Speed skating,Women's,1500m
+Winter,2014,Gold,NED,Netherlands,Ireen WÜST,2014 Sochi,Speed skating,Women's,3000m
+Winter,2014,Silver,CZE,Czech Republic,Martina SABLIKOVA,2014 Sochi,Speed skating,Women's,3000m
+Winter,2014,Bronze,RUS,Russian Federation,Olga GRAF,2014 Sochi,Speed skating,Women's,3000m
+Winter,2014,Gold,CZE,Czech Republic,Martina SABLIKOVA,2014 Sochi,Speed skating,Women's,5000m
+Winter,2014,Silver,NED,Netherlands,Ireen WÜST,2014 Sochi,Speed skating,Women's,5000m
+Winter,2014,Bronze,NED,Netherlands,Carien KLEIBEUKER,2014 Sochi,Speed skating,Women's,5000m
+Winter,2014,Gold,NED,Netherlands,"Lotte van BEEK, Ireen WÜST, Jorien TER MORS, Marrit LEENSTRA",2014 Sochi,Speed skating,Women's,Team pursuit
+Winter,2014,Silver,POL,Poland,"Natalia CZERWONKA, Katarzyna WOZNIAK, Katarzyna BACHLEDA-CURUS, Luiza ZLOTKOWSKA",2014 Sochi,Speed skating,Women's,Team pursuit
+Winter,2014,Bronze,RUS,Russian Federation,"Olga GRAF, Yekaterina SHIKHOVA, Yuliya SKOKOVA, Yekaterina LOBYSHEVA",2014 Sochi,Speed skating,Women's,Team pursuit

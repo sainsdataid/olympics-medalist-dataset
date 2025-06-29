@@ -1,0 +1,118 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1984,Gold,USA,United States,Phillip MAHRE,1984 Sarajevo,Alpine Skiing,Men's,slalom
+Winter,1984,Silver,USA,United States,Steven MAHRE,1984 Sarajevo,Alpine Skiing,Men's,slalom
+Winter,1984,Bronze,FRA,France,Didier BOUVET,1984 Sarajevo,Alpine Skiing,Men's,slalom
+Winter,1984,Gold,SUI,Switzerland,Max JULEN,1984 Sarajevo,Alpine Skiing,Men's,giant slalom
+Winter,1984,Silver,YUG,Yugoslavia,Jure FRANKO,1984 Sarajevo,Alpine Skiing,Men's,giant slalom
+Winter,1984,Bronze,LIE,Liechtenstein,Andreas WENZEL,1984 Sarajevo,Alpine Skiing,Men's,giant slalom
+Winter,1984,Gold,USA,United States,William JOHNSON,1984 Sarajevo,Alpine Skiing,Men's,downhill
+Winter,1984,Silver,SUI,Switzerland,Peter MÜLLER,1984 Sarajevo,Alpine Skiing,Men's,downhill
+Winter,1984,Bronze,AUT,Austria,Anton STEINER,1984 Sarajevo,Alpine Skiing,Men's,downhill
+Winter,1984,Gold,ITA,Italy,Paoletta MAGONI,1984 Sarajevo,Alpine Skiing,Women's,slalom
+Winter,1984,Silver,FRA,France,Perrine PELEN,1984 Sarajevo,Alpine Skiing,Women's,slalom
+Winter,1984,Bronze,LIE,Liechtenstein,Ursula KONZETT,1984 Sarajevo,Alpine Skiing,Women's,slalom
+Winter,1984,Gold,USA,United States,Debbie ARMSTRONG,1984 Sarajevo,Alpine Skiing,Women's,giant slalom
+Winter,1984,Silver,USA,United States,Christin COOPER,1984 Sarajevo,Alpine Skiing,Women's,giant slalom
+Winter,1984,Bronze,FRA,France,Perrine PELEN,1984 Sarajevo,Alpine Skiing,Women's,giant slalom
+Winter,1984,Gold,SUI,Switzerland,Michela FIGINI,1984 Sarajevo,Alpine Skiing,Women's,downhill
+Winter,1984,Silver,SUI,Switzerland,Maria WALLISER,1984 Sarajevo,Alpine Skiing,Women's,downhill
+Winter,1984,Bronze,TCH,Czechoslovakia,Olga CHARVATOVA,1984 Sarajevo,Alpine Skiing,Women's,downhill
+Winter,1984,Gold,NOR,Norway,Eirik KVALFOSS,1984 Sarajevo,Biathlon,Men's,10km sprint
+Winter,1984,Silver,FRG,Federal Republic of Germany,Peter ANGERER,1984 Sarajevo,Biathlon,Men's,10km sprint
+Winter,1984,Bronze,GDR,German Democratic Republic,Matthias JACOB,1984 Sarajevo,Biathlon,Men's,10km sprint
+Winter,1984,Gold,FRG,Federal Republic of Germany,Peter ANGERER,1984 Sarajevo,Biathlon,Men's,20km individual
+Winter,1984,Silver,GDR,German Democratic Republic,Frank-Peter ROETSCH,1984 Sarajevo,Biathlon,Men's,20km individual
+Winter,1984,Bronze,NOR,Norway,Eirik KVALFOSS,1984 Sarajevo,Biathlon,Men's,20km individual
+Winter,1984,Gold,URS,USSR,"Dmitri VASSILIEV, Alguimantas SHALNA, Yuri KACHKAROV, Sergei BULIGINE",1984 Sarajevo,Biathlon,Men's,4x7.5km relay
+Winter,1984,Silver,NOR,Norway,"Odd LIRHUS, Rolf STORSVEEN, Eirik KVALFOSS, Kjell SÖBAK",1984 Sarajevo,Biathlon,Men's,4x7.5km relay
+Winter,1984,Bronze,FRG,Federal Republic of Germany,"Ernst REITER, Peter ANGERER, Walter PICHLER, Fritz FISCHER",1984 Sarajevo,Biathlon,Men's,4x7.5km relay
+Winter,1984,Gold,GDR,German Democratic Republic,"Wolfgang HOPPE, Dietmar SCHAUERHAMMER",1984 Sarajevo,Bobsleigh,Men's,two-man
+Winter,1984,Silver,GDR,German Democratic Republic,"Bernhard LEHMANN, Bogdan MUSIOL",1984 Sarajevo,Bobsleigh,Men's,two-man
+Winter,1984,Bronze,URS,USSR,"Zintis EKMANIS, Vladimir ALEKSANDROV",1984 Sarajevo,Bobsleigh,Men's,two-man
+Winter,1984,Gold,GDR,German Democratic Republic,"Wolfgang HOPPE, Dietmar SCHAUERHAMMER, Roland WETZIG, Andreas KIRCHNER",1984 Sarajevo,Bobsleigh,Men's,four-man
+Winter,1984,Silver,GDR,German Democratic Republic,"Bernhard LEHMANN, Ingo VOGE, Bogdan MUSIOL, Eberhard WEISE",1984 Sarajevo,Bobsleigh,Men's,four-man
+Winter,1984,Bronze,SUI,Switzerland,"Silvio GIOBELLINA, Urs SALZMANN, Heinz STETTLER, Rico FREIERMUTH",1984 Sarajevo,Bobsleigh,Men's,four-man
+Winter,1984,Gold,SWE,Sweden,Gunde Anders SVAN,1984 Sarajevo,Cross Country Skiing,Men's,15km
+Winter,1984,Silver,FIN,Finland,Aki KARVONEN,1984 Sarajevo,Cross Country Skiing,Men's,15km
+Winter,1984,Bronze,FIN,Finland,Harri KIRVESNIEMI,1984 Sarajevo,Cross Country Skiing,Men's,15km
+Winter,1984,Gold,URS,USSR,Nikolay ZIMYATOV,1984 Sarajevo,Cross Country Skiing,Men's,30km
+Winter,1984,Silver,URS,USSR,Aleksandr ZAVYALOV,1984 Sarajevo,Cross Country Skiing,Men's,30km
+Winter,1984,Bronze,SWE,Sweden,Gunde Anders SVAN,1984 Sarajevo,Cross Country Skiing,Men's,30km
+Winter,1984,Gold,SWE,Sweden,Thomas WASSBERG,1984 Sarajevo,Cross Country Skiing,Men's,50km
+Winter,1984,Silver,SWE,Sweden,Gunde Anders SVAN,1984 Sarajevo,Cross Country Skiing,Men's,50km
+Winter,1984,Bronze,FIN,Finland,Aki KARVONEN,1984 Sarajevo,Cross Country Skiing,Men's,50km
+Winter,1984,Gold,SWE,Sweden,"Thomas WASSBERG, Jan OTTOSSON, Benny Tord KOHLBERG, Gunde Anders SVAN",1984 Sarajevo,Cross Country Skiing,Men's,4x10km relay
+Winter,1984,Silver,URS,USSR,"Aleksandr BATIUK, Vladimir NIKITINE, Aleksandr ZAVYALOV, Nikolay ZIMYATOV",1984 Sarajevo,Cross Country Skiing,Men's,4x10km relay
+Winter,1984,Bronze,FIN,Finland,"Kari RISTANEN, Harri KIRVESNIEMI, Juha MIETO, Aki KARVONEN",1984 Sarajevo,Cross Country Skiing,Men's,4x10km relay
+Winter,1984,Gold,FIN,Finland,Marja-Liisa KIRVESNIEMI,1984 Sarajevo,Cross Country Skiing,Women's,5km
+Winter,1984,Silver,NOR,Norway,Berit AUNLI,1984 Sarajevo,Cross Country Skiing,Women's,5km
+Winter,1984,Bronze,TCH,Czechoslovakia,Kvetoslava JERIOVA,1984 Sarajevo,Cross Country Skiing,Women's,5km
+Winter,1984,Gold,FIN,Finland,Marja-Liisa KIRVESNIEMI,1984 Sarajevo,Cross Country Skiing,Women's,10km
+Winter,1984,Silver,URS,USSR,Raisa SMETANINA,1984 Sarajevo,Cross Country Skiing,Women's,10km
+Winter,1984,Bronze,NOR,Norway,Brit PETTERSEN,1984 Sarajevo,Cross Country Skiing,Women's,10km
+Winter,1984,Gold,FIN,Finland,Marja-Liisa KIRVESNIEMI,1984 Sarajevo,Cross Country Skiing,Women's,20km
+Winter,1984,Silver,URS,USSR,Raisa SMETANINA,1984 Sarajevo,Cross Country Skiing,Women's,20km
+Winter,1984,Bronze,NOR,Norway,Anne JAHREN,1984 Sarajevo,Cross Country Skiing,Women's,20km
+Winter,1984,Gold,NOR,Norway,"Anne JAHREN, Berit AUNLI, Inger Helene NYBRAATEN, Brit PETTERSEN",1984 Sarajevo,Cross Country Skiing,Women's,4x5km relay
+Winter,1984,Silver,TCH,Czechoslovakia,"Blanka PAULU, Kvetoslava JERIOVA, Dagmar SCHVUBOVA, Gabriela SVOBODOVA",1984 Sarajevo,Cross Country Skiing,Women's,4x5km relay
+Winter,1984,Bronze,FIN,Finland,"Marjo MATIKAINEN, Eija HYYTIAINEN, Marja-Liisa KIRVESNIEMI, Pirkko MÄÄTTÄ",1984 Sarajevo,Cross Country Skiing,Women's,4x5km relay
+Winter,1984,Gold,USA,United States,Scott HAMILTON,1984 Sarajevo,Figure skating,Men's,individual
+Winter,1984,Silver,CAN,Canada,Brian ORSER,1984 Sarajevo,Figure skating,Men's,individual
+Winter,1984,Bronze,TCH,Czechoslovakia,Josef SABOVCIK,1984 Sarajevo,Figure skating,Men's,individual
+Winter,1984,Gold,GDR,German Democratic Republic,Katarina WITT,1984 Sarajevo,Figure skating,Women's,individual
+Winter,1984,Silver,USA,United States,Rosalyn SUMNERS,1984 Sarajevo,Figure skating,Women's,individual
+Winter,1984,Bronze,URS,USSR,Kira IVANOVA,1984 Sarajevo,Figure skating,Women's,individual
+Winter,1984,Gold,URS,USSR,"Yelena VALOVA, Oleg VASILYEV",1984 Sarajevo,Figure skating,Mixed,pairs
+Winter,1984,Silver,USA,United States,"Kitty CARRUTHERS, Peter CARRUTHERS",1984 Sarajevo,Figure skating,Mixed,pairs
+Winter,1984,Bronze,URS,USSR,"Larisa SELEZNYOVA, Oleg MAKAROV",1984 Sarajevo,Figure skating,Mixed,pairs
+Winter,1984,Gold,GBR,Great Britain,"Jayne TORVILL, Christopher DEAN",1984 Sarajevo,Figure skating,Mixed,ice dancing
+Winter,1984,Silver,URS,USSR,"Natalya BESTEMYANOVA, Andrey BUKIN",1984 Sarajevo,Figure skating,Mixed,ice dancing
+Winter,1984,Bronze,URS,USSR,"Marina KLIMOVA, Sergey PONOMARENKO",1984 Sarajevo,Figure skating,Mixed,ice dancing
+Winter,1984,Gold,URS,USSR,"Zinetula BILJALETDINOV, Nikolai DROZDETSKI, Igor STELNOV, Mikhail VASSILIEV, Sergei MAKAROV, Vasili PERVUKHINE, Sergei STARIKOV, Aleksei KASATONOV, Vladimir KOVIN, Vladimir KRUTOV, Vladislav TRETYAK, Sergei CHEPELEV, Viacheslav FETISOV, Viktor TUMENEV, Igor LARIONOV, Vladimir MYSHKIN, Aleksandr SKVORTSOV, Aleksandr GERASIMOV, Andrei KOMUTOV, Aleksandr KOZHERNIKOV",1984 Sarajevo,Ice Hockey,Men's,ice hockey
+Winter,1984,Silver,TCH,Czechoslovakia,"Jaroslav BENAK, Frantisek CERNIK, Jaromir SINDEL, Eduard UVIRA, Vincent LUKAC, Pavel RICHTER, Darius RUSNAK, Arnold KADLEC, Jiri KRALIK, Jiri LALA, Milan CHALUPA, Vladimir CALDR, Miloslav HORAVA, Radoslav SVOBODA, Igor LIBA, Dusan PASEK, Vladimir RUZICKA, Jiri HRDINA, Jaroslav KORBELA, Vladimir KYHOS",1984 Sarajevo,Ice Hockey,Men's,ice hockey
+Winter,1984,Bronze,SWE,Sweden,"Göte WÄLITALO, Jens ÖHLING, Thomas SANDSTROEM, Mats THELIN, Mats HESSEL, Göran LINDBLOM, Leif Haakan NORDIN, Per-Erik EKLUND, Bo ERICSSON, Arne Michael THELVEN, Rolf-Lennart RIDDERVALL, Thomas RUNDQVIST, Karl Haakan SÖDERGREN, Peter GRADIN, Peter Michael HJÄLM, Tommy MÖRTH, Thomas AAHLEN, Thomas EKLUND, Lars Haakan ERIKSSON, Mats WALTIN",1984 Sarajevo,Ice Hockey,Men's,ice hockey
+Winter,1984,Gold,ITA,Italy,Paul HILDGARTNER,1984 Sarajevo,Luge,Men's,singles
+Winter,1984,Silver,URS,USSR,Sergey DANILIN,1984 Sarajevo,Luge,Men's,singles
+Winter,1984,Bronze,URS,USSR,Valery DUDIN,1984 Sarajevo,Luge,Men's,singles
+Winter,1984,Gold,GDR,German Democratic Republic,Steffi WALTER,1984 Sarajevo,Luge,Women's,singles
+Winter,1984,Silver,GDR,German Democratic Republic,Bettina SCHMIDT,1984 Sarajevo,Luge,Women's,singles
+Winter,1984,Bronze,GDR,German Democratic Republic,Ute OBERHOFFNER,1984 Sarajevo,Luge,Women's,singles
+Winter,1984,Gold,FRG,Federal Republic of Germany,"Hans STANGASSINGER, Franz WEMBACHER",1984 Sarajevo,Luge,Mixed,doubles
+Winter,1984,Silver,URS,USSR,"Evgeni BELUSOV, Aleksandr BELIAKOV",1984 Sarajevo,Luge,Mixed,doubles
+Winter,1984,Bronze,GDR,German Democratic Republic,"Jochen PIETZSCH, Jörg HOFFMANN",1984 Sarajevo,Luge,Mixed,doubles
+Winter,1984,Gold,NOR,Norway,Tom SANDBERG,1984 Sarajevo,Nordic Combined,Men's,individual
+Winter,1984,Silver,FIN,Finland,Jouko KARJALAINEN,1984 Sarajevo,Nordic Combined,Men's,individual
+Winter,1984,Bronze,FIN,Finland,Jukka YLIPULLI,1984 Sarajevo,Nordic Combined,Men's,individual
+Winter,1984,Gold,GDR,German Democratic Republic,Jens WEISSFLOG,1984 Sarajevo,Ski Jumping,Men's,Normal Hill individual
+Winter,1984,Silver,FIN,Finland,Matti NYKANEN,1984 Sarajevo,Ski Jumping,Men's,Normal Hill individual
+Winter,1984,Bronze,FIN,Finland,Jari PUIKKONEN,1984 Sarajevo,Ski Jumping,Men's,Normal Hill individual
+Winter,1984,Gold,FIN,Finland,Matti NYKANEN,1984 Sarajevo,Ski Jumping,Men's,Large Hill individual
+Winter,1984,Silver,GDR,German Democratic Republic,Jens WEISSFLOG,1984 Sarajevo,Ski Jumping,Men's,Large Hill individual
+Winter,1984,Bronze,TCH,Czechoslovakia,Pavel PLOC,1984 Sarajevo,Ski Jumping,Men's,Large Hill individual
+Winter,1984,Gold,URS,USSR,Sergey FOKICHEV,1984 Sarajevo,Speed skating,Men's,500m
+Winter,1984,Silver,JPN,Japan,Yoshihiro KITAZAWA,1984 Sarajevo,Speed skating,Men's,500m
+Winter,1984,Bronze,CAN,Canada,Gaetan BOUCHER,1984 Sarajevo,Speed skating,Men's,500m
+Winter,1984,Gold,CAN,Canada,Gaetan BOUCHER,1984 Sarajevo,Speed skating,Men's,1000m
+Winter,1984,Silver,URS,USSR,Sergey KHLEBNIKOV,1984 Sarajevo,Speed skating,Men's,1000m
+Winter,1984,Bronze,NOR,Norway,Kai Arne ENGELSTAD,1984 Sarajevo,Speed skating,Men's,1000m
+Winter,1984,Gold,CAN,Canada,Gaetan BOUCHER,1984 Sarajevo,Speed skating,Men's,1500m
+Winter,1984,Silver,URS,USSR,Sergey KHLEBNIKOV,1984 Sarajevo,Speed skating,Men's,1500m
+Winter,1984,Bronze,URS,USSR,Oleg BOZHYEV,1984 Sarajevo,Speed skating,Men's,1500m
+Winter,1984,Gold,SWE,Sweden,Tomas GUSTAFSON,1984 Sarajevo,Speed skating,Men's,5000m
+Winter,1984,Silver,URS,USSR,Igor MALKOV,1984 Sarajevo,Speed skating,Men's,5000m
+Winter,1984,Bronze,GDR,German Democratic Republic,René SCHÖFISCH,1984 Sarajevo,Speed skating,Men's,5000m
+Winter,1984,Gold,URS,USSR,Igor MALKOV,1984 Sarajevo,Speed skating,Men's,10000m
+Winter,1984,Silver,SWE,Sweden,Tomas GUSTAFSON,1984 Sarajevo,Speed skating,Men's,10000m
+Winter,1984,Bronze,GDR,German Democratic Republic,René SCHÖFISCH,1984 Sarajevo,Speed skating,Men's,10000m
+Winter,1984,Gold,GDR,German Democratic Republic,Christa LUDING,1984 Sarajevo,Speed skating,Women's,500m
+Winter,1984,Silver,GDR,German Democratic Republic,Karin KANIA,1984 Sarajevo,Speed skating,Women's,500m
+Winter,1984,Bronze,URS,USSR,Natalya SHIVE,1984 Sarajevo,Speed skating,Women's,500m
+Winter,1984,Gold,GDR,German Democratic Republic,Karin KANIA,1984 Sarajevo,Speed skating,Women's,1000m
+Winter,1984,Silver,GDR,German Democratic Republic,Andrea EHRIG,1984 Sarajevo,Speed skating,Women's,1000m
+Winter,1984,Bronze,URS,USSR,Natalya PETRUSEVA,1984 Sarajevo,Speed skating,Women's,1000m
+Winter,1984,Gold,GDR,German Democratic Republic,Karin KANIA,1984 Sarajevo,Speed skating,Women's,1500m
+Winter,1984,Silver,GDR,German Democratic Republic,Andrea EHRIG,1984 Sarajevo,Speed skating,Women's,1500m
+Winter,1984,Bronze,URS,USSR,Natalya PETRUSEVA,1984 Sarajevo,Speed skating,Women's,1500m
+Winter,1984,Gold,GDR,German Democratic Republic,Andrea EHRIG,1984 Sarajevo,Speed skating,Women's,3000m
+Winter,1984,Silver,GDR,German Democratic Republic,Karin KANIA,1984 Sarajevo,Speed skating,Women's,3000m
+Winter,1984,Bronze,GDR,German Democratic Republic,Gabi ZANGE,1984 Sarajevo,Speed skating,Women's,3000m

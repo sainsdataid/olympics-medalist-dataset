@@ -1,0 +1,184 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1994,Gold,NOR,Norway,Lasse KJUS,1994 Lillehammer,Alpine Skiing,Men's,Alpine combined
+Winter,1994,Silver,NOR,Norway,Kjetil Andre AAMODT,1994 Lillehammer,Alpine Skiing,Men's,Alpine combined
+Winter,1994,Bronze,NOR,Norway,Harald Chr. STRAND NILSEN,1994 Lillehammer,Alpine Skiing,Men's,Alpine combined
+Winter,1994,Gold,AUT,Austria,Thomas STANGASSINGER,1994 Lillehammer,Alpine Skiing,Men's,slalom
+Winter,1994,Silver,ITA,Italy,Alberto TOMBA,1994 Lillehammer,Alpine Skiing,Men's,slalom
+Winter,1994,Bronze,SLO,Slovenia,Jure KOSIR,1994 Lillehammer,Alpine Skiing,Men's,slalom
+Winter,1994,Gold,GER,Germany,Markus WASMEIER,1994 Lillehammer,Alpine Skiing,Men's,giant slalom
+Winter,1994,Silver,SUI,Switzerland,Urs KAELIN,1994 Lillehammer,Alpine Skiing,Men's,giant slalom
+Winter,1994,Bronze,AUT,Austria,Christian MAYER,1994 Lillehammer,Alpine Skiing,Men's,giant slalom
+Winter,1994,Gold,GER,Germany,Markus WASMEIER,1994 Lillehammer,Alpine Skiing,Men's,super-G
+Winter,1994,Silver,USA,United States,Thomas MOE,1994 Lillehammer,Alpine Skiing,Men's,super-G
+Winter,1994,Bronze,NOR,Norway,Kjetil Andre AAMODT,1994 Lillehammer,Alpine Skiing,Men's,super-G
+Winter,1994,Gold,USA,United States,Thomas MOE,1994 Lillehammer,Alpine Skiing,Men's,downhill
+Winter,1994,Silver,NOR,Norway,Kjetil Andre AAMODT,1994 Lillehammer,Alpine Skiing,Men's,downhill
+Winter,1994,Bronze,CAN,Canada,Ed PODIVINSKY,1994 Lillehammer,Alpine Skiing,Men's,downhill
+Winter,1994,Gold,SWE,Sweden,Pernilla WIBERG,1994 Lillehammer,Alpine Skiing,Women's,Alpine combined
+Winter,1994,Silver,SUI,Switzerland,Vreni SCHNEIDER,1994 Lillehammer,Alpine Skiing,Women's,Alpine combined
+Winter,1994,Bronze,SLO,Slovenia,Alenka DOVZAN,1994 Lillehammer,Alpine Skiing,Women's,Alpine combined
+Winter,1994,Gold,SUI,Switzerland,Vreni SCHNEIDER,1994 Lillehammer,Alpine Skiing,Women's,slalom
+Winter,1994,Silver,AUT,Austria,Elfriede EDER,1994 Lillehammer,Alpine Skiing,Women's,slalom
+Winter,1994,Bronze,SLO,Slovenia,Katja KOREN,1994 Lillehammer,Alpine Skiing,Women's,slalom
+Winter,1994,Gold,ITA,Italy,Deborah COMPAGNONI,1994 Lillehammer,Alpine Skiing,Women's,giant slalom
+Winter,1994,Silver,GER,Germany,Martina ERTL,1994 Lillehammer,Alpine Skiing,Women's,giant slalom
+Winter,1994,Bronze,SUI,Switzerland,Vreni SCHNEIDER,1994 Lillehammer,Alpine Skiing,Women's,giant slalom
+Winter,1994,Gold,USA,United States,Diann ROFFE,1994 Lillehammer,Alpine Skiing,Women's,super-G
+Winter,1994,Silver,RUS,Russian Federation,Svetlana GLADISHEVA,1994 Lillehammer,Alpine Skiing,Women's,super-G
+Winter,1994,Bronze,ITA,Italy,Isolde KOSTNER,1994 Lillehammer,Alpine Skiing,Women's,super-G
+Winter,1994,Gold,GER,Germany,Katja SEIZINGER,1994 Lillehammer,Alpine Skiing,Women's,downhill
+Winter,1994,Silver,USA,United States,Picabo STREET,1994 Lillehammer,Alpine Skiing,Women's,downhill
+Winter,1994,Bronze,ITA,Italy,Isolde KOSTNER,1994 Lillehammer,Alpine Skiing,Women's,downhill
+Winter,1994,Gold,RUS,Russian Federation,Sergei TCHEPIKOV,1994 Lillehammer,Biathlon,Men's,10km sprint
+Winter,1994,Silver,GER,Germany,Ricco GROSS,1994 Lillehammer,Biathlon,Men's,10km sprint
+Winter,1994,Bronze,RUS,Russian Federation,Sergei TARASOV,1994 Lillehammer,Biathlon,Men's,10km sprint
+Winter,1994,Gold,RUS,Russian Federation,Sergei TARASOV,1994 Lillehammer,Biathlon,Men's,20km individual
+Winter,1994,Silver,GER,Germany,Frank LUCK,1994 Lillehammer,Biathlon,Men's,20km individual
+Winter,1994,Bronze,GER,Germany,Sven FISCHER,1994 Lillehammer,Biathlon,Men's,20km individual
+Winter,1994,Gold,GER,Germany,"Ricco GROSS, Mark KIRCHNER, Frank LUCK, Sven FISCHER",1994 Lillehammer,Biathlon,Men's,4x7.5km relay
+Winter,1994,Silver,RUS,Russian Federation,"Sergei TARASOV, Valeri KIRIENKO, Sergei TCHEPIKOV, Vladimir DRATSCHEV",1994 Lillehammer,Biathlon,Men's,4x7.5km relay
+Winter,1994,Bronze,FRA,France,"Thierry DUSSERRE, Lionel LAURENT, Patrice BAILLY-SALINS, Hervé FLANDIN",1994 Lillehammer,Biathlon,Men's,4x7.5km relay
+Winter,1994,Gold,CAN,Canada,Myriam BEDARD,1994 Lillehammer,Biathlon,Women's,7.5km sprint
+Winter,1994,Silver,BLR,Belarus,Svetlana PARAMYGINA,1994 Lillehammer,Biathlon,Women's,7.5km sprint
+Winter,1994,Bronze,UKR,Ukraine,Valentyna TSERBE-NESSINA,1994 Lillehammer,Biathlon,Women's,7.5km sprint
+Winter,1994,Gold,CAN,Canada,Myriam BEDARD,1994 Lillehammer,Biathlon,Women's,15km individual
+Winter,1994,Silver,FRA,France,Anne BRIAND BOUTHIAUX,1994 Lillehammer,Biathlon,Women's,15km individual
+Winter,1994,Bronze,GER,Germany,Uschi DISL,1994 Lillehammer,Biathlon,Women's,15km individual
+Winter,1994,Gold,RUS,Russian Federation,"Natalia SNYTINA, Anfisa REZTSOVA, Nadejda TALANOVA, Louiza NOSKOVA",1994 Lillehammer,Biathlon,Women's,4x7.5km relay
+Winter,1994,Silver,GER,Germany,"Petra SCHAAF, Antje HARVEY, Simone GREINER-PETTER-MEMM, Uschi DISL",1994 Lillehammer,Biathlon,Women's,4x7.5km relay
+Winter,1994,Bronze,FRA,France,"Véronique CLAUDEL, Anne BRIAND BOUTHIAUX, Corinne NIOGRET, Delphyne BURLET",1994 Lillehammer,Biathlon,Women's,4x7.5km relay
+Winter,1994,Gold,SUI,Switzerland,"Gustav WEDER, Donat ACKLIN",1994 Lillehammer,Bobsleigh,Men's,two-man
+Winter,1994,Silver,SUI,Switzerland,"Reto GOETSCHI, Guido ACKLIN",1994 Lillehammer,Bobsleigh,Men's,two-man
+Winter,1994,Bronze,ITA,Italy,"Guenther HUBER, Stefano TICCI",1994 Lillehammer,Bobsleigh,Men's,two-man
+Winter,1994,Gold,GER,Germany,"Harald CZUDAJ, Olaf HAMPEL, Karsten BRANNASCH, Alexander SZELIG",1994 Lillehammer,Bobsleigh,Men's,four-man
+Winter,1994,Silver,SUI,Switzerland,"Kurt MEIER, Gustav WEDER, Domenico SEMERARO, Donat ACKLIN",1994 Lillehammer,Bobsleigh,Men's,four-man
+Winter,1994,Bronze,GER,Germany,"Wolfgang HOPPE, Rene HANNEMANN, Ulf HIELSCHER, Carsten EMBACH",1994 Lillehammer,Bobsleigh,Men's,four-man
+Winter,1994,Gold,NOR,Norway,Björn DAEHLIE,1994 Lillehammer,Cross Country Skiing,Men's,10km
+Winter,1994,Silver,KAZ,Kazakhstan,Vladimir SMIRNOV,1994 Lillehammer,Cross Country Skiing,Men's,10km
+Winter,1994,Bronze,ITA,Italy,Marco ALBARELLO,1994 Lillehammer,Cross Country Skiing,Men's,10km
+Winter,1994,Gold,NOR,Norway,Björn DAEHLIE,1994 Lillehammer,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1994,Silver,KAZ,Kazakhstan,Vladimir SMIRNOV,1994 Lillehammer,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1994,Bronze,ITA,Italy,Silvio FAUNER,1994 Lillehammer,Cross Country Skiing,Men's,Combined 10km + 15km pursuit
+Winter,1994,Gold,NOR,Norway,Thomas ALSGAARD,1994 Lillehammer,Cross Country Skiing,Men's,30km
+Winter,1994,Silver,NOR,Norway,Björn DAEHLIE,1994 Lillehammer,Cross Country Skiing,Men's,30km
+Winter,1994,Bronze,FIN,Finland,Mika MYLLYLAE,1994 Lillehammer,Cross Country Skiing,Men's,30km
+Winter,1994,Gold,KAZ,Kazakhstan,Vladimir SMIRNOV,1994 Lillehammer,Cross Country Skiing,Men's,50km
+Winter,1994,Silver,FIN,Finland,Mika MYLLYLAE,1994 Lillehammer,Cross Country Skiing,Men's,50km
+Winter,1994,Bronze,NOR,Norway,Sture SIVERTSEN,1994 Lillehammer,Cross Country Skiing,Men's,50km
+Winter,1994,Gold,ITA,Italy,"Maurilio DE ZOLT, Marco ALBARELLO, Silvio FAUNER, Giorgio VANZETTA",1994 Lillehammer,Cross Country Skiing,Men's,4x10km relay
+Winter,1994,Silver,NOR,Norway,"Björn DAEHLIE, Vegard ULVANG, Thomas ALSGAARD, Sture SIVERTSEN",1994 Lillehammer,Cross Country Skiing,Men's,4x10km relay
+Winter,1994,Bronze,FIN,Finland,"Harri KIRVESNIEMI, Jari ISOMETSA, Mika MYLLYLAE, Jari RAESAENEN",1994 Lillehammer,Cross Country Skiing,Men's,4x10km relay
+Winter,1994,Gold,RUS,Russian Federation,Ljubov EGOROVA,1994 Lillehammer,Cross Country Skiing,Women's,5km
+Winter,1994,Silver,ITA,Italy,Manuela DI CENTA,1994 Lillehammer,Cross Country Skiing,Women's,5km
+Winter,1994,Bronze,FIN,Finland,Marja-Liisa KIRVESNIEMI,1994 Lillehammer,Cross Country Skiing,Women's,5km
+Winter,1994,Gold,RUS,Russian Federation,Ljubov EGOROVA,1994 Lillehammer,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1994,Silver,ITA,Italy,Manuela DI CENTA,1994 Lillehammer,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1994,Bronze,ITA,Italy,Stefania BELMONDO,1994 Lillehammer,Cross Country Skiing,Women's,Combined 5km + 10km pursuit
+Winter,1994,Gold,ITA,Italy,Manuela DI CENTA,1994 Lillehammer,Cross Country Skiing,Women's,15km
+Winter,1994,Silver,RUS,Russian Federation,Ljubov EGOROVA,1994 Lillehammer,Cross Country Skiing,Women's,15km
+Winter,1994,Bronze,RUS,Russian Federation,Nina GAVRILJUK,1994 Lillehammer,Cross Country Skiing,Women's,15km
+Winter,1994,Gold,ITA,Italy,Manuela DI CENTA,1994 Lillehammer,Cross Country Skiing,Women's,30km
+Winter,1994,Silver,NOR,Norway,Marit MIKKELSPLASS,1994 Lillehammer,Cross Country Skiing,Women's,30km
+Winter,1994,Bronze,FIN,Finland,Marja-Liisa KIRVESNIEMI,1994 Lillehammer,Cross Country Skiing,Women's,30km
+Winter,1994,Gold,RUS,Russian Federation,"Larissa LAZUTINA, Ljubov EGOROVA, Elena VAELBE, Nina GAVRILJUK",1994 Lillehammer,Cross Country Skiing,Women's,4x5km relay
+Winter,1994,Silver,NOR,Norway,"Anita MOEN, Inger Helene NYBRAATEN, Elin NILSEN, Trude DYBENDAHL HARTZ",1994 Lillehammer,Cross Country Skiing,Women's,4x5km relay
+Winter,1994,Bronze,ITA,Italy,"Manuela DI CENTA, Stefania BELMONDO, Bice VANZETTA, Gabriella PARUZZI",1994 Lillehammer,Cross Country Skiing,Women's,4x5km relay
+Winter,1994,Gold,RUS,Russian Federation,Aleksei URMANOV,1994 Lillehammer,Figure skating,Men's,individual
+Winter,1994,Silver,CAN,Canada,Elvis STOJKO,1994 Lillehammer,Figure skating,Men's,individual
+Winter,1994,Bronze,FRA,France,Philippe CANDELORO,1994 Lillehammer,Figure skating,Men's,individual
+Winter,1994,Gold,UKR,Ukraine,Oksana BAIUL,1994 Lillehammer,Figure skating,Women's,individual
+Winter,1994,Silver,USA,United States,Nancy KERRIGAN,1994 Lillehammer,Figure skating,Women's,individual
+Winter,1994,Bronze,CHN,China,Lu CHEN,1994 Lillehammer,Figure skating,Women's,individual
+Winter,1994,Gold,RUS,Russian Federation,"Yekaterina GORDEYEVA, Sergey GRINKOV",1994 Lillehammer,Figure skating,Mixed,pairs
+Winter,1994,Silver,RUS,Russian Federation,"Natalya MISHKUTYONOK, Artur DMITRIYEV",1994 Lillehammer,Figure skating,Mixed,pairs
+Winter,1994,Bronze,CAN,Canada,"Isabelle BRASSEUR, Lloyd EISLER",1994 Lillehammer,Figure skating,Mixed,pairs
+Winter,1994,Gold,RUS,Russian Federation,"Pasha GRISCHUK, Evgeny PLATOV",1994 Lillehammer,Figure skating,Mixed,ice dancing
+Winter,1994,Silver,RUS,Russian Federation,"Maya USOVA, Aleksandr ZHULIN",1994 Lillehammer,Figure skating,Mixed,ice dancing
+Winter,1994,Bronze,GBR,Great Britain,"Jayne TORVILL, Christopher DEAN",1994 Lillehammer,Figure skating,Mixed,ice dancing
+Winter,1994,Gold,SUI,Switzerland,Andreas SCHÖNBÄCHLER,1994 Lillehammer,Freestyle Skiing,Men's,aerials
+Winter,1994,Silver,CAN,Canada,Philippe LAROCHE,1994 Lillehammer,Freestyle Skiing,Men's,aerials
+Winter,1994,Bronze,CAN,Canada,Lloyd LANGLOIS,1994 Lillehammer,Freestyle Skiing,Men's,aerials
+Winter,1994,Gold,CAN,Canada,Jean-Luc BRASSARD,1994 Lillehammer,Freestyle Skiing,Men's,moguls
+Winter,1994,Silver,RUS,Russian Federation,Sergei SHUPLETSOV,1994 Lillehammer,Freestyle Skiing,Men's,moguls
+Winter,1994,Bronze,FRA,France,Edgar GROSPIRON,1994 Lillehammer,Freestyle Skiing,Men's,moguls
+Winter,1994,Gold,UZB,Uzbekistan,Lina CHERYAZOVA,1994 Lillehammer,Freestyle Skiing,Women's,aerials
+Winter,1994,Silver,SWE,Sweden,Marie LINDGREN,1994 Lillehammer,Freestyle Skiing,Women's,aerials
+Winter,1994,Bronze,NOR,Norway,Hilde Synnove LID,1994 Lillehammer,Freestyle Skiing,Women's,aerials
+Winter,1994,Gold,NOR,Norway,Stine Lise HATTESTAD,1994 Lillehammer,Freestyle Skiing,Women's,moguls
+Winter,1994,Silver,USA,United States,Elizabeth MCINTYRE,1994 Lillehammer,Freestyle Skiing,Women's,moguls
+Winter,1994,Bronze,RUS,Russian Federation,Yelizaveta KOZHEVNIKOVA,1994 Lillehammer,Freestyle Skiing,Women's,moguls
+Winter,1994,Gold,SWE,Sweden,"Tomas JONSSON, Leif ROHLIN, Roger HANSSON, Fredrik STILLMAN, Daniel RYDMARK, Kenny JONSSON, Patrik JUHLIN, Andreas DACKELL, Patric KJELLBERG, Stefan ÖRNSKOG, Peter FORSBERG, ? Michael Sundlov, Hakan ALGOTSSON, Christian DUE-BOJE, Magnus SVENSSON, Haakan LOOB, Niklas ERIKSSON, Jonas BERGKVIST, Jorgen JONSSON, Charles BERGLUND, Mats NÄSLUND, Roger JOHANSSON, Tommy SALO",1994 Lillehammer,Ice Hockey,Men's,ice hockey
+Winter,1994,Silver,CAN,Canada,"Brian SAVAGE, Greg PARKS, Jean Yves ROY, Todd HLUSHKO, Allain ROY, Bradley SCHLEGEL, Wallace SCHREIBER, Adrian AUCOIN, Brad WERENKA, Fabian JOSEPH, Dwayne NORRIS, Todd WARRINER, Mark ASTLEY, Chris KONTOS, Manny LEGACE, Chris THERIEN, Peter NEDVED, David HARLOCK, Corey HIRSCH, Derek MAYER, Ken LOVSIN, Paul KARIYA, Greg JOHNSON",1994 Lillehammer,Ice Hockey,Men's,ice hockey
+Winter,1994,Bronze,FIN,Finland,"Marko KIPRUSOFF, Timo JUTILA, Janne OJANEN, Janne LAUKKANEN, Raimo HELMINEN, Pasi KUIVALAINEN, Hannu VIRTA, Mika STROEMBERG, Esa KESKINEN, Jukka TAMMI, Mika NIEMINEN, Ville PELTONEN, Vesa Erik HÄMÄLÄINEN, Pasi SORMUNEN, Saku KOIVU, Marko PALO, Mika ALATALO, Jere LEHTINEN, Sami KAPANEN, Tero LEHTERAE, Petri VARIS, Jarmo MYLLYS, Mikko MÄKELÄ",1994 Lillehammer,Ice Hockey,Men's,ice hockey
+Winter,1994,Gold,GER,Germany,Georg HACKL,1994 Lillehammer,Luge,Men's,singles
+Winter,1994,Silver,AUT,Austria,Markus PROCK,1994 Lillehammer,Luge,Men's,singles
+Winter,1994,Bronze,ITA,Italy,Armin ZOEGGELER,1994 Lillehammer,Luge,Men's,singles
+Winter,1994,Gold,ITA,Italy,Gerda WEISSENSTEINER,1994 Lillehammer,Luge,Women's,singles
+Winter,1994,Silver,GER,Germany,Susi-Lisa ERDMANN,1994 Lillehammer,Luge,Women's,singles
+Winter,1994,Bronze,AUT,Austria,Andrea TAGWERKER,1994 Lillehammer,Luge,Women's,singles
+Winter,1994,Gold,ITA,Italy,"Kurt BRUGGER, Wilfried HUBER",1994 Lillehammer,Luge,Mixed,doubles
+Winter,1994,Silver,ITA,Italy,"Hansjörg RAFFL, Norbert HUBER",1994 Lillehammer,Luge,Mixed,doubles
+Winter,1994,Bronze,GER,Germany,"Stefan KRAUSSE, Jan BEHRENDT",1994 Lillehammer,Luge,Mixed,doubles
+Winter,1994,Gold,NOR,Norway,Fred Boerre LUNDBERG,1994 Lillehammer,Nordic Combined,Men's,individual
+Winter,1994,Silver,JPN,Japan,Takanori KONO,1994 Lillehammer,Nordic Combined,Men's,individual
+Winter,1994,Bronze,NOR,Norway,Bjarte Engen VIK,1994 Lillehammer,Nordic Combined,Men's,individual
+Winter,1994,Gold,JPN,Japan,"Takanori KONO, Kenji OGIWARA, Masashi ABE",1994 Lillehammer,Nordic Combined,Men's,team
+Winter,1994,Silver,NOR,Norway,"Bjarte Engen VIK, Knut APELAND, Fred Boerre LUNDBERG",1994 Lillehammer,Nordic Combined,Men's,team
+Winter,1994,Bronze,SUI,Switzerland,"Hippolyt KEMPF, Andreas SCHAAD, Jean-Yves CUENDET",1994 Lillehammer,Nordic Combined,Men's,team
+Winter,1994,Gold,KOR,Korea Republic,Ji-Hoon CHAE,1994 Lillehammer,Short Track Speed Skating,Men's,500m
+Winter,1994,Silver,ITA,Italy,Mirko VUILLERMIN,1994 Lillehammer,Short Track Speed Skating,Men's,500m
+Winter,1994,Bronze,GBR,Great Britain,Nicky GOOCH,1994 Lillehammer,Short Track Speed Skating,Men's,500m
+Winter,1994,Gold,KOR,Korea Republic,Ki-Hoon KIM,1994 Lillehammer,Short Track Speed Skating,Men's,1000m
+Winter,1994,Silver,KOR,Korea Republic,Ji-Hoon CHAE,1994 Lillehammer,Short Track Speed Skating,Men's,1000m
+Winter,1994,Bronze,CAN,Canada,Marc GAGNON,1994 Lillehammer,Short Track Speed Skating,Men's,1000m
+Winter,1994,Gold,ITA,Italy,"Maurizio CARNINO, Orazio FAGONE, Hugo HERRNHOF, Diego CATTANI, Mirko VUILLERMIN",1994 Lillehammer,Short Track Speed Skating,Men's,5000m relay
+Winter,1994,Silver,USA,United States,"John COYLE, Andrew GABEL, Randall BARTZ, Eric FLAIM, Anthony GOSKOWICZ",1994 Lillehammer,Short Track Speed Skating,Men's,5000m relay
+Winter,1994,Bronze,AUS,Australia,"Steven BRADBURY, Andrew MURTHA, Kieran HANSEN, Richard NIZIELSKI",1994 Lillehammer,Short Track Speed Skating,Men's,5000m relay
+Winter,1994,Gold,USA,United States,Cathy TURNER,1994 Lillehammer,Short Track Speed Skating,Women's,500m
+Winter,1994,Silver,CHN,China,Yanmei ZHANG,1994 Lillehammer,Short Track Speed Skating,Women's,500m
+Winter,1994,Bronze,USA,United States,Amy PETERSON,1994 Lillehammer,Short Track Speed Skating,Women's,500m
+Winter,1994,Gold,KOR,Korea Republic,Lee-Kyung CHUN,1994 Lillehammer,Short Track Speed Skating,Women's,1000m
+Winter,1994,Silver,CAN,Canada,Nathalie LAMBERT,1994 Lillehammer,Short Track Speed Skating,Women's,1000m
+Winter,1994,Bronze,KOR,Korea Republic,So-Hee KIM,1994 Lillehammer,Short Track Speed Skating,Women's,1000m
+Winter,1994,Gold,KOR,Korea Republic,"Ryang-Hee KIM, Yoon-Mi KIM, Lee-Kyung CHUN, So-Hee KIM, Hye-Kyung WON",1994 Lillehammer,Short Track Speed Skating,Women's,3000m relay
+Winter,1994,Silver,CAN,Canada,"Christine BOUDRIAS, Angela CUTRONE, Nathalie LAMBERT, Isabelle CHAREST, Sylvie DAIGLE",1994 Lillehammer,Short Track Speed Skating,Women's,3000m relay
+Winter,1994,Bronze,USA,United States,"Amy PETERSON, Cathy TURNER, Karen CASHMAN, Shana SUNDSTROM, Nikki ZIEGELMEYER",1994 Lillehammer,Short Track Speed Skating,Women's,3000m relay
+Winter,1994,Gold,NOR,Norway,Espen BREDESEN,1994 Lillehammer,Ski Jumping,Men's,Normal Hill individual
+Winter,1994,Silver,NOR,Norway,Lasse OTTESEN,1994 Lillehammer,Ski Jumping,Men's,Normal Hill individual
+Winter,1994,Bronze,GER,Germany,Dieter THOMA,1994 Lillehammer,Ski Jumping,Men's,Normal Hill individual
+Winter,1994,Gold,GER,Germany,Jens WEISSFLOG,1994 Lillehammer,Ski Jumping,Men's,Large Hill individual
+Winter,1994,Silver,NOR,Norway,Espen BREDESEN,1994 Lillehammer,Ski Jumping,Men's,Large Hill individual
+Winter,1994,Bronze,AUT,Austria,Andreas GOLDBERGER,1994 Lillehammer,Ski Jumping,Men's,Large Hill individual
+Winter,1994,Gold,GER,Germany,"Hansjoerg JAEKLE, Dieter THOMA, Christof DUFFNER, Jens WEISSFLOG",1994 Lillehammer,Ski Jumping,Men's,Large Hill team
+Winter,1994,Silver,JPN,Japan,"Noriaki KASAI, Jinya NISHIKATA, Masahiko HARADA, Takanobu OKABE",1994 Lillehammer,Ski Jumping,Men's,Large Hill team
+Winter,1994,Bronze,AUT,Austria,"Heinz KUTTIN, Stefan HORNGACHER, Christian MOSER, Andreas GOLDBERGER",1994 Lillehammer,Ski Jumping,Men's,Large Hill team
+Winter,1994,Gold,RUS,Russian Federation,Aleksandr GOLUBEV,1994 Lillehammer,Speed skating,Men's,500m
+Winter,1994,Silver,RUS,Russian Federation,Sergey KLEVCHENYA,1994 Lillehammer,Speed skating,Men's,500m
+Winter,1994,Bronze,JPN,Japan,Manabu HORII,1994 Lillehammer,Speed skating,Men's,500m
+Winter,1994,Gold,USA,United States,Daniel JANSEN,1994 Lillehammer,Speed skating,Men's,1000m
+Winter,1994,Silver,BLR,Belarus,Igor ZHELEZOVSKY,1994 Lillehammer,Speed skating,Men's,1000m
+Winter,1994,Bronze,RUS,Russian Federation,Sergey KLEVCHENYA,1994 Lillehammer,Speed skating,Men's,1000m
+Winter,1994,Gold,NOR,Norway,Johann Olav KOSS,1994 Lillehammer,Speed skating,Men's,1500m
+Winter,1994,Silver,NED,Netherlands,Rintje RITSMA,1994 Lillehammer,Speed skating,Men's,1500m
+Winter,1994,Bronze,NED,Netherlands,Falko ZANDSTRA,1994 Lillehammer,Speed skating,Men's,1500m
+Winter,1994,Gold,NOR,Norway,Johann Olav KOSS,1994 Lillehammer,Speed skating,Men's,5000m
+Winter,1994,Silver,NOR,Norway,Kjell STORELID,1994 Lillehammer,Speed skating,Men's,5000m
+Winter,1994,Bronze,NED,Netherlands,Rintje RITSMA,1994 Lillehammer,Speed skating,Men's,5000m
+Winter,1994,Gold,NOR,Norway,Johann Olav KOSS,1994 Lillehammer,Speed skating,Men's,10000m
+Winter,1994,Silver,NOR,Norway,Kjell STORELID,1994 Lillehammer,Speed skating,Men's,10000m
+Winter,1994,Bronze,NED,Netherlands,Bart VELDKAMP,1994 Lillehammer,Speed skating,Men's,10000m
+Winter,1994,Gold,USA,United States,Bonnie BLAIR,1994 Lillehammer,Speed skating,Women's,500m
+Winter,1994,Silver,CAN,Canada,Susan AUCH,1994 Lillehammer,Speed skating,Women's,500m
+Winter,1994,Bronze,GER,Germany,Franziska SCHENK,1994 Lillehammer,Speed skating,Women's,500m
+Winter,1994,Gold,USA,United States,Bonnie BLAIR,1994 Lillehammer,Speed skating,Women's,1000m
+Winter,1994,Silver,GER,Germany,Anke BAIER-LOEF,1994 Lillehammer,Speed skating,Women's,1000m
+Winter,1994,Bronze,CHN,China,Qiaobo YE,1994 Lillehammer,Speed skating,Women's,1000m
+Winter,1994,Gold,AUT,Austria,Emese HUNYADY,1994 Lillehammer,Speed skating,Women's,1500m
+Winter,1994,Silver,RUS,Russian Federation,Svetlana FEDOTKINA,1994 Lillehammer,Speed skating,Women's,1500m
+Winter,1994,Bronze,GER,Germany,Gunda NIEMANN-STIRNEMANN,1994 Lillehammer,Speed skating,Women's,1500m
+Winter,1994,Gold,RUS,Russian Federation,Svetlana BAJANOVA,1994 Lillehammer,Speed skating,Women's,3000m
+Winter,1994,Silver,AUT,Austria,Emese HUNYADY,1994 Lillehammer,Speed skating,Women's,3000m
+Winter,1994,Bronze,GER,Germany,Claudia PECHSTEIN,1994 Lillehammer,Speed skating,Women's,3000m
+Winter,1994,Gold,GER,Germany,Claudia PECHSTEIN,1994 Lillehammer,Speed skating,Women's,5000m
+Winter,1994,Silver,GER,Germany,Gunda NIEMANN-STIRNEMANN,1994 Lillehammer,Speed skating,Women's,5000m
+Winter,1994,Bronze,JPN,Japan,Hiromi YAMAMOTO,1994 Lillehammer,Speed skating,Women's,5000m

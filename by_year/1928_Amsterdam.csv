@@ -1,0 +1,328 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1928,Gold,CAN,Canada,Percy WILLIAMS,1928 Amsterdam,Athletics,Men's,100m
+Summer,1928,Silver,GBR,Great Britain,Jack LONDON,1928 Amsterdam,Athletics,Men's,100m
+Summer,1928,Bronze,GER,Germany,Georg LAMMERS,1928 Amsterdam,Athletics,Men's,100m
+Summer,1928,Gold,CAN,Canada,Percy WILLIAMS,1928 Amsterdam,Athletics,Men's,200m
+Summer,1928,Silver,GBR,Great Britain,Walter RANGELEY,1928 Amsterdam,Athletics,Men's,200m
+Summer,1928,Bronze,GER,Germany,Helmut KÖRNIG,1928 Amsterdam,Athletics,Men's,200m
+Summer,1928,Gold,USA,United States,Raymond James BARBUTI,1928 Amsterdam,Athletics,Men's,400m
+Summer,1928,Silver,CAN,Canada,James BALL,1928 Amsterdam,Athletics,Men's,400m
+Summer,1928,Bronze,GER,Germany,Joachim BÜCHNER,1928 Amsterdam,Athletics,Men's,400m
+Summer,1928,Gold,GBR,Great Britain,Douglas LOWE,1928 Amsterdam,Athletics,Men's,800m
+Summer,1928,Silver,SWE,Sweden,Erik BYLÉHN,1928 Amsterdam,Athletics,Men's,800m
+Summer,1928,Bronze,GER,Germany,Hermann ENGELHARD,1928 Amsterdam,Athletics,Men's,800m
+Summer,1928,Gold,FIN,Finland,Harri LARVA,1928 Amsterdam,Athletics,Men's,1500m
+Summer,1928,Silver,FRA,France,Jules LADOUMEGUE,1928 Amsterdam,Athletics,Men's,1500m
+Summer,1928,Bronze,FIN,Finland,Eino PURJE,1928 Amsterdam,Athletics,Men's,1500m
+Summer,1928,Gold,FIN,Finland,Ville RITOLA,1928 Amsterdam,Athletics,Men's,5000m
+Summer,1928,Silver,FIN,Finland,Paavo NURMI,1928 Amsterdam,Athletics,Men's,5000m
+Summer,1928,Bronze,SWE,Sweden,Edvin WIDE,1928 Amsterdam,Athletics,Men's,5000m
+Summer,1928,Gold,FIN,Finland,Paavo NURMI,1928 Amsterdam,Athletics,Men's,10000m
+Summer,1928,Silver,FIN,Finland,Ville RITOLA,1928 Amsterdam,Athletics,Men's,10000m
+Summer,1928,Bronze,SWE,Sweden,Edvin WIDE,1928 Amsterdam,Athletics,Men's,10000m
+Summer,1928,Gold,FRA,France,Boughèra EL OUAFI,1928 Amsterdam,Athletics,Men's,marathon
+Summer,1928,Silver,CHI,Chile,Manuel PLAZA,1928 Amsterdam,Athletics,Men's,marathon
+Summer,1928,Bronze,FIN,Finland,Martti MARTTELIN,1928 Amsterdam,Athletics,Men's,marathon
+Summer,1928,Gold,RSA,South Africa,Sidney ATKINSON,1928 Amsterdam,Athletics,Men's,110m hurdles
+Summer,1928,Silver,USA,United States,Steve ANDERSON,1928 Amsterdam,Athletics,Men's,110m hurdles
+Summer,1928,Bronze,USA,United States,John COLLIER,1928 Amsterdam,Athletics,Men's,110m hurdles
+Summer,1928,Gold,GBR,Great Britain,David George BURGHLEY,1928 Amsterdam,Athletics,Men's,400m hurdles
+Summer,1928,Silver,USA,United States,Frank CUHEL,1928 Amsterdam,Athletics,Men's,400m hurdles
+Summer,1928,Bronze,USA,United States,Morgan TAYLOR,1928 Amsterdam,Athletics,Men's,400m hurdles
+Summer,1928,Gold,FIN,Finland,Toivo LOUKOLA,1928 Amsterdam,Athletics,Men's,3000m steeplechase
+Summer,1928,Silver,FIN,Finland,Paavo NURMI,1928 Amsterdam,Athletics,Men's,3000m steeplechase
+Summer,1928,Bronze,FIN,Finland,Ove ANDERSEN,1928 Amsterdam,Athletics,Men's,3000m steeplechase
+Summer,1928,Gold,USA,United States,"Charles Edward BORAH, Frank WYKOFF, James QUINN, Henry RUSSELL",1928 Amsterdam,Athletics,Men's,4x100m relay
+Summer,1928,Silver,GER,Germany,"Richard CORTS, Georg LAMMERS, Helmut KÖRNIG, Hubert HOUBEN",1928 Amsterdam,Athletics,Men's,4x100m relay
+Summer,1928,Bronze,GBR,Great Britain,"Walter RANGELEY, Edward SMOUHA, Jack LONDON, Cyril GILL",1928 Amsterdam,Athletics,Men's,4x100m relay
+Summer,1928,Gold,USA,United States,"Raymond James BARBUTI, George BAIRD, Emerson SPENCER, Fred ALDERMAN",1928 Amsterdam,Athletics,Men's,4x400m relay
+Summer,1928,Silver,GER,Germany,"Harry STORZ, Otto NEUMANN, Richard KREBS, Hermann ENGELHARD",1928 Amsterdam,Athletics,Men's,4x400m relay
+Summer,1928,Bronze,CAN,Canada,"Philip EDWARDS, Stanley GLOVER, James BALL, Alex WILSON",1928 Amsterdam,Athletics,Men's,4x400m relay
+Summer,1928,Gold,USA,United States,Edward Barton HAMM,1928 Amsterdam,Athletics,Men's,long jump
+Summer,1928,Silver,HAI,Haiti,Sylvio CATOR,1928 Amsterdam,Athletics,Men's,long jump
+Summer,1928,Bronze,USA,United States,Al BATES,1928 Amsterdam,Athletics,Men's,long jump
+Summer,1928,Gold,JPN,Japan,Mikio ODA,1928 Amsterdam,Athletics,Men's,triple jump
+Summer,1928,Silver,USA,United States,Levi CASEY,1928 Amsterdam,Athletics,Men's,triple jump
+Summer,1928,Bronze,FIN,Finland,Ville TUULOS,1928 Amsterdam,Athletics,Men's,triple jump
+Summer,1928,Gold,USA,United States,Robert Wade KING,1928 Amsterdam,Athletics,Men's,high jump
+Summer,1928,Silver,USA,United States,Ben HEDGES,1928 Amsterdam,Athletics,Men's,high jump
+Summer,1928,Bronze,FRA,France,Claude MÉNARD,1928 Amsterdam,Athletics,Men's,high jump
+Summer,1928,Gold,USA,United States,Sabin CARR,1928 Amsterdam,Athletics,Men's,pole vault
+Summer,1928,Silver,USA,United States,William Herbert DROEGEMUELLER,1928 Amsterdam,Athletics,Men's,pole vault
+Summer,1928,Bronze,USA,United States,Charles MCGINNIS,1928 Amsterdam,Athletics,Men's,pole vault
+Summer,1928,Gold,USA,United States,John KUCK,1928 Amsterdam,Athletics,Men's,shot put
+Summer,1928,Silver,USA,United States,Herman BRIX,1928 Amsterdam,Athletics,Men's,shot put
+Summer,1928,Bronze,GER,Germany,Emil HIRSCHFELD,1928 Amsterdam,Athletics,Men's,shot put
+Summer,1928,Gold,USA,United States,Bud HOUSER,1928 Amsterdam,Athletics,Men's,discus throw
+Summer,1928,Silver,FIN,Finland,Antero KIVI,1928 Amsterdam,Athletics,Men's,discus throw
+Summer,1928,Bronze,USA,United States,James CORSON,1928 Amsterdam,Athletics,Men's,discus throw
+Summer,1928,Gold,IRL,Ireland,Patrick O'CALLAGHAN,1928 Amsterdam,Athletics,Men's,hammer throw
+Summer,1928,Silver,SWE,Sweden,Ossian SKIÖLD,1928 Amsterdam,Athletics,Men's,hammer throw
+Summer,1928,Bronze,USA,United States,Edmund BLACK,1928 Amsterdam,Athletics,Men's,hammer throw
+Summer,1928,Gold,SWE,Sweden,Erik LUNDQVIST,1928 Amsterdam,Athletics,Men's,javelin throw
+Summer,1928,Silver,HUN,Hungary,Béla SZEPES,1928 Amsterdam,Athletics,Men's,javelin throw
+Summer,1928,Bronze,NOR,Norway,Olav SUNDE,1928 Amsterdam,Athletics,Men's,javelin throw
+Summer,1928,Gold,FIN,Finland,Paavo YRJÖLÄ,1928 Amsterdam,Athletics,Men's,decathlon
+Summer,1928,Silver,FIN,Finland,Aki JÄRVINEN,1928 Amsterdam,Athletics,Men's,decathlon
+Summer,1928,Bronze,USA,United States,John Kenneth DOHERTY,1928 Amsterdam,Athletics,Men's,decathlon
+Summer,1928,Gold,USA,United States,Elizabeth ROBINSON,1928 Amsterdam,Athletics,Women's,100m
+Summer,1928,Silver,CAN,Canada,Fanny ROSENFELD,1928 Amsterdam,Athletics,Women's,100m
+Summer,1928,Bronze,CAN,Canada,Ethel SMITH,1928 Amsterdam,Athletics,Women's,100m
+Summer,1928,Gold,GER,Germany,"Karoline ""Lina"" RADKE",1928 Amsterdam,Athletics,Women's,800m
+Summer,1928,Silver,JPN,Japan,Kinue HITOMI,1928 Amsterdam,Athletics,Women's,800m
+Summer,1928,Bronze,SWE,Sweden,Inga GENTZEL,1928 Amsterdam,Athletics,Women's,800m
+Summer,1928,Gold,CAN,Canada,"Myrtle COOK, Florence BELL, Ethel SMITH, Fanny ROSENFELD, Jean THOMPSON",1928 Amsterdam,Athletics,Women's,4x100m relay
+Summer,1928,Silver,USA,United States,"Mary WASHBURN, Elizabeth ROBINSON, Loretta MCNEIL, Jessica West CROSS",1928 Amsterdam,Athletics,Women's,4x100m relay
+Summer,1928,Bronze,GER,Germany,"Anni HOLDMANN, Leni SCHMIDT, Helene JUNKER, Rosa KELLNER",1928 Amsterdam,Athletics,Women's,4x100m relay
+Summer,1928,Gold,CAN,Canada,Ethel CATHERWOOD,1928 Amsterdam,Athletics,Women's,high jump
+Summer,1928,Silver,NED,Netherlands,Carolina Anna GISOLF,1928 Amsterdam,Athletics,Women's,high jump
+Summer,1928,Bronze,USA,United States,Mildred WILEY,1928 Amsterdam,Athletics,Women's,high jump
+Summer,1928,Gold,POL,Poland,Halina KONOPACKA,1928 Amsterdam,Athletics,Women's,discus throw
+Summer,1928,Silver,USA,United States,Lillian COPELAND,1928 Amsterdam,Athletics,Women's,discus throw
+Summer,1928,Bronze,SWE,Sweden,Ruth SVEDBERG,1928 Amsterdam,Athletics,Women's,discus throw
+Summer,1928,Gold,HUN,Hungary,Antal KOCSIS,1928 Amsterdam,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1928,Silver,FRA,France,Armand APELL,1928 Amsterdam,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1928,Bronze,ITA,Italy,Carlo CAVAGNOLI,1928 Amsterdam,Boxing,Men's,- 50.8kg (flyweight)
+Summer,1928,Gold,ITA,Italy,Vittorio TAMAGNINI,1928 Amsterdam,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1928,Silver,USA,United States,John DALEY,1928 Amsterdam,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1928,Bronze,RSA,South Africa,Harry ISAACS,1928 Amsterdam,Boxing,Men's,50.8 - 53.52kg (bantamweight)
+Summer,1928,Gold,NED,Netherlands,Lambertus VAN KLAVEREN,1928 Amsterdam,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1928,Silver,ARG,Argentina,Victor PERALTA,1928 Amsterdam,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1928,Bronze,USA,United States,Harry DEVINE,1928 Amsterdam,Boxing,Men's,53.52 - 57.15kg (featherweight)
+Summer,1928,Gold,ITA,Italy,Carlo ORLANDI,1928 Amsterdam,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1928,Silver,USA,United States,Stephen HAILAKO,1928 Amsterdam,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1928,Bronze,SWE,Sweden,Gunnar BERGGREN,1928 Amsterdam,Boxing,Men's,57.15 - 61.24kg (lightweight)
+Summer,1928,Gold,NZL,New Zealand,Edward MORGAN,1928 Amsterdam,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1928,Silver,ARG,Argentina,Raúl LANDINI,1928 Amsterdam,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1928,Bronze,CAN,Canada,Raymond SMILLIE,1928 Amsterdam,Boxing,Men's,61.24 - 66.68kg (welterweight)
+Summer,1928,Gold,ITA,Italy,Piero TOSCANI,1928 Amsterdam,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1928,Silver,TCH,Czechoslovakia,Jan HERMÁNEK,1928 Amsterdam,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1928,Bronze,BEL,Belgium,Leonard STEYAERT,1928 Amsterdam,Boxing,Men's,66.68 - 72.57kg (middleweight)
+Summer,1928,Gold,ARG,Argentina,Victor AVENDANO,1928 Amsterdam,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1928,Silver,GER,Germany,Ernst PISTULLA,1928 Amsterdam,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1928,Bronze,NED,Netherlands,Karel MILJON,1928 Amsterdam,Boxing,Men's,72.57 - 79.38kg (light-heavyweight)
+Summer,1928,Gold,ARG,Argentina,Arturo RODRIGUEZ JURADO,1928 Amsterdam,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1928,Silver,SWE,Sweden,Nils RAMM,1928 Amsterdam,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1928,Bronze,DEN,Denmark,Michael Jacob MICHAELSEN,1928 Amsterdam,Boxing,Men's,+ 79.38kg (heavyweight)
+Summer,1928,Gold,DEN,Denmark,Henry HANSEN,1928 Amsterdam,Cycling Road,Men's,individual time trial
+Summer,1928,Silver,GBR,Great Britain,Frank SOUTHALL,1928 Amsterdam,Cycling Road,Men's,individual time trial
+Summer,1928,Bronze,SWE,Sweden,Gösta CARLSSON,1928 Amsterdam,Cycling Road,Men's,individual time trial
+Summer,1928,Gold,DEN,Denmark,"Henry HANSEN, Orla JØRGENSEN, Leo NIELSEN",1928 Amsterdam,Cycling Road,Men's,team time trial
+Summer,1928,Silver,GBR,Great Britain,"John MIDDLETON, John Jacob LAUTERWASSER, Frank SOUTHALL",1928 Amsterdam,Cycling Road,Men's,team time trial
+Summer,1928,Bronze,SWE,Sweden,"E. Georg JOHNSSON, Gösta CARLSSON, Eric JANSSON",1928 Amsterdam,Cycling Road,Men's,team time trial
+Summer,1928,Gold,DEN,Denmark,Willy FALCK HANSEN,1928 Amsterdam,Cycling Track,Men's,1km time trial
+Summer,1928,Silver,NED,Netherlands,Gerard BOSCH VAN DRAKESTEIN,1928 Amsterdam,Cycling Track,Men's,1km time trial
+Summer,1928,Bronze,AUS,Australia,Edgar Laurence GRAY,1928 Amsterdam,Cycling Track,Men's,1km time trial
+Summer,1928,Gold,FRA,France,Roger BEAUFRAND,1928 Amsterdam,Cycling Track,Men's,sprint individual
+Summer,1928,Silver,NED,Netherlands,Antonius Hendrikus MAZAIRAC,1928 Amsterdam,Cycling Track,Men's,sprint individual
+Summer,1928,Bronze,DEN,Denmark,Willy FALCK HANSEN,1928 Amsterdam,Cycling Track,Men's,sprint individual
+Summer,1928,Gold,NED,Netherlands,"Daniel (Daan) VAN DIJK, Bernardus Petrus LEENE",1928 Amsterdam,Cycling Track,Men's,2000m tandem
+Summer,1928,Silver,GBR,Great Britain,"John Ephraim SIBBIT, Ernest Henry CHAMBERS",1928 Amsterdam,Cycling Track,Men's,2000m tandem
+Summer,1928,Bronze,GER,Germany,"Karl KÖTHER, Hans BERNHARDT",1928 Amsterdam,Cycling Track,Men's,2000m tandem
+Summer,1928,Gold,ITA,Italy,"Cesare FACCIANI, Mario LUSIANI, Marco CATTANEO, Luigi TASSELLI",1928 Amsterdam,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1928,Silver,NED,Netherlands,"Johannes Baptist Norbertus PIJNENBURG, Janus BRASPENNINCX, Jan MAAS, Pieter M. VAN DER HORST",1928 Amsterdam,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1928,Bronze,GBR,Great Britain,"Frederick Henry WYLD, Percy WYLD, Leonard Arthur WYLD, Michael George SOUTHALL",1928 Amsterdam,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1928,Gold,USA,United States,Pete DESJARDINS,1928 Amsterdam,Diving,Men's,3m springboard
+Summer,1928,Silver,USA,United States,Michael Riley GALITZEN,1928 Amsterdam,Diving,Men's,3m springboard
+Summer,1928,Bronze,EGY,Egypt,Farid SIMAIKA,1928 Amsterdam,Diving,Men's,3m springboard
+Summer,1928,Gold,USA,United States,Pete DESJARDINS,1928 Amsterdam,Diving,Men's,10m platform
+Summer,1928,Silver,EGY,Egypt,Farid SIMAIKA,1928 Amsterdam,Diving,Men's,10m platform
+Summer,1928,Bronze,USA,United States,Michael Riley GALITZEN,1928 Amsterdam,Diving,Men's,10m platform
+Summer,1928,Gold,USA,United States,Helen MEANY,1928 Amsterdam,Diving,Women's,3m springboard
+Summer,1928,Silver,USA,United States,Dorothy POYNTON,1928 Amsterdam,Diving,Women's,3m springboard
+Summer,1928,Bronze,USA,United States,Georgia COLEMAN,1928 Amsterdam,Diving,Women's,3m springboard
+Summer,1928,Gold,USA,United States,Elizabeth BECKER,1928 Amsterdam,Diving,Women's,10m platform
+Summer,1928,Silver,USA,United States,Georgia COLEMAN,1928 Amsterdam,Diving,Women's,10m platform
+Summer,1928,Bronze,SWE,Sweden,Laura SJÖQVIST,1928 Amsterdam,Diving,Women's,10m platform
+Summer,1928,Gold,GER,Germany,Carl Friedrich FREIHERR VON LANGEN-PAROW,1928 Amsterdam,Equestrian Dressage,Mixed,individual
+Summer,1928,Silver,FRA,France,Charles MARION,1928 Amsterdam,Equestrian Dressage,Mixed,individual
+Summer,1928,Bronze,SWE,Sweden,Ragnar OLSON,1928 Amsterdam,Equestrian Dressage,Mixed,individual
+Summer,1928,Gold,GER,Germany,"Hermann LINKENBACH, Carl Friedrich FREIHERR VON LANGEN-PAROW, Eugen VON LOTZBECK",1928 Amsterdam,Equestrian Dressage,Mixed,team
+Summer,1928,Silver,SWE,Sweden,"Ragnar OLSON, Carl BONDE, Janne LUNDBLAD",1928 Amsterdam,Equestrian Dressage,Mixed,team
+Summer,1928,Bronze,NED,Netherlands,"Pierre VERSTEEGH, Gérard LE HEUX, Jan VAN REEDE",1928 Amsterdam,Equestrian Dressage,Mixed,team
+Summer,1928,Gold,NED,Netherlands,Charles PAHUD DE MORTANGES,1928 Amsterdam,Equestrian Eventing,Mixed,individual
+Summer,1928,Silver,NED,Netherlands,Gerard DE KRUIJFF,1928 Amsterdam,Equestrian Eventing,Mixed,individual
+Summer,1928,Bronze,GER,Germany,Bruno NEUMANN,1928 Amsterdam,Equestrian Eventing,Mixed,individual
+Summer,1928,Gold,NED,Netherlands,"Gerard DE KRUIJFF, Charles PAHUD DE MORTANGES, Adolf VAN DER VOORT VAN ZIJP",1928 Amsterdam,Equestrian Eventing,Mixed,team
+Summer,1928,Silver,NOR,Norway,"Bjart ORDING, Eugen JOHANSEN, Arthur QVIST",1928 Amsterdam,Equestrian Eventing,Mixed,team
+Summer,1928,Bronze,POL,Poland,"Karol Alfonsovich VON ROMMEL, Michal ANTONIEWICZ, Józef TRENKWALD",1928 Amsterdam,Equestrian Eventing,Mixed,team
+Summer,1928,Gold,TCH,Czechoslovakia,Franti?ek VENTURA,1928 Amsterdam,Equestrian Jumping,Mixed,individual
+Summer,1928,Silver,FRA,France,Pierre BERTRAN DE BALANDA,1928 Amsterdam,Equestrian Jumping,Mixed,individual
+Summer,1928,Bronze,SUI,Switzerland,Charley KUHN,1928 Amsterdam,Equestrian Jumping,Mixed,individual
+Summer,1928,Gold,ESP,Spain,"Julio GARCIA FERNANDEZ, Jose NAVARRO MORENES, José ALVAREZ DE BOHORQUES",1928 Amsterdam,Equestrian Jumping,Mixed,team
+Summer,1928,Silver,POL,Poland,"Michal ANTONIEWICZ, Kazimierz GZOWSKI, Kazimierz SZOSLAND",1928 Amsterdam,Equestrian Jumping,Mixed,team
+Summer,1928,Bronze,SWE,Sweden,"Karl HANSEN, Ernst HALLBERG, Carl BJÖRNSTJERNA",1928 Amsterdam,Equestrian Jumping,Mixed,team
+Summer,1928,Gold,FRA,France,Lucien GAUDIN,1928 Amsterdam,Fencing,Men's,épée individual
+Summer,1928,Silver,FRA,France,Georges BUCHARD,1928 Amsterdam,Fencing,Men's,épée individual
+Summer,1928,Bronze,USA,United States,George CALNAN,1928 Amsterdam,Fencing,Men's,épée individual
+Summer,1928,Gold,ITA,Italy,"Giulio Basletta, Giancarlo Cornaggia-Medici, Renzo Minoli, Marcello Bertinetti, Carlo Agostoni, Franco Riccardi",1928 Amsterdam,Fencing,Men's,épée team
+Summer,1928,Silver,FRA,France,"Géo Buchard, Émile Cornic, René Barbier, Gaston Amson, Bernard Schmetz",1928 Amsterdam,Fencing,Men's,épée team
+Summer,1928,Bronze,POR,Portugal,"Henrique da Silveira, Mário de Noronha, Frederico Paredes, João Sassetti, Paulo Leal, Jorge de Paiva",1928 Amsterdam,Fencing,Men's,épée team
+Summer,1928,Gold,FRA,France,Lucien GAUDIN,1928 Amsterdam,Fencing,Men's,foil individual
+Summer,1928,Silver,GER,Germany,Erwin CASMIR,1928 Amsterdam,Fencing,Men's,foil individual
+Summer,1928,Bronze,ITA,Italy,Giulio GAUDINI,1928 Amsterdam,Fencing,Men's,foil individual
+Summer,1928,Gold,ITA,Italy,"Giorgio CHIAVACCI, Ugo PIGNOTTI, Gioacchino GUARAGNA, Oreste PULITI, Giulio GAUDINI, Giorgio PESSINA",1928 Amsterdam,Fencing,Men's,foil team
+Summer,1928,Silver,FRA,France,"Philippe CATTIAU, Roger DUCRET, Lucien GAUDIN, André GABORIAUD, André LABATUT, Raymond FLACHER",1928 Amsterdam,Fencing,Men's,foil team
+Summer,1928,Bronze,ARG,Argentina,"Carmelo CAMET, Raúl ANGANUZZI, Héctor LUCCHETTI, Roberto LARRAZ, Luis LUCCHETTI",1928 Amsterdam,Fencing,Men's,foil team
+Summer,1928,Gold,HUN,Hungary,Odön VITEZ TERSZTYANSZKY,1928 Amsterdam,Fencing,Men's,sabre individual
+Summer,1928,Silver,HUN,Hungary,Attila PETSCHAUER,1928 Amsterdam,Fencing,Men's,sabre individual
+Summer,1928,Bronze,ITA,Italy,Bino BINI,1928 Amsterdam,Fencing,Men's,sabre individual
+Summer,1928,Gold,HUN,Hungary,"János GARAY, József RÁDY, Attila PETSCHAUER, Sándor GOMBOS, Gyula GLYKAIS, Odön VITEZ TERSZTYANSZKY",1928 Amsterdam,Fencing,Men's,sabre team
+Summer,1928,Silver,ITA,Italy,"Bino BINI, Renato ANSELMI, Emilio SALAFIA, Oreste PULITI, Giulio SARROCCHI, Gustavo MARZI",1928 Amsterdam,Fencing,Men's,sabre team
+Summer,1928,Bronze,POL,Poland,"Jerzy ZABIELSKI, Tadeusz FRIEDRICH, Adam PAPÉE, Wladyslaw SEGDA, Aleksander MALECKI, Kazimierz LASKOWSKI",1928 Amsterdam,Fencing,Men's,sabre team
+Summer,1928,Gold,GER,Germany,Helene MAYER,1928 Amsterdam,Fencing,Women's,foil individual
+Summer,1928,Silver,GBR,Great Britain,Muriel FREEMAN,1928 Amsterdam,Fencing,Women's,foil individual
+Summer,1928,Bronze,GER,Germany,Olga OELKERS,1928 Amsterdam,Fencing,Women's,foil individual
+Summer,1928,Gold,URU,Uruguay,"Juan PIRIZ, Pedro CEA, José ANDRADE, René BORJAS, Pedro ARISPE, Roberto FIGUEROA, Héctor CASTRO, P. ANSELMO, A. MELOGNO, F. BATIGNANI, Adhemar CANAVESI, Pedro PETRONE, Andrés MAZALI, V. BARTIBAS, D. TEJERA, Alvaro GESTIDO, Antonio CAMPOLO, Juan ARREMÓN, Lorenzo FERNÁNDEZ, Hector SCARONE, José NASAZZI, Antonio URDINARÁN",1928 Amsterdam,Football,Men's,football
+Summer,1928,Silver,ARG,Argentina,"L. F. WEIHMULLER, Roberto CHERRO, Manuel FERREIRA, Angel BOSIO, N. PERINETTI, Angel Segundo MÉDICI, S. N. GOMEZ, Fernando PATERNOSTER, P. OCHOA, Ludovico BIDOGLIO, A. HELMAN, Juan EVARISTO, A. B. ZUMELZU, Feliciano Angel PERDUCCA, Saúl CALANDRA, Rodolfo ORLANDINI, Octavio DIAZ, Enrique GAINZARAIN, Domingo TARASCONI, Alfredo CARRICABERRY, Raimondo ORSI, Luis Felipe MONTI",1928 Amsterdam,Football,Men's,football
+Summer,1928,Bronze,ITA,Italy,"Delfo BELLINI, Virgilio Felice LEVRATTO, Gino ROSSETTI, A. VIVIANO, Giovanni DE PRA, Virginio ROSETTA, V. DEGANI, Mario MAGNOZZI, Giampiero COMBI, Adolfo BALONCIERI, P. PASTORE, Alfredo PITTO, Elvio BANCHERO, Fulvio BERNARDINI, Angelo SCHIAVIO, Antonio JANNI, Silvio PIETROBONI, F. GASPERI, A. FERRARIS, Pietro GENOVESI, Umberto CALIGARIS, Enrico RIVOLTA",1928 Amsterdam,Football,Men's,football
+Summer,1928,Gold,SUI,Switzerland,Georges MIEZ,1928 Amsterdam,Gymnastics Artistic,Men's,individual all-round
+Summer,1928,Silver,SUI,Switzerland,Hermann HÄNGGI,1928 Amsterdam,Gymnastics Artistic,Men's,individual all-round
+Summer,1928,Bronze,YUG,Yugoslavia,Leon ?TUKELJ,1928 Amsterdam,Gymnastics Artistic,Men's,individual all-round
+Summer,1928,Gold,SUI,Switzerland,"Otto PFISTER, Eugen MACK, August GÜTTINGER, Hans GRIEDER, Eduard STEINEMANN, Melchior WEZEL, Georges MIEZ, Hermann HÄNGGI",1928 Amsterdam,Gymnastics Artistic,Men's,team competition
+Summer,1928,Silver,TCH,Czechoslovakia,"Bedrich SUPCIK, Emanuel LÖFFLER, Václav VESELÝ, Ladislav TIKAL, Josef EFFENBERGER, Jan GAJDOS, Jan KOUTNÝ, Ladislav VÁCHA",1928 Amsterdam,Gymnastics Artistic,Men's,team competition
+Summer,1928,Bronze,YUG,Yugoslavia,"Boris GREGORKA, Eduard ANTOSIEWIC, Anton MALEJ, Dragutin CIOTTI, Ivan PORENTA, Leon ?TUKELJ, Josip PRIMOZIC, Stane DERGANC",1928 Amsterdam,Gymnastics Artistic,Men's,team competition
+Summer,1928,Gold,TCH,Czechoslovakia,Ladislav VÁCHA,1928 Amsterdam,Gymnastics Artistic,Men's,parallel bars
+Summer,1928,Silver,YUG,Yugoslavia,Josip PRIMOZIC,1928 Amsterdam,Gymnastics Artistic,Men's,parallel bars
+Summer,1928,Bronze,SUI,Switzerland,Hermann HÄNGGI,1928 Amsterdam,Gymnastics Artistic,Men's,parallel bars
+Summer,1928,Gold,YUG,Yugoslavia,Leon ?TUKELJ,1928 Amsterdam,Gymnastics Artistic,Men's,rings
+Summer,1928,Silver,TCH,Czechoslovakia,Ladislav VÁCHA,1928 Amsterdam,Gymnastics Artistic,Men's,rings
+Summer,1928,Bronze,TCH,Czechoslovakia,Emanuel LÖFFLER,1928 Amsterdam,Gymnastics Artistic,Men's,rings
+Summer,1928,Gold,SUI,Switzerland,Eugen MACK,1928 Amsterdam,Gymnastics Artistic,Men's,vault
+Summer,1928,Silver,TCH,Czechoslovakia,Emanuel LÖFFLER,1928 Amsterdam,Gymnastics Artistic,Men's,vault
+Summer,1928,Bronze,YUG,Yugoslavia,Stane DERGANC,1928 Amsterdam,Gymnastics Artistic,Men's,vault
+Summer,1928,Gold,SUI,Switzerland,Hermann HÄNGGI,1928 Amsterdam,Gymnastics Artistic,Men's,pommel horse
+Summer,1928,Silver,SUI,Switzerland,Georges MIEZ,1928 Amsterdam,Gymnastics Artistic,Men's,pommel horse
+Summer,1928,Bronze,FIN,Finland,Heikki SAVOLAINEN,1928 Amsterdam,Gymnastics Artistic,Men's,pommel horse
+Summer,1928,Gold,SUI,Switzerland,Georges MIEZ,1928 Amsterdam,Gymnastics Artistic,Men's,horizontal bar
+Summer,1928,Silver,ITA,Italy,Romeo NERI,1928 Amsterdam,Gymnastics Artistic,Men's,horizontal bar
+Summer,1928,Bronze,SUI,Switzerland,Eugen MACK,1928 Amsterdam,Gymnastics Artistic,Men's,horizontal bar
+Summer,1928,Gold,NED,Netherlands,"Jacoba STELMA, Petronella VAN RANDWIJK, Helena NORDHEIM, Anna Maria VAN DER VEGT, Estella AGSTERIBBE, Alida VAN DEN BOS, Hendrika VAN RUMT, Jacomina VAN DEN BERG, Elka DE LEVIE, Jud SIMONS, Petronella BURGERHOF, Ans POLAK",1928 Amsterdam,Gymnastics Artistic,Women's,team competition
+Summer,1928,Silver,ITA,Italy,"Carolina TRONCONI, Diana PIZZAVINI, Luigina PERVERSI, Virginia GIORGI, Bianca AMBROSETTI, Lavinia GIANONI, Ines VERCESI, Rita VITTADINI, Clara MARANGONI, Germana MALABARBA, Luigina GIAVOTTI, Luisa TANZINI",1928 Amsterdam,Gymnastics Artistic,Women's,team competition
+Summer,1928,Bronze,GBR,Great Britain,"Hilda SMITH, Edith Carrie PICKLES, Amy JAGGER, Margaret HARTLEY, Ethel SEYMOUR, Doris WOODS, Isabel JUDD, Lucy DESMOND, Ada SMITH, Jessie KITE, Annie BROADBENT, Marjorie MOREMAN",1928 Amsterdam,Gymnastics Artistic,Women's,team competition
+Summer,1928,Gold,IND,India,"Broome Eric PINNIGER, Feroze Uddin KHAN, Maurice GATELEY, Rex A. NORRIS, Leslie HAMMOND, George MARTHINS, Michael ROCQUE, Jaipal SINGH, William John GOODSIR-CULLEN, Richard ALLEN, Dhyan CHAND, Ali SHAUKAT, K. S. GILL, Frederic SEAMAN, Sayed YUSUF",1928 Amsterdam,Hockey,Men's,hockey
+Summer,1928,Silver,NED,Netherlands,"Reindert DE WAAL, Paulus VAN DE ROVAERT, Hendrik VISSER 'T HOOFT, J. M. VAN VOORST VAN BEEST, Johannes BRAND, C. J. VAN DER HAGEN, W. J. VAN CITTERS, G. LEEMBRUGGEN, Adriaan KATTE, August KOP, Jan ANKERMAN, Antoine Robert VAN LIEROP, J. J. VAN TIENHOVEN VAN DEN BOGAARD, Emile DUSON, N. WENTHOLT, T. F. HUBRECHT, H. J. L. MANGELAAR MEERTENS, O. F. MULLER V. CZERNICKI, Albert TRESLING, Gerrit JANNINK, C. J. J. HARDEBECK, Robert VAN DER VEEN",1928 Amsterdam,Hockey,Men's,hockey
+Summer,1928,Bronze,GER,Germany,"Heinz FÖRSTENDORF, Gerd STRANTZEN, Erwin FRANZKOWIAK, Aribert HEYMANN, Georg BRUNNER, Herbert MÜLLER, Theo HAAG, Werner FREYBERG, F. LINCKE, H. SCHÄFER, Werner PROFT, Friedrich HORN, Erich ZANDER, Rolf WOLLNER, Kurt WEISS, Bruno BOCHE, Herbert KEMMER, Heinz WÖLTJE, Kurt HAVERBECK, Karl-Heinz IRMER, Herbert HOBEIN, Hans Heinrich HAUSSMANN",1928 Amsterdam,Hockey,Men's,hockey
+Summer,1928,Gold,SWE,Sweden,Sven THOFELT,1928 Amsterdam,Modern Pentathlon,Men's,individual competition
+Summer,1928,Silver,SWE,Sweden,Bo LINDMAN,1928 Amsterdam,Modern Pentathlon,Men's,individual competition
+Summer,1928,Bronze,GER,Germany,Helmuth KAHL,1928 Amsterdam,Modern Pentathlon,Men's,individual competition
+Summer,1928,Gold,AUS,Australia,Bobby PEARCE,1928 Amsterdam,Rowing,Men's,single sculls (1x)
+Summer,1928,Silver,USA,United States,Kenneth MYERS,1928 Amsterdam,Rowing,Men's,single sculls (1x)
+Summer,1928,Bronze,GBR,Great Britain,David COLLET,1928 Amsterdam,Rowing,Men's,single sculls (1x)
+Summer,1928,Gold,USA,United States,"Charles MCILVAINE, Paul COSTELLO",1928 Amsterdam,Rowing,Men's,double sculls (2x)
+Summer,1928,Silver,CAN,Canada,"Joseph WRIGHT JR., John GUEST",1928 Amsterdam,Rowing,Men's,double sculls (2x)
+Summer,1928,Bronze,AUT,Austria,"Leo LOSERT, Viktor FLESSL",1928 Amsterdam,Rowing,Men's,double sculls (2x)
+Summer,1928,Gold,GER,Germany,"Kurt MÖSCHTER, Bruno MÜLLER",1928 Amsterdam,Rowing,Men's,pair without coxswain (2-)
+Summer,1928,Silver,GBR,Great Britain,"Archibald NISBET, Terence O'BRIEN",1928 Amsterdam,Rowing,Men's,pair without coxswain (2-)
+Summer,1928,Bronze,USA,United States,"Paul MCDOWELL, John SCHMITT",1928 Amsterdam,Rowing,Men's,pair without coxswain (2-)
+Summer,1928,Gold,SUI,Switzerland,"Hans SCHÖCHLIN, Karl SCHÖCHLIN, Hans BOURQUIN",1928 Amsterdam,Rowing,Men's,pair-oared shell with coxswain
+Summer,1928,Silver,FRA,France,"Armand MARCELLE, Edouard MARCELLE, Henri PRÉAUX",1928 Amsterdam,Rowing,Men's,pair-oared shell with coxswain
+Summer,1928,Bronze,BEL,Belgium,"Georges ANTHONY, Léon FLAMENT, François DE CONINCK",1928 Amsterdam,Rowing,Men's,pair-oared shell with coxswain
+Summer,1928,Gold,GBR,Great Britain,"Edward BEVAN, John LANDER, Michael WARRINER, Richard BEESLY",1928 Amsterdam,Rowing,Men's,four without coxswain (4-)
+Summer,1928,Silver,USA,United States,"William MILLER, Ernest BAYER, George HEALIS, Charles KARLE",1928 Amsterdam,Rowing,Men's,four without coxswain (4-)
+Summer,1928,Bronze,ITA,Italy,"Pietro FRESCHI, Cesare ROSSI, Paolo GENNARI, Umberto BONADE",1928 Amsterdam,Rowing,Men's,four without coxswain (4-)
+Summer,1928,Gold,ITA,Italy,"Giliante D'ESTE, Giovanni DELISE, Valerio PERENTIN, Renato PETRONIO, Nicolo VITTORI",1928 Amsterdam,Rowing,Men's,four-oared shell with coxswain
+Summer,1928,Silver,SUI,Switzerland,"Otto BUCHER, Ernst HAAS, Fritz BÖSCH, Joseph MEYER, Karl SCHWEGLER",1928 Amsterdam,Rowing,Men's,four-oared shell with coxswain
+Summer,1928,Bronze,POL,Poland,"Edmund JANKOWSKI, Franciszek BRONIKOWSKI, Bernard ORMANOWSKI, Leon BIRKHOLC, Boleslaw DREWEK",1928 Amsterdam,Rowing,Men's,four-oared shell with coxswain
+Summer,1928,Gold,USA,United States,"Hubert CALDWELL, Francis FREDERICK, Peter DONLON, Marvin STALDER, James WORKMAN, John BRINCK, Don BLESSING, William DALLY, William THOMPSON",1928 Amsterdam,Rowing,Men's,eight with coxswain (8+)
+Summer,1928,Silver,GBR,Great Britain,"Jack BERESFORD, Donald GOLLAN, James HAMILTON, Gordon KILLICK, Harold LANE, Guy NICKALLS, Arthur SULLEY, John BADCOCK, Harold WEST",1928 Amsterdam,Rowing,Men's,eight with coxswain (8+)
+Summer,1928,Bronze,CAN,Canada,"Frank FIDDES, John DONNELLY, Jack MURDOCK, Frederick HEDGES, John HAND, Edgar NORRIS, William ROSS, Athol MEECH, Herbert RICHARDSON",1928 Amsterdam,Rowing,Men's,eight with coxswain (8+)
+Summer,1928,Gold,NOR,Norway,"Håkon BRYHN, H.R.H. CROWN PRINCE OLAV, Erik ANKER, Johan ANKER",1928 Amsterdam,Sailing,Mixed,6m
+Summer,1928,Silver,DEN,Denmark,"Edmund Otto Jr. MOELLER, S. LINCK, Aage HÖY PEDERSEN, Peter SCHLÜTTER, Vilhelm VETT",1928 Amsterdam,Sailing,Mixed,6m
+Summer,1928,Bronze,EST,Estonia,"Andreas FÄHLMANN, Nikolai WEKSCHIN, Georg FÄHLMANN, William VON WIRÉN, Eberhard VOGDT",1928 Amsterdam,Sailing,Mixed,6m
+Summer,1928,Gold,FRA,France,Virginie HÉRIOT,1928 Amsterdam,Sailing,Mixed,8m
+Summer,1928,Silver,NED,Netherlands,"Johannes VAN HOOLWERFF, Maarten DE WIT, Hendrik KERSKEN, Cornelis VAN STAVEREN, Lambertus DOEDES",1928 Amsterdam,Sailing,Mixed,8m
+Summer,1928,Bronze,SWE,Sweden,"J.P. SANDBLOM, Carl SANDBLOM, Wilhelm TÖRSLEFF, Clarence HAMMAR, John SANDBLOM, Tore HOLM",1928 Amsterdam,Sailing,Mixed,8m
+Summer,1928,Gold,SWE,Sweden,Sven THORELL,1928 Amsterdam,Sailing,Mixed,12 foot dinghy individual
+Summer,1928,Silver,NOR,Norway,Henrik ROBERT,1928 Amsterdam,Sailing,Mixed,12 foot dinghy individual
+Summer,1928,Bronze,FIN,Finland,B. BROMAN,1928 Amsterdam,Sailing,Mixed,12 foot dinghy individual
+Summer,1928,Gold,USA,United States,Johnny WEISSMULLER,1928 Amsterdam,Swimming,Men's,100m freestyle
+Summer,1928,Silver,HUN,Hungary,István BÁRÁNY,1928 Amsterdam,Swimming,Men's,100m freestyle
+Summer,1928,Bronze,JPN,Japan,Katsuo TAKAISHI,1928 Amsterdam,Swimming,Men's,100m freestyle
+Summer,1928,Gold,ARG,Argentina,Alberto ZORRILLA,1928 Amsterdam,Swimming,Men's,400m freestyle
+Summer,1928,Silver,AUS,Australia,Andrew CHARLTON,1928 Amsterdam,Swimming,Men's,400m freestyle
+Summer,1928,Bronze,SWE,Sweden,Arne BORG,1928 Amsterdam,Swimming,Men's,400m freestyle
+Summer,1928,Gold,SWE,Sweden,Arne BORG,1928 Amsterdam,Swimming,Men's,1500m freestyle
+Summer,1928,Silver,AUS,Australia,Andrew CHARLTON,1928 Amsterdam,Swimming,Men's,1500m freestyle
+Summer,1928,Bronze,USA,United States,Clarence CRABBE,1928 Amsterdam,Swimming,Men's,1500m freestyle
+Summer,1928,Gold,JPN,Japan,Yoshiyuki TSURUTA,1928 Amsterdam,Swimming,Men's,200m breaststroke
+Summer,1928,Silver,GER,Germany,Erich RADEMACHER,1928 Amsterdam,Swimming,Men's,200m breaststroke
+Summer,1928,Bronze,PHI,Philippines,Teofilo YLDEFONZO,1928 Amsterdam,Swimming,Men's,200m breaststroke
+Summer,1928,Gold,USA,United States,George KOJAC,1928 Amsterdam,Swimming,Men's,100m backstroke
+Summer,1928,Silver,USA,United States,Walter LAUFER,1928 Amsterdam,Swimming,Men's,100m backstroke
+Summer,1928,Bronze,USA,United States,Paul WYATT,1928 Amsterdam,Swimming,Men's,100m backstroke
+Summer,1928,Gold,USA,United States,"Austin CLAPP, George KOJAC, Walter LAUFER, Johnny WEISSMULLER",1928 Amsterdam,Swimming,Men's,4x200m freestyle relay
+Summer,1928,Silver,JPN,Japan,"Hiroshi YONEYAMA, Tokuhei SADA, Katsuo TAKAISHI, Nobuo ARAI",1928 Amsterdam,Swimming,Men's,4x200m freestyle relay
+Summer,1928,Bronze,CAN,Canada,"Walter SPENCE, F. Munroe BOURNE, James THOMPSON, Garnet AULT",1928 Amsterdam,Swimming,Men's,4x200m freestyle relay
+Summer,1928,Gold,USA,United States,Albina OSIPOWICH,1928 Amsterdam,Swimming,Women's,100m freestyle
+Summer,1928,Silver,USA,United States,Eleanor GARATTI,1928 Amsterdam,Swimming,Women's,100m freestyle
+Summer,1928,Bronze,GBR,Great Britain,Joyce COOPER,1928 Amsterdam,Swimming,Women's,100m freestyle
+Summer,1928,Gold,USA,United States,Martha NORELIUS,1928 Amsterdam,Swimming,Women's,400m freestyle
+Summer,1928,Silver,NED,Netherlands,Maria Johanna PHILIPSEN-BRAUN,1928 Amsterdam,Swimming,Women's,400m freestyle
+Summer,1928,Bronze,USA,United States,Josephine MCKIM,1928 Amsterdam,Swimming,Women's,400m freestyle
+Summer,1928,Gold,GER,Germany,Hilde SCHRADER,1928 Amsterdam,Swimming,Women's,200m breaststroke
+Summer,1928,Silver,NED,Netherlands,Mietje BARON,1928 Amsterdam,Swimming,Women's,200m breaststroke
+Summer,1928,Bronze,GER,Germany,Lotte MÜHE,1928 Amsterdam,Swimming,Women's,200m breaststroke
+Summer,1928,Gold,NED,Netherlands,Maria Johanna PHILIPSEN-BRAUN,1928 Amsterdam,Swimming,Women's,100m backstroke
+Summer,1928,Silver,GBR,Great Britain,Ellen KING,1928 Amsterdam,Swimming,Women's,100m backstroke
+Summer,1928,Bronze,GBR,Great Britain,Joyce COOPER,1928 Amsterdam,Swimming,Women's,100m backstroke
+Summer,1928,Gold,USA,United States,"Adelaide LAMBERT, Martha NORELIUS, Albina OSIPOWICH, Eleanor GARATTI",1928 Amsterdam,Swimming,Women's,4x100m freestyle relay
+Summer,1928,Silver,GBR,Great Britain,"Joyce COOPER, Ellen KING, Sarah STEWART, Irene Vera TANNER",1928 Amsterdam,Swimming,Women's,4x100m freestyle relay
+Summer,1928,Bronze,RSA,South Africa,"Marie BEDFORD, Kathleen RUSSELL, Rhoda RENNIE, Frederica VAN DER GOES",1928 Amsterdam,Swimming,Women's,4x100m freestyle relay
+Summer,1928,Gold,GER,Germany,"Joachim RADEMACHER, Otto CORDES, Karl BÄHRE, Johann BLANK, Max AMANN, Erich RADEMACHER, Fritz GUNST, Emil BENECKE",1928 Amsterdam,Water Polo,Men's,water polo
+Summer,1928,Silver,HUN,Hungary,"Jozsef VERTESY, Ferenc KESERU, Alajos KESERU, Márton HOMONNAI, Sándor IVÁDY, Olivér HALASSY, István BARTA",1928 Amsterdam,Water Polo,Men's,water polo
+Summer,1928,Bronze,FRA,France,"Henri PADOU, Jules KEIGNAERT, Albert THÉVENON, Ernest ROGEZ, Achille TRIBOUILLET, Henri CUVELIER, Emile BULTEEL, Paul DUJARDIN, Albert VANDEPLANCKE",1928 Amsterdam,Water Polo,Men's,water polo
+Summer,1928,Gold,AUT,Austria,Franz ANDRYSEK,1928 Amsterdam,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1928,Silver,ITA,Italy,Pierino GABETTI,1928 Amsterdam,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1928,Bronze,GER,Germany,Hans WÖLPERT,1928 Amsterdam,Weightlifting,Men's,- 60kg (featherweight)
+Summer,1928,Gold,AUT,Austria,Hans HAAS,1928 Amsterdam,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1928,Gold,GER,Germany,Kurt HELBIG,1928 Amsterdam,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1928,Bronze,FRA,France,Fernand ARNOUT,1928 Amsterdam,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1928,Gold,FRA,France,Roger FRANÇOIS,1928 Amsterdam,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1928,Silver,ITA,Italy,Carlo GALIMBERTI,1928 Amsterdam,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1928,Bronze,NED,Netherlands,August SCHEFFER,1928 Amsterdam,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1928,Gold,EGY,Egypt,El Sayed Mohamed NOSSEIR,1928 Amsterdam,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1928,Silver,FRA,France,Louis HOSTIN,1928 Amsterdam,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1928,Bronze,NED,Netherlands,Johannes VERHEIJEN,1928 Amsterdam,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1928,Gold,GER,Germany,Josef STRASSBERGER,1928 Amsterdam,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1928,Silver,EST,Estonia,Arnold LUHAÄÄR,1928 Amsterdam,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1928,Bronze,TCH,Czechoslovakia,Jaroslav SKOBLA,1928 Amsterdam,Weightlifting,Men's,+ 82.5kg (heavyweight)
+Summer,1928,Gold,FIN,Finland,Kaarlo MÄKINEN,1928 Amsterdam,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1928,Silver,BEL,Belgium,Edmond SPAPEN,1928 Amsterdam,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1928,Bronze,CAN,Canada,James TRIFUNOV,1928 Amsterdam,Wrestling Freestyle,Men's,- 56kg (bantamweight)
+Summer,1928,Gold,USA,United States,Allie Roy MORRISON,1928 Amsterdam,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1928,Silver,FIN,Finland,Kustaa PIHLAJAMÄKI,1928 Amsterdam,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1928,Bronze,SUI,Switzerland,Hans MINDER,1928 Amsterdam,Wrestling Freestyle,Men's,56 - 61kg (featherweight)
+Summer,1928,Gold,EST,Estonia,Osvald KAPP,1928 Amsterdam,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1928,Silver,FRA,France,Charles PACÔME,1928 Amsterdam,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1928,Bronze,FIN,Finland,Eino Augusti LEINO,1928 Amsterdam,Wrestling Freestyle,Men's,61 - 66kg (lightweight)
+Summer,1928,Gold,FIN,Finland,Arvo HAAVISTO,1928 Amsterdam,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1928,Silver,USA,United States,Lloyd APPLETON,1928 Amsterdam,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1928,Bronze,CAN,Canada,Maurice E. LETCHFORD,1928 Amsterdam,Wrestling Freestyle,Men's,66 - 72kg (welterweight)
+Summer,1928,Gold,SUI,Switzerland,Ernst KYBURZ,1928 Amsterdam,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1928,Silver,CAN,Canada,Donald Parker STOCKTON,1928 Amsterdam,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1928,Bronze,GBR,Great Britain,Samuel RABIN,1928 Amsterdam,Wrestling Freestyle,Men's,72 - 79kg (middleweight)
+Summer,1928,Gold,SWE,Sweden,Thure SJÖSTEDT,1928 Amsterdam,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1928,Silver,SUI,Switzerland,Arnold BÖGLI,1928 Amsterdam,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1928,Bronze,FRA,France,Henri LEFÈBRE,1928 Amsterdam,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1928,Gold,SWE,Sweden,Johan RICKTTOFF,1928 Amsterdam,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1928,Silver,FIN,Finland,Aukusti SIHVOLA,1928 Amsterdam,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1928,Bronze,FRA,France,Edmond DAME,1928 Amsterdam,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1928,Gold,GER,Germany,Kurt LEUCHT,1928 Amsterdam,Wrestling Greco-Roman,Men's,- 58kg (bantamweight)
+Summer,1928,Silver,TCH,Czechoslovakia,Jindrich MAUDR,1928 Amsterdam,Wrestling Greco-Roman,Men's,- 58kg (bantamweight)
+Summer,1928,Bronze,ITA,Italy,Giovanni GOZZI,1928 Amsterdam,Wrestling Greco-Roman,Men's,- 58kg (bantamweight)
+Summer,1928,Gold,EST,Estonia,Voldemar VÄLI,1928 Amsterdam,Wrestling Greco-Roman,Men's,58 - 60kg (featherweight)
+Summer,1928,Silver,SWE,Sweden,Eric MALMBERG,1928 Amsterdam,Wrestling Greco-Roman,Men's,58 - 60kg (featherweight)
+Summer,1928,Bronze,ITA,Italy,Gerolamo QUAGLIA,1928 Amsterdam,Wrestling Greco-Roman,Men's,58 - 60kg (featherweight)
+Summer,1928,Gold,HUN,Hungary,Lajos KERESZTES,1928 Amsterdam,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1928,Silver,GER,Germany,Eduard SPERLING,1928 Amsterdam,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1928,Bronze,FIN,Finland,Edvard WESTERLUND,1928 Amsterdam,Wrestling Greco-Roman,Men's,60 - 67.5kg (lightweight)
+Summer,1928,Gold,FIN,Finland,Väinö Anselmi KOKKINEN,1928 Amsterdam,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1928,Silver,HUN,Hungary,László PAPP,1928 Amsterdam,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1928,Bronze,EST,Estonia,Albert KUSNETS,1928 Amsterdam,Wrestling Greco-Roman,Men's,67.5 - 75kg (middleweight)
+Summer,1928,Gold,EGY,Egypt,Ibrahim MOUSTAFA,1928 Amsterdam,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1928,Silver,GER,Germany,Adolf RIEGER,1928 Amsterdam,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1928,Bronze,FIN,Finland,Onni PELLINEN,1928 Amsterdam,Wrestling Greco-Roman,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1928,Gold,SWE,Sweden,Rudolf SVENSSON,1928 Amsterdam,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1928,Silver,FIN,Finland,Hjalmar Eemil NYSTRÖM,1928 Amsterdam,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)
+Summer,1928,Bronze,GER,Germany,Georg GEHRING,1928 Amsterdam,Wrestling Greco-Roman,Men's,+ 82.5kg (super heavyweight)

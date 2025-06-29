@@ -1,0 +1,462 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1960,Gold,EUA,Unified Team of Germany,Armin HARY,1960 Rome,Athletics,Men's,100m
+Summer,1960,Silver,USA,United States,Dave SIME,1960 Rome,Athletics,Men's,100m
+Summer,1960,Bronze,GBR,Great Britain,Peter RADFORD,1960 Rome,Athletics,Men's,100m
+Summer,1960,Gold,ITA,Italy,Livio BERRUTI,1960 Rome,Athletics,Men's,200m
+Summer,1960,Silver,USA,United States,Lester Nelson CARNEY,1960 Rome,Athletics,Men's,200m
+Summer,1960,Bronze,FRA,France,Abdoulaye SEYE,1960 Rome,Athletics,Men's,200m
+Summer,1960,Gold,USA,United States,Otis DAVIS,1960 Rome,Athletics,Men's,400m
+Summer,1960,Silver,EUA,Unified Team of Germany,Carl KAUFMANN,1960 Rome,Athletics,Men's,400m
+Summer,1960,Bronze,RSA,South Africa,Malcolm SPENCE,1960 Rome,Athletics,Men's,400m
+Summer,1960,Gold,NZL,New Zealand,Peter SNELL,1960 Rome,Athletics,Men's,800m
+Summer,1960,Silver,BEL,Belgium,Roger MOENS,1960 Rome,Athletics,Men's,800m
+Summer,1960,Bronze,BWI,British West Indies,George KERR,1960 Rome,Athletics,Men's,800m
+Summer,1960,Gold,AUS,Australia,Herb ELLIOTT,1960 Rome,Athletics,Men's,1500m
+Summer,1960,Silver,FRA,France,Michel JAZY,1960 Rome,Athletics,Men's,1500m
+Summer,1960,Bronze,HUN,Hungary,István RÓZSAVÖLGYI,1960 Rome,Athletics,Men's,1500m
+Summer,1960,Gold,NZL,New Zealand,Murray HALBERG,1960 Rome,Athletics,Men's,5000m
+Summer,1960,Silver,EUA,Unified Team of Germany,Hans GRODOTZKI,1960 Rome,Athletics,Men's,5000m
+Summer,1960,Bronze,POL,Poland,Kazimierz ZIMNY,1960 Rome,Athletics,Men's,5000m
+Summer,1960,Gold,URS,USSR,Pyotr BOLOTNIKOV,1960 Rome,Athletics,Men's,10000m
+Summer,1960,Silver,EUA,Unified Team of Germany,Hans GRODOTZKI,1960 Rome,Athletics,Men's,10000m
+Summer,1960,Bronze,AUS,Australia,David POWER,1960 Rome,Athletics,Men's,10000m
+Summer,1960,Gold,ETH,Ethiopia,Abebe BIKILA,1960 Rome,Athletics,Men's,marathon
+Summer,1960,Silver,MAR,Morocco,Abdesiem RHADI BEN ABDESSELEM,1960 Rome,Athletics,Men's,marathon
+Summer,1960,Bronze,NZL,New Zealand,Barry MAGEE,1960 Rome,Athletics,Men's,marathon
+Summer,1960,Gold,USA,United States,Lee CALHOUN,1960 Rome,Athletics,Men's,110m hurdles
+Summer,1960,Silver,USA,United States,Willie MAY,1960 Rome,Athletics,Men's,110m hurdles
+Summer,1960,Bronze,USA,United States,Hayes JONES,1960 Rome,Athletics,Men's,110m hurdles
+Summer,1960,Gold,USA,United States,Glenn DAVIS,1960 Rome,Athletics,Men's,400m hurdles
+Summer,1960,Silver,USA,United States,Clifton Emmett CUSHMAN,1960 Rome,Athletics,Men's,400m hurdles
+Summer,1960,Bronze,USA,United States,Richard HOWARD,1960 Rome,Athletics,Men's,400m hurdles
+Summer,1960,Gold,POL,Poland,Zdzislaw KRZYSZKOWIAK,1960 Rome,Athletics,Men's,3000m steeplechase
+Summer,1960,Silver,URS,USSR,Nikolay SOKOLOV,1960 Rome,Athletics,Men's,3000m steeplechase
+Summer,1960,Bronze,URS,USSR,Semyon RZISHCHIN,1960 Rome,Athletics,Men's,3000m steeplechase
+Summer,1960,Gold,EUA,Unified Team of Germany,"Bernd CULLMANN, Martin LAUER, Armin HARY, Walter MAHLENDORF",1960 Rome,Athletics,Men's,4x100m relay
+Summer,1960,Silver,URS,USSR,"Gusman KOSANOV, Edvin OZOLIN, Yuri KONOVALOV, Leonid BARTENYEV",1960 Rome,Athletics,Men's,4x100m relay
+Summer,1960,Bronze,GBR,Great Britain,"Dave SEGAL, Nick WHITEHEAD, Peter RADFORD, David JONES",1960 Rome,Athletics,Men's,4x100m relay
+Summer,1960,Gold,USA,United States,"Otis DAVIS, Glenn DAVIS, Jack YERMAN, Earl YOUNG",1960 Rome,Athletics,Men's,4x400m relay
+Summer,1960,Silver,EUA,Unified Team of Germany,"Johannes KAISER, Manfred KINDER, Carl KAUFMANN, Hans-Joachim RESKE",1960 Rome,Athletics,Men's,4x400m relay
+Summer,1960,Bronze,BWI,British West Indies,"George KERR, Malcolm A.E. SPENCE, Keith GARDNER, James WEDDERBURN",1960 Rome,Athletics,Men's,4x400m relay
+Summer,1960,Gold,URS,USSR,Vladimir GOLUBNICHY,1960 Rome,Athletics,Men's,20km walk
+Summer,1960,Silver,AUS,Australia,Noel FREEMAN,1960 Rome,Athletics,Men's,20km walk
+Summer,1960,Bronze,GBR,Great Britain,Stanley Frank VICKERS,1960 Rome,Athletics,Men's,20km walk
+Summer,1960,Gold,GBR,Great Britain,Donald James THOMPSON,1960 Rome,Athletics,Men's,50km walk
+Summer,1960,Silver,SWE,Sweden,John LJUNGGREN,1960 Rome,Athletics,Men's,50km walk
+Summer,1960,Bronze,ITA,Italy,Abdon PAMICH,1960 Rome,Athletics,Men's,50km walk
+Summer,1960,Gold,USA,United States,Ralph BOSTON,1960 Rome,Athletics,Men's,long jump
+Summer,1960,Silver,USA,United States,Irvin ROBERSON,1960 Rome,Athletics,Men's,long jump
+Summer,1960,Bronze,URS,USSR,Igor TER-OVANESYAN,1960 Rome,Athletics,Men's,long jump
+Summer,1960,Gold,POL,Poland,Jozef SCHMIDT,1960 Rome,Athletics,Men's,triple jump
+Summer,1960,Silver,URS,USSR,Vladimir GORYAYEV,1960 Rome,Athletics,Men's,triple jump
+Summer,1960,Bronze,URS,USSR,Vitold KREYER,1960 Rome,Athletics,Men's,triple jump
+Summer,1960,Gold,URS,USSR,Robert SHAVLAKADZE,1960 Rome,Athletics,Men's,high jump
+Summer,1960,Silver,URS,USSR,Valeri BRUMEL,1960 Rome,Athletics,Men's,high jump
+Summer,1960,Bronze,USA,United States,John THOMAS,1960 Rome,Athletics,Men's,high jump
+Summer,1960,Gold,USA,United States,Don BRAGG,1960 Rome,Athletics,Men's,pole vault
+Summer,1960,Silver,USA,United States,Ronald MORRIS,1960 Rome,Athletics,Men's,pole vault
+Summer,1960,Bronze,FIN,Finland,Eeles LANDSTRÖM,1960 Rome,Athletics,Men's,pole vault
+Summer,1960,Gold,USA,United States,William NIEDER,1960 Rome,Athletics,Men's,shot put
+Summer,1960,Silver,USA,United States,Parry O'BRIEN,1960 Rome,Athletics,Men's,shot put
+Summer,1960,Bronze,USA,United States,Dallas LONG,1960 Rome,Athletics,Men's,shot put
+Summer,1960,Gold,USA,United States,Al OERTER,1960 Rome,Athletics,Men's,discus throw
+Summer,1960,Silver,USA,United States,Rink BABKA,1960 Rome,Athletics,Men's,discus throw
+Summer,1960,Bronze,USA,United States,Richard COCHRAN,1960 Rome,Athletics,Men's,discus throw
+Summer,1960,Gold,URS,USSR,Vasili RUDENKOV,1960 Rome,Athletics,Men's,hammer throw
+Summer,1960,Silver,HUN,Hungary,Gyula ZSIVÓTZKY,1960 Rome,Athletics,Men's,hammer throw
+Summer,1960,Bronze,POL,Poland,Tadeusz RUT,1960 Rome,Athletics,Men's,hammer throw
+Summer,1960,Gold,URS,USSR,Viktor TSYBULENKO,1960 Rome,Athletics,Men's,javelin throw
+Summer,1960,Silver,EUA,Unified Team of Germany,Walter KRÜGER,1960 Rome,Athletics,Men's,javelin throw
+Summer,1960,Bronze,HUN,Hungary,Gergely KULCSÁR,1960 Rome,Athletics,Men's,javelin throw
+Summer,1960,Gold,USA,United States,Rafer JOHNSON,1960 Rome,Athletics,Men's,decathlon
+Summer,1960,Silver,TPE,Republic of China (Taiwan),Chuan-Kwang YANG,1960 Rome,Athletics,Men's,decathlon
+Summer,1960,Bronze,URS,USSR,Vasily KUZNETSOV,1960 Rome,Athletics,Men's,decathlon
+Summer,1960,Gold,USA,United States,Wilma RUDOLPH,1960 Rome,Athletics,Women's,100m
+Summer,1960,Silver,GBR,Great Britain,Dorothy HYMAN,1960 Rome,Athletics,Women's,100m
+Summer,1960,Bronze,ITA,Italy,Giuseppina LEONE,1960 Rome,Athletics,Women's,100m
+Summer,1960,Gold,USA,United States,Wilma RUDOLPH,1960 Rome,Athletics,Women's,200m
+Summer,1960,Silver,EUA,Unified Team of Germany,Jutta HEINE,1960 Rome,Athletics,Women's,200m
+Summer,1960,Bronze,GBR,Great Britain,Dorothy HYMAN,1960 Rome,Athletics,Women's,200m
+Summer,1960,Gold,URS,USSR,Lyudmila SHEVTSOVA,1960 Rome,Athletics,Women's,800m
+Summer,1960,Silver,AUS,Australia,Brenda JONES,1960 Rome,Athletics,Women's,800m
+Summer,1960,Bronze,EUA,Unified Team of Germany,Ursula DONATH,1960 Rome,Athletics,Women's,800m
+Summer,1960,Gold,URS,USSR,Irina PRESS,1960 Rome,Athletics,Women's,80m hurdles
+Summer,1960,Silver,GBR,Great Britain,Carole QUINTON,1960 Rome,Athletics,Women's,80m hurdles
+Summer,1960,Bronze,EUA,Unified Team of Germany,Gisela KÖHLER,1960 Rome,Athletics,Women's,80m hurdles
+Summer,1960,Gold,USA,United States,"Martha HUDSON, Barbara JONES, Wilma RUDOLPH, Lucinda WILLIAMS",1960 Rome,Athletics,Women's,4x100m relay
+Summer,1960,Silver,EUA,Unified Team of Germany,"Anni BIECHL, Brunhilde HENDRIX, Jutta HEINE, Martha LANGBEIN",1960 Rome,Athletics,Women's,4x100m relay
+Summer,1960,Bronze,POL,Poland,"Halina RICHTER, Celina JESIONOWSKA, Teresa WIECZOREK, Barbara LERCZAK-JANISZEWSKA",1960 Rome,Athletics,Women's,4x100m relay
+Summer,1960,Gold,URS,USSR,Vera KOLASHNIKOVA-KREPKINA,1960 Rome,Athletics,Women's,long jump
+Summer,1960,Silver,POL,Poland,Elzbieta KRZESINSKA,1960 Rome,Athletics,Women's,long jump
+Summer,1960,Bronze,EUA,Unified Team of Germany,Hildrun CLAUS,1960 Rome,Athletics,Women's,long jump
+Summer,1960,Gold,ROU,Romania,Iolanda BALAS,1960 Rome,Athletics,Women's,high jump
+Summer,1960,Silver,GBR,Great Britain,Dorothy SHIRLEY,1960 Rome,Athletics,Women's,high jump
+Summer,1960,Silver,POL,Poland,Jaroslawa JÓZWIAKOWSKA,1960 Rome,Athletics,Women's,high jump
+Summer,1960,Gold,URS,USSR,Tamara PRESS,1960 Rome,Athletics,Women's,shot put
+Summer,1960,Silver,EUA,Unified Team of Germany,Johanna LÜTTGE,1960 Rome,Athletics,Women's,shot put
+Summer,1960,Bronze,USA,United States,Earlene BROWN,1960 Rome,Athletics,Women's,shot put
+Summer,1960,Gold,URS,USSR,Nina ROMASHKOVA,1960 Rome,Athletics,Women's,discus throw
+Summer,1960,Silver,URS,USSR,Tamara PRESS,1960 Rome,Athletics,Women's,discus throw
+Summer,1960,Bronze,ROU,Romania,Lia MANOLIU,1960 Rome,Athletics,Women's,discus throw
+Summer,1960,Gold,URS,USSR,Elvira OZOLINA,1960 Rome,Athletics,Women's,javelin throw
+Summer,1960,Silver,TCH,Czechoslovakia,Dana INGROVA-ZATOPKOVA,1960 Rome,Athletics,Women's,javelin throw
+Summer,1960,Bronze,URS,USSR,Birute KALEDIENE,1960 Rome,Athletics,Women's,javelin throw
+Summer,1960,Gold,USA,United States,"Jay ARNETTE, Burdette HALDORSON, Lester LANE, Jerry LUCAS, Oscar ROBERTSON, Terry DISCHINGER, Allen KELLEY, Darrall IMHOFF, Jerry WEST, Adrian SMITH, Robert BOOZER, Walter BELLAMY",1960 Rome,Basketball,Men's,basketball
+Summer,1960,Silver,URS,USSR,"Viktor ZUBKOV, Vladimir UGREKHELIDZE, Valdis MUIZNIEKS, Yury KORNEYEV, Aleksandr PETROV, Cesars OZERS, Albert VALTIN, Guram MINASHVILI, Maigonis VALDMANIS, Gennady VOLNOV, Jãnis KRÜMIN?, Mikhail SEMYONOV",1960 Rome,Basketball,Men's,basketball
+Summer,1960,Bronze,BRA,Brazil,"Edson BISPO DOS SANTOS, Waldyr GERALDO BOCCARDO, Moysés BLÁS, Eduardo SCHALL JATYR, Antonio SALVADOR SUCAR, Antonio PASOS AMAURY, Carlos DOMINGO MASSONI, Fernando PEREIRA DE FREITAS, Wlamir MARQUES, Waldemar BLATSKAUSKAS, Carmo DE SOUZA, Zenny DE AZEVEDO",1960 Rome,Basketball,Men's,basketball
+Summer,1960,Gold,HUN,Hungary,Gyula TÖRÖK,1960 Rome,Boxing,Men's,- 51kg (flyweight)
+Summer,1960,Silver,URS,USSR,Sergei SIVKO,1960 Rome,Boxing,Men's,- 51kg (flyweight)
+Summer,1960,Bronze,EGY,"United Arab Republic (Egypt, Syria)",Abdel Moneim EL GINDY,1960 Rome,Boxing,Men's,- 51kg (flyweight)
+Summer,1960,Bronze,JPN,Japan,Kiyoshi TANABE,1960 Rome,Boxing,Men's,- 51kg (flyweight)
+Summer,1960,Gold,URS,USSR,Oleg GRIGORYEV,1960 Rome,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1960,Silver,ITA,Italy,Primo ZAMPARINI,1960 Rome,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1960,Bronze,AUS,Australia,Oliver TAYLOR,1960 Rome,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1960,Bronze,POL,Poland,Brunon BENDIG,1960 Rome,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1960,Gold,ITA,Italy,Francesco MUSSO,1960 Rome,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1960,Silver,POL,Poland,Jerzy ADAMSKI,1960 Rome,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1960,Bronze,FIN,Finland,Jorma LIMMONEN,1960 Rome,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1960,Bronze,RSA,South Africa,William MEYERS,1960 Rome,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1960,Gold,POL,Poland,Kazimierz PAZDZIOR,1960 Rome,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1960,Silver,ITA,Italy,Alessandro LOPOPOLO,1960 Rome,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1960,Bronze,ARG,Argentina,Abel LAUDONIO,1960 Rome,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1960,Bronze,GBR,Great Britain,Richard MCTAGGART,1960 Rome,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1960,Gold,TCH,Czechoslovakia,Bohumil NEMECEK,1960 Rome,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1960,Silver,GHA,Ghana,Ike QUARTEY,1960 Rome,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1960,Bronze,POL,Poland,Marian KASPRZYK,1960 Rome,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1960,Bronze,USA,United States,Quincey DANIELS,1960 Rome,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1960,Gold,ITA,Italy,Giovanni BENVENUTI,1960 Rome,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1960,Silver,URS,USSR,Yuri RADONYAK,1960 Rome,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1960,Bronze,GBR,Great Britain,Jim LLOYD,1960 Rome,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1960,Bronze,POL,Poland,Leszek (Lech) DROGOSZ,1960 Rome,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1960,Gold,USA,United States,Wilbert MCCLURE,1960 Rome,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1960,Silver,ITA,Italy,Carmelo BOSSI,1960 Rome,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1960,Bronze,GBR,Great Britain,William FISHER,1960 Rome,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1960,Bronze,URS,USSR,Boris LAGUTIN,1960 Rome,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1960,Gold,USA,United States,Edward CROOK,1960 Rome,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1960,Silver,POL,Poland,Tadeusz WALASEK,1960 Rome,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1960,Bronze,ROU,Romania,Ion MONEA,1960 Rome,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1960,Bronze,URS,USSR,Yevgeny FEOFANOV,1960 Rome,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1960,Gold,USA,United States,Cassius CLAY,1960 Rome,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1960,Silver,POL,Poland,Zbigniew PIETRZYKOWSKI,1960 Rome,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1960,Bronze,AUS,Australia,Anthony MADIGAN,1960 Rome,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1960,Bronze,ITA,Italy,Giulio SARAUDI,1960 Rome,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1960,Gold,ITA,Italy,Francesco DE PICCOLI,1960 Rome,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1960,Silver,RSA,South Africa,Daniel BEKKER,1960 Rome,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1960,Bronze,TCH,Czechoslovakia,Josef NEMEC,1960 Rome,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1960,Bronze,EUA,Unified Team of Germany,Günter SIEGMUND,1960 Rome,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1960,Gold,DEN,Denmark,Erik HANSEN,1960 Rome,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1960,Silver,HUN,Hungary,Imre SZÖLLÖSI,1960 Rome,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1960,Bronze,SWE,Sweden,Gert FREDRIKSSON,1960 Rome,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1960,Gold,SWE,Sweden,"Gert FREDRIKSSON, Sven-Olov SJÖDELIUS",1960 Rome,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1960,Silver,HUN,Hungary,"AndrÃ¡s SZENTE, György MESZAROS",1960 Rome,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1960,Bronze,POL,Poland,"Wladyslaw ZIELINSKI, Stefan KAPLANIAK",1960 Rome,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1960,Gold,HUN,Hungary,János PARTI,1960 Rome,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1960,Silver,URS,USSR,Aleksandr SILAEV,1960 Rome,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1960,Bronze,ROU,Romania,Leon ROTMAN,1960 Rome,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1960,Gold,URS,USSR,"Sergey MAKARENKO, Leonid GEISHTOR",1960 Rome,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1960,Silver,ITA,Italy,"Aldo DEZI, Francesco LA MACCHIA",1960 Rome,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1960,Bronze,HUN,Hungary,"Imre FARKAS, Andras Istvan TÖRO",1960 Rome,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1960,Gold,EUA,Unified Team of Germany,"Günter PERLEBERG, Friedhelm WENTZKE, Paul LANGE, Dieter KRAUSE",1960 Rome,Canoe Sprint,Men's,K-1 4x500m
+Summer,1960,Silver,HUN,Hungary,"Imre KEMECSEY, AndrÃ¡s SZENTE, Imre SZÖLLÖSI, György MESZAROS",1960 Rome,Canoe Sprint,Men's,K-1 4x500m
+Summer,1960,Bronze,DEN,Denmark,"Arne HØYER, Erling JESSEN, Erik HANSEN, Helmuth Nyborg SÖRENSEN",1960 Rome,Canoe Sprint,Men's,K-1 4x500m
+Summer,1960,Gold,URS,USSR,Antonina SEREDINA,1960 Rome,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1960,Silver,EUA,Unified Team of Germany,Therese ZENZ,1960 Rome,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1960,Bronze,POL,Poland,Daniela WALKOWIAK,1960 Rome,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1960,Gold,URS,USSR,"Mariya SHUBINA, Antonina SEREDINA",1960 Rome,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1960,Silver,EUA,Unified Team of Germany,"Ingrid HARTMANN, Therese ZENZ",1960 Rome,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1960,Bronze,HUN,Hungary,"Klára BÁNFALVI, Vilma EGRESI",1960 Rome,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1960,Gold,URS,USSR,Viktor KAPITONOV,1960 Rome,Cycling Road,Men's,individual road race
+Summer,1960,Silver,ITA,Italy,Livio TRAPE,1960 Rome,Cycling Road,Men's,individual road race
+Summer,1960,Bronze,BEL,Belgium,Willy VAN DEN BERGHEN,1960 Rome,Cycling Road,Men's,individual road race
+Summer,1960,Gold,ITA,Italy,"Ottavio COGLIATI, Antonio BAILETTI, Livio TRAPE, Giacomo FORNONI",1960 Rome,Cycling Road,Men's,team time trial
+Summer,1960,Silver,EUA,Unified Team of Germany,"Erich HAGEN, Gustav-Adolf SCHUR, Günter LÖRKE, Egon ADLER",1960 Rome,Cycling Road,Men's,team time trial
+Summer,1960,Bronze,URS,USSR,"Alexei PETROV, Yevgeny KLEVTSOV, Yury MELIKHOV, Viktor KAPITONOV",1960 Rome,Cycling Road,Men's,team time trial
+Summer,1960,Gold,ITA,Italy,Sante GAIARDONI,1960 Rome,Cycling Track,Men's,sprint individual
+Summer,1960,Silver,BEL,Belgium,Leo STERCKX,1960 Rome,Cycling Track,Men's,sprint individual
+Summer,1960,Bronze,ITA,Italy,Valentino GASPARELLA,1960 Rome,Cycling Track,Men's,sprint individual
+Summer,1960,Gold,ITA,Italy,Sante GAIARDONI,1960 Rome,Cycling Track,Men's,1km time trial
+Summer,1960,Silver,EUA,Unified Team of Germany,Dieter GIESELER,1960 Rome,Cycling Track,Men's,1km time trial
+Summer,1960,Bronze,URS,USSR,Rostislav VARGASHKIN,1960 Rome,Cycling Track,Men's,1km time trial
+Summer,1960,Gold,ITA,Italy,"Giuseppe BEGHETTO, Sergio BIANCHETTO",1960 Rome,Cycling Track,Men's,2000m tandem
+Summer,1960,Silver,EUA,Unified Team of Germany,"Lothar STÄBER, Jürgen SIMON",1960 Rome,Cycling Track,Men's,2000m tandem
+Summer,1960,Bronze,URS,USSR,"Vladimir LEONOV, Boris VASILYEV",1960 Rome,Cycling Track,Men's,2000m tandem
+Summer,1960,Gold,ITA,Italy,"Marino VIGNA, Luigi ARIENTI, Franco TESTA, Mario VALLOTTO",1960 Rome,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1960,Silver,EUA,Unified Team of Germany,"Bernd BARLEBEN, Manfred KLIEME, Siegfried KÖHLER, Peter GRÖNING",1960 Rome,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1960,Bronze,URS,USSR,"Arnold BELGARDT, Stanislav MOSKVIN, Leonid KOLUMBET, Viktor ROMANOV",1960 Rome,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1960,Gold,USA,United States,Gary TOBIAN,1960 Rome,Diving,Men's,3m springboard
+Summer,1960,Silver,USA,United States,Samuel HALL,1960 Rome,Diving,Men's,3m springboard
+Summer,1960,Bronze,MEX,Mexico,Juan BOTELLA,1960 Rome,Diving,Men's,3m springboard
+Summer,1960,Gold,USA,United States,Robert WEBSTER,1960 Rome,Diving,Men's,10m platform
+Summer,1960,Silver,USA,United States,Gary TOBIAN,1960 Rome,Diving,Men's,10m platform
+Summer,1960,Bronze,GBR,Great Britain,Brian PHELPS,1960 Rome,Diving,Men's,10m platform
+Summer,1960,Gold,EUA,Unified Team of Germany,Ingrid KRÄMER,1960 Rome,Diving,Women's,3m springboard
+Summer,1960,Silver,USA,United States,Paula Jean MYERS-POPE,1960 Rome,Diving,Women's,3m springboard
+Summer,1960,Bronze,GBR,Great Britain,Elizabeth FERRIS,1960 Rome,Diving,Women's,3m springboard
+Summer,1960,Gold,EUA,Unified Team of Germany,Ingrid KRÄMER,1960 Rome,Diving,Women's,10m platform
+Summer,1960,Silver,USA,United States,Paula Jean MYERS-POPE,1960 Rome,Diving,Women's,10m platform
+Summer,1960,Bronze,URS,USSR,Ninel KRUTOVA,1960 Rome,Diving,Women's,10m platform
+Summer,1960,Gold,URS,USSR,Sergei FILATOV,1960 Rome,Equestrian Dressage,Mixed,individual
+Summer,1960,Silver,SUI,Switzerland,Gustav FISCHER,1960 Rome,Equestrian Dressage,Mixed,individual
+Summer,1960,Bronze,EUA,Unified Team of Germany,Josef NECKERMANN,1960 Rome,Equestrian Dressage,Mixed,individual
+Summer,1960,Gold,AUS,Australia,Lawrence MORGAN,1960 Rome,Equestrian Eventing,Mixed,individual
+Summer,1960,Silver,AUS,Australia,Neale LAVIS,1960 Rome,Equestrian Eventing,Mixed,individual
+Summer,1960,Bronze,SUI,Switzerland,Anton BÜHLER,1960 Rome,Equestrian Eventing,Mixed,individual
+Summer,1960,Gold,AUS,Australia,"Bill ROYCROFT, Neale LAVIS, Lawrence MORGAN",1960 Rome,Equestrian Eventing,Mixed,team
+Summer,1960,Silver,SUI,Switzerland,"Rudolf GUNTHARDT, Anton BÜHLER, Hans SCHWARZENBACH",1960 Rome,Equestrian Eventing,Mixed,team
+Summer,1960,Bronze,FRA,France,"Jean Raymond LE ROY, Guy LEFRANT, Jack LE GOFF",1960 Rome,Equestrian Eventing,Mixed,team
+Summer,1960,Gold,ITA,Italy,Raimondo D'INZEO,1960 Rome,Equestrian Jumping,Mixed,individual
+Summer,1960,Silver,ITA,Italy,Piero D'INZEO,1960 Rome,Equestrian Jumping,Mixed,individual
+Summer,1960,Bronze,GBR,Great Britain,David BROOME,1960 Rome,Equestrian Jumping,Mixed,individual
+Summer,1960,Gold,EUA,Unified Team of Germany,"Fritz THIEDEMANN, Alwin SCHOCKEMÖHLE, Hans Günter WINKLER",1960 Rome,Equestrian Jumping,Mixed,team
+Summer,1960,Silver,USA,United States,"Frank CHAPOT, George MORRIS, Bill STEINKRAUS",1960 Rome,Equestrian Jumping,Mixed,team
+Summer,1960,Bronze,ITA,Italy,"Raimondo D'INZEO, Antonio OPPES, Piero D'INZEO",1960 Rome,Equestrian Jumping,Mixed,team
+Summer,1960,Gold,ITA,Italy,Giuseppe DELFINO,1960 Rome,Fencing,Men's,épée individual
+Summer,1960,Silver,GBR,Great Britain,Allan JAY,1960 Rome,Fencing,Men's,épée individual
+Summer,1960,Bronze,URS,USSR,Bruno KHABAROV,1960 Rome,Fencing,Men's,épée individual
+Summer,1960,Gold,ITA,Italy,"Edoardo MANGIAROTTI, Carlo PAVESI, Alberto PELLEGRINO, Gianluigi SACCARO, Fiorenzo MARINI, Giuseppe DELFINO",1960 Rome,Fencing,Men's,épée team
+Summer,1960,Silver,GBR,Great Britain,"Raymond HARRISON, Michael ALEXANDER, Allan JAY, Michael HOWARD, Henry William Furse HOSKYNS, John PELLING",1960 Rome,Fencing,Men's,épée team
+Summer,1960,Bronze,URS,USSR,"Bruno KHABAROV, Valentin CHERNIKOV, Aleksandr PAVLOVSKY, Arnold CHERNUSHEVICH, Guram KOSTAVA",1960 Rome,Fencing,Men's,épée team
+Summer,1960,Gold,URS,USSR,Viktor ZHDANOVICH,1960 Rome,Fencing,Men's,foil individual
+Summer,1960,Silver,URS,USSR,Yuri SISIKIN,1960 Rome,Fencing,Men's,foil individual
+Summer,1960,Bronze,USA,United States,Albert AXELROD,1960 Rome,Fencing,Men's,foil individual
+Summer,1960,Gold,URS,USSR,"Viktor ZHDANOVICH, Yuri SISIKIN, German SVESHNIKOV, Yuri RUDOV, Mark MIDLER",1960 Rome,Fencing,Men's,foil team
+Summer,1960,Silver,ITA,Italy,"Aldo AUREGGI, Edoardo MANGIAROTTI, Luigi CARPANEDA, Alberto PELLEGRINO, Mario CURLETTO",1960 Rome,Fencing,Men's,foil team
+Summer,1960,Bronze,EUA,Unified Team of Germany,"Jürgen BRECHT, Jürgen THEUERKAUFF, Eberhard MEHL, Tim GERRESHEIM",1960 Rome,Fencing,Men's,foil team
+Summer,1960,Gold,HUN,Hungary,Rudolf KÁRPÁTI,1960 Rome,Fencing,Men's,sabre individual
+Summer,1960,Silver,HUN,Hungary,Zoltán HORVÁTH,1960 Rome,Fencing,Men's,sabre individual
+Summer,1960,Bronze,ITA,Italy,Wladimiro CALARESE,1960 Rome,Fencing,Men's,sabre individual
+Summer,1960,Gold,HUN,Hungary,"Tamás MENDELÉNYI, Zoltán HORVÁTH, Rudolf KÁRPÁTI, Gábor DELNEKY, Aladár GEREVICH, Pál KOVÁCS",1960 Rome,Fencing,Men's,sabre team
+Summer,1960,Silver,POL,Poland,"Jerzy PAWLOWSKI, Emil OCHYRA, Marian KUSZEWSKI, Ryszard ZUB, Wojciech ZABLOCKI, Andrzej PIATKOWSKI",1960 Rome,Fencing,Men's,sabre team
+Summer,1960,Bronze,ITA,Italy,"Wladimiro CALARESE, Roberto FERRARI, Pierluigi CHICCA, Giampaolo CALANCHINI, Mario RAVAGNAN",1960 Rome,Fencing,Men's,sabre team
+Summer,1960,Gold,EUA,Unified Team of Germany,Heidi SCHMID,1960 Rome,Fencing,Women's,foil individual
+Summer,1960,Silver,URS,USSR,Valentina RASTVOROVA,1960 Rome,Fencing,Women's,foil individual
+Summer,1960,Bronze,ROU,Romania,Maria VICOL,1960 Rome,Fencing,Women's,foil individual
+Summer,1960,Gold,URS,USSR,"Aleksandra ZABELINA, Galina GOROKHOVA, Valentina RASTVOROVA, Lyudmila SHISHOVA, Tatyana PETRENKO, Valentina PRUDSKOVA",1960 Rome,Fencing,Women's,foil team
+Summer,1960,Silver,HUN,Hungary,"Katalin JUHASZ-NAGY, Györgyi SZEKELY-MARVALICS, Lidia SÁKOVICS-DÖMÖLKY, Ildiko REJTO-UJLAKI, Magdolna NYARI-KOVACS",1960 Rome,Fencing,Women's,foil team
+Summer,1960,Bronze,ITA,Italy,"Irene CAMBER, Velleda CESARI, Antonella RAGNO, Bruna COLOMBETTI, Claudia PASINI",1960 Rome,Fencing,Women's,foil team
+Summer,1960,Gold,YUG,Yugoslavia,"Blagoje VIDINIC, Zeljko MATUS, Borivoje KOSTIC, Dusan MARAVIC, Zeljko PERUSIC, Andrija ANKOVIC, Antun ZANETIC, Silvester TAKAC, Tomislav KNEZ, Novak ROGANOVIC, Milutin SOSKIC, Fahrudin JUSUFI, Vladimir DURKOVIC, Aleksandar KOZLINA, Milan GALIC, Velimir SOMBOLAC",1960 Rome,Football,Men's,football
+Summer,1960,Silver,DEN,Denmark,"Bent HANSEN, Harald NIELSEN, Hans Christian NIELSEN, Jørn SØRENSEN, Paul Kuhlmann ANDERSEN, Poul JENSEN, Flemming NIELSEN, Henning ENOKSEN, John DANIELSEN, Tommy TROELSEN, Henry FROM, Poul PEDERSEN",1960 Rome,Football,Men's,football
+Summer,1960,Bronze,HUN,Hungary,"Ferenc KOVÁCS, Imre SÁTORI, János DUNAI, Florian ALBERT, Lajos FARAGÓ, Gyula RÁKOSI, PÃ¡l OROSZ, Gábor TÖRÖK, Dezsö NOVAK, Tibor (Laszlo) PAL, Pál VÁRHIDI, Oszkár VILEZSÁL, Zoltán DUDÁS, Laszlo (Tibor) PAL, Ernö SOLYMOSI, János GÖRÖCS, Jenö DALNOKI",1960 Rome,Football,Men's,football
+Summer,1960,Gold,URS,USSR,Boris SHAKHLIN,1960 Rome,Gymnastics Artistic,Men's,individual all-round
+Summer,1960,Silver,JPN,Japan,Takashi ONO,1960 Rome,Gymnastics Artistic,Men's,individual all-round
+Summer,1960,Bronze,URS,USSR,Yuri TITOV,1960 Rome,Gymnastics Artistic,Men's,individual all-round
+Summer,1960,Gold,JPN,Japan,"Takashi ONO, Takashi MITSUKURI, Yukio ENDO, Masao TAKEMOTO, Nobuyuki AIHARA, Shuji TSURUMI",1960 Rome,Gymnastics Artistic,Men's,team competition
+Summer,1960,Silver,URS,USSR,"Albert AZARYAN, Nikolai MILIGULO, Boris SHAKHLIN, Vladimir PORTNOY, Valeri KERDEMILIDI, Yuri TITOV",1960 Rome,Gymnastics Artistic,Men's,team competition
+Summer,1960,Bronze,ITA,Italy,"Pasquale CARMINUCCI, Franco MENICHELLI, Giovanni CARMINUCCI, Angelo VICARDI, Gianfranco MARZOLLA, Orlando POLMONARI",1960 Rome,Gymnastics Artistic,Men's,team competition
+Summer,1960,Gold,JPN,Japan,Nobuyuki AIHARA,1960 Rome,Gymnastics Artistic,Men's,floor exercises
+Summer,1960,Silver,URS,USSR,Yuri TITOV,1960 Rome,Gymnastics Artistic,Men's,floor exercises
+Summer,1960,Bronze,ITA,Italy,Franco MENICHELLI,1960 Rome,Gymnastics Artistic,Men's,floor exercises
+Summer,1960,Gold,URS,USSR,Boris SHAKHLIN,1960 Rome,Gymnastics Artistic,Men's,parallel bars
+Summer,1960,Silver,ITA,Italy,Giovanni CARMINUCCI,1960 Rome,Gymnastics Artistic,Men's,parallel bars
+Summer,1960,Bronze,JPN,Japan,Takashi ONO,1960 Rome,Gymnastics Artistic,Men's,parallel bars
+Summer,1960,Gold,JPN,Japan,Takashi ONO,1960 Rome,Gymnastics Artistic,Men's,vault
+Summer,1960,Gold,URS,USSR,Boris SHAKHLIN,1960 Rome,Gymnastics Artistic,Men's,vault
+Summer,1960,Bronze,URS,USSR,Vladimir PORTNOY,1960 Rome,Gymnastics Artistic,Men's,vault
+Summer,1960,Gold,URS,USSR,Albert AZARYAN,1960 Rome,Gymnastics Artistic,Men's,rings
+Summer,1960,Silver,URS,USSR,Boris SHAKHLIN,1960 Rome,Gymnastics Artistic,Men's,rings
+Summer,1960,Bronze,BUL,Bulgaria,Velik KAPSAZOV,1960 Rome,Gymnastics Artistic,Men's,rings
+Summer,1960,Bronze,JPN,Japan,Takashi ONO,1960 Rome,Gymnastics Artistic,Men's,rings
+Summer,1960,Gold,FIN,Finland,Eugen EKMAN,1960 Rome,Gymnastics Artistic,Men's,pommel horse
+Summer,1960,Gold,URS,USSR,Boris SHAKHLIN,1960 Rome,Gymnastics Artistic,Men's,pommel horse
+Summer,1960,Bronze,JPN,Japan,Shuji TSURUMI,1960 Rome,Gymnastics Artistic,Men's,pommel horse
+Summer,1960,Gold,JPN,Japan,Takashi ONO,1960 Rome,Gymnastics Artistic,Men's,horizontal bar
+Summer,1960,Silver,JPN,Japan,Masao TAKEMOTO,1960 Rome,Gymnastics Artistic,Men's,horizontal bar
+Summer,1960,Bronze,URS,USSR,Boris SHAKHLIN,1960 Rome,Gymnastics Artistic,Men's,horizontal bar
+Summer,1960,Gold,URS,USSR,Larisa LATYNINA,1960 Rome,Gymnastics Artistic,Women's,individual all-round
+Summer,1960,Silver,URS,USSR,Sofiya MURATOVA,1960 Rome,Gymnastics Artistic,Women's,individual all-round
+Summer,1960,Bronze,URS,USSR,Polina ASTAKHOVA,1960 Rome,Gymnastics Artistic,Women's,individual all-round
+Summer,1960,Gold,URS,USSR,"Tamara ZAMOTAYLOVA-LYUKHINA, Lidiya KALININA-IVANOVA, Sofiya MURATOVA, Polina ASTAKHOVA, Larisa LATYNINA, Margarita NIKOLAEVA",1960 Rome,Gymnastics Artistic,Women's,team competition
+Summer,1960,Silver,TCH,Czechoslovakia,"Eva VECHTOVA-BOSAKOVA, Matylda MATOU?KOVÁ, Ludmila ?VÉDOVÁ, Hana RUZICKOVA, Adolfina TACOVA-TKACIKOVA, Vera CÁSLAVSKÁ",1960 Rome,Gymnastics Artistic,Women's,team competition
+Summer,1960,Bronze,ROU,Romania,"Sonia IOVAN, Emilia VATASOIU, Uta PORECEANU, Elena LEUSTEANU-POPESCU-TEODORESCU, Elena MARGARIT-NICULESCU, Atanasia IONESCU-ALBU",1960 Rome,Gymnastics Artistic,Women's,team competition
+Summer,1960,Gold,URS,USSR,Larisa LATYNINA,1960 Rome,Gymnastics Artistic,Women's,floor exercises
+Summer,1960,Silver,URS,USSR,Polina ASTAKHOVA,1960 Rome,Gymnastics Artistic,Women's,floor exercises
+Summer,1960,Bronze,URS,USSR,Tamara ZAMOTAYLOVA-LYUKHINA,1960 Rome,Gymnastics Artistic,Women's,floor exercises
+Summer,1960,Gold,URS,USSR,Polina ASTAKHOVA,1960 Rome,Gymnastics Artistic,Women's,uneven bars
+Summer,1960,Silver,URS,USSR,Larisa LATYNINA,1960 Rome,Gymnastics Artistic,Women's,uneven bars
+Summer,1960,Bronze,URS,USSR,Tamara ZAMOTAYLOVA-LYUKHINA,1960 Rome,Gymnastics Artistic,Women's,uneven bars
+Summer,1960,Gold,URS,USSR,Margarita NIKOLAEVA,1960 Rome,Gymnastics Artistic,Women's,vault
+Summer,1960,Silver,URS,USSR,Sofiya MURATOVA,1960 Rome,Gymnastics Artistic,Women's,vault
+Summer,1960,Bronze,URS,USSR,Larisa LATYNINA,1960 Rome,Gymnastics Artistic,Women's,vault
+Summer,1960,Gold,TCH,Czechoslovakia,Eva VECHTOVA-BOSAKOVA,1960 Rome,Gymnastics Artistic,Women's,balance beam
+Summer,1960,Silver,URS,USSR,Larisa LATYNINA,1960 Rome,Gymnastics Artistic,Women's,balance beam
+Summer,1960,Bronze,URS,USSR,Sofiya MURATOVA,1960 Rome,Gymnastics Artistic,Women's,balance beam
+Summer,1960,Gold,PAK,Pakistan,"Ghulam RASUL, Abdul WAHEED, Kursheed ASLAM, Abdul RASHID, Habib Ali KIDDI, Mutih ULLAH, Ahmad BASHIR, Anwar Ahmad KHAN, Ahmad NASIR, Abdul HAMID, Mushtaq AHMAD, Noor ALAM, Hussain Atif MANZOOR",1960 Rome,Hockey,Men's,hockey
+Summer,1960,Silver,IND,India,"Leslie CLAUDIUS, Udham SINGH, John PETER, Raghbir SINGH BHOLA, Joseph ANTIC, Shankar LAXMAN, Prithipal SINGH, Joginder SINGH, Jaswant SINGH, Charanjit SINGH, Jaman LAL SHARMA, Mohinder LAL, Govind SAWANT",1960 Rome,Hockey,Men's,hockey
+Summer,1960,Bronze,ESP,Spain,"Juan Angel CALZADO DE CASTRO, Jose COLOMER RIBAS, Pedro ROIG JUNYENT, Pedro MURUA LEGUIZAMON, Francisco CABALLER SOTERAS, Carlos DEL COSO IGLESIAS, Ignacio MACAYA SANTOS DE LA MADRID, Jose Antonio DINARES MASSAGUE, Narciso VENTALLO SURRALLES, Eduardo DUALDE SANTOS DE LA MADRID, Pedro AMAT, Luis Maria USOZ QUINTANA, Joaquin DUALDE SANTOS DE LA MADRID, Rafael EGUSQUIZA BASTERRA",1960 Rome,Hockey,Men's,hockey
+Summer,1960,Gold,HUN,Hungary,Ferenc NÉMETH,1960 Rome,Modern Pentathlon,Men's,individual competition
+Summer,1960,Silver,HUN,Hungary,Imre NAGY,1960 Rome,Modern Pentathlon,Men's,individual competition
+Summer,1960,Bronze,USA,United States,Robert BECK,1960 Rome,Modern Pentathlon,Men's,individual competition
+Summer,1960,Gold,HUN,Hungary,"Ferenc NÉMETH, Andras BALCZO, Imre NAGY",1960 Rome,Modern Pentathlon,Men's,team competition
+Summer,1960,Silver,URS,USSR,"Nikolai TATARINOV, Hanno SELG, Igor NOVIKOV",1960 Rome,Modern Pentathlon,Men's,team competition
+Summer,1960,Bronze,USA,United States,"Jack DANIELS, George LAMBERT, Robert BECK",1960 Rome,Modern Pentathlon,Men's,team competition
+Summer,1960,Gold,URS,USSR,Vyacheslav IVANOV,1960 Rome,Rowing,Men's,single sculls (1x)
+Summer,1960,Silver,EUA,Unified Team of Germany,Achim HILL,1960 Rome,Rowing,Men's,single sculls (1x)
+Summer,1960,Bronze,POL,Poland,Teodor KOCERKA,1960 Rome,Rowing,Men's,single sculls (1x)
+Summer,1960,Gold,TCH,Czechoslovakia,"Vaclav KOZAK, Pavel SCHMIDT",1960 Rome,Rowing,Men's,double sculls (2x)
+Summer,1960,Silver,URS,USSR,"Yuri TYUKALOV, Aleksandr BERKUTOV",1960 Rome,Rowing,Men's,double sculls (2x)
+Summer,1960,Bronze,SUI,Switzerland,"Ernst HÜRLIMANN, Rolf LARCHER",1960 Rome,Rowing,Men's,double sculls (2x)
+Summer,1960,Gold,URS,USSR,"Valentin BOREYKO, Oleg GOLOVANOV",1960 Rome,Rowing,Men's,pair without coxswain (2-)
+Summer,1960,Silver,AUT,Austria,"Alfred SAGEDER, Josef KLOIMSTEIN",1960 Rome,Rowing,Men's,pair without coxswain (2-)
+Summer,1960,Bronze,FIN,Finland,"Veli LEHTELÄ, Toimi PITKÄNEN",1960 Rome,Rowing,Men's,pair without coxswain (2-)
+Summer,1960,Gold,EUA,Unified Team of Germany,"Bernhard KNUBEL, Klaus ZERTA, Heinz RENNEBERG",1960 Rome,Rowing,Men's,pair-oared shell with coxswain
+Summer,1960,Silver,URS,USSR,"Antanas BAGDONAVICIUS, Zigmas JUKNA, Igor RUDAKOV",1960 Rome,Rowing,Men's,pair-oared shell with coxswain
+Summer,1960,Bronze,USA,United States,"Richard DRAEGER, Henry MITCHELL, Conn FINDLAY",1960 Rome,Rowing,Men's,pair-oared shell with coxswain
+Summer,1960,Gold,USA,United States,"Arthur AYRAULT, Richard WAILES, Ted NASH, John SAYRE",1960 Rome,Rowing,Men's,four without coxswain (4-)
+Summer,1960,Silver,ITA,Italy,"Renato BOSATTA, Giancarlo CROSTA, Tullio BARAGLIA, Giuseppe GALANTE",1960 Rome,Rowing,Men's,four without coxswain (4-)
+Summer,1960,Bronze,URS,USSR,"Igor AKHREMCHIK, Valentin MORKOVKIN, Yuri BACHUROV, Anatoli TARABRIN",1960 Rome,Rowing,Men's,four without coxswain (4-)
+Summer,1960,Gold,EUA,Unified Team of Germany,"Gerd CINTL, Jürgen LITZ, Klaus RIEKEMANN, Horst EFFERTZ, Michael OBST",1960 Rome,Rowing,Men's,four-oared shell with coxswain
+Summer,1960,Silver,FRA,France,"Guy NOSBAUM, Robert DUMONTOIS, Jean KLEIN, Claude MARTIN, Jacques MOREL",1960 Rome,Rowing,Men's,four-oared shell with coxswain
+Summer,1960,Bronze,ITA,Italy,"Ivo STEFANONI, Giovanni ZUCCHI, Fulvio BALATTI, Romano SGHEIZ, Franco TRINCAVELLI",1960 Rome,Rowing,Men's,four-oared shell with coxswain
+Summer,1960,Gold,EUA,Unified Team of Germany,"Walter SCHRÖDER, Karl-Heinrich VON GRODDECK, Hans LENK, Klaus BITTNER, Karl-Heinz HOPP, Frank SCHEPKE, Manfred RULFFS, Kraft SCHEPKE, Willi PADGE",1960 Rome,Rowing,Men's,eight with coxswain (8+)
+Summer,1960,Silver,CAN,Canada,"Sohen BILN, William MCKERLICH, John LECKY, Archibald MCKINNON, Walter D'HONDT, Nelson KUHN, Lorne LOOMER, Donald ARNOLD, Glen MERVYN",1960 Rome,Rowing,Men's,eight with coxswain (8+)
+Summer,1960,Bronze,TCH,Czechoslovakia,"Jirí LUNDÁK, Jan JINDRA, Miroslav KONICEK, Jan SVEDA, Josef VENTUS, Bohumil JANOUSEK, Stanislav LUSK, Václav PAVKOVIC, Ludek POJEZNY",1960 Rome,Rowing,Men's,eight with coxswain (8+)
+Summer,1960,Gold,USA,United States,"George O'DAY, James HUNT, David James SMITH",1960 Rome,Sailing,Mixed,5.5m
+Summer,1960,Silver,DEN,Denmark,"William BERNTSEN, Søren HANCKE, Steen CHRISTENSEN",1960 Rome,Sailing,Mixed,5.5m
+Summer,1960,Bronze,SUI,Switzerland,"Henri COPPONEX, Manfred METZGER, Pierre GIRARD",1960 Rome,Sailing,Mixed,5.5m
+Summer,1960,Gold,GRE,Greece,"Odysseus ESKITZOGLOU, Georgios ZAIMIS",1960 Rome,Sailing,Mixed,dragon
+Summer,1960,Silver,ARG,Argentina,"Jorge Alberto DEL RIO SALAS, Hector CALEGARIS, Jorge Alberto SALAS CHAVES",1960 Rome,Sailing,Mixed,dragon
+Summer,1960,Bronze,ITA,Italy,"Antonio CICILIANO, Antonio COSENTINO, Giulio DE STEFANO",1960 Rome,Sailing,Mixed,dragon
+Summer,1960,Gold,DEN,Denmark,Paul ELVSTROM,1960 Rome,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1960,Silver,URS,USSR,Aleksandr CHUCHELOV,1960 Rome,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1960,Bronze,BEL,Belgium,Andre NELIS,1960 Rome,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1960,Gold,URS,USSR,"Fyodor SHUTKOV, Timir PINEGIN",1960 Rome,Sailing,Mixed,two-person keelboat (Star)
+Summer,1960,Silver,POR,Portugal,"Jose Manuel Gentil QUINA, Mario QUINA",1960 Rome,Sailing,Mixed,two-person keelboat (Star)
+Summer,1960,Bronze,USA,United States,"Robert HALPERIN, William PARKS",1960 Rome,Sailing,Mixed,two-person keelboat (Star)
+Summer,1960,Gold,NOR,Norway,"Bjorn BERGVALL, Peder LUNDE JR.",1960 Rome,Sailing,Mixed,flying dutchman
+Summer,1960,Silver,DEN,Denmark,"Hans FOGH, Ole Erik Gunnar PETERSEN",1960 Rome,Sailing,Mixed,flying dutchman
+Summer,1960,Bronze,EUA,Unified Team of Germany,"Ingo VON BREDOW, Rolf MULKA",1960 Rome,Sailing,Mixed,flying dutchman
+Summer,1960,Gold,USA,United States,William MCMILLAN,1960 Rome,Shooting,Men's,25m rapid fire pistol
+Summer,1960,Silver,FIN,Finland,Pentti LINNOSVUO,1960 Rome,Shooting,Men's,25m rapid fire pistol
+Summer,1960,Bronze,URS,USSR,Aleksandr ZABELIN,1960 Rome,Shooting,Men's,25m rapid fire pistol
+Summer,1960,Gold,URS,USSR,Aleksey GUSHCHIN,1960 Rome,Shooting,Men's,50m pistol
+Summer,1960,Silver,URS,USSR,Makhmud UMAROV,1960 Rome,Shooting,Men's,50m pistol
+Summer,1960,Bronze,JPN,Japan,Yoshihisa YOSHIKAWA,1960 Rome,Shooting,Men's,50m pistol
+Summer,1960,Gold,EUA,Unified Team of Germany,Peter KOHNKE,1960 Rome,Shooting,Men's,50m rifle prone
+Summer,1960,Silver,USA,United States,James HILL,1960 Rome,Shooting,Men's,50m rifle prone
+Summer,1960,Bronze,VEN,Venezuela,Enrico FORCELLA PELLICCIONI,1960 Rome,Shooting,Men's,50m rifle prone
+Summer,1960,Gold,URS,USSR,Viktor SHAMBURKIN,1960 Rome,Shooting,Men's,50m rifle 3 positions
+Summer,1960,Silver,URS,USSR,Marat NIYAZOV,1960 Rome,Shooting,Men's,50m rifle 3 positions
+Summer,1960,Bronze,EUA,Unified Team of Germany,Klaus ZÄHRINGER,1960 Rome,Shooting,Men's,50m rifle 3 positions
+Summer,1960,Gold,AUT,Austria,Hubert HAMMERER,1960 Rome,Shooting,Men's,300m free rifle 3 positions
+Summer,1960,Silver,SUI,Switzerland,Hans Rudolf SPILLMANN,1960 Rome,Shooting,Men's,300m free rifle 3 positions
+Summer,1960,Bronze,URS,USSR,Vassily BORISOV,1960 Rome,Shooting,Men's,300m free rifle 3 positions
+Summer,1960,Gold,ROU,Romania,Ion DUMITRESCU,1960 Rome,Shooting,Men's,Trap
+Summer,1960,Silver,ITA,Italy,Galliano ROSSINI,1960 Rome,Shooting,Men's,Trap
+Summer,1960,Bronze,URS,USSR,Sergey KALININ,1960 Rome,Shooting,Men's,Trap
+Summer,1960,Gold,AUS,Australia,John DEVITT,1960 Rome,Swimming,Men's,100m freestyle
+Summer,1960,Silver,USA,United States,Lance LARSON,1960 Rome,Swimming,Men's,100m freestyle
+Summer,1960,Bronze,BRA,Brazil,Manoel DOS SANTOS,1960 Rome,Swimming,Men's,100m freestyle
+Summer,1960,Gold,AUS,Australia,Murray ROSE,1960 Rome,Swimming,Men's,400m freestyle
+Summer,1960,Silver,JPN,Japan,Tsuyoshi YAMANAKA,1960 Rome,Swimming,Men's,400m freestyle
+Summer,1960,Bronze,AUS,Australia,John KONRADS,1960 Rome,Swimming,Men's,400m freestyle
+Summer,1960,Gold,AUS,Australia,John KONRADS,1960 Rome,Swimming,Men's,1500m freestyle
+Summer,1960,Silver,AUS,Australia,Murray ROSE,1960 Rome,Swimming,Men's,1500m freestyle
+Summer,1960,Bronze,USA,United States,George BREEN,1960 Rome,Swimming,Men's,1500m freestyle
+Summer,1960,Gold,USA,United States,Bill MULLIKEN,1960 Rome,Swimming,Men's,200m breaststroke
+Summer,1960,Silver,JPN,Japan,Yoshihiko OSAKI,1960 Rome,Swimming,Men's,200m breaststroke
+Summer,1960,Bronze,NED,Netherlands,Wieger MENSONIDES,1960 Rome,Swimming,Men's,200m breaststroke
+Summer,1960,Gold,USA,United States,Mike TROY,1960 Rome,Swimming,Men's,200m butterfly
+Summer,1960,Silver,AUS,Australia,Neville HAYES,1960 Rome,Swimming,Men's,200m butterfly
+Summer,1960,Bronze,USA,United States,David GILLANDERS,1960 Rome,Swimming,Men's,200m butterfly
+Summer,1960,Gold,AUS,Australia,David THEILE,1960 Rome,Swimming,Men's,100m backstroke
+Summer,1960,Silver,USA,United States,Frank MCKINNEY,1960 Rome,Swimming,Men's,100m backstroke
+Summer,1960,Bronze,USA,United States,Robert BENNETT,1960 Rome,Swimming,Men's,100m backstroke
+Summer,1960,Gold,USA,United States,"George HARRISON, Jeff FARRELL, Richard BLICK, Mike TROY",1960 Rome,Swimming,Men's,4x200m freestyle relay
+Summer,1960,Silver,JPN,Japan,"Tatsuo FUJIMOTO, Makoto FUKUI, Tsuyoshi YAMANAKA, Hiroshi ISHII",1960 Rome,Swimming,Men's,4x200m freestyle relay
+Summer,1960,Bronze,AUS,Australia,"John DEVITT, David DICKSON, Murray ROSE, John KONRADS",1960 Rome,Swimming,Men's,4x200m freestyle relay
+Summer,1960,Gold,USA,United States,"Lance LARSON, Frank MCKINNEY, Paul HAIT, Jeff FARRELL",1960 Rome,Swimming,Men's,4x100m medley relay
+Summer,1960,Silver,AUS,Australia,"Terry GATHERCOLE, Geoffrey SHIPTON, David THEILE, Neville HAYES",1960 Rome,Swimming,Men's,4x100m medley relay
+Summer,1960,Bronze,JPN,Japan,"Koichi HIRAKIDA, Keigo SHIMIZU, Kazuo TOMITA, Yoshihiko OSAKI",1960 Rome,Swimming,Men's,4x100m medley relay
+Summer,1960,Gold,AUS,Australia,Dawn FRASER,1960 Rome,Swimming,Women's,100m freestyle
+Summer,1960,Silver,USA,United States,Chris VON SALTZA,1960 Rome,Swimming,Women's,100m freestyle
+Summer,1960,Bronze,GBR,Great Britain,Natalie STEWARD,1960 Rome,Swimming,Women's,100m freestyle
+Summer,1960,Gold,USA,United States,Chris VON SALTZA,1960 Rome,Swimming,Women's,400m freestyle
+Summer,1960,Silver,SWE,Sweden,Jane CEDERQVIST,1960 Rome,Swimming,Women's,400m freestyle
+Summer,1960,Bronze,NED,Netherlands,Tineke LAGERBERG,1960 Rome,Swimming,Women's,400m freestyle
+Summer,1960,Gold,GBR,Great Britain,Anita LONSBROUGH,1960 Rome,Swimming,Women's,200m breaststroke
+Summer,1960,Silver,EUA,Unified Team of Germany,Wiltrud URSELMANN,1960 Rome,Swimming,Women's,200m breaststroke
+Summer,1960,Bronze,EUA,Unified Team of Germany,Barbara GÖBEL,1960 Rome,Swimming,Women's,200m breaststroke
+Summer,1960,Gold,USA,United States,Carolyn SCHULER,1960 Rome,Swimming,Women's,100m butterfly
+Summer,1960,Silver,NED,Netherlands,Marianne HEEMSKERK,1960 Rome,Swimming,Women's,100m butterfly
+Summer,1960,Bronze,AUS,Australia,Janice ANDREW,1960 Rome,Swimming,Women's,100m butterfly
+Summer,1960,Gold,USA,United States,Lynn BURKE,1960 Rome,Swimming,Women's,100m backstroke
+Summer,1960,Silver,GBR,Great Britain,Natalie STEWARD,1960 Rome,Swimming,Women's,100m backstroke
+Summer,1960,Bronze,JPN,Japan,Satoko TANAKA,1960 Rome,Swimming,Women's,100m backstroke
+Summer,1960,Gold,USA,United States,"Joan SPILLANE, Carolyn WOOD, Shirley STOBS, Chris VON SALTZA",1960 Rome,Swimming,Women's,4x100m freestyle relay
+Summer,1960,Silver,AUS,Australia,"Ilsa KONRADS, Dawn FRASER, Lorraine CRAPP, Alva COLQUHOUN",1960 Rome,Swimming,Women's,4x100m freestyle relay
+Summer,1960,Bronze,EUA,Unified Team of Germany,"Gisela WEISS, Heidi PECHSTEIN, Christel STEFFIN, Ursula BRUNNER",1960 Rome,Swimming,Women's,4x100m freestyle relay
+Summer,1960,Gold,USA,United States,"Patty KEMPNER, Chris VON SALTZA, Carolyn SCHULER, Lynn BURKE",1960 Rome,Swimming,Women's,4x100m medley relay
+Summer,1960,Silver,AUS,Australia,"Dawn FRASER, Marilyn WILSON, Janice ANDREW, Rosemary LASSIG",1960 Rome,Swimming,Women's,4x100m medley relay
+Summer,1960,Bronze,EUA,Unified Team of Germany,"Ingrid SCHMIDT, Bärbel FUHRMANN, Ursula KÜPER, Ursula BRUNNER",1960 Rome,Swimming,Women's,4x100m medley relay
+Summer,1960,Gold,ITA,Italy,"Salvatore GIONTA, Danio BARDI, Dante ROSSI, Giancarlo GUERRINI, Gianni LONZI, Rosario PARMEGIANI, Luigi MANNELLI, Eraldo PIZZO, Brunello SPINELLI, Franco LAVORATORI, Amedeo AMBRON, Giuseppe D'ALTRUI",1960 Rome,Water Polo,Men's,water polo
+Summer,1960,Silver,URS,USSR,"Yevgeny SALTSYN, Vyacheslav KURENNOY, Vladimir SEMYONOV, Leri GOGOLADZE, Yuri GRIGOROVSKY, Pyotr MSHVENIERADZE, Anatoly KARTASHOV, Boris GOYKHMAN, Vladimir NOVIKOV, Givi CHIKVANAYA, Viktor AGEYEV",1960 Rome,Water Polo,Men's,water polo
+Summer,1960,Bronze,HUN,Hungary,"Dezso GYARMATI, Mihály MAYER, LÃ¡szlÃ³ FELKAI, István HEVESI, György KÁRPÁTI, Péter RUSORÁN, András KATONA, Kalman MARKOVICS, Tivadar KANIZSA, Ottó BOROS, Zoltán DÖMÖTÖR, Laszlo JENEI",1960 Rome,Water Polo,Men's,water polo
+Summer,1960,Gold,USA,United States,Charles VINCI,1960 Rome,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1960,Silver,JPN,Japan,Yoshinobu MIYAKE,1960 Rome,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1960,Bronze,IRI,Iran,Esmail ELM-KHAH,1960 Rome,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1960,Gold,URS,USSR,Yevgeni MINAEV,1960 Rome,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1960,Silver,USA,United States,Isaac BERGER,1960 Rome,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1960,Bronze,ITA,Italy,Sebastiano MANNIRONI,1960 Rome,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1960,Gold,URS,USSR,Viktor BUSHUYEV,1960 Rome,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1960,Silver,SGP,"Singapore, British",Howe-Liang (Tiger) TAN,1960 Rome,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1960,Bronze,IRQ,Iraq,Abdul WAHID AZIZ,1960 Rome,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1960,Gold,URS,USSR,Aleksandr KURYNOV,1960 Rome,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1960,Silver,USA,United States,Tommy KONO,1960 Rome,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1960,Bronze,HUN,Hungary,Gyözö VERES,1960 Rome,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1960,Gold,POL,Poland,Ireneusz PALINSKI,1960 Rome,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1960,Silver,USA,United States,James GEORGE,1960 Rome,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1960,Bronze,POL,Poland,Jan BOCHENEK,1960 Rome,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1960,Gold,URS,USSR,Arkady Nikitich VOROBIEV,1960 Rome,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1960,Silver,URS,USSR,Trofim LOMAKIN,1960 Rome,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1960,Bronze,GBR,Great Britain,Louis MARTIN,1960 Rome,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1960,Gold,URS,USSR,Yuri VLASOV,1960 Rome,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1960,Silver,USA,United States,James BRADFORD,1960 Rome,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1960,Bronze,USA,United States,Norbert SCHEMANSKY,1960 Rome,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1960,Gold,TUR,Turkey,Ahmet BILEK,1960 Rome,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1960,Silver,JPN,Japan,Masayuki MATSUBARA,1960 Rome,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1960,Bronze,IRI,Iran,Mohammad Ebrahim SAIFPOUR-SAIDABADI,1960 Rome,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1960,Gold,USA,United States,Terry MCCANN,1960 Rome,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1960,Silver,BUL,Bulgaria,Nedjet ZALEV,1960 Rome,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1960,Bronze,POL,Poland,Tadeusz TROJANOWSKI,1960 Rome,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1960,Gold,TUR,Turkey,Mustafa DAGISTANLI,1960 Rome,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1960,Silver,BUL,Bulgaria,Stancho Ivanov KOLEV,1960 Rome,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1960,Bronze,URS,USSR,Vladimir RUBASHVILI,1960 Rome,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1960,Gold,USA,United States,Shelby Autrie WILSON,1960 Rome,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1960,Silver,URS,USSR,Vladimir SINYAVSKY,1960 Rome,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1960,Bronze,BUL,Bulgaria,Enyu Dimov VALTCHEV,1960 Rome,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1960,Gold,USA,United States,Douglas BLUBAUGH,1960 Rome,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1960,Silver,TUR,Turkey,Ismail OGAN,1960 Rome,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1960,Bronze,PAK,Pakistan,Muhammad BASHIR,1960 Rome,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1960,Gold,TUR,Turkey,Hasan GÜNGÖR,1960 Rome,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1960,Silver,URS,USSR,Georgi SKHIRTLADZE,1960 Rome,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1960,Bronze,SWE,Sweden,Hans ANTONSSON,1960 Rome,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1960,Gold,TUR,Turkey,Ismet ATLI,1960 Rome,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1960,Silver,IRI,Iran,Gholam Reza TAKHTI,1960 Rome,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1960,Bronze,URS,USSR,Anatoly ALBUL,1960 Rome,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1960,Gold,EUA,Unified Team of Germany,Wilfried DIETRICH,1960 Rome,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1960,Silver,TUR,Turkey,Hamit KAPLAN,1960 Rome,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1960,Bronze,URS,USSR,Savkus DZARASOV,1960 Rome,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1960,Gold,ROU,Romania,Dumitru PÎRVULESCU,1960 Rome,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1960,Silver,EGY,"United Arab Republic (Egypt, Syria)",Osman SAYED,1960 Rome,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1960,Bronze,IRI,Iran,Mohammad PAZIRAYE,1960 Rome,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1960,Gold,URS,USSR,Oleg KARAVAEV,1960 Rome,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1960,Silver,ROU,Romania,Ion CERNEA,1960 Rome,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1960,Bronze,BUL,Bulgaria,Dinko Petrov STOYKOV,1960 Rome,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1960,Gold,TUR,Turkey,Müzahir SILLE,1960 Rome,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1960,Silver,HUN,Hungary,Imre POLYÁK,1960 Rome,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1960,Bronze,URS,USSR,Konstantin Grigorevitch VYROPAYEV,1960 Rome,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1960,Gold,URS,USSR,Avtandil KORIDZE,1960 Rome,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1960,Silver,YUG,Yugoslavia,Branislav MARTINOVIC,1960 Rome,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1960,Bronze,SWE,Sweden,Gustav FREIJ,1960 Rome,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1960,Gold,TUR,Turkey,Mithat BAYRAK,1960 Rome,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1960,Silver,EUA,Unified Team of Germany,Günter MARITSCHNIGG,1960 Rome,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1960,Bronze,FRA,France,René SCHIERMEYER,1960 Rome,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1960,Gold,BUL,Bulgaria,Dimitar DOBREV,1960 Rome,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1960,Silver,EUA,Unified Team of Germany,Lothar METZ,1960 Rome,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1960,Bronze,ROU,Romania,Ion TARANU,1960 Rome,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1960,Gold,TUR,Turkey,Tevfik KIS,1960 Rome,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1960,Silver,BUL,Bulgaria,Krali Peytchev BIMBALOV,1960 Rome,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1960,Bronze,URS,USSR,Givi KARTOZIYA,1960 Rome,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1960,Gold,URS,USSR,Ivan BOGDAN,1960 Rome,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1960,Silver,EUA,Unified Team of Germany,Wilfried DIETRICH,1960 Rome,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1960,Bronze,TCH,Czechoslovakia,Bohumil KUBÁT,1960 Rome,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)

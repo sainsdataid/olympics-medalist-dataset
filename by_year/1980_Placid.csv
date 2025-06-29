@@ -1,0 +1,116 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Winter,1980,Gold,SWE,Sweden,Ingemar STENMARK,1980 Lake Placid,Alpine Skiing,Men's,slalom
+Winter,1980,Silver,USA,United States,Phillip MAHRE,1980 Lake Placid,Alpine Skiing,Men's,slalom
+Winter,1980,Bronze,SUI,Switzerland,Jacques LÜTHY,1980 Lake Placid,Alpine Skiing,Men's,slalom
+Winter,1980,Gold,SWE,Sweden,Ingemar STENMARK,1980 Lake Placid,Alpine Skiing,Men's,giant slalom
+Winter,1980,Silver,LIE,Liechtenstein,Andreas WENZEL,1980 Lake Placid,Alpine Skiing,Men's,giant slalom
+Winter,1980,Bronze,AUT,Austria,Hans ENN,1980 Lake Placid,Alpine Skiing,Men's,giant slalom
+Winter,1980,Gold,AUT,Austria,Leonhard STOCK,1980 Lake Placid,Alpine Skiing,Men's,downhill
+Winter,1980,Silver,AUT,Austria,Peter WIRNSBERGER,1980 Lake Placid,Alpine Skiing,Men's,downhill
+Winter,1980,Bronze,CAN,Canada,Steve PODBORSKI,1980 Lake Placid,Alpine Skiing,Men's,downhill
+Winter,1980,Gold,LIE,Liechtenstein,Hanni WENZEL,1980 Lake Placid,Alpine Skiing,Women's,slalom
+Winter,1980,Silver,FRG,Federal Republic of Germany,Christa KINSHOFER GUETHLEIN,1980 Lake Placid,Alpine Skiing,Women's,slalom
+Winter,1980,Bronze,SUI,Switzerland,Erika HESS,1980 Lake Placid,Alpine Skiing,Women's,slalom
+Winter,1980,Gold,LIE,Liechtenstein,Hanni WENZEL,1980 Lake Placid,Alpine Skiing,Women's,giant slalom
+Winter,1980,Silver,FRG,Federal Republic of Germany,Irene EPPLE,1980 Lake Placid,Alpine Skiing,Women's,giant slalom
+Winter,1980,Bronze,FRA,France,Perrine PELEN,1980 Lake Placid,Alpine Skiing,Women's,giant slalom
+Winter,1980,Gold,AUT,Austria,Annemarie MOSER-PROLL,1980 Lake Placid,Alpine Skiing,Women's,downhill
+Winter,1980,Silver,LIE,Liechtenstein,Hanni WENZEL,1980 Lake Placid,Alpine Skiing,Women's,downhill
+Winter,1980,Bronze,SUI,Switzerland,Marie-Theres NADIG,1980 Lake Placid,Alpine Skiing,Women's,downhill
+Winter,1980,Gold,GDR,German Democratic Republic,Frank ULLRICH,1980 Lake Placid,Biathlon,Men's,10km sprint
+Winter,1980,Silver,URS,USSR,Vladimir ALIKIN,1980 Lake Placid,Biathlon,Men's,10km sprint
+Winter,1980,Bronze,URS,USSR,Anatoly ALYABYEV,1980 Lake Placid,Biathlon,Men's,10km sprint
+Winter,1980,Gold,URS,USSR,Anatoly ALYABYEV,1980 Lake Placid,Biathlon,Men's,20km individual
+Winter,1980,Silver,GDR,German Democratic Republic,Frank ULLRICH,1980 Lake Placid,Biathlon,Men's,20km individual
+Winter,1980,Bronze,GDR,German Democratic Republic,Eberhard ROSCH,1980 Lake Placid,Biathlon,Men's,20km individual
+Winter,1980,Gold,URS,USSR,"Vladimir ALIKIN, Vladimir BARNACHOV, Aleksandr TIKHONOV, Anatoly ALYABYEV",1980 Lake Placid,Biathlon,Men's,4x7.5km relay
+Winter,1980,Silver,GDR,German Democratic Republic,"Mathias JUNG, Frank ULLRICH, Klaus SIEBERT, Eberhard ROSCH",1980 Lake Placid,Biathlon,Men's,4x7.5km relay
+Winter,1980,Bronze,FRG,Federal Republic of Germany,"Franz BERNREITER, Peter ANGERER, Hansi ESTNER, Gerhard WINKLER",1980 Lake Placid,Biathlon,Men's,4x7.5km relay
+Winter,1980,Gold,SUI,Switzerland,"Erich SCHÄRER, Joseph BENZ",1980 Lake Placid,Bobsleigh,Men's,two-man
+Winter,1980,Silver,GDR,German Democratic Republic,"Bernhard GERMESHAUSEN, Hans Jürgen GERHARDT",1980 Lake Placid,Bobsleigh,Men's,two-man
+Winter,1980,Bronze,GDR,German Democratic Republic,"Meinhard NEHMER, Bogdan MUSIOL",1980 Lake Placid,Bobsleigh,Men's,two-man
+Winter,1980,Gold,GDR,German Democratic Republic,"Meinhard NEHMER, Bernhard GERMESHAUSEN, Bogdan MUSIOL, Hans Jürgen GERHARDT",1980 Lake Placid,Bobsleigh,Men's,four-man
+Winter,1980,Silver,SUI,Switzerland,"Erich SCHÄRER, Rudolf MARTI, Ulrich BÄCHLI, Joseph BENZ",1980 Lake Placid,Bobsleigh,Men's,four-man
+Winter,1980,Bronze,GDR,German Democratic Republic,"Horst SCHÖNAU, Detlef RICHTER, Roland WETZIG, Andreas KIRCHNER",1980 Lake Placid,Bobsleigh,Men's,four-man
+Winter,1980,Gold,SWE,Sweden,Thomas WASSBERG,1980 Lake Placid,Cross Country Skiing,Men's,15km
+Winter,1980,Silver,FIN,Finland,Juha MIETO,1980 Lake Placid,Cross Country Skiing,Men's,15km
+Winter,1980,Bronze,NOR,Norway,Ove AUNLI,1980 Lake Placid,Cross Country Skiing,Men's,15km
+Winter,1980,Gold,URS,USSR,Nikolay ZIMYATOV,1980 Lake Placid,Cross Country Skiing,Men's,30km
+Winter,1980,Silver,URS,USSR,Vasily ROCHEV,1980 Lake Placid,Cross Country Skiing,Men's,30km
+Winter,1980,Bronze,BUL,Bulgaria,Ivan LEBANOV,1980 Lake Placid,Cross Country Skiing,Men's,30km
+Winter,1980,Gold,URS,USSR,Nikolay ZIMYATOV,1980 Lake Placid,Cross Country Skiing,Men's,50km
+Winter,1980,Silver,FIN,Finland,Juha MIETO,1980 Lake Placid,Cross Country Skiing,Men's,50km
+Winter,1980,Bronze,URS,USSR,Aleksandr ZAVYALOV,1980 Lake Placid,Cross Country Skiing,Men's,50km
+Winter,1980,Gold,URS,USSR,"Vasily ROCHEV, Yevgeny BELYAEV, Nikolay BAZHUKOV, Nikolay ZIMYATOV",1980 Lake Placid,Cross Country Skiing,Men's,4x10km relay
+Winter,1980,Silver,NOR,Norway,"Lars Erik ERIKSEN, Ove AUNLI, Per Knut AALAND, Oddvar BRAA",1980 Lake Placid,Cross Country Skiing,Men's,4x10km relay
+Winter,1980,Bronze,FIN,Finland,"Harri KIRVESNIEMI, Matti PITKÄNEN, Pertti TEURAJÄRVI, Juha MIETO",1980 Lake Placid,Cross Country Skiing,Men's,4x10km relay
+Winter,1980,Gold,URS,USSR,Raisa SMETANINA,1980 Lake Placid,Cross Country Skiing,Women's,5km
+Winter,1980,Silver,FIN,Finland,Hilkka RIIHIVUORI,1980 Lake Placid,Cross Country Skiing,Women's,5km
+Winter,1980,Bronze,TCH,Czechoslovakia,Kvetoslava JERIOVA,1980 Lake Placid,Cross Country Skiing,Women's,5km
+Winter,1980,Gold,GDR,German Democratic Republic,Barbara PETZOLD,1980 Lake Placid,Cross Country Skiing,Women's,10km
+Winter,1980,Silver,FIN,Finland,Hilkka RIIHIVUORI,1980 Lake Placid,Cross Country Skiing,Women's,10km
+Winter,1980,Bronze,FIN,Finland,Helena TAKALO,1980 Lake Placid,Cross Country Skiing,Women's,10km
+Winter,1980,Gold,GDR,German Democratic Republic,"Marlies ROSTOCK, Veronika SCHMIDT, Carola ANDING, Barbara PETZOLD",1980 Lake Placid,Cross Country Skiing,Women's,4x5km relay
+Winter,1980,Silver,URS,USSR,"Nina BALDYCHEVA, Galina KULAKOVA, Nina ROCHEVA, Raisa SMETANINA",1980 Lake Placid,Cross Country Skiing,Women's,4x5km relay
+Winter,1980,Bronze,NOR,Norway,"Brit PETTERSEN, Marit MYRMAEL, Anette BÖE, Berit AUNLI",1980 Lake Placid,Cross Country Skiing,Women's,4x5km relay
+Winter,1980,Gold,GBR,Great Britain,Robin COUSINS,1980 Lake Placid,Figure skating,Men's,individual
+Winter,1980,Silver,GDR,German Democratic Republic,Jan HOFFMANN,1980 Lake Placid,Figure skating,Men's,individual
+Winter,1980,Bronze,USA,United States,Charles TICKNER,1980 Lake Placid,Figure skating,Men's,individual
+Winter,1980,Gold,GDR,German Democratic Republic,Anett PÖTZSCH,1980 Lake Placid,Figure skating,Women's,individual
+Winter,1980,Silver,USA,United States,Linda FRATIANNE,1980 Lake Placid,Figure skating,Women's,individual
+Winter,1980,Bronze,FRG,Federal Republic of Germany,Dagmar LURZ,1980 Lake Placid,Figure skating,Women's,individual
+Winter,1980,Gold,URS,USSR,"Aleksandr ZAYTSEV, Irina RODNINA",1980 Lake Placid,Figure skating,Mixed,pairs
+Winter,1980,Silver,URS,USSR,"Sergey SHAKRAY, Marina CHERKASOVA",1980 Lake Placid,Figure skating,Mixed,pairs
+Winter,1980,Bronze,GDR,German Democratic Republic,"Uwe BEWERSDORFF, Manuela MAGER",1980 Lake Placid,Figure skating,Mixed,pairs
+Winter,1980,Gold,URS,USSR,"Gennady KARPONOSOV, Natalya LINICHUK",1980 Lake Placid,Figure skating,Mixed,ice dancing
+Winter,1980,Silver,HUN,Hungary,"Andras SALLAY, Krisztina REGÖCZY",1980 Lake Placid,Figure skating,Mixed,ice dancing
+Winter,1980,Bronze,URS,USSR,"Andrey MINENKOV, Irina MOISEYEVA",1980 Lake Placid,Figure skating,Mixed,ice dancing
+Winter,1980,Gold,USA,United States,"Michael RAMSEY, David CHRISTIAN, Mark JOHNSON, John HARRINGTON, William SCHNEIDER, Neal BROTEN, Eric STROBEL, Philip VERCHOTA, James CRAIG, William BAKER, Kenneth MORROW, Robert SUTER, David SILK, Robert MCCLANAHAN, Mark PAVELICH, Steven CHRISTOFF, Michael ERUZIONE, Mark WELLS, John O'CALLAHAN",1980 Lake Placid,Ice Hockey,Men's,ice hockey
+Winter,1980,Silver,URS,USSR,"Helmuts BALDERIS, Viacheslav FETISOV, Vladimir GOLIKOV, Valery KHARLAMOV, Yuri LEBEDEV, Aleksandr MALTSEV, Vladimir MYSHKIN, Vladimir PETROV, Sergei STARIKOV, Viktor ZHLUKTOV, Vladislav TRETYAK, Zinetula BILJALETDINOV, Aleksandr GOLIKOV, Aleksei KASATONOV, Vladimir KRUTOV, Sergei MAKAROV, Boris MIKHAYLOV, Vasili PERVUKHINE, Aleksandr SKVORTSOV, Valery VASILYEV",1980 Lake Placid,Ice Hockey,Men's,ice hockey
+Winter,1980,Bronze,SWE,Sweden,"Lars Haakan ERIKSSON, Lennart NORBERG, Leif HOLMGREN, Dan SÖDERSTRÖM, William LÖFQVIST, Sture ANDERSSON, Jan ERIKSSON, Mats WALTIN, Per LUNDQVIST, Mats NÄSLUND, Bengt LUNDHOLM, Bo BERGLUND, Lars MOLIN, Per-Eric LINDBERGH, Tomas JONSSON, Ulf WEINSTOCK, Tommy SAMUELSSON, Thomas ERIKSSON, Mats AAHLBERG",1980 Lake Placid,Ice Hockey,Men's,ice hockey
+Winter,1980,Gold,GDR,German Democratic Republic,Bernhard GLASS,1980 Lake Placid,Luge,Men's,singles
+Winter,1980,Silver,ITA,Italy,Paul HILDGARTNER,1980 Lake Placid,Luge,Men's,singles
+Winter,1980,Bronze,FRG,Federal Republic of Germany,Anton WINKLER,1980 Lake Placid,Luge,Men's,singles
+Winter,1980,Gold,URS,USSR,Vera ZOZULA,1980 Lake Placid,Luge,Women's,singles
+Winter,1980,Silver,GDR,German Democratic Republic,Melitta SOLLMANN,1980 Lake Placid,Luge,Women's,singles
+Winter,1980,Bronze,URS,USSR,Ingrida AMANTOVA,1980 Lake Placid,Luge,Women's,singles
+Winter,1980,Gold,GDR,German Democratic Republic,"Norbert HAHN, Hans RINN",1980 Lake Placid,Luge,Mixed,doubles
+Winter,1980,Silver,ITA,Italy,"Karl BRUNNER, Peter GSCHNITZER",1980 Lake Placid,Luge,Mixed,doubles
+Winter,1980,Bronze,AUT,Austria,"Karl SCHROTT, Georg FLUCKINGER",1980 Lake Placid,Luge,Mixed,doubles
+Winter,1980,Gold,GDR,German Democratic Republic,Ulrich WEHLING,1980 Lake Placid,Nordic Combined,Men's,individual
+Winter,1980,Silver,FIN,Finland,Jouko KARJALAINEN,1980 Lake Placid,Nordic Combined,Men's,individual
+Winter,1980,Bronze,GDR,German Democratic Republic,Konrad WINKLER,1980 Lake Placid,Nordic Combined,Men's,individual
+Winter,1980,Gold,AUT,Austria,Anton INNAUER,1980 Lake Placid,Ski Jumping,Men's,Normal Hill individual
+Winter,1980,Silver,GDR,German Democratic Republic,Manfred DECKERT,1980 Lake Placid,Ski Jumping,Men's,Normal Hill individual
+Winter,1980,Silver,JPN,Japan,Hirokazu YAGI,1980 Lake Placid,Ski Jumping,Men's,Normal Hill individual
+Winter,1980,Gold,FIN,Finland,Jouko TÖRMÄNEN,1980 Lake Placid,Ski Jumping,Men's,Large Hill individual
+Winter,1980,Silver,AUT,Austria,Hubert NEUPER,1980 Lake Placid,Ski Jumping,Men's,Large Hill individual
+Winter,1980,Bronze,FIN,Finland,Jari PUIKKONEN,1980 Lake Placid,Ski Jumping,Men's,Large Hill individual
+Winter,1980,Gold,USA,United States,Eric HEIDEN,1980 Lake Placid,Speed skating,Men's,500m
+Winter,1980,Silver,URS,USSR,Yevgeny KULIKOV,1980 Lake Placid,Speed skating,Men's,500m
+Winter,1980,Bronze,NED,Netherlands,Lieuwe DE BOER,1980 Lake Placid,Speed skating,Men's,500m
+Winter,1980,Gold,USA,United States,Eric HEIDEN,1980 Lake Placid,Speed skating,Men's,1000m
+Winter,1980,Silver,CAN,Canada,Gaetan BOUCHER,1980 Lake Placid,Speed skating,Men's,1000m
+Winter,1980,Bronze,NOR,Norway,Frode RÖNNING,1980 Lake Placid,Speed skating,Men's,1000m
+Winter,1980,Bronze,URS,USSR,Vladimir LOBANOV,1980 Lake Placid,Speed skating,Men's,1000m
+Winter,1980,Gold,USA,United States,Eric HEIDEN,1980 Lake Placid,Speed skating,Men's,1500m
+Winter,1980,Silver,NOR,Norway,Kai Arne STENSHJEMMET,1980 Lake Placid,Speed skating,Men's,1500m
+Winter,1980,Bronze,NOR,Norway,Terje ANDERSEN,1980 Lake Placid,Speed skating,Men's,1500m
+Winter,1980,Gold,USA,United States,Eric HEIDEN,1980 Lake Placid,Speed skating,Men's,5000m
+Winter,1980,Silver,NOR,Norway,Kai Arne STENSHJEMMET,1980 Lake Placid,Speed skating,Men's,5000m
+Winter,1980,Bronze,NOR,Norway,Tom Erik OXHOLM,1980 Lake Placid,Speed skating,Men's,5000m
+Winter,1980,Gold,USA,United States,Eric HEIDEN,1980 Lake Placid,Speed skating,Men's,10000m
+Winter,1980,Silver,NED,Netherlands,Piet KLEINE,1980 Lake Placid,Speed skating,Men's,10000m
+Winter,1980,Bronze,NOR,Norway,Tom Erik OXHOLM,1980 Lake Placid,Speed skating,Men's,10000m
+Winter,1980,Gold,GDR,German Democratic Republic,Karin KANIA,1980 Lake Placid,Speed skating,Women's,500m
+Winter,1980,Silver,USA,United States,Leah MUELLER,1980 Lake Placid,Speed skating,Women's,500m
+Winter,1980,Bronze,URS,USSR,Natalya PETRUSEVA,1980 Lake Placid,Speed skating,Women's,500m
+Winter,1980,Gold,URS,USSR,Natalya PETRUSEVA,1980 Lake Placid,Speed skating,Women's,1000m
+Winter,1980,Silver,USA,United States,Leah MUELLER,1980 Lake Placid,Speed skating,Women's,1000m
+Winter,1980,Bronze,GDR,German Democratic Republic,Silvia ALBRECHT,1980 Lake Placid,Speed skating,Women's,1000m
+Winter,1980,Gold,NED,Netherlands,Annie BORCKINK,1980 Lake Placid,Speed skating,Women's,1500m
+Winter,1980,Silver,NED,Netherlands,Adriana VISSER,1980 Lake Placid,Speed skating,Women's,1500m
+Winter,1980,Bronze,GDR,German Democratic Republic,Sabine BECKER,1980 Lake Placid,Speed skating,Women's,1500m
+Winter,1980,Gold,NOR,Norway,Björg Eva JENSEN,1980 Lake Placid,Speed skating,Women's,3000m
+Winter,1980,Silver,GDR,German Democratic Republic,Sabine BECKER,1980 Lake Placid,Speed skating,Women's,3000m
+Winter,1980,Bronze,USA,United States,Beth HEIDEN,1980 Lake Placid,Speed skating,Women's,3000m

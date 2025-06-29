@@ -1,0 +1,843 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1996,Gold,USA,United States,Хюш,1996 Atlanta,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,1996,Silver,SWE,Sweden,Петерссон,1996 Atlanta,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,1996,Bronze,KOR,Korea Republic,О Ку Мун,1996 Atlanta,Archery,Men's,individual (FITA Olympic round - 70m)
+Summer,1996,Gold,USA,United States,"Джонсон, Хюш, Уайт",1996 Atlanta,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,1996,Silver,KOR,Korea Republic,"О Кио Мун, Джан Йон Хо, Ким Бо Рам",1996 Atlanta,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,1996,Bronze,ITA,Italy,"Франгилли, Бисиани, Паренти",1996 Atlanta,Archery,Men's,team (FITA Olympic round - 70m)
+Summer,1996,Gold,KOR,Korea Republic,Ким Кун Вук,1996 Atlanta,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,1996,Silver,CHN,China,Хе Юн,1996 Atlanta,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,1996,Bronze,UKR,Ukraine,Садовничая,1996 Atlanta,Archery,Women's,individual (FITA Olympic round - 70m)
+Summer,1996,Gold,KOR,Korea Republic,"Юнь Хи Юн, Ким Йо Сун, Ким Кун Вук",1996 Atlanta,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,1996,Silver,GER,Germany,"Менсинг, Вагнер, Пфоль",1996 Atlanta,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,1996,Bronze,POL,Poland,"Клата, Джейсоль, Новицка",1996 Atlanta,Archery,Women's,team (FITA Olympic round - 70m)
+Summer,1996,Gold,USA,United States,"Клилэнд, Лесер, Сэвери, Саддат, Дироен-Лансер, Пис, Шнейдер, Тьен",1996 Atlanta,Artistic Swimming,Women's,team
+Summer,1996,Silver,CAN,Canada,"Кларк, Бремнер, Хулд-Маршан, Кулеша, Вудли, Ларсен, Фрешетт, Фонтейн, Рид, Александер",1996 Atlanta,Artistic Swimming,Women's,team
+Summer,1996,Bronze,JPN,Japan,,1996 Atlanta,Artistic Swimming,Women's,team
+Summer,1996,Gold,CAN,Canada,Бэйли,1996 Atlanta,Athletics,Men's,100m
+Summer,1996,Silver,NAM,Namibia,Фредерикс,1996 Atlanta,Athletics,Men's,100m
+Summer,1996,Bronze,TTO,Trinidad and Tobago,Болдон,1996 Atlanta,Athletics,Men's,100m
+Summer,1996,Gold,USA,United States,Джонсон,1996 Atlanta,Athletics,Men's,200m
+Summer,1996,Silver,NAM,Namibia,Фредерикс,1996 Atlanta,Athletics,Men's,200m
+Summer,1996,Bronze,TTO,Trinidad and Tobago,Болдон,1996 Atlanta,Athletics,Men's,200m
+Summer,1996,Gold,USA,United States,Джонсон,1996 Atlanta,Athletics,Men's,400m
+Summer,1996,Silver,GBR,Great Britain,Блэк,1996 Atlanta,Athletics,Men's,400m
+Summer,1996,Bronze,UGA,Uganda,Камога,1996 Atlanta,Athletics,Men's,400m
+Summer,1996,Gold,NOR,Norway,Родал,1996 Atlanta,Athletics,Men's,800m
+Summer,1996,Silver,RSA,South Africa,Сепенг,1996 Atlanta,Athletics,Men's,800m
+Summer,1996,Bronze,KEN,Kenya,Оньянча,1996 Atlanta,Athletics,Men's,800m
+Summer,1996,Gold,ALG,Algeria,Морсели,1996 Atlanta,Athletics,Men's,1500m
+Summer,1996,Silver,ESP,Spain,Качо,1996 Atlanta,Athletics,Men's,1500m
+Summer,1996,Bronze,KEN,Kenya,Кипкорир,1996 Atlanta,Athletics,Men's,1500m
+Summer,1996,Gold,BDI,Burundi,Нионгабо,1996 Atlanta,Athletics,Men's,5000m
+Summer,1996,Silver,KEN,Kenya,Биток,1996 Atlanta,Athletics,Men's,5000m
+Summer,1996,Bronze,MAR,Morocco,Булами,1996 Atlanta,Athletics,Men's,5000m
+Summer,1996,Gold,ETH,Ethiopia,Гебреселассие,1996 Atlanta,Athletics,Men's,10000m
+Summer,1996,Silver,KEN,Kenya,Тергат,1996 Atlanta,Athletics,Men's,10000m
+Summer,1996,Bronze,MAR,Morocco,Хиссу,1996 Atlanta,Athletics,Men's,10000m
+Summer,1996,Gold,RSA,South Africa,Тугване,1996 Atlanta,Athletics,Men's,marathon
+Summer,1996,Silver,KOR,Korea Republic,Ли Бон Джу,1996 Atlanta,Athletics,Men's,marathon
+Summer,1996,Bronze,KEN,Kenya,Вайнайна,1996 Atlanta,Athletics,Men's,marathon
+Summer,1996,Gold,USA,United States,Джонсон,1996 Atlanta,Athletics,Men's,110m hurdles
+Summer,1996,Silver,USA,United States,Крир,1996 Atlanta,Athletics,Men's,110m hurdles
+Summer,1996,Bronze,GER,Germany,Швартхофф,1996 Atlanta,Athletics,Men's,110m hurdles
+Summer,1996,Gold,USA,United States,Адкинс,1996 Atlanta,Athletics,Men's,400m hurdles
+Summer,1996,Silver,ZAM,Zambia,Матете,1996 Atlanta,Athletics,Men's,400m hurdles
+Summer,1996,Bronze,USA,United States,Дэвис,1996 Atlanta,Athletics,Men's,400m hurdles
+Summer,1996,Gold,KEN,Kenya,Кетер,1996 Atlanta,Athletics,Men's,3000m steeplechase
+Summer,1996,Silver,KEN,Kenya,Киптануи,1996 Atlanta,Athletics,Men's,3000m steeplechase
+Summer,1996,Bronze,ITA,Italy,Ламбрушини,1996 Atlanta,Athletics,Men's,3000m steeplechase
+Summer,1996,Gold,CAN,Canada,"Эсми, Сурин, Джилберт, Бэйли",1996 Atlanta,Athletics,Men's,4x100m relay
+Summer,1996,Silver,USA,United States,"Драммонд, Марш, Харден, Митчелл",1996 Atlanta,Athletics,Men's,4x100m relay
+Summer,1996,Bronze,BRA,Brazil,"Ар. Силва, Рибейру, Р. Да Силва, Ан. Силва",1996 Atlanta,Athletics,Men's,4x100m relay
+Summer,1996,Gold,USA,United States,"Смит, Миллс, Харрисон, Мэйбенк",1996 Atlanta,Athletics,Men's,4x400m relay
+Summer,1996,Silver,GBR,Great Britain,"Томас, Баулш, Ричардсон, Блэк",1996 Atlanta,Athletics,Men's,4x400m relay
+Summer,1996,Bronze,JAM,Jamaica,"Макдональд, Мартин, Кларк, Хотон",1996 Atlanta,Athletics,Men's,4x400m relay
+Summer,1996,Gold,ECU,Ecuador,Перес,1996 Atlanta,Athletics,Men's,20km walk
+Summer,1996,Silver,RUS,Russian Federation,Марков,1996 Atlanta,Athletics,Men's,20km walk
+Summer,1996,Bronze,MEX,Mexico,Сегура,1996 Atlanta,Athletics,Men's,20km walk
+Summer,1996,Gold,POL,Poland,Корженевски,1996 Atlanta,Athletics,Men's,50km walk
+Summer,1996,Silver,RUS,Russian Federation,Щенников,1996 Atlanta,Athletics,Men's,50km walk
+Summer,1996,Bronze,ESP,Spain,Массана,1996 Atlanta,Athletics,Men's,50km walk
+Summer,1996,Gold,USA,United States,Льюис,1996 Atlanta,Athletics,Men's,long jump
+Summer,1996,Silver,JAM,Jamaica,Бэкфорд,1996 Atlanta,Athletics,Men's,long jump
+Summer,1996,Bronze,USA,United States,Грин,1996 Atlanta,Athletics,Men's,long jump
+Summer,1996,Gold,USA,United States,Харрисон,1996 Atlanta,Athletics,Men's,triple jump
+Summer,1996,Silver,GBR,Great Britain,Эдвардс,1996 Atlanta,Athletics,Men's,triple jump
+Summer,1996,Bronze,CUB,Cuba,Кесада,1996 Atlanta,Athletics,Men's,triple jump
+Summer,1996,Gold,USA,United States,Остин,1996 Atlanta,Athletics,Men's,high jump
+Summer,1996,Silver,POL,Poland,Партыка,1996 Atlanta,Athletics,Men's,high jump
+Summer,1996,Bronze,GBR,Great Britain,Смит,1996 Atlanta,Athletics,Men's,high jump
+Summer,1996,Gold,FRA,France,Гальфон,1996 Atlanta,Athletics,Men's,pole vault
+Summer,1996,Silver,RUS,Russian Federation,Транденков,1996 Atlanta,Athletics,Men's,pole vault
+Summer,1996,Bronze,GER,Germany,Тивончик,1996 Atlanta,Athletics,Men's,pole vault
+Summer,1996,Gold,USA,United States,Барнс,1996 Atlanta,Athletics,Men's,shot put
+Summer,1996,Silver,USA,United States,Година,1996 Atlanta,Athletics,Men's,shot put
+Summer,1996,Bronze,UKR,Ukraine,Багач,1996 Atlanta,Athletics,Men's,shot put
+Summer,1996,Gold,GER,Germany,Ридель,1996 Atlanta,Athletics,Men's,discus throw
+Summer,1996,Silver,BLR,Belarus,Дубровщик,1996 Atlanta,Athletics,Men's,discus throw
+Summer,1996,Bronze,BLR,Belarus,Каптюх,1996 Atlanta,Athletics,Men's,discus throw
+Summer,1996,Gold,CZE,Czech Republic,Железны,1996 Atlanta,Athletics,Men's,javelin throw
+Summer,1996,Silver,GBR,Great Britain,Бакли,1996 Atlanta,Athletics,Men's,javelin throw
+Summer,1996,Bronze,FIN,Finland,Рети,1996 Atlanta,Athletics,Men's,javelin throw
+Summer,1996,Gold,HUN,Hungary,Кишш,1996 Atlanta,Athletics,Men's,hammer throw
+Summer,1996,Silver,USA,United States,Дил,1996 Atlanta,Athletics,Men's,hammer throw
+Summer,1996,Bronze,UKR,Ukraine,Крыкун,1996 Atlanta,Athletics,Men's,hammer throw
+Summer,1996,Gold,USA,United States,О'Брайен,1996 Atlanta,Athletics,Men's,decathlon
+Summer,1996,Silver,GER,Germany,Буземанн,1996 Atlanta,Athletics,Men's,decathlon
+Summer,1996,Bronze,CZE,Czech Republic,Дворак,1996 Atlanta,Athletics,Men's,decathlon
+Summer,1996,Gold,USA,United States,Диверс,1996 Atlanta,Athletics,Women's,100m
+Summer,1996,Silver,JAM,Jamaica,Отти,1996 Atlanta,Athletics,Women's,100m
+Summer,1996,Bronze,USA,United States,Торренс,1996 Atlanta,Athletics,Women's,100m
+Summer,1996,Gold,FRA,France,Перек,1996 Atlanta,Athletics,Women's,200m
+Summer,1996,Silver,JAM,Jamaica,Отти,1996 Atlanta,Athletics,Women's,200m
+Summer,1996,Bronze,NGR,Nigeria,Оньяли,1996 Atlanta,Athletics,Women's,200m
+Summer,1996,Gold,FRA,France,Перек,1996 Atlanta,Athletics,Women's,400m
+Summer,1996,Silver,AUS,Australia,Фримэн,1996 Atlanta,Athletics,Women's,400m
+Summer,1996,Bronze,NGR,Nigeria,Огункойя,1996 Atlanta,Athletics,Women's,400m
+Summer,1996,Gold,RUS,Russian Federation,Мастеркова,1996 Atlanta,Athletics,Women's,800m
+Summer,1996,Silver,CUB,Cuba,Кирот,1996 Atlanta,Athletics,Women's,800m
+Summer,1996,Bronze,MOZ,Mozambique,Мутола,1996 Atlanta,Athletics,Women's,800m
+Summer,1996,Gold,RUS,Russian Federation,Мастеркова,1996 Atlanta,Athletics,Women's,1500m
+Summer,1996,Silver,ROU,Romania,Сабо,1996 Atlanta,Athletics,Women's,1500m
+Summer,1996,Bronze,AUT,Austria,Кизль,1996 Atlanta,Athletics,Women's,1500m
+Summer,1996,Gold,CHN,China,Ван Цзюнся,1996 Atlanta,Athletics,Women's,5000m
+Summer,1996,Silver,KEN,Kenya,Конга,1996 Atlanta,Athletics,Women's,5000m
+Summer,1996,Bronze,ITA,Italy,Брунеи,1996 Atlanta,Athletics,Women's,5000m
+Summer,1996,Gold,POR,Portugal,Рибейру,1996 Atlanta,Athletics,Women's,10000m
+Summer,1996,Silver,CHN,China,Ван Цзюнся,1996 Atlanta,Athletics,Women's,10000m
+Summer,1996,Bronze,ETH,Ethiopia,Вами,1996 Atlanta,Athletics,Women's,10000m
+Summer,1996,Gold,ETH,Ethiopia,Роба,1996 Atlanta,Athletics,Women's,marathon
+Summer,1996,Silver,RUS,Russian Federation,Егорова,1996 Atlanta,Athletics,Women's,marathon
+Summer,1996,Bronze,JPN,Japan,Аримори,1996 Atlanta,Athletics,Women's,marathon
+Summer,1996,Gold,SWE,Sweden,Энквист,1996 Atlanta,Athletics,Women's,100m hurdles
+Summer,1996,Silver,SLO,Slovenia,Буковеч,1996 Atlanta,Athletics,Women's,100m hurdles
+Summer,1996,Bronze,FRA,France,Жирар-Лено,1996 Atlanta,Athletics,Women's,100m hurdles
+Summer,1996,Gold,JAM,Jamaica,Хеммингс,1996 Atlanta,Athletics,Women's,400m hurdles
+Summer,1996,Silver,USA,United States,Баттен,1996 Atlanta,Athletics,Women's,400m hurdles
+Summer,1996,Bronze,USA,United States,Бьюфорд-Бэйли,1996 Atlanta,Athletics,Women's,400m hurdles
+Summer,1996,Gold,USA,United States,"Диверс, Торренс, Гейнс, Миллер",1996 Atlanta,Athletics,Women's,4x100m relay
+Summer,1996,Silver,BAH,Bahamas,"Старрап, Файнс, Кларк, Дэвис",1996 Atlanta,Athletics,Women's,4x100m relay
+Summer,1996,Bronze,JAM,Jamaica,"Фриман, Митчелл, Катберт, Отти",1996 Atlanta,Athletics,Women's,4x100m relay
+Summer,1996,Gold,USA,United States,"Стивенс, Грэхем, Мелон, Майлз",1996 Atlanta,Athletics,Women's,4x400m relay
+Summer,1996,Silver,NGR,Nigeria,"Афолаби, Опара, Юсуф, Огункойя",1996 Atlanta,Athletics,Women's,4x400m relay
+Summer,1996,Bronze,GER,Germany,"Роландер, Рюккер, Кисабака, Бройер",1996 Atlanta,Athletics,Women's,4x400m relay
+Summer,1996,Gold,RUS,Russian Federation,Николаева,1996 Atlanta,Athletics,Women's,10000m walk
+Summer,1996,Silver,ITA,Italy,Перроне,1996 Atlanta,Athletics,Women's,10000m walk
+Summer,1996,Bronze,CHN,China,Ван Юань,1996 Atlanta,Athletics,Women's,10000m walk
+Summer,1996,Gold,NGR,Nigeria,Ажунва,1996 Atlanta,Athletics,Women's,long jump
+Summer,1996,Silver,ITA,Italy,Мэй,1996 Atlanta,Athletics,Women's,long jump
+Summer,1996,Bronze,USA,United States,Джойнер-Керси,1996 Atlanta,Athletics,Women's,long jump
+Summer,1996,Gold,UKR,Ukraine,Кравец,1996 Atlanta,Athletics,Women's,triple jump
+Summer,1996,Silver,RUS,Russian Federation,Ласовская,1996 Atlanta,Athletics,Women's,triple jump
+Summer,1996,Bronze,CZE,Czech Republic,Каспаркова,1996 Atlanta,Athletics,Women's,triple jump
+Summer,1996,Gold,BUL,Bulgaria,Костадинова,1996 Atlanta,Athletics,Women's,high jump
+Summer,1996,Silver,GRE,Greece,Бакоянни,1996 Atlanta,Athletics,Women's,high jump
+Summer,1996,Bronze,UKR,Ukraine,Бабакова,1996 Atlanta,Athletics,Women's,high jump
+Summer,1996,Gold,GER,Germany,Кумбернусс,1996 Atlanta,Athletics,Women's,shot put
+Summer,1996,Silver,CHN,China,Суй Синьмей,1996 Atlanta,Athletics,Women's,shot put
+Summer,1996,Bronze,RUS,Russian Federation,Худорошкина,1996 Atlanta,Athletics,Women's,shot put
+Summer,1996,Gold,GER,Germany,Вилудда,1996 Atlanta,Athletics,Women's,discus throw
+Summer,1996,Silver,RUS,Russian Federation,Садова,1996 Atlanta,Athletics,Women's,discus throw
+Summer,1996,Bronze,BLR,Belarus,Зверева,1996 Atlanta,Athletics,Women's,discus throw
+Summer,1996,Gold,FIN,Finland,Рантанен,1996 Atlanta,Athletics,Women's,javelin throw
+Summer,1996,Silver,AUS,Australia,Макпол,1996 Atlanta,Athletics,Women's,javelin throw
+Summer,1996,Bronze,NOR,Norway,Хаттестад,1996 Atlanta,Athletics,Women's,javelin throw
+Summer,1996,Gold,SYR,Syria,Шуаа,1996 Atlanta,Athletics,Women's,heptathlon
+Summer,1996,Silver,BLR,Belarus,Сазанович,1996 Atlanta,Athletics,Women's,heptathlon
+Summer,1996,Bronze,GBR,Great Britain,Льюис,1996 Atlanta,Athletics,Women's,heptathlon
+Summer,1996,Gold,DEN,Denmark,Хойер-Ларсен,1996 Atlanta,Badminton,Men's,singles
+Summer,1996,Silver,CHN,China,Дон Джион,1996 Atlanta,Badminton,Men's,singles
+Summer,1996,Bronze,MAS,Malaysia,Сидек,1996 Atlanta,Badminton,Men's,singles
+Summer,1996,Gold,INA,Indonesia,"Субадья, Майнаки",1996 Atlanta,Badminton,Men's,doubles
+Summer,1996,Silver,MAS,Malaysia,"Яп Ким Хок, Чеа Сун Кит",1996 Atlanta,Badminton,Men's,doubles
+Summer,1996,Bronze,INA,Indonesia,"Кантоно, Антониус",1996 Atlanta,Badminton,Men's,doubles
+Summer,1996,Gold,KOR,Korea Republic,Бан Су Хун,1996 Atlanta,Badminton,Women's,singles
+Summer,1996,Silver,INA,Indonesia,Аудина,1996 Atlanta,Badminton,Women's,singles
+Summer,1996,Bronze,INA,Indonesia,Сусанти,1996 Atlanta,Badminton,Women's,singles
+Summer,1996,Gold,CHN,China,"Же Фей, Жу Чжунь",1996 Atlanta,Badminton,Women's,doubles
+Summer,1996,Silver,KOR,Korea Republic,"Жил Юн А, Чжан Хи Ок",1996 Atlanta,Badminton,Women's,doubles
+Summer,1996,Bronze,CHN,China,"Синь Юань, Тан Юншу",1996 Atlanta,Badminton,Women's,doubles
+Summer,1996,Gold,KOR,Korea Republic,"Жил Юн А, Ким Дон Мун",1996 Atlanta,Badminton,Mixed,doubles
+Summer,1996,Silver,KOR,Korea Republic,"Жа Кун Минь, Парк Джу Бон",1996 Atlanta,Badminton,Mixed,doubles
+Summer,1996,Bronze,CHN,China,"Лью Цзяньцзюнь, Сунь Мань",1996 Atlanta,Badminton,Mixed,doubles
+Summer,1996,Gold,USA,United States,,1996 Atlanta,Basketball,Men's,basketball
+Summer,1996,Silver,SCG,Yugoslavia Federal Republic,,1996 Atlanta,Basketball,Men's,basketball
+Summer,1996,Bronze,LTU,Lithuania,,1996 Atlanta,Basketball,Men's,basketball
+Summer,1996,Gold,USA,United States,,1996 Atlanta,Basketball,Women's,basketball
+Summer,1996,Silver,BRA,Brazil,,1996 Atlanta,Basketball,Women's,basketball
+Summer,1996,Bronze,AUS,Australia,,1996 Atlanta,Basketball,Women's,basketball
+Summer,1996,Gold,USA,United States,"Кирай, Стеффес",1996 Atlanta,Beach Volleyball,Men's,beach volleyball
+Summer,1996,Silver,USA,United States,"Додд, Витмарш",1996 Atlanta,Beach Volleyball,Men's,beach volleyball
+Summer,1996,Bronze,CAN,Canada,"Чайлд, Хеес",1996 Atlanta,Beach Volleyball,Men's,beach volleyball
+Summer,1996,Gold,BRA,Brazil,"Силва, Переш",1996 Atlanta,Beach Volleyball,Women's,beach volleyball
+Summer,1996,Silver,BRA,Brazil,"Родригес, Самюэль",1996 Atlanta,Beach Volleyball,Women's,beach volleyball
+Summer,1996,Bronze,AUS,Australia,"Коок, Потхарст",1996 Atlanta,Beach Volleyball,Women's,beach volleyball
+Summer,1996,Gold,BUL,Bulgaria,Петров,1996 Atlanta,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1996,Silver,PHI,Philippines,Веласко,1996 Atlanta,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1996,Bronze,ESP,Spain,Лосано,1996 Atlanta,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1996,Bronze,UKR,Ukraine,Кирюхин,1996 Atlanta,Boxing,Men's,- 48kg (light-flyweight)
+Summer,1996,Gold,CUB,Cuba,Ромеро,1996 Atlanta,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1996,Silver,KAZ,Kazakhstan,Джумадилов,1996 Atlanta,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1996,Bronze,GER,Germany,Лунка,1996 Atlanta,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1996,Bronze,RUS,Russian Federation,Пакеев,1996 Atlanta,Boxing,Men's,48 - 51kg (flyweight)
+Summer,1996,Gold,HUN,Hungary,Ковач,1996 Atlanta,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1996,Silver,CUB,Cuba,Меса,1996 Atlanta,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1996,Bronze,RUS,Russian Federation,Малахбеков,1996 Atlanta,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1996,Bronze,THA,Thailand,Кхадро,1996 Atlanta,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1996,Gold,THA,Thailand,Камсинг,1996 Atlanta,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1996,Silver,BUL,Bulgaria,Тодоров,1996 Atlanta,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1996,Bronze,ARG,Argentina,Чакон,1996 Atlanta,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1996,Bronze,USA,United States,Мэйуотер,1996 Atlanta,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1996,Gold,ALG,Algeria,Солтани,1996 Atlanta,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1996,Silver,BUL,Bulgaria,Тончев,1996 Atlanta,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1996,Bronze,ROU,Romania,Дорофтей,1996 Atlanta,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1996,Bronze,USA,United States,Котин,1996 Atlanta,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1996,Gold,CUB,Cuba,Винент,1996 Atlanta,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1996,Silver,GER,Germany,Уркал,1996 Atlanta,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1996,Bronze,KAZ,Kazakhstan,Нязимбетов,1996 Atlanta,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1996,Bronze,TUN,Tunisia,Миссауи,1996 Atlanta,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1996,Gold,RUS,Russian Federation,Саитов,1996 Atlanta,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1996,Silver,CUB,Cuba,Эрнанандес,1996 Atlanta,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1996,Bronze,PUR,Puerto Rico,Сантос,1996 Atlanta,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1996,Bronze,ROU,Romania,Симион,1996 Atlanta,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1996,Gold,USA,United States,Рейд,1996 Atlanta,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1996,Silver,CUB,Cuba,Дюверхель,1996 Atlanta,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1996,Bronze,KAZ,Kazakhstan,Ибрагимов,1996 Atlanta,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1996,Bronze,UZB,Uzbekistan,Тулаганов,1996 Atlanta,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1996,Gold,CUB,Cuba,Эрнандес,1996 Atlanta,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1996,Silver,TUR,Turkey,Бейлероглу,1996 Atlanta,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1996,Bronze,ALG,Algeria,Бахари,1996 Atlanta,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1996,Bronze,USA,United States,Уэллс,1996 Atlanta,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1996,Gold,KAZ,Kazakhstan,Жиров,1996 Atlanta,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1996,Silver,KOR,Korea Republic,Ли Сьюн Бэ,1996 Atlanta,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1996,Bronze,GER,Germany,Ульрих,1996 Atlanta,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1996,Bronze,USA,United States,Тэрвер,1996 Atlanta,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1996,Gold,CUB,Cuba,Савон,1996 Atlanta,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1996,Silver,CAN,Canada,Дефиагбон,1996 Atlanta,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1996,Bronze,GER,Germany,Красниги,1996 Atlanta,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1996,Bronze,USA,United States,Джонс,1996 Atlanta,Boxing,Men's,81 - 91kg (heavyweight)
+Summer,1996,Gold,UKR,Ukraine,Кличко,1996 Atlanta,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1996,Silver,TGA,Tonga,Волфграм,1996 Atlanta,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1996,Bronze,NGR,Nigeria,Докивари,1996 Atlanta,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1996,Bronze,RUS,Russian Federation,Лезин,1996 Atlanta,Boxing,Men's,+ 91kg (super heavyweight)
+Summer,1996,Gold,GER,Germany,Фикс,1996 Atlanta,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1996,Silver,SLO,Slovenia,Веховар,1996 Atlanta,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1996,Bronze,GER,Germany,Беккер,1996 Atlanta,Canoe Slalom,Men's,K-1 (kayak single)
+Summer,1996,Gold,SVK,Slovakia,Мартикан,1996 Atlanta,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1996,Silver,CZE,Czech Republic,Поллерт,1996 Atlanta,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1996,Bronze,FRA,France,Эстанже,1996 Atlanta,Canoe Slalom,Men's,C-1 (canoe single)
+Summer,1996,Gold,FRA,France,"Адиссон, Форже",1996 Atlanta,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1996,Silver,CZE,Czech Republic,"Роган, Симек",1996 Atlanta,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1996,Bronze,GER,Germany,"Эренберг, Зенфт",1996 Atlanta,Canoe Slalom,Men's,C-2 (canoe double)
+Summer,1996,Gold,CZE,Czech Republic,Хилгертова,1996 Atlanta,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1996,Silver,USA,United States,Чладек,1996 Atlanta,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1996,Bronze,FRA,France,Фокс-Джерусалми,1996 Atlanta,Canoe Slalom,Women's,K-1 (kayak single)
+Summer,1996,Gold,ITA,Italy,Росси,1996 Atlanta,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1996,Silver,NOR,Norway,Хольманн,1996 Atlanta,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1996,Bronze,POL,Poland,Маркевич,1996 Atlanta,Canoe Sprint,Men's,K-1 500m (kayak single)
+Summer,1996,Gold,NOR,Norway,Хольманн,1996 Atlanta,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1996,Silver,ITA,Italy,Бономи,1996 Atlanta,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1996,Bronze,AUS,Australia,Робинсон,1996 Atlanta,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1996,Gold,GER,Germany,"Блюм, Гутше",1996 Atlanta,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1996,Silver,ITA,Italy,"Бономи, Скарпа",1996 Atlanta,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1996,Bronze,AUS,Australia,"Коллинз, Трим",1996 Atlanta,Canoe Sprint,Men's,K-2 500m (kayak double)
+Summer,1996,Gold,ITA,Italy,"Росси, Скарпа",1996 Atlanta,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1996,Silver,GER,Germany,"Блюм, Гутше",1996 Atlanta,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1996,Bronze,BUL,Bulgaria,"Кажанов, Душев",1996 Atlanta,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1996,Gold,GER,Germany,"Хофманн, Райнек, Винтер, Цабель",1996 Atlanta,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1996,Silver,HUN,Hungary,"Андрович, Хорват, Чипеш, Райна",1996 Atlanta,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1996,Bronze,RUS,Russian Federation,"Горобий, Цибульников, Верлин, Тищенко",1996 Atlanta,Canoe Sprint,Men's,K-4 1000m (kayak four)
+Summer,1996,Gold,CZE,Czech Republic,Доктор,1996 Atlanta,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1996,Silver,SVK,Slovakia,Княжовицки,1996 Atlanta,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1996,Bronze,HUN,Hungary,Пулаи,1996 Atlanta,Canoe Sprint,Men's,C-1 500m (canoe single)
+Summer,1996,Gold,CZE,Czech Republic,Доктор,1996 Atlanta,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1996,Silver,LAT,Latvia,Клементьев,1996 Atlanta,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1996,Bronze,HUN,Hungary,Зала,1996 Atlanta,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1996,Gold,HUN,Hungary,"Хорват, Колонич",1996 Atlanta,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1996,Silver,MDA,Moldova,"Ренейский, Журавский",1996 Atlanta,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1996,Bronze,ROU,Romania,"Андриев, Обрежа",1996 Atlanta,Canoe Sprint,Men's,C-2 500m (canoe double)
+Summer,1996,Gold,GER,Germany,"Диттмер, Кирхбах",1996 Atlanta,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1996,Silver,ROU,Romania,"Борсан, Главан",1996 Atlanta,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1996,Bronze,HUN,Hungary,"Хорват, Колонич",1996 Atlanta,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1996,Gold,HUN,Hungary,Кобан,1996 Atlanta,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1996,Silver,CAN,Canada,Брунет,1996 Atlanta,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1996,Bronze,ITA,Italy,Идем,1996 Atlanta,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1996,Gold,SWE,Sweden,"Андерссон, Гуннарссон",1996 Atlanta,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1996,Silver,GER,Germany,"Портвич, Фишер",1996 Atlanta,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1996,Bronze,AUS,Australia,"Борхерт, Вуд",1996 Atlanta,Canoe Sprint,Women's,K-2 500m (kayak double)
+Summer,1996,Gold,GER,Germany,"Портвич, Фишер, Муке, Шюкк",1996 Atlanta,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1996,Silver,SUI,Switzerland,"Баумер, Хараламоу, Эйхенберг, Мюллер",1996 Atlanta,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1996,Bronze,SWE,Sweden,"Андерссон, Олссон, Эрикссон, Розенквист",1996 Atlanta,Canoe Sprint,Women's,K-4 500m (kayak four)
+Summer,1996,Gold,NED,Netherlands,Брентьенс,1996 Atlanta,Cycling Mountain Bike,Men's,cross-country
+Summer,1996,Silver,SUI,Switzerland,Фришкнехт,1996 Atlanta,Cycling Mountain Bike,Men's,cross-country
+Summer,1996,Bronze,FRA,France,Мартинес,1996 Atlanta,Cycling Mountain Bike,Men's,cross-country
+Summer,1996,Gold,ITA,Italy,Пеццо,1996 Atlanta,Cycling Mountain Bike,Women's,cross-country
+Summer,1996,Silver,CAN,Canada,Сайдор,1996 Atlanta,Cycling Mountain Bike,Women's,cross-country
+Summer,1996,Bronze,USA,United States,Дематтеи,1996 Atlanta,Cycling Mountain Bike,Women's,cross-country
+Summer,1996,Gold,SUI,Switzerland,Ришар,1996 Atlanta,Cycling Road,Men's,individual road race
+Summer,1996,Silver,DEN,Denmark,Сорсен,1996 Atlanta,Cycling Road,Men's,individual road race
+Summer,1996,Bronze,GBR,Great Britain,Шиандри,1996 Atlanta,Cycling Road,Men's,individual road race
+Summer,1996,Gold,ESP,Spain,Индурайн,1996 Atlanta,Cycling Road,Men's,individual time trial
+Summer,1996,Silver,ESP,Spain,Олано,1996 Atlanta,Cycling Road,Men's,individual time trial
+Summer,1996,Bronze,GBR,Great Britain,Бордмэн,1996 Atlanta,Cycling Road,Men's,individual time trial
+Summer,1996,Gold,FRA,France,Лонго,1996 Atlanta,Cycling Road,Women's,individual road race
+Summer,1996,Silver,ITA,Italy,Кьяппа,1996 Atlanta,Cycling Road,Women's,individual road race
+Summer,1996,Bronze,CAN,Canada,Хьюз,1996 Atlanta,Cycling Road,Women's,individual road race
+Summer,1996,Gold,RUS,Russian Federation,Забирова,1996 Atlanta,Cycling Road,Women's,individual time trial
+Summer,1996,Silver,FRA,France,Лонго,1996 Atlanta,Cycling Road,Women's,individual time trial
+Summer,1996,Bronze,CAN,Canada,Хьюз,1996 Atlanta,Cycling Road,Women's,individual time trial
+Summer,1996,Gold,GER,Germany,Фидлер,1996 Atlanta,Cycling Track,Men's,sprint individual
+Summer,1996,Silver,USA,United States,Нотштайн,1996 Atlanta,Cycling Track,Men's,sprint individual
+Summer,1996,Bronze,CAN,Canada,Харнетт,1996 Atlanta,Cycling Track,Men's,sprint individual
+Summer,1996,Gold,ITA,Italy,Коллинелли,1996 Atlanta,Cycling Track,Men's,individual pursuit
+Summer,1996,Silver,FRA,France,Эрмено,1996 Atlanta,Cycling Track,Men's,individual pursuit
+Summer,1996,Bronze,AUS,Australia,Макги,1996 Atlanta,Cycling Track,Men's,individual pursuit
+Summer,1996,Gold,ITA,Italy,Мартинелло,1996 Atlanta,Cycling Track,Men's,points race
+Summer,1996,Silver,CAN,Canada,Уолтон,1996 Atlanta,Cycling Track,Men's,points race
+Summer,1996,Bronze,AUS,Australia,О'Грэди,1996 Atlanta,Cycling Track,Men's,points race
+Summer,1996,Gold,FRA,France,Руссо,1996 Atlanta,Cycling Track,Men's,1km time trial
+Summer,1996,Silver,USA,United States,Хартвелл,1996 Atlanta,Cycling Track,Men's,1km time trial
+Summer,1996,Bronze,JPN,Japan,Юмондзи,1996 Atlanta,Cycling Track,Men's,1km time trial
+Summer,1996,Gold,FRA,France,"Капелль, Монен, Эрмено, Моро",1996 Atlanta,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1996,Silver,RUS,Russian Federation,"Грицун, Марков, Кузнецов, Шантырь",1996 Atlanta,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1996,Bronze,AUS,Australia,"Айткен, Макги, О'Грэди, Вудс",1996 Atlanta,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1996,Gold,FRA,France,Балланже,1996 Atlanta,Cycling Track,Women's,sprint individual
+Summer,1996,Silver,AUS,Australia,Феррис,1996 Atlanta,Cycling Track,Women's,sprint individual
+Summer,1996,Bronze,NED,Netherlands,Харинга,1996 Atlanta,Cycling Track,Women's,sprint individual
+Summer,1996,Gold,ITA,Italy,Беллути,1996 Atlanta,Cycling Track,Women's,individual pursuit
+Summer,1996,Silver,FRA,France,Клинье,1996 Atlanta,Cycling Track,Women's,individual pursuit
+Summer,1996,Bronze,GER,Germany,Арндт,1996 Atlanta,Cycling Track,Women's,individual pursuit
+Summer,1996,Gold,FRA,France,Эван-Лансьен,1996 Atlanta,Cycling Track,Women's,points race
+Summer,1996,Silver,NED,Netherlands,Харинга,1996 Atlanta,Cycling Track,Women's,points race
+Summer,1996,Bronze,AUS,Australia,Тайлер-Шарман,1996 Atlanta,Cycling Track,Women's,points race
+Summer,1996,Gold,CHN,China,Сюн Ни,1996 Atlanta,Diving,Men's,3m springboard
+Summer,1996,Silver,CHN,China,Ю Джоучен,1996 Atlanta,Diving,Men's,3m springboard
+Summer,1996,Bronze,USA,United States,Лензи,1996 Atlanta,Diving,Men's,3m springboard
+Summer,1996,Gold,RUS,Russian Federation,Саутин,1996 Atlanta,Diving,Men's,10m platform
+Summer,1996,Silver,GER,Germany,Хемпель,1996 Atlanta,Diving,Men's,10m platform
+Summer,1996,Bronze,CHN,China,Сяо Хайлян,1996 Atlanta,Diving,Men's,10m platform
+Summer,1996,Gold,CHN,China,Фу Минся,1996 Atlanta,Diving,Women's,3m springboard
+Summer,1996,Silver,RUS,Russian Federation,Лашко,1996 Atlanta,Diving,Women's,3m springboard
+Summer,1996,Bronze,CAN,Canada,Пеллетье,1996 Atlanta,Diving,Women's,3m springboard
+Summer,1996,Gold,CHN,China,Фу Минся,1996 Atlanta,Diving,Women's,10m platform
+Summer,1996,Silver,GER,Germany,Вальтер,1996 Atlanta,Diving,Women's,10m platform
+Summer,1996,Bronze,USA,United States,Кларк,1996 Atlanta,Diving,Women's,10m platform
+Summer,1996,Gold,GER,Germany,Верт,1996 Atlanta,Equestrian Dressage,Mixed,individual
+Summer,1996,Silver,NED,Netherlands,Ван Грюнсвен,1996 Atlanta,Equestrian Dressage,Mixed,individual
+Summer,1996,Bronze,NED,Netherlands,Ротенбергер,1996 Atlanta,Equestrian Dressage,Mixed,individual
+Summer,1996,Gold,GER,Germany,"Верт, Балкенхоль, Шаудт, Теодореску",1996 Atlanta,Equestrian Dressage,Mixed,team
+Summer,1996,Silver,NED,Netherlands,"С. Ротенбергер, Г.Ротенбергер, Фрие, Ван Грюнсвен",1996 Atlanta,Equestrian Dressage,Mixed,team
+Summer,1996,Bronze,USA,United States,"Гибсон, Зайдель, Довер, Петерс",1996 Atlanta,Equestrian Dressage,Mixed,team
+Summer,1996,Gold,NZL,New Zealand,Тэйт,1996 Atlanta,Equestrian Eventing,Mixed,individual
+Summer,1996,Silver,NZL,New Zealand,Кларк,1996 Atlanta,Equestrian Eventing,Mixed,individual
+Summer,1996,Bronze,USA,United States,Милликин,1996 Atlanta,Equestrian Eventing,Mixed,individual
+Summer,1996,Gold,AUS,Australia,"Хой, Даттон, Шеффер, Ролтон",1996 Atlanta,Equestrian Eventing,Mixed,team
+Summer,1996,Silver,USA,United States,"К. О'Коннор, Дэвидсон, Д. О'Коннор, Хеннеберг",1996 Atlanta,Equestrian Eventing,Mixed,team
+Summer,1996,Bronze,NZL,New Zealand,"Николсон, Тейт, Джеффриз, Латта",1996 Atlanta,Equestrian Eventing,Mixed,team
+Summer,1996,Gold,GER,Germany,Киркофф,1996 Atlanta,Equestrian Jumping,Mixed,individual
+Summer,1996,Silver,SUI,Switzerland,Меллигер,1996 Atlanta,Equestrian Jumping,Mixed,individual
+Summer,1996,Bronze,FRA,France,Ледерманн,1996 Atlanta,Equestrian Jumping,Mixed,individual
+Summer,1996,Gold,GER,Germany,"Ниберг, Бирбаум, Слоотхак, Киркофф",1996 Atlanta,Equestrian Jumping,Mixed,team
+Summer,1996,Silver,USA,United States,"Мэтц, Барр-Ховард, Курцински, Леоне",1996 Atlanta,Equestrian Jumping,Mixed,team
+Summer,1996,Bronze,BRA,Brazil,"Йоханнпетер, Мету, Пессоа, Асеведу",1996 Atlanta,Equestrian Jumping,Mixed,team
+Summer,1996,Gold,ITA,Italy,Пуччини,1996 Atlanta,Fencing,Men's,foil individual
+Summer,1996,Silver,FRA,France,Плюменай,1996 Atlanta,Fencing,Men's,foil individual
+Summer,1996,Bronze,FRA,France,Буаден,1996 Atlanta,Fencing,Men's,foil individual
+Summer,1996,Gold,RUS,Russian Federation,"Павлович, Мамедов, Шевченко",1996 Atlanta,Fencing,Men's,foil team
+Summer,1996,Silver,POL,Poland,"Кшесиньски, Собчак, Радзевич",1996 Atlanta,Fencing,Men's,foil team
+Summer,1996,Bronze,CUB,Cuba,"Грегори, Гарсиа-Перес, Туккер",1996 Atlanta,Fencing,Men's,foil team
+Summer,1996,Gold,RUS,Russian Federation,Поздняков,1996 Atlanta,Fencing,Men's,sabre individual
+Summer,1996,Silver,RUS,Russian Federation,Шариков,1996 Atlanta,Fencing,Men's,sabre individual
+Summer,1996,Bronze,FRA,France,Туйа,1996 Atlanta,Fencing,Men's,sabre individual
+Summer,1996,Gold,RUS,Russian Federation,"Поздняков, Шариков, Кириенко",1996 Atlanta,Fencing,Men's,sabre team
+Summer,1996,Silver,HUN,Hungary,"Наваретт, Ковеш, Сабо",1996 Atlanta,Fencing,Men's,sabre team
+Summer,1996,Bronze,ITA,Italy,"Теренци, Казерта, Тарантино",1996 Atlanta,Fencing,Men's,sabre team
+Summer,1996,Gold,RUS,Russian Federation,Бекетов,1996 Atlanta,Fencing,Men's,épée individual
+Summer,1996,Silver,CUB,Cuba,Тревехо Перес,1996 Atlanta,Fencing,Men's,épée individual
+Summer,1996,Bronze,HUN,Hungary,Имре,1996 Atlanta,Fencing,Men's,épée individual
+Summer,1996,Gold,ITA,Italy,"Куомо, Рандаццо, Маццони",1996 Atlanta,Fencing,Men's,épée team
+Summer,1996,Silver,RUS,Russian Federation,"Колобков, Бекетов, Захаревич",1996 Atlanta,Fencing,Men's,épée team
+Summer,1996,Bronze,FRA,France,"Анри, Среки, Леру",1996 Atlanta,Fencing,Men's,épée team
+Summer,1996,Gold,ROU,Romania,Бадя,1996 Atlanta,Fencing,Women's,foil individual
+Summer,1996,Silver,ITA,Italy,Веццали,1996 Atlanta,Fencing,Women's,foil individual
+Summer,1996,Bronze,ITA,Italy,Триллини,1996 Atlanta,Fencing,Women's,foil individual
+Summer,1996,Gold,ITA,Italy,"Веццали, Бортолоцци, Триллини",1996 Atlanta,Fencing,Women's,foil team
+Summer,1996,Silver,ROU,Romania,"Скарлат, Бадя, Сабо",1996 Atlanta,Fencing,Women's,foil team
+Summer,1996,Bronze,GER,Germany,"Вебер, Фихтель-Мориц, Бау",1996 Atlanta,Fencing,Women's,foil team
+Summer,1996,Gold,FRA,France,Флессель,1996 Atlanta,Fencing,Women's,épée individual
+Summer,1996,Silver,FRA,France,Барлуа,1996 Atlanta,Fencing,Women's,épée individual
+Summer,1996,Bronze,HUN,Hungary,Шалаи-Хорват,1996 Atlanta,Fencing,Women's,épée individual
+Summer,1996,Gold,FRA,France,"Флессель, Барлуа, Морессе",1996 Atlanta,Fencing,Women's,épée team
+Summer,1996,Silver,ITA,Italy,"Уга, Чиеза, Дзалаффи",1996 Atlanta,Fencing,Women's,épée team
+Summer,1996,Bronze,RUS,Russian Federation,"Мазина, Азнавурян, Гараева",1996 Atlanta,Fencing,Women's,épée team
+Summer,1996,Gold,NGR,Nigeria,,1996 Atlanta,Football,Men's,football
+Summer,1996,Silver,ARG,Argentina,,1996 Atlanta,Football,Men's,football
+Summer,1996,Bronze,BRA,Brazil,,1996 Atlanta,Football,Men's,football
+Summer,1996,Gold,USA,United States,,1996 Atlanta,Football,Women's,football
+Summer,1996,Silver,CHN,China,,1996 Atlanta,Football,Women's,football
+Summer,1996,Bronze,NOR,Norway,,1996 Atlanta,Football,Women's,football
+Summer,1996,Gold,RUS,Russian Federation,"Подгорный, Труш, Воропаев, Крюков, Харьков, Немов",1996 Atlanta,Gymnastics Artistic,Men's,team competition
+Summer,1996,Silver,CHN,China,"Чжан Чжиньин, Шень Чжиань, Ли Сяошуань, Фань Бинь, Фань Хонбинь, Хуан Хуадон",1996 Atlanta,Gymnastics Artistic,Men's,team competition
+Summer,1996,Bronze,UKR,Ukraine,"Шамаенко, Светличный, Ермаков, Шарипов, Коробчинский, Мисютин",1996 Atlanta,Gymnastics Artistic,Men's,team competition
+Summer,1996,Gold,CHN,China,Ли Сяошуан,1996 Atlanta,Gymnastics Artistic,Men's,individual all-round
+Summer,1996,Silver,RUS,Russian Federation,Немов,1996 Atlanta,Gymnastics Artistic,Men's,individual all-round
+Summer,1996,Bronze,BLR,Belarus,Щербо,1996 Atlanta,Gymnastics Artistic,Men's,individual all-round
+Summer,1996,Gold,GRE,Greece,Мелиссанидис,1996 Atlanta,Gymnastics Artistic,Men's,floor exercises
+Summer,1996,Silver,CHN,China,Ли Сяошуан,1996 Atlanta,Gymnastics Artistic,Men's,floor exercises
+Summer,1996,Bronze,RUS,Russian Federation,Немов,1996 Atlanta,Gymnastics Artistic,Men's,floor exercises
+Summer,1996,Gold,UKR,Ukraine,Шарипов,1996 Atlanta,Gymnastics Artistic,Men's,parallel bars
+Summer,1996,Silver,USA,United States,Линч,1996 Atlanta,Gymnastics Artistic,Men's,parallel bars
+Summer,1996,Bronze,BLR,Belarus,Щербо,1996 Atlanta,Gymnastics Artistic,Men's,parallel bars
+Summer,1996,Gold,RUS,Russian Federation,Немов,1996 Atlanta,Gymnastics Artistic,Men's,vault
+Summer,1996,Silver,KOR,Korea Republic,Е Хон Чул,1996 Atlanta,Gymnastics Artistic,Men's,vault
+Summer,1996,Bronze,BLR,Belarus,Щербо,1996 Atlanta,Gymnastics Artistic,Men's,vault
+Summer,1996,Gold,ITA,Italy,Кеки,1996 Atlanta,Gymnastics Artistic,Men's,rings
+Summer,1996,Silver,HUN,Hungary,Чолани,1996 Atlanta,Gymnastics Artistic,Men's,rings
+Summer,1996,Silver,ROU,Romania,Буринча,1996 Atlanta,Gymnastics Artistic,Men's,rings
+Summer,1996,Gold,SUI,Switzerland,Ли Донхуа,1996 Atlanta,Gymnastics Artistic,Men's,pommel horse
+Summer,1996,Silver,ROU,Romania,Урзица,1996 Atlanta,Gymnastics Artistic,Men's,pommel horse
+Summer,1996,Bronze,RUS,Russian Federation,Немов,1996 Atlanta,Gymnastics Artistic,Men's,pommel horse
+Summer,1996,Gold,GER,Germany,Веккер,1996 Atlanta,Gymnastics Artistic,Men's,horizontal bar
+Summer,1996,Silver,BUL,Bulgaria,Дунев,1996 Atlanta,Gymnastics Artistic,Men's,horizontal bar
+Summer,1996,Bronze,BLR,Belarus,Щербо,1996 Atlanta,Gymnastics Artistic,Men's,horizontal bar
+Summer,1996,Bronze,CHN,China,Фань Бинь,1996 Atlanta,Gymnastics Artistic,Men's,horizontal bar
+Summer,1996,Bronze,RUS,Russian Federation,Немов,1996 Atlanta,Gymnastics Artistic,Men's,horizontal bar
+Summer,1996,Gold,USA,United States,"Фелпс, Миллер, Мочану, Борден, Чоу, Доуз, Страг",1996 Atlanta,Gymnastics Artistic,Women's,team competition
+Summer,1996,Silver,RUS,Russian Federation,"Грошева, Долгополова, Галиева, Кузнецова, Хоркина, Кочеткова, Ляпина",1996 Atlanta,Gymnastics Artistic,Women's,team competition
+Summer,1996,Bronze,ROU,Romania,"Тугурлан, Маринеску, Аманар, Лояш, Гогян, Милосовичи",1996 Atlanta,Gymnastics Artistic,Women's,team competition
+Summer,1996,Gold,UKR,Ukraine,Подкопаева,1996 Atlanta,Gymnastics Artistic,Women's,individual all-round
+Summer,1996,Silver,ROU,Romania,Годжян,1996 Atlanta,Gymnastics Artistic,Women's,individual all-round
+Summer,1996,Bronze,ROU,Romania,Аманар,1996 Atlanta,Gymnastics Artistic,Women's,individual all-round
+Summer,1996,Bronze,ROU,Romania,Милосовичи,1996 Atlanta,Gymnastics Artistic,Women's,individual all-round
+Summer,1996,Gold,UKR,Ukraine,Подкопаева,1996 Atlanta,Gymnastics Artistic,Women's,floor exercises
+Summer,1996,Silver,ROU,Romania,Аманар,1996 Atlanta,Gymnastics Artistic,Women's,floor exercises
+Summer,1996,Bronze,USA,United States,Доуз,1996 Atlanta,Gymnastics Artistic,Women's,floor exercises
+Summer,1996,Gold,RUS,Russian Federation,Хоркина,1996 Atlanta,Gymnastics Artistic,Women's,uneven bars
+Summer,1996,Silver,CHN,China,Би Вэньюнь,1996 Atlanta,Gymnastics Artistic,Women's,uneven bars
+Summer,1996,Silver,USA,United States,Чоу,1996 Atlanta,Gymnastics Artistic,Women's,uneven bars
+Summer,1996,Gold,ROU,Romania,Аманар,1996 Atlanta,Gymnastics Artistic,Women's,vault
+Summer,1996,Silver,CHN,China,Мо Юлань,1996 Atlanta,Gymnastics Artistic,Women's,vault
+Summer,1996,Bronze,ROU,Romania,Годжян,1996 Atlanta,Gymnastics Artistic,Women's,vault
+Summer,1996,Gold,USA,United States,Миллер,1996 Atlanta,Gymnastics Artistic,Women's,balance beam
+Summer,1996,Silver,UKR,Ukraine,Подкопаева,1996 Atlanta,Gymnastics Artistic,Women's,balance beam
+Summer,1996,Bronze,ROU,Romania,Годжян,1996 Atlanta,Gymnastics Artistic,Women's,balance beam
+Summer,1996,Gold,ESP,Spain,"Балдо, Хименес, Ламарка, Кабанильянс, Гурендес, Мартинес",1996 Atlanta,Gymnastics Rhythmic,Women's,group competition
+Summer,1996,Silver,BUL,Bulgaria,"Талеева, Делчева, Колева, Кевлян, Табакова, Ватачка",1996 Atlanta,Gymnastics Rhythmic,Women's,group competition
+Summer,1996,Bronze,RUS,Russian Federation,"Бочкарева, Юшкова, Кривошей, Дзюба, Штыренко, Иванова",1996 Atlanta,Gymnastics Rhythmic,Women's,group competition
+Summer,1996,Gold,UKR,Ukraine,Серебрянская,1996 Atlanta,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1996,Silver,RUS,Russian Federation,Батыршина,1996 Atlanta,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1996,Bronze,UKR,Ukraine,Витриченко,1996 Atlanta,Gymnastics Rhythmic,Women's,individual all-round
+Summer,1996,Gold,CRO,Croatia,,1996 Atlanta,Handball,Men's,handball
+Summer,1996,Silver,SWE,Sweden,,1996 Atlanta,Handball,Men's,handball
+Summer,1996,Bronze,ESP,Spain,,1996 Atlanta,Handball,Men's,handball
+Summer,1996,Gold,DEN,Denmark,,1996 Atlanta,Handball,Women's,handball
+Summer,1996,Silver,KOR,Korea Republic,,1996 Atlanta,Handball,Women's,handball
+Summer,1996,Bronze,HUN,Hungary,,1996 Atlanta,Handball,Women's,handball
+Summer,1996,Gold,NED,Netherlands,,1996 Atlanta,Hockey,Men's,hockey
+Summer,1996,Silver,ESP,Spain,,1996 Atlanta,Hockey,Men's,hockey
+Summer,1996,Bronze,AUS,Australia,,1996 Atlanta,Hockey,Men's,hockey
+Summer,1996,Gold,AUS,Australia,,1996 Atlanta,Hockey,Women's,hockey
+Summer,1996,Silver,KOR,Korea Republic,,1996 Atlanta,Hockey,Women's,hockey
+Summer,1996,Bronze,NED,Netherlands,,1996 Atlanta,Hockey,Women's,hockey
+Summer,1996,Gold,JPN,Japan,Номура,1996 Atlanta,Judo,Men's,- 60 kg
+Summer,1996,Silver,ITA,Italy,Джовинаццо,1996 Atlanta,Judo,Men's,- 60 kg
+Summer,1996,Bronze,GER,Germany,Траутманн,1996 Atlanta,Judo,Men's,- 60 kg
+Summer,1996,Bronze,MGL,Mongolia,Нармандах,1996 Atlanta,Judo,Men's,- 60 kg
+Summer,1996,Gold,GER,Germany,Кюльмальц,1996 Atlanta,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1996,Silver,JPN,Japan,Накамура,1996 Atlanta,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1996,Bronze,BRA,Brazil,Гимараеш,1996 Atlanta,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1996,Bronze,CUB,Cuba,Эрнандес,1996 Atlanta,Judo,Men's,60 - 65kg (half-lightweight)
+Summer,1996,Gold,JPN,Japan,Накамура,1996 Atlanta,Judo,Men's,65 - 71kg (lightweight)
+Summer,1996,Silver,KOR,Korea Republic,Квак Дэ Сун,1996 Atlanta,Judo,Men's,65 - 71kg (lightweight)
+Summer,1996,Bronze,FRA,France,Гальян,1996 Atlanta,Judo,Men's,65 - 71kg (lightweight)
+Summer,1996,Bronze,USA,United States,Педро,1996 Atlanta,Judo,Men's,65 - 71kg (lightweight)
+Summer,1996,Gold,FRA,France,Бура,1996 Atlanta,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1996,Silver,JPN,Japan,Кога,1996 Atlanta,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1996,Bronze,GEO,Georgia,Липартелиани,1996 Atlanta,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1996,Bronze,KOR,Korea Republic,Чо Ин Чул,1996 Atlanta,Judo,Men's,71 - 78kg (half-middleweight)
+Summer,1996,Gold,KOR,Korea Republic,Джон Ки Йон,1996 Atlanta,Judo,Men's,78 - 86kg (middleweight)
+Summer,1996,Silver,UZB,Uzbekistan,Багдасаров,1996 Atlanta,Judo,Men's,78 - 86kg (middleweight)
+Summer,1996,Bronze,GER,Germany,Спиттка,1996 Atlanta,Judo,Men's,78 - 86kg (middleweight)
+Summer,1996,Bronze,NED,Netherlands,Хузинга,1996 Atlanta,Judo,Men's,78 - 86kg (middleweight)
+Summer,1996,Gold,POL,Poland,Настула,1996 Atlanta,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1996,Silver,KOR,Korea Republic,Ким Мин Со,1996 Atlanta,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1996,Bronze,BRA,Brazil,Фернандес,1996 Atlanta,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1996,Bronze,FRA,France,Трайнье,1996 Atlanta,Judo,Men's,86 - 95kg (half-heavyweight)
+Summer,1996,Gold,FRA,France,Дуйе,1996 Atlanta,Judo,Men's,+ 95kg (heavyweight)
+Summer,1996,Silver,ESP,Spain,Перес,1996 Atlanta,Judo,Men's,+ 95kg (heavyweight)
+Summer,1996,Bronze,BEL,Belgium,Ван Варневельд,1996 Atlanta,Judo,Men's,+ 95kg (heavyweight)
+Summer,1996,Bronze,GER,Germany,Меллер,1996 Atlanta,Judo,Men's,+ 95kg (heavyweight)
+Summer,1996,Gold,PRK,Korea DPR,Кье Сун Хи,1996 Atlanta,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1996,Silver,JPN,Japan,Тамура,1996 Atlanta,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1996,Bronze,CUB,Cuba,Савон,1996 Atlanta,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1996,Bronze,ESP,Spain,Солер,1996 Atlanta,Judo,Women's,- 48kg (extra-lightweight)
+Summer,1996,Gold,FRA,France,Ресту,1996 Atlanta,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1996,Silver,KOR,Korea Republic,Хьюн Сук Хи,1996 Atlanta,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1996,Bronze,CUB,Cuba,Вердесия,1996 Atlanta,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1996,Bronze,JPN,Japan,Сагавара,1996 Atlanta,Judo,Women's,48 - 52kg (half-lightweight)
+Summer,1996,Gold,CUB,Cuba,Гонсалес,1996 Atlanta,Judo,Women's,52 - 56kg (lightweight)
+Summer,1996,Silver,KOR,Korea Republic,Юн Сун Йон,1996 Atlanta,Judo,Women's,52 - 56kg (lightweight)
+Summer,1996,Bronze,BEL,Belgium,Ломба,1996 Atlanta,Judo,Women's,52 - 56kg (lightweight)
+Summer,1996,Bronze,ESP,Spain,Фернандес,1996 Atlanta,Judo,Women's,52 - 56kg (lightweight)
+Summer,1996,Gold,JPN,Japan,Эмото,1996 Atlanta,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1996,Silver,BEL,Belgium,Ван Де Кавейе,1996 Atlanta,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1996,Bronze,KOR,Korea Republic,Хун Сун Сук,1996 Atlanta,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1996,Bronze,NED,Netherlands,Гал,1996 Atlanta,Judo,Women's,56 - 61kg (half-middleweight)
+Summer,1996,Gold,KOR,Korea Republic,Чо Мин Сун,1996 Atlanta,Judo,Women's,61 - 66kg (middleweight)
+Summer,1996,Silver,POL,Poland,Шжепанска,1996 Atlanta,Judo,Women's,61 - 66kg (middleweight)
+Summer,1996,Bronze,CHN,China,Ван Ксянбо,1996 Atlanta,Judo,Women's,61 - 66kg (middleweight)
+Summer,1996,Bronze,NED,Netherlands,Эвирс,1996 Atlanta,Judo,Women's,61 - 66kg (middleweight)
+Summer,1996,Gold,BEL,Belgium,Вербрук,1996 Atlanta,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1996,Silver,JPN,Japan,Танабе,1996 Atlanta,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1996,Bronze,CUB,Cuba,Луна,1996 Atlanta,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1996,Bronze,ITA,Italy,Скапин,1996 Atlanta,Judo,Women's,66 - 72kg (half-heavyweight)
+Summer,1996,Gold,CHN,China,Сунь Фумин,1996 Atlanta,Judo,Women's,+ 72kg (heavyweight)
+Summer,1996,Silver,CUB,Cuba,Родригес,1996 Atlanta,Judo,Women's,+ 72kg (heavyweight)
+Summer,1996,Bronze,FRA,France,Кико,1996 Atlanta,Judo,Women's,+ 72kg (heavyweight)
+Summer,1996,Bronze,GER,Germany,Хань,1996 Atlanta,Judo,Women's,+ 72kg (heavyweight)
+Summer,1996,Gold,KAZ,Kazakhstan,Парыгин,1996 Atlanta,Modern Pentathlon,Men's,individual competition
+Summer,1996,Silver,RUS,Russian Federation,Зеновка,1996 Atlanta,Modern Pentathlon,Men's,individual competition
+Summer,1996,Bronze,HUN,Hungary,Мартинек,1996 Atlanta,Modern Pentathlon,Men's,individual competition
+Summer,1996,Gold,SUI,Switzerland,Мюллер,1996 Atlanta,Rowing,Men's,single sculls (1x)
+Summer,1996,Silver,CAN,Canada,Портер,1996 Atlanta,Rowing,Men's,single sculls (1x)
+Summer,1996,Bronze,GER,Germany,Ланге,1996 Atlanta,Rowing,Men's,single sculls (1x)
+Summer,1996,Gold,ITA,Italy,"Аббаньяле, Тиццано",1996 Atlanta,Rowing,Men's,double sculls (2x)
+Summer,1996,Silver,NOR,Norway,"Сторсет, Ундсет",1996 Atlanta,Rowing,Men's,double sculls (2x)
+Summer,1996,Bronze,FRA,France,"Барата, Коваль",1996 Atlanta,Rowing,Men's,double sculls (2x)
+Summer,1996,Gold,GER,Germany,"Хайек, Виллмс, Штайнер, Фолькерт",1996 Atlanta,Rowing,Men's,quadruple sculls without coxswain
+Summer,1996,Silver,USA,United States,"Джемисон, Гейлс, Янг, Мюллер",1996 Atlanta,Rowing,Men's,quadruple sculls without coxswain
+Summer,1996,Bronze,AUS,Australia,"Фри, Хэнсон, Хукер, Снук",1996 Atlanta,Rowing,Men's,quadruple sculls without coxswain
+Summer,1996,Gold,GBR,Great Britain,"Пинсет, Редгрэйв",1996 Atlanta,Rowing,Men's,pair without coxswain (2-)
+Summer,1996,Silver,AUS,Australia,"Скотт, Вейтманн",1996 Atlanta,Rowing,Men's,pair without coxswain (2-)
+Summer,1996,Bronze,FRA,France,"Роллан, Андро",1996 Atlanta,Rowing,Men's,pair without coxswain (2-)
+Summer,1996,Gold,AUS,Australia,"Томкинс, Маккей, Джинн, Грин",1996 Atlanta,Rowing,Men's,four without coxswain (4-)
+Summer,1996,Silver,FRA,France,,1996 Atlanta,Rowing,Men's,four without coxswain (4-)
+Summer,1996,Bronze,GBR,Great Britain,,1996 Atlanta,Rowing,Men's,four without coxswain (4-)
+Summer,1996,Gold,NED,Netherlands,"Симон, Маасдийк, Ван Стеенис, Райнкс, Цволле, Бартман, Ван Дер Зван, Флорийн",1996 Atlanta,Rowing,Men's,eight with coxswain (8+)
+Summer,1996,Silver,GER,Germany,,1996 Atlanta,Rowing,Men's,eight with coxswain (8+)
+Summer,1996,Bronze,RUS,Russian Federation,"Чермашенцев, Розинкевич, Аксенов, Мельников, Лукьянов, Глухов, Володенков, Монченко, Матвеев",1996 Atlanta,Rowing,Men's,eight with coxswain (8+)
+Summer,1996,Gold,SUI,Switzerland,"Михаэль Гир, Маркус Гир",1996 Atlanta,Rowing,Men's,lightweight double sculls (2x)
+Summer,1996,Silver,NED,Netherlands,"Ардевейн, Ван Линден",1996 Atlanta,Rowing,Men's,lightweight double sculls (2x)
+Summer,1996,Bronze,AUS,Australia,"Хик, Эдвардс",1996 Atlanta,Rowing,Men's,lightweight double sculls (2x)
+Summer,1996,Gold,DEN,Denmark,"Феддерсен, Поульсен, Эббесен, Хенриксен",1996 Atlanta,Rowing,Men's,lightweight coxless four (4-)
+Summer,1996,Silver,CAN,Canada,,1996 Atlanta,Rowing,Men's,lightweight coxless four (4-)
+Summer,1996,Bronze,USA,United States,,1996 Atlanta,Rowing,Men's,lightweight coxless four (4-)
+Summer,1996,Gold,BLR,Belarus,Ходотович,1996 Atlanta,Rowing,Women's,single sculls (1x)
+Summer,1996,Silver,CAN,Canada,Лауманн,1996 Atlanta,Rowing,Women's,single sculls (1x)
+Summer,1996,Bronze,DEN,Denmark,Хансен,1996 Atlanta,Rowing,Women's,single sculls (1x)
+Summer,1996,Gold,CAN,Canada,"Макбин, Хеддл",1996 Atlanta,Rowing,Women's,double sculls (2x)
+Summer,1996,Silver,CHN,China,"Сяо Мяньин, Чжан Цуйюнь",1996 Atlanta,Rowing,Women's,double sculls (2x)
+Summer,1996,Bronze,NED,Netherlands,"Эйс, Ван Нес",1996 Atlanta,Rowing,Women's,double sculls (2x)
+Summer,1996,Gold,GER,Germany,"Зоргерс, Борон, Рутшоу, Кеппен",1996 Atlanta,Rowing,Women's,quadruple sculls without coxswain
+Summer,1996,Silver,UKR,Ukraine,"Ронжина, Мазий, Фролова, Мифтахутдинова",1996 Atlanta,Rowing,Women's,quadruple sculls without coxswain
+Summer,1996,Bronze,CAN,Canada,,1996 Atlanta,Rowing,Women's,quadruple sculls without coxswain
+Summer,1996,Gold,AUS,Australia,"Стилл, Слаттер",1996 Atlanta,Rowing,Women's,pair without coxswain (2-)
+Summer,1996,Silver,USA,United States,"Швен, Крафт",1996 Atlanta,Rowing,Women's,pair without coxswain (2-)
+Summer,1996,Bronze,FRA,France,"Госсе, Кортен",1996 Atlanta,Rowing,Women's,pair without coxswain (2-)
+Summer,1996,Gold,ROU,Romania,"Танасе, Гафенчу, Олтяну, Попеску, Георгеску, Кочеля, Спирчу, Липа, Игнат",1996 Atlanta,Rowing,Women's,eight with coxswain (8+)
+Summer,1996,Silver,CAN,Canada,,1996 Atlanta,Rowing,Women's,eight with coxswain (8+)
+Summer,1996,Bronze,BLR,Belarus,"Лавриненко, Волчек, Скрабатун, Стасюк, Павлович, Панкина, Давиденко, Микулич, Знак",1996 Atlanta,Rowing,Women's,eight with coxswain (8+)
+Summer,1996,Gold,ROU,Romania,"Бурчица, Масовисус",1996 Atlanta,Rowing,Women's,lightweight double sculls (2x)
+Summer,1996,Silver,USA,United States,"Белл, Бернс",1996 Atlanta,Rowing,Women's,lightweight double sculls (2x)
+Summer,1996,Bronze,AUS,Australia,"Джойс, Ли",1996 Atlanta,Rowing,Women's,lightweight double sculls (2x)
+Summer,1996,Gold,UKR,Ukraine,"Браславец, Матвиенко",1996 Atlanta,Sailing,Men's,470 - Two Person Dinghy
+Summer,1996,Silver,GBR,Great Britain,"Меррикс, Цолкер",1996 Atlanta,Sailing,Men's,470 - Two Person Dinghy
+Summer,1996,Bronze,POR,Portugal,"Роша, Баррето",1996 Atlanta,Sailing,Men's,470 - Two Person Dinghy
+Summer,1996,Gold,GRE,Greece,Кахламанакис,1996 Atlanta,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,1996,Silver,ARG,Argentina,Эспиноса,1996 Atlanta,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,1996,Bronze,ISR,Israel,Фридман,1996 Atlanta,Sailing,Men's,board (Mistral) - Windsurfer
+Summer,1996,Gold,POL,Poland,Кужниревич,1996 Atlanta,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1996,Silver,BEL,Belgium,Годефрод,1996 Atlanta,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1996,Bronze,NED,Netherlands,Хейнер,1996 Atlanta,Sailing,Men's,Finn - One Person Dinghy (Heavyweight)
+Summer,1996,Gold,ESP,Spain,"Дюфресн, Сабелль",1996 Atlanta,Sailing,Women's,470 - Two Person Dinghy
+Summer,1996,Silver,JPN,Japan,"Шиге, Киношита",1996 Atlanta,Sailing,Women's,470 - Two Person Dinghy
+Summer,1996,Bronze,UKR,Ukraine,"Таран, Пахольчик",1996 Atlanta,Sailing,Women's,470 - Two Person Dinghy
+Summer,1996,Gold,HKG,"Hong Kong, British",Ла Шан Ли,1996 Atlanta,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,1996,Silver,NZL,New Zealand,Кендэлл,1996 Atlanta,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,1996,Bronze,ITA,Italy,Сенсини,1996 Atlanta,Sailing,Women's,board (Mistral) - Windsurfer
+Summer,1996,Gold,DEN,Denmark,Руг,1996 Atlanta,Sailing,Women's,single-handed dinghy (Europe)
+Summer,1996,Silver,NED,Netherlands,Маттийссе,1996 Atlanta,Sailing,Women's,single-handed dinghy (Europe)
+Summer,1996,Bronze,USA,United States,Беккер-Дей,1996 Atlanta,Sailing,Women's,single-handed dinghy (Europe)
+Summer,1996,Gold,BRA,Brazil,"Граэль, Феррейра",1996 Atlanta,Sailing,Mixed,two-person keelboat (Star)
+Summer,1996,Silver,SWE,Sweden,"Валлен, Лохс",1996 Atlanta,Sailing,Mixed,two-person keelboat (Star)
+Summer,1996,Bronze,AUS,Australia,"Бешель, Гиль",1996 Atlanta,Sailing,Mixed,two-person keelboat (Star)
+Summer,1996,Gold,BRA,Brazil,Шейдт,1996 Atlanta,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,1996,Silver,GBR,Great Britain,Эйнсли,1996 Atlanta,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,1996,Bronze,NOR,Norway,Моберг,1996 Atlanta,Sailing,Mixed,single-handed dinghy (Laser)
+Summer,1996,Gold,GER,Germany,"Шуманн, Якель, Флах",1996 Atlanta,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1996,Silver,RUS,Russian Federation,"Шабанов, Шайдуко, Скалин",1996 Atlanta,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1996,Bronze,USA,United States,"Мадригали, Мэссей, Бартон",1996 Atlanta,Sailing,Mixed,fleet/match race keelboat (Soling)
+Summer,1996,Gold,ESP,Spain,"Баллестер, Леон",1996 Atlanta,Sailing,Mixed,Tornado - Multihull
+Summer,1996,Silver,AUS,Australia,"Бут, Лэнденбергер",1996 Atlanta,Sailing,Mixed,Tornado - Multihull
+Summer,1996,Bronze,BRA,Brazil,"Грэль, Пелликано",1996 Atlanta,Sailing,Mixed,Tornado - Multihull
+Summer,1996,Gold,FRA,France,Ама,1996 Atlanta,Shooting,Men's,50m rifle 3 positions
+Summer,1996,Silver,KAZ,Kazakhstan,Беляев,1996 Atlanta,Shooting,Men's,50m rifle 3 positions
+Summer,1996,Bronze,AUT,Austria,Вайбель,1996 Atlanta,Shooting,Men's,50m rifle 3 positions
+Summer,1996,Gold,RUS,Russian Federation,Хаджибеков,1996 Atlanta,Shooting,Men's,10m air rifle
+Summer,1996,Silver,AUT,Austria,Вайбель,1996 Atlanta,Shooting,Men's,10m air rifle
+Summer,1996,Bronze,FRA,France,Ама,1996 Atlanta,Shooting,Men's,10m air rifle
+Summer,1996,Gold,RUS,Russian Federation,Кокорев,1996 Atlanta,Shooting,Men's,50m pistol
+Summer,1996,Silver,BLR,Belarus,Басинский,1996 Atlanta,Shooting,Men's,50m pistol
+Summer,1996,Bronze,ITA,Italy,Ди Донна,1996 Atlanta,Shooting,Men's,50m pistol
+Summer,1996,Gold,ITA,Italy,Ди Донна,1996 Atlanta,Shooting,Men's,10m air pistol
+Summer,1996,Silver,CHN,China,Ван Юфу,1996 Atlanta,Shooting,Men's,10m air pistol
+Summer,1996,Bronze,BUL,Bulgaria,Кириаков,1996 Atlanta,Shooting,Men's,10m air pistol
+Summer,1996,Gold,GER,Germany,Клеес,1996 Atlanta,Shooting,Men's,50m rifle prone
+Summer,1996,Silver,KAZ,Kazakhstan,Беляев,1996 Atlanta,Shooting,Men's,50m rifle prone
+Summer,1996,Bronze,SVK,Slovakia,Гончи,1996 Atlanta,Shooting,Men's,50m rifle prone
+Summer,1996,Gold,CHN,China,Ян Лин,1996 Atlanta,Shooting,Men's,10m running target
+Summer,1996,Silver,CHN,China,Сяо Чжун,1996 Atlanta,Shooting,Men's,10m running target
+Summer,1996,Bronze,CZE,Czech Republic,Януш,1996 Atlanta,Shooting,Men's,10m running target
+Summer,1996,Gold,GER,Germany,Шуманн,1996 Atlanta,Shooting,Men's,25m rapid fire pistol
+Summer,1996,Silver,BUL,Bulgaria,Милев,1996 Atlanta,Shooting,Men's,25m rapid fire pistol
+Summer,1996,Bronze,KAZ,Kazakhstan,Вохмянин,1996 Atlanta,Shooting,Men's,25m rapid fire pistol
+Summer,1996,Gold,AUS,Australia,Марк,1996 Atlanta,Shooting,Men's,Double trap
+Summer,1996,Silver,ITA,Italy,Пера,1996 Atlanta,Shooting,Men's,Double trap
+Summer,1996,Bronze,CHN,China,Бин Чжан,1996 Atlanta,Shooting,Men's,Double trap
+Summer,1996,Gold,AUS,Australia,Даймонд,1996 Atlanta,Shooting,Men's,Trap
+Summer,1996,Silver,USA,United States,Лекетуш,1996 Atlanta,Shooting,Men's,Trap
+Summer,1996,Bronze,USA,United States,Бэйд,1996 Atlanta,Shooting,Men's,Trap
+Summer,1996,Gold,ITA,Italy,Фалько,1996 Atlanta,Shooting,Men's,Skeet
+Summer,1996,Silver,POL,Poland,Ржеповски,1996 Atlanta,Shooting,Men's,Skeet
+Summer,1996,Bronze,ITA,Italy,Бенелли,1996 Atlanta,Shooting,Men's,Skeet
+Summer,1996,Gold,SCG,Yugoslavia Federal Republic,Ивосев,1996 Atlanta,Shooting,Women's,50m rifle 3 positions
+Summer,1996,Silver,RUS,Russian Federation,Герасименок,1996 Atlanta,Shooting,Women's,50m rifle 3 positions
+Summer,1996,Bronze,POL,Poland,Мауер,1996 Atlanta,Shooting,Women's,50m rifle 3 positions
+Summer,1996,Gold,POL,Poland,Мауер,1996 Atlanta,Shooting,Women's,10m air rifle
+Summer,1996,Silver,GER,Germany,Хорнебер,1996 Atlanta,Shooting,Women's,10m air rifle
+Summer,1996,Bronze,SCG,Yugoslavia Federal Republic,Ивосев,1996 Atlanta,Shooting,Women's,10m air rifle
+Summer,1996,Gold,CHN,China,Ли Дуйхон,1996 Atlanta,Shooting,Women's,25m pistol
+Summer,1996,Silver,BUL,Bulgaria,Йоргова,1996 Atlanta,Shooting,Women's,25m pistol
+Summer,1996,Bronze,RUS,Russian Federation,Логвиненко,1996 Atlanta,Shooting,Women's,25m pistol
+Summer,1996,Gold,RUS,Russian Federation,Клочнева,1996 Atlanta,Shooting,Women's,10m air pistol
+Summer,1996,Silver,RUS,Russian Federation,Логвиненко,1996 Atlanta,Shooting,Women's,10m air pistol
+Summer,1996,Bronze,BUL,Bulgaria,Гроздева,1996 Atlanta,Shooting,Women's,10m air pistol
+Summer,1996,Gold,USA,United States,Роуд,1996 Atlanta,Shooting,Women's,Double trap
+Summer,1996,Silver,GER,Germany,Кирмайер,1996 Atlanta,Shooting,Women's,Double trap
+Summer,1996,Bronze,AUS,Australia,Хаддлстон,1996 Atlanta,Shooting,Women's,Double trap
+Summer,1996,Gold,RUS,Russian Federation,Попов,1996 Atlanta,Swimming,Men's,50m freestyle
+Summer,1996,Silver,USA,United States,Холл,1996 Atlanta,Swimming,Men's,50m freestyle
+Summer,1996,Bronze,BRA,Brazil,Шерер,1996 Atlanta,Swimming,Men's,50m freestyle
+Summer,1996,Gold,RUS,Russian Federation,Попов,1996 Atlanta,Swimming,Men's,100m freestyle
+Summer,1996,Silver,USA,United States,Холл,1996 Atlanta,Swimming,Men's,100m freestyle
+Summer,1996,Bronze,BRA,Brazil,Борджес,1996 Atlanta,Swimming,Men's,100m freestyle
+Summer,1996,Gold,NZL,New Zealand,Лоудер,1996 Atlanta,Swimming,Men's,200m freestyle
+Summer,1996,Silver,BRA,Brazil,Борджес,1996 Atlanta,Swimming,Men's,200m freestyle
+Summer,1996,Bronze,AUS,Australia,Ковальски,1996 Atlanta,Swimming,Men's,200m freestyle
+Summer,1996,Gold,NZL,New Zealand,Лоудер,1996 Atlanta,Swimming,Men's,400m freestyle
+Summer,1996,Silver,GBR,Great Britain,Палмер,1996 Atlanta,Swimming,Men's,400m freestyle
+Summer,1996,Bronze,AUS,Australia,Ковальски,1996 Atlanta,Swimming,Men's,400m freestyle
+Summer,1996,Gold,AUS,Australia,Перкинс,1996 Atlanta,Swimming,Men's,1500m freestyle
+Summer,1996,Silver,AUS,Australia,Ковальски,1996 Atlanta,Swimming,Men's,1500m freestyle
+Summer,1996,Bronze,GBR,Great Britain,Смит,1996 Atlanta,Swimming,Men's,1500m freestyle
+Summer,1996,Gold,USA,United States,Роуз,1996 Atlanta,Swimming,Men's,100m backstroke
+Summer,1996,Silver,CUB,Cuba,Фалкон,1996 Atlanta,Swimming,Men's,100m backstroke
+Summer,1996,Bronze,CUB,Cuba,Бент,1996 Atlanta,Swimming,Men's,100m backstroke
+Summer,1996,Gold,USA,United States,Бриджуотер,1996 Atlanta,Swimming,Men's,200m backstroke
+Summer,1996,Silver,USA,United States,Швенк,1996 Atlanta,Swimming,Men's,200m backstroke
+Summer,1996,Bronze,ITA,Italy,Меризи,1996 Atlanta,Swimming,Men's,200m backstroke
+Summer,1996,Gold,BEL,Belgium,Дебургрэв,1996 Atlanta,Swimming,Men's,100m breaststroke
+Summer,1996,Silver,USA,United States,Линн,1996 Atlanta,Swimming,Men's,100m breaststroke
+Summer,1996,Bronze,GER,Germany,Варнеке,1996 Atlanta,Swimming,Men's,100m breaststroke
+Summer,1996,Gold,HUN,Hungary,Рожа,1996 Atlanta,Swimming,Men's,200m breaststroke
+Summer,1996,Silver,HUN,Hungary,Гутлер,1996 Atlanta,Swimming,Men's,200m breaststroke
+Summer,1996,Bronze,RUS,Russian Federation,Корнеев,1996 Atlanta,Swimming,Men's,200m breaststroke
+Summer,1996,Gold,RUS,Russian Federation,Панкратов,1996 Atlanta,Swimming,Men's,100m butterfly
+Summer,1996,Silver,AUS,Australia,Миллер,1996 Atlanta,Swimming,Men's,100m butterfly
+Summer,1996,Bronze,RUS,Russian Federation,Куликов,1996 Atlanta,Swimming,Men's,100m butterfly
+Summer,1996,Gold,RUS,Russian Federation,Панкратов,1996 Atlanta,Swimming,Men's,200m butterfly
+Summer,1996,Silver,USA,United States,Мэлчоу,1996 Atlanta,Swimming,Men's,200m butterfly
+Summer,1996,Bronze,AUS,Australia,Гудман,1996 Atlanta,Swimming,Men's,200m butterfly
+Summer,1996,Gold,HUN,Hungary,Жене,1996 Atlanta,Swimming,Men's,200m individual medley
+Summer,1996,Silver,FIN,Finland,Сиевинен,1996 Atlanta,Swimming,Men's,200m individual medley
+Summer,1996,Bronze,CAN,Canada,Миден,1996 Atlanta,Swimming,Men's,200m individual medley
+Summer,1996,Gold,USA,United States,Доулэн,1996 Atlanta,Swimming,Men's,400m individual medley
+Summer,1996,Silver,USA,United States,Намесник,1996 Atlanta,Swimming,Men's,400m individual medley
+Summer,1996,Bronze,CAN,Canada,Миден,1996 Atlanta,Swimming,Men's,400m individual medley
+Summer,1996,Gold,USA,United States,"Дэвис, Холл, Ольсен, Шумахер",1996 Atlanta,Swimming,Men's,4x100m freestyle relay
+Summer,1996,Silver,RUS,Russian Federation,"Попов, Пышненко, Егоров, Предкин",1996 Atlanta,Swimming,Men's,4x100m freestyle relay
+Summer,1996,Bronze,GER,Germany,"Б-т Цикарски, Пингер, Трегер, Б-н Цикарски",1996 Atlanta,Swimming,Men's,4x100m freestyle relay
+Summer,1996,Gold,USA,United States,"Дэвис, Шумахер, Хьюдпол, Бираб",1996 Atlanta,Swimming,Men's,4x200m freestyle relay
+Summer,1996,Silver,SWE,Sweden,"Хольмерц, Лурбин, Валлин, Фроландер",1996 Atlanta,Swimming,Men's,4x200m freestyle relay
+Summer,1996,Bronze,GER,Germany,"Келлер, Цесснер, Хайльман, Трегер",1996 Atlanta,Swimming,Men's,4x200m freestyle relay
+Summer,1996,Gold,USA,United States,"Линн, Холл, Роуз, Хендерсон",1996 Atlanta,Swimming,Men's,4x100m medley relay
+Summer,1996,Silver,RUS,Russian Federation,"Лопухов, Попов, Сельков, Панкратов",1996 Atlanta,Swimming,Men's,4x100m medley relay
+Summer,1996,Bronze,AUS,Australia,,1996 Atlanta,Swimming,Men's,4x100m medley relay
+Summer,1996,Gold,USA,United States,Ван Дайкен,1996 Atlanta,Swimming,Women's,50m freestyle
+Summer,1996,Silver,CHN,China,Ле Чжиньи,1996 Atlanta,Swimming,Women's,50m freestyle
+Summer,1996,Bronze,GER,Germany,Фолькер,1996 Atlanta,Swimming,Women's,50m freestyle
+Summer,1996,Gold,CHN,China,Ле Чжиньи,1996 Atlanta,Swimming,Women's,100m freestyle
+Summer,1996,Silver,GER,Germany,Фолькер,1996 Atlanta,Swimming,Women's,100m freestyle
+Summer,1996,Bronze,USA,United States,Мартино,1996 Atlanta,Swimming,Women's,100m freestyle
+Summer,1996,Gold,CRC,Costa Rica,Полл,1996 Atlanta,Swimming,Women's,200m freestyle
+Summer,1996,Silver,GER,Germany,Ван Альмсик,1996 Atlanta,Swimming,Women's,200m freestyle
+Summer,1996,Bronze,GER,Germany,Хазе,1996 Atlanta,Swimming,Women's,200m freestyle
+Summer,1996,Gold,IRL,Ireland,Смит,1996 Atlanta,Swimming,Women's,400m freestyle
+Summer,1996,Silver,GER,Germany,Хазе,1996 Atlanta,Swimming,Women's,400m freestyle
+Summer,1996,Bronze,NED,Netherlands,Флиегус,1996 Atlanta,Swimming,Women's,400m freestyle
+Summer,1996,Gold,USA,United States,Беннет,1996 Atlanta,Swimming,Women's,800m freestyle
+Summer,1996,Silver,GER,Germany,Хазе,1996 Atlanta,Swimming,Women's,800m freestyle
+Summer,1996,Bronze,NED,Netherlands,Флиегус,1996 Atlanta,Swimming,Women's,800m freestyle
+Summer,1996,Gold,USA,United States,Ботсфорд,1996 Atlanta,Swimming,Women's,100m backstroke
+Summer,1996,Silver,USA,United States,Хеджпес,1996 Atlanta,Swimming,Women's,100m backstroke
+Summer,1996,Bronze,RSA,South Africa,Крилль,1996 Atlanta,Swimming,Women's,100m backstroke
+Summer,1996,Gold,HUN,Hungary,Эгершеги,1996 Atlanta,Swimming,Women's,200m backstroke
+Summer,1996,Silver,USA,United States,Хеджпес,1996 Atlanta,Swimming,Women's,200m backstroke
+Summer,1996,Bronze,GER,Germany,Рунд,1996 Atlanta,Swimming,Women's,200m backstroke
+Summer,1996,Gold,RSA,South Africa,Хейнс,1996 Atlanta,Swimming,Women's,100m breaststroke
+Summer,1996,Silver,USA,United States,Берд,1996 Atlanta,Swimming,Women's,100m breaststroke
+Summer,1996,Bronze,AUS,Australia,Рили,1996 Atlanta,Swimming,Women's,100m breaststroke
+Summer,1996,Gold,RSA,South Africa,Хейнс,1996 Atlanta,Swimming,Women's,200m breaststroke
+Summer,1996,Silver,USA,United States,Берд,1996 Atlanta,Swimming,Women's,200m breaststroke
+Summer,1996,Bronze,HUN,Hungary,Ковач,1996 Atlanta,Swimming,Women's,200m breaststroke
+Summer,1996,Gold,USA,United States,Ван Дайкен,1996 Atlanta,Swimming,Women's,100m butterfly
+Summer,1996,Silver,CHN,China,Лю Лиминь,1996 Atlanta,Swimming,Women's,100m butterfly
+Summer,1996,Bronze,USA,United States,Мартино,1996 Atlanta,Swimming,Women's,100m butterfly
+Summer,1996,Gold,AUS,Australia,О'Нейлл,1996 Atlanta,Swimming,Women's,200m butterfly
+Summer,1996,Silver,AUS,Australia,Томас,1996 Atlanta,Swimming,Women's,200m butterfly
+Summer,1996,Bronze,IRL,Ireland,Смит,1996 Atlanta,Swimming,Women's,200m butterfly
+Summer,1996,Gold,IRL,Ireland,Смит,1996 Atlanta,Swimming,Women's,200m individual medley
+Summer,1996,Silver,CAN,Canada,Лимперт,1996 Atlanta,Swimming,Women's,200m individual medley
+Summer,1996,Bronze,CHN,China,Ли Линь,1996 Atlanta,Swimming,Women's,200m individual medley
+Summer,1996,Gold,IRL,Ireland,Смит,1996 Atlanta,Swimming,Women's,400m individual medley
+Summer,1996,Silver,USA,United States,Вагнер,1996 Atlanta,Swimming,Women's,400m individual medley
+Summer,1996,Bronze,HUN,Hungary,Эгершеги,1996 Atlanta,Swimming,Women's,400m individual medley
+Summer,1996,Gold,USA,United States,"Ван Дайкен, Томпсон, Мартино, Фокс",1996 Atlanta,Swimming,Women's,4x100m freestyle relay
+Summer,1996,Silver,CHN,China,"Ча На, Шань Ин, Лэ Цзини, Нянь Юнь",1996 Atlanta,Swimming,Women's,4x100m freestyle relay
+Summer,1996,Bronze,GER,Germany,"Озюгис, Ван Альмсик, Фелькер, Бушульте",1996 Atlanta,Swimming,Women's,4x100m freestyle relay
+Summer,1996,Gold,USA,United States,"Таормина, Томпсон, Джексон, Тошер",1996 Atlanta,Swimming,Women's,4x200m freestyle relay
+Summer,1996,Silver,GER,Germany,,1996 Atlanta,Swimming,Women's,4x200m freestyle relay
+Summer,1996,Bronze,AUS,Australia,,1996 Atlanta,Swimming,Women's,4x200m freestyle relay
+Summer,1996,Gold,USA,United States,"Берд, Ван Дайкен, Ботсфорд, Мартино",1996 Atlanta,Swimming,Women's,4x100m medley relay
+Summer,1996,Silver,AUS,Australia,,1996 Atlanta,Swimming,Women's,4x100m medley relay
+Summer,1996,Bronze,CHN,China,,1996 Atlanta,Swimming,Women's,4x100m medley relay
+Summer,1996,Gold,CHN,China,Лю Гуолян,1996 Atlanta,Table Tennis,Men's,singles
+Summer,1996,Silver,CHN,China,Ван Тао,1996 Atlanta,Table Tennis,Men's,singles
+Summer,1996,Bronze,GER,Germany,Росскопф,1996 Atlanta,Table Tennis,Men's,singles
+Summer,1996,Gold,CHN,China,"Лю Гоулян, Кон Линху",1996 Atlanta,Table Tennis,Men's,doubles
+Summer,1996,Silver,CHN,China,"Ван Тао, Лю Линь",1996 Atlanta,Table Tennis,Men's,doubles
+Summer,1996,Bronze,KOR,Korea Republic,"Йо Нам Ку, Ли Чул Сун",1996 Atlanta,Table Tennis,Men's,doubles
+Summer,1996,Gold,CHN,China,Ден Япин,1996 Atlanta,Table Tennis,Women's,singles
+Summer,1996,Silver,TPE,Chinese Taipei,Чень Джин,1996 Atlanta,Table Tennis,Women's,singles
+Summer,1996,Bronze,CHN,China,Сяо Хон,1996 Atlanta,Table Tennis,Women's,singles
+Summer,1996,Gold,CHN,China,"Ден Япин, Сяо Хон",1996 Atlanta,Table Tennis,Women's,doubles
+Summer,1996,Silver,CHN,China,"Лю Вей, Сяо Юньпин",1996 Atlanta,Table Tennis,Women's,doubles
+Summer,1996,Bronze,KOR,Korea Republic,"Парк Хе Джун, Жу Джи Хе",1996 Atlanta,Table Tennis,Women's,doubles
+Summer,1996,Gold,USA,United States,Агасси,1996 Atlanta,Tennis,Men's,singles
+Summer,1996,Silver,ESP,Spain,Бругера,1996 Atlanta,Tennis,Men's,singles
+Summer,1996,Bronze,IND,India,Паес,1996 Atlanta,Tennis,Men's,singles
+Summer,1996,Gold,AUS,Australia,"Вудбридж, Вудфорд",1996 Atlanta,Tennis,Men's,doubles
+Summer,1996,Silver,GBR,Great Britain,"Броад, Хенмэн",1996 Atlanta,Tennis,Men's,doubles
+Summer,1996,Bronze,GER,Germany,"Гелльнер, Приношил",1996 Atlanta,Tennis,Men's,doubles
+Summer,1996,Gold,USA,United States,Дэвенпорт,1996 Atlanta,Tennis,Women's,singles
+Summer,1996,Silver,ESP,Spain,Санчес,1996 Atlanta,Tennis,Women's,singles
+Summer,1996,Bronze,CZE,Czech Republic,Новотна,1996 Atlanta,Tennis,Women's,singles
+Summer,1996,Gold,USA,United States,"Мэри Джо Фернандес, Джиджи Фернандес",1996 Atlanta,Tennis,Women's,doubles
+Summer,1996,Silver,CZE,Czech Republic,"Сукова, Новотна",1996 Atlanta,Tennis,Women's,doubles
+Summer,1996,Bronze,ESP,Spain,"Мартинес, Санчес",1996 Atlanta,Tennis,Women's,doubles
+Summer,1996,Gold,NED,Netherlands,,1996 Atlanta,Volleyball,Men's,volleyball
+Summer,1996,Silver,ITA,Italy,,1996 Atlanta,Volleyball,Men's,volleyball
+Summer,1996,Bronze,SCG,Yugoslavia Federal Republic,,1996 Atlanta,Volleyball,Men's,volleyball
+Summer,1996,Gold,CUB,Cuba,,1996 Atlanta,Volleyball,Women's,volleyball
+Summer,1996,Silver,CHN,China,,1996 Atlanta,Volleyball,Women's,volleyball
+Summer,1996,Bronze,BRA,Brazil,,1996 Atlanta,Volleyball,Women's,volleyball
+Summer,1996,Gold,ESP,Spain,,1996 Atlanta,Water Polo,Men's,water polo
+Summer,1996,Silver,CRO,Croatia,,1996 Atlanta,Water Polo,Men's,water polo
+Summer,1996,Bronze,ITA,Italy,,1996 Atlanta,Water Polo,Men's,water polo
+Summer,1996,Gold,TUR,Turkey,Мутлу,1996 Atlanta,Weightlifting,Men's,- 54kg (flyweight)
+Summer,1996,Silver,CHN,China,Цзян Ксянсен,1996 Atlanta,Weightlifting,Men's,- 54kg (flyweight)
+Summer,1996,Bronze,BUL,Bulgaria,Минчев,1996 Atlanta,Weightlifting,Men's,- 54kg (flyweight)
+Summer,1996,Gold,CHN,China,Тан Ниншен,1996 Atlanta,Weightlifting,Men's,54 - 59kg (bantamweight)
+Summer,1996,Silver,GRE,Greece,Сабанис,1996 Atlanta,Weightlifting,Men's,54 - 59kg (bantamweight)
+Summer,1996,Bronze,BUL,Bulgaria,Пешалов,1996 Atlanta,Weightlifting,Men's,54 - 59kg (bantamweight)
+Summer,1996,Gold,TUR,Turkey,Сулейманоглу,1996 Atlanta,Weightlifting,Men's,59 - 64kg (featherweight)
+Summer,1996,Silver,GRE,Greece,Леонидис,1996 Atlanta,Weightlifting,Men's,59 - 64kg (featherweight)
+Summer,1996,Bronze,CHN,China,Ксяо Цзянян,1996 Atlanta,Weightlifting,Men's,59 - 64kg (featherweight)
+Summer,1996,Gold,CHN,China,Чжан Хуан,1996 Atlanta,Weightlifting,Men's,64 - 70kg (lightweight)
+Summer,1996,Silver,PRK,Korea DPR,Ким Мьон Нам,1996 Atlanta,Weightlifting,Men's,64 - 70kg (lightweight)
+Summer,1996,Bronze,HUN,Hungary,Фери,1996 Atlanta,Weightlifting,Men's,64 - 70kg (lightweight)
+Summer,1996,Gold,CUB,Cuba,Лара,1996 Atlanta,Weightlifting,Men's,70 - 76kg (middleweight)
+Summer,1996,Silver,BUL,Bulgaria,Йотов,1996 Atlanta,Weightlifting,Men's,70 - 76kg (middleweight)
+Summer,1996,Bronze,PRK,Korea DPR,Джон Чол Хо,1996 Atlanta,Weightlifting,Men's,70 - 76kg (middleweight)
+Summer,1996,Gold,GRE,Greece,Димас,1996 Atlanta,Weightlifting,Men's,76 - 83kg (light-heavyweight)
+Summer,1996,Silver,GRE,Greece,Хустер,1996 Atlanta,Weightlifting,Men's,76 - 83kg (light-heavyweight)
+Summer,1996,Bronze,POL,Poland,Кофалик,1996 Atlanta,Weightlifting,Men's,76 - 83kg (light-heavyweight)
+Summer,1996,Gold,RUS,Russian Federation,Петров,1996 Atlanta,Weightlifting,Men's,83 - 91kg (middle-heavyweight)
+Summer,1996,Silver,GER,Germany,Кокас,1996 Atlanta,Weightlifting,Men's,83 - 91kg (middle-heavyweight)
+Summer,1996,Bronze,GER,Germany,Карусо,1996 Atlanta,Weightlifting,Men's,83 - 91kg (middle-heavyweight)
+Summer,1996,Gold,GRE,Greece,Кахиашвилис,1996 Atlanta,Weightlifting,Men's,91 - 99kg (first-heavyweight)
+Summer,1996,Silver,KAZ,Kazakhstan,Храпатый,1996 Atlanta,Weightlifting,Men's,91 - 99kg (first-heavyweight)
+Summer,1996,Bronze,UKR,Ukraine,Готфрид,1996 Atlanta,Weightlifting,Men's,91 - 99kg (first-heavyweight)
+Summer,1996,Gold,UKR,Ukraine,Таймазов,1996 Atlanta,Weightlifting,Men's,99 - 108kg (heavyweight)
+Summer,1996,Silver,RUS,Russian Federation,Сырцов,1996 Atlanta,Weightlifting,Men's,99 - 108kg (heavyweight)
+Summer,1996,Bronze,ROU,Romania,Влад,1996 Atlanta,Weightlifting,Men's,99 - 108kg (heavyweight)
+Summer,1996,Gold,RUS,Russian Federation,Чемеркин,1996 Atlanta,Weightlifting,Men's,+ 108kg (super heavyweight)
+Summer,1996,Silver,GER,Germany,Веллер,1996 Atlanta,Weightlifting,Men's,+ 108kg (super heavyweight)
+Summer,1996,Bronze,AUS,Australia,Ботев,1996 Atlanta,Weightlifting,Men's,+ 108kg (super heavyweight)
+Summer,1996,Gold,PRK,Korea DPR,Ким Ил,1996 Atlanta,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1996,Silver,ARM,Armenia,Мхитарян,1996 Atlanta,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1996,Bronze,CUB,Cuba,Педромо,1996 Atlanta,Wrestling Freestyle,Men's,- 48kg (light-flyweight)
+Summer,1996,Gold,BUL,Bulgaria,Димитров-Иорданов,1996 Atlanta,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1996,Silver,AZE,Azerbaijan,Абдуллаев,1996 Atlanta,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1996,Bronze,KAZ,Kazakhstan,Мамиров,1996 Atlanta,Wrestling Freestyle,Men's,48 - 52kg (flyweight)
+Summer,1996,Gold,USA,United States,Кросс,1996 Atlanta,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1996,Silver,CAN,Canada,Сиссаури,1996 Atlanta,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1996,Bronze,PRK,Korea DPR,Ри Юн Сам,1996 Atlanta,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1996,Gold,USA,United States,Брэндс,1996 Atlanta,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1996,Silver,KOR,Korea Republic,Ян Джэ Сун,1996 Atlanta,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1996,Bronze,UKR,Ukraine,Тедеев,1996 Atlanta,Wrestling Freestyle,Men's,57 - 62kg (featherweight)
+Summer,1996,Gold,RUS,Russian Federation,Богиев,1996 Atlanta,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1996,Silver,USA,United States,Сондерс,1996 Atlanta,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1996,Bronze,UKR,Ukraine,Зазиров,1996 Atlanta,Wrestling Freestyle,Men's,62 - 68kg (lightweight)
+Summer,1996,Gold,RUS,Russian Federation,Сайтиев,1996 Atlanta,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1996,Silver,KOR,Korea Republic,Парк Ян Сун,1996 Atlanta,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1996,Bronze,JPN,Japan,Ота,1996 Atlanta,Wrestling Freestyle,Men's,68 - 74kg (welterweight)
+Summer,1996,Gold,RUS,Russian Federation,Магомедов,1996 Atlanta,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1996,Silver,KOR,Korea Republic,Ян Хьюн Мо,1996 Atlanta,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1996,Bronze,IRI,Iran,Азгади,1996 Atlanta,Wrestling Freestyle,Men's,74 - 82kg (middleweight)
+Summer,1996,Gold,IRI,Iran,Хадем Азгхади,1996 Atlanta,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1996,Silver,RUS,Russian Federation,Хадарцев,1996 Atlanta,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1996,Bronze,GEO,Georgia,Куртанидзе,1996 Atlanta,Wrestling Freestyle,Men's,82 - 90kg (light-heavyweight)
+Summer,1996,Gold,USA,United States,Энджел,1996 Atlanta,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1996,Silver,IRI,Iran,Ядиди,1996 Atlanta,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1996,Bronze,GER,Germany,Сабеджев,1996 Atlanta,Wrestling Freestyle,Men's,90 - 100kg (heavyweight)
+Summer,1996,Gold,TUR,Turkey,Демир,1996 Atlanta,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1996,Silver,BLR,Belarus,Медведев,1996 Atlanta,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1996,Bronze,USA,United States,Баумгартнер,1996 Atlanta,Wrestling Freestyle,Men's,100 - 130kg (super heavyweight)
+Summer,1996,Gold,KOR,Korea Republic,Сим Квон Хо,1996 Atlanta,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1996,Silver,BLR,Belarus,Павлов,1996 Atlanta,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1996,Bronze,RUS,Russian Federation,Гулиев,1996 Atlanta,Wrestling Greco-Roman,Men's,- 48kg (light-flyweight)
+Summer,1996,Gold,ARM,Armenia,Назарян,1996 Atlanta,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1996,Silver,USA,United States,Поульсон,1996 Atlanta,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1996,Bronze,UKR,Ukraine,Калашников,1996 Atlanta,Wrestling Greco-Roman,Men's,48 - 52kg (flyweight)
+Summer,1996,Gold,KAZ,Kazakhstan,Мельниченко,1996 Atlanta,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1996,Silver,USA,United States,Халл,1996 Atlanta,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1996,Bronze,CHN,China,Шен Зетьян,1996 Atlanta,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1996,Gold,POL,Poland,Завадски,1996 Atlanta,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1996,Silver,CUB,Cuba,Марен Делис,1996 Atlanta,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1996,Bronze,TUR,Turkey,Пирим,1996 Atlanta,Wrestling Greco-Roman,Men's,57 - 62kg (featherweight)
+Summer,1996,Gold,POL,Poland,Вольны,1996 Atlanta,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1996,Silver,FRA,France,Ялуз,1996 Atlanta,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1996,Bronze,RUS,Russian Federation,Третьяков,1996 Atlanta,Wrestling Greco-Roman,Men's,62 - 68kg (lightweight)
+Summer,1996,Gold,CUB,Cuba,Аский Агилера,1996 Atlanta,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1996,Silver,FIN,Finland,Аселль,1996 Atlanta,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1996,Bronze,POL,Poland,Трач,1996 Atlanta,Wrestling Greco-Roman,Men's,68 - 74kg (welterweight)
+Summer,1996,Gold,TUR,Turkey,Ерликайя,1996 Atlanta,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1996,Silver,GER,Germany,Цандер,1996 Atlanta,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1996,Bronze,BLR,Belarus,Цилент,1996 Atlanta,Wrestling Greco-Roman,Men's,74 - 82kg (middleweight)
+Summer,1996,Gold,UKR,Ukraine,Олейник,1996 Atlanta,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1996,Silver,POL,Poland,Фафински,1996 Atlanta,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1996,Bronze,GER,Germany,Бальманн,1996 Atlanta,Wrestling Greco-Roman,Men's,82 - 90kg (light-heavyweight)
+Summer,1996,Gold,POL,Poland,Вронски,1996 Atlanta,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1996,Silver,BLR,Belarus,Лихтван,1996 Atlanta,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1996,Bronze,SWE,Sweden,Лундберг,1996 Atlanta,Wrestling Greco-Roman,Men's,90 - 100kg (heavyweight)
+Summer,1996,Gold,RUS,Russian Federation,Карелин,1996 Atlanta,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1996,Silver,USA,United States,Гаффари,1996 Atlanta,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1996,Bronze,MDA,Moldova,Мурейко,1996 Atlanta,Wrestling Greco-Roman,Men's,100 - 130kg (super heavyweight)
+Summer,1996,Gold,CUB,Cuba,,1996 Atlanta,Baseball^(1992-2008),Men's,baseball
+Summer,1996,Silver,JPN,Japan,,1996 Atlanta,Baseball^(1992-2008),Men's,baseball
+Summer,1996,Bronze,USA,United States,,1996 Atlanta,Baseball^(1992-2008),Men's,baseball
+Summer,1996,Gold,USA,United States,,1996 Atlanta,Softball^(1996-2008),Women's,softball
+Summer,1996,Silver,CHN,China,,1996 Atlanta,Softball^(1996-2008),Women's,softball
+Summer,1996,Bronze,AUS,Australia,,1996 Atlanta,Softball^(1996-2008),Women's,softball

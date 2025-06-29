@@ -1,0 +1,460 @@
+season,year,medal,country_code,country,athletes,games,sport,event_gender,event_name
+Summer,1952,Gold,USA,United States,Lindy REMIGINO,1952 Helsinki,Athletics,Men's,100m
+Summer,1952,Silver,JAM,"Jamaica, British",Herbert MCKENLEY,1952 Helsinki,Athletics,Men's,100m
+Summer,1952,Bronze,GBR,Great Britain,Emmanuel McDONALD BAILEY,1952 Helsinki,Athletics,Men's,100m
+Summer,1952,Gold,USA,United States,Andy STANFIELD,1952 Helsinki,Athletics,Men's,200m
+Summer,1952,Silver,USA,United States,Thane BAKER,1952 Helsinki,Athletics,Men's,200m
+Summer,1952,Bronze,USA,United States,James GATHERS,1952 Helsinki,Athletics,Men's,200m
+Summer,1952,Gold,JAM,"Jamaica, British",George RHODEN,1952 Helsinki,Athletics,Men's,400m
+Summer,1952,Silver,JAM,"Jamaica, British",Herbert MCKENLEY,1952 Helsinki,Athletics,Men's,400m
+Summer,1952,Bronze,USA,United States,Ollie MATSON,1952 Helsinki,Athletics,Men's,400m
+Summer,1952,Gold,USA,United States,Mal WHITFIELD,1952 Helsinki,Athletics,Men's,800m
+Summer,1952,Silver,JAM,"Jamaica, British",Arthur WINT,1952 Helsinki,Athletics,Men's,800m
+Summer,1952,Bronze,GER,Germany,Heinz ULZHEIMER,1952 Helsinki,Athletics,Men's,800m
+Summer,1952,Gold,LUX,Luxembourg,Joseph BARTHEL,1952 Helsinki,Athletics,Men's,1500m
+Summer,1952,Silver,USA,United States,Robert MCMILLEN,1952 Helsinki,Athletics,Men's,1500m
+Summer,1952,Bronze,GER,Germany,Werner LUEG,1952 Helsinki,Athletics,Men's,1500m
+Summer,1952,Gold,TCH,Czechoslovakia,Emil ZÁTOPEK,1952 Helsinki,Athletics,Men's,5000m
+Summer,1952,Silver,FRA,France,Alain MIMOUN,1952 Helsinki,Athletics,Men's,5000m
+Summer,1952,Bronze,GER,Germany,Herbert SCHADE,1952 Helsinki,Athletics,Men's,5000m
+Summer,1952,Gold,TCH,Czechoslovakia,Emil ZÁTOPEK,1952 Helsinki,Athletics,Men's,10000m
+Summer,1952,Silver,FRA,France,Alain MIMOUN,1952 Helsinki,Athletics,Men's,10000m
+Summer,1952,Bronze,URS,USSR,Aleksandr ANUFRIYEV,1952 Helsinki,Athletics,Men's,10000m
+Summer,1952,Gold,TCH,Czechoslovakia,Emil ZÁTOPEK,1952 Helsinki,Athletics,Men's,marathon
+Summer,1952,Silver,ARG,Argentina,Reinaldo GORNO,1952 Helsinki,Athletics,Men's,marathon
+Summer,1952,Bronze,SWE,Sweden,Gustaf JANSSON,1952 Helsinki,Athletics,Men's,marathon
+Summer,1952,Gold,USA,United States,Harrison DILLARD,1952 Helsinki,Athletics,Men's,110m hurdles
+Summer,1952,Silver,USA,United States,Jack DAVIS,1952 Helsinki,Athletics,Men's,110m hurdles
+Summer,1952,Bronze,USA,United States,Arthur BARNARD,1952 Helsinki,Athletics,Men's,110m hurdles
+Summer,1952,Gold,USA,United States,Charles Hewes Jr. MOORE,1952 Helsinki,Athletics,Men's,400m hurdles
+Summer,1952,Silver,URS,USSR,Yuri LITUEV,1952 Helsinki,Athletics,Men's,400m hurdles
+Summer,1952,Bronze,NZL,New Zealand,John Macfarlane HOLLAND,1952 Helsinki,Athletics,Men's,400m hurdles
+Summer,1952,Gold,USA,United States,Horace ASHENFELTER,1952 Helsinki,Athletics,Men's,3000m steeplechase
+Summer,1952,Silver,URS,USSR,Vladimir KAZANTSEV,1952 Helsinki,Athletics,Men's,3000m steeplechase
+Summer,1952,Bronze,GBR,Great Britain,John DISLEY,1952 Helsinki,Athletics,Men's,3000m steeplechase
+Summer,1952,Gold,USA,United States,"Lindy REMIGINO, Harrison DILLARD, Dean SMITH, Andy STANFIELD",1952 Helsinki,Athletics,Men's,4x100m relay
+Summer,1952,Silver,URS,USSR,"Levan SANADZE, Boris TOKARYEV, Vladimir SUKHARYEV, Levan KALYAYEV",1952 Helsinki,Athletics,Men's,4x100m relay
+Summer,1952,Bronze,HUN,Hungary,"György CSÁNYI, Géza VARASDI, László ZARÁNDI, Béla GOLDOVÁNYI",1952 Helsinki,Athletics,Men's,4x100m relay
+Summer,1952,Gold,JAM,"Jamaica, British","George RHODEN, Herbert MCKENLEY, Leslie LAING, Arthur WINT",1952 Helsinki,Athletics,Men's,4x400m relay
+Summer,1952,Silver,USA,United States,"Mal WHITFIELD, Ollie MATSON, Gerrard Eugene COLE, Charles Hewes Jr. MOORE",1952 Helsinki,Athletics,Men's,4x400m relay
+Summer,1952,Bronze,GER,Germany,"Hans GEISTER, Günther STEINES, Karl-Friedrich HAAS, Heinz ULZHEIMER",1952 Helsinki,Athletics,Men's,4x400m relay
+Summer,1952,Gold,SWE,Sweden,John MIKAELSSON,1952 Helsinki,Athletics,Men's,10000m walk
+Summer,1952,Silver,SUI,Switzerland,Fritz SCHWAB,1952 Helsinki,Athletics,Men's,10000m walk
+Summer,1952,Bronze,URS,USSR,Bruno JUNK,1952 Helsinki,Athletics,Men's,10000m walk
+Summer,1952,Gold,ITA,Italy,Giuseppe DORDONI,1952 Helsinki,Athletics,Men's,50km walk
+Summer,1952,Silver,TCH,Czechoslovakia,Josef DOLEZAL,1952 Helsinki,Athletics,Men's,50km walk
+Summer,1952,Bronze,HUN,Hungary,Antal RÓKA,1952 Helsinki,Athletics,Men's,50km walk
+Summer,1952,Gold,USA,United States,Jerome BIFFLE,1952 Helsinki,Athletics,Men's,long jump
+Summer,1952,Silver,USA,United States,Meredith GOURDINE,1952 Helsinki,Athletics,Men's,long jump
+Summer,1952,Bronze,HUN,Hungary,Ã–dÃn FÃ–LDESSY,1952 Helsinki,Athletics,Men's,long jump
+Summer,1952,Gold,BRA,Brazil,Adhemar DA SILVA,1952 Helsinki,Athletics,Men's,triple jump
+Summer,1952,Silver,URS,USSR,Leonid SHCHERBAKOV,1952 Helsinki,Athletics,Men's,triple jump
+Summer,1952,Bronze,VEN,Venezuela,Arnoldo DEVONISH,1952 Helsinki,Athletics,Men's,triple jump
+Summer,1952,Gold,USA,United States,Walt DAVIS,1952 Helsinki,Athletics,Men's,high jump
+Summer,1952,Silver,USA,United States,Kenneth WIESNER,1952 Helsinki,Athletics,Men's,high jump
+Summer,1952,Bronze,BRA,Brazil,Jose TELLES DA CONCEICAO,1952 Helsinki,Athletics,Men's,high jump
+Summer,1952,Gold,USA,United States,Bob RICHARDS,1952 Helsinki,Athletics,Men's,pole vault
+Summer,1952,Silver,USA,United States,Don LAZ,1952 Helsinki,Athletics,Men's,pole vault
+Summer,1952,Bronze,SWE,Sweden,Ragnar LUNDBERG,1952 Helsinki,Athletics,Men's,pole vault
+Summer,1952,Gold,USA,United States,Parry O'BRIEN,1952 Helsinki,Athletics,Men's,shot put
+Summer,1952,Silver,USA,United States,Darrow Clarence HOOPER,1952 Helsinki,Athletics,Men's,shot put
+Summer,1952,Bronze,USA,United States,James FUCHS,1952 Helsinki,Athletics,Men's,shot put
+Summer,1952,Gold,USA,United States,Sim INESS,1952 Helsinki,Athletics,Men's,discus throw
+Summer,1952,Silver,ITA,Italy,Adolfo CONSOLINI,1952 Helsinki,Athletics,Men's,discus throw
+Summer,1952,Bronze,USA,United States,James DILLION,1952 Helsinki,Athletics,Men's,discus throw
+Summer,1952,Gold,HUN,Hungary,József CSERMÁK,1952 Helsinki,Athletics,Men's,hammer throw
+Summer,1952,Silver,GER,Germany,Karl STORCH,1952 Helsinki,Athletics,Men's,hammer throw
+Summer,1952,Bronze,HUN,Hungary,Imre NÉMETH,1952 Helsinki,Athletics,Men's,hammer throw
+Summer,1952,Gold,USA,United States,Cy YOUNG,1952 Helsinki,Athletics,Men's,javelin throw
+Summer,1952,Silver,USA,United States,William Preston MILLER,1952 Helsinki,Athletics,Men's,javelin throw
+Summer,1952,Bronze,FIN,Finland,Toivo HYYTIÄINEN,1952 Helsinki,Athletics,Men's,javelin throw
+Summer,1952,Gold,USA,United States,Bob MATHIAS,1952 Helsinki,Athletics,Men's,decathlon
+Summer,1952,Silver,USA,United States,Milton Gray CAMPBELL,1952 Helsinki,Athletics,Men's,decathlon
+Summer,1952,Bronze,USA,United States,Floyd SIMMONS,1952 Helsinki,Athletics,Men's,decathlon
+Summer,1952,Gold,AUS,Australia,Marjorie JACKSON,1952 Helsinki,Athletics,Women's,100m
+Summer,1952,Silver,RSA,South Africa,Daphne HASENJAGER,1952 Helsinki,Athletics,Women's,100m
+Summer,1952,Bronze,AUS,Australia,Shirley STRICKLAND,1952 Helsinki,Athletics,Women's,100m
+Summer,1952,Gold,AUS,Australia,Marjorie JACKSON,1952 Helsinki,Athletics,Women's,200m
+Summer,1952,Silver,NED,Netherlands,Bertha BROUWER,1952 Helsinki,Athletics,Women's,200m
+Summer,1952,Bronze,URS,USSR,Nadezhda KHNYKINA,1952 Helsinki,Athletics,Women's,200m
+Summer,1952,Gold,AUS,Australia,Shirley STRICKLAND,1952 Helsinki,Athletics,Women's,80m hurdles
+Summer,1952,Silver,URS,USSR,Mariya GOLUBNICHAYA,1952 Helsinki,Athletics,Women's,80m hurdles
+Summer,1952,Bronze,GER,Germany,Maria SANDER,1952 Helsinki,Athletics,Women's,80m hurdles
+Summer,1952,Gold,USA,United States,"Janet MOREAU, Mae FAGGS, Barbara JONES, Catherine HARDY",1952 Helsinki,Athletics,Women's,4x100m relay
+Summer,1952,Silver,GER,Germany,"Maria SANDER, Helga KLEIN, Marga PETERSEN, Ursula KNAB",1952 Helsinki,Athletics,Women's,4x100m relay
+Summer,1952,Bronze,GBR,Great Britain,"Jean DESFORGES, Sylvia CHEESEMAN, Heather ARMITAGE, June FOULDS",1952 Helsinki,Athletics,Women's,4x100m relay
+Summer,1952,Gold,NZL,New Zealand,Yvette WILLIAMS,1952 Helsinki,Athletics,Women's,long jump
+Summer,1952,Silver,URS,USSR,Aleksandra CHUDINA,1952 Helsinki,Athletics,Women's,long jump
+Summer,1952,Bronze,GBR,Great Britain,Shirley CAWLEY,1952 Helsinki,Athletics,Women's,long jump
+Summer,1952,Gold,RSA,South Africa,Esther BRAND,1952 Helsinki,Athletics,Women's,high jump
+Summer,1952,Silver,GBR,Great Britain,Sheila LERWILL,1952 Helsinki,Athletics,Women's,high jump
+Summer,1952,Bronze,URS,USSR,Aleksandra CHUDINA,1952 Helsinki,Athletics,Women's,high jump
+Summer,1952,Gold,URS,USSR,Galina ZYBINA,1952 Helsinki,Athletics,Women's,shot put
+Summer,1952,Silver,GER,Germany,Marianne WERNER,1952 Helsinki,Athletics,Women's,shot put
+Summer,1952,Bronze,URS,USSR,Klavdiya TOCHENOVA,1952 Helsinki,Athletics,Women's,shot put
+Summer,1952,Gold,URS,USSR,Nina ROMASHKOVA,1952 Helsinki,Athletics,Women's,discus throw
+Summer,1952,Silver,URS,USSR,Yelizaveta BAGRYANTSEVA,1952 Helsinki,Athletics,Women's,discus throw
+Summer,1952,Bronze,URS,USSR,Nina DUMBADZE,1952 Helsinki,Athletics,Women's,discus throw
+Summer,1952,Gold,TCH,Czechoslovakia,Dana INGROVA-ZATOPKOVA,1952 Helsinki,Athletics,Women's,javelin throw
+Summer,1952,Silver,URS,USSR,Aleksandra CHUDINA,1952 Helsinki,Athletics,Women's,javelin throw
+Summer,1952,Bronze,URS,USSR,Yelena GORCHAKOVA,1952 Helsinki,Athletics,Women's,javelin throw
+Summer,1952,Gold,USA,United States,"Clyde LOVELETTE, William HOUGLAND, Frank MCCABE, Victor GLASGOW, John KELLER, Marcus FREIBERGER, Bob KURLAND, Howard WILLIAMS, William LIENHARD, Daniel PIPPIN, Robert KENNEY, Melvin KELLY, Charles HOAG, Ronald BONTEMPS",1952 Helsinki,Basketball,Men's,basketball
+Summer,1952,Silver,URS,USSR,"Heino KRUUS, Aleksandr MOISEYEV, Ilmar KULLAM, Joann LÕSSOV, Kazys PETKEVICIUS, Stasys STONKUS, Nodar DZHORDZHIKIYA, Anatoly KONYEV, Otar KORKIYA, Viktor VLASOV, Stepas BUTAUTAS, Yury OZEROV, Maigonis VALDMANIS, Justinas LAGUNAVICIUS",1952 Helsinki,Basketball,Men's,basketball
+Summer,1952,Bronze,URU,Uruguay,"Martin ACOSTA Y LARA, Tabare LARRE BORGES, Héctor COSTA, Wilfredo PELAEZ, Victorio CIESLINSKAS, Roberto LOVERA, Hector GARCIA OTERO, Adesio LOMBARDO, Enrique BALIÑO, Carlos ROSSELLÓ, Nelson DEMARCO, Sergio MATTO",1952 Helsinki,Basketball,Men's,basketball
+Summer,1952,Gold,USA,United States,Nathan BROOKS,1952 Helsinki,Boxing,Men's,- 51kg (flyweight)
+Summer,1952,Silver,GER,Germany,Edgar BASEL,1952 Helsinki,Boxing,Men's,- 51kg (flyweight)
+Summer,1952,Bronze,RSA,South Africa,William TOWEEL,1952 Helsinki,Boxing,Men's,- 51kg (flyweight)
+Summer,1952,Bronze,URS,USSR,Anatoly BULAKOV,1952 Helsinki,Boxing,Men's,- 51kg (flyweight)
+Summer,1952,Gold,FIN,Finland,Pentti HÄMÄLÄINEN,1952 Helsinki,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1952,Silver,IRL,Ireland,John MCNALLY,1952 Helsinki,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1952,Bronze,KOR,Korea Republic,Joon-Ho KANG,1952 Helsinki,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1952,Bronze,URS,USSR,Gennady GARBUZOV,1952 Helsinki,Boxing,Men's,51 - 54kg (bantamweight)
+Summer,1952,Gold,TCH,Czechoslovakia,Ján ZACHARA,1952 Helsinki,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1952,Silver,ITA,Italy,Sergio CAPRARI,1952 Helsinki,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1952,Bronze,FRA,France,Joseph VENTAJA,1952 Helsinki,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1952,Bronze,RSA,South Africa,Leonard LEISCHING,1952 Helsinki,Boxing,Men's,54 - 57kg (featherweight)
+Summer,1952,Gold,ITA,Italy,Aureliano BOLOGNESI,1952 Helsinki,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1952,Silver,POL,Poland,Aleksy ANTKIEWICZ,1952 Helsinki,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1952,Bronze,FIN,Finland,Erkki Osvald PAKKANEN,1952 Helsinki,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1952,Bronze,ROU,Romania,Gheorghe FIAT,1952 Helsinki,Boxing,Men's,57 - 60kg (lightweight)
+Summer,1952,Gold,USA,United States,Charles ADKINS,1952 Helsinki,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1952,Silver,URS,USSR,Viktor MEDNOV,1952 Helsinki,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1952,Bronze,FIN,Finland,Erkki MALLENIUS,1952 Helsinki,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1952,Bronze,ITA,Italy,Bruno VISINTIN,1952 Helsinki,Boxing,Men's,60 - 63.5kg (light-welterweight)
+Summer,1952,Gold,POL,Poland,Zygmunt CHYCHLA,1952 Helsinki,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1952,Silver,URS,USSR,Sergei SHCHERBAKOV,1952 Helsinki,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1952,Bronze,DEN,Denmark,Viktor JÖRGENSEN,1952 Helsinki,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1952,Bronze,GER,Germany,Günther HEIDEMANN,1952 Helsinki,Boxing,Men's,63.5 - 67kg (welterweight)
+Summer,1952,Gold,HUN,Hungary,László PAPP,1952 Helsinki,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1952,Silver,RSA,South Africa,Theunis Jacobus VAN SCHALKWYK,1952 Helsinki,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1952,Bronze,ARG,Argentina,Eladio HERRERA,1952 Helsinki,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1952,Bronze,URS,USSR,Boris TISHIN,1952 Helsinki,Boxing,Men's,67 - 71kg (light-middleweight)
+Summer,1952,Gold,USA,United States,Floyd PATTERSON,1952 Helsinki,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1952,Silver,ROU,Romania,Vasile TITA,1952 Helsinki,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1952,Bronze,BUL,Bulgaria,Boris NIKOLOV,1952 Helsinki,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1952,Bronze,SWE,Sweden,Stig SJÖLIN,1952 Helsinki,Boxing,Men's,71 - 75kg (middleweight)
+Summer,1952,Gold,USA,United States,Norvel Lafayette Ray LEE,1952 Helsinki,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1952,Silver,ARG,Argentina,Antonio PACENZA,1952 Helsinki,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1952,Bronze,FIN,Finland,Harri Walfrid SILJANDER,1952 Helsinki,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1952,Bronze,URS,USSR,Anatoli PEROV,1952 Helsinki,Boxing,Men's,75 - 81kg (light-heavyweight)
+Summer,1952,Gold,USA,United States,Hayes Edward SANDERS,1952 Helsinki,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1952,Silver,SWE,Sweden,Ingemar JOHANSSON,1952 Helsinki,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1952,Bronze,FIN,Finland,Ilkka KOSKI,1952 Helsinki,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1952,Bronze,RSA,South Africa,Andries NIEMAN,1952 Helsinki,Boxing,Men's,+ 81kg (heavyweight)
+Summer,1952,Gold,SWE,Sweden,Gert FREDRIKSSON,1952 Helsinki,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1952,Silver,FIN,Finland,Thorvald STRÖMBERG,1952 Helsinki,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1952,Bronze,FRA,France,Louis GANTOIS,1952 Helsinki,Canoe Sprint,Men's,K-1 1000m (kayak single)
+Summer,1952,Gold,FIN,Finland,"Kurt Oskar WIRES, Yrjo HIETANEN",1952 Helsinki,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1952,Silver,SWE,Sweden,"Ingemar HEDBERG, Lars GLASSÉR",1952 Helsinki,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1952,Bronze,AUT,Austria,"Herbert WIEDERMANN, Max RAUB",1952 Helsinki,Canoe Sprint,Men's,K-2 1000m (kayak double)
+Summer,1952,Gold,FIN,Finland,Thorvald STRÖMBERG,1952 Helsinki,Canoe Sprint,Men's,K-1 10000m
+Summer,1952,Silver,SWE,Sweden,Gert FREDRIKSSON,1952 Helsinki,Canoe Sprint,Men's,K-1 10000m
+Summer,1952,Bronze,GER,Germany,Michael SCHEUER,1952 Helsinki,Canoe Sprint,Men's,K-1 10000m
+Summer,1952,Gold,FIN,Finland,"Yrjo HIETANEN, Kurt Oskar WIRES",1952 Helsinki,Canoe Sprint,Men's,K-2 10000m
+Summer,1952,Silver,SWE,Sweden,"Hans WETTERSTRÖM, Gunnar AKERLUND",1952 Helsinki,Canoe Sprint,Men's,K-2 10000m
+Summer,1952,Bronze,HUN,Hungary,"Jozsef GUROVICS, Ferenc VARGA",1952 Helsinki,Canoe Sprint,Men's,K-2 10000m
+Summer,1952,Gold,TCH,Czechoslovakia,Josef HOLECEK,1952 Helsinki,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1952,Silver,HUN,Hungary,János PARTI,1952 Helsinki,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1952,Bronze,FIN,Finland,Olavi OJANPERÄ,1952 Helsinki,Canoe Sprint,Men's,C-1 1000m (canoe single)
+Summer,1952,Gold,DEN,Denmark,"Bent Peder RASCH, Finn HAUNSTOFT",1952 Helsinki,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1952,Silver,TCH,Czechoslovakia,"Bohumil KUDRNA, Jan BRZÁK-FELIX",1952 Helsinki,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1952,Bronze,GER,Germany,"Egon DREWS, Wilfried SOLTAU",1952 Helsinki,Canoe Sprint,Men's,C-2 1000m (canoe double)
+Summer,1952,Gold,USA,United States,Frank HAVENS,1952 Helsinki,Canoe Sprint,Men's,C-1 10000m
+Summer,1952,Silver,HUN,Hungary,Gábor NOVÁK,1952 Helsinki,Canoe Sprint,Men's,C-1 10000m
+Summer,1952,Bronze,TCH,Czechoslovakia,Alfred JINDRA,1952 Helsinki,Canoe Sprint,Men's,C-1 10000m
+Summer,1952,Gold,FRA,France,"Georges TURLIER, Jean LAUDET",1952 Helsinki,Canoe Sprint,Men's,C-2 10000m
+Summer,1952,Silver,CAN,Canada,"Kenneth Ralph LANE, Donald HAWGOOD",1952 Helsinki,Canoe Sprint,Men's,C-2 10000m
+Summer,1952,Bronze,GER,Germany,"Wilfried SOLTAU, Egon DREWS",1952 Helsinki,Canoe Sprint,Men's,C-2 10000m
+Summer,1952,Gold,FIN,Finland,Sylvi Riitta SAIMO,1952 Helsinki,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1952,Silver,AUT,Austria,Gertrude LIEBHART,1952 Helsinki,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1952,Bronze,URS,USSR,Nina SAVINA,1952 Helsinki,Canoe Sprint,Women's,K-1 500m (kayak single)
+Summer,1952,Gold,BEL,Belgium,André NOYELLE,1952 Helsinki,Cycling Road,Men's,individual road race
+Summer,1952,Silver,BEL,Belgium,Robert GRONDELAERS,1952 Helsinki,Cycling Road,Men's,individual road race
+Summer,1952,Bronze,GER,Germany,Eddie ZIEGLER,1952 Helsinki,Cycling Road,Men's,individual road race
+Summer,1952,Gold,BEL,Belgium,"Robert GRONDELAERS, André NOYELLE, Lucien VICTOR",1952 Helsinki,Cycling Road,Men's,team time trial
+Summer,1952,Silver,ITA,Italy,"Dino BRUNI, Vincenzo ZUCCONELLI, Gianni GHIDINI",1952 Helsinki,Cycling Road,Men's,team time trial
+Summer,1952,Bronze,FRA,France,"Alfred TONELLO, Jacques ANQUETIL, Claude ROUER",1952 Helsinki,Cycling Road,Men's,team time trial
+Summer,1952,Gold,ITA,Italy,Enzo SACCHI,1952 Helsinki,Cycling Track,Men's,sprint individual
+Summer,1952,Silver,AUS,Australia,Lionel COX,1952 Helsinki,Cycling Track,Men's,sprint individual
+Summer,1952,Bronze,GER,Germany,Werner POTZERNHEIM,1952 Helsinki,Cycling Track,Men's,sprint individual
+Summer,1952,Gold,AUS,Australia,Russell MOCKRIDGE,1952 Helsinki,Cycling Track,Men's,1km time trial
+Summer,1952,Silver,ITA,Italy,Marino MORETTINI,1952 Helsinki,Cycling Track,Men's,1km time trial
+Summer,1952,Bronze,RSA,South Africa,Raymond ROBINSON,1952 Helsinki,Cycling Track,Men's,1km time trial
+Summer,1952,Gold,AUS,Australia,"Russell MOCKRIDGE, Lionel COX",1952 Helsinki,Cycling Track,Men's,2000m tandem
+Summer,1952,Silver,RSA,South Africa,"Thomas SHARDELOW, Raymond ROBINSON",1952 Helsinki,Cycling Track,Men's,2000m tandem
+Summer,1952,Bronze,ITA,Italy,"Cesare PINARELLO, Antonio MASPES",1952 Helsinki,Cycling Track,Men's,2000m tandem
+Summer,1952,Gold,ITA,Italy,"Marino MORETTINI, Loris CAMPANA, Mino DE ROSSI, Guido MESSINA",1952 Helsinki,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1952,Silver,RSA,South Africa,"George ESTMAN, Alfred SWIFT, Thomas SHARDELOW, Robert FOWLER",1952 Helsinki,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1952,Bronze,GBR,Great Britain,"Ronald STRETTON, Alan NEWTON, Donald BURGESS, George NEWBERRY",1952 Helsinki,Cycling Track,Men's,Team Pursuit (4000m)
+Summer,1952,Gold,USA,United States,David BROWNING,1952 Helsinki,Diving,Men's,3m springboard
+Summer,1952,Silver,USA,United States,Miller ANDERSON,1952 Helsinki,Diving,Men's,3m springboard
+Summer,1952,Bronze,USA,United States,Robert CLOTWORTHY,1952 Helsinki,Diving,Men's,3m springboard
+Summer,1952,Gold,USA,United States,Samuel LEE,1952 Helsinki,Diving,Men's,10m platform
+Summer,1952,Silver,MEX,Mexico,Joaquin CAPILLA PEREZ,1952 Helsinki,Diving,Men's,10m platform
+Summer,1952,Bronze,GER,Germany,Günther HAASE,1952 Helsinki,Diving,Men's,10m platform
+Summer,1952,Gold,USA,United States,Patricia MCCORMICK,1952 Helsinki,Diving,Women's,3m springboard
+Summer,1952,Silver,FRA,France,Madeleine MOREAU,1952 Helsinki,Diving,Women's,3m springboard
+Summer,1952,Bronze,USA,United States,Zoe Ann OLSEN,1952 Helsinki,Diving,Women's,3m springboard
+Summer,1952,Gold,USA,United States,Patricia MCCORMICK,1952 Helsinki,Diving,Women's,10m platform
+Summer,1952,Silver,USA,United States,Paula Jean MYERS-POPE,1952 Helsinki,Diving,Women's,10m platform
+Summer,1952,Bronze,USA,United States,Juno STOVER-IRWIN,1952 Helsinki,Diving,Women's,10m platform
+Summer,1952,Gold,SWE,Sweden,Henri SAINT CYR,1952 Helsinki,Equestrian Dressage,Mixed,individual
+Summer,1952,Silver,DEN,Denmark,Lis HARTEL,1952 Helsinki,Equestrian Dressage,Mixed,individual
+Summer,1952,Bronze,FRA,France,André JOUSSEAUMÉ,1952 Helsinki,Equestrian Dressage,Mixed,individual
+Summer,1952,Gold,SWE,Sweden,"Gustaf Adolf BOLTENSTERN JR., Henri SAINT CYR, Gehnäll PERSSON",1952 Helsinki,Equestrian Dressage,Mixed,team
+Summer,1952,Silver,SUI,Switzerland,"Henri CHAMMARTIN, Gottfried TRACHSEL, Gustav FISCHER",1952 Helsinki,Equestrian Dressage,Mixed,team
+Summer,1952,Bronze,GER,Germany,"Fritz THIEDEMANN, Heinz POLLAY, Ida VON NAGEL",1952 Helsinki,Equestrian Dressage,Mixed,team
+Summer,1952,Gold,SWE,Sweden,Hans VON BLIXEN FINECKE JR.,1952 Helsinki,Equestrian Eventing,Mixed,individual
+Summer,1952,Silver,FRA,France,Guy LEFRANT,1952 Helsinki,Equestrian Eventing,Mixed,individual
+Summer,1952,Bronze,GER,Germany,Wilhelm BÜSING,1952 Helsinki,Equestrian Eventing,Mixed,individual
+Summer,1952,Gold,SWE,Sweden,"Folke FRÖLEN, Hans VON BLIXEN FINECKE JR., Olof STAHRE",1952 Helsinki,Equestrian Eventing,Mixed,team
+Summer,1952,Silver,GER,Germany,"Wilhelm BÜSING, Otto ROTHE, Klaus WAGNER",1952 Helsinki,Equestrian Eventing,Mixed,team
+Summer,1952,Bronze,USA,United States,"Walter STALEY, John WOFFORD, Charles HOUGH",1952 Helsinki,Equestrian Eventing,Mixed,team
+Summer,1952,Gold,FRA,France,Pierre JONQUÈRES D'ORIOLA,1952 Helsinki,Equestrian Jumping,Mixed,individual
+Summer,1952,Silver,CHI,Chile,Oscar CRISTI,1952 Helsinki,Equestrian Jumping,Mixed,individual
+Summer,1952,Bronze,GER,Germany,Fritz THIEDEMANN,1952 Helsinki,Equestrian Jumping,Mixed,individual
+Summer,1952,Gold,GBR,Great Britain,"Douglas Norman STEWART, Harry LLEWELLYN, Wilfred WHITE",1952 Helsinki,Equestrian Jumping,Mixed,team
+Summer,1952,Silver,CHI,Chile,"Ricardo ECHEVERRIA, Cesar MENDOZA, Oscar CRISTI",1952 Helsinki,Equestrian Jumping,Mixed,team
+Summer,1952,Bronze,USA,United States,"Arthur John MCCASHIN, Bill STEINKRAUS, John RUSSELL",1952 Helsinki,Equestrian Jumping,Mixed,team
+Summer,1952,Gold,ITA,Italy,Edoardo MANGIAROTTI,1952 Helsinki,Fencing,Men's,épée individual
+Summer,1952,Silver,ITA,Italy,Dario MANGIAROTTI,1952 Helsinki,Fencing,Men's,épée individual
+Summer,1952,Bronze,SUI,Switzerland,Oswald ZAPPELLI,1952 Helsinki,Fencing,Men's,épée individual
+Summer,1952,Gold,ITA,Italy,"Carlo PAVESI, Dario MANGIAROTTI, Giuseppe DELFINO, Roberto BATTAGLIA, Edoardo MANGIAROTTI, Franco BERTINETTI",1952 Helsinki,Fencing,Men's,épée team
+Summer,1952,Silver,SWE,Sweden,"Carl FORSSELL, Lennart MAGNUSSON, Berndt-Otto REHBINDER, Bengt LJUNGQUIST, Per CARLESON, Sven FAHLMAN",1952 Helsinki,Fencing,Men's,épée team
+Summer,1952,Bronze,SUI,Switzerland,"Oswald ZAPPELLI, Willy FITTING, Paul BARTH, Otto RÜFENACHT, Paul MEISTER, Mario VALOTA",1952 Helsinki,Fencing,Men's,épée team
+Summer,1952,Gold,FRA,France,Christian D'ORIOLA,1952 Helsinki,Fencing,Men's,foil individual
+Summer,1952,Silver,ITA,Italy,Edoardo MANGIAROTTI,1952 Helsinki,Fencing,Men's,foil individual
+Summer,1952,Bronze,ITA,Italy,Manlio DI ROSA,1952 Helsinki,Fencing,Men's,foil individual
+Summer,1952,Gold,FRA,France,"Jacques NOËL, Jehan BUHAN, Claude NETTER, Jacques LATASTE, Christian D'ORIOLA, Adrien ROMMEL",1952 Helsinki,Fencing,Men's,foil team
+Summer,1952,Silver,ITA,Italy,"Renzo NOSTINI, Edoardo MANGIAROTTI, Antonio SPALLINO, Giancarlo BERGAMINI, Giorgio PELLINI, Manlio DI ROSA",1952 Helsinki,Fencing,Men's,foil team
+Summer,1952,Bronze,HUN,Hungary,"Endre TILLI, Lajos MASZLAY, József SÁKOVICS, Tibor BERCZELLY, Endre PALÓCZ, Aladár GEREVICH",1952 Helsinki,Fencing,Men's,foil team
+Summer,1952,Gold,HUN,Hungary,Pál KOVÁCS,1952 Helsinki,Fencing,Men's,sabre individual
+Summer,1952,Silver,HUN,Hungary,Aladár GEREVICH,1952 Helsinki,Fencing,Men's,sabre individual
+Summer,1952,Bronze,HUN,Hungary,Tibor BERCZELLY,1952 Helsinki,Fencing,Men's,sabre individual
+Summer,1952,Gold,HUN,Hungary,"László RAJCSÁNYI, Rudolf KÁRPÁTI, Tibor BERCZELLY, Bertalan PAPP, Pál KOVÁCS, Aladár GEREVICH",1952 Helsinki,Fencing,Men's,sabre team
+Summer,1952,Silver,ITA,Italy,"Gastone DARE, Roberto FERRARI, Mauro RACCA, Vincenzo PINTON, Giorgio PELLINI, Renzo NOSTINI",1952 Helsinki,Fencing,Men's,sabre team
+Summer,1952,Bronze,FRA,France,"Jean LAROYENNE, Bernard MOREL, Jean-François TOURNON, Jacques LEFÈVRE, Maurice PIOT, Jean LEVAVASSEUR",1952 Helsinki,Fencing,Men's,sabre team
+Summer,1952,Gold,ITA,Italy,Irene CAMBER,1952 Helsinki,Fencing,Women's,foil individual
+Summer,1952,Silver,HUN,Hungary,Ilona ELEK,1952 Helsinki,Fencing,Women's,foil individual
+Summer,1952,Bronze,DEN,Denmark,Karen LACHMANN,1952 Helsinki,Fencing,Women's,foil individual
+Summer,1952,Gold,HUN,Hungary,"Mihály LANTOS, Jenö DALNOKI, Sándor KOCSIS, Gyula LÓRÁNT, Gyula GROSICS, Lajos CSORDÁS, László BUDAI, Jozsef ZAKARIAS, Ferenc PUSKÁS, Zoltán CZIBOR, Péter PALOTÁS, Nándor HIDEGKUTI, Jenö BUZANSZKY, Imre KOVÁCS, József BOZSIK",1952 Helsinki,Football,Men's,football
+Summer,1952,Silver,YUG,Yugoslavia,"Tihomir OGNJANOV, Branko ZEBEC, Ivan HORVAT, Bernard VUKAS, Vujadin BOSKOV, Rajko MITIC, Zlatko CAJKOVSKI, Vladimir BEARA, Stjepan BOBEK, Branislav STANKOVIC, Tomislav CRNKOVIC",1952 Helsinki,Football,Men's,football
+Summer,1952,Bronze,SWE,Sweden,"Gösta LINDH, Erik NILSSON, Karl SVENSSON, Bengt GUSTAVSSON, Olof ""Olle"" AHLUND, Gösta SANDBERG, Ingvar RYDELL, Sylve BENGTSSON, Gösta LÖFGREN, Lennart SAMUELSSON, Yngve BRODD, Holger HANSSON",1952 Helsinki,Football,Men's,football
+Summer,1952,Gold,URS,USSR,Viktor CHUKARIN,1952 Helsinki,Gymnastics Artistic,Men's,individual all-round
+Summer,1952,Silver,URS,USSR,Grant SHAGINYAN,1952 Helsinki,Gymnastics Artistic,Men's,individual all-round
+Summer,1952,Bronze,SUI,Switzerland,Josef STALDER,1952 Helsinki,Gymnastics Artistic,Men's,individual all-round
+Summer,1952,Gold,URS,USSR,"Vladimir BELYAKOV, Valentin MURATOV, Grant SHAGINYAN, Iosif BERDIYEV, Mikhail PERELMAN, Viktor CHUKARIN, Yevgeny KOROLKOV, Dmitry LEONKIN",1952 Helsinki,Gymnastics Artistic,Men's,team competition
+Summer,1952,Silver,SUI,Switzerland,"Jean TSCHABOLD, Ernst GEBENDINGER, Josef STALDER, Hans SCHWARZENTRUBER, Jack GÜNTHARD, Hans EUGSTER, Melchior THALMANN, Ernst FIVIAN",1952 Helsinki,Gymnastics Artistic,Men's,team competition
+Summer,1952,Bronze,FIN,Finland,"Onni LAPPALAINEN, Kalevi VISKARI, Heikki SAVOLAINEN, Olavi ROVE, Kalevi LAITINEN, Paavo AALTONEN, Berndt LINDFORS, Kaino LEMPINEN",1952 Helsinki,Gymnastics Artistic,Men's,team competition
+Summer,1952,Gold,SWE,Sweden,William THORESSON,1952 Helsinki,Gymnastics Artistic,Men's,floor exercises
+Summer,1952,Silver,JPN,Japan,Tadao UESAKO,1952 Helsinki,Gymnastics Artistic,Men's,floor exercises
+Summer,1952,Silver,POL,Poland,Jerzy JOKIEL,1952 Helsinki,Gymnastics Artistic,Men's,floor exercises
+Summer,1952,Gold,SUI,Switzerland,Hans EUGSTER,1952 Helsinki,Gymnastics Artistic,Men's,parallel bars
+Summer,1952,Silver,URS,USSR,Viktor CHUKARIN,1952 Helsinki,Gymnastics Artistic,Men's,parallel bars
+Summer,1952,Bronze,SUI,Switzerland,Josef STALDER,1952 Helsinki,Gymnastics Artistic,Men's,parallel bars
+Summer,1952,Gold,URS,USSR,Viktor CHUKARIN,1952 Helsinki,Gymnastics Artistic,Men's,vault
+Summer,1952,Silver,JPN,Japan,Masao TAKEMOTO,1952 Helsinki,Gymnastics Artistic,Men's,vault
+Summer,1952,Bronze,JPN,Japan,Tadao UESAKO,1952 Helsinki,Gymnastics Artistic,Men's,vault
+Summer,1952,Bronze,JPN,Japan,Takashi ONO,1952 Helsinki,Gymnastics Artistic,Men's,vault
+Summer,1952,Gold,URS,USSR,Grant SHAGINYAN,1952 Helsinki,Gymnastics Artistic,Men's,rings
+Summer,1952,Silver,URS,USSR,Viktor CHUKARIN,1952 Helsinki,Gymnastics Artistic,Men's,rings
+Summer,1952,Bronze,SUI,Switzerland,Hans EUGSTER,1952 Helsinki,Gymnastics Artistic,Men's,rings
+Summer,1952,Bronze,URS,USSR,Dmitry LEONKIN,1952 Helsinki,Gymnastics Artistic,Men's,rings
+Summer,1952,Gold,URS,USSR,Viktor CHUKARIN,1952 Helsinki,Gymnastics Artistic,Men's,pommel horse
+Summer,1952,Silver,URS,USSR,Grant SHAGINYAN,1952 Helsinki,Gymnastics Artistic,Men's,pommel horse
+Summer,1952,Silver,URS,USSR,Yevgeny KOROLKOV,1952 Helsinki,Gymnastics Artistic,Men's,pommel horse
+Summer,1952,Gold,SUI,Switzerland,Jack GÜNTHARD,1952 Helsinki,Gymnastics Artistic,Men's,horizontal bar
+Summer,1952,Silver,GER,Germany,Alfred SCHWARZMANN,1952 Helsinki,Gymnastics Artistic,Men's,horizontal bar
+Summer,1952,Silver,SUI,Switzerland,Josef STALDER,1952 Helsinki,Gymnastics Artistic,Men's,horizontal bar
+Summer,1952,Gold,URS,USSR,Mariya GOROKHOVSKAYA,1952 Helsinki,Gymnastics Artistic,Women's,individual all-round
+Summer,1952,Silver,URS,USSR,Nina BOCHAROVA,1952 Helsinki,Gymnastics Artistic,Women's,individual all-round
+Summer,1952,Bronze,HUN,Hungary,Margit KORONDI,1952 Helsinki,Gymnastics Artistic,Women's,individual all-round
+Summer,1952,Gold,URS,USSR,"Pelageya DANILOVA, Yekaterina KALINCHUK, Galina SHAMRAI, Galina URBANOVICH, Nina BOCHAROVA, Mariya GOROKHOVSKAYA, Medeya DZCHUGELI, Galina MINAICHEVA",1952 Helsinki,Gymnastics Artistic,Women's,team competition
+Summer,1952,Silver,HUN,Hungary,"Margit KORONDI, Maria KÖVI-ZALAI, Ágnes KELETI, Andrea BODÓ, Iren KARSICS-DARUHAZI, Olga TASS, Erzsébet GULYÁS-KÖTELES, Edit VASARHELYI (WECKINGER)",1952 Helsinki,Gymnastics Artistic,Women's,team competition
+Summer,1952,Bronze,TCH,Czechoslovakia,"Alena CHADIMOVA, Alena REICHOVÁ, Eva VECHTOVA-BOSAKOVA, Vera VANCUROVÁ, Bo?ena SRNCOVÁ, Matylda MATOU?KOVÁ, Hana BOBKOVÁ, Jana RABASOVÁ",1952 Helsinki,Gymnastics Artistic,Women's,team competition
+Summer,1952,Gold,HUN,Hungary,Ágnes KELETI,1952 Helsinki,Gymnastics Artistic,Women's,floor exercises
+Summer,1952,Silver,URS,USSR,Mariya GOROKHOVSKAYA,1952 Helsinki,Gymnastics Artistic,Women's,floor exercises
+Summer,1952,Bronze,HUN,Hungary,Margit KORONDI,1952 Helsinki,Gymnastics Artistic,Women's,floor exercises
+Summer,1952,Gold,HUN,Hungary,Margit KORONDI,1952 Helsinki,Gymnastics Artistic,Women's,uneven bars
+Summer,1952,Silver,URS,USSR,Mariya GOROKHOVSKAYA,1952 Helsinki,Gymnastics Artistic,Women's,uneven bars
+Summer,1952,Bronze,HUN,Hungary,Ágnes KELETI,1952 Helsinki,Gymnastics Artistic,Women's,uneven bars
+Summer,1952,Gold,URS,USSR,Yekaterina KALINCHUK,1952 Helsinki,Gymnastics Artistic,Women's,vault
+Summer,1952,Silver,URS,USSR,Mariya GOROKHOVSKAYA,1952 Helsinki,Gymnastics Artistic,Women's,vault
+Summer,1952,Bronze,URS,USSR,Galina MINAICHEVA,1952 Helsinki,Gymnastics Artistic,Women's,vault
+Summer,1952,Gold,URS,USSR,Nina BOCHAROVA,1952 Helsinki,Gymnastics Artistic,Women's,balance beam
+Summer,1952,Silver,URS,USSR,Mariya GOROKHOVSKAYA,1952 Helsinki,Gymnastics Artistic,Women's,balance beam
+Summer,1952,Bronze,HUN,Hungary,Margit KORONDI,1952 Helsinki,Gymnastics Artistic,Women's,balance beam
+Summer,1952,Gold,SWE,Sweden,"Göta PETTERSSON, Ann-Sofi COLLING-PETTERSSON, Ingrid SANDAHL, Hjördis NORDIN, Karin LINDBERG, Vanja BLOMBERG, Evy BERGGREN, Gun RÖRING",1952 Helsinki,Gymnastics Artistic,Women's,"team, portable apparatus"
+Summer,1952,Silver,URS,USSR,"Mariya GOROKHOVSKAYA, Pelageya DANILOVA, Medeya DZCHUGELI, Nina BOCHAROVA, Yekaterina KALINCHUK, Galina URBANOVICH, Galina SHAMRAI, Galina MINAICHEVA",1952 Helsinki,Gymnastics Artistic,Women's,"team, portable apparatus"
+Summer,1952,Bronze,HUN,Hungary,"Maria KÖVI-ZALAI, Ágnes KELETI, Olga TASS, Andrea BODÓ, Edit VASARHELYI (WECKINGER), Erzsébet GULYÁS-KÖTELES, Margit KORONDI, Iren KARSICS-DARUHAZI",1952 Helsinki,Gymnastics Artistic,Women's,"team, portable apparatus"
+Summer,1952,Gold,IND,India,"Grahanandan SINGH, Keshava DATT, Govind PERUMAL, Ranganandhan FRANCIS, Randhir SINGH GENTLE, Raghbir LAL, Meldric St. Clair DALUZ, Udham SINGH, Dharam SINGH, Balbir SINGH DOSANJH, Leslie CLAUDIUS, Chinadorai DESMUTHU, Kunwar Digvijai SINGH, Muniswamy RAJAGOPAL",1952 Helsinki,Hockey,Men's,hockey
+Summer,1952,Silver,NED,Netherlands,"Hermanus LOGGERE, Laurentz MULDER, Johan DRIJVER, Jan KRUIZE, Henri DERCKX, Leonard WERY, Willem VAN HEEL, Julius ANCION, Rius Theo ESSER, Edouard TIEL, Andries BOERSTRA",1952 Helsinki,Hockey,Men's,hockey
+Summer,1952,Bronze,GBR,Great Britain,"Anthony ROBINSON, Robin FLETCHER, Dennis EAGAN, Neil NUGENT, John TAYLOR, Anthony NUNN, Derek DAY, Roger MIDGLEY, Denys CARNILL, John CONROY, Graham DADDS, John COCKETT, Richard NORRIS",1952 Helsinki,Hockey,Men's,hockey
+Summer,1952,Gold,SWE,Sweden,Lars HALL,1952 Helsinki,Modern Pentathlon,Men's,individual competition
+Summer,1952,Silver,HUN,Hungary,Gábor BENEDEK,1952 Helsinki,Modern Pentathlon,Men's,individual competition
+Summer,1952,Bronze,HUN,Hungary,István SZONDY,1952 Helsinki,Modern Pentathlon,Men's,individual competition
+Summer,1952,Gold,HUN,Hungary,"Aladar KOVACSI, István SZONDY, Gábor BENEDEK",1952 Helsinki,Modern Pentathlon,Men's,team competition
+Summer,1952,Silver,SWE,Sweden,"Claes EGNELL, Thorsten LINDQVIST, Lars HALL",1952 Helsinki,Modern Pentathlon,Men's,team competition
+Summer,1952,Bronze,FIN,Finland,"Olavi ROKKA, Olavi MANNONEN, Lauri VILKKO",1952 Helsinki,Modern Pentathlon,Men's,team competition
+Summer,1952,Gold,URS,USSR,Yuri TYUKALOV,1952 Helsinki,Rowing,Men's,single sculls (1x)
+Summer,1952,Silver,AUS,Australia,Mervyn WOOD,1952 Helsinki,Rowing,Men's,single sculls (1x)
+Summer,1952,Bronze,POL,Poland,Teodor KOCERKA,1952 Helsinki,Rowing,Men's,single sculls (1x)
+Summer,1952,Gold,ARG,Argentina,"Eduardo GUERRERO, Tranquilo CAPPOZZO",1952 Helsinki,Rowing,Men's,double sculls (2x)
+Summer,1952,Silver,URS,USSR,"Igor YEMCHUK, Georgi ZHILIN",1952 Helsinki,Rowing,Men's,double sculls (2x)
+Summer,1952,Bronze,URU,Uruguay,"Miguel SEIJAS, Juan RODRÍGUEZ",1952 Helsinki,Rowing,Men's,double sculls (2x)
+Summer,1952,Gold,USA,United States,"Charles LOGG, Thomas PRICE",1952 Helsinki,Rowing,Men's,pair without coxswain (2-)
+Summer,1952,Silver,BEL,Belgium,"Robert BAETENS, Michel KNUYSEN",1952 Helsinki,Rowing,Men's,pair without coxswain (2-)
+Summer,1952,Bronze,SUI,Switzerland,"Hans KALT, Kurt SCHMID",1952 Helsinki,Rowing,Men's,pair without coxswain (2-)
+Summer,1952,Gold,FRA,France,"Raymond SALLES, Gaston MERCIER, Bernard MALIVOIRE",1952 Helsinki,Rowing,Men's,pair-oared shell with coxswain
+Summer,1952,Silver,GER,Germany,"Helmut NOLL, Helmut HEINHOLD, Heinz-Joachim MANCHEN",1952 Helsinki,Rowing,Men's,pair-oared shell with coxswain
+Summer,1952,Bronze,DEN,Denmark,"Jørgen FRANTZEN, Svend PEDERSEN, Poul SVENDSEN",1952 Helsinki,Rowing,Men's,pair-oared shell with coxswain
+Summer,1952,Gold,YUG,Yugoslavia,"Velimir VALENTA, Duje BONACIC, Mate TROJANOVIC, Petar SEGVIC",1952 Helsinki,Rowing,Men's,four without coxswain (4-)
+Summer,1952,Silver,FRA,France,"Pierre BLONDIAUX, Roger GAUTIER, Marc BOUISSOU, Jacques GUISSART",1952 Helsinki,Rowing,Men's,four without coxswain (4-)
+Summer,1952,Bronze,FIN,Finland,"Lauri NEVALAINEN, Oiva LOMMI, Kauko WAHLSTEN, Veikko LOMMI",1952 Helsinki,Rowing,Men's,four without coxswain (4-)
+Summer,1952,Gold,TCH,Czechoslovakia,"Jan JINDRA, Miroslav KORANDA, Stanislav LUSK, Jirí HAVLIS, Karel MEJTA",1952 Helsinki,Rowing,Men's,four-oared shell with coxswain
+Summer,1952,Silver,SUI,Switzerland,"Heinrich SCHELLER, Karl WEIDMANN, Walter LEISER, Enrico BIANCHI, Emile ESS",1952 Helsinki,Rowing,Men's,four-oared shell with coxswain
+Summer,1952,Bronze,USA,United States,"Richard WAHLSTROM, Matt LEANDERSON, Albert ROSSI, Alvin ULBRICKSON, Carl LOVESTED",1952 Helsinki,Rowing,Men's,four-oared shell with coxswain
+Summer,1952,Gold,USA,United States,"Edward STEVENS, Charles MANRING, Frank SHAKESPEARE, James DUNBAR, William FIELDS, Robert DETWEILER, Wayne FRYE, Henry PROCTOR, Richard MURPHY",1952 Helsinki,Rowing,Men's,eight with coxswain (8+)
+Summer,1952,Silver,URS,USSR,"Igor POLYAKOV, Yevgeni BRAGO, Slava AMIRAGOV, Yevgeni SAMSONOV, Aleksey KOMAROV, Vladimir KRYUKOV, Leonid GISSEN, Vladimir RODIMUSHKIN, Igor BORISOV",1952 Helsinki,Rowing,Men's,eight with coxswain (8+)
+Summer,1952,Bronze,AUS,Australia,"Thomas CHESSEL, Mervyn FINLAY, Robert TINNING, David ANDERSON, Nimrod GREENWOOD, Ernest CHAPMAN, Edward PAIN, Philip CAYZER, Geoffrey WILLIAMSON",1952 Helsinki,Rowing,Men's,eight with coxswain (8+)
+Summer,1952,Gold,USA,United States,"Britton CHANCE, Edgar WHITE, Sumner WHITE, Michael Beaver SCHOETTLE",1952 Helsinki,Sailing,Mixed,5.5m
+Summer,1952,Silver,NOR,Norway,"Vibeke LUNDE, Børre FALKUM-HANSEN, Peder LUNDE",1952 Helsinki,Sailing,Mixed,5.5m
+Summer,1952,Bronze,SWE,Sweden,"Folke WASSÉN, Magnus WASSÉN, Carl-Erik OHLSON",1952 Helsinki,Sailing,Mixed,5.5m
+Summer,1952,Gold,USA,United States,"Eric RIDDER, Emelyn WHITON, Herman WHITON, John MORGAN, Everard ENDT, Julian ROOSEVELT",1952 Helsinki,Sailing,Mixed,6m
+Summer,1952,Silver,NOR,Norway,"Finn FERNER, Erik HEIBERG, Tor ARNEBERG, Johan Martin FERNER, Carl MORTENSEN",1952 Helsinki,Sailing,Mixed,6m
+Summer,1952,Bronze,FIN,Finland,"Rolf TURKKA, Ernst WESTERLUND, Adolf KONTO, Ragnar JANSSON, Paul SJÖBERG",1952 Helsinki,Sailing,Mixed,6m
+Summer,1952,Gold,NOR,Norway,"Thor THORVALDSEN, Sigve LIE, Hakon BARFOD",1952 Helsinki,Sailing,Mixed,dragon
+Summer,1952,Silver,SWE,Sweden,"Sidney BOLDT-CHRISTMAS, Per GEDDA, Erland ALMKVIST",1952 Helsinki,Sailing,Mixed,dragon
+Summer,1952,Bronze,GER,Germany,"Erich NATUSCH, Theodor THOMSEN, Georg NOWKA",1952 Helsinki,Sailing,Mixed,dragon
+Summer,1952,Gold,DEN,Denmark,Paul ELVSTROM,1952 Helsinki,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1952,Silver,GBR,Great Britain,Charles Norman CURREY,1952 Helsinki,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1952,Bronze,SWE,Sweden,Rickard SARBY,1952 Helsinki,Sailing,Mixed,Finn - One Person Dinghy (Heavyweight)
+Summer,1952,Gold,ITA,Italy,"Nicolo RODE, Agostino STRAULINO",1952 Helsinki,Sailing,Mixed,two-person keelboat (Star)
+Summer,1952,Silver,USA,United States,"John PRICE, John REID",1952 Helsinki,Sailing,Mixed,two-person keelboat (Star)
+Summer,1952,Bronze,POR,Portugal,"Joaquim Mascarenhas De M. FIUZA, Francisco Rebello De ANDRADE",1952 Helsinki,Sailing,Mixed,two-person keelboat (Star)
+Summer,1952,Gold,HUN,Hungary,Károly TAKÁCS,1952 Helsinki,Shooting,Men's,25m rapid fire pistol
+Summer,1952,Silver,HUN,Hungary,Szilárd KUN,1952 Helsinki,Shooting,Men's,25m rapid fire pistol
+Summer,1952,Bronze,ROU,Romania,Gheorghe LICHIARDOPOL,1952 Helsinki,Shooting,Men's,25m rapid fire pistol
+Summer,1952,Gold,USA,United States,Huelet BENNER,1952 Helsinki,Shooting,Men's,50m pistol
+Summer,1952,Silver,ESP,Spain,Angel LEON GOZALO,1952 Helsinki,Shooting,Men's,50m pistol
+Summer,1952,Bronze,HUN,Hungary,Ambrus BALOGH,1952 Helsinki,Shooting,Men's,50m pistol
+Summer,1952,Gold,ROU,Romania,Iosif SIRBU,1952 Helsinki,Shooting,Men's,50m rifle prone
+Summer,1952,Silver,URS,USSR,Boris ANDREYEV,1952 Helsinki,Shooting,Men's,50m rifle prone
+Summer,1952,Bronze,USA,United States,Arthur JACKSON,1952 Helsinki,Shooting,Men's,50m rifle prone
+Summer,1952,Gold,NOR,Norway,Erling KONGSHAUG,1952 Helsinki,Shooting,Men's,50m rifle 3 positions
+Summer,1952,Silver,FIN,Finland,Vilho YLÖNEN,1952 Helsinki,Shooting,Men's,50m rifle 3 positions
+Summer,1952,Bronze,URS,USSR,Boris ANDREYEV,1952 Helsinki,Shooting,Men's,50m rifle 3 positions
+Summer,1952,Gold,NOR,Norway,John LARSEN,1952 Helsinki,Shooting,Men's,"100m running deer, single/double shots"
+Summer,1952,Silver,SWE,Sweden,Olof SKÖLDBERG,1952 Helsinki,Shooting,Men's,"100m running deer, single/double shots"
+Summer,1952,Bronze,FIN,Finland,Tauno MÄKI,1952 Helsinki,Shooting,Men's,"100m running deer, single/double shots"
+Summer,1952,Gold,URS,USSR,Anatoli BOGDANOV,1952 Helsinki,Shooting,Men's,300m free rifle 3 positions
+Summer,1952,Silver,SUI,Switzerland,Robert BÜRCHLER,1952 Helsinki,Shooting,Men's,300m free rifle 3 positions
+Summer,1952,Bronze,URS,USSR,Lev VAINSHTEIN,1952 Helsinki,Shooting,Men's,300m free rifle 3 positions
+Summer,1952,Gold,CAN,Canada,George GENEREUX,1952 Helsinki,Shooting,Men's,Trap
+Summer,1952,Silver,SWE,Sweden,Knut HOLMQVIST,1952 Helsinki,Shooting,Men's,Trap
+Summer,1952,Bronze,SWE,Sweden,Hans LILJEDAHL,1952 Helsinki,Shooting,Men's,Trap
+Summer,1952,Gold,USA,United States,Clarke SCHOLES,1952 Helsinki,Swimming,Men's,100m freestyle
+Summer,1952,Silver,JPN,Japan,Hiroshi SUZUKI,1952 Helsinki,Swimming,Men's,100m freestyle
+Summer,1952,Bronze,SWE,Sweden,Göran LARSSON,1952 Helsinki,Swimming,Men's,100m freestyle
+Summer,1952,Gold,FRA,France,Jean BOITEUX,1952 Helsinki,Swimming,Men's,400m freestyle
+Summer,1952,Silver,USA,United States,Ford KONNO,1952 Helsinki,Swimming,Men's,400m freestyle
+Summer,1952,Bronze,SWE,Sweden,Per-Olof ÖSTRAND,1952 Helsinki,Swimming,Men's,400m freestyle
+Summer,1952,Gold,USA,United States,Ford KONNO,1952 Helsinki,Swimming,Men's,1500m freestyle
+Summer,1952,Silver,JPN,Japan,Shiro HASHIZUME,1952 Helsinki,Swimming,Men's,1500m freestyle
+Summer,1952,Bronze,BRA,Brazil,Tetsuo OKAMOTO,1952 Helsinki,Swimming,Men's,1500m freestyle
+Summer,1952,Gold,AUS,Australia,John DAVIES,1952 Helsinki,Swimming,Men's,200m breaststroke
+Summer,1952,Silver,USA,United States,Bowen STASSFORTH,1952 Helsinki,Swimming,Men's,200m breaststroke
+Summer,1952,Bronze,GER,Germany,Herbert KLEIN,1952 Helsinki,Swimming,Men's,200m breaststroke
+Summer,1952,Gold,USA,United States,Yoshinobu OYAKAWA,1952 Helsinki,Swimming,Men's,100m backstroke
+Summer,1952,Silver,FRA,France,Gilbert BOZON,1952 Helsinki,Swimming,Men's,100m backstroke
+Summer,1952,Bronze,USA,United States,Jack TAYLOR,1952 Helsinki,Swimming,Men's,100m backstroke
+Summer,1952,Gold,USA,United States,"Ford KONNO, James MCLANE, Wayne MOORE, William WOOLSEY",1952 Helsinki,Swimming,Men's,4x200m freestyle relay
+Summer,1952,Silver,JPN,Japan,"Yoshihiro HAMAGUCHI, Teijiro TANIKAWA, Toru GOTO, Hiroshi SUZUKI",1952 Helsinki,Swimming,Men's,4x200m freestyle relay
+Summer,1952,Bronze,FRA,France,"Joseph BERNARDO, Aldo EMINENTE, Alexandre JANY, Jean BOITEUX",1952 Helsinki,Swimming,Men's,4x200m freestyle relay
+Summer,1952,Gold,HUN,Hungary,Katalin SZOKE,1952 Helsinki,Swimming,Women's,100m freestyle
+Summer,1952,Silver,NED,Netherlands,Johanna Maria TERMEULEN,1952 Helsinki,Swimming,Women's,100m freestyle
+Summer,1952,Bronze,HUN,Hungary,Judit TEMES,1952 Helsinki,Swimming,Women's,100m freestyle
+Summer,1952,Gold,HUN,Hungary,Valéria GYENGE,1952 Helsinki,Swimming,Women's,400m freestyle
+Summer,1952,Silver,HUN,Hungary,Éva NOVÁK,1952 Helsinki,Swimming,Women's,400m freestyle
+Summer,1952,Bronze,USA,United States,Evelyn KAWAMOTO,1952 Helsinki,Swimming,Women's,400m freestyle
+Summer,1952,Gold,HUN,Hungary,Eva SZEKELY,1952 Helsinki,Swimming,Women's,200m breaststroke
+Summer,1952,Silver,HUN,Hungary,Éva NOVÁK,1952 Helsinki,Swimming,Women's,200m breaststroke
+Summer,1952,Bronze,GBR,Great Britain,Helen GORDON,1952 Helsinki,Swimming,Women's,200m breaststroke
+Summer,1952,Gold,RSA,South Africa,Joan HARRISON,1952 Helsinki,Swimming,Women's,100m backstroke
+Summer,1952,Silver,NED,Netherlands,Geertje WIELEMA,1952 Helsinki,Swimming,Women's,100m backstroke
+Summer,1952,Bronze,NZL,New Zealand,Jean STEWART,1952 Helsinki,Swimming,Women's,100m backstroke
+Summer,1952,Gold,HUN,Hungary,"Ilona NOVÁK, Katalin SZOKE, Éva NOVÁK, Judit TEMES",1952 Helsinki,Swimming,Women's,4x100m freestyle relay
+Summer,1952,Silver,NED,Netherlands,"Marie-Louise VAESSEN, Irma SCHUHMACHER, Johanna Maria TERMEULEN, Koosje VAN VOORN",1952 Helsinki,Swimming,Women's,4x100m freestyle relay
+Summer,1952,Bronze,USA,United States,"Marilee STEPAN, Jacqueline LAVINE, Joan ALDERSON, Evelyn KAWAMOTO",1952 Helsinki,Swimming,Women's,4x100m freestyle relay
+Summer,1952,Gold,HUN,Hungary,"Laszlo JENEI, Dezsö FABIAN, György VIZVARI, Károly SZITTYA, Antal BOLVÁRI, István SZIVÓS, Róbert ANTAL, Dezso GYARMATI, István HASZNOS, Dezsö LEMHÉNYI, Kalman MARKOVICS, György KÁRPÁTI, Miklós MARTIN",1952 Helsinki,Water Polo,Men's,water polo
+Summer,1952,Silver,YUG,Yugoslavia,"Lovro RADONJIC, Ivo ?TAKULA, Zdravko KOVACIC, Marko BRAINOVIC, Bo?ko VUKSANOVIC, Vladimir IVKOVIC, Zdravko JEZIC, Veljko BAKASUN, Ivo KURTINI",1952 Helsinki,Water Polo,Men's,water polo
+Summer,1952,Bronze,ITA,Italy,"Ermenegildo ARENA, Vincenzo POLITO, Salvatore GIONTA, Geminio OGNIO, Renato DE SANZUANE, Lucio CECCARINI, Renato TRAIOLA, Carlo PERETTI, Maurizio MANNELLI, Cesare RUBINI, Raffaello GAMBINO",1952 Helsinki,Water Polo,Men's,water polo
+Summer,1952,Gold,URS,USSR,Ivan UDODOV,1952 Helsinki,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1952,Silver,IRI,Iran,Mahmoud NAMDJOU,1952 Helsinki,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1952,Bronze,IRI,Iran,Ali MIRZAI,1952 Helsinki,Weightlifting,Men's,- 56kg (bantamweight)
+Summer,1952,Gold,URS,USSR,Rafael CHIMISHKYAN,1952 Helsinki,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1952,Silver,URS,USSR,Nikolai SAKSONOV,1952 Helsinki,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1952,Bronze,TTO,"Trinidad and Tobago, British",Rodney WILKES,1952 Helsinki,Weightlifting,Men's,56 - 60kg (featherweight)
+Summer,1952,Gold,USA,United States,Tommy KONO,1952 Helsinki,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1952,Silver,URS,USSR,Yevgeni LOPATIN,1952 Helsinki,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1952,Bronze,AUS,Australia,Verdi BARBERIS,1952 Helsinki,Weightlifting,Men's,60 - 67.5kg (lightweight)
+Summer,1952,Gold,USA,United States,Peter GEORGE,1952 Helsinki,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1952,Silver,CAN,Canada,Gérard GRATTON,1952 Helsinki,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1952,Bronze,KOR,Korea Republic,Sung-Jip KIM,1952 Helsinki,Weightlifting,Men's,67.5 - 75kg (middleweight)
+Summer,1952,Gold,URS,USSR,Trofim LOMAKIN,1952 Helsinki,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1952,Silver,USA,United States,Stanley STANCZYK,1952 Helsinki,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1952,Bronze,URS,USSR,Arkady Nikitich VOROBIEV,1952 Helsinki,Weightlifting,Men's,75 - 82.5kg (light-heavyweight)
+Summer,1952,Gold,USA,United States,Norbert SCHEMANSKY,1952 Helsinki,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1952,Silver,URS,USSR,Grigori NOVAK,1952 Helsinki,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1952,Bronze,TTO,"Trinidad and Tobago, British",Lennox KILGOUR,1952 Helsinki,Weightlifting,Men's,82.5 - 90kg (middle-heavyweight)
+Summer,1952,Gold,USA,United States,John DAVIS,1952 Helsinki,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1952,Silver,USA,United States,James BRADFORD,1952 Helsinki,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1952,Bronze,ARG,Argentina,Humberto SELVETTI,1952 Helsinki,Weightlifting,Men's,+ 90kg (heavyweight)
+Summer,1952,Gold,TUR,Turkey,Hasan GEMICI,1952 Helsinki,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1952,Silver,JPN,Japan,Yushu KITANO,1952 Helsinki,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1952,Bronze,IRI,Iran,Mahmoud MOLLAGHASSEMI,1952 Helsinki,Wrestling Freestyle,Men's,- 52kg (flyweight)
+Summer,1952,Gold,JPN,Japan,Shohachi ISHII,1952 Helsinki,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1952,Silver,URS,USSR,Rashid MAMEDBEKOV,1952 Helsinki,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1952,Bronze,IND,India,Khashaba Digvijai JHADAV,1952 Helsinki,Wrestling Freestyle,Men's,52 - 57kg (bantamweight)
+Summer,1952,Gold,TUR,Turkey,Bayram SIT,1952 Helsinki,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1952,Silver,IRI,Iran,Nasser GUIVEGTCHI,1952 Helsinki,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1952,Bronze,USA,United States,Josiah HENSON,1952 Helsinki,Wrestling Freestyle,Men's,57 - 63kg (featherweight)
+Summer,1952,Gold,SWE,Sweden,Olle ANDERBERG,1952 Helsinki,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1952,Silver,USA,United States,Jay Thomas EVANS,1952 Helsinki,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1952,Bronze,IRI,Iran,Djahanbakte TOVFIGHE,1952 Helsinki,Wrestling Freestyle,Men's,63 - 67kg (lightweight)
+Summer,1952,Gold,USA,United States,William Thomas SMITH,1952 Helsinki,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1952,Silver,SWE,Sweden,Per BERLIN,1952 Helsinki,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1952,Bronze,IRI,Iran,Abdollah MODJTABAVI,1952 Helsinki,Wrestling Freestyle,Men's,67 - 73kg (welterweight)
+Summer,1952,Gold,URS,USSR,David TSIMAKURIDZE,1952 Helsinki,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1952,Silver,IRI,Iran,Gholam Reza TAKHTI,1952 Helsinki,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1952,Bronze,HUN,Hungary,György GURICS,1952 Helsinki,Wrestling Freestyle,Men's,73 - 79kg (middleweight)
+Summer,1952,Gold,SWE,Sweden,Viking PALM,1952 Helsinki,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1952,Silver,USA,United States,Henry WITTENBERG,1952 Helsinki,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1952,Bronze,TUR,Turkey,Adil ATAN,1952 Helsinki,Wrestling Freestyle,Men's,79 - 87kg (light-heavyweight)
+Summer,1952,Gold,URS,USSR,Arsen MEKOKISHVILI,1952 Helsinki,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1952,Silver,SWE,Sweden,Bertil ANTONSSON,1952 Helsinki,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1952,Bronze,GBR,Great Britain,Kenneth RICHMOND,1952 Helsinki,Wrestling Freestyle,Men's,+ 87kg (heavyweight)
+Summer,1952,Gold,URS,USSR,Boris GUREVICH,1952 Helsinki,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1952,Silver,ITA,Italy,Ignazio FABRA,1952 Helsinki,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1952,Bronze,FIN,Finland,Leo Ilmo HONKALA,1952 Helsinki,Wrestling Greco-Roman,Men's,- 52kg (flyweight)
+Summer,1952,Gold,HUN,Hungary,Imre HÓDOS,1952 Helsinki,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1952,Silver,LBN,Lebanon,Zakaria CHIHAB,1952 Helsinki,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1952,Bronze,URS,USSR,Artem TERYAN,1952 Helsinki,Wrestling Greco-Roman,Men's,52 - 57kg (bantamweight)
+Summer,1952,Gold,URS,USSR,Yakov PUNKIN,1952 Helsinki,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1952,Silver,HUN,Hungary,Imre POLYÁK,1952 Helsinki,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1952,Bronze,EGY,Egypt,Abdel Ahmed RASHED,1952 Helsinki,Wrestling Greco-Roman,Men's,57 - 61kg (featherweight)
+Summer,1952,Gold,URS,USSR,Shazam SAFIN,1952 Helsinki,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1952,Silver,SWE,Sweden,Gustav FREIJ,1952 Helsinki,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1952,Bronze,TCH,Czechoslovakia,Mikulas ATANASOV,1952 Helsinki,Wrestling Greco-Roman,Men's,61 - 67kg (lightweight)
+Summer,1952,Gold,HUN,Hungary,Miklós SZILVÁSY,1952 Helsinki,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1952,Silver,SWE,Sweden,Gösta ANDERSSON,1952 Helsinki,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1952,Bronze,LBN,Lebanon,Khalil TAHA,1952 Helsinki,Wrestling Greco-Roman,Men's,67 - 73kg (welterweight)
+Summer,1952,Gold,SWE,Sweden,Axel GRÖNBERG,1952 Helsinki,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1952,Silver,FIN,Finland,Kalervo RAUHALA,1952 Helsinki,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1952,Bronze,URS,USSR,Nikolai BELOV,1952 Helsinki,Wrestling Greco-Roman,Men's,73 - 79kg (middleweight)
+Summer,1952,Gold,FIN,Finland,Kelpo Olavi GRÖNDAHL,1952 Helsinki,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1952,Silver,URS,USSR,Shalva CHIKHLADZE,1952 Helsinki,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1952,Bronze,SWE,Sweden,Karl-Erik NILSSON,1952 Helsinki,Wrestling Greco-Roman,Men's,79 - 87kg (light-heavyweight)
+Summer,1952,Gold,URS,USSR,Johannes KOTKAS,1952 Helsinki,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1952,Silver,TCH,Czechoslovakia,Josef RUZICKA,1952 Helsinki,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
+Summer,1952,Bronze,FIN,Finland,Tauno Into KOVANEN,1952 Helsinki,Wrestling Greco-Roman,Men's,+ 87kg (super heavyweight)
